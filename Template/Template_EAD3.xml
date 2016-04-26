@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="http://ead3.archivists.org/schema/" audience="external"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/HeardLibrary/finding-aids/blob/master/Schema/ead3.xsd  https://raw.githubusercontent.com/HeardLibrary/finding-aids/master/Schema/ead3.xsd">
+    <control>
+        <!--Insert Discover Archive URL if one exists (otherwise do not include URL in attribute). A unique ID value must be included in the body of the tag. Should begin with code for home library (e.g. VUSC for Special Collections; VUL for Law). Code should be followed by Collection # -->
+        <recordid instanceurl="">[Insert Collection ID (e.g. VUSC-MSS058)]</recordid>
+        <filedesc>
+            <titlestmt>
+                <!-- Do not include definite or indefinite articles at front of titles (e.g. "the") -->
+                <titleproper>[Insert Title]</titleproper>
+                <author encodinganalog="contributor">Finding aid created by [Insert Name]</author>
+            </titlestmt>
+            <publicationstmt>
+                <!-- All libraries creating EAD should refer to publishing agent generally as "Vanderbilt University Libraries" -->
+                <publisher>Vanderbilt University Libraries</publisher>
+                <date>2007</date>
+                <address>
+                    <addressline>419 21st Ave. S.</addressline>
+                    <addressline>Nashville, TN 37203</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <maintenancestatus value="new"/>
+        <maintenanceagency countrycode="US">
+            <agencycode>TNJ</agencycode>
+            <agencyname>Vanderbilt University Libraries</agencyname>
+        </maintenanceagency>
+        <conventiondeclaration>
+            <citation>Describing Archives: a Content Standard (DACS), version 2.0</citation>
+        </conventiondeclaration>
+        <maintenancehistory>
+            <maintenanceevent>
+                <eventtype value="created"/>
+                <!-- Add a "standarddatetime" attribute. Enter in date following "YYYY-MM-DD" format -->
+                <eventdatetime>[Month, Year]</eventdatetime>
+                <!-- Add a "value" attribute. Add in one of 3 legal terms: human, machine, or other-->
+                <agenttype value="human"/>
+                <agent>[Insert Person or Group Name responsible for EAD encoding]</agent>
+                <eventdescription>Created EAD3 from original (nondigital) finding
+                    aid</eventdescription>
+            </maintenanceevent>
+        </maintenancehistory>
+    </control>
+    <archdesc level="collection">
+        <did>
+            <repository>
+                <!-- If holder of collection is not VUSC, change info below as needed: -->
+                <corpname source="NAF" identifier="https://lccn.loc.gov/no2012143148">
+                    <part>Jean and Alexander Heard Library</part>
+                    <part>Special Collections and University Archives</part>
+                </corpname>
+                <address>
+                    <addressline>419 21st Ave S.</addressline>
+                    <addressline>Nashville, TN 37203</addressline>
+                </address>
+            </repository>
+            <origination>
+                <!-- Repeat originating person(s) or body(ies) as necessary-->
+                <!-- If an authority record exists for a creator, insert name in the correct order according to that record and include NAF URI in attribute "identifier" -->
+                <persname identifier="">
+                    <part>[Insert a name of an individual(s) or body who created the collection]</part>
+                </persname>
+            </origination>
+            <!-- Do not include definite or indefinite articles at front of titles -->
+            <!-- Documented decision to not use label attribute - we will create those in a mapping to HTML at later date -->
+            <unittitle>[Insert Title of Collection. Should match titleproper element</unittitle>
+            <unitdatestructured unitdatetype="inclusive">
+                <daterange>
+                    <fromdate standarddate="YYYY">[YYYY]</fromdate>
+                    <todate standarddate="YYYY">[YYYY</todate>
+                </daterange>
+            </unitdatestructured>
+            <unitdatestructured unitdatetype="bulk">
+                <daterange>
+                    <fromdate standarddate="YYYY">YYYY</fromdate>
+                    <todate standarddate="YYYY">YYYY</todate>
+                </daterange>
+            </unitdatestructured>
+            <physdescset>
+                <!-- # of boxes -->
+                <physdescstructured physdescstructuredtype="carrier" coverage="whole">
+                    <quantity>[Include # of boxes in Arabic numerals]</quantity>
+                    <unittype>boxes</unittype>
+                </physdescstructured>
+                <!-- shelf space used by boxes (use Beinecke Library Linear Foot Calculator) -->
+                <physdescstructured physdescstructuredtype="spaceoccupied" coverage="whole">
+                    <quantity>[Insert linear feet in Arabic numerals (decimals allowed)]</quantity>
+                    <unittype>linear feet</unittype>
+                </physdescstructured>
+            </physdescset>
+            <abstract>[Include 1-2 sentence abstract/summary of collection as a whole. A larger biographical note/sketch will follow later in EAD]</abstract>
+            <langmaterial>
+                <languageset>
+                    <!-- Repeat however many times necessary to list all the languages present in the collection -->
+                    <language>[Name of Language in English]</language>
+                    <!-- script means the designation of the alphabet. Repeat as necessary to match language element(s) above -->
+                    <script>[Name of script that language is written in (e.g. Latin, Cyrillic)]</script>
+                    <!-- If more than one language, include note about bulk materials and their language if possible -->
+                    <descriptivenote>
+                        <p>Collection materials are primarily in [Insert language(s) represented by bulk of materials]. Some items in [insert language of ancillary materials].</p>
+                    </descriptivenote>
+                </languageset>
+            </langmaterial>
+        </did>
+        <accessrestrict>
+            <head>Access and Use</head>
+            <!-- This section will change based on collection at hand-->
+            <p>Collection is open for researchers with no restrictions. Items in this collection do
+                not circulate and may be used in-house only.</p>
+        </accessrestrict>
+        <userestrict>
+            <head>Copyright</head>
+            <p>Individuals requesting reproductions expressly assume the responsibility for
+                compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et
+                seq. Patrons further agree to indemnify and hold harmless the Vanderbilt Special
+                Collections and University Archives and its staff in connection with any disputes
+                arising from the Copyright Act, over the reproduction of material at the request of
+                patrons. For more information please visit the following website:
+                http://www.loc.gov/copyright/title17/.</p>
+        </userestrict>
+        <prefercite>
+            <head>Preferred citation</head>
+            <p>[Insert title of collection, from titleproper element], Vanderbilt University Special Collections</p>
+        </prefercite>
+        <acqinfo>
+            <!-- Check donor file in Special Collections -->
+            <head>Source of acquisition</head>
+            <p>[Insert data here]</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing Information</head>
+            <p>Collection processed by [Insert name]</p>
+        </processinfo>
+        <arrangement>
+            <head>Arrangement</head>
+            <p>The collection is arranged into [insert # here] series</p>
+            <!-- Include all high level series names in list below. Amend XML to add more/less <item> elements as needed. -->
+            <list>
+                <item>[Series name]</item>
+                <item>[Series name]</item>
+                <item>[Series name]</item>
+            </list>
+        </arrangement>
+        <scopecontent>
+            <head>Scope and Content</head>
+            <p>Collection is [# of linear feet] ... of materials relating to [names of main persons/bodies in collection]. It
+                includes [types of materials].</p>
+        </scopecontent>
+        <bioghist>
+            <head>Biographical Sketch</head>
+            <p>[Insert full biographical sketch]</p>
+        </bioghist>
+        <controlaccess>
+            <head>Indexing Terms</head>
+            <p>This collection is indexed under the following headings in the catalog of the
+                Vanderbilt University Libraries. Researchers interested in materials about related
+                topics should consult the catalog using these headings.</p>
+            <!-- Include terms according to archivist judgment - where possible, include URIs to authorized records in the "identifier" attributes -->
+            <persname source="lcnaf" identifier="">
+                <part>[Insert name in authorized form]</part>
+            </persname>
+            <subject source="lcsh" identifier="">
+                <part>[Insert term in authorized form]</part>
+            </subject>
+            <genreform source="" identifier="">
+                <part>[Insert term in authorized form]</part>
+            </genreform>
+            <geogname source="" identifier="">
+                <part>[Insert place name in authorized form]</part>
+            </geogname>
+        </controlaccess>
+        <dsc>
+            <head>Detailed Contents</head>
+            <p>The following section contains a detailed list of the materials in the
+                collection.</p>
+            <c01 level="series">
+                <did>
+                    <unitid>Series 1</unitid>
+                    <unittitle>[Name of Series 1]</unittitle>
+                    <unitdatestructured unitdatetype="inclusive">
+                        <daterange>
+                            <fromdate standarddate="YYYY">YYYY</fromdate>
+                            <todate standarddate="YYYY">YYYY</todate>
+                        </daterange>
+                    </unitdatestructured>
+                </did>
+                <scopecontent>
+                    <p/>
+                </scopecontent>
+                <!-- May need to drill down to deeper levels than c02, depending on collection size. c02 may be come "subseries" instead of folder, if more hierarchy is needed. Please adjust accordingly -->
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">[Box(es) subseries is located in]</container>
+                        <!-- If the subseries is in a single box, also list folder #'s for it. Otherwise do not include folder #'s below -->
+                        <container localtype="folder">[Folder #'s]</container>
+                        <unittitle>[Title of Subseries]</unittitle>
+                        <!-- Include subseries specific date if known or helpful. Otherwise do not include -->
+                        <unitdate unitdatetype="inclusive" normal="YYYY-YYYY">YYYY-YYYY</unitdate>
+                    </did>
+                    <!-- If a large collection, may be useful to describe the scope note specific to the subseries. Use archivists' judgment to decide-->
+                    <scopecontent>
+                        <p/>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid>Series 2</unitid>
+                    <unittitle>[Name of Series 2]</unittitle>
+                    <!-- Include dates if provided -->
+                    <unitdatestructured unitdatetype="inclusive">
+                        <daterange>
+                            <fromdate/>
+                            <todate/>
+                        </daterange>
+                    </unitdatestructured>
+                </did>
+                <!-- Did not think series warranted a specific scope note - not a large enough series (or collection). Perhaps this should be added only according to archivist judgment? -->
+                <scopecontent>
+                    <p/>
+                </scopecontent>
+                <c02 level="file">
+                    <did>
+                        <unittitle>[Folder name/title]</unittitle>
+                        <container localtype="folder">[Folder #]</container>
+                        <!-- Include dates if known -->
+                        <unitdate unitdatetype="inclusive" normal="YYYY-YYYY">YYYY-YYYY</unitdate>
+                    </did>
+                    <!-- If multiple items are in the same folder, list them out using the <list> element and its subelements -->
+                    <fileplan>
+                        <list>
+                            <defitem>
+                                <label>Item 1:</label>
+                                <item>[Item Title]</item>
+                            </defitem>
+                            <defitem>
+                                <label>Item 2:</label>
+                                <item>[Item Title]</item>
+                            </defitem>
+                            <defitem>
+                                <label>Item 3:</label>
+                                <item>[Item Title]</item>
+                            </defitem>
+                        </list>
+                    </fileplan>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
