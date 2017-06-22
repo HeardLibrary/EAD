@@ -6,9 +6,7 @@
       <titlestmt>
         <!-- Please format the title from the print finding aid like this one below -->
         <titleproper type="filing">Davie2, Donald Papers - Faculty</titleproper>
-        <titleproper>Finding Aid for the Donald Davie2 Papers
-          <num>MSS.0102</num>
-        </titleproper>
+        <titleproper>Finding Aid for the Donald Davie2 Papers</titleproper>
         <author>Beverly Lee</author>
       </titlestmt>
       <publicationstmt>
@@ -78,6 +76,14 @@
           <did>
             <unittitle>Poems and Translations</unittitle>
           </did>
+          <c03 audience="internal" id="aspace_b21ed701d8c387e2d87e9fa73347c9ea" level="file">
+            <did>
+              <unittitle>International Week Literary Symposium</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_568f8d6d7e66ccb38ef596413e458b9a" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_cc6ce455ee9a8ff85cbe412fc2c91389" parent="aspace_568f8d6d7e66ccb38ef596413e458b9a" type="folder">1</container>
+            </did>
+          </c03>
           <c03 id="aspace_ddf84afe2a96eed7538fb1cc0cbe8807" level="file">
             <did>
               <unittitle>Across the Bay (2)</unittitle>
