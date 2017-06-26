@@ -4,16 +4,20 @@
     <eadid countrycode="US"></eadid>
     <filedesc>
       <titlestmt>
-        <!-- Please format the title from the print finding aid like this one below -->
+        <!-- The filing title is the one listed on the Manuscripts register, typically last name, first name. Note the 'faculty' designation. -->
         <titleproper type="filing">Davie2, Donald Papers - Faculty</titleproper>
+        <!-- This is the proper finding aid title found at the beginning at the finding aid. Note that the filing title is different than the titleproper field. -->
         <titleproper>Finding Aid for the Donald Davie2 Papers</titleproper>
+        <!-- The authors are singular or plural, and usually listed on every finding aid -->
         <author>Beverly Lee</author>
       </titlestmt>
       <publicationstmt>
         <publisher>Special Collections Manuscripts and Rare Books</publisher>
         <p>
+          <!-- The date the finding aid was published and/or completed -->
           <date>1999</date>
         </p>
+        <!-- This is should all be the same in every finding aid. -->
         <address>
           <addressline>419 21st Avenue South</addressline>
           <addressline>Nashville, TN 37203-2427</addressline>
