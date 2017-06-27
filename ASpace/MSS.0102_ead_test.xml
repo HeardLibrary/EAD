@@ -8,16 +8,17 @@
         <titleproper type="filing">Davie2, Donald Papers - Faculty</titleproper>
         <!-- This is the proper finding aid title found at the beginning at the finding aid. Note that the filing title is different than the titleproper field. -->
         <titleproper>Finding Aid for the Donald Davie2 Papers</titleproper>
-        <!-- The authors are singular or plural, and usually listed on every finding aid -->
+        <!-- The author of the finding aid. The authors are singular or plural, and usually listed on every finding aid -->
         <author>Beverly Lee</author>
       </titlestmt>
       <publicationstmt>
+        <!-- Always the same -->
         <publisher>Special Collections Manuscripts and Rare Books</publisher>
         <p>
           <!-- The date the finding aid was published and/or completed -->
           <date>1999</date>
         </p>
-        <!-- This is should all be the same in every finding aid. -->
+        <!-- Always the same -->
         <address>
           <addressline>419 21st Avenue South</addressline>
           <addressline>Nashville, TN 37203-2427</addressline>
@@ -28,45 +29,102 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
+      <!-- Do not include <creation> info -->
       <creation>This finding aid was produced using ArchivesSpace on
         <date>2017-05-16 16:24:38 -0500</date>.</creation>
+        <!-- Always the same -->
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
   <archdesc level="collection">
     <did>
+      <!-- Always the same -->
       <langmaterial>
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
+        <!-- Always the same -->
         <corpname>Special Collections Manuscripts and Rare Books</corpname>
       </repository>
+      <!-- The short name for the collection, usually 'firstname lastname papers/collection'. -->
       <unittitle>Donald Davie2 Papers</unittitle>
+      <!-- The manuscript number of the collection, always in the format 'MSS.number'. The number must be 4 digits. -->
       <unitid>MSS.0102</unitid>
+      <!-- If the extent of the collection is listed, include it here. The "materialtype spaceoccupied" field will be there more often than the "carrier" field.-->
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">3.26 Linear Feet</extent>
         <extent altrender="carrier">8 Hollinger boxes</extent>
       </physdesc>
+      <!-- Dates should be done in the format below. If the collection has multiple dates (as almost all do), the 'normal' format is 'begindate/enddate'. The 'normal' field is most important and should be in all finding aids. The type can be either 'inclusive' or 'bulk'. If there is only a single date, the type field is not needed. Whatever is between the <unitdate>information here</unitdate> field will be the displayed value, and is not always necessary.-->
       <unitdate normal="1942/1995" type="inclusive">1942-1995</unitdate>
     </did>
     <scopecontent id="aspace_2464f99a44d613fbf2ae471f16e87659">
+      <!-- Scope and Contents notes are the general collection description notes for every finding aid. The best ones will have a full series listing, dates, description, and subseries listing. A good example is below. In other finding aids, this information might be in poor shape and only briefly describe the collection. If unsure where to put information, it is usually best to simply put it in the scope and contents note.-->
       <head>Scope and Contents</head>
-      <p>The papers of author, educator, poet, and critic Donald Davie consist of his writings, published and unpublished, printed and in draft form, both manuscripts and typescripts, literary correspondence, personal and biographical data, materials
-        pertaining to his academic career and other professional activities, works of his associates and colleagues, and writings by other twentieth century poets and authors, some of them Davie’s students. The earliest materials are letters Davie wrote as a
-        young man in the Royal Navy in 1942 and the latest are his obituaries written in 1995. The papers consist of these series: I. Writings II. Correspondence (Literary) III. Personal and Biographical Data IV. Academic Career V. Professional Activities
-        VI. Associates and Colleagues VII. Writings by Others The series Writing includes some printed material, but the majority of this series is in manuscript or typescript. An oversized box contains a handcrafted book of poems by Davie and photographs by
-        his wife, Doreen Davie. These materials date from 1947 until 1988. The subseries are: Poems and Translations Essays and Articles Reviews Lectures (Not class lectures) Book Manuscripts Bibliographies Tables of Contents and Book Plans Notebook The
-        series Correspondence (Literary) consists of incoming and outgoing correspondence. It is arranged alphabetically by the correspondent’s last name. These letters range in date from 1958 until 1989. The series Personal and Biographical Data consists of
-        a handwritten account of his wartime experiences in Russia, personal correspondence of that era, and his obituaries. These materials range in date from 1942 until 1995. The subseries are: Autobiography Personal Correspondence Obituaries The series
-        Academic Career consists of press clippings, materials relating to his university career in Britain, and his lecture notes, arranged by subject, in typescript and manuscript. Most of the lecture notes appear to date from his seven years at Trinity
-        College Dublin. The items in this series range in date from 1951 until 1988. The subseries are: Clippings Correspondence and Memoranda Lecture notes The series Professional Activities consists of audiocassettes and reel-to-reel tapes recorded by
-        Davie and materials from the journal PNR during the time Davie was editor. The materials date from 1972 until? The subseries are: Recorded Readings PNR Materials---Editing The series Associates and Colleagues consists of manuscripts and printed
-        materials by Howard Warshaw and Peter Whigham, both colleagues of Davie at Stanford, whose works he supported and promoted. The materials in this series date from 1969 until 1983. The subseries are: Warshaw, Howard Whigham, Peter The series Writings
-        by Others consists of critiques of Davie’s work and influence, proof copies Davie received to review, poetry of Davie’s students, and off-prints and books written by twentieth century poets and academics on the subject of poets and poetry. These
-        materials range in date from 1922 until 1987. The materials dated in the 1920s are Xeroxed copies of material by Ivor Gurney (d. 1937), but they were copied for Davie in 1988. The subseries are: About Donald Davie Proof Copies Received for Review
-        Student Poetry Twentieth Century Poets and Authors</p>
+      <!-- Every paragraph from the finding aid will need a separate <p></p> tag around it. This tells the system to publish the information in separate blocks. -->
+      <p>The papers of author, educator, poet, and critic Donald Davie consist of his writings, published and unpublished, printed and in draft form, both manuscripts and typescripts, literary correspondence, personal and biographical data, materials pertaining to his academic career and other professional activities, works of his associates and colleagues, and writings by other twentieth century poets and authors, some of them Davie’s students. The earliest materials are letters Davie wrote as a young man in the Royal Navy in 1942 and the latest are his obituaries written in 1995.</p>
+      <p>The papers consist of these series:
+        <!-- lists should be formated like this. The type="ordered" will cause each new item to be automatically numbered. The numeration="upperroman" will make the numbers uppercase Roman numerals. Series should be given the "upperroman" numeration. -->
+        <list type="ordered" numeration="upperroman">
+          <item>Writings</item>
+          <item>Correspondence (Literary)</item>
+          <item>Personal and Biographical Data</item>
+          <item>Academic Career</item>
+          <item>Professional Activities</item>
+          <item>Associates and Colleagues</item>
+          <item>Writings by Others</item>
+        </list>
+      </p>
+      <p>The series Writing includes some printed material, but the majority of this series is in manuscript or typescript. An oversized box contains a handcrafted book of poems by Davie and photographs by his wife, Doreen Davie. These materials date from 1947 until 1988. The subseries are:
+        <!-- Subseries should be given the lowerroman numeration. -->
+        <list type="ordered" numeration="lowerroman">
+          <item>Poems and Translations</item>
+          <item>Essays and Articles</item>
+          <item>Reviews Lectures (Not class lectures)</item>
+          <item>Book Manuscripts</item>
+          <item>Bibliographies</item>
+          <item>Tables of Contents and Book Plans</item>
+          <item>Notebook</item>
+        </list>
+      </p>
+      <p>The series Correspondence (Literary) consists of incoming and outgoing correspondence. It is arranged alphabetically by the correspondent’s last name. These letters range in date from 1958 until 1989.</p>
+      <p>The series Personal and Biographical Data consists of a handwritten account of his wartime experiences in Russia, personal correspondence of that era, and his obituaries. These materials range in date from 1942 until 1995. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Autobiography</item>
+          <item>Personal Correspondence</item>
+          <item>Obituaries</item>
+        </list>
+      </p>
+      <p>The series Academic Career consists of press clippings, materials relating to his university career in Britain, and his lecture notes, arranged by subject, in typescript and manuscript. Most of the lecture notes appear to date from his seven years at Trinity College Dublin. The items in this series range in date from 1951 until 1988. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Clippings</item>
+          <item>Correspondence and Memoranda</item>
+          <item>Lecture Notes</item>
+        </list>
+      </p>
+      <p>The series Professional Activities consists of audiocassettes and reel-to-reel tapes recorded by Davie and materials from the journal PNR during the time Davie was editor. The materials date from 1972 until? The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Recorded Readings</item>
+          <item>PNR Materials---Editing</item>
+        </list>
+      </p>
+      <p>The series Associates and Colleagues consists of manuscripts and printed materials by Howard Warshaw and Peter Whigham, both colleagues of Davie at Stanford, whose works he supported and promoted. The materials in this series date from 1969 until 1983. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Warshaw, Howard</item>
+          <item>Whigham, Peter</item>
+        </list>
+      </p>
+      <p>The series Writings by Others consists of critiques of Davie’s work and influence, proof copies Davie received to review, poetry of Davie’s students, and off-prints and books written by twentieth century poets and academics on the subject of poets and poetry. These materials range in date from 1922 until 1987. The materials dated in the 1920s are Xeroxed copies of material by Ivor Gurney (d. 1937), but they were copied for Davie in 1988. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>About Donald Davie</item>
+          <item>Proof Copies Received for Review</item>
+          <item>Student Poetry</item>
+          <item>Twentieth Century Poets and Authors</item>
+        </list>
+      </p>
     </scopecontent>
     <userestrict id="aspace_62a8036b64015cf7418c6a816a804fad">
+      <!-- If there's every any language indicating restrictions to the materials or statements about "rights", that information should go in the Conditions Governing Use tag. Note that a <p> tag is still required for the material. -->
       <head>Conditions Governing Use</head>
       <p>The Donald Davie Papers were purchased from his estate, and literary rights remain the property of his heirs. Please consult the Head of Special Collections for permission to quote or publish any part of this collection.</p>
     </userestrict>
