@@ -129,9 +129,11 @@
       <p>The Donald Davie Papers were purchased from his estate, and literary rights remain the property of his heirs. Please consult the Head of Special Collections for permission to quote or publish any part of this collection.</p>
     </userestrict>
     <dsc>
+      <!-- <c01> is series level, 02 is subseries level, 03 is folder level, 04 is item level if required -->
       <c01 id="aspace_813575a28eb606497666e2495ef58eac" level="series">
         <did>
           <unittitle>Writings</unittitle>
+          <!-- This is the range of dates for the entire series -->
           <unitdate normal="1947/1988" type="inclusive">1947-1988</unitdate>
         </did>
         <c02 id="aspace_006734fbabac911ccd8375dabbd13934" level="subseries">
@@ -145,14 +147,14 @@
               <!-- Entering the date in the format below will create the proper format for a single date in ArchivesSpace (i.e., the date type will be listed as "single", there will only be one beginning date field instead of two as in inclusive, and the expression field will be left blank). The date listed in the normal section will automatically be added to the end of the item's name. Other types of dates can be seen in components further down-->
               <unitdate normal="1986"></unitdate>
               <container id="mss.102_b1_f1_i1_1" label="Mixed Materials" type="box">1</container>
-              <!-- Folder id's will need to be different than their parent box id's, but be sure to link the folder to the proper parent. Might be worth investigating whether multiple records can use the same container id's and be linked together.-->
+              <!-- Folder id's will need to be different than their parent box id's, but be sure to link the folder to the proper parent. Might be worth investigating whether multiple records can use the same container id's and be linked together. (update) After investigating, the container label is all that matters, not the id from what I can tell.-->
               <container id="mss.102_b1_f1_i1_2" parent="mss.102_b1_f1_i1_1" type="folder">1</container>
             </did>
           </c03>
           <c03 id="aspace_ddf84afe2a96eed7538fb1cc0cbe8807" level="file">
             <did>
               <unittitle>Across the Bay (2)</unittitle>
-              <!-- Test of container id is below. replace with previous text if it doesn't work. -->
+              <!-- If items don't have a date, there's no need to put the field at all. -->
               <container id="mss.102_b1_f1_i1_1" label="Mixed Materials" type="box">1</container>
               <container id="aspace_21df8576fe70facf3dc0549c7e9ac134" parent="mss.102_b1_f1_i1_1" type="folder">1</container>
             </did>
