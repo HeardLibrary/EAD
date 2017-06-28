@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead SYSTEM "file:///G:/MUSIC/Special%20Collections-Music/EAD/EAD2002/ead.dtd">
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166" dateencoding="iso8601">
+    <eadid countrycode="us" encodinganalog="identifier">mss-mus-4-john-cage-memorial-concert.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Finding aid for the Blair School of Music John Cage Centennial Celebration Materials</titleproper>
+        <titleproper type="filing" altrender="nodisplay">Cage, John (Centennial Celebration, Blair School of Music)</titleproper>
+        <author encodinganalog="creator">Arranged and described by Jacob Schaub, November 2012-April 2013</author>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by Jacob Schaub<date normal="06-2017">June 2017</date></creation>
+      <langusage>Finding aid written in<language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage>
+      <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+      </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did>
+      <repository>
+        <corpname encodinganalog="852$a">Vanderbilt University<subarea encodinganalog="852$b">Anne Potter Wilson Music Library</subarea>
+        </corpname>
+        <address>
+          <addressline>Anne Potter Wilson Music Library</addressline>
+          <addressline>Blair School of Music</addressline>
+          <addressline>Vanderbilt University</addressline>
+          <addressline>2400 Blakemore Ave</addressline>
+          <addressline>Nashville, TN 37212</addressline>
+          <addressline>(615)322-7695</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099$a" countrycode="us">Vanderbilt University MSS MUS-4</unitid>
+      <origination>
+        <persname encodinganalog="100$a" role="compiler">Holland, Michael</persname>
+      </origination>
+      <unittitle encodinganalog="245$a">Blair School of Music John Cage Centennial Celebration Materials</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1936/2012">1936-2012</unitdate>
+      <unitdate type="bulk" encodinganalog="245$f" normal="2012">2012</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">3 folders</extent>
+      </physdesc>
+      <abstract>The John Cage Centennial Celebration was held at the Blair School of Music at Vanderbilt University from March 29-April 1, 2012. Most materials in this collection pertain to the concert itself, performed by the Vortex Percussion Ensemble, the Merce Cunningham Dance Company, and Company Rose, including press previews and reviews, promotional materials, and videorecordings. Of additional interest are copies of motion pictures documenting the work of dancer Marian Van Tuyl and related resources that were referenced as part of this event.</abstract>
+      <physloc>Anne Potter Wilson Music Library Vault</physloc>
+      <langmaterial>
+        <language encodinganalog="546$a" langcode="EN"></language>
+      </langmaterial>
+    </did>
+    <custodhist encodinganalog="561$a">
+      <p>This collection was donated to the Anne Potter Wilson Music Library by Blair School of Music faculty member Michael Holland in <date normal="2012">2012</date>.</p>
+    </custodhist>
+    <controlaccess encodinganalog="506$a">
+      <p>The collection is open for research use. Materials can be accessed on-site only.</p>
+    </controlaccess>
+    <controlaccess encodinganalog="506$a">
+      <p>Copyright and use restrictions apply to some materials. Materials may neither be duplicated physically nor electronically nor leave the Wilson Music Library under any circumstances as per agreements with the Cunningham Trust.</p>
+      </controlaccess>
+    <arrangement encodinganalog="351$a">
+      <p>This small collection consists of publicity, promotional materials, reviews, programs, recordings, and other background information regarding the John Cage Centennial Celebration held in Ingram Hall at the Blair School of Music at Vanderbilt University on <date normal="2012-04-01">April 1, 2012</date>. The collection also includes copies of videorecordings and related documentation related to the work of dancer Marian Van Tuyl. The overall arrangement is as follows:</p>
+      <list>
+         <item>Folder 1A: John Cage Centennial Celebration items</item>
+        <item>Folder 1B: John Cage Centennial Celebration items--Oversize (held in Vault Oversize box)</item>
+	      <item>Folder 2: Marian Van Tuyl items</item>
+      </list>
+    </arrangement>
+    <relatedmaterial encodinganalog="544$a">
+      <p>Additional items relevant to this concert can be found within the Blair Performance Archive at the Wilson Music Library. These include recordings of the panel discussion on <date normal="2012-03-29">March 29, 2012</date>, the symposium earlier in the day on <date normal="2012-04-01">April 1, 2012</date>, and the house recording of the concert <date normal="2012-04-01">that same evening</date>.</p>
+    </relatedmaterial>
+    <controlaccess>
+        <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+        <persname normal="Cage, John" role="creator" source="lcnaf" encodinganalog="60010">Cage, John</persname>
+        <persname normal="Van Tuyl, Marian, 1906 or 1907-1987" role="creator" source="lcnaf" encodinganalog="60010">Van Tuyl, Marian, 1906 or 1907-1987</persname>
+        <persname normal="Cunningham, Merce" role="creator" source="lcnaf" encodinganalog="60010">Cunningham, Merce</persname>
+        <subject normal="Avant-garde (Music)" source="lcsh" encodinganalog="650_0">Avant-garde (Music)</subject>
+        <subject normal="Modern dance" source="lcsh" encodinganalog="650_0">Modern dance</subject>
+        <corpname normal="Blair School of Music" source="lcnaf" encodinganalog="6102_">Blair School of Music--Archives</corpname>
+        <corpname normal="Blair School of Music" source="lcnaf" encodinganalog="6102_">Blair School of Music--Performances</corpname>
+        <genreform normal="Filmed performances" source="lcgft" encodinganalog="655_7">Filmed performances</genreform>
+        <genreform normal="Filmed dance" source="lcgft" encodinganalog="655_7">Filmed dance</genreform>
+        <genreform normal="Aleatory music" source="lcgft" encodinganalog="655_7">Aleatory music</genreform>
+        <corpname normal="Vortex (Musical group : Blair School of Music)" role="performer" source="local" encodinganalog="7102_">Vortex (Musical group : Blair School of Music)</corpname>
+        <corpname normal="Merce Cunningham Dance Company" role="performer" source="lcnaf" encodinganalog="7102_">Merce Cunningham Dance Company</corpname>
+        <corpname normal="Company Rose" role="performer" source="local" encodinganalog="7102_">Company Rose</corpname>
+    </controlaccess>
+    <dsc>
+      <head>Item List</head>
+      <c01 level="series">
+        <did>
+          <container type="folder">1A</container>
+          <unittitle>John Cage Centennial Celebration items</unittitle>
+        </did>
+        <c02 level="subgrp">
+          <did>
+            <unittitle>[Black folder]</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>DVD-R of pre-concert courtyard and lobby <emph>Musicircus</emph> celebration at Ingram Hall (<date normal="2012-04-01">April 1, 2012</date>)</unittitle>
+              <physdesc>1 videodisc</physdesc>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle><emph>Vortex Celebrates John Cage</emph>: [Commercially recorded DVD-R of <date normal="2012-04-01">April 1, 2012</date> concert]</unittitle>
+              <physdesc>1 videodisc</physdesc>
+              <note><p>Note this is not the same recording as found in the Blair Performance Archive</p></note>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Postcard promoting the seminar on <date normal="2012-03-29">March 29, 2012</date></unittitle>
+              <physdesc>1 postcard</physdesc>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Postcard promoting the concert on <date normal="2012-04-01">April 1, 2012</date></unittitle>
+              <physdesc>1 postcard</physdesc>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle><date normal="2012-04-01">April 1</date> symposium program</unittitle>
+              <physdesc>1 event program</physdesc>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle><date normal="2012-04-01">April 1</date> concert program</unittitle>
+              <physdesc>1 event program</physdesc>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Merce Cunningham Dance Company Park Avenue Armory Events, <date normal="2011-12-29/2011-12-31">December 29-31, 2011</date></unittitle>
+              <physdesc>1 event program</physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Articles/reviews</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <unittitle>Pitcher, John, "Cage and Cunningham are in the Spotlight at Blair," <emph>Nashville Arts Magazine</emph>, <date normal="2012-03-29">March 29, 2012</date></unittitle>
+                <physdesc>1 printout from Internet</physdesc>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Johnston, Russell, "Cage Match," <emph>Nashville Scene</emph>, <date normal="2012-03-29/2012-04-04">March 29-April 4, 2012</date>, 38</unittitle>
+                <physdesc>1 color photocopy</physdesc>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>"In the Vortex with Cage and Cunningham," <emph>Blair Quarter Note</emph>, <date normal="2012">Spring 2012</date>, 16</unittitle>
+                <physdesc>1 color photocopy</physdesc>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Silverman, Jack, "Highlights from Blair School of Music’s John Cage Celebration," <emph>Nashville Scene</emph>, <date normal="2012-04-02">April 2, 2012</date></unittitle>
+                <physdesc>1 printout from Internet</physdesc>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Pitcher, John, "Blair Pulls out All the Stops, Rubber Ducks and Sea Shells for Memorable Cage Celebration," <emph>Nashville Arts</emph>, <date normal="2012-04">April 2012</date></unittitle>
+                <physdesc>1 printout from Internet</physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Letter from David Patterson to Michael Holland, <date normal="2012-04-03">April 3, 2012</date></unittitle>
+              <physdesc>1 letter</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subgrp">
+          <did>
+            <unittitle>Manila folder, containing back-up copies of David Patterson letter, programs, previews, and reviews</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+          <did>
+            <container type="folder">1B</container>
+            <unittitle>John Cage Centennial Celebration items--Oversize</unittitle>
+            <physloc>Held in Vault Oversize box</physloc>
+          </did>
+          <c02 level="item">
+            <did>
+              <unittitle>Concert poster (46 x 30.5 cm)</unittitle>
+            </did>
+          </c02>
+          <c02 level="subgrp">
+            <did>
+              <unittitle>Articles related to the Merce Cunningham Dance Company</unittitle>
+            </did>
+            <c03 level="item">
+              <did>
+                <unittitle>Macaulay, Alastair, "50 Years, 50 Minutes, One Creator: a Valediction," <emph>New York Times</emph>, <date normal="2011-12-31">December 31, 2011</date>, C1, C10</unittitle>
+                <physdesc>1 color photocopy</physdesc>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <unittitle>Guillermoprieto, Alma, "Merce Cunningham &amp; the Impossible," <emph>New York Review</emph>, <date normal="2012-02-09">February 9, 2012</date>, 28-29</unittitle>
+                <physdesc>1 photocopy</physdesc>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <unittitle>Macaulay, Alastair, "Hard to Grasp, but Harder to Say Farewell," <emph>New York Times</emph>, <date normal="2011-12-25">December 25, 2011</date>, 1, 24</unittitle>
+                <physdesc>1 photocopy</physdesc>
+              </did>
+            </c03>
+          </c02>
+      </c01>
+      <c01 level="series">
+        <head>Folder 2. Marian Van Tuyl items</head>
+        <did>
+          <container type="folder">2</container>
+          <unittitle>Marian Van Tuyl items</unittitle>
+        </did>
+        <c02 level="subgrp">
+          <did>
+            <unittitle>2-DVD-R set: Compilation of motion pictures documenting the works of the modern dancer/choreographer Marian Van Tuyl, chiefly those created at the University of Chicago and Mills College during the 1930s and 1940s. Choreography/costumes by Marian Van Tuyl except where otherwise noted. (Position times indicated in parentheses.)</unittitle>
+            <physdesc>2 videodiscs</physdesc>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>[DVD 1] (various b&amp;w or colored, silent)</unittitle>
+              <physdesc>1 videodisc</physdesc>
+            </did>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>In the Clearing #1</emph> (Van Tuyl / Gregory Tucker, <date normal="1936">1936</date>, University of Chicago</unittitle>
+                <note><p>B&amp;w with brief color footage at end; missing part of middle of dance; dancers: Marian Van Tuyl, Eleanor Lauer, Alice Davis, and Ruth Ann Heisey) (0:00)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>In the Clearing #2</emph> (Van Tuyl / Gregory Tucker, <date normal="1947">1947</date> reconstruction; Mills College</unittitle>
+                <note><p>In color; ending missing; danced by Marian Van Tuyl concert group) (4:24)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Chaconne (Fanfare)</emph> (Van Tuyl / Henry Cowell, <date normal="1939">1939</date>; Mills College</unittitle>
+                <note><p>In color; danced by Van Tuyl and concert group) (8:37)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Two Archaic Dances: Triumphant Figure and Epilogue to Victory</emph> (Van Tuyl / Esther Williamson, Jean Williams, <date normal="1936/1937">1936-1937</date>; University of Chicago</unittitle>
+                <note><p>In b&amp;w; danced by Van Tuyl (soloist) and trio) (12:50; 14:48)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>[Brief clip of Van Tuyl teaching <emph>Epilogue</emph>] (18:04)</unittitle>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Out of One Happening : Final Dance</emph> (Van Tuyl / Gregory Tucker, <date normal="1938">1938</date>; Mills College</unittitle>
+                <note><p>In color; ending missing; danced by Van Tuyl and concert group) (18:38)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Fads and Fancies In the Academy: A Gentle Satire on Progressive Education</emph> (Van Tuyl / John Cage, <date normal="1940">summer 1940</date>; Mills College</unittitle>
+                <note><p>B&amp;w and color; scenery/costumes: Chicago School of Design (New Bauhaus), directed by László Moholy-Nagy with György Kepes; danced by Van Tuyl and concert group) (22:39)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Cortège</emph> (Van Tuyl / Arthur Berger, <date normal="1942">1942</date>; Mills College</unittitle>
+                <note><p>In color; danced by Van Tuyl and concert group) (38:21)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Entertainment Piece</emph> (Van Tuyl / Arthur Berger, <date normal="1942/1943">1942-1943</date>; Mills College</unittitle>
+                <note><p>In color; danced by VanTuyl, Lauer, and Heisey) (41:36)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>In Time of Waiting: Entrance into Limbo, Transition Ritual, Immediate Destiny</emph> (Van Tuyl / Arnold Schoenberg, <date normal="1947">1947</date>; San Francisco</unittitle>
+                <note><p>Scenery by Claire Falkenstein; danced by members of the San Francisco Dance League) (48:31)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Apprehension 1938</emph> (Van Tuyl / Achron, <date normal="1937/1938">1937-1938</date>; University of Chicago</unittitle>
+                <note><p>In b&amp;w; danced by University of Chicago students) (57:48)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Directions: Flight, Indecision, Redirection</emph> (Van Tuyl / Nikolai Lopatnikoff, <date normal="1937">1937</date>; University of Chicago</unittitle>
+                <note><p>In b&amp;w with brief color footage at end; danced by Van Tuyl) (1:01:45)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Opening Dance (Van Tuyl</emph> / Lou Harrison, <date normal="1939">1939</date>; Mills College Greek Theater</unittitle>
+                <note><p>In b&amp;w; danced by Van Tuyl and concert group) (1:06:22)</p></note>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Uneasy Rapture</emph> (Van Tuyl / Lou Harrison, <date normal="1939">1939</date>; Mills College Greek Theater</unittitle>
+                <note><p>In color; ending missing; filmed by Imogen Cunningham; danced by Van Tuyl) (1:12:03)</p></note>
+              </did>
+            </c04>
+            <c04 level="subgrp">
+              <did>
+                <unittitle>[Demonstration films using student studies from Van Tuyl’s Rhythmic resources class at Mills College, <date normal="1956/1959">late 1950s</date></unittitle>
+                <note><p>danced by Mills College students; in color]</p></note>
+              </did>
+              <c05 level="otherlevel">
+                <did>
+                  <unittitle><emph>3 Durations in Stress of 5 in the Following Patterns: I.I.I/III../I..II/I.II./</emph> (1:15:50)</unittitle>
+                </did>
+              </c05>
+              <c05 level="otherlevel">
+                <did>
+                  <unittitle><emph>Antiphonal Study in Mixed Stress</emph> (1:16:55)</unittitle>
+                </did>
+              </c05>
+              <c05 level="otherlevel">
+                <did>
+                  <unittitle><emph>Round in 3 Voices Using Mixed Stress</emph> (1:18:31)</unittitle>
+                </did>
+              </c05>
+              <c05 level="otherlevel">
+                <did>
+                  <unittitle><emph>Solo with Ground Bass : 4 Durations in Stress of 3 </emph>(1:19:22)</unittitle>
+                </did>
+              </c05>
+              <c05 level="otherlevel">
+                <did>
+                  <unittitle><emph>Fugato Study in 3 Voices, Subject: 4 Durations in Stress of 3</emph> (1:20:33)</unittitle>
+                </did>
+              </c05>
+              <c05 level="otherlevel">
+                <did>
+                  <unittitle><emph>Suspension Patterns in Stress of 4</emph> (1:22:00)</unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>[DVD 2] (color, with sound)</unittitle>
+              <physdesc>1 videodisc</physdesc>
+            </did>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle><emph>Uneasy Rapture</emph> (Van Tuyl / Lou Harrison, <date normal="1939">1939</date>)</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subgrp">
+          <did>
+            <unittitle>[DVD 3] (b&amp;w and color, with sound)</unittitle>
+            <physdesc>1 videodisc</physdesc>
+          </did>
+          <c03 level="otherlevel">
+            <did>
+              <unittitle><emph>Fads and Fancies in the Academy</emph> (<date normal="1940">1940</date>)</unittitle>
+              <note><p>(choreography: Marian Van Tuyl; original 16mm film footage; music: John Cage), a rough syncing of music with the choreography as a step in restructuring the work; musical performance by the Amadinda Percussion Group</p></note>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subgrp">
+          <did>
+            <unittitle>Photocopies of descriptions to films, guides to dances, newspaper clippings, various concert programs <date normal="1938/1947">1938-1947</date>, and other relevant pieces</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    </archdesc>
+</ead>
