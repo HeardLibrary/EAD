@@ -4,16 +4,21 @@
     <eadid countrycode="US"></eadid>
     <filedesc>
       <titlestmt>
-        <!-- Please format the title from the print finding aid like this one below -->
-        <titleproper type="filing">Davie2, Donald Papers - Faculty</titleproper>
-        <titleproper>Finding Aid for the Donald Davie2 Papers</titleproper>
+        <!-- The filing title is the one listed on the Manuscripts register, typically last name, first name. Note the 'faculty' designation. -->
+        <titleproper type="filing">Test, Donald Papers - Faculty</titleproper>
+        <!-- This is the proper finding aid title found at the beginning at the finding aid. Note that the filing title is different than the titleproper field. -->
+        <titleproper>Finding Aid for the Donald Test Papers</titleproper>
+        <!-- The author of the finding aid. The authors are singular or plural, and usually listed on every finding aid -->
         <author>Beverly Lee</author>
       </titlestmt>
       <publicationstmt>
+        <!-- Always the same -->
         <publisher>Special Collections Manuscripts and Rare Books</publisher>
         <p>
+          <!-- The date the finding aid was published and/or completed -->
           <date>1999</date>
         </p>
+        <!-- Always the same -->
         <address>
           <addressline>419 21st Avenue South</addressline>
           <addressline>Nashville, TN 37203-2427</addressline>
@@ -24,71 +29,131 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on
-        <date>2017-05-16 16:24:38 -0500</date>.</creation>
+        <!-- Always the same -->
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
   <archdesc level="collection">
     <did>
+      <!-- Always the same -->
       <langmaterial>
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
+        <!-- Always the same -->
         <corpname>Special Collections Manuscripts and Rare Books</corpname>
       </repository>
-      <unittitle>Donald Davie2 Papers</unittitle>
-      <unitid>MSS.0102</unitid>
+      <!-- The short name for the collection, usually 'firstname lastname papers/collection'. -->
+      <unittitle>Donald Test Papers</unittitle>
+      <!-- The manuscript number of the collection, always in the format 'MSS.number'. The number must be 4 digits. -->
+      <unitid>MSS.0001</unitid>
+      <!-- If the extent of the collection is listed, include it here. The "materialtype spaceoccupied" field will be there more often than the "carrier" field.-->
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">3.26 Linear Feet</extent>
         <extent altrender="carrier">8 Hollinger boxes</extent>
       </physdesc>
+      <!-- Dates should be done in the format below. If the collection has multiple dates (as almost all do), the 'normal' format is 'begindate/enddate'. The 'normal' field is most important and should be in all finding aids. The type can be either 'inclusive' or 'bulk'. If there is only a single date, the type field is not needed. Whatever is between the <unitdate>information here</unitdate> field will be the displayed value, and is not always necessary.-->
       <unitdate normal="1942/1995" type="inclusive">1942-1995</unitdate>
     </did>
     <scopecontent id="aspace_2464f99a44d613fbf2ae471f16e87659">
+      <!-- Scope and Contents notes are the general collection description notes for every finding aid. The best ones will have a full series listing, dates, description, and subseries listing. A good example is below. In other finding aids, this information might be in poor shape and only briefly describe the collection. If unsure where to put information, it is usually best to simply put it in the scope and contents note.-->
       <head>Scope and Contents</head>
-      <p>The papers of author, educator, poet, and critic Donald Davie consist of his writings, published and unpublished, printed and in draft form, both manuscripts and typescripts, literary correspondence, personal and biographical data, materials
-        pertaining to his academic career and other professional activities, works of his associates and colleagues, and writings by other twentieth century poets and authors, some of them Davie’s students. The earliest materials are letters Davie wrote as a
-        young man in the Royal Navy in 1942 and the latest are his obituaries written in 1995. The papers consist of these series: I. Writings II. Correspondence (Literary) III. Personal and Biographical Data IV. Academic Career V. Professional Activities
-        VI. Associates and Colleagues VII. Writings by Others The series Writing includes some printed material, but the majority of this series is in manuscript or typescript. An oversized box contains a handcrafted book of poems by Davie and photographs by
-        his wife, Doreen Davie. These materials date from 1947 until 1988. The subseries are: Poems and Translations Essays and Articles Reviews Lectures (Not class lectures) Book Manuscripts Bibliographies Tables of Contents and Book Plans Notebook The
-        series Correspondence (Literary) consists of incoming and outgoing correspondence. It is arranged alphabetically by the correspondent’s last name. These letters range in date from 1958 until 1989. The series Personal and Biographical Data consists of
-        a handwritten account of his wartime experiences in Russia, personal correspondence of that era, and his obituaries. These materials range in date from 1942 until 1995. The subseries are: Autobiography Personal Correspondence Obituaries The series
-        Academic Career consists of press clippings, materials relating to his university career in Britain, and his lecture notes, arranged by subject, in typescript and manuscript. Most of the lecture notes appear to date from his seven years at Trinity
-        College Dublin. The items in this series range in date from 1951 until 1988. The subseries are: Clippings Correspondence and Memoranda Lecture notes The series Professional Activities consists of audiocassettes and reel-to-reel tapes recorded by
-        Davie and materials from the journal PNR during the time Davie was editor. The materials date from 1972 until? The subseries are: Recorded Readings PNR Materials---Editing The series Associates and Colleagues consists of manuscripts and printed
-        materials by Howard Warshaw and Peter Whigham, both colleagues of Davie at Stanford, whose works he supported and promoted. The materials in this series date from 1969 until 1983. The subseries are: Warshaw, Howard Whigham, Peter The series Writings
-        by Others consists of critiques of Davie’s work and influence, proof copies Davie received to review, poetry of Davie’s students, and off-prints and books written by twentieth century poets and academics on the subject of poets and poetry. These
-        materials range in date from 1922 until 1987. The materials dated in the 1920s are Xeroxed copies of material by Ivor Gurney (d. 1937), but they were copied for Davie in 1988. The subseries are: About Donald Davie Proof Copies Received for Review
-        Student Poetry Twentieth Century Poets and Authors</p>
+      <!-- Every paragraph from the finding aid will need a separate <p></p> tag around it. This tells the system to publish the information in separate blocks. -->
+      <p>The papers of author, educator, poet, and critic Donald Davie consist of his writings, published and unpublished, printed and in draft form, both manuscripts and typescripts, literary correspondence, personal and biographical data, materials pertaining to his academic career and other professional activities, works of his associates and colleagues, and writings by other twentieth century poets and authors, some of them Davie’s students. The earliest materials are letters Davie wrote as a young man in the Royal Navy in 1942 and the latest are his obituaries written in 1995.</p>
+      <p>The papers consist of these series:
+        <!-- lists should be formated like this. The type="ordered" will cause each new item to be automatically numbered. The numeration="upperroman" will make the numbers uppercase Roman numerals. Series should be given the "upperroman" numeration. -->
+        <list type="ordered" numeration="upperroman">
+          <item>Writings</item>
+          <item>Correspondence (Literary)</item>
+          <item>Personal and Biographical Data</item>
+          <item>Academic Career</item>
+          <item>Professional Activities</item>
+          <item>Associates and Colleagues</item>
+          <item>Writings by Others</item>
+        </list>
+      </p>
+      <p>The series Writing includes some printed material, but the majority of this series is in manuscript or typescript. An oversized box contains a handcrafted book of poems by Davie and photographs by his wife, Doreen Davie. These materials date from 1947 until 1988. The subseries are:
+        <!-- Subseries should be given the lowerroman numeration. -->
+        <list type="ordered" numeration="lowerroman">
+          <item>Poems and Translations</item>
+          <item>Essays and Articles</item>
+          <item>Reviews Lectures (Not class lectures)</item>
+          <item>Book Manuscripts</item>
+          <item>Bibliographies</item>
+          <item>Tables of Contents and Book Plans</item>
+          <item>Notebook</item>
+        </list>
+      </p>
+      <p>The series Correspondence (Literary) consists of incoming and outgoing correspondence. It is arranged alphabetically by the correspondent’s last name. These letters range in date from 1958 until 1989.</p>
+      <p>The series Personal and Biographical Data consists of a handwritten account of his wartime experiences in Russia, personal correspondence of that era, and his obituaries. These materials range in date from 1942 until 1995. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Autobiography</item>
+          <item>Personal Correspondence</item>
+          <item>Obituaries</item>
+        </list>
+      </p>
+      <p>The series Academic Career consists of press clippings, materials relating to his university career in Britain, and his lecture notes, arranged by subject, in typescript and manuscript. Most of the lecture notes appear to date from his seven years at Trinity College Dublin. The items in this series range in date from 1951 until 1988. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Clippings</item>
+          <item>Correspondence and Memoranda</item>
+          <item>Lecture Notes</item>
+        </list>
+      </p>
+      <p>The series Professional Activities consists of audiocassettes and reel-to-reel tapes recorded by Davie and materials from the journal PNR during the time Davie was editor. The materials date from 1972 until? The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Recorded Readings</item>
+          <item>PNR Materials---Editing</item>
+        </list>
+      </p>
+      <p>The series Associates and Colleagues consists of manuscripts and printed materials by Howard Warshaw and Peter Whigham, both colleagues of Davie at Stanford, whose works he supported and promoted. The materials in this series date from 1969 until 1983. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>Warshaw, Howard</item>
+          <item>Whigham, Peter</item>
+        </list>
+      </p>
+      <p>The series Writings by Others consists of critiques of Davie’s work and influence, proof copies Davie received to review, poetry of Davie’s students, and off-prints and books written by twentieth century poets and academics on the subject of poets and poetry. These materials range in date from 1922 until 1987. The materials dated in the 1920s are Xeroxed copies of material by Ivor Gurney (d. 1937), but they were copied for Davie in 1988. The subseries are:
+        <list type="ordered" numeration="lowerroman">
+          <item>About Donald Davie</item>
+          <item>Proof Copies Received for Review</item>
+          <item>Student Poetry</item>
+          <item>Twentieth Century Poets and Authors</item>
+        </list>
+      </p>
     </scopecontent>
     <userestrict id="aspace_62a8036b64015cf7418c6a816a804fad">
+      <!-- If there's every any language indicating restrictions to the materials or statements about "rights", that information should go in the Conditions Governing Use tag. Note that a <p> tag is still required for the material. -->
       <head>Conditions Governing Use</head>
       <p>The Donald Davie Papers were purchased from his estate, and literary rights remain the property of his heirs. Please consult the Head of Special Collections for permission to quote or publish any part of this collection.</p>
     </userestrict>
     <dsc>
+      <!-- <c01> is series level, 02 is subseries level, 03 is folder level, 04 is item level if required -->
       <c01 id="aspace_813575a28eb606497666e2495ef58eac" level="series">
         <did>
           <unittitle>Writings</unittitle>
-          <unitdate normal="1947/1988" type="inclusive">1947-1988</unitdate>
+          <!-- This is the range of dates for the entire series -->
+          <unitdate normal="1947/1988" type="inclusive"></unitdate>
         </did>
         <c02 id="aspace_006734fbabac911ccd8375dabbd13934" level="subseries">
           <did>
             <unittitle>Poems and Translations</unittitle>
           </did>
-          <c03 audience="internal" id="aspace_b21ed701d8c387e2d87e9fa73347c9ea" level="file">
+          <!-- Each file will need a unique id, or the system will not import properly. In this case, I think a good identifier would be "mss.collection#_box#_folder#_item#". Container id's within this component will share their parent's id, plus a _1 or _2 for box and folder identifiers. The id's are randomly generated by ASpace if created on that platform, so this step clearly isn't of large importance, but it seems like an easy format to avoid duplication. -->
+          <c03 audience="internal" id="mss.102_b1_f1_i1" level="file">
             <did>
-              <unittitle>International Week Literary Symposium</unittitle>
-              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-              <container id="aspace_568f8d6d7e66ccb38ef596413e458b9a" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_cc6ce455ee9a8ff85cbe412fc2c91389" parent="aspace_568f8d6d7e66ccb38ef596413e458b9a" type="folder">1</container>
+              <unittitle>Test item</unittitle>
+              <!-- Entering the date in the format below will create the proper format for a single date in ArchivesSpace (i.e., the date type will be listed as "single", there will only be one beginning date field instead of two as in inclusive, and the expression field will be left blank). The date listed in the normal section will automatically be added to the end of the item's name. Other types of dates can be seen in components further down-->
+              <unitdate normal="1986"></unitdate>
+              <container id="mss.102_b1_f1_i1_1" label="Mixed Materials" type="box">1</container>
+              <!-- Folder id's will need to be different than their parent box id's, but be sure to link the folder to the proper parent. Might be worth investigating whether multiple records can use the same container id's and be linked together. (update) After investigating, the container label is all that matters, not the id from what I can tell.-->
+              <container id="mss.102_b1_f1_i1_2" parent="mss.102_b1_f1_i1_1" type="folder">1</container>
             </did>
           </c03>
           <c03 id="aspace_ddf84afe2a96eed7538fb1cc0cbe8807" level="file">
             <did>
               <unittitle>Across the Bay (2)</unittitle>
-              <container id="aspace_b81b3a4a8625a266f0f69f8f2bd5a730" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_21df8576fe70facf3dc0549c7e9ac134" parent="aspace_b81b3a4a8625a266f0f69f8f2bd5a730" type="folder">1</container>
+              <!-- If items don't have a date, there's no need to put the field at all. -->
+              <container id="mss.102_b1_f1_i1_1" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_21df8576fe70facf3dc0549c7e9ac134" parent="mss.102_b1_f1_i1_1" type="folder">1</container>
             </did>
           </c03>
           <c03 id="aspace_b34ede3981d4a5a97c1909c835d51c7d" level="file">
@@ -1855,7 +1920,8 @@
           <c03 audience="internal" id="aspace_9e5cfc5e42d8923cb75056aa54a2da8f" level="file">
             <did>
               <unittitle>Poetic License and Civil Freedoms –The Poets Role in a time of Social Ferment. Address to the Wilshire Boulevard Temple, Los Angeles, California</unittitle>
-              <unitdate normal="1970-02/1970-02" type="inclusive">1970 February</unitdate>
+              <!-- Entering the date in the format below will create the proper format for a single date in ArchivesSpace (i.e., the date type will be listed as "single", and there will only be one beginning date field instead of two as in the inclusive type). The date listed in the normal section will automatically be added to the end of the item's name, unless you enter something else between the brackets. Here, "1970 February" will appear after the item instead of "1970-02", but the 1970-02 date will still be properly searchable.-->
+              <unitdate normal="1970-02">1970 February</unitdate>
               <container id="aspace_6c32ad7eccd00adbd37ea9c708d2dfcd" label="Mixed Materials" type="box">2</container>
               <container id="aspace_8e3a1db48e9dfc6a28c10a0d395afc08" parent="aspace_6c32ad7eccd00adbd37ea9c708d2dfcd" type="folder">20</container>
             </did>
@@ -1871,7 +1937,8 @@
           <c03 audience="internal" id="aspace_f889e6da9fd5ab776da25f71c59c7f68" level="file">
             <did>
               <unittitle>Sacred Poetry of Jack Clemo. Endowed lecture to the University of Surrey</unittitle>
-              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <!-- Entering the date in the format below will also create the proper format for a single date in ArchivesSpace (i.e., the date type will be listed as "single", there will only be one beginning date field instead of two as in inclusive, and the expression field will be left blank). The date listed in the normal section will automatically be added to the end of the item's name. -->
+              <unitdate normal="1982"></unitdate>
               <container id="aspace_4417de18d3e66a1e5b4f23a571e8804a" label="Mixed Materials" type="box">2</container>
               <container id="aspace_9e1c65c8e9e778c393180022d2ff6286" parent="aspace_4417de18d3e66a1e5b4f23a571e8804a" type="folder">22</container>
             </did>
@@ -1895,7 +1962,7 @@
           <c03 audience="internal" id="aspace_6995ab96a8e0ef7648b197566eba4a35" level="file">
             <did>
               <unittitle>Values and Heritage. Delivered at Tate Gallery, London, England. Also a photocopy of an article in The Independent announcing the conference “Art and Value” with handwritten comments by Davie.</unittitle>
-              <unitdate normal="1993-10-23/1993-10-23" type="inclusive">1993 October 23</unitdate>
+              <unitdate normal="1993-10-23">1993 October 23</unitdate>
               <container id="aspace_93c4a4f02275ec9aa569f6877952f670" label="Mixed Materials" type="box">2</container>
               <container id="aspace_9b423beb021acfdc79748d3bcee69ba0" parent="aspace_93c4a4f02275ec9aa569f6877952f670" type="folder">23</container>
             </did>
@@ -1931,7 +1998,7 @@
           <c03 audience="internal" id="aspace_44e0217f6d4f5e2908a53befb20da049" level="file">
             <did>
               <unittitle>Cover by Donald Davie for Juvenilia in Verse. No Contents</unittitle>
-              <unitdate normal="1988-03/1988-03" type="inclusive">1988 March</unitdate>
+              <unitdate normal="1988-03">1988 March</unitdate>
               <container id="aspace_1818e0d8e085e0780ea5121f26d26210" label="Mixed Materials" type="box">2</container>
               <container id="aspace_f8977647050b4db9cc2d3b715e49225f" parent="aspace_1818e0d8e085e0780ea5121f26d26210" type="folder">25</container>
             </did>
@@ -2016,7 +2083,7 @@
           <c03 audience="internal" id="aspace_a972817aa2cb893504b6bfe32f770c7d" level="file">
             <did>
               <unittitle>Poems (2)</unittitle>
-              <unitdate normal="1957/1962" type="inclusive">1957-1962</unitdate>
+              <unitdate normal="1957/1962" type="inclusive"></unitdate>
               <container id="aspace_4e04cc02bd5d80eece076fd21a9d5e84" label="Mixed Materials" type="box">3</container>
               <container id="aspace_930347c24f27bbc3a01e952260955dbf" parent="aspace_4e04cc02bd5d80eece076fd21a9d5e84" type="folder">4</container>
             </did>
@@ -2039,12 +2106,12 @@
       <c01 id="aspace_379d547fc4ce4000601393df7f91431e" level="series">
         <did>
           <unittitle>Correspondence (Literary)</unittitle>
-          <unitdate normal="1958/1989" type="inclusive">1958-1989</unitdate>
+          <unitdate normal="1958/1989" type="inclusive"></unitdate>
         </did>
         <c02 audience="internal" id="aspace_e19b1852e85ae626402119fa4edfec70" level="file">
           <did>
             <unittitle>From D.D. to Mrs. Farmiloe</unittitle>
-            <unitdate normal="1970-03-14/1970-03-14" type="inclusive">1970 March 14</unitdate>
+            <unitdate normal="1970-03-14">1970 March 14</unitdate>
             <container id="aspace_60282808fb5f3cd68018ca15c9b3b09d" label="Mixed Materials" type="box">3</container>
             <container id="aspace_7966b699f3469a3024c376bf54adfdeb" parent="aspace_60282808fb5f3cd68018ca15c9b3b09d" type="folder">6</container>
           </did>
@@ -2052,7 +2119,7 @@
         <c02 audience="internal" id="aspace_fc0a60c9d058f937f5fba76f312477cf" level="file">
           <did>
             <unittitle>From Mark Brown</unittitle>
-            <unitdate normal="1988-04-27/1988-04-27" type="inclusive">1988 April 27</unitdate>
+            <unitdate normal="1988-04-27">1988 April 27</unitdate>
             <container id="aspace_5ce9efeede982a3a454f55824918f543" label="Mixed Materials" type="box">3</container>
             <container id="aspace_868f9778b80e4e51a43865d11726320b" parent="aspace_5ce9efeede982a3a454f55824918f543" type="folder">6</container>
           </did>
@@ -2060,7 +2127,7 @@
         <c02 audience="internal" id="aspace_effc443693fdbc538ba41a50a65b68da" level="file">
           <did>
             <unittitle>From Jim Chandler</unittitle>
-            <unitdate normal="1981-10-08/1981-10-08" type="inclusive">1981 October 8</unitdate>
+            <unitdate normal="1981-10-08">1981 October 8</unitdate>
             <container id="aspace_3863837f09841a046177c4e6f4803d98" label="Mixed Materials" type="box">3</container>
             <container id="aspace_7ebbfee981cebd779702f61aeb0b42d5" parent="aspace_3863837f09841a046177c4e6f4803d98" type="folder">6</container>
           </did>
@@ -2068,7 +2135,7 @@
         <c02 audience="internal" id="aspace_b8284cd29bc518eb1d2c8b6d16965c53" level="file">
           <did>
             <unittitle>From Mark Ferrer (stepson of Howard Warshaw)</unittitle>
-            <unitdate normal="1978-04-08/1978-04-08" type="inclusive">1978 April 8</unitdate>
+            <unitdate normal="1978-04-08">1978 April 8</unitdate>
             <container id="aspace_65c5fbbd8a641abc18a9f2a7e04cc8e4" label="Mixed Materials" type="box">3</container>
             <container id="aspace_eef960f01248b6a384669de5cff0167f" parent="aspace_65c5fbbd8a641abc18a9f2a7e04cc8e4" type="folder">6</container>
           </did>
@@ -2076,7 +2143,7 @@
         <c02 audience="internal" id="aspace_1a5d1a7c0eb908478a88ca222d84a91e" level="file">
           <did>
             <unittitle>From Reginald Gibbons</unittitle>
-            <unitdate normal="1980-04-03/1980-04-03" type="inclusive">1980 April 4</unitdate>
+            <unitdate normal="1980-04-03">1980 April 4</unitdate>
             <container id="aspace_419ad3e152aca7e1e07486f28630eeaf" label="Mixed Materials" type="box">3</container>
             <container id="aspace_ae7a4b6e5a7c78d8ea9ac32d7c5cb132" parent="aspace_419ad3e152aca7e1e07486f28630eeaf" type="folder">6</container>
           </did>
@@ -2084,7 +2151,7 @@
         <c02 audience="internal" id="aspace_00510636bb74c218cf97fbd856994d57" level="file">
           <did>
             <unittitle>From Donald Greene</unittitle>
-            <unitdate normal="1977-11-30/1977-11-30" type="inclusive">1977 November 30</unitdate>
+            <unitdate normal="1977-11-30">1977 November 30</unitdate>
             <container id="aspace_5edf3e659ebd10587dec43a6a1bbacf0" label="Mixed Materials" type="box">3</container>
             <container id="aspace_685dc27410f404730bfd09c5124e83a5" parent="aspace_5edf3e659ebd10587dec43a6a1bbacf0" type="folder">6</container>
           </did>
@@ -2092,7 +2159,7 @@
         <c02 audience="internal" id="aspace_30c85c6e14fa450bbdb691b902e96dbd" level="file">
           <did>
             <unittitle>From Elizabeth Griffin</unittitle>
-            <unitdate normal="1958-09-17/1958-09-17" type="inclusive">1958 September 17</unitdate>
+            <unitdate normal="1958-09-17">1958 September 17</unitdate>
             <container id="aspace_0026ca42de655ce268b70ffef5dfeec2" label="Mixed Materials" type="box">3</container>
             <container id="aspace_2bbca9a8bfc3dbe4fa0fb1fc9964a6d4" parent="aspace_0026ca42de655ce268b70ffef5dfeec2" type="folder">6</container>
           </did>
@@ -2100,7 +2167,7 @@
         <c02 audience="internal" id="aspace_c0eea566daa8b3c544bc8385a7939e37" level="file">
           <did>
             <unittitle>From Thomas Kabdebo</unittitle>
-            <unitdate normal="1968-12-30/1968-12-30" type="inclusive">1968 December 30</unitdate>
+            <unitdate normal="1968-12-30">1968 December 30</unitdate>
             <container id="aspace_387fb842eb3232f0975dc77483fcf62c" label="Mixed Materials" type="box">3</container>
             <container id="aspace_b926b4a21cf3b8d22b8c61ec13195c3b" parent="aspace_387fb842eb3232f0975dc77483fcf62c" type="folder">6</container>
           </did>
@@ -2108,7 +2175,7 @@
         <c02 audience="internal" id="aspace_353408242bd3f2260c1697873ac48836" level="file">
           <did>
             <unittitle>From Dorothy Oberhaus</unittitle>
-            <unitdate normal="1988-01-11/1988-01-11" type="inclusive">1988 January 11</unitdate>
+            <unitdate normal="1988-01-11">1988 January 11</unitdate>
             <container id="aspace_65016fa04f961a24cb9cf907a596f456" label="Mixed Materials" type="box">3</container>
             <container id="aspace_8e56c9656bcff589533c575ba32ee499" parent="aspace_65016fa04f961a24cb9cf907a596f456" type="folder">6</container>
           </did>
@@ -2116,7 +2183,7 @@
         <c02 audience="internal" id="aspace_85c97f6871c46d1691c4a0c072cc4c01" level="file">
           <did>
             <unittitle>From Greg Miller</unittitle>
-            <unitdate normal="1983-08-18/1983-08-27" type="inclusive">1983 August 18 and 27</unitdate>
+            <unitdate normal="1983-08-18">1983 August 18 and 27</unitdate>
             <container id="aspace_a28581252abd7cf24b8844a1de5859a8" label="Mixed Materials" type="box">3</container>
             <container id="aspace_b6c5ab1e7ea624727a529a9ff81ddd14" parent="aspace_a28581252abd7cf24b8844a1de5859a8" type="folder">6</container>
           </did>
@@ -2132,7 +2199,7 @@
         <c02 audience="internal" id="aspace_acc510a9645044e4d4cab6e41d872412" level="file">
           <did>
             <unittitle>From Paul Ramcey</unittitle>
-            <unitdate normal="1979-10-21/1979-10-21" type="inclusive">1979 October 21</unitdate>
+            <unitdate normal="1979-10-21">1979 October 21</unitdate>
             <container id="aspace_ad4a96711344e4bf05ccab2aaa6d6235" label="Mixed Materials" type="box">3</container>
             <container id="aspace_0fec8784832ab6503d6c309ede3e23a7" parent="aspace_ad4a96711344e4bf05ccab2aaa6d6235" type="folder">6</container>
           </did>
@@ -2140,7 +2207,7 @@
         <c02 audience="internal" id="aspace_d5cf7c442e2ebd4d86d096a85d24f7dc" level="file">
           <did>
             <unittitle>From Janet Adam Smith</unittitle>
-            <unitdate normal="1965-04-05/1965-04-05" type="inclusive">1965 April 5</unitdate>
+            <unitdate normal="1965-04-05">1965 April 5</unitdate>
             <container id="aspace_ab73683d33be3c895b144d4151389b7b" label="Mixed Materials" type="box">3</container>
             <container id="aspace_315f452843ed8154b96d5ee1b1b9d419" parent="aspace_ab73683d33be3c895b144d4151389b7b" type="folder">6</container>
           </did>
@@ -2148,7 +2215,7 @@
         <c02 audience="internal" id="aspace_66ffeae0bd14d628d62a0b56d3de3a56" level="file">
           <did>
             <unittitle>From Stephen Spender</unittitle>
-            <unitdate normal="1989-01-01/1989-01-01" type="inclusive">1989 January 1</unitdate>
+            <unitdate normal="1989-01-01">1989 January 1</unitdate>
             <container id="aspace_fb6d750670017b6ee363b5135536f772" label="Mixed Materials" type="box">3</container>
             <container id="aspace_0f0483fcab954f6f060ad6116b8fc2d0" parent="aspace_fb6d750670017b6ee363b5135536f772" type="folder">6</container>
           </did>
@@ -2156,7 +2223,7 @@
         <c02 audience="internal" id="aspace_004387f3664b84f515a7c862a0981665" level="file">
           <did>
             <unittitle>From John Wain</unittitle>
-            <unitdate normal="1961-02-01/1961-02-01" type="inclusive">1961 February 1</unitdate>
+            <unitdate normal="1961-02-01">1961 February 1</unitdate>
             <container id="aspace_c40050a96c35e30e7faebc61ac750d50" label="Mixed Materials" type="box">3</container>
             <container id="aspace_0d288a52e6751bba7c5fea612e271c1e" parent="aspace_c40050a96c35e30e7faebc61ac750d50" type="folder">6</container>
           </did>
@@ -2164,7 +2231,7 @@
         <c02 audience="internal" id="aspace_ffb15c7cdebc8036236426b456d67478" level="file">
           <did>
             <unittitle>From George (colleague at Stanford)</unittitle>
-            <unitdate normal="1988-07-20/1988-07-20" type="inclusive">1988 July 20</unitdate>
+            <unitdate normal="1988-07-20">1988 July 20</unitdate>
             <container id="aspace_4b5a09a1efce979a1e8416c417d506cb" label="Mixed Materials" type="box">3</container>
             <container id="aspace_5bbe0211b42e8666b4b82fc8b171aa62" parent="aspace_4b5a09a1efce979a1e8416c417d506cb" type="folder">6</container>
           </did>
@@ -2173,7 +2240,7 @@
       <c01 id="aspace_7fa8d13440fc623480a096813393ada8" level="series">
         <did>
           <unittitle>Personal and Biographical Data</unittitle>
-          <unitdate normal="1942/1995" type="inclusive">1942-1995</unitdate>
+          <unitdate normal="1942/1995" type="inclusive"></unitdate>
         </did>
         <c02 id="aspace_9e0ce7f44ad555a70aca951840c39ba1" level="subseries">
           <did>
@@ -2213,7 +2280,7 @@
           <c03 audience="internal" id="aspace_4b060a71cedb75443eaf78c608680ddb" level="file">
             <did>
               <unittitle>Independent</unittitle>
-              <unitdate normal="1995-09-20/1995-09-20" type="inclusive">1995 September 20</unitdate>
+              <unitdate normal="1995-09-20">1995 September 20</unitdate>
               <container id="aspace_9a49971d1eab2afaee3b932c55005442" label="Mixed Materials" type="box">3</container>
               <container id="aspace_a59761d6bdd151e2619025633fe3cbdb" parent="aspace_9a49971d1eab2afaee3b932c55005442" type="folder">9</container>
             </did>
@@ -2221,7 +2288,7 @@
           <c03 audience="internal" id="aspace_49db72671ddb13b7e199c4c66f1b035c" level="file">
             <did>
               <unittitle>The Times (London)</unittitle>
-              <unitdate normal="1995-09-21/1995-09-21" type="inclusive">1995 September 21</unitdate>
+              <unitdate normal="1995-09-21">1995 September 21</unitdate>
               <container id="aspace_a64c41a99b8e5028bf68814997319a0a" label="Mixed Materials" type="box">3</container>
               <container id="aspace_d18a9a53da8d2ba95723f278c82873ce" parent="aspace_a64c41a99b8e5028bf68814997319a0a" type="folder">9</container>
             </did>
@@ -2229,7 +2296,7 @@
           <c03 audience="internal" id="aspace_0baf4c45963b907e5a73f3b78987466d" level="file">
             <did>
               <unittitle>The New York Times</unittitle>
-              <unitdate normal="1995-09-23/1995-09-23" type="inclusive">1995 September 23</unitdate>
+              <unitdate normal="1995-09-23">1995 September 23</unitdate>
               <container id="aspace_31823f9bab85135bdcc571b2d39b9846" label="Mixed Materials" type="box">3</container>
               <container id="aspace_7647f04378da20dd8fcec672af2db19e" parent="aspace_31823f9bab85135bdcc571b2d39b9846" type="folder">9</container>
             </did>
@@ -2247,7 +2314,7 @@
       <c01 id="aspace_ab7e944f36891b60aebe3c7f44c9e77b" level="series">
         <did>
           <unittitle>Academic Career</unittitle>
-          <unitdate normal="1951/1988" type="inclusive">1951-1988</unitdate>
+          <unitdate normal="1951/1988" type="inclusive"></unitdate>
         </did>
         <c02 id="aspace_2c7aa22b1bcc7643eaf535953b6b9b20" level="subseries">
           <did>
@@ -2256,7 +2323,7 @@
           <c03 audience="internal" id="aspace_f8c7dcac7d537b25a571fd5eb6991bc3" level="file">
             <did>
               <unittitle>“Separate Spheres” The Times Literary Supplement</unittitle>
-              <unitdate normal="1967-07-27/1967-07-27" type="inclusive">1967 July 27</unitdate>
+              <unitdate normal="1967-07-27">1967 July 27</unitdate>
               <container id="aspace_963a48bab68333e0227f7f2614e90e50" label="Mixed Materials" type="box">3</container>
               <container id="aspace_2b9adf2e0b15e6daca02f549e998becd" parent="aspace_963a48bab68333e0227f7f2614e90e50" type="folder">10</container>
             </did>
@@ -2264,7 +2331,7 @@
           <c03 audience="internal" id="aspace_b5f401e557736c29179bb2fcd8bb11df" level="file">
             <did>
               <unittitle>Untitled. The Times Literary Supplement</unittitle>
-              <unitdate normal="1967-07-27/1967-07-27" type="inclusive">1967 July 27</unitdate>
+              <unitdate normal="1967-07-27">1967 July 27</unitdate>
               <container id="aspace_1a70e45bf2d45b712374e062bdd84358" label="Mixed Materials" type="box">3</container>
               <container id="aspace_4a7f947a3dfec5bdf2d65ba0afcd1ca6" parent="aspace_1a70e45bf2d45b712374e062bdd84358" type="folder">10</container>
             </did>
@@ -2272,7 +2339,7 @@
           <c03 audience="internal" id="aspace_12e58aae0e6f7aef35edda4b8fa43eda" level="file">
             <did>
               <unittitle>“International Week At Vandy” The Tennessean</unittitle>
-              <unitdate normal="1986-03-16/1986-03-16" type="inclusive">1986 March 16</unitdate>
+              <unitdate normal="1986-03-16">1986 March 16</unitdate>
               <container id="aspace_20210fb3676327df5c72d290107b3e05" label="Mixed Materials" type="box">3</container>
               <container id="aspace_2d486d4f6d61dc140db1608e1b29bcd8" parent="aspace_20210fb3676327df5c72d290107b3e05" type="folder">10</container>
             </did>
@@ -2280,7 +2347,7 @@
           <c03 audience="internal" id="aspace_b21ed701d8c387e2d87e9fa73347c9ea" level="file">
             <did>
               <unittitle>International Week Literary Symposium</unittitle>
-              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <unitdate normal="1986"></unitdate>
               <container id="aspace_568f8d6d7e66ccb38ef596413e458b9a" label="Mixed Materials" type="box">3</container>
               <container id="aspace_cc6ce455ee9a8ff85cbe412fc2c91389" parent="aspace_568f8d6d7e66ccb38ef596413e458b9a" type="folder">10</container>
             </did>
@@ -2288,7 +2355,7 @@
           <c03 audience="internal" id="aspace_1e31d540a4c346bfd7e6a226f18e8565" level="file">
             <did>
               <unittitle>“Culture and Its Rating at Present Time”, Matthew Arnold Centennial Conference, Liverpool University 18-21 July 1988 –Announces Donald Davie’s lecture “Matthew Arnold and the Decline of English Romanticism”</unittitle>
-              <unitdate normal="1988-07-20/1988-07-20" type="inclusive">1988 July 20</unitdate>
+              <unitdate normal="1988-07-20">1988 July 20</unitdate>
               <container id="aspace_0de6d158f2e1f4b4170c9a119bd98b39" label="Mixed Materials" type="box">3</container>
               <container id="aspace_956c67c818e00445b88d15764d62dd1f" parent="aspace_0de6d158f2e1f4b4170c9a119bd98b39" type="folder">10</container>
             </did>
@@ -2800,7 +2867,7 @@
           <c03 audience="internal" id="aspace_d09caae088bc56d06769fb418e54ae13" level="item">
             <did>
               <unittitle>Donald Davie Interview for WPLN Nashville with Molly Howell</unittitle>
-              <unitdate normal="1980-05-21/1980-05-21" type="inclusive">originally broadcast 21 May 1980</unitdate>
+              <unitdate normal="1980-05-21">originally broadcast 21 May 1980</unitdate>
               <container id="aspace_3efcc133825bbfb0754fac1ada23627f" label="Audio" type="box">4</container>
               <container id="aspace_32413c6d28ca3191f55f7c209c1e8f47" parent="aspace_3efcc133825bbfb0754fac1ada23627f" type="folder">1</container>
             </did>
@@ -2843,7 +2910,7 @@
       <c01 id="aspace_d49bb193c7090a61f32141f8c79b982e" level="series">
         <did>
           <unittitle>Associates and Colleagues</unittitle>
-          <unitdate normal="1969/1983" type="inclusive">1969-1983</unitdate>
+          <unitdate normal="1969/1983" type="inclusive"></unitdate>
         </did>
         <c02 id="aspace_431cc1bbf451fd0aa35f8473343ee332" level="subseries">
           <did>
@@ -2892,7 +2959,7 @@
           <c03 audience="internal" id="aspace_a0b5cd6ff5830665c4a659c4a39f028e" level="file">
             <did>
               <unittitle>Whigham, Peter. Do's and Don't's of Translation. California: Turkey Press, 1982. Inscribed. Inserted into the book are 2 photocopied pages of poems, without an author’s name or date.</unittitle>
-              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <unitdate normal="1982"></unitdate>
               <container id="aspace_47e4eeb88a1215081d3752e1f014b901" label="Mixed Materials" type="box">4</container>
               <container id="aspace_5a94b359212005f6d3a3d2fc76c83f67" parent="aspace_47e4eeb88a1215081d3752e1f014b901" type="folder">8</container>
             </did>
@@ -2902,7 +2969,7 @@
       <c01 id="aspace_f99bdad935ec7e095c8b4737e5e98c94" level="series">
         <did>
           <unittitle>Writings by Others</unittitle>
-          <unitdate normal="1922/1987" type="inclusive">1922-1987</unitdate>
+          <unitdate normal="1922/1987" type="inclusive"></unitdate>
         </did>
         <c02 id="aspace_74e7832c0d3640e7e0f2afd0f15d3be6" level="subseries">
           <did>
@@ -2911,7 +2978,7 @@
           <c03 audience="internal" id="aspace_81ad66c8caddb61a9720459a53d32e76" level="file">
             <did>
               <unittitle>Bernard Bergonzi . “The Poetry of Donald Davie.” The Critical Quarterly (2)</unittitle>
-              <unitdate normal="1962/1962" type="inclusive">1962 Winter</unitdate>
+              <unitdate normal="1962">1962 Winter</unitdate>
               <container id="aspace_a9c53e5c107eed27a202d02c0c76d4ad" label="Mixed Materials" type="box">4</container>
               <container id="aspace_140798d993007ba6b052df9c753d94ea" parent="aspace_a9c53e5c107eed27a202d02c0c76d4ad" type="folder">9</container>
             </did>
@@ -2919,7 +2986,7 @@
           <c03 audience="internal" id="aspace_ff9139e73108a97835cb1a9ff56ac366" level="file">
             <did>
               <unittitle>Clyde Binfield. “Another Note on Non-Conformists.” PNR</unittitle>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+              <unitdate normal="1970"></unitdate>
               <container id="aspace_4f4412c0857752c10650818d4c7f4d55" label="Mixed Materials" type="box">4</container>
               <container id="aspace_2c2e21c6ed75d872e55e47957d0ee832" parent="aspace_4f4412c0857752c10650818d4c7f4d55" type="folder">9</container>
             </did>
@@ -2946,7 +3013,7 @@
           <c03 audience="internal" id="aspace_5161b8e8d5d3e373eaa67f9394806e44" level="file">
             <did>
               <unittitle>Kenner, High. A Sinking Island: The Modern English Writers. New York: Alfred A. Knopf</unittitle>
-              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <unitdate normal="1987"></unitdate>
               <container id="aspace_a33fbe029fb090ccb2370c4287cd374d" label="Mixed Materials" type="box">4</container>
               <container id="aspace_c8fdde7f67ef78e09c79e4d12e1c8321" parent="aspace_a33fbe029fb090ccb2370c4287cd374d" type="folder">12</container>
             </did>
@@ -2954,7 +3021,7 @@
           <c03 audience="internal" id="aspace_81728cfa2abc21ac2d6283a3280f877b" level="file">
             <did>
               <unittitle>Lowell, Robert. Collected Prose. Uncorrected proof copy. Handwritten annotations by Davie</unittitle>
-              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <unitdate normal="1987"></unitdate>
               <container id="aspace_d1ce35f60a4f5706bb54cec76046148e" label="Mixed Materials" type="box">5</container>
               <container id="aspace_b20e07595589b36c3f5aed6096065aef" parent="aspace_d1ce35f60a4f5706bb54cec76046148e" type="folder">1</container>
             </did>
@@ -2962,7 +3029,7 @@
           <c03 audience="internal" id="aspace_6d42d605fe6c16cf2c3a5fbcf1285956" level="file">
             <did>
               <unittitle>Pritchard, William H. Frost: A Literary Life Reconsidered. Oxford/New York: Oxford University Press. Uncorrected advance bound proofs for review</unittitle>
-              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <unitdate normal="1984"></unitdate>
               <container id="aspace_f0cda4d046895fe7512410a934151e30" label="Mixed Materials" type="box">5</container>
               <container id="aspace_8e22fcb0a1dc2c1f1f271622a00f1084" parent="aspace_f0cda4d046895fe7512410a934151e30" type="folder">2</container>
             </did>
@@ -2970,7 +3037,7 @@
           <c03 audience="internal" id="aspace_9abc563bc02ff8d41b8329eed483abee" level="file">
             <did>
               <unittitle>Robinson, Janice S. H.D.: The Life and Work of an American Poet. Boston: Houghton Mifflin Company, Uncorrected proof</unittitle>
-              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <unitdate normal="1982"></unitdate>
               <container id="aspace_4e4c24d832455f7575cf63fc7dbdf714" label="Mixed Materials" type="box">5</container>
               <container id="aspace_5b08d4e4e4f0d2970702626f74e6243a" parent="aspace_4e4c24d832455f7575cf63fc7dbdf714" type="folder">3</container>
             </did>
@@ -2983,7 +3050,7 @@
           <c03 audience="internal" id="aspace_7374e38012d06a34fd38044a7a28fc83" level="file">
             <did>
               <unittitle>Daniel, David. "Alternatives to Life." Photocopy of poems submitted for M.A. degree, Johns Hopkins University</unittitle>
-              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <unitdate normal="1983"></unitdate>
               <container id="aspace_c2c2110a63c2591c616d00ed4c85c3b2" label="Mixed Materials" type="box">5</container>
               <container id="aspace_2dd6836170d094257ec5b616ffa85aa9" parent="aspace_c2c2110a63c2591c616d00ed4c85c3b2" type="folder">4</container>
             </did>
@@ -3006,7 +3073,7 @@
             <did>
               <unittitle>De Arajo, Virginia. Miscellaneous poems a photocopy of Salvage, 1984. Inscribed note. Erinna. Trs., Daniel Haberman with Marilyn Arthur. Erinna to Baucis with an Epigram by Antipater of Sidon. New York, 1978. Private printing, copy 204 of
                 300. Inscribed.</unittitle>
-              <unitdate normal="1978/1984" type="inclusive">1978-1984</unitdate>
+              <unitdate normal="1978/1984" type="inclusive"></unitdate>
               <container id="aspace_a4bd5260bb075f5a405039dc1c9b9b9b" label="Mixed Materials" type="box">5</container>
               <container id="aspace_af397c6f949fa3559a65b9c8a5b0caf3" parent="aspace_a4bd5260bb075f5a405039dc1c9b9b9b" type="folder">6</container>
             </did>
@@ -3014,7 +3081,7 @@
           <c03 audience="internal" id="aspace_f10e161645692d06ba87b9c9a293cc00" level="file">
             <did>
               <unittitle>De Andrade, Carlos Drummond. Virginia de Arajo, tr. WPA # 9. The Word People (4 copies)</unittitle>
-              <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+              <unitdate normal="1977"></unitdate>
               <container id="aspace_bd3af540671da59fac4aaec93a0d4a58" label="Mixed Materials" type="box">5</container>
               <container id="aspace_feeb7e452510bcfb49bc3a1568469161" parent="aspace_bd3af540671da59fac4aaec93a0d4a58" type="folder">7</container>
             </did>
@@ -3030,7 +3097,7 @@
           <c03 audience="internal" id="aspace_d9d140d35b23aa2971522270c8ad0c59" level="file">
             <did>
               <unittitle>Hearne, Vicki. Nervous Horses. Photocopy. Inscribed.</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <unitdate normal="1979"></unitdate>
               <container id="aspace_b752fdd44171d0913f7474bac8763364" label="Mixed Materials" type="box">5</container>
               <container id="aspace_d3a7ab37107c7b7b0f027969991c4021" parent="aspace_b752fdd44171d0913f7474bac8763364" type="folder">9</container>
             </did>
@@ -3046,7 +3113,7 @@
           <c03 audience="internal" id="aspace_0c055cf59b1383aad613b95d6508d93f" level="file">
             <did>
               <unittitle>Miller, Greg. American Flat. Photocopy of poetry ms. Sent to Davie along with a letter</unittitle>
-              <unitdate normal="1985-08/1985-08" type="inclusive">1985 August</unitdate>
+              <unitdate normal="1985-08">1985 August</unitdate>
               <container id="aspace_5c6efa39f9ca73e48c16002233c65062" label="Mixed Materials" type="box">6</container>
               <container id="aspace_8a7cf61fb972a46bcc365e07350a4a94" parent="aspace_5c6efa39f9ca73e48c16002233c65062" type="folder">1</container>
             </did>
@@ -3067,7 +3134,7 @@
           <c03 audience="internal" id="aspace_e7b62d183555d59a5648040b6c600b02" level="file">
             <did>
               <unittitle>Bernstein, Michael Andre. "Robert Duncan: Talent and the Individual Tradition" Sagetrieb Vol. 4, nos. 2 &amp; 3, Fall &amp; Winter 1985 (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <unitdate normal="1985"></unitdate>
               <container id="aspace_a16d73f8c7bbc96412f9ee48d21a34cb" label="Mixed Materials" type="box">6</container>
               <container id="aspace_f10219efe3e502d4590fd23305195fec" parent="aspace_a16d73f8c7bbc96412f9ee48d21a34cb" type="folder">3</container>
             </did>
@@ -3075,7 +3142,7 @@
           <c03 audience="internal" id="aspace_0863c87557ab0650e1bedcfc646cb223" level="file">
             <did>
               <unittitle>Bly, Robert. "The Woman Who Lives Forever." (New York, 1987). Inscribed.</unittitle>
-              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <unitdate normal="1987"></unitdate>
               <container id="aspace_6c8a50936bf8c9bd0c3893dc2f192cb6" label="Mixed Materials" type="box">6</container>
               <container id="aspace_905f6c864e33336e8a4c2c86f5f57ff4" parent="aspace_6c8a50936bf8c9bd0c3893dc2f192cb6" type="folder">3</container>
             </did>
@@ -3083,7 +3150,7 @@
           <c03 audience="internal" id="aspace_dbef077f1405bf984b0e9f816d70bceb" level="file">
             <did>
               <unittitle>Bryant, Kenneth. Posthumous (after Horace)---for Donald Davie. Typescript of poem, April, '88. Inscribed with initials.</unittitle>
-              <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+              <unitdate normal="1988"></unitdate>
               <container id="aspace_31154955ebb2b7d16de239e4ac8eb0d9" label="Mixed Materials" type="box">6</container>
               <container id="aspace_4634ccdf85908a9ca9fd2059dd6b892f" parent="aspace_31154955ebb2b7d16de239e4ac8eb0d9" type="folder">3</container>
             </did>
@@ -3091,7 +3158,7 @@
           <c03 audience="internal" id="aspace_e180938bc73ce2f63701d116478756e3" level="file">
             <did>
               <unittitle>Brown, Mark W. Photocopy of archive material of Ivor Gurney transcribed by hand and annotated. File includes a note dated April 27, 1988.</unittitle>
-              <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+              <unitdate normal="1988"></unitdate>
               <container id="aspace_781c84451cccf13911d72296e32045cb" label="Mixed Materials" type="box">6</container>
               <container id="aspace_797d4db2c11fa49801c0d29b2d8e9e47" parent="aspace_781c84451cccf13911d72296e32045cb" type="folder">3</container>
             </did>
@@ -3099,7 +3166,7 @@
           <c03 audience="internal" id="aspace_2c1a4fd8304ce76118162214aa1ec6f3" level="file">
             <did>
               <unittitle>Burchfield, Robert. The Spoken Language as an Art Form: An Autobiographical Approach. Occasional Papers 1, The English Speaking Union of the United States, May, 1981. Inscribed, July 1981. Includes inscribed note.</unittitle>
-              <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+              <unitdate normal="1981"></unitdate>
               <container id="aspace_b4ab7c45f723e2e788d193b37c52e48d" label="Mixed Materials" type="box">6</container>
               <container id="aspace_b18a7f5bf418d87042b4fa98096133d2" parent="aspace_b4ab7c45f723e2e788d193b37c52e48d" type="folder">3</container>
             </did>
@@ -3107,7 +3174,7 @@
           <c03 audience="internal" id="aspace_006f478cec2ce53e8178eb3b5cb5c05b" level="file">
             <did>
               <unittitle>Chace, William M. "Lionel Trilling." The American Scholar. Winter, 1978/79. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+              <unitdate normal="1978"></unitdate>
               <container id="aspace_483594b1da8c533f5182b869e8157732" label="Mixed Materials" type="box">6</container>
               <container id="aspace_899b4dd33678857e167131d9e9d4ddb9" parent="aspace_483594b1da8c533f5182b869e8157732" type="folder">4</container>
             </did>
@@ -3115,7 +3182,7 @@
           <c03 audience="internal" id="aspace_5bdfe32c24a767f6d0718349b258c4ad" level="file">
             <did>
               <unittitle>Chandler, James K. "Wordsworth and Blake" ELH Vol. 47, 1980, pp. 741-771 (Johns Hopkins Univ. Press, 1980) (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+              <unitdate normal="1980"></unitdate>
               <container id="aspace_afe5b4c426590a3219dfbf8e73d3babd" label="Mixed Materials" type="box">6</container>
               <container id="aspace_9a9a377d024afff71f7b06ec44d67219" parent="aspace_afe5b4c426590a3219dfbf8e73d3babd" type="folder">4</container>
             </did>
@@ -3123,7 +3190,7 @@
           <c03 audience="internal" id="aspace_8f89996291f13bdd2b438aacf3737e64" level="file">
             <did>
               <unittitle>Costa, Corrado. Paul Vangelisti, tr. Our Positions. California: The Red Hill Press, 1975. The first two poems have, under the original Italian, handwritten translations which differ from the Vangelisti translations on the facing pages.</unittitle>
-              <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+              <unitdate normal="1975"></unitdate>
               <container id="aspace_3db78808ab54385c21a272d9583f114d" label="Mixed Materials" type="box">6</container>
               <container id="aspace_acada9b1e0c7e0075a7e43a1f23c55a8" parent="aspace_3db78808ab54385c21a272d9583f114d" type="folder">4</container>
             </did>
@@ -3131,7 +3198,7 @@
           <c03 audience="internal" id="aspace_eb171f5d41a2134b57ea29c241353f54" level="file">
             <did>
               <unittitle>Dekker, George. "Sir Walter Scott, the Angel of Hadley, and American Historical Fiction" American Studies Vol. 17, no. 2 (1982) (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <unitdate normal="1982"></unitdate>
               <container id="aspace_b68d10c3c82893efdd79a4d57712bdaf" label="Mixed Materials" type="box">6</container>
               <container id="aspace_6d1e71b46cde7fe9c9b24e50e3e3596d" parent="aspace_b68d10c3c82893efdd79a4d57712bdaf" type="folder">5</container>
             </did>
@@ -3139,7 +3206,7 @@
           <c03 audience="internal" id="aspace_8884ebdb8c084834a9df114ca70b7e42" level="file">
             <did>
               <unittitle>DiPalma, Ray. Plank. 1979. (Booklet of poetry).</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <unitdate normal="1979"></unitdate>
               <container id="aspace_0b917037030de14843501ad9d9d2380f" label="Mixed Materials" type="box">6</container>
               <container id="aspace_5f71f0dfeb506462e673df838b2994ed" parent="aspace_0b917037030de14843501ad9d9d2380f" type="folder">5</container>
             </did>
@@ -3147,7 +3214,7 @@
           <c03 audience="internal" id="aspace_d42ebd9bffe6f73c5fefcecacad62550" level="file">
             <did>
               <unittitle>Doherty, Mary Jane. "Flores Solitudinis: The ‘Two Ways’ and Vaughan’s Patristic Hagiography”. George Herbert Journal Vol. 7, nos. 1 &amp; 2, Fall 1983/Spring 1984 (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <unitdate normal="1983"></unitdate>
               <container id="aspace_501b50a9a652079e8d19a6ecae6b2149" label="Mixed Materials" type="box">6</container>
               <container id="aspace_6a33fd57389a122084beda2a5ea32453" parent="aspace_501b50a9a652079e8d19a6ecae6b2149" type="folder">5</container>
             </did>
@@ -3162,7 +3229,7 @@
           <c03 audience="internal" id="aspace_1a2c19b78a917f1dadfc27f4f4e5f294" level="file">
             <did>
               <unittitle>Flanner, Hildegarde. The Hearkening Eye. 1979. (Booklet of poetry).</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <unitdate normal="1979"></unitdate>
               <container id="aspace_b4efb7dea72f8f68e1f217c2e0b99e43" label="Mixed Materials" type="box">6</container>
               <container id="aspace_f74f54b514ae4cb3d1249e82b8f95f7d" parent="aspace_b4efb7dea72f8f68e1f217c2e0b99e43" type="folder">6</container>
             </did>
@@ -3170,7 +3237,7 @@
           <c03 audience="internal" id="aspace_201ba58f906e21331fe776a9c23b0da8" level="file">
             <did>
               <unittitle>Gal, Istvan. "Sir Philip Sidney’s Guidebook to Hungary" Hungarian Studies in EnglishVol. 4, December 1969. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+              <unitdate normal="1969"></unitdate>
               <container id="aspace_13da9f81b771ca5fcd34aa3aad3d4e81" label="Mixed Materials" type="box">6</container>
               <container id="aspace_28c90bd208fe0d8a09b280a00e40bdb7" parent="aspace_13da9f81b771ca5fcd34aa3aad3d4e81" type="folder">7</container>
             </did>
@@ -3178,7 +3245,7 @@
           <c03 audience="internal" id="aspace_eca2bac9471ea57909e6a171fcfe5506" level="file">
             <did>
               <unittitle>Gibbons, Reginald. The Poet's Work. Boston: Houghton Mifflin Co.</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <unitdate normal="1979"></unitdate>
               <container id="aspace_33db6da686521c67ae3f1b2b8550059c" label="Mixed Materials" type="box">6</container>
               <container id="aspace_3f5efb2a1da89109607d9b3eafb1b561" parent="aspace_33db6da686521c67ae3f1b2b8550059c" type="folder">7</container>
             </did>
@@ -3186,7 +3253,7 @@
           <c03 audience="internal" id="aspace_38b46f25cdc990ca0714fed1910c81e6" level="file">
             <did>
               <unittitle>Gibbons, Reginald. Miscellaneous poems in typescript and photocopies. Inscribed.</unittitle>
-              <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+              <unitdate normal="1980"></unitdate>
               <container id="aspace_9e61ef830b5e80a954905a6d462c895d" label="Mixed Materials" type="box">6</container>
               <container id="aspace_2a6dfe0aad687928c77bd04bb1284584" parent="aspace_9e61ef830b5e80a954905a6d462c895d" type="folder">8</container>
             </did>
@@ -3194,7 +3261,7 @@
           <c03 audience="internal" id="aspace_28976185a801bc7e1288af2ade81ebe8" level="file">
             <did>
               <unittitle>Goia, Dana. "An Elegy for Vladimir de Pachmann" The Hudson Review Vol. 34, no. 3, Autumn 1981 (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+              <unitdate normal="1981"></unitdate>
               <container id="aspace_9c47e7c7ef50f8246e1644b74ea79be3" label="Mixed Materials" type="box">6</container>
               <container id="aspace_3a84af2b6ee2acfdb5ba90af9aa26a03" parent="aspace_9c47e7c7ef50f8246e1644b74ea79be3" type="folder">9</container>
             </did>
@@ -3202,7 +3269,7 @@
           <c03 audience="internal" id="aspace_f46b486dc3d2a371d98b4a417c31ecfe" level="file">
             <did>
               <unittitle>Greene, Donald. "’Dramatic Texture’ in Pope" in From Sensibility to Romanticism: Essays in Honor of F.A. Pottle (Yale, 1965) (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+              <unitdate normal="1965"></unitdate>
               <container id="aspace_9e232167801224c017f18042c4f77268" label="Mixed Materials" type="box">6</container>
               <container id="aspace_ff3b52eeb0a0eacb75a9a976180ecfe8" parent="aspace_9e232167801224c017f18042c4f77268" type="folder">9</container>
             </did>
@@ -3210,7 +3277,7 @@
           <c03 audience="internal" id="aspace_2e86d2903143088fcf945c84325be2ce" level="file">
             <did>
               <unittitle>Greene, Donald. "Latitudinarianism and Sensibility: The Genealogy of ‘The Man of Feeling’ Reconsidered" Modern Philology Vol. 75, no.2 Nov. 1977. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+              <unitdate normal="1977"></unitdate>
               <container id="aspace_af9f471d60c22cab9f8117f5e0787cab" label="Mixed Materials" type="box">6</container>
               <container id="aspace_47007d2f77d00f10620c2ed5148ee1e7" parent="aspace_af9f471d60c22cab9f8117f5e0787cab" type="folder">9</container>
             </did>
@@ -3218,7 +3285,7 @@
           <c03 audience="internal" id="aspace_b59cb179e60ceb4260b00b416e347069" level="file">
             <did>
               <unittitle>Greene, Donald. "The Study of Eighteenth-Century Literature: Past, Present, Future" in New Approaches to Eighteenth-Century Literature (Columbia Univ., 1974) (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+              <unitdate normal="1974"></unitdate>
               <container id="aspace_d7fa3e6b483e57a1dcbe54eab121d033" label="Mixed Materials" type="box">6</container>
               <container id="aspace_c1a2957efb6b639461c896684bdf3052" parent="aspace_d7fa3e6b483e57a1dcbe54eab121d033" type="folder">10</container>
             </did>
@@ -3226,7 +3293,7 @@
           <c03 audience="internal" id="aspace_05cf01d21a4ee65862622422a3493edc" level="file">
             <did>
               <unittitle>Greene, Donald. "Western Canadian Literature" 1967. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+              <unitdate normal="1967"></unitdate>
               <container id="aspace_1869cf6823b9db103673bcea350d2a7a" label="Mixed Materials" type="box">6</container>
               <container id="aspace_8c3c63fbe8042ff21e43b6f29780b693" parent="aspace_1869cf6823b9db103673bcea350d2a7a" type="folder">10</container>
             </did>
@@ -3241,7 +3308,7 @@
           <c03 audience="internal" id="aspace_4486484d59c3107362dd0de0df5b2c27" level="file">
             <did>
               <unittitle>Guerard, Maclin B. "Reflections in Advanced Middle Age" Women’s Studies Vol. 5, 1977. (Photocopy of Poem) Inscribed.</unittitle>
-              <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+              <unitdate normal="1977"></unitdate>
               <container id="aspace_c91f0f024447dcd643f6f3f020079380" label="Mixed Materials" type="box">6</container>
               <container id="aspace_0877495622f51fa53fc497de7b4cb007" parent="aspace_c91f0f024447dcd643f6f3f020079380" type="folder">10</container>
             </did>
@@ -3265,7 +3332,7 @@
           <c03 audience="internal" id="aspace_b940ddcabf62d772715283053f5f0abc" level="file">
             <did>
               <unittitle>Jacobson, Roman. "On the Verbal Art of William Blake and Other Poet-Painters"Linguistic Inquiry, Vol . 1 , no. 1, Jan. 1970. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+              <unitdate normal="1970"></unitdate>
               <container id="aspace_3fc74850629f446d13771cfbac6994e7" label="Mixed Materials" type="box">7</container>
               <container id="aspace_064e513f8ae3a6562aeabcf3cf2b1464" parent="aspace_3fc74850629f446d13771cfbac6994e7" type="folder">1</container>
             </did>
@@ -3273,7 +3340,7 @@
           <c03 audience="internal" id="aspace_d3948271c0b2d18dfb2674ad336010b4" level="file">
             <did>
               <unittitle>Jacobson, Roman. ""Poetry of Grammar and Grammar of Poetry" Lingua: International Review of General Linguistics, Vol.21, 1968. (Offprint)</unittitle>
-              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+              <unitdate normal="1968"></unitdate>
               <container id="aspace_61d22b166e9aa1669acff6e7f9ce58a6" label="Mixed Materials" type="box">7</container>
               <container id="aspace_a840665d6818f11ab99ff12c3f26d01b" parent="aspace_61d22b166e9aa1669acff6e7f9ce58a6" type="folder">1</container>
             </did>
@@ -3281,7 +3348,7 @@
           <c03 audience="internal" id="aspace_0d82c8359643adb20b761620e2871304" level="file">
             <did>
               <unittitle>Kabdebo, Thomas and Paul Tabori, eds. A Tribute to Gyula Illyes. Washington: Occidental Press, 1968. Includes Donald Davie’s poem “At Plovdiv,” p. 35. Inserted into the book is a letter from Kabdebo to Davie</unittitle>
-              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+              <unitdate normal="1968"></unitdate>
               <container id="aspace_1461edf562ce656f2cefeeb02dbc34d7" label="Mixed Materials" type="box">7</container>
               <container id="aspace_5d02b32681ecb861e1691d657e062e6d" parent="aspace_1461edf562ce656f2cefeeb02dbc34d7" type="folder">1</container>
             </did>
@@ -3289,7 +3356,7 @@
           <c03 audience="internal" id="aspace_33216b4c60963705eeb3ac8fe3771087" level="file">
             <did>
               <unittitle>Kreyling, Michael. "Lee Agonistes: The Southern Hero In the ‘Mid-Passage,’" The South Atlantic Quarterly Vol. 84, no. 4, Autumn 1985. (Offprint)</unittitle>
-              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <unitdate normal="1985"></unitdate>
               <container id="aspace_d062f81851488bbcae38c466ee92847c" label="Mixed Materials" type="box">7</container>
               <container id="aspace_16044ebedf4296e932fd6bf4e505556d" parent="aspace_d062f81851488bbcae38c466ee92847c" type="folder">2</container>
             </did>
@@ -3313,7 +3380,7 @@
           <c03 audience="internal" id="aspace_5ec71d0df07ccf6be2c57f271922f715" level="file">
             <did>
               <unittitle>Menashe, Samuel. Poems: "The Bare Tree" Sept. 22, 1966 (Typescript mss. of Poems) Inscribed.</unittitle>
-              <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+              <unitdate normal="1966"></unitdate>
               <container id="aspace_8d34f43c8159fde4b1942e821979ce7a" label="Mixed Materials" type="box">7</container>
               <container id="aspace_630f975d28ce504a28c0f45dc25cbb27" parent="aspace_8d34f43c8159fde4b1942e821979ce7a" type="folder">5</container>
             </did>
@@ -3321,7 +3388,7 @@
           <c03 audience="internal" id="aspace_2d824bbb28153df6b6c2f39db5dc834c" level="file">
             <did>
               <unittitle>Menashe, Samuel. Poems: "The Bare Tree" Nov. 22, 1968 (Typescript mss. of Poems) Inscribed. (Water damaged)</unittitle>
-              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+              <unitdate normal="1968"></unitdate>
               <container id="aspace_72335ea714743ad5ef84fc2dd8a4b802" label="Mixed Materials" type="box">7</container>
               <container id="aspace_b6fbd51f672fdb1b02ee311ade9782b1" parent="aspace_72335ea714743ad5ef84fc2dd8a4b802" type="folder">6</container>
             </did>
@@ -3329,7 +3396,7 @@
           <c03 audience="internal" id="aspace_3b81dc29971ac89bfd5d5d1890901071" level="file">
             <did>
               <unittitle>Nemoianu, Virgil "Is Literature Always Reactionary?" The Georgia Review Vol. 37,No. 2, Summer 1983. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <unitdate normal="1983"></unitdate>
               <container id="aspace_d550443040a49ed913ab8c86a9cde839" label="Mixed Materials" type="box">7</container>
               <container id="aspace_302aa22dfc3ba349453e940c3edcddda" parent="aspace_d550443040a49ed913ab8c86a9cde839" type="folder">7</container>
             </did>
@@ -3337,7 +3404,7 @@
           <c03 audience="internal" id="aspace_dfa4fea9449781063f2b7b1a9700be08" level="file">
             <did>
               <unittitle>Nist, John. "Dulce and Decorum: An Epic of the American Civil War. Book One:The Peninsular Campaign" The Beloit Poetry Journal Vol. 9, Nos. 1 &amp;2, Fall-Winter 1958.</unittitle>
-              <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+              <unitdate normal="1958"></unitdate>
               <container id="aspace_49054ffadf0ccd02d019e861faa9c186" label="Mixed Materials" type="box">7</container>
               <container id="aspace_765e8f464a24d5ac3aa2a9a97a7b771a" parent="aspace_49054ffadf0ccd02d019e861faa9c186" type="folder">8</container>
             </did>
@@ -3345,7 +3412,7 @@
           <c03 audience="internal" id="aspace_62dc84d009f9a31d16673c99b7dc2084" level="file">
             <did>
               <unittitle>Oberhaus, Dorothy Huff. " ‘Engine Against the Almightie’: Emily Dickinson and Prayer" ESQ, Vol. 32, 3rd Quarter, 1986. (Offprint). Inscribed.</unittitle>
-              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <unitdate normal="1986"></unitdate>
               <container id="aspace_f89ed0612f1f22bb0c93797ab37fc87d" label="Mixed Materials" type="box">7</container>
               <container id="aspace_873e2b818bf99d228caacb720e0dcd05" parent="aspace_f89ed0612f1f22bb0c93797ab37fc87d" type="folder">9</container>
             </did>
@@ -3353,7 +3420,7 @@
           <c03 audience="internal" id="aspace_e50f5f021068e57c91e5f15f013308e5" level="file">
             <did>
               <unittitle>Oberhaus, Dorothy Huff. "’ Tender Pioneer’: Emily Dickinson’s Poems on the Life Of Christ" American Literature, Oct. 1987. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <unitdate normal="1987"></unitdate>
               <container id="aspace_3d969156c026e60f56d3ae74bbb28ee8" label="Mixed Materials" type="box">7</container>
               <container id="aspace_be37a3a6fc6b9824a363cd23ff58b3bd" parent="aspace_3d969156c026e60f56d3ae74bbb28ee8" type="folder">9</container>
             </did>
@@ -3361,7 +3428,7 @@
           <c03 audience="internal" id="aspace_3b0b24655ec3e792bc74466e8643b87b" level="file">
             <did>
               <unittitle>Occident. Vol. XCIX. No. 1, Fall</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <unitdate normal="1979"></unitdate>
               <container id="aspace_ea6076bcebfdd6cb8de8f88d7f53b3df" label="Mixed Materials" type="box">7</container>
               <container id="aspace_f41e5185bf6db917d19fa5daec5c245f" parent="aspace_ea6076bcebfdd6cb8de8f88d7f53b3df" type="folder">10</container>
             </did>
@@ -3369,7 +3436,7 @@
           <c03 audience="internal" id="aspace_1ff43d645d8e8dcfd67bcaf737502f9c" level="file">
             <did>
               <unittitle>Perloff, Marjorie. "Pound/Stevens: Whose Era?" New Literary History: A Journal Of Theory and Interpretation Vol. 13, 1982. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <unitdate normal="1982"></unitdate>
               <container id="aspace_a0840d5c7f02670428524c2bf6aab8a9" label="Mixed Materials" type="box">7</container>
               <container id="aspace_d9705d8d657d63c0b59b88382e31e26c" parent="aspace_a0840d5c7f02670428524c2bf6aab8a9" type="folder">11</container>
             </did>
@@ -3377,7 +3444,7 @@
           <c03 audience="internal" id="aspace_a4d4f7214a191d0d27290ade68f8559b" level="file">
             <did>
               <unittitle>Pikoulis, John. "Scott and ‘Marmion’: The Discovery of Identity" The Modern Language Review Vol. 66, no. 4, October 1971 (Offprint)</unittitle>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+              <unitdate normal="1971"></unitdate>
               <container id="aspace_ad6728aa570dc6ef7640f53a8f62e318" label="Mixed Materials" type="box">7</container>
               <container id="aspace_752be508e96df695c94a95edf1e7a3a0" parent="aspace_ad6728aa570dc6ef7640f53a8f62e318" type="folder">11</container>
             </did>
@@ -3385,7 +3452,7 @@
           <c03 audience="internal" id="aspace_789293634cfdec3f45ddd85da7fa1c90" level="file">
             <did>
               <unittitle>Pinkerton, Helen. "Celebration.” The Southern Review Vol. 12, no. 2, Spring, 1976 (Offprint of Poem) Inscribed.</unittitle>
-              <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+              <unitdate normal="1976"></unitdate>
               <container id="aspace_6f74f947428e70a61f071aa928eabd70" label="Mixed Materials" type="box">7</container>
               <container id="aspace_04f2ac36f2b48311bd2a42ace2b142ef" parent="aspace_6f74f947428e70a61f071aa928eabd70" type="folder">11</container>
             </did>
@@ -3400,7 +3467,7 @@
           <c03 audience="internal" id="aspace_ebec987a060bf0bb6db3a621528e1be3" level="file">
             <did>
               <unittitle>Pratt, William. "Imagism and Irony: The Shaping of the International Style" The South Atlantic Quarterly Vol. 83, no. 1, Winter 1984 (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <unitdate normal="1984"></unitdate>
               <container id="aspace_546774238dc7fd9eb51517b553089c86" label="Mixed Materials" type="box">7</container>
               <container id="aspace_fdd829fd886d0ed8491be3b6e377fa13" parent="aspace_546774238dc7fd9eb51517b553089c86" type="folder">13</container>
             </did>
@@ -3408,7 +3475,7 @@
           <c03 audience="internal" id="aspace_54e3f0217d98d43202b1b52b28380abf" level="file">
             <did>
               <unittitle>Ramsey, Paul, ed. Contemporary Religious Poetry. New Jersey: Paulist Press, 1987. Includes Donald Davie's poem, “Prime,” p. 160.</unittitle>
-              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <unitdate normal="1987"></unitdate>
               <container id="aspace_5b86d4d81a840210b06c9134353e3796" label="Mixed Materials" type="box">7</container>
               <container id="aspace_90e9c7b7b954f955a305101f341f12ec" parent="aspace_5b86d4d81a840210b06c9134353e3796" type="folder">14</container>
             </did>
@@ -3416,7 +3483,7 @@
           <c03 audience="internal" id="aspace_50d27c37a8be34654515aa0933963a13" level="file">
             <did>
               <unittitle>Ramsey, Paul. No Running on the Boardwalk. The University of Georgia Press. Inscribed.</unittitle>
-              <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+              <unitdate normal="1975"></unitdate>
               <container id="aspace_f9e8cde27a7bc10992fa301ac81fa5f4" label="Mixed Materials" type="box">7</container>
               <container id="aspace_8e873198fd45be869a492e105cf9eef5" parent="aspace_f9e8cde27a7bc10992fa301ac81fa5f4" type="folder">15</container>
             </did>
@@ -3424,7 +3491,7 @@
           <c03 audience="internal" id="aspace_eba6fd9ef0e2c85c44af3947449b92eb" level="file">
             <did>
               <unittitle>Ramsey, Paul. Typescript mss. of poems sent to Davie to be considered for inclusion In The Oxford Book of Christian Verse. Also photocopy of poems published in Shenandoah, Vol. XXVI, no. 1, Fall 1974. Correspondence from Ramsey to Davie</unittitle>
-              <unitdate normal="1979-10-21/1979-10-21" type="inclusive">1979 October 21</unitdate>
+              <unitdate normal="1979-10-21">1979 October 21</unitdate>
               <container id="aspace_3c43464e6fdf93185649232f30bd7bb0" label="Mixed Materials" type="box">7</container>
               <container id="aspace_a8296d0df085df0fa04804633571cf01" parent="aspace_3c43464e6fdf93185649232f30bd7bb0" type="folder">16</container>
             </did>
@@ -3432,7 +3499,7 @@
           <c03 audience="internal" id="aspace_fbf090e7beb4d93530e18418d715ab96" level="file">
             <did>
               <unittitle>Reeves, Gareth. "The Waste Land and the Aeneid" Modern Language Review Vol. 82, no. 3, July 1987 (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <unitdate normal="1987"></unitdate>
               <container id="aspace_286b35f0f4e06b30c77cfdbb2378f1ae" label="Mixed Materials" type="box">8</container>
               <container id="aspace_090ad3fbb7cf9711fa08d5dcba7dafcd" parent="aspace_286b35f0f4e06b30c77cfdbb2378f1ae" type="folder">1</container>
             </did>
@@ -3448,7 +3515,7 @@
           <c03 audience="internal" id="aspace_412ae07595dbbef5d89fa9064af69680" level="file">
             <did>
               <unittitle>Shankman, Steven. "Led by the Light of the Maeonian Star: Aristotle on Tragedy and Odyssey 17.415-444" Classical Antiquity, Vol. 2, no. 1, April 1983 (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <unitdate normal="1983"></unitdate>
               <container id="aspace_7dd31b28976334679524b71622568bc3" label="Mixed Materials" type="box">8</container>
               <container id="aspace_91c65b5de3b6b35c5603422a1f40ef00" parent="aspace_7dd31b28976334679524b71622568bc3" type="folder">2</container>
             </did>
@@ -3456,7 +3523,7 @@
           <c03 audience="internal" id="aspace_6afab656f69f3d6dc13f876efff7f214" level="file">
             <did>
               <unittitle>Shankman, Steven. "Reason and Revelation in the Pre-Enlightenment : Eric Vogelin’s Analysis and the Case of Swift" Religion and Literature, Vol. 16, no. 2, Summer, 1984. (Offprint) Inscribed.</unittitle>
-              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <unitdate normal="1984"></unitdate>
               <container id="aspace_3121b2cf130749e375edd6b48b320761" label="Mixed Materials" type="box">8</container>
               <container id="aspace_9b121f5a62cf92407fd3fae8a993ab09" parent="aspace_3121b2cf130749e375edd6b48b320761" type="folder">2</container>
             </did>
@@ -3488,7 +3555,7 @@
           <c03 audience="internal" id="aspace_a94ebff0ace2e4a916e1a561b81f9031" level="file">
             <did>
               <unittitle>Smith, Janet Adam. "Scott and the Idea of Scotland" (Parts 1 and 2) University Of Edinburgh Journal Spring and Autumn 1964 (Offprints)</unittitle>
-              <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+              <unitdate normal="1964"></unitdate>
               <container id="aspace_4245c7fe3d9a4c37d5995f9073bca517" label="Mixed Materials" type="box">8</container>
               <container id="aspace_65cae4ba773908485844bfd9e5d82b9e" parent="aspace_4245c7fe3d9a4c37d5995f9073bca517" type="folder">6</container>
             </did>
@@ -3504,7 +3571,7 @@
           <c03 audience="internal" id="aspace_3ba3543f949ad3c863eb102efbe4eb83" level="file">
             <did>
               <unittitle>Stegner, Wallace. Robert Frost and Bernand De Voto. California: The Associates of Stanford University Libraries</unittitle>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+              <unitdate normal="1974"></unitdate>
               <container id="aspace_9a5d77a8e3c48a81c1e49adc8889e15d" label="Mixed Materials" type="box">8</container>
               <container id="aspace_3281d877b13da08bcf1dcaeac0e9e164" parent="aspace_9a5d77a8e3c48a81c1e49adc8889e15d" type="folder">8</container>
             </did>
@@ -3512,7 +3579,7 @@
           <c03 audience="internal" id="aspace_d448baf5726e6849a82d55b14c94b80b" level="file">
             <did>
               <unittitle>Steiner, George. "Real Presences: The Leslie Stephen Memorial Lecture" (Cambridge University Press, 1986) Inscribed.</unittitle>
-              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <unitdate normal="1986"></unitdate>
               <container id="aspace_79f96099bda60fab86e583979fb6ac49" label="Mixed Materials" type="box">8</container>
               <container id="aspace_15214c8ecc9f738c2b55636fea326754" parent="aspace_79f96099bda60fab86e583979fb6ac49" type="folder">8</container>
             </did>
@@ -3528,7 +3595,7 @@
           <c03 audience="internal" id="aspace_7c46ab86917f3dd53735954cf1a2b7f4" level="file">
             <did>
               <unittitle>Swann, Charles. "The Author of ‘Mark Rutherford’, or Who Wrote Miriam’s Schooling.” The Yearbook of English Studies Vol. 9</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <unitdate normal="1979"></unitdate>
               <container id="aspace_f7b88297b1c09508bd976fc7cb28df41" label="Mixed Materials" type="box">8</container>
               <container id="aspace_fd9733b3e41ddff626f7f381194b6210" parent="aspace_f7b88297b1c09508bd976fc7cb28df41" type="folder">10</container>
             </did>
@@ -3537,7 +3604,7 @@
             <did>
               <unittitle>Trimpi, Wesley. "The Practices of Historical Interpretation and Nashe's 'Brightnesse Falls from the Ayre'". Journal of English and Germanic Philology Vol. LXVI, No. 4. October, 1967. (Offprint) Inscribed. “The Definition and Practice and
                 Literary Studies.” New Literary History Vol. II, No. 1 Autumn, 1970. Inscribed.</unittitle>
-              <unitdate normal="1967/1970" type="inclusive">1967-1970</unitdate>
+              <unitdate normal="1967/1970" type="inclusive"></unitdate>
               <container id="aspace_2b6cd3a331e008678c9f93da82080df1" label="Mixed Materials" type="box">8</container>
               <container id="aspace_b52e967623583620282ecd7cd6fbf2f2" parent="aspace_2b6cd3a331e008678c9f93da82080df1" type="folder">10</container>
             </did>
@@ -3546,7 +3613,7 @@
             <did>
               <unittitle>Wiltshire, Susan. "Introduction: The Classical Tradition in the South" and "Jefferson, Calhoun, and the Slavery Debate: The Classics and the Two Minds of the South.” Southern Humanities Review (Auburn, 1977) Inscribed by Susan Wiltshire to
                 Greg Miller, May, 1979.</unittitle>
-              <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+              <unitdate normal="1977/1979" type="inclusive"></unitdate>
               <container id="aspace_e3d9b6ad6672aa14d08f0cdbf13cd212" label="Mixed Materials" type="box">8</container>
               <container id="aspace_ba28d84e6bf563bbd71ec0d8238c2b12" parent="aspace_e3d9b6ad6672aa14d08f0cdbf13cd212" type="folder">11</container>
             </did>
@@ -3566,7 +3633,7 @@
         <c02 audience="internal" id="aspace_37ba001a2d28480319a27d9a6bee70ee" level="file">
           <did>
             <unittitle>A Garland of Many Years. Poems for Doreen Davie from her loving husband.</unittitle>
-            <unitdate normal="1974-12-10/1974-12-10" type="inclusive">1974 December 10</unitdate>
+            <unitdate normal="1974-12-10">1974 December 10</unitdate>
           </did>
         </c02>
       </c01>
