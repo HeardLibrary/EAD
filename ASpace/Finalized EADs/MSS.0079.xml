@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Clark Family Papers</titleproper>
+        <titleproper>Finding Aid for the Clark Family Papers
+          <num>MSS.0079</num>
+        </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections</publisher>
+        <p>
+          <date>2002</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on
+        <date>2017-07-13 12:10:25 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections</corpname>
+      </repository>
+      <unittitle>Clark Family Papers</unittitle>
+      <unitid>MSS.0079</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 Linear Feet</extent>
+        <extent altrender="carrier">1 Hollinger box.</extent>
+      </physdesc>
+      <unitdate normal="1816/1899" type="inclusive">1816-1899</unitdate>
+      <abstract id="aspace_1115841016af053b4e6b763a49ed5a31">The Correspondence of various members of the Clark family of Campbell County, Virginia, originally Quakers, but later scattered to other denominations.</abstract>
+    </did>
+    <scopecontent id="aspace_da51e67cfdc6b0d9563cba221206835b">
+      <head>Scope and Contents</head>
+      <p>Subjects include business transactions, the Civil War, education, family life, Nineteeth-century customs, poetry, and religion.</p>
+    </scopecontent>
+    <bioghist id="aspace_b42f509225836f87c99d16ace3d2b06f">
+      <head>Biographical / Historical</head>
+      <p>Tucker W. Clark and his brother Edward B. Clark, with their wives and children, migrated to Franklin, Kentucky about 1832 and later moved to Russellville, Kentucky. Several married sisters in Virginia bringing into the correspondence the family names Moorman, Harris, and Martin. Edward B. Clark died in 1835. His daughter Mary Evalina Clark seems to have been the person who preserved this collection since about half the letters were addressed to her. Among the more frequent correspondents was Missouri P. W. Clark, whose widowed mother lived in Raleigh, North Carolina. Missouri often addressed Tucker W. Clark as her Uncle and foster-father. About 1843 she married a Mr. Ricks and settled in Ohio. In 1939, in Russellville, Mary Evalina Clark married Robert Z. Hill, who had migrated from Virginia to Russellville some years before. The most frequent correspondent in later years was a cousin, Julia A. B. Clark, a mother of several children.</p>
+    </bioghist>
+    <acqinfo id="aspace_bdd6c3f5ea4eff87f9becf9bbc94d6af">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Clark Family papers (1816-1899) were deposited in Special Collections by Edward Coffman of Russellville, Ky.</p>
+    </acqinfo>
+    <dsc>
+      <c01 id="aspace_ebda12576d08daedb516f27d8deef859" level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 id="aspace_da6dc122fee56c774959ca2e331334d6" level="file">
+          <did>
+            <unittitle>Baldwin, M.E. - Clark, Emma</unittitle>
+            <container id="aspace_a804b22d635c2bec586fb8196d648a19" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_6d1b9d71ee0b13be3f24c150363a70e8" parent="aspace_a804b22d635c2bec586fb8196d648a19" type="folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4b718863966d7b4ef7e1b589ffcac3e5" level="file">
+          <did>
+            <unittitle>Clark, Henry - Clark, Job</unittitle>
+            <container id="aspace_6245258693f8f42ced90a6d52330a5f3" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_6d595fb4d7c8be63377bf613655a4d3e" parent="aspace_6245258693f8f42ced90a6d52330a5f3" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_0355918833d7f69e804146eb9d347735" level="file">
+          <did>
+            <unittitle>Clark, Julia A.B.</unittitle>
+            <container id="aspace_9ff19820a2d0c62c3c5a8a33401253c1" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_bcf222a6252dd3e2130ab6e9326c09b5" parent="aspace_9ff19820a2d0c62c3c5a8a33401253c1" type="folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c6354654eaf43eb028489e8bcc949a75" level="file">
+          <did>
+            <unittitle>Clark, Julia A.B.</unittitle>
+            <container id="aspace_e511829caae21a168ec14b224d1a779a" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_0fd24a551357ba8e57742ac342036bed" parent="aspace_e511829caae21a168ec14b224d1a779a" type="folder">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_08bd51738ab85ad38b59076231be7be5" level="file">
+          <did>
+            <unittitle>Clark, Julia A.B.</unittitle>
+            <container id="aspace_1de051b438c0dd0c04023e887b964555" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_4072db153b7310cab074dc8c9cfca90c" parent="aspace_1de051b438c0dd0c04023e887b964555" type="folder">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9f4ff2600c4ae108538f3532974e5be7" level="file">
+          <did>
+            <unittitle>Clark, M.E.M. - Harris, Ann O.L.</unittitle>
+            <container id="aspace_4cafabc05fec6e4687a995277dd4893e" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_09af184a7f73c0c6b4d86ca6df3bc611" parent="aspace_4cafabc05fec6e4687a995277dd4893e" type="folder">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_22167843bd11954ba0c01cdbb2c56894" level="file">
+          <did>
+            <unittitle>Harris, Edmonia V. - Harris, John O.</unittitle>
+            <container id="aspace_e330ec0c45d56b1cb1c750e02739c7ec" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_f7073a466a73bd2b08e3b462458cf1a4" parent="aspace_e330ec0c45d56b1cb1c750e02739c7ec" type="folder">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_f9c0226f029874bd2da6d31325c528d4" level="file">
+          <did>
+            <unittitle>Harris, Mary O. - Hill, Annie O.L.</unittitle>
+            <container id="aspace_feda63baf3a9574f8021527da259a52e" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_36573095b40cc725ad353b4806849ce4" parent="aspace_feda63baf3a9574f8021527da259a52e" type="folder">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_468513bd3bd58a82f3afacc916bafef4" level="file">
+          <did>
+            <unittitle>Hill, Edward H. - Hill, John</unittitle>
+            <container id="aspace_56004b519fcc79ed420f6379f4141340" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_20e457c8ef8913f7f0b7df536177efa8" parent="aspace_56004b519fcc79ed420f6379f4141340" type="folder">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_2cf4cfcb2098c88521dc8f6351a26be8" level="file">
+          <did>
+            <unittitle>Hill, Julia - Hill, Martha H.</unittitle>
+            <container id="aspace_6e84ff4c8238d522b0304139aa837f58" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_96e3631befb0cede0169a4452b6478cb" parent="aspace_6e84ff4c8238d522b0304139aa837f58" type="folder">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_fe90a7d409ee3b105193eeef614d51db" level="file">
+          <did>
+            <unittitle>Hill, Mary C.M. - Hill, Robert Z.</unittitle>
+            <container id="aspace_cfde6d507bf105a606d52a7167055c1d" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_b15a1ba8324a12eb55c78088eb76b91c" parent="aspace_cfde6d507bf105a606d52a7167055c1d" type="folder">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_08590290773b4fbfcf28fb470129decb" level="file">
+          <did>
+            <unittitle>Hill, Sally Ann</unittitle>
+            <container id="aspace_36c31c19b1cc3130809ec0aba8eb6c60" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_2c9b7d6ba234726b3df7583fd9434ef1" parent="aspace_36c31c19b1cc3130809ec0aba8eb6c60" type="folder">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_0d2665eb4f3ca2ef105ecac9878571f2" level="file">
+          <did>
+            <unittitle>Hill, Sarah Addison - Hill, Thomas M.</unittitle>
+            <container id="aspace_cf2ad6999dd526757fcf2811bb9572aa" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_8541c9ee855216415a80eca6e56b4f96" parent="aspace_cf2ad6999dd526757fcf2811bb9572aa" type="folder">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_f4a8044a8461c45131ea79265ff55948" level="file">
+          <did>
+            <unittitle>Horton, L.A. - Leftwich, Lucy F. Moorman</unittitle>
+            <container id="aspace_f1a66f10c58cc004a49303759d624c99" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_8d50dce0891b603a6fe6c5ffd9aef258" parent="aspace_f1a66f10c58cc004a49303759d624c99" type="folder">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_d4c9525ef080461c2a5099974c1eb52c" level="file">
+          <did>
+            <unittitle>Leftwich, Lucy F. Moorman</unittitle>
+            <container id="aspace_50482fd765bdc60da6da46d1299426f8" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_9249e79aeb99464b12994613f7ec0c6e" parent="aspace_50482fd765bdc60da6da46d1299426f8" type="folder">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_9a064d85343e8efb59778e879d7c0627" level="file">
+          <did>
+            <unittitle>LeMoose, Mo. - Martin, E.</unittitle>
+            <container id="aspace_348885f95b35787ef059fba8afd1a166" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_cf60bbb11d9f41b699ad173d016eb481" parent="aspace_348885f95b35787ef059fba8afd1a166" type="folder">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_37224d551b86701dfadb50f14a3ba677" level="file">
+          <did>
+            <unittitle>Martin, Mary E.C.</unittitle>
+            <container id="aspace_ad8fb5b3b1c7bf6c62c65fe1aebd800f" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_861a955c1bb8cfd32023a13fc50198c8" parent="aspace_ad8fb5b3b1c7bf6c62c65fe1aebd800f" type="folder">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_c7bb9b0fbd297aeb27d8820b4a6b700e" level="file">
+          <did>
+            <unittitle>Martin, Matthew - Moorman, James W.</unittitle>
+            <container id="aspace_ea8333323de6817386b8c2fb7b637072" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_082e50d9cbd680a3de049996bc209364" parent="aspace_ea8333323de6817386b8c2fb7b637072" type="folder">18</container>
+          </did>
+        </c02>
+        <c02 id="aspace_f2b0cbadf2d79905270022cad33e15d8" level="file">
+          <did>
+            <unittitle>Moorman, Judith - Moorman, Thomas T.</unittitle>
+            <container id="aspace_e2b478a7ba9fe853b7caf938de3c682e" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_45cdf30e741870a6d077f2c4a9151550" parent="aspace_e2b478a7ba9fe853b7caf938de3c682e" type="folder">19</container>
+          </did>
+        </c02>
+        <c02 id="aspace_6a90048679c40349e43cecd4fb2ab42b" level="file">
+          <did>
+            <unittitle>Moorman, William H. - Quathney, R.T.</unittitle>
+            <container id="aspace_21338f2fd3aec346dd130d1c2116c09f" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_4f547c0352ad1fa97ab863b1f5582c73" parent="aspace_21338f2fd3aec346dd130d1c2116c09f" type="folder">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_654fcc97924cea922c712b3e5f358753" level="file">
+          <did>
+            <unittitle>Ricks, Missouri P.W. Clark</unittitle>
+            <container id="aspace_e07125df751b185d6feddca069461a4a" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_1e3aa6ed33c601e285edda1f4b834635" parent="aspace_e07125df751b185d6feddca069461a4a" type="folder">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_3d54576749a7cb834b30f02e34a1efc1" level="file">
+          <did>
+            <unittitle>Ricks, Missouri P.W. Clark</unittitle>
+            <container id="aspace_7b9a1222bed7686eb61f93b271bfb4ab" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_32f2c6ba75179a72527ce478f0b903cc" parent="aspace_7b9a1222bed7686eb61f93b271bfb4ab" type="folder">22</container>
+          </did>
+        </c02>
+        <c02 id="aspace_591a91b0e888abb7b8b7be6d166faf55" level="file">
+          <did>
+            <unittitle>First Name Only</unittitle>
+            <container id="aspace_b9f1faf8d684bbc9c21e742505f11a8a" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_57d2933e23cf19f6bb065b016f15f738" parent="aspace_b9f1faf8d684bbc9c21e742505f11a8a" type="folder">23</container>
+          </did>
+        </c02>
+        <c02 id="aspace_02554bb61101b6582d8de265f983c508" level="file">
+          <did>
+            <unittitle>Unknown</unittitle>
+            <container id="aspace_85af2985a89d2a5e7ec45c9f2151bce8" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_7f948be36819af773ab9a1e14d52305e" parent="aspace_85af2985a89d2a5e7ec45c9f2151bce8" type="folder">24</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_b7b2f548ef39e047ac01fa771ac1a2b6" level="series">
+        <did>
+          <unittitle>Business Papers</unittitle>
+        </did>
+        <c02 id="aspace_5c7ec7be880d1e26f67d505edee33ae4" level="file">
+          <did>
+            <unittitle>Notes, bills of sale, etc.</unittitle>
+            <container id="aspace_3e8abf0a3d74812fde794c08d53f01b5" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_6db94dbea182f756aeab90e08095bbfa" parent="aspace_3e8abf0a3d74812fde794c08d53f01b5" type="folder">25</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_2f65b1a954acc8e0baf2ede134ef61c6" level="series">
+        <did>
+          <unittitle>Genealogy</unittitle>
+        </did>
+        <c02 id="aspace_bfd2b868d0854470740636f83cf83327" level="file">
+          <did>
+            <unittitle>Limited list of the Clark Family Genealogy</unittitle>
+            <container id="aspace_e1d82ae80ed14b651c50e63c1b9857bf" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_727b1e5a1c135471af8e59e808b43268" parent="aspace_e1d82ae80ed14b651c50e63c1b9857bf" type="folder">26</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ebeb85e4e633914c1b10446d3d9dd2aa" level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+        </did>
+        <c02 id="aspace_71c4110e85382d35ad422fe75ec8b752" level="file">
+          <did>
+            <unittitle>Photographs, poems, empty envelopes, etc.</unittitle>
+            <container id="aspace_008d6a612a8484879a23768a3256ffb2" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_f50cfef1c944a62216ee3bbf33064c49" parent="aspace_008d6a612a8484879a23768a3256ffb2" type="folder">27</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

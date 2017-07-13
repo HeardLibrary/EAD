@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Maya Medical Manuscripts<num>MSS.0008</num>
+        </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on
+        <date>2017-07-13 13:40:38 -0500</date>.</creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="spa">Spanish; Castilian</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections</corpname>
+      </repository>
+      <unittitle>Maya Medical Manuscripts</unittitle>
+      <unitid>MSS.0008</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 Linear Feet</extent>
+        <extent altrender="carrier">1 Hollinger</extent>
+      </physdesc>
+      <unitdate normal="1803/1803">1803</unitdate>
+    </did>
+    <scopecontent id="aspace_ffd63f6afa389a6dccc2c5ee554e002d">
+      <head>Scope and Contents</head>
+      <p>
+        This manuscript contains two manuscripts in one, which consists of a book of medical remedies, with illnesses cross-referenced to plants and various curing recipes. In Maya and Spanish, the two constitute respectively, the original Recetario de los
+        Indios, and the Cuaderno de Teabo. This volume offers insights into the ailments that plagued inhabitants of Mexico in the nineteenth century.
+      </p>
+      <p>
+        The first text, a portion of the original collection Recetarios by the Yucatan scholar, Juan Pio Perez, consists of pages of concoctions for ailments such as fever, paralysis, bruises, herpes, headaches, burns, consumption, hemorrhages, hiccups,
+        bubo, etc. An index of related plants for the numerous remedies accompanies this text.
+      </p>
+      <p>
+        The second manuscript entitled, Cuaderno de Teabo, is dated 1803. The text, completely in Mayan, may very well have been transcribed from the original by Bishop Cresencio Carillo y Ancona, the famed cleric-historian of the Yucatan. It was apparently
+        the medical guide for the town of Teabo in the earliest years of the 19th century. Included in this manuscript are numerous remedies for illnesses from fevers to aching bones. A listing of plants utilized in the remedies if found at the end of the
+        text.
+      </p>
+    </scopecontent>
+    <dsc>
+      <c01 id="aspace_68f0b66673292836878fb4df36bf5611" level="file">
+        <did>
+          <unittitle>Recetario de los Indios</unittitle>
+          <abstract id="aspace_a7ac64890cf1df98b0a0b7bcfa370601">The first text, a portion of the original collection
+            <emph>Recetarios</emph>
+            by the Yucatan scholar, Juan Pio Perez, consists of pages of concoctions for ailments such as fever, paralysis, bruises, herpes, headaches, burns, consumption, hemorrhages, hiccups, bubo, etc. An index of related plants for the numerous remedies
+            accompanies this text.</abstract>
+          <container id="aspace_99f899a1015a96e4b49491e9fab0361e" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_b28adf7a71ed646590c6cd8e18830ee6" parent="aspace_99f899a1015a96e4b49491e9fab0361e" type="item">1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_d25bdf38ea8e1e707cddb265604a718e" level="file">
+        <did>
+          <unittitle>Cuaderno de Teabo</unittitle>
+          <unitdate normal="1803/1803">1803</unitdate>
+          <abstract id="aspace_55a69983f1a583c769dd44a0c3bf91a2">The second manuscript entitled,
+            <emph>Cuaderno de Teabo</emph>, is dated 1803. The text, completely in Mayan, may very well have been transcribed from the original by Bishop Cresencio Carillo y Ancona, the famed cleric-historian of the Yucatan. It was apparently the medical guide
+            for the town of Teabo in the earliest years of the 19th century. Included in this manuscript are numerous remedies for illnesses from fevers to aching bones. A listing of plants utilized in the remedies if found at the end of the text.</abstract>
+          <container id="aspace_101509b448170f1d778585eae5fff567" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_480dfb4b68a53633ad24345229c0b8ea" parent="aspace_101509b448170f1d778585eae5fff567" type="item">2</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
