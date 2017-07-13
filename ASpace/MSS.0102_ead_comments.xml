@@ -126,7 +126,7 @@
       <p>The Donald Davie Papers were purchased from his estate, and literary rights remain the property of his heirs. Please consult the Head of Special Collections for permission to quote or publish any part of this collection.</p>
     </userestrict>
     <dsc>
-      <!-- <c01> is series level, 02 is subseries level, 03 is folder level, 04 is item level if required -->
+      <!-- In most finding aids, <c01> is series level, 02 is typically subseries level, 03 is folder level, 04 is item level if required. In the case of finding aids that are lacking series, c02 typically becomes the folder or item level. -->
       <c01 id="aspace_813575a28eb606497666e2495ef58eac" level="series">
         <did>
           <unittitle>Writings</unittitle>
@@ -141,7 +141,7 @@
           <c03 audience="internal" id="mss.102_b1_f1_i1" level="file">
             <did>
               <unittitle>Test item</unittitle>
-              <!-- Entering the date in the format below will create the proper format for a single date in ArchivesSpace (i.e., the date type will be listed as "single", there will only be one beginning date field instead of two as in inclusive, and the expression field will be left blank). The date listed in the normal section will automatically be added to the end of the item's name. Other types of dates can be seen in components further down-->
+              <!-- Entering the date in the format below will create the proper format for a single date in ArchivesSpace (i.e., the date type will be listed as "single", there will only be one beginning date field instead of two as in inclusive, and the expression field will be left blank). The date listed in the normal section will automatically be added to the end of the item's name. Other types of dates can be seen in components further down on lines 1923 and 1940. -->
               <unitdate normal="1986"></unitdate>
               <container id="mss.102_b1_f1_i1_1" label="Mixed Materials" type="box">1</container>
               <!-- Folder id's will need to be different than their parent box id's, but be sure to link the folder to the proper parent. Might be worth investigating whether multiple records can use the same container id's and be linked together. (update) After investigating, the container label is all that matters, not the id from what I can tell.-->
