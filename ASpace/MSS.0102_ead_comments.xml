@@ -35,7 +35,7 @@
   </eadheader>
   <archdesc level="collection">
     <did>
-      <!-- Always the same -->
+      <!-- Usually English unless otherwise noted on the finding aid. -->
       <langmaterial>
         <language langcode="eng">English</language>
       </langmaterial>
@@ -45,9 +45,9 @@
       </repository>
       <!-- The short name for the collection, usually 'firstname lastname papers/collection'. -->
       <unittitle>Donald Davie2 Papers</unittitle>
-      <!-- The manuscript number of the collection, always in the format 'MSS.number'. The number must be 4 digits. -->
+      <!-- The manuscript number of the collection, always in the format 'MSS.number'. The number must be 4 digits. This may be looked up on the manuscripts register. -->
       <unitid>MSS.0102</unitid>
-      <!-- If the extent of the collection is listed, include it here. The "materialtype spaceoccupied" field will be there more often than the "carrier" field.-->
+      <!-- If the extent of the collection is listed, include it here. The "materialtype spaceoccupied" field will be there more often than the "carrier" field. The extent field is required in ArchivesSpace. -->
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">3.26 Linear Feet</extent>
         <extent altrender="carrier">8 Hollinger boxes</extent>
