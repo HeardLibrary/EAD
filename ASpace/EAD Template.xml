@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <!-- The filing title is the one listed on the Manuscripts register, typically last name, first name. If there is a designation such as 'faculty', please include that as well. -->
+        <titleproper type="filing">Lastname, Firstname Papers/Collection</titleproper>
+        <!-- This is the proper finding aid title found at the beginning at the finding aid. Note that the filing title is different than the titleproper field. -->
+        <titleproper>Finding Aid for the Firstname Lastname Papers/Collection</titleproper>
+        <!-- The author of the finding aid. The authors are singular or plural, and usually listed on every finding aid -->
+        <author>insert author</author>
+      </titlestmt>
+      <publicationstmt>
+        <!-- Universal to all finding aids -->
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <!-- The date the finding aid was published and/or completed -->
+          <date>YYYY</date>
+        </p>
+        <!-- Universal to all finding aids -->
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+        <!-- Universal to all finding aids -->
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <!-- End of universal EAD header -->
+  <archdesc level="collection">
+    <did>
+      <!-- The language of the finding aid. Most often English, but other languages in rare circumstances -->
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <!-- Universal to all finding aids -->
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <!-- The short name for the collection, usually 'firstname lastname papers/collection'. -->
+      <unittitle>Firstname lastname Papers/Collection</unittitle>
+      <!-- The manuscript number of the collection, always in the format 'MSS.number'. The number must be 4 digits. -->
+      <unitid>MSS.0000</unitid>
+      <!-- Include the extent of the collection here. If not on the finding aid itself, refer to the manuscripts register for the information. The "materialtype spaceoccupied" should always be included-->
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">## Linear Feet</extent>
+        <!-- The "carrier" field can be used to specify the type of boxes used if the information is listed. Otherwise, delete this line. -->
+        <extent altrender="carrier">## Hollinger/Paige boxes</extent>
+      </physdesc>
+      <!-- Dates should be done in the format below. If the collection has multiple dates (as almost all do), the 'normal' format is 'begindate/enddate'. The 'normal' field is most important and should be in all finding aids. The type can be either 'inclusive' or 'bulk'. If there is only a single date, the type field is not needed. Whatever is between the <unitdate>information here</unitdate> field will be the displayed value (it overrides other formatting codes) and is not always necessary.-->
+      <unitdate normal="1942/1995" type="inclusive">1942-1995</unitdate>
+    </did>
+    <scopecontent>
+      <!-- Scope and Contents notes are the general collection description notes for every finding aid. The best ones will have a full series listing, dates, description, and subseries listing. In other finding aids, this information might be in poor shape and only briefly describe the collection. If unsure where to put information, it is usually best to simply put it in the scope and contents note.-->
+      <head>Scope and Contents</head>
+      <!-- Every paragraph from the finding aid will need a separate <p></p> tag around it. This tells the system to publish the information in separate blocks. -->
+      <p>The papers of author, educator, poet, and critic Blah Blah consist of his writings, published and unpublished, printed and in draft form, both manuscripts and typescripts, literary correspondence, personal and biographical data, materials pertaining to his academic career and other professional activities, works of his associates and colleagues.</p>
+      <p>The papers consist of these series:
+        <!-- lists should be formated like this. The type="ordered" will cause each new item to be automatically numbered. The numeration="upperroman" will make the numbers uppercase Roman numerals. Series should be given the "upperroman" numeration. -->
+        <list type="ordered" numeration="upperroman">
+          <item>Series I: replace this text!</item>
+          <item>Series II: replace this text!</item>
+        </list>
+      </p>
+      <!-- If subseries are listed in each series, type it up like this. -->
+      <p>The series blah blah includes some text here. The subseries are:
+        <!-- Subseries should be given the lowerroman numeration. -->
+        <list type="ordered" numeration="lowerroman">
+          <item>replace with text!</item>
+          <item>replace with text!</item>
+        </list>
+      </p>
+    </scopecontent>
+    <!-- If there is a biographical or historical note, it goes in this tag, using <p> tags to separate paragraphs. Chronologies or timelines also go here. -->
+    <bioghist>
+      <p>This is a history of this family or collection.
+      </p>
+    </bioghist>
+    <!-- If there's every any language indicating restrictions to the materials or statements about "rights", that information should go in the Conditions Governing Use tag. Note that a <p> tag is still required for the material. -->
+    <userestrict>
+      <head>Conditions Governing Use</head>
+      <p>The Blah blah Papers were purchased from his estate, and literary rights remain the property of his heirs. Please consult the Head of Special Collections for permission to quote or publish any part of this collection.</p>
+    </userestrict>
+    <dsc>
+      <!-- In most finding aids, <c01> is series level, 02 is typically subseries level, 03 is folder level, 04 is item level if required. In the case of finding aids that are lacking series, c02 typically becomes the folder or item level. If unsure what level something is at, write level="file". -->
+      <c01 level="series">
+        <did>
+          <unittitle>Series I name here</unittitle>
+          <!-- This is the range of dates for the entire series. The unitdate can be deleted if this is not listed. -->
+          <unitdate normal="1947/1988" type="inclusive"></unitdate>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Subseries name here if present</unittitle>
+          </did>
+          <!-- The lowest level is always 'file'. The lowest level should most often be the box or folder level. If you are entering in a finding aid, and you see a number of items under a "Box #" label, only type up the items below the 'Box #'. 'Box #' is not a series or subseries; that box # information will go in the <container> tag within each <c0> tag, explained below. -->
+          <c03 level="file">
+            <did>
+              <unittitle>Title of folder level information</unittitle>
+              <!-- Entering the date in the format below will create the proper format for a single date in ArchivesSpace. The date listed in the normal section will automatically be added to the end of the item's name. Other types of dates can be seen in components further down.-->
+              <unitdate normal="1986"></unitdate>
+              <!-- While the box and folder numbers will change within the <container> tag, the 'label' should always be 'Mixed Materials'. This label should only be used on those <c0> tags with level="file". Series and subseries should not get the 'Mixed materials' tag. Box and folder numbers will be based on each individual finding aid's structure. If there is a numbered list under something like 'Box 1' on the finding aid, each number will likely correspond to a new folder.-->
+              <container label="Mixed Materials" type="box">1</container>
+              <container type="folder">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>More text to replace</unittitle>
+              <!-- The date listed in the normal section will automatically be added to the end of the item's name, unless you enter something else between the brackets. Here, "1970 February" will appear after the item instead of "1970-02", but the 1970-02 date will still be properly searchable. The standard format for the 'normal' field is YYYY, YYYY-MM, or YYYY-MM-DD. The information between the brackets is Year Month Day, with no commas. -->
+              <unitdate normal="1970-02">1970 February</unitdate>
+              <container label="Mixed Materials" type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Even more text to replace</unittitle>
+              <!-- If items don't have a date, there's no need to put the field at all. Note that as you start a new box, like below, the folder numbering restarts as well. -->
+              <container label="Mixed Materials" type="box">2</container>
+              <container type="folder">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Even more text to replace 2</unittitle>
+              <!-- If items say 'undated', that information is placed in the format below. -->
+              <unitdate>undated</unitdate>
+              <container label="Mixed Materials" type="box">2</container>
+              <container type="folder">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Even more text to replace 3</unittitle>
+              <!-- If there is a range of dates, put them in the format below. If there is no folder number listed, a box number only will be sufficient. -->
+              <unitdate normal="1947/1988" type="inclusive"></unitdate>
+              <container label="Mixed Materials" type="box">3</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
