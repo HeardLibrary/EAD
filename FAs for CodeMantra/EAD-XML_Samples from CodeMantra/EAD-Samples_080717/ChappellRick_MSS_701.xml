@@ -1,0 +1,3448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Chappell, C. Rick Papers</titleproper>
+        <titleproper>Finding Aid for the C. Rick Chappell Papers</titleproper>
+        <author>C. Rick Chappell</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>undated</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>C. Rick Chappell Papers</unittitle>
+      <unitid>MSS.0701</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">23.82 linear feet</extent>
+      </physdesc>
+      <unitdate>undated</unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Nobel Symposia,</unittitle>
+          <unitdate>March 1982</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Nobel Symposia,</unittitle>
+          <unitdate>March 1982</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>Space Lab 3 CNN Commentary,</unittitle>
+          <unitdate>April-May 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>Space Lab 3 CNN Commentary,</unittitle>
+          <unitdate>April 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>Space Lab 3 CNN Commentary &#8211;Promotional Booklet,</unittitle>
+          <unitdate>April 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>Space Lab 3 CNN Commentary,</unittitle>
+          <unitdate>April 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>Space Lab 3 Press Materials,</unittitle>
+          <unitdate>April 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle>Space Lab 3 Press Materials,</unittitle>
+          <unitdate>July 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">9</container>
+          <unittitle>NASA Awards and ABC News Close-up,</unittitle>
+          <unitdate>March-September 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>ATLAS Mission Water Survival Training Materials,</unittitle>
+          <unitdate>May 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>Big Talks &#8211;&#8220;Council on Graduate Schools&#8221; by P. Syverson and Moira J. Maguire,</unittitle>
+          <unitdate>March 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>Big Talks &#8211;Apollo 11 Anniversary by President George W. Bush, 1989 and Budget of the United States, 1990</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>Big Talks &#8211;Articles on Space Race,</unittitle>
+          <unitdate>1958-1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>
+            <emph render="italic">Heavens and the Earth</emph>:
+            <emph render="italic">a Political History of the Space Age.</emph>
+            Walter McDougall -Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>
+            <emph render="italic">Heavens and the Earth: a Political History of the Space Age.</emph>
+            Walter McDougall - Photocopies</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>Big Talks &#8211;Notes and Clippings,</unittitle>
+          <unitdate>September 1987-September 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>Big Talks &#8220;What Future for the United States in Space&#8221; NASA,</unittitle>
+          <unitdate>September 1987</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">18</container>
+          <unittitle>Big Talks Articles on Space Exploration,</unittitle>
+          <unitdate>November 1958-September 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">19</container>
+          <unittitle>Space Science Heritage Photographs,</unittitle>
+          <unitdate>December 1990-October 1993 (7)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">20</container>
+          <unittitle>NASA Headquarters/Washington,</unittitle>
+          <unitdate>March-April 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">21</container>
+          <unittitle>NASA Headquarters/Washington,</unittitle>
+          <unitdate>April 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">22</container>
+          <unittitle>NASA Headquarters/Washington,</unittitle>
+          <unitdate>March-May 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">23</container>
+          <unittitle>NASA Headquarters/Washington,</unittitle>
+          <unitdate>May 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">24</container>
+          <unittitle>NASA Headquarters/Washington,</unittitle>
+          <unitdate>February-May 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">25</container>
+          <unittitle>NASA Headquarters/Washington,</unittitle>
+          <unitdate>February 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">26</container>
+          <unittitle>David Reasoner Tribute Materials,</unittitle>
+          <unitdate>May-June 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">27</container>
+          <unittitle>David Reasoner Tribute Slides,</unittitle>
+          <unitdate>April 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">28</container>
+          <unittitle>Aerospace Education,</unittitle>
+          <unitdate>December 1995-March 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">29</container>
+          <unittitle>Aerospace Education,</unittitle>
+          <unitdate>December 1995-February 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">30</container>
+          <unittitle>Aerospace Education,</unittitle>
+          <unitdate>December 1995-February 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">31</container>
+          <unittitle>Aerospace Education,</unittitle>
+          <unitdate>October-December 1995</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>August 1992-November 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>February 1991-March 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>March 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>September-November 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-October 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>Aspen Global Change Institute &#8211;Ground Truth Studies,</unittitle>
+          <unitdate>April-September 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>March-April 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">10</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>January 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">11</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July 1990-January 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">12</container>
+          <unittitle>Aspen Global Change Institute, 1992</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>January-July 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">14</container>
+          <unittitle>Aspen Global Change Institute &#8211;Ground Truth Studies Teachers&#8217; Handbook,</unittitle>
+          <unitdate>June 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">15</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>January 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">16</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>May-June 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">17</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-August 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">18</container>
+          <unittitle>Aspen Global Change Institute &#8211;Summer Sessions, 1991</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">19</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>May-July 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">20</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>April 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">21</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>April 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">22</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>April-June 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">23</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>March-May 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">24</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>September 1990-September 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">25</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>September 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">26</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>November1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">27</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">2</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-September 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle>Aspen Global Change Institute -Publicity,</unittitle>
+          <unitdate>September 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">7</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">8</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">9</container>
+          <unittitle>Aspen Global Change Institute &#8211;Publicity,</unittitle>
+          <unitdate>July-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">10</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">11</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">12</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>April-July 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">13</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>March-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">14</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">15</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">16</container>
+          <unittitle>Aspen Global Change Institute/International Space year(ISY) Connection,</unittitle>
+          <unitdate>June-July 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">17</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>June-July 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">18</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>December 1989-April 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">19</container>
+          <unittitle>Aspen Global Change Institute &#8211;Windstar Foundation Grant,</unittitle>
+          <unitdate>December 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">20</container>
+          <unittitle>Aspen Global Change Institute &#8211;Ground Truth Studies, 1993</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">21</container>
+          <unittitle>Aspen Global Change Institute &#8211;Ground Truth Studies,</unittitle>
+          <unitdate>March 1992-June 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">22</container>
+          <unittitle>Aspen Global Change Institute &#8211;Ground Truth Studies Teachers&#8217; Handbook,</unittitle>
+          <unitdate>March 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">23</container>
+          <unittitle>Aspen Global Change Institute &#8211;Ground Truth Studies,</unittitle>
+          <unitdate>February 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">24</container>
+          <unittitle>Aspen Global Change Institute &#8211;Ground Truth Studies,</unittitle>
+          <unitdate>December 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">25</container>
+          <unittitle>Aspen Global Change Institute &#8211;Education Plan/Ground Truth Studies, undated</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle>International Space year (ISY) &#8211;Training in Remote Sensing, undated</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">2</container>
+          <unittitle>Association of Space Explorers, 1989-July 1991</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">3</container>
+          <unittitle>International Space Station (ISS) Investigator Workshop,</unittitle>
+          <unitdate>July-August 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">4</container>
+          <unittitle>International Space Station (ISS) Investigator Workshop,</unittitle>
+          <unitdate>July-August 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">5</container>
+          <unittitle>Space Station Science Operations,</unittitle>
+          <unitdate>August 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">6</container>
+          <unittitle>Space Station Science Operations,</unittitle>
+          <unitdate>August 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">7</container>
+          <unittitle>Space Station Science Operations,</unittitle>
+          <unitdate>August 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">8</container>
+          <unittitle>Space Station Science Operations,</unittitle>
+          <unitdate>August 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">9</container>
+          <unittitle>Space Station Science Operations,</unittitle>
+          <unitdate>July-August 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">10</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>January-February 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">11</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>December 1993-January 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">12</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>December 1993-January 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">13</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>November 1993-January 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">14</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>August-December 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">15</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>August-November 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">16</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>May-July 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">17</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>June-July 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">18</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>April-June 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">19</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>March-April 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">20</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial -Photographs,</unittitle>
+          <unitdate>March1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">21</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>March 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">22</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>March-September 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">23</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial &#8211;NASA Alumni League Support,</unittitle>
+          <unitdate>March-September 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">24</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>December 1992-March 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">25</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>August-October 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">26</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial,</unittitle>
+          <unitdate>August 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">27</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial -Photographs,</unittitle>
+          <unitdate>July 1992-January 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">28</container>
+          <unittitle>Marshall Space Flight Center Employee Living Memorial, undated</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>Global Learning and Observations to Benefit the Environment (GLOBE)&#8211;Teachers&#8217; Guide,</unittitle>
+          <unitdate>April 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2</container>
+          <unittitle>Global Learning and Observations to Benefit the Environment (GLOBE)&#8211;Implementation Plan</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">3</container>
+          <unittitle>Global Learning and Observations to Benefit the Environment (GLOBE) -Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">4</container>
+          <unittitle>Global Learning and Observations to Benefit the Environment (GLOBE)&#8211;Talks with Jack Dailey,</unittitle>
+          <unitdate>December 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">5</container>
+          <unittitle>Global Learning and Observations to Benefit the Environment (GLOBE) &#8211;Materials,</unittitle>
+          <unitdate>June 1994-March 1995</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">6</container>
+          <unittitle>Global Learning and Observations to Benefit the Environment (GLOBE) &#8211;Appointment,</unittitle>
+          <unitdate>June 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">7</container>
+          <unittitle>Global Learning and Observations to Benefit the Environment (GLOBE) &#8211;Press Announcement and Job Duties,</unittitle>
+          <unitdate>May 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">8</container>
+          <unittitle>USA Inc.,</unittitle>
+          <unitdate>November 1993-February 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">9</container>
+          <unittitle>USA Inc.,</unittitle>
+          <unitdate>May-October 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">10</container>
+          <unittitle>USA Inc.,</unittitle>
+          <unitdate>February-September 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">11</container>
+          <unittitle>USA Inc.,</unittitle>
+          <unitdate>August 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">12</container>
+          <unittitle>USA Inc.,</unittitle>
+          <unitdate>March &#8211;May 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">13</container>
+          <unittitle>USA Inc. &#8211;Technology In Action/Marshall Space Flight Center &#8211;Annual Report, 1992</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">14</container>
+          <unittitle>USA Inc.,</unittitle>
+          <unitdate>November 1990-April 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">15</container>
+          <unittitle>USA Inc. &#8211;Photographs</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">16</container>
+          <unittitle>Marshall Space Flight Center -Technology Utilization Presentation,</unittitle>
+          <unitdate>January 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">17</container>
+          <unittitle>NASA Technology Transfer Report of Technology Transfer Team,</unittitle>
+          <unitdate>December 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">18</container>
+          <unittitle>NASA &#8211;Career,</unittitle>
+          <unitdate>July 1989-June 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">19</container>
+          <unittitle>NASA &#8211;Career,</unittitle>
+          <unitdate>March 1989-August 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">20</container>
+          <unittitle>NASA &#8211;Career, 1989</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">21</container>
+          <unittitle>NASA &#8211;Career &#8211;Associate Director Promotion at Marshall Space Flight Center,</unittitle>
+          <unitdate>October 1987-February 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">22</container>
+          <unittitle>NASA &#8211;Career Awards and Recognition/Promotion,</unittitle>
+          <unitdate>October 1987-October 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">23</container>
+          <unittitle>NASA &#8211;Career &#8211;Associate Director Promotion at Marshall Space Flight Center,</unittitle>
+          <unitdate>October 1987</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">24</container>
+          <unittitle>NASA &#8211;Career Awards and Recognition &#8211;Spacelab,</unittitle>
+          <unitdate>December 1983</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">25</container>
+          <unittitle>NASA &#8211;Career Awards and Recognition,</unittitle>
+          <unitdate>April 1981-August 1983</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">26</container>
+          <unittitle>NASA &#8211;Career, 1980</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1</container>
+          <unittitle>NASA &#8211;Spacelab Mission One &#8211;Program Review,</unittitle>
+          <unitdate>January 18, 1983</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">2</container>
+          <unittitle>NASA &#8211;Investigators Working Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">3</container>
+          <unittitle>NASA &#8211;Investigators Working Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">4</container>
+          <unittitle>NASA &#8211;Atmospheric, Magnetospheric and Plasmas in Space(AMPS)&#8211;Payload Technical Summary,</unittitle>
+          <unitdate>December 1975</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">5</container>
+          <unittitle>NASA &#8211;Final Report of the Science Definition Panel for Atmospheric, Magnetosphere and Plasmas in Space(AMPS) Spacelab Payload, 1976</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">6</container>
+          <unittitle>NASA &#8211;TRW AMPS Payload Design, 1976</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">7</container>
+          <unittitle>NASA &#8211;Technical Summary,</unittitle>
+          <unitdate>May 1976 &#8211;AMPS Spacelab Payload Definition Report</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">8</container>
+          <unittitle>NASA &#8211;AMPS Project Requirements Document &#8211;Draft,</unittitle>
+          <unitdate>January 1976</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">9</container>
+          <unittitle>NASA &#8211;Scientific Objectives for Atmospheric Physics from AMPS &#8211;Appendix 1</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">10</container>
+          <unittitle>NASA &#8211;Baseline AMPS Instrument Functional Requirements,</unittitle>
+          <unitdate>February 1976</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">1</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">2</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">3</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">4</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">5</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">6</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">7</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">8</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">9</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">10</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">11</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">12</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">13</container>
+          <unittitle>NASA &#8211;Payload Specialist Selection</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">14</container>
+          <unittitle>NASA &#8211;Investigator Working Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">15</container>
+          <unittitle>NASA &#8211;Investigator Working Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">16</container>
+          <unittitle>NASA &#8211;Investigator Working Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">17</container>
+          <unittitle>NASA &#8211;Investigator Working Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">18</container>
+          <unittitle>NASA &#8211;Investigator Working Group</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">1</container>
+          <unittitle>NASA &#8211;Creating the Spacelab</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">2</container>
+          <unittitle>NASA &#8211;Creating the Spacelab</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">3</container>
+          <unittitle>NASA &#8211;Creating the Spacelab</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">4</container>
+          <unittitle>NASA &#8211;Creating the Spacelab</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">5</container>
+          <unittitle>NASA &#8211;Performance Evaluation&#8211;Rick Chappell</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">6</container>
+          <unittitle>NASA &#8211;Performance Evaluation&#8211;Rick Chappell</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">7</container>
+          <unittitle>NASA &#8211;Performance Evaluation&#8211;Rick Chappell</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">8</container>
+          <unittitle>NASA &#8211;Performance Evaluation&#8211;Rick Chappell</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">9</container>
+          <unittitle>NASA &#8211;Performance Evaluation&#8211;Rick Chappell</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">10</container>
+          <unittitle>NASA &#8211;Biographical Information and Photographs</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">1</container>
+          <unittitle>NASA &#8211;Autograph Requests, 1997</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">2</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>March 1993-February 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">3</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>January &#8211;June 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">4</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>September-December 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">5</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>July-September 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">6</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>September 1991-August 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">7</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>January &#8211;June 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">8</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>February 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">9</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>November 1991-January 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">10</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>July-November 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">11</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>August &#8211;October 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">12</container>
+          <unittitle>NASA &#8211;Autograph Requests,</unittitle>
+          <unitdate>February &#8211;May 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">13</container>
+          <unittitle>School Visits &#8211;Thank Yous, 1994</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">14</container>
+          <unittitle>School Visits &#8211;Thank Yous, 1994</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">15</container>
+          <unittitle>School Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>April 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">16</container>
+          <unittitle>School Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>January &#8211;April 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">17</container>
+          <unittitle>School Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>January &#8211;April 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">18</container>
+          <unittitle>School Visits &#8211;Thank Yous, 1991</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">19</container>
+          <unittitle>School Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>February 1988-February 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">20</container>
+          <unittitle>Speaking Events &#8211;Educational,</unittitle>
+          <unitdate>March &#8211;May 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">21</container>
+          <unittitle>Speaking Events &#8211;Educational,</unittitle>
+          <unitdate>December 1992 &#8211;November 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">22</container>
+          <unittitle>Speaking Events &#8211;Thank Yous,</unittitle>
+          <unitdate>December 1990 &#8211;June 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">23</container>
+          <unittitle>Speaking Events &#8211;Thank Yous,</unittitle>
+          <unitdate>November 1990 &#8211;March 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">24</container>
+          <unittitle>Speaking Events &#8211;Thank Yous,</unittitle>
+          <unitdate>June 1990 &#8211;March 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">25</container>
+          <unittitle>Speaking Events &#8211;Thank Yous,</unittitle>
+          <unitdate>November 1981 &#8211;March 1984</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">26</container>
+          <unittitle>Speaking Events &#8211;Thank Yous,</unittitle>
+          <unitdate>September 1975 &#8211;August 1981</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">27</container>
+          <unittitle>I.E.E.E.E. Globecom &#8211;Thank Yous,</unittitle>
+          <unitdate>March 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">28</container>
+          <unittitle>NASA &#8211;ATLAS 1 Mission &#8211;Thank Yous,</unittitle>
+          <unitdate>April 1992 &#8211;February 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">29</container>
+          <unittitle>NASA &#8211;Spacelab 1 &#8211;Thank Yous,</unittitle>
+          <unitdate>December 1981 &#8211;June 1984</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">30</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>June 1991 &#8211;July 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">31</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>June 1991 &#8211;April 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">32</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>April &#8211;June 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">33</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>March &#8211;June 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">34</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>April &#8211;June 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">35</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>June &#8211;July 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">1</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>May &#8211;November 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">2</container>
+          <unittitle>NASA &#8211;Educational Visits &#8211;Thank Yous,</unittitle>
+          <unitdate>April 1979 &#8211;January 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">3</container>
+          <unittitle>NASA &#8211;Thank Yous,</unittitle>
+          <unitdate>November 1989 &#8211;September 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">4</container>
+          <unittitle>NASA &#8211;Thank Yous,</unittitle>
+          <unitdate>May 1991 &#8211;June 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">5</container>
+          <unittitle>NASA &#8211;Thank Yous,</unittitle>
+          <unitdate>February &#8211;June 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">6</container>
+          <unittitle>NASA &#8211;Thank Yous,</unittitle>
+          <unitdate>February &#8211;May 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">7</container>
+          <unittitle>NASA &#8211;Thank Yous,</unittitle>
+          <unitdate>April &#8211;November 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">8</container>
+          <unittitle>NASA &#8211;Thank Yous,</unittitle>
+          <unitdate>December 1985 &#8211;November 1987</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">9</container>
+          <unittitle>NASA &#8211;Thank Yous,</unittitle>
+          <unitdate>September 1984 &#8211;November 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">10</container>
+          <unittitle>NASA &#8211;Career,</unittitle>
+          <unitdate>June 1996 &#8211;August 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">11</container>
+          <unittitle>Intergovernmental Personnel Act (IPA) &#8211;Vanderbilt University,</unittitle>
+          <unitdate>August 1995 &#8211;July 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">12</container>
+          <unittitle>Intergovernmental Personnel Act (IPA) &#8211;Vanderbilt University ,</unittitle>
+          <unitdate>July 1992 &#8211;August 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">13</container>
+          <unittitle>First Amendment Center,</unittitle>
+          <unitdate>August 1996 &#8211;March 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">14</container>
+          <unittitle>
+            <emph render="italic">Worlds Apart</emph>:
+            <emph render="italic">How the Distance Between Science and Journalism Threatens America&#8217;s Future</emph>
+            &#8211;Book Requests,</unittitle>
+          <unitdate>June 1999 &#8211;November 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">15</container>
+          <unittitle>
+            <emph render="italic">Worlds Apart</emph>:
+            <emph render="italic">How the Distance Between Science and Journalism Threatens America&#8217;s Future</emph>
+            &#8211;Book Requests,</unittitle>
+          <unitdate>April &#8211;July 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">16</container>
+          <unittitle>
+            <emph render="italic">Worlds Apart</emph>:
+            <emph render="italic">How the Distance Between Science and Journalism Threatens America&#8217;s Future</emph>
+            &#8211;Book Requests,</unittitle>
+          <unitdate>April 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">17</container>
+          <unittitle>
+            <emph render="italic">Worlds Apart</emph>:
+            <emph render="italic">How the Distance Between Science and Journalism Threatens America&#8217;s Future</emph>
+            &#8211;Book Requests,</unittitle>
+          <unitdate>July &#8211;December 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">18</container>
+          <unittitle>
+            <emph render="italic">Worlds Apart</emph>:
+            <emph render="italic">How the Distance Between Science and Journalism Threatens America&#8217;s Future</emph>
+            C-Span Talk</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">19</container>
+          <unittitle>
+            <emph render="italic">Worlds Apart</emph>:
+            <emph render="italic">How the Distance Between Science and Journalism Threatens America&#8217;s Future</emph>
+            -Publicity</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">20</container>
+          <unittitle>National Public Radio (NPR) Science Friday &#8211;Talk and Exchange Club Jacksonville, Florida Talk,</unittitle>
+          <unitdate>September 1997 &#8211;May 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">21</container>
+          <unittitle>National Public Radio (NPR) On the Media &#8211;Talks,</unittitle>
+          <unitdate>December 1996 &#8211;July 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">22</container>
+          <unittitle>&#8220;Freedom Speaks&#8221; Series,</unittitle>
+          <unitdate>January &#8211;April 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">23</container>
+          <unittitle>Vanderbilt &#8211;Nashville Forum,</unittitle>
+          <unitdate>May 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">24</container>
+          <unittitle>Minority Writers Seminar,</unittitle>
+          <unitdate>May 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">25</container>
+          <unittitle>Career Opportunities Committee,</unittitle>
+          <unitdate>December 1996 &#8211;March 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">26</container>
+          <unittitle>Career Opportunities Committee,</unittitle>
+          <unitdate>April &#8211;August 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">27</container>
+          <unittitle>Student Career Center Seminar,</unittitle>
+          <unitdate>September &#8211;October 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">28</container>
+          <unittitle>Freedom Forum Center,</unittitle>
+          <unitdate>October &#8211;December 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">29</container>
+          <unittitle>Council of Scientific Society Presidents &#8211;Meeting,</unittitle>
+          <unitdate>May 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">30</container>
+          <unittitle>Communicating Science Conference &#8211;Hamilton College,</unittitle>
+          <unitdate>October 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">31</container>
+          <unittitle>Oak Ridge National Laboratory and Woods Hole &#8211;Visits,</unittitle>
+          <unitdate>October &#8211;November 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">32</container>
+          <unittitle>Science Communication Working Group,</unittitle>
+          <unitdate>October &#8211;November 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">33</container>
+          <unittitle>Eastern Analytical Symposium,</unittitle>
+          <unitdate>November 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">34</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>September 1998 &#8211;February 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">35</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>February &#8211;April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">36</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>March &#8211;April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">37</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>March &#8211;April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">38</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>February &#8211;March 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">1</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>January &#8211;March 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">2</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">3</container>
+          <unittitle>Chroniclers of Discovery Career Symposium,</unittitle>
+          <unitdate>March 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">4</container>
+          <unittitle>Chronicle of Higher Education &#8211;Article by Rick Chappell &#8220;The Challenge of Communicating Science to the Public&#8221; 1998</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">5</container>
+          <unittitle>Hearing on Communicating Science and Engineering in a Sound Bite World &#8211; Testimony,</unittitle>
+          <unitdate>May 14, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">6</container>
+          <unittitle>Hearing on Communicating Science and Engineering in a Sound Bite World &#8211; Testimony,</unittitle>
+          <unitdate>May 14, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">7</container>
+          <unittitle>Hearing on Communicating Science and Engineering in a Sound Bite World &#8211; Testimony,</unittitle>
+          <unitdate>May 14, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">8</container>
+          <unittitle>Hearing on Communicating Science and Engineering in a Sound Bite World &#8211; Testimony,</unittitle>
+          <unitdate>May 14, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">9</container>
+          <unittitle>Hearing on Communicating Science and Engineering in a Sound Bite World &#8211; Testimony &#8211;Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">10</container>
+          <unittitle>Reporting of Space, Science and Technology in America &#8211;Presentation to Joe B. Wyatt,</unittitle>
+          <unitdate>January 9, 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">11</container>
+          <unittitle>Communicating Science and Engineering &#8211;Meeting with Chancellor Jow B. Wyatt,</unittitle>
+          <unitdate>May 13, 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">1</container>
+          <unittitle>Coupling, Energetics and Dynamics of the Atmospheric Regions (CEDAR) &#8211; Lecture,</unittitle>
+          <unitdate>June 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">2</container>
+          <unittitle>Coupling, Energetics and Dynamics of the Atmospheric Regions (CEDAR) &#8211; Lecture,</unittitle>
+          <unitdate>June 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">3</container>
+          <unittitle>Harry D. Powell Observatory Naming Ceremony &#8211;East Tennessee State University,</unittitle>
+          <unitdate>September 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">4</container>
+          <unittitle>First Amendment Center &#8211;Vanderbilt School of Engineering,</unittitle>
+          <unitdate>June 1996 &#8211;June 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">5</container>
+          <unittitle>First Amendment Center &#8211;Vanderbilt School of Engineering ,</unittitle>
+          <unitdate>December 1997 &#8211;</unitdate>
+          <unitdate>January 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">6</container>
+          <unittitle>World Congress of Science Producers &#8211;Science and the Media Panel (WGBH),</unittitle>
+          <unitdate>November &#8211;December 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">7</container>
+          <unittitle>World Congress of Science Producers &#8211;Science and the Media Panel (WGBH),</unittitle>
+          <unitdate>November &#8211;December 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">8</container>
+          <unittitle>Jet Propulsion Lab/Cal Tech Management Association Workshop,</unittitle>
+          <unitdate>October &#8211;</unitdate>
+          <unitdate>December 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">9</container>
+          <unittitle>Council for Chemical Research,</unittitle>
+          <unitdate>September 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">10</container>
+          <unittitle>Department of Energy Low Dose Radiation Research Program,</unittitle>
+          <unitdate>November 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">11</container>
+          <unittitle>Board on Earth Sciences and Resources,</unittitle>
+          <unitdate>October &#8211;November 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">12</container>
+          <unittitle>Montgomery Bell Academy &#8211;Talk,</unittitle>
+          <unitdate>November 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">13</container>
+          <unittitle>Research! America &#8211;Albuquerque, New Mexico,</unittitle>
+          <unitdate>December 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">14</container>
+          <unittitle>Minnesota Educational Effectiveness Program (MEEP) &#8211;Spring Leadership Conference,</unittitle>
+          <unitdate>April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">15</container>
+          <unittitle>Minnesota Educational Effectiveness Program (MEEP) &#8211;Spring Leadership Conference,</unittitle>
+          <unitdate>April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">16</container>
+          <unittitle>Society of Toxicology &#8211;Annual Meeting,</unittitle>
+          <unitdate>September 1998 &#8211;April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">17</container>
+          <unittitle>Science Now! Science and the Media Seminar &#8211;Melbourne, Australia,</unittitle>
+          <unitdate>December 1998 &#8211;May 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">18</container>
+          <unittitle>Science Now! Science and the Media Seminar &#8211;Melbourne, Australia,</unittitle>
+          <unitdate>February &#8211;</unitdate>
+          <unitdate>April 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">19</container>
+          <unittitle>Science Now! Science and the Media Seminar &#8211;Melbourne, Australia,</unittitle>
+          <unitdate>February &#8211;</unitdate>
+          <unitdate>May 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">20</container>
+          <unittitle>Science Now! Science and the Media Seminar &#8211;Melbourne, Australia,</unittitle>
+          <unitdate>May 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">21</container>
+          <unittitle>Science Now! Science and the Media Seminar &#8211;Melbourne, Australia,</unittitle>
+          <unitdate>May 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">22</container>
+          <unittitle>American Association for the Advancement of Sciences (AAAS) and National Association of Science Writers (NASW) Conferences,</unittitle>
+          <unitdate>February 16-18, 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">23</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>December 1998 &#8211;October 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">24</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>May &#8211;August 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">25</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>June &#8211;August 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">26</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>July &#8211;August 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">27</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>March &#8211;July 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">28</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>January &#8211;April 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">29</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>January &#8211;February 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">30</container>
+          <unittitle>Aspen Global Change Institute,</unittitle>
+          <unitdate>February &#8211;March 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">1</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>January 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">2</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>January 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">3</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>September 2001 &#8211;January 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">4</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>February 2001 &#8211;January 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">5</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>January 2001 &#8211;January 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">6</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>January 2001 &#8211;January 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">7</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>November 2000 &#8211;January 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">8</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>August &#8211;November 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">9</container>
+          <unittitle>American Meteorological Society &#8211;Meeting,</unittitle>
+          <unitdate>September &#8211;October 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">10</container>
+          <unittitle>National Science Foundation &#8211;Science and Engineering Indicators Review,</unittitle>
+          <unitdate>October 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">11</container>
+          <unittitle>National Science Foundation &#8211;Science and Engineering Indicators Review,</unittitle>
+          <unitdate>October 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">12</container>
+          <unittitle>National Science Foundation &#8211;Science and Engineering Indicators Review,</unittitle>
+          <unitdate>October 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">13</container>
+          <unittitle>National Science Foundation &#8211;Science and Engineering Indicators Review,</unittitle>
+          <unitdate>October 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">14</container>
+          <unittitle>National Science Foundation &#8211;Science and Engineering Indicators Review,</unittitle>
+          <unitdate>October 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">15</container>
+          <unittitle>National Science Foundation &#8211;Science and Engineering Indicators Review,</unittitle>
+          <unitdate>October 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">16</container>
+          <unittitle>National Science Foundation &#8211;Potential Proposal,</unittitle>
+          <unitdate>March 2001 &#8211;June 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">17</container>
+          <unittitle>National Science Foundation &#8211;Proposal,</unittitle>
+          <unitdate>April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">18</container>
+          <unittitle>National Science Foundation &#8211;Proposal,</unittitle>
+          <unitdate>April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">19</container>
+          <unittitle>National Science Foundation &#8211;Proposal,</unittitle>
+          <unitdate>April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">20</container>
+          <unittitle>National Science Foundation &#8211;Proposal,</unittitle>
+          <unitdate>April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">21</container>
+          <unittitle>National Science Foundation &#8211;Proposal,</unittitle>
+          <unitdate>April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">22</container>
+          <unittitle>National Science Foundation &#8211;Proposal,</unittitle>
+          <unitdate>February 2000 &#8211;March 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">23</container>
+          <unittitle>National Science Foundation &#8211;Proposal,</unittitle>
+          <unitdate>June 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">24</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>August &#8211;September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">25</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">26</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2000 &#8211;June 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">27</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal, 1998</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">28</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2000 &#8211;June 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">29</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>July &#8211;</unitdate>
+          <unitdate>April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">30</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>February 2000 &#8211;May 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">31</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">1</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">2</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>March &#8211;September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">3</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September &#8211;October 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">4</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">5</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">6</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">7</container>
+          <unittitle>National Science Foundation &#8211;Quickie Planning Grant and Lange Proposal,</unittitle>
+          <unitdate>September 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">8</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>April 2001 &#8211;March 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">9</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September &#8211;</unitdate>
+          <unitdate>December 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">10</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">11</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">12</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">13</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">14</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">15</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">16</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">17</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">18</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>July &#8211;September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">19</container>
+          <unittitle>National Science Foundation &#8211;TV News Archives Proposal,</unittitle>
+          <unitdate>July &#8211;September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">20</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>April 1999 &#8211;February 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">21</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>January &#8211;</unitdate>
+          <unitdate>March 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">22</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>January 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">23</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>September 1998 &#8211;January 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">24</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>September 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">25</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>July &#8211;September 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">26</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>May 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">27</container>
+          <unittitle>Proposal to Robert Lichter, Director of the Camille &amp; Henry Dreyfus Foundation,</unittitle>
+          <unitdate>August 1997 &#8211;April 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">1</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">2</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">3</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">4</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">5</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">6</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">7</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">8</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March 5-6 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">9</container>
+          <unittitle>Department of Energy &#8211;Communication of Scientific Research Concerning Low &#8211;Dose Radiation Workshop,</unittitle>
+          <unitdate>March &#8211;June 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">10</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>December 2000 &#8211;January 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">11</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>November 2000 &#8211;January 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">12</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>July 2000 &#8211;May 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">13</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>March &#8211;April 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">14</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>March 2000 &#8211;March 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">15</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>April 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">16</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>May 2000 &#8211;February 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">17</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>July 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">18</container>
+          <unittitle>Department of Energy &#8211;Back-up Materials,</unittitle>
+          <unitdate>December 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">19</container>
+          <unittitle>Space Action Network (SPAN) Project,</unittitle>
+          <unitdate>June 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">20</container>
+          <unittitle>Space Action Network (SPAN) Project,</unittitle>
+          <unitdate>June 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">21</container>
+          <unittitle>Space Action Network (SPAN) Project, 2001</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">22</container>
+          <unittitle>Research Information Flow/Faculty Contact,</unittitle>
+          <unitdate>December 1999 &#8211;March 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">23</container>
+          <unittitle>Research Information Flow/Faculty Contact,</unittitle>
+          <unitdate>March 1998 &#8211;October 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">1</container>
+          <unittitle>American Institute of Physics &#8211;Meeting,</unittitle>
+          <unitdate>March 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">2</container>
+          <unittitle>Edward E. Smith &amp; Company &#8211;Lecture,</unittitle>
+          <unitdate>March 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">3</container>
+          <unittitle>National Association of State Universities and land Grant Colleges &#8211;Meeting,</unittitle>
+          <unitdate>June &#8211;August 200</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">4</container>
+          <unittitle>National Public Health Information Coalition &#8211;Meeting,</unittitle>
+          <unitdate>July &#8211;September 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">5</container>
+          <unittitle>National Public Health Information Coalition &#8211;Meeting,</unittitle>
+          <unitdate>August 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">6</container>
+          <unittitle>National Public Health Information Coalition &#8211;Meeting,</unittitle>
+          <unitdate>September &#8211;October 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">7</container>
+          <unittitle>National Public Health Information Coalition &#8211;Meeting,</unittitle>
+          <unitdate>July &#8211;October 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">8</container>
+          <unittitle>National Public Health Information Coalition &#8211;Meeting,</unittitle>
+          <unitdate>October 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">9</container>
+          <unittitle>Science Communicators &#8211;Media Training</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">10</container>
+          <unittitle>Science Communicators &#8211;Media Training</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">11</container>
+          <unittitle>Universities Space Research Association,</unittitle>
+          <unitdate>November 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">12</container>
+          <unittitle>Universities Space Research Association,</unittitle>
+          <unitdate>November 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">13</container>
+          <unittitle>Universities Space Research Association &#8211;Financial Statement,</unittitle>
+          <unitdate>June 1998 &#8211;June 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">14</container>
+          <unittitle>Marshall Space Flight Center &#8211;Class Trip,</unittitle>
+          <unitdate>April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">15</container>
+          <unittitle>American Geophysical Union &#8211;Public Information Committee, 2000</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">16</container>
+          <unittitle>Agency for Toxic Substances and Disease Registry &#8211;Partners in Public Health Luncheon,</unittitle>
+          <unitdate>January &#8211;April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">17</container>
+          <unittitle>Agency for Toxic Substances and Disease Registry &#8211;Partners in Public Health Luncheon,</unittitle>
+          <unitdate>January &#8211;April 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">18</container>
+          <unittitle>Dyer Observatory Director &#8211;Rick Chappell</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">19</container>
+          <unittitle>Dyer Observatory &#8211;Thank Yous</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">20</container>
+          <unittitle>Virginia Tech University &#8211;Personal Papers Donation</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">21</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April &#8211;June 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">22</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April &#8211;June 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">23</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">24</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">25</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">26</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">1</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">2</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">3</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>March &#8211;April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">4</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>March &#8211;April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">5</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>February &#8211;April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">6</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>March 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">7</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>January &#8211;February 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">8</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>November 2001 &#8211;April 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">9</container>
+          <unittitle>Research! America &#8211;Vanderbilt Science/Media Forum,</unittitle>
+          <unitdate>October &#8211;December 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">10</container>
+          <unittitle>Research! America &#8211;Society of Women&#8217;s Health Research &#8211;Scientist Media Panel,</unittitle>
+          <unitdate>July &#8211;August 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">11</container>
+          <unittitle>Research! America &#8211;Society of Women&#8217;s Health Research &#8211;Scientist Media Panel,</unittitle>
+          <unitdate>July &#8211;August 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">12</container>
+          <unittitle>Research! America &#8211;Society of Women&#8217;s Health Research &#8211;Scientist Media Panel,</unittitle>
+          <unitdate>July &#8211;August 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">13</container>
+          <unittitle>Research! America &#8211;Society of Women&#8217;s Health Research &#8211;Scientist Media Panel,</unittitle>
+          <unitdate>July &#8211;August 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">14</container>
+          <unittitle>Research! America &#8211;Washington D.C.,</unittitle>
+          <unitdate>May &#8211;July 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">15</container>
+          <unittitle>Research! America &#8211;Emory University &#8211;Scientist Media Roundtable,</unittitle>
+          <unitdate>May</unitdate>
+          <unitdate>June 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">16</container>
+          <unittitle>Research! America &#8211;University of Las Vegas &#8211;Scientist Media Roundtable,</unittitle>
+          <unitdate>June 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">17</container>
+          <unittitle>Research! America &#8211;Society for Neuroscience Annual Meeting &#8211;Media Scientist Roundtable,</unittitle>
+          <unitdate>November 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">18</container>
+          <unittitle>Research! American &#8211;Case Western University &#8211;Scientist Media Roundtable,</unittitle>
+          <unitdate>September &#8211;October 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">19</container>
+          <unittitle>Images of Exploration &#8211;Book &#8211;John Denver, 2001</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">20</container>
+          <unittitle>Mayo Clinic Trip,</unittitle>
+          <unitdate>June &#8211;July 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">21</container>
+          <unittitle>Mayo Clinic Trip,</unittitle>
+          <unitdate>September 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">22</container>
+          <unittitle>Sun &#8211;Earth Connection &#8211;Meeting with NASA ISSAT Committee,</unittitle>
+          <unitdate>September 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">23</container>
+          <unittitle>NASA Astrobiology Focus Group,</unittitle>
+          <unitdate>November 2003</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">24</container>
+          <unittitle>Future NASA Outreach Grant,</unittitle>
+          <unitdate>September 2002 &#8211;August 2003</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">25</container>
+          <unittitle>Ellen Fanning/Howard Hughes Medical Institute Visit,</unittitle>
+          <unitdate>April 2003</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">26</container>
+          <unittitle>Correspondence &#8211;Personal,</unittitle>
+          <unitdate>June 2005 &#8211;January 2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">27</container>
+          <unittitle>Marshall Space Flight Center &#8211;Interactions,</unittitle>
+          <unitdate>November 2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">28</container>
+          <unittitle>Sigma Alpha Epsilon Fraternity,</unittitle>
+          <unitdate>January 2005</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">29</container>
+          <unittitle>Emmy Presentation,</unittitle>
+          <unitdate>November 2008 &#8211;January 2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">30</container>
+          <unittitle>Emmy Presentation,</unittitle>
+          <unitdate>November 2008 &#8211;January 2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">1</container>
+          <unittitle>Overhead projector transparencies</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">1</container>
+          <unittitle>Overhead projector transparencies</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">1</container>
+          <unittitle>Overhead projector transparencies</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">1</container>
+          <unittitle>Overhead projector transparencies</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
