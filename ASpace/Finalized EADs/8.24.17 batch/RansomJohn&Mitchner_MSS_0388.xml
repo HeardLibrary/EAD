@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Ransom, John Crowe and Ann Mitchner Collection</titleproper>
+<titleproper>Finding Aid for the John Crowe Ransom And Ann Mitchner Correspondence Collection</titleproper>
+<author>Molly Dohrmann</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>2007</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>John Crowe Ransom And Ann Mitchner Correspondence Collection</unittitle>
+<unitid>MSS.0388</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.01 linear feet</extent>
+</physdesc>
+<unitdate>2007</unitdate>
+</did>
+<bioghist>
+<head>Biographical Note</head>
+<p>John Crowe Ransom was born in 1888. He graduated from Vanderbilt University and went to Oxford University as a Rhodes Scholar. He taught English at Vanderbilt until he accepted a Chair in Poetry position at Kenyon College in 1937, and there founded and edited <emph render="italic">The Kenyon Review</emph>. John Crowe Ransom was one of the Fugitive poets who published poetry in Nashville in the early 1920&#8217;s. He also contributed an essay to <emph render="italic">I&#8217;ll Take My Stand</emph>, the Agrarian manifesto published in 1930. Ransom was instrumental in developing what came to be called the New Criticism. He wrote and was internationally recognized for his poetry, his lifelong vocation, as well as for his teaching and works of criticism. He died in 1974 at the age of eighty six.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content Note</head>
+<p>This collection contains four typed and signed letters from John Crowe Ransom to Ann Mitchner, a friend and novice writer. The collection was purchased in early 2006. The four letters are dated January 17, February 2, March 15, and March 26, 1950, and include handwritten corrections and some tape repairs. This small correspondence collection records Ransom&#8217;s editorial and critical advice over the period of three months to aspiring writer Ann Mitchner.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Contents Listing</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="folder">1</container>
+<unittitle>Ransom to Mitchner</unittitle>
+<unitdate>January 17, 1950</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="folder">2</container>
+<unittitle>Ransom to Mitchner</unittitle>
+<unitdate>February 2, 1950</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="folder">3</container>
+<unittitle>Ransom to Mitchner</unittitle>
+<unitdate>March 15, 1950</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="folder">4</container>
+<unittitle>Ransom to Mitchner</unittitle>
+<unitdate>March 26, 1950</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

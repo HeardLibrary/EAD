@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Porter, James D. Papers</titleproper>
+<titleproper>Finding Aid for the James D. Porter Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>1902</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>James D. Porter Papers</unittitle>
+<unitid>MSS.0341</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.01 linear feet</extent>
+</physdesc>
+<unitdate>1902</unitdate>
+</did>
+<bioghist>
+<head>Biography/History</head>
+<p>James David Porter was born on December 7, 1828 in Paris, Tennessee and died in Nashville on May 18, 1912. He received an A.B. from the University of Nashville in 1846, and an A.M.. He attended Cumberland University to study law and graduated in 1884. He was a trustee of Peabody Education Fund in 1883, President of the Tennessee Historical Society, and an author of <emph render="italic">Confederate Military History of Tennessee.</emph></p>
+</bioghist>
+<scopecontent>
+<head>Scope and Contents</head>
+<p>This collection contains one document.</p>
+<p>This document was purchased in 1996 by Special Collections.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>December 22, 1902 to Dr. J.L.M. Curry</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

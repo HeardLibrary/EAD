@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="EAD.xsl"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Spain, E. L., Jr. Collection</titleproper>
+<titleproper>Finding Aid for the E. L. Spain, Jr. Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>E. L. Spain, Jr. Collection</unittitle>
+<unitid>MSS.0408</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.02 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent>
+<head>Scope and Contents</head>
+<p>This collection contains reprints of journal articles co-authored by E. L. Spain, and Charles W. Wilson, Jr.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Journal Articles</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>&#8216;Age of Mississippian &#8220;Ridgetop Shale&#8221; of Central Tennessee&#8217; reprinted from <title render="underline">American Association of Petroleum Geologist</title> - 1936</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>&#8216;Upper Paleozoic Development of Nashville Dome, Tennessee&#8217; reprinted from <title render="underline">American Association of Petroleum Geologist</title> &#8211; 1936</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
