@@ -1,89 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Keith, Samuel Jackson Collection</titleproper>
-<titleproper>Finding Aid for the Samuel Jackson Keith Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1986</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Samuel Jackson Keith Collection</unittitle>
-<unitid>MSS.0236</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.03 linear feet</extent>
-</physdesc>
-<unitdate>1986</unitdate>
-</did>
-<bioghist>
-<head>Biography/History</head>
-<p>Samuel Jackson Keith was born in 1831 in Jackson County, Tennessee. He attended public school and worked on his father&#8217;s farm until he was eighteen years of age. In 1855, he moved to Nashville. He worked in the wholesale grocers business and was partner in Nevins, Keith and Company. He moved to New Orleans in 1866 where he conducted a commission business in cotton and tobacco under the firm-name of Kirkpatrick, Nevins and Keith. He returned to Nashville in 1878, went into banking, and he was elected president of the First National Bank. In May 1897, he was elected president of the Tennessee Bankers&#8217; Association. He served as a member of Vanderbilt University&#8217;s Board of Trust from 1894-1909.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This collection contains three file folders with information regarding the family tree of Samuel Jackson Keith.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle>Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unitdate>July 9, 1986</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unitdate>July 22, 1986</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Family Tree</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unitdate>Keith Family</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Newspaper Clipping</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Mrs. John Keith Maddin &#8211; Obituary</unittitle>
-<unitdate>July 1986</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Keith, Samuel Jackson Collection</titleproper>
+        <titleproper>Finding Aid for the Samuel Jackson Keith Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>1986</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Samuel Jackson Keith Collection</unittitle>
+      <unitid>MSS.0236</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.03 linear feet</extent>
+      </physdesc>
+      <unitdate>1986</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/History</head>
+      <p>Samuel Jackson Keith was born in 1831 in Jackson County, Tennessee. He attended public school and worked on his father&#8217;s farm until he was eighteen years of age. In 1855, he moved to Nashville. He worked in the wholesale grocers business and
+        was partner in Nevins, Keith and Company. He moved to New Orleans in 1866 where he conducted a commission business in cotton and tobacco under the firm-name of Kirkpatrick, Nevins and Keith. He returned to Nashville in 1878, went into banking, and he
+        was elected president of the First National Bank. In May 1897, he was elected president of the Tennessee Bankers&#8217; Association. He served as a member of Vanderbilt University&#8217;s Board of Trust from 1894-1909.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This collection contains three file folders with information regarding the family tree of Samuel Jackson Keith.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>July 9, 1986</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>July 22, 1986</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Family Tree - Keith Family</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Newspaper Clipping - Mrs. John Keith Maddin &#8211; Obituary</unittitle>
+          <unitdate>July 1986</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
