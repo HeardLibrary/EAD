@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Speas, Mamie L. Collection</titleproper>
-<titleproper>Finding Aid for the Mamie L. Speas Collection</titleproper>
-<author>Molly Dohrmann</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2007</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Mamie L. Speas Collection</unittitle>
-<unitid>MSS.0410</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.01 linear feet</extent>
-</physdesc>
-<unitdate>2007</unitdate>
-</did>
-<bioghist>
-<head>Biographical/ Scope and Content Note</head>
-<p>This small collection is made up of a photocopy of one two-page letter dated April 21, 1969 from Mamie L. Speas to Morton B. Howell, Jr. concerning attendance at a Vanderbilt Reunion in 1969 of the Class of 1939. Enclosed with her letter are two of her poems &#8220;Symbols of Salem&#8221; and &#8220;Soldier Boy&#8221; ( 1945 ) part of her <emph render="italic">Trilogy of War Poems</emph>.</p>
-<p>Mamie Spears graduated in 1920 from the Women&#8217;s College of the University of North Carolina at Greensboro. She was a resident of Winston-Salem, North Carolina. She attended Vanderbilt for one year.</p>
-</bioghist>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Speas, Mamie L. Collection</titleproper>
+        <titleproper>Finding Aid for the Mamie L. Speas Collection</titleproper>
+        <author>Molly Dohrmann</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Mamie L. Speas Collection</unittitle>
+      <unitid>MSS.0410</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.01 linear_feet</extent>
+      </physdesc>
+      <unitdate>1969</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical/ Scope and Content Note</head>
+      <p>This small collection is made up of a photocopy of one two-page letter dated April 21, 1969 from Mamie L. Speas to Morton B. Howell, Jr. concerning attendance at a Vanderbilt Reunion in 1969 of the Class of 1939. Enclosed with her letter are two
+        of her poems &#8220;Symbols of Salem&#8221; and &#8220;Soldier Boy&#8221; ( 1945 ) part of her
+        <emph render="italic">Trilogy of War Poems</emph>.</p>
+      <p>Mamie Spears graduated in 1920 from the Women&#8217;s College of the University of North Carolina at Greensboro. She was a resident of Winston-Salem, North Carolina. She attended Vanderbilt for one year.</p>
+    </bioghist>
+  </archdesc>
 </ead>
