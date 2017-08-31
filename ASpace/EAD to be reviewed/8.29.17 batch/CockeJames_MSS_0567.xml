@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Cocke, James W. Collection</titleproper>
+<titleproper>Finding Aid for the James W. Cocke Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>1954-1957</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>James W. Cocke Collection</unittitle>
+<unitid>MSS.0567</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.07 linear feet</extent>
+</physdesc>
+<unitdate>1954-1957</unitdate>
+</did>
+<bioghist>
+<head>Biography/History</head>
+<p>James W. Cocke, a Nashville native, was a career military man with the United States Army, and attained the rank of Lieutenant Colonel. He attended Hume-Fogg High School, Tennessee Polytechnic Institute, and the University of Maryland. He served in European Campaign during World War II, and was a Professor of Military Science and Tactics over the Army ROTC at Vanderbilt University from 1954-1957. He was then reassigned to the Far East Command.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Contents</head>
+<p>This collection contains 33 items in seven file folders, related to the Army ROTC at Vanderbilt University, and includes certificates, correspondence, a faculty appointment list, newspaper clippings, photographs, and a publication.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Certificates &#8211; (2)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>The National Society of Pershing Rifles</unittitle>
+<unitdate>February 1956</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Department of the Army &#8211; Extract Notice</unittitle>
+<unitdate>March 1, 1957</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence &#8211; (4)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>September 3, 1954</unitdate>
+<unittitle>from Harvie Branscomb</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>September 10, 1954</unitdate>
+<unittitle>from C. M Sarratt</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>May 16, 1955</unitdate>
+<unittitle>from Murray M. Johnson</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>December 28, 1955</unitdate>
+<unittitle>from Harvie Branscomb</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Faculty Appointment &#8211; (1)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>College of Arts and Science &#8211; New Faculty</unittitle>
+<unitdate>September 20, 1954</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Journal &#8211; (1)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>&#8220;The ROTC Journal&#8221;</unittitle>
+<unitdate>November 1955</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Newspaper Clippings &#8211; (8)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>May 22, 1955</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>December 15, 1955</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>April 17, 1956</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>May 24, 1957</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>No dated &#8211; (4)</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Photographs &#8211; Digital Copies &#8211; (16)</unittitle>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Photographs &#8211; Prints &#8211; (4)</unittitle>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>

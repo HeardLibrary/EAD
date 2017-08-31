@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Cruickshank, Earl P. Collection</titleproper>
+<titleproper>Finding Aid for the Earl P. Cruickshank Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Earl P. Cruickshank Collection</unittitle>
+<unitid>MSS.0094</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.01 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent>
+<head>Scope and Contents</head>
+<p>This collection contains one handwritten letter, in Spanish, from Aurelio Vina to Earl P. Cruickshank.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>June 15, 1939</unitdate>
+<unittitle>Letter from Aurelio Vina to Earl P. Cruickshank</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

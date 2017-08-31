@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Gowthorpe, Montague Collection</titleproper>
+<titleproper>Finding Aid for the Montague Gowthorpe Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>2012</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Gowthorpe, Montague Collection</unittitle>
+<unitid>MSS.0177</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">7.5 linear feet</extent>
+</physdesc>
+<unitdate>2012</unitdate>
+</did>
+<userestrict>
+<p>The Montague F. Gowthorpe Opera Collection was created a period of years by Montague F. Gowthorpe chairman of the Detroit Symphony and one of the original vice-presidents at Paramount Pictures. Gowthorpe was born in Kings Lyn, England in 1898 and was a lifetime devotee of opera which he regarded as the highest form of art and entertainment. After his death in 1980 this collection was passed to his niece, Bonnie Lamar, MD of Tennessee. She donated it to Special Collections in 1998.</p>
+<p>The collection consists of 200 reel-to-reel tapes recorded by Mr. Gowthorpe from radio. The tapes were recorded at 3 &#190; and 7 &#189; speeds from the years of 1959 to 1968 though the bulk of the recordings were made in the early 1960&#8217;s.</p>
+<p>The last box of the collection contains 48 libretto books collected and annotated by Mr. Gowthorpe to accompany the recordings he made.</p>
+</userestrict>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Audio Reel to Reels</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 1A &#8211;Music by Forgotten Composers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 1B &#8211;Music by Forgotten Composers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 2A &#8211;What&#8217;s in a Name</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 2B &#8211;What&#8217;s in a Name</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 3A</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 3B</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 4A &#8211;Music Inspired by Nature, Calls of Birds</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Adventures in Good Music 4B &#8211;Music Inspired by Nature</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Aida &#8211;Verdi Performed by the Vienna Philharmonic Orchestra, Conductor Herbert von Karajan (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Alcestis &#8211;Willibald von Gluck Performed by the New York Metropolitan Opera, Conductor Kurt Adler</unittitle>
+<unitdate>February 11, 1961 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Ariadne auf Naxos &#8211;R. Strauss (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Andrea Chenier &#8211;Giordano Performed by the La Scala Chorus and Orchestra, Conductor Oliviero Fabritiis (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Barber of Seville &#8211;Rossini Performed by the Philharmonica Orchestra, Conductor Alceo Galliera (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Beethoven Concerto #1 for Piano and Orchestra</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Beethoven Symphony #5 in C Minor, Opus 67 Performed by the Concertgebouw Orchestra of Amsterdam, Conductor Erich Kleiber</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>La Boheme &#8211;Puccini Preformed by the La Scala Chorus and Orchestra, Conductor Antonio Votto</unittitle>
+<unitdate>November 11, 1959 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Boris Godounoff &#8211;Moussorgsky Performed by the Vienna State Orchestra, Conductor Hermann Scherchen (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Simon Boccanegra &#8211;Verdi Performed by the Orchestra of the Opera House, Rome, Conductor Gabrielle Santini (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Four Brahms Symphonies Performed by the NBC Orchestra, Conductor Arturo Toscanini</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Don Carlo &#8211;Verdi Performed by the Orchestra E. Coro di Romo Della Radiotelevisione Italiana, Conductor Fernando Previtali (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Carmen &#8211;Bizet Performed by the L&#8217;Orchestre et Choeurs de L&#8217;Opera Comique, Paris, Conductor Albert Wolff (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Enrico Caruso with the Victor Symphony Orchestra</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Cavelliera Rusticana &#8211;Mascagni</unittitle>
+<unitdate>December 2, 1959 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Cosi Fan Tutti &#8211;Mozart Performed by Orchestra Glyndeboure Mozart Opera Festival, 1935 Conductor Fritz Busch (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Daughter of the Regiment &#8211;Ponizetti</unittitle>
+<unitdate>February 27, 1960 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Elektra &#8211;R. Strauss Conductor Joseph Rosenstock (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Ernani &#8211;Verdi Performed by the Orchestra Coro Della Radiotelevisione Italiana, Conductor Fernando Previtali (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Eugen Onegin &#8211;Tchaikovsky Performed by the Orchestra of the National Opera, Belgrade, Conductor Oscar Danon (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>L&#8217;Elisir d&#8217;Amore &#8211;Donizetti Performed by the Chorus and Orchestra of Maggio Musicale Fiorentino (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Falstaff &#8211;Verdi</unittitle>
+<unitdate>November 5, 1960</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Faust &#8211;Gounod Performed by the Orchestra Th&#233;atre National de L&#8217;Opera, Conductor Andr&#233; Cluytens</unittitle>
+<unitdate>November 13, 1962. Two copies (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Fidelio &#8211;Beethoven Performed by the Vienna Philharmonic Orchestra, Conductor Wilhelm Furtw&#228;nger (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Die Fledermaus &#8211;R. Strauss Performed by the Vienna Philharmonic Orchestra, Conductor Clemens Krausss (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>The Flying Dutchman &#8211;Wagner Performed by the Bayreuth Festival Orchestra, Conductor Joseph Keilberth (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>La Forza del Destino &#8211;Verdi Performed by the Orchestra L&#8217;Academia DiSanta Cecilia in Rome, Conductor Francesco Molinari-Pradelli Two copies (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Gianni Schicchi &#8211;Puccini Performed by the Orchestra Opera House in Rome, Conductor Gabriele Santini (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>La Gioconda &#8211;Ponchielli Performed by the Orchestra radio Italiana of Turin, Conductor Antonino Votto (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>La Gioconda &#8211;Ponchielli</unittitle>
+<unitdate>March 28, 1959</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Don Giovanni &#8211;Mozart Performed by the New York Metropolitan Opera (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Don Giovanni &#8211;Mozart Performed by the Vienna Philharmonic Orchestra, Conductor Joseph Krips (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>G&#246;tterd&#228;mmerung &#8211;Wagner Performed by the Oslo Philharmonic Orchestra, Conductor &#510;lvin Fjeldstad</unittitle>
+<unitdate>February 14, 1959 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>G&#246;tterd&#228;mmerung &#8211;Wagner Performed by the Oslo Philharmonic Orchestra, Conductor &#510;lvin Fjeldstad</unittitle>
+<unitdate>January 21, 1960 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Gypsy Baron &#8211;J. Strauss Performed by the Philharmonic Orchestra, Conductor Otto Ackermann</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Immortal Classics &#8211;Dance and Music</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Immortal Classics &#8211;Keyboard and Piano</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>L&#8217;Italiano in Algeri &#8211;Rossini Performed on C.B.E. Radio</unittitle>
+<unitdate>July 16, 1960 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Jupiter, Symphony #41 in C Major &#8211;Mozart</unittitle>
+<unitdate>July 27, 1968</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Lohengrin &#8211;Wagner Performed by the Metropolitan Opera, Conductor Thomas Schippers</unittitle>
+<unitdate>February 1, 1959 (4)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Lucia Lammermoor &#8211;Donizetti Performed by the Orchestra and Chorus of Florence May Festival, Conductor Tullio Serafin</unittitle>
+<unitdate>November 13, 1959 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Macbeth &#8211;Verdi Performed by the Metropolitan Opera Orchestra and Chorus, Conductor Erich Leinsdorf (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Madame Butterfly &#8211;Puccini Performed by the Orchestra Santa Cecelia in Rome, Conductor Alberto Erede (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>The Magic Flute &#8211;Mozart Performed by the Rias Chamber Choir and Symphony Orchestra in Berlin, Conductor Ferenc Fricsay (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Manon &#8211;Massenet Performed by L&#8217;Orchestre et Choers de L&#8217;Opera Comique in Paris, Conductor Albert Wolff (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Manon Lescaut &#8211;Puccini Performed by the Orchestra of Academia di Santa Cecelia in Rome, Conductor Francesco Molinari-Pradelli (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Max at the Met &#8211;Max Miller</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Medea &#8211;L. Cherubini Performed by the Orchestra and Chorus La Scala, Conductor Tullio Serafin (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Die Meistersinger von N&#252;rnberg &#8211;Wagner Performed by the Vienna Philharmonic Orchestra, Conductor Hans Knappertsbuch (5)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Mireille &#8211;Gounod Performed by the Festival D&#8217;Aix-en-Provence Orchestre de la Soci&#233;t&#233; des Concerts du Conservatoire, Conductor Andr&#233; Cluytens (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Norma &#8211;V. Bellini Performed by the Orchestra and Chorus Teatro Alla Scala in Milan, Conductor Tullio Serafin (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Le Nozze di Figaro &#8211;Mozart Performed by the Vienna Philharmonic, Conductor Erich Kleiber</unittitle>
+<unitdate>December 2, 1959 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Nutcracker &#8211;Tchaikovsky Performed by the Minneapolis Symphony Orchestra, Conductor Antal Dorati (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Operatic Arias &#8211;Mantovani</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Otello &#8211;Verdi Performed by the Orchestra of the Academia di Santa Cecelia, Conductor Alberto Erede</unittitle>
+<unitdate>December 10, 1959 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>I Pagliacci &#8211;Leoncavallo Performed by the Robert Shaw Chorale and the RCA Victor Orchestra, Conductor Renato Cellini (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Parsifal &#8211;Wagner Performed by the Bayreuth Festival Orchestra and Chorus, Conductor Hans Knappertsbuch</unittitle>
+<unitdate>1951</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Das Rheingold &#8211;Wagner Performed by the Vienna Philharmonic Orchestra, Conductor Georg Solti (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Das Rheingold &#8211;Wagner Performed by the Vienna Philharmonic Orchestra, Conductor Georg Solti (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Rigoletto &#8211;Verdi Performed by the Sinfonica di Torino della Radiotelevisione Italiana e coro cetra, Conductor Angerlo Questa</unittitle>
+<unitdate>November 12, 1962 (2) Two copies</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Romeo et Juliette &#8211;Gounod Performed by the Orchestra of Theatre National de L&#8217;Opera Paris, Conductor Alberto Erede (3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Der Rosenkavalier &#8211;R. Strauss Performed by the Vienna Philharmonic Orchestra, Conductor Erich Kleiber</unittitle>
+<unitdate>June 22, 1959 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Salome &#8211;R. Strauss Performed by the Metropolitan Opera Company, Conductor Joseph Rosenstock</unittitle>
+<unitdate>February 17, 1962 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Tchaikovsky Symphony #5</unittitle>
+<unitdate>April 2, 1962</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Tijuana Brass</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>La Tosca &#8211;Puccini Performed by the Orchestra La Scala in Milan, Conductor Victor de Sabata (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>La Traviata &#8211;Verdi Performed by the Orchestra and Chorus La Scala, Conductor Tullio Serafin</unittitle>
+<unitdate>November 12, 1962 (2) Two copies</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Tristan und Isolde &#8211;Wagner Performed by the London Philharmoin Orchestra, Conductor Wilhelm Furtw&#228;ngler</unittitle>
+<unitdate>December 12, 1959 (4)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Il Trovatore &#8211;Verdi Performed by the Robert Shaw Chorale and RCA Victor Orchestra, Conductor Renato Cellini</unittitle>
+<unitdate>November 13, 1962 Two copies</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Turandot &#8211;Puccini Performed by the Orchestra and Chorus of La Scala, Conductor Tullio Serafin (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Twelve (XII) O&#8217;Clock &#8211;Greta Keller</unittitle>
+<unitdate>January 12, 1962</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Un Ballo in Maschera &#8211;Verdi Performed by the New York Metropolitan Opera Company, Conductor Nello Santi</unittitle>
+<unitdate>March 17, 1962 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Luciano Virgili &#8211;Italian Popular Songs</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Excerpts from Operas (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Wagner Opera &#8211;Commentary by John Culshaw, B.B.C.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Die Walk&#252;re &#8211;Wagner Performed by the Vienna Philharmonic, Conductor Wilhelm Furtw&#228;ngler (4)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>William Tell &#8211;Rossini Performed by the Orchestra and Chorus of Radio Italiana of Turin, Conductor Mario Rossi (3)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Libretto Books</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>Adriana Lecouvreur &#8211;Metropolitan Opera</unittitle>
+<unitdate>1962</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Ariadne on Naxos &#8211;Boosey &#38; Hawkes, Inc.</unittitle>
+<unitdate>1944</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Andrea Chenier &#8211;Fred Rullman, Inc</unittitle>
+<unitdate>1954</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Arabella &#8211;Metropolitan Opera</unittitle>
+<unitdate>1955</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Don Pasquale &#8211;Grand Opera Librettos, Theodore Presser Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Fidelio &#8211;Light Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Faust &#8211;Official Libretto</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>La Forza del Destino &#8211;Boosey &#38; Hawkes</unittitle>
+<unitdate>1944</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>La Forza del Destino &#8211;Fred Rullman, Inc.</unittitle>
+<unitdate>1952</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Gianni Schicchi &#8211;G. Ricordi &#38; Company</unittitle>
+<unitdate>1918</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>The Gypsy Baron &#8211;G. Schirmer, Inc.</unittitle>
+<unitdate>1959</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Lucia di Lammermoor &#8211;Oliver Ditson Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Lucia di Lammermoor &#8211;Metropolitan Opera</unittitle>
+<unitdate>1951</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Lohengrin &#8211;Metropolitan Opera</unittitle>
+<unitdate>1951</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Macbeth &#8211;Official Libretto, Fred Rullman, Inc.</unittitle>
+<unitdate>1958</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Madame Butterfly &#8211;Metropolitan Opera</unittitle>
+<unitdate>1954</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Madame Butterfly &#8211;G. Ricordi &#38; Company</unittitle>
+<unitdate>1907</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>The Magic Flute (Die Zauberfl&#246;te) &#8211;Grand Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>1913</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Manon &#8211;Grand Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Manon Lescaut &#8211;G. Ricordi &#38; Company</unittitle>
+<unitdate>1893</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Marta &#8211;Grand Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Mignon &#8211;Grand Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Nabucco &#8211;Metropolitan Opera</unittitle>
+<unitdate>1960</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Norma &#8211;Metropolitan Opera</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Le Nozze di Figaro &#8211;G. Schirmer, Inc.</unittitle>
+<unitdate>1959</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Le Nozze di Figaro &#8211;Metropolitan Opera</unittitle>
+<unitdate>1959</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Otello &#8211;Grand Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Otello &#8211;Metropolitan Opera</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Pagliacci &#8211;G. Schirmer&#8217;s Collection of Opera-Librettos</unittitle>
+<unitdate>1907</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Das Rheingold &#8211;Metropolitan Opera</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Rigoletto &#8211;Official Libretto, Fred Rullman, Inc.</unittitle>
+<unitdate>1952</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Romeo et Juliette &#8211;Grand Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>1911</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Der Rosenkavalier &#8211;Metropolitan Opera</unittitle>
+<unitdate>1940</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Salome &#8211;Metropolitan Opera, undated Siegfried &#8211;Metropolitan Opera</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Siegfried &#8211;Metropolitan Opera</unittitle>
+<unitdate>1960</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Simon Boccanegra &#8211;Official Libretto</unittitle>
+<unitdate>1931</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Simon Boccanegra &#8211;Metropolitan Opera</unittitle>
+<unitdate>1931</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Tosca &#8211;G. Schirmer&#8217;s Collection of Opera Librettos</unittitle>
+<unitdate>1956</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Tosca &#8211;Metropolitan Opera</unittitle>
+<unitdate>1956 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>La Traviata &#8211;Metropolitan Opera</unittitle>
+<unitdate>1950</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>La Traviata &#8211;Official Libretto</unittitle>
+<unitdate>1950</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Il Trovatore &#8211;Official Libretto</unittitle>
+<unitdate>1959</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Turandot &#8211;G. Ricordi &#38; Company</unittitle>
+<unitdate>1926</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Die Walk&#252;re &#8211;Official Libretto</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Die Walk&#252;re &#8211;Metropolitan Opera</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>William Tell (Guglielmo Tell) &#8211;Grand Opera Librettos, Oliver Ditson Company</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Wozzeck &#8211;Metropolitan Opera</unittitle>
+<unitdate>1931</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

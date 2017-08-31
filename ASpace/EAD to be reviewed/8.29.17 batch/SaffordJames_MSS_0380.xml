@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Safford, James Merrill Collection</titleproper>
+<titleproper>Finding Aid for the James Merrill Safford Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>1889-1985</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>James Merrill Safford Collection</unittitle>
+<unitid>MSS.0380</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
+</physdesc>
+<unitdate>1889-1985</unitdate>
+</did>
+<bioghist>
+<head>Biography/History</head>
+<p>James Merrill Safford (1822-1907), an Ohio native attended Ohio University and Yale. He was famous for geological investigations of Tennessee, taught chemistry and biology, as well as geology. During his 52-year career, he was employed by Cumberland University, the University of Nashville, and Vanderbilt University. He also held the position of State Geologist of Tennessee. His professional contributions mainly consisted of survey work in geology throughout Tennessee. Later he mainly applied geology to health, agriculture, and resource development. His classic book and map, The Geology of Tennessee, appeared in 1869.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Contents</head>
+<p>This .42 linear feet collection contains 15 items. It includes biographical information, field notes on his geological work within the state of Tennessee, map etchings, financial expenses, and a diary.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Biographical &#8212; (3)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>Genealogy information</unittitle>
+<unitdate>n.d.</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Index cards</unittitle>
+<unitdate>1900</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Journal Article</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Diary &#8212; (1)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>11/08/1901 &#8212; 02/06/1904</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Envelope &#8212; (1)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>n.d.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Newspaper Clipping &#8212; (1)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>n.d.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Notebooks &#8212; (7)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>Field notes with geological sketches</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>1889</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>1890</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>1891 &#8212; (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>1892</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>1893</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>n.d.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Voucher Books &#8212; (2)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>Field notes with geological sketches</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>1891 (2)</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

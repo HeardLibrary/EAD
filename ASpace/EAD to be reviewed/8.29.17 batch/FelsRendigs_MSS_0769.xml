@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Fels, Rendigs Papers</titleproper>
+<titleproper>Finding Aid for the Rendings Fels Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>Undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Rendings Fels Papers</unittitle>
+<unitid>MSS.0769</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.21 linear feet</extent>
+</physdesc>
+<unitdate>Undated</unitdate>
+</did>
+<bioghist>
+<head>Biographical Note:</head>
+<p>Rendigs Fels was born in Cincinnati, Ohio on June 11, 1917. His education began with a bachelor&#8217;s degree from Harvard University in 1939 followed by a Master&#8217;s degree from Columbia University in 1940. After serving in the U.S. Army in World War II, he returned to Harvard and earned his Ph.D. in 1948. In that same year, he was appointed as a professor of economics at Vanderbilt University. During his time as an educator he was elected chair of the Vanderbilt&#8217;s Department of Economics while also directing the Graduate Program in Economic Development.</p>
+<p>He published nine professional articles in his first eight years at Vanderbilt as well as a number of books, including (<emph render="italic">American Business Cycles 1865-1867 and Forecasting and Recognizing Business Cycle Turning Points</emph>) in addition to publishing eight articles in the three leading journals in economics. Fels helped found the Program for Economic Development at Vanderbilt, a graduate program for economists from the developing countries of the world.</p>
+<p>As a result of the established reputation he had, in 1966 he was elected President of the Southern Economic Association. His later career entailed research in business cycles and the impact the economy has on citizens. In 1982 he formally retired from his position at Vanderbilt as professor emeritus but continued teaching for another eight years. He also receives both the Distinguished Service Award and Marvin Bower Award from the National Council on Economics because of his success as a high quality economic researcher and educator. After dedicating the majority of his life in this profession, he passed away on January 24, 2010 in Nashville, Tennessee.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content Note:</head>
+<p>The Rendigs Fels Papers consist of one Hollinger box( .417 linear feet) is comprised of correspondence with his peers and former students regarding the field of economics. His papers are broken into two series; the first series Correspondence comprises eleven folders of letters and email date from 1967 to 2008 the second series Writings is made up of seven folders of articles written by Rendigs Fels over the course of his career.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Academic Career- Correspondence and Writings</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="italic">Series I: Correspondence</emph></unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="folder">1</container>
+<unittitle>Outgoing Correspondence</unittitle>
+<unitdate>August-December 1997</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">2</container>
+<unittitle>Outgoing Correspondence</unittitle>
+<unitdate>January 1998- June 1999</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">3</container>
+<unittitle>Outgoing Correspondence</unittitle>
+<unitdate>January- June 2000</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">4</container>
+<unittitle>Outgoing Correspondence</unittitle>
+<unitdate>January- August 2003</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">5</container>
+<unittitle>Incoming Correspondence-Allen- Brenner</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">6</container>
+<unittitle>Incoming Correspondence-Collins- Docherty</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">7</container>
+<unittitle>Incoming Correspondence-Fels- Grier</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">8</container>
+<unittitle>Incoming Correspondence-Halls- Johnson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">9</container>
+<unittitle>Incoming Correspondence-Lequerica- Mueller</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">10</container>
+<unittitle>Incoming Correspondence-Quddus-Stephenson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">11</container>
+<unittitle>Incoming Correspondence-Taylor- Watts</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="italic">Series II: Writings</emph></unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="folder">12</container>
+<unittitle>Articles by Rendigs Fels- Economic Insights</unittitle>
+<unitdate>January 1967</unitdate>
+</did>
+<note>
+<list type="simple">
+<item>- &#8220;Recessions- Natural or Artificial?&#8221;</item>
+<item>- &#8220;Nations Goals Cause Conflict&#8221;</item>
+<item>- &#8220;Recession in 1967?&#8221;</item>
+</list>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">13</container>
+<unittitle>Articles by Rendigs Fels- Economic Insights</unittitle>
+<unitdate>February 1967</unitdate>
+</did>
+<note>
+<list type="simple">
+<item>- &#8220;A Deeper Question on Minimum Wage&#8221;</item>
+<item>- &#8220;Trade Law Eliminates One Kind of Competitions&#8221;</item>
+</list>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">14</container>
+<unittitle>Articles by Rendigs Fels- Economic Insights</unittitle>
+<unitdate>February 1967</unitdate>
+</did>
+<note>
+<list type="simple">
+<item>- &#8220;A Deeper Question on Minimum Wage&#8221;</item>
+<item>- &#8220;Benefits for Fixed Annuities&#8221;</item>
+</list>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">15</container>
+<unittitle>Articles by Rendigs Fels- Economic Insights</unittitle>
+<unitdate>(February- March 1967)</unitdate>
+</did>
+<note>
+<list type="simple">
+<item>- &#8220;Can Law of Supply Demand Be Repealed&#8221;</item>
+<item>- &#8220;Criticism of Column Completely Irrelevant&#8221;</item>
+</list>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">16</container>
+<unittitle>Articles by Rendigs Fels- Economic Insights</unittitle>
+<unitdate>(March 1967)</unitdate>
+</did>
+<note>
+<list type="simple">
+<item>- &#8220;Price Discrimination in Milk&#8221;</item>
+<item>- &#8220;Economic Dilemma Now Facing Nation&#8221;</item>
+</list>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">17</container>
+<unittitle>Articles by Rendigs Fels- Economic Insights</unittitle>
+<unitdate>(April 1967- June 1988)</unitdate>
+<note>
+<list type="simple">
+<item>- &#8220;The Profit System&#8221;</item>
+<item>- &#8220;More on the Trade Deficit&#8221;</item>
+</list>
+</note>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">18</container>
+<unittitle>Articles by Rendigs Fels- Economic Insights</unittitle>
+<note>
+<list type="simple">
+<item>- &#8220;Should Pensions Rise Automatically&#8221;</item>
+<item>- &#8220;The New Minimum Wage Law&#8221;</item>
+</list>
+</note>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">19</container>
+<unittitle>Articles by Rendigs Fels</unittitle>
+</did>
+<note>
+<list type="simple">
+<item>- &#8220;Let&#8217;s Stop Exploiting Our College Athletes&#8221;</item>
+<item>- &#8220;Who&#8217;s Been Killing Free Enterprise&#8221;</item>
+</list>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">20</container>
+<unittitle>Articles by Rendigs Fels</unittitle>
+<note>
+<list type="simple">
+<item>- &#8220;The Oligopsonists Will Get You if You Don&#8217;t Watch Out&#8221;</item>
+<item>- &#8220;Drugs Prohibition V.S. Regulation&#8221;</item>
+</list>
+</note>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

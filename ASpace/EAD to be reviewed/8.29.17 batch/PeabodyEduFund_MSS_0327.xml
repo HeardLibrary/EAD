@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Peabody Education Fund Collection</titleproper>
+<titleproper>Finding Aid for the Peabody Education Fund Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Peabody Education Fund Collection</unittitle>
+<unitid>MSS.0327</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">5.04 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent>
+<head>Scope and Content Note</head>
+<p>The Peabody Education Fund Collection, includes correspondence (1881-1918), subject files pertaining to the establishment and growth of the fund, pamphlets on education, and the proceedings of the trustees (1870-1907). The collection is 4 cubic feet, about half of the collection is correspondence. Major topics of interest include the establishment of the Peabody Education Fund, the early years of the Peabody Normal College/George Peabody College, education, and rural elementary schools.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Series List</unittitle>
+</did>
+<c02 level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">1</container>
+<unittitle>Abercrombie - Appleton</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">2</container>
+<unittitle>Archer - Aswell</unittitle>
+<unitdate>(1886-1906)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">3</container>
+<unittitle>Aswell (1907-1909) - Berry</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">4</container>
+<unittitle>Bird - Blake Brothers and Co.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">5</container>
+<unittitle>Bloomstein - Brunner</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">6</container>
+<unittitle>Buchanan - Buttrick</unittitle>
+<unitdate>(1902-1906)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">7</container>
+<unittitle>Buttrick (1907-1914) - Calhoun</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">8</container>
+<unittitle>Carlisle - Choate</unittitle>
+<unitdate>(1893-1906)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">9</container>
+<unittitle>Choate, Joseph H.</unittitle>
+<unitdate>(1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">10</container>
+<unittitle>Chaote</unittitle>
+<unitdate>(1908-Feb 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">11</container>
+<unittitle>Choate</unittitle>
+<unitdate>(Mar 1909-Dec 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">12</container>
+<unittitle>Chaote</unittitle>
+<unitdate>(1910-1911)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">13</container>
+<unittitle>Choate</unittitle>
+<unitdate>(1912-1913)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">14</container>
+<unittitle>Choate (1914-1916) - Clarke</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">15</container>
+<unittitle>(Concerning) Claxton, P.P.</unittitle>
+<unitdate>(Feb 1901-4 Mar 1901)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">16</container>
+<unittitle>(Concerning) Claxton, P.P.</unittitle>
+<unitdate>(5 Mar 1901-14 Mar 1901)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">17</container>
+<unittitle>(Concerning) Claxton, P.P. (15 Mar 1901- May 1901) - Claxton, P.P.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">18</container>
+<unittitle>Cleveland - Cooper</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">19</container>
+<unittitle>Courtnay, W.A.</unittitle>
+<unitdate>(1888-1893)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">20</container>
+<unittitle>Courtnay, W.A.</unittitle>
+<unitdate>(1894-1900)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">21</container>
+<unittitle>Courtnay, W.A.</unittitle>
+<unitdate>(1901-1905)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">12</container>
+<unittitle>Cousins - Curry, J.L.M.</unittitle>
+<unitdate>(1881-1882)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">23</container>
+<unittitle>Curry, J.L.M.</unittitle>
+<unitdate>(1883-1889)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">24</container>
+<unittitle>Curry, J.L.M.</unittitle>
+<unitdate>(1890-1893)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">25</container>
+<unittitle>Curry, J.L.M.</unittitle>
+<unitdate>(1894-1895)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="file">26</container>
+<unittitle>Curry, J.L.M.</unittitle>
+<unitdate>(1896-1897)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">1</container>
+<unittitle>Curry, J.L.M.</unittitle>
+<unitdate>(1898-1900)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">2</container>
+<unittitle>Curry, J.L.M. (1901-Undated) - Cyrus</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">3</container>
+<unittitle>Dana - Dickinson, J.M.</unittitle>
+<unitdate>(1904-1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">4</container>
+<unittitle>Dickinson, J.M. (1908-1909) - Douglas</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">5</container>
+<unittitle>Doyne - Dunbar</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">6</container>
+<unittitle>Easton - Eggleston</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">7</container>
+<unittitle>Eliot - Evarts, W.B. and Porter</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">8</container>
+<unittitle>Evarts, Choate, and Sherman - Evarts, W.M.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">9</container>
+<unittitle>Evarts, Mary - Fair, R.R.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">10</container>
+<unittitle>Fenner, C.E.</unittitle>
+<unitdate>(1893-1905)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">11</container>
+<unittitle>Fenner, C.E. (1906-1911) - Fish</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">12</container>
+<unittitle>Flisher - Fuller, M.W.</unittitle>
+<unitdate>(1889-1894)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">13</container>
+<unittitle>Fuller</unittitle>
+<unitdate>(1895-1903)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">14</container>
+<unittitle>Fuller</unittitle>
+<unitdate>(1904-Oct 1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">15</container>
+<unittitle>Fuller</unittitle>
+<unitdate>(Nov 1907-1910)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">16</container>
+<unittitle>Fulton - Gibson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">17</container>
+<unittitle>Gilman, D.C.</unittitle>
+<unitdate>(1893-1903)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">18</container>
+<unittitle>Gilman, D.C.</unittitle>
+<unitdate>(1904-1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">19</container>
+<unittitle>Glenn, G.R. - Graves</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">20</container>
+<unittitle>Green, S.A. - Gunnels, H.C.</unittitle>
+<unitdate>(1903-1904)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">21</container>
+<unittitle>Gunnels</unittitle>
+<unitdate>(1905-1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">22</container>
+<unittitle>Hamilton - Hayes</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="file">23</container>
+<unittitle>Henry - Hinds</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">1</container>
+<unittitle>Hinemon - Hitchcock, Darling, and Co.</unittitle>
+<unitdate>(1884-1893)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">2</container>
+<unittitle>Hitchcock, Darling, and Co.</unittitle>
+<unitdate>(1894-1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">3</container>
+<unittitle>Hogg - Jackson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">4</container>
+<unittitle>Jenkins, F.W. - Johnson, D.B.</unittitle>
+<unitdate>(1886-1900)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">5</container>
+<unittitle>Johnson, D.B.</unittitle>
+<unitdate>(1901-1905)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">6</container>
+<unittitle>Johnson, D.B.</unittitle>
+<unitdate>(1906-May 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">7</container>
+<unittitle>Johnson, D.B.</unittitle>
+<unitdate>(Jun 1909-Oct 1911)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">8</container>
+<unittitle>Johnson, D.B.</unittitle>
+<unitdate>(Oct 1911-1912)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">9</container>
+<unittitle>Johnson, E.T. - Joyner</unittitle>
+<unitdate>(1903-May 1904)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">10</container>
+<unittitle>Joyner</unittitle>
+<unitdate>(Jun 1904-May 1905)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">11</container>
+<unittitle>Joyner</unittitle>
+<unitdate>(Jun 1905-Apr 1906)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">12</container>
+<unittitle>Joyner (May 1906-1907) - Kelly</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">13</container>
+<unittitle>Kilpatrick - Kirkland</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">14</container>
+<unittitle>Lasher - Lawrence</unittitle>
+<unitdate>(1907-May 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">15</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(Jun 1909-Jul 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">16</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(Aug 1909-Oct 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">17</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(Oct 1909-Dec 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">18</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(Jan 1910-Feb 1910)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">19</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(Mar 1910-Feb 1911)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">20</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(Mar 1911-Apr 1912)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">21</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(May 1912-1913)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">22</container>
+<unittitle>Lawrence, W.</unittitle>
+<unitdate>(1914-1917 and Undated)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">23</container>
+<unittitle>Lefevre - Lyman</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">24</container>
+<unittitle>Mallalieu - Martin</unittitle>
+<unitdate>(1903-1904)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">25</container>
+<unittitle>Martin</unittitle>
+<unitdate>(1905-1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">26</container>
+<unittitle>Mason - Merrill, N.M.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">27</container>
+<unittitle>Merritt</unittitle>
+<unitdate>(1898-1904)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">28</container>
+<unittitle>Merritt</unittitle>
+<unitdate>(1905-1906)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">29</container>
+<unittitle>Miller, T.C.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">30</container>
+<unittitle>Mitchell - J.P. Morgan and Co.</unittitle>
+<unitdate>(1888-1900)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="file">31</container>
+<unittitle>J.P. Morgan and Co.</unittitle>
+<unitdate>(1901-1904)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">1</container>
+<unittitle>J.P. Morgan and Co.</unittitle>
+<unitdate>(1905-1912)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">2</container>
+<unittitle>J.P. Morgan and Co.</unittitle>
+<unitdate>(1913) - Neil</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">3</container>
+<unittitle>Ogden - Olney, R.</unittitle>
+<unitdate>(1898-Jan 1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">4</container>
+<unittitle>Olney, R.</unittitle>
+<unitdate>(Feb 1907-My 1907</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">5</container>
+<unittitle>Olney, R.</unittitle>
+<unitdate>(Jun 1907-Jun 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">6</container>
+<unittitle>Olney, R.</unittitle>
+<unitdate>(Jul 1909-Dec 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">7</container>
+<unittitle>Olney, R.</unittitle>
+<unitdate>(1910-Jan 1911)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">8</container>
+<unittitle>Olney, R.</unittitle>
+<unitdate>(Feb 1911-1912)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">9</container>
+<unittitle>Olney, R.</unittitle>
+<unitdate>(1913-1918)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">10</container>
+<unittitle>Orr, E.</unittitle>
+<unitdate>(1885-1886)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">11</container>
+<unittitle>Orr, E.</unittitle>
+<unitdate>(1887-1888)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">12</container>
+<unittitle>Orr, G. - Orr, J.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">13</container>
+<unittitle>Osborn - Parkhill</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">14</container>
+<unittitle>Payne, B.R.</unittitle>
+<unitdate>(1912)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">15</container>
+<unittitle>Payne, B.R.</unittitle>
+<unitdate>(1913-1916)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">16</container>
+<unittitle>Payne, W.H.</unittitle>
+<unitdate>(1887-1891)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">17</container>
+<unittitle>Payne, W.H. (1892-1904) - Payne, W.R.</unittitle>
+<unitdate>(1891)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">18</container>
+<unittitle>Payne, W.R.</unittitle>
+<unitdate>(1892-1896)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">19</container>
+<unittitle>Peabody, E. - Porter</unittitle>
+<unitdate>(1887-1901)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">20</container>
+<unittitle>Porter, J.D.</unittitle>
+<unitdate>(1902-1903)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">21</container>
+<unittitle>Porter, J.D.</unittitle>
+<unitdate>(1904-1905)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">22</container>
+<unittitle>Porter, J.D.</unittitle>
+<unitdate>(1906)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">23</container>
+<unittitle>Porter, J.D.</unittitle>
+<unitdate>(1907-1908)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">24</container>
+<unittitle>Porter, J.D.</unittitle>
+<unitdate>(1909-1911)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">25</container>
+<unittitle>Powers - Roosevelt, T.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">26</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(1904-1908)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">27</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(Jan 1909-Jun 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">28</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(Jul 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">29</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(Aug 1909-Sep 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">30</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(Oct 1909-Nov 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="file">31</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(Dec 1909)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">1</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(Jan 1910-Aug 1910)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">2</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(Sep 1910-Dec 1910)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">3</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(1911)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">4</container>
+<unittitle>Rose, W.</unittitle>
+<unitdate>(1912)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">5</container>
+<unittitle>Rose, W. (1913-1914) - Russell, O.F.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">6</container>
+<unittitle>Safargue - Sears, B.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">7</container>
+<unittitle>Shackleford - Sioussa</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">8</container>
+<unittitle>Sistruck - Smith, B.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">9</container>
+<unittitle>Smith, H.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">10</container>
+<unittitle>Somerville, H.M.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">11</container>
+<unittitle>Southall, J.W.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">12</container>
+<unittitle>Stearns, E.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">13</container>
+<unittitle>Strong - Tillman</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">14</container>
+<unittitle>(Concerning) Toney - Toon</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">15</container>
+<unittitle>Tormey - Turner</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">16</container>
+<unittitle>Tyler - Vaughan</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">17</container>
+<unittitle>Vertrees, J.</unittitle>
+<unitdate>(1907)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">18</container>
+<unittitle>Vertrees, J.</unittitle>
+<unitdate>(1908-1910)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">19</container>
+<unittitle>Waite - Washington, B.T.</unittitle>
+<unitdate>(1889-1905)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">20</container>
+<unittitle>Washington, B.T.</unittitle>
+<unitdate>(1906-1914)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">21</container>
+<unittitle>Webster - Wetmore, G.P.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">22</container>
+<unittitle>Wetmore, S. - White</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">23</container>
+<unittitle>Whitfield - Wilson, R.L.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">24</container>
+<unittitle>Windsor - Winthrop, G.L.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">25</container>
+<unittitle>Winthrop, R.C.</unittitle>
+<unitdate>(1867-1887)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">26</container>
+<unittitle>Winthrop, R.C.</unittitle>
+<unitdate>(1888)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">27</container>
+<unittitle>Winthrop, R.C.</unittitle>
+<unitdate>(1889)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">28</container>
+<unittitle>Winthrop, R.C.</unittitle>
+<unitdate>(1890-1891)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">29</container>
+<unittitle>Winthrop, R.C.</unittitle>
+<unitdate>(1892-1894)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="file">30</container>
+<unittitle>Wright, C.D. - Wright, G.H.</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle>Subject Files</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">1</container>
+<unittitle>American Freedmen&#8217;s Union Commission</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">2</container>
+<unittitle>Annul Reports</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">3</container>
+<unittitle>Applications for Presidency</unittitle>
+<unitdate>1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">4</container>
+<unittitle>Audobon Society</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">5</container>
+<unittitle>Bass, J.M. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">6</container>
+<unittitle>Bonds</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">7</container>
+<unittitle>Budget, Financial Statements, Etc.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">8</container>
+<unittitle>Buildings</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">9</container>
+<unittitle>Charles Bower Case</unittitle>
+<unitdate>1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">10</container>
+<unittitle>Charters</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">11</container>
+<unittitle>Choate, J.H. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">12</container>
+<unittitle>College Annual</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">13</container>
+<unittitle>Committee of Five</unittitle>
+<unitdate>1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">14</container>
+<unittitle>Committee of Four</unittitle>
+<unitdate>1909</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">15</container>
+<unittitle>Committee of Six - Charter</unittitle>
+<unitdate>1909</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">16</container>
+<unittitle>Conference for Education in the South</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">17</container>
+<unittitle>Contributions</unittitle>
+<unitdate>1909-1911</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">18</container>
+<unittitle>Cook, J.E. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">19</container>
+<unittitle>Deed</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">20</container>
+<unittitle>Dickinson, J.M. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">21</container>
+<unittitle>Dickinson Opinion</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">22</container>
+<unittitle>Dissolution of the Trust - Discussion</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">23</container>
+<unittitle>Douglas, W.R. - Evarts, W.M. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">24</container>
+<unittitle>Faculty</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">25</container>
+<unittitle>Fenner, C.A. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">26</container>
+<unittitle>Fisk University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">27</container>
+<unittitle>Fish, H. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">28</container>
+<unittitle>Freedmen&#8217;s Aid and Southern Education Society of the Methodist Church</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">29</container>
+<unittitle>General Information Publications</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">30</container>
+<unittitle>George Peabody College for Teachers, papers of establishment</unittitle>
+<unitdate>1909</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="file">31</container>
+<unittitle>Getzen, W.T. - Gilman, D.C. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">1</container>
+<unittitle>Harvard University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">2</container>
+<unittitle>Johnson, D.B. - Joyner, J. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">3</container>
+<unittitle>Knapp Farm</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">4</container>
+<unittitle>Lasher, R. - Lawrence, W. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">5</container>
+<unittitle>Licentiate of Instruction</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">6</container>
+<unittitle>Little, C.E. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">7</container>
+<unittitle>Montgomery Bell Academy</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">8</container>
+<unittitle>Name of College</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">9</container>
+<unittitle>Newspaper Clippings Relating to the Establishment of George Peabody College</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">10</container>
+<unittitle>Olney, R. - Payne, W.R. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">11</container>
+<unittitle>Peabody Education Fund -Proceedings</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">12</container>
+<unittitle>Peabody Education Fund -Proceedings - Publication</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">13</container>
+<unittitle>Peabody Institute - Baltimore</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">14</container>
+<unittitle>Peabody Normal College</unittitle>
+<unitdate>1903</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">15</container>
+<unittitle>Peabody Trustees Meeting</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">16</container>
+<unittitle>Porter, J.D. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">17</container>
+<unittitle>Property</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">18</container>
+<unittitle>Report of the General Agent to the Trustees of the Peabody Education Fund</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">19</container>
+<unittitle>Report to the Treasurer</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">20</container>
+<unittitle>Report to the Executive Committee-Little</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">21</container>
+<unittitle>Rose, W. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">22</container>
+<unittitle>Salaries</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">23</container>
+<unittitle>Sears, B. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">24</container>
+<unittitle>Southern Education Conference</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">25</container>
+<unittitle>Stearns, E. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">26</container>
+<unittitle>Teachers College, Columbia University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">27</container>
+<unittitle>Teachers Retirement Association</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">28</container>
+<unittitle>Tennessee Central Railroad Company</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">29</container>
+<unittitle>Tennessee&#8217;s Failure to Appropriate $250,000 for College</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">30</container>
+<unittitle>Tormey, W.J. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">31</container>
+<unittitle>Trustees--George Peabody College for Teachers</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">32</container>
+<unittitle>Tyler, L.G. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">33</container>
+<unittitle>Vanderbilt University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">34</container>
+<unittitle>Vertrees, J. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">35</container>
+<unittitle>W.C.T.U. Settlement School</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">36</container>
+<unittitle>Waldorf-Astoria Hotel Co.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="file">37</container>
+<unittitle>Winthrop, R.C. (Legal Size Correspondence)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">1</container>
+<unittitle>China</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">2</container>
+<unittitle>India</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">3</container>
+<unittitle>Alabama (arranged by name of school)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">4</container>
+<unittitle>Arkansas</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">5</container>
+<unittitle>Florida</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">6</container>
+<unittitle>Georgia</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">7</container>
+<unittitle>Kentucky</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">8</container>
+<unittitle>Maryland</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">9</container>
+<unittitle>Mississippi</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">10</container>
+<unittitle>Missouri</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">11</container>
+<unittitle>North Carolina</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">12</container>
+<unittitle>South Carolina</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">13</container>
+<unittitle>Tennessee</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">14</container>
+<unittitle>Texas</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">15</container>
+<unittitle>Virginia</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">16</container>
+<unittitle>West Virginia</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">17</container>
+<unittitle>Unknown Correspondence (much probably from R. Olney)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">18</container>
+<unittitle>Unknown Correspondence (much probably from R. Olney)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="file">19</container>
+<unittitle>E. Stearns Scrapbook (newspaper clippings, correspondence from Dr. Sears and R.C. Winthrop)</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle>Pamphlets</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">1</container>
+<unittitle>Conference of the State Supervisors of Rural Schools</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">2</container>
+<unittitle>Education Campaign in Texas</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">3</container>
+<unittitle>Georgia- An Act to Revise the School Laws</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">4</container>
+<unittitle>Georgia- Observations on School Laws</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">5</container>
+<unittitle>Kentucky- Department of Education Bulletin</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">6</container>
+<unittitle>Louisiana- Ornamentation of School Grounds</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">7</container>
+<unittitle>Mississippi- Department of Elementary Rural Schools</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">8</container>
+<unittitle>North Carolina</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">9</container>
+<unittitle>North Carolina- Consolidation of Schools and Public Transportation of Pupils</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">10</container>
+<unittitle>Quarterly Report of the State Supervisors of Rural Schools</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">11</container>
+<unittitle>Report of Miss Virginia Moore</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">12</container>
+<unittitle>Reports of Organizers of School Improvement Associations</unittitle>
+<unitdate>30 Jun 1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">13</container>
+<unittitle>Reports of Organizers of School Improvement Associations</unittitle>
+<unitdate>30 Sep 1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">14</container>
+<unittitle>Reports of Organizers of School Improvement Associations</unittitle>
+<unitdate>31 Dec 1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">15</container>
+<unittitle>Reports of Organizers of School Improvement Associations</unittitle>
+<unitdate>31 Mar 1911</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">16</container>
+<unittitle>Reports of Organizers of School Improvement Associations</unittitle>
+<unitdate>30 Jun 1911</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">17</container>
+<unittitle>Reports of Organizers of School Improvement Associations</unittitle>
+<unitdate>30 Sep 1911</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">18</container>
+<unittitle>Reports of Organizers of School Improvement Associations</unittitle>
+<unitdate>31 Mar 1912</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">19</container>
+<unittitle>Report of State Supervisors of Rural Elementary Schools, 30 Sep 1911 (Parts I &#38; II)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">20</container>
+<unittitle>Report of State Supervisors of Rural Elementary Schools, 30 Sep 1911(Parts III &#38; IV)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">21</container>
+<unittitle>Report of State Supervisors of Rural Elementary Schools</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">22</container>
+<unittitle>Report of Supervisor of Colored Rural Elementary Schools</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="file">23</container>
+<unittitle>Report of State Supervisors of Rural Elementary Schools, 31 Mar</unittitle>
+<unitdate>1909</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">1</container>
+<unittitle>Report of Supervisors of Rural Elementary Schools</unittitle>
+<unitdate>30 Jun 1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">2</container>
+<unittitle>Report of Supervisors of Rural Elementary Schools</unittitle>
+<unitdate>30 Sep 1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">3</container>
+<unittitle>Report of Supervisors of Rural Elementary Schools</unittitle>
+<unitdate>31 Dec 1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">4</container>
+<unittitle>Report of Supervisors of Rural Elementary Schools</unittitle>
+<unitdate>30 Jun 1911</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">5</container>
+<unittitle>Report of Supervisors of Rural Elementary Schools, 31 Mar</unittitle>
+<unitdate>1912</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">6</container>
+<unittitle>Report of the Conference for Education in Texas</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">7</container>
+<unittitle>Report of the General Agent to the Trustees, 1907 (Part I &#38; II)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">8</container>
+<unittitle>Report of the General Agent to the Trustees</unittitle>
+<unitdate>1910</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">9</container>
+<unittitle>Report of the General Agent to the Trustees</unittitle>
+<unitdate>1912</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">10</container>
+<unittitle>Report of the General Agent to the Trustees</unittitle>
+<unitdate>1913</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">11</container>
+<unittitle>Report of the State Supervisor of Rural Schools</unittitle>
+<unitdate>30 Sep 1912</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">12</container>
+<unittitle>Report of the State Supervisor of Rural Schools in North Carolina</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">13</container>
+<unittitle>Report of the State Supervisor of Rural Schools, 31 Mar</unittitle>
+<unitdate>1911</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">14</container>
+<unittitle>South Carolina</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">15</container>
+<unittitle>South Carolina- A Statement of the Rural School Problem</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">16</container>
+<unittitle>South Carolina- Clemson Agricultural College</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">17</container>
+<unittitle>South Carolina- Teacher&#8217;s Manual</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">18</container>
+<unittitle>Supervision of Rural Schools for Negroes [Virginia]</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">19</container>
+<unittitle>Tennessee- Graded Course of Study for the Elementary Schools</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">20</container>
+<unittitle>The Work of School Improvement Leagues in Six Southern States</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">21</container>
+<unittitle>Virginia- A Mill Tax for the Educational System of the State</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">22</container>
+<unittitle>Virginia- Extension Work of Rural Schools of Rockingham County</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">23</container>
+<unittitle>Virginia- Literary Societies in the Public Schools- Parliamentary Forms and Rules</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">24</container>
+<unittitle>West Virginia</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="file">25</container>
+<unittitle>West Virginia- District Supervision</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle>Proceedings of the Trustees</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">1</container>
+<unitdate>15 Feb 1870</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">2</container>
+<unitdate>15 Feb 1871</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">3</container>
+<unitdate>25 Jun 1872</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">4</container>
+<unitdate>16 Jul 1873</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">5</container>
+<unitdate>3 Aug 1876</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">6</container>
+<unitdate>3 Oct 1877</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">7</container>
+<unitdate>2 Oct 1878</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">8</container>
+<unitdate>1 Oct 1879</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">9</container>
+<unitdate>18 Feb 1880</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">10</container>
+<unitdate>2 Feb 1881</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">11</container>
+<unitdate>5 Oct 1881</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">12</container>
+<unitdate>4 Oct 1882</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">13</container>
+<unitdate>3 Oct 1883</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">14</container>
+<unitdate>1 Oct 1884</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">15</container>
+<unitdate>6 Oct 1886</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">16</container>
+<unitdate>3 Oct 1888</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">17</container>
+<unitdate>3 Oct 1889</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">18</container>
+<unitdate>1 Oct 1890</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">19</container>
+<unitdate>7 Oct 1891</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">20</container>
+<unitdate>6 Oct 1893</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">21</container>
+<unitdate>4 Oct 1894</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">22</container>
+<unitdate>7 Oct 1896</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="file">23</container>
+<unitdate>6 Oct 1897</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">1</container>
+<unitdate>4 Oct 1899</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">2</container>
+<unitdate>3 Oct 1900</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">3</container>
+<unitdate>7 Nov 1901</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">4</container>
+<unitdate>1 Oct 1902</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">5</container>
+<unitdate>29 Jan 1903</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">6</container>
+<unitdate>8 Oct 1903</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">7</container>
+<unitdate>28 Jan 1904</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">8</container>
+<unitdate>2 Nov 1904</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">9</container>
+<unitdate>24 Jan 1905</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">10</container>
+<unitdate>4 Oct 1905</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">11</container>
+<unitdate>3 Oct 1906</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">12</container>
+<unitdate>20 Feb 1907</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="file">13</container>
+<unitdate>11 Dec 1907</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

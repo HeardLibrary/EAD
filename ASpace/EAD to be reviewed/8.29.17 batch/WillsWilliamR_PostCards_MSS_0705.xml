@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Wills, William Ridley II Post Card Collection</titleproper>
+<titleproper>Finding Aid for the William Ridley Wills II Post Card Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>William Ridley Wills II Post Card Collection</unittitle>
+<unitid>MSS.0705</unitid>
+<unitdate>undated</unitdate>
+</did>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Wills Postcards</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle><title render="underline">Vanderbilt</title></unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="folder">1</container>
+<unitdate><title render="underline">1901</title></unitdate>
+<unittitle>Vanderbilt University, Main Bldg. Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">2</container>
+<unitdate><title render="underline">1905</title></unitdate>
+<unittitle>5782. Vanderbilt University, Nashville, Tenn. &#8220;11/4/05 Here&#8217;s To Where All Those Who Have the &#8216;Mon&#8217; Can Obtain It.&#8221; To: Miss Rose Shell, No 614 Cypress Street. Chattanooga, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">3</container>
+<unitdate><title render="underline">1906</title></unitdate>
+<unittitle>Nashville, Tenn. Main Building, Vanderbilt University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">4</container>
+<unitdate><title render="underline">1907</title></unitdate>
+<unittitle>*Sigilium Universitatis Vanderbiltiae* MDCCLXXIII*</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">4</container>
+<unitdate><title render="underline">1907</title></unitdate>
+<unittitle>Kissam Hall, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">5</container>
+<unitdate><title render="underline">1908</title></unitdate>
+<unittitle>Nashville, Tenn. Kissam Hall- Vanderbilt University. To: Miss Maud Martin, Blackford, KY</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">6</container>
+<unitdate><title render="underline">1908</title></unitdate>
+<unittitle>Vanderbilt University, Department of Dentistry. Founded in 1879 by W.M.H. Morgan, M.D., D.D.S., Dean</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">7</container>
+<unitdate><title render="underline">1908</title></unitdate>
+<unittitle>Nashville, Tenn. College Hall- Vanderbilt University. Tuck&#8217;s Post Card</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">8</container>
+<unitdate><title render="underline">1908</title></unitdate>
+<unittitle>Kissam Hall, Vanderbilt, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">9</container>
+<unitdate><title render="underline">1909</title></unitdate>
+<unittitle>Vanderbilt University, NASHVILLE, TENN. (20729)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">10</container>
+<unitdate><title render="underline">1911</title></unitdate>
+<unittitle>MEDICAL COLLEGE, VANDERBILT UNIVERSITY, NASHVILLE, TENN. A. Nickel, Pharmacist, Ash and Cherry St.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">11</container>
+<unitdate><title render="underline">1911</title></unitdate>
+<unittitle>Top-&#8220;A FALL OF THE BEAUTIFUL&#8221; ON CAMPUS, AT VANDERBILT UNIVERSITY, NASHVILLE, TENN. Bottom- IN DEAR OLD WINTER, AT VANDERBILT UNIVERSITY, COMMODORE VANDERBILT&#8217;S STATUE IN BACKGROUND.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">12</container>
+<unitdate><title render="underline">1911</title></unitdate>
+<unittitle>Furman Hall and main Building, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">13</container>
+<unitdate><title render="underline">1912</title></unitdate>
+<unittitle>Main Building, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">14</container>
+<unitdate><title render="underline">1913</title></unitdate>
+<unittitle>12025, Furman Hall, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">15</container>
+<unitdate><title render="underline">1913</title></unitdate>
+<unittitle>Vanderbilt University, Main Building, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">16</container>
+<unitdate><title render="underline">1914</title></unitdate>
+<unittitle>Furman Hall, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">17</container>
+<unitdate><title render="underline">1919</title></unitdate>
+<unittitle>WALK LEADING FROM FURMAN HALL TO COLLEGE HALL, VANDERBILT UNIVERSITY</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">18</container>
+<unitdate><title render="underline">1922</title></unitdate>
+<unittitle>VANDERBILT vs. MICHIGAN. South&#8217;s Greatest Spectacle. Seats Selling Fast. Admission: $2.00 and $1.50. Make Reservations Now. Openings New Stadium: SAT. OCT. 14</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">19</container>
+<unitdate><title render="underline">1923</title></unitdate>
+<unittitle>FURMAN HALL AND MAIN BUILDING, VANDERBILT UNIVERSITY, NASHVILLE.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">20</container>
+<unitdate><title render="underline">1926</title></unitdate>
+<unittitle>Furman Hall, Vanderbilt University, Nashville, Tenn. - 61</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">21</container>
+<unitdate><title render="underline">1929</title></unitdate>
+<unittitle>Medical Department, Vanderbilt University, South Campus, Nashville</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">22</container>
+<unitdate><title render="underline">1931</title></unitdate>
+<unittitle>Old Tower, College Hall, Vanderbilt University</unittitle>
+<unittitle>Welcome to Nashville</unittitle>
+<unittitle>During Home-Coming Week</unittitle>
+<unitdate>September 19-26, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">23</container>
+<unitdate><title render="underline">1936</title></unitdate>
+<unittitle>COLLGE HALL, VANDERBILT UNIVERSITY, NASHVILLE, TENN.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">24</container>
+<unitdate><title render="underline">1941</title></unitdate>
+<unittitle>KIRKLAND HALL. Vanderbilt University. Nashville, Tennessee</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">25</container>
+<unitdate><title render="underline">1942</title></unitdate>
+<unittitle>6&#8211;Vanderbilt University, Kirkland Hall, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">26</container>
+<unitdate><title render="underline">1944</title></unitdate>
+<unittitle>Vanderbilt Hospital, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">27</container>
+<unitdate><title render="underline">1944</title></unitdate>
+<unittitle>Vanderbilt University Stadium- Nashville, Tenn. &#8211; 97</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">28</container>
+<unitdate><title render="underline">1951</title></unitdate>
+<unittitle>School of Medicine and Hospital, Vanderbilt University, Nashville, Tenn. Photo by 165th Photo Section Air Corps, Tenn. Nat, Guard, Nashville.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">29</container>
+<unitdate><title render="underline">1957</title></unitdate>
+<unittitle>Kirkland Tower and friend&#8211;Looking west from the 1957 Kissam Dormitories.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">30</container>
+<unitdate><title render="underline">1959</title></unitdate>
+<unittitle>Vanderbilt Hospital, Vanderbilt University, Nashville, Tenn. &#8211; 59</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">31</container>
+<unitdate><title render="underline">1960</title></unitdate>
+<unittitle>Joint University Library, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">32</container>
+<unitdate><title render="underline">1961</title></unitdate>
+<unittitle>Furman Hall, Vanderbilt University-Nashville- Tenn&#8211;61</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">33</container>
+<unitdate><title render="underline">1961</title></unitdate>
+<unittitle>Furman Hall- Vanderbilt University- Nashville- Tenn&#8211;61</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">34</container>
+<unitdate><title render="underline">1967</title></unitdate>
+<unittitle>Dudley Field and Memorial Gymnasium, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">35</container>
+<unitdate><title render="underline">1978</title></unitdate>
+<unittitle>Vanderbilt Hospital- Vanderbilt University- Nashville, Tenn. &#8211; 78</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">36</container>
+<unitdate><title render="underline">1980</title></unitdate>
+<unittitle>To: Ridley Wills, 4428 Warner Pl. Nashville 37205</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">37</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>SNOW SCENE ON VANDERBILT UNIVERSITY CAMPUS, SHOWING COMMODORE VANDERBILT&#8217;S STATUE IN DISTANCE, NASHVILLE, TENN.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">38</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>STATUE OF COMMODORE, VANDERBILT UNIVERSITY, NASHVILLE, TENN.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">39</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>NASHVILLE, TENN. Scene Near Chancellor&#8217;s Residence, Vanderbilt University.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">40</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Greetings from Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">41</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University By Night, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">42</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">43</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Wouldn&#8217;t Our Grandfathers Stare if they could see NASHVILLE now? Vanderbilt University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">44</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>6&#8211;Vanderbilt University, Kirkland Hall, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">45</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University- College Hall- Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">46</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Kirkland hall, Nashville, Tennessee.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">47</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Kirkland Hall Vanderbilt University Nashville, Tennessee</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">48</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, College Hall, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">49</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>&#8220;Proudly stands our Alma Mater, as the years roll by&#8230;&#8221; In this campus view, the entrance to the Student Center, in Alumni Memorial Hall, appears in the foreground, and the clocktower of Kirkland Hall rises high against the sky.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">50</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Kirkland Hall, Vanderbilt University, Nashville, Tenn., home of the Commodores. Kirkland Hall is the Administration Building for Vanderbilt University.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">51</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>KIRKLAND HALL. Vanderbilt University. Nashville, Tennessee.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">52</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>KIRKLAND HALL. Vanderbilt University. Nashville, Tennessee.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">53</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>KIRKLAND HALL. Main administration building of the University. Completed in 1875. Named for Vanderbilt&#8217;s second chancellor James H. Kirkland, and his wife. Burned in 1905 and rebuilt. Restoration of the building was begun in 1982. Photo by John Halliburton.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">54</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Benson Science Hall, Vanderbilt University. Photo by Will and Deni McIntyre.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">55</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Kirkland Hall Tower. Vanderbilt University. Photo by Will and Deni McIntyre.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">56</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University campus with Kirkland tower in the background. Photo by Will and Deni McIntyre.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">57</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN. 37240</unittitle>
+<unittitle>KIRKLAND HALL</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">58</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>12026. Kissam Hall, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">59</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Kissam Hall, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">60</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Kissam Hall, Vanderbilt University, Nashville</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">61</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Kissam Hall, Vanderbilt University, Nashville, Tenn.&#8211;29</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">62</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>7893. Kissam Hall, Vanderbilt University, showing West Nashville in the distance. Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">62</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Kissam hall, Observatory and Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">63</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Kissam Hall, Vanderbilt University.</unittitle>
+<unittitle>Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">64</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle><emph render="italic">Kissam Hall, Vanderbilt University, Nashville</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">65</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>THE LARGEST PLANT IN THE WORLD IN LOCATED AT NASHVILLE. KISSAM HALL, VANDERBILT UNIVERSITY, NASHVILLE. NASHVILLE&#8211;THE POWDER CITY OF THE WOLRD.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">66</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>FURMAN HALL</unittitle>
+<unittitle>VANDERBILT UNIVERSITY</unittitle>
+<unittitle>NASHVILLE, TENN.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">67</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle><emph render="italic">Furman Hall, Vanderbilt University, Nashville, Tennessee.</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">68</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>FURMAN HALL houses the humanities. Built in 1907, named for Francis Furman, Nashville dry-goods merchant. Remodeled in 1967. Photo by John Halliburton.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">69</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>JOINT UNIVERSITY LIBRARY, NASHVILLE, TENN.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">70</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>41&#8211;Joint University Library, Nashville, Tenn.</unittitle>
+<unittitle>Peabody College, Scarritt College, Vanderbilt University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">71</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>THE JOINT UNIVERSITY LIBRARY</unittitle>
+<unittitle>NASHVILLE, TENNESSEE</unittitle>
+<unittitle>The Joint University Library is operated by Peabody University, Scarritt College, and Vanderbilt University. It is the first co-operative University Library project established in America.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">72</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Neely Auditorium Vanderbilt University</unittitle>
+<unittitle>Nashville, Tennessee</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">73</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>NEELY AUDITORIUM, home of the Vanderbilt University Theatre. Was an auditorium for University assemblies until converted to a theatre in 1976. Photo by Gerald Holly.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">74</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt Hospital, Vanderbilt University, Nashville, Tenn.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">75</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>VANDERBILT HOSPITAL- VANDERBILT UNIVERSITY- NASHVILLE, TENN.- 78</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">76</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt Hospital, Vanderbilt University, Nashville, Tennessee</unittitle>
+<unittitle>The Vanderbilt University School of Medicine and Hospital consists of a series of nine buildings brought together under one roof. This group of adjoining units contains the laboratories of the departments of the Medical School, lecture rooms, administrative offices, library and various subdivisions of the hospital. They also include the large department for out-patients and 200 beds.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">77</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>THE VANDERBILT UNIVERSITY SCHOOL OF MEDICINE AND HOSPITAL</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">78</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>THE VANDERBILT UNIVERSITY SCHOOL OF MEDICINE AND HOSPITAL</unittitle>
+<unittitle>Nashville, Tennessee</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">79</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>THE VANDERBILT SCHOOL OF MEDICINE AND HOSPITAL</unittitle>
+<unittitle>Nashville, Tennessee</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">80</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>Doorway of GODCHAUX HALL, Vanderbilt School of Nursing. Named for Mary Ragland Godchaux. Photo by Gary Gore.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">81</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>OLIN HALL OF ENGINEERING. Built in 1974 with funds from the Olin Foundation, to house chemical engineering and materials science. Photo by John Halliburton.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">82</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>VANDERBILT UNIVERSITY HOSPITAL</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">83</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>COMPUTER CENTER. 1963. A unit of the Stevenson Center for the Natural Sciences. Houses the DECSYSTEM-1099 computer system for use by the students, faculty, and administration. Photo by Gerard Holly.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">84</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle><emph render="italic">Vanderbilt University</emph></unittitle>
+<unittitle>Ariel view of Vanderbilt University Campus, showing the women&#8217;s dormitory, Branscomb Quadrangle in the foreground</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">85</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+<unittitle>MARGARET AND HARVY BRANSCOMB QUADRANGLE, named for Vanderbilt&#8217;s fourth chancellor and his wife. Dining hall and four connected dormitory buildings: LUPTON, VAUGHN, STAPLETON, and SCALES houses, named for four early Vanderbilt women. Photo by Gerald Holly.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">86</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>TOLMAN HALL. Dormitory. Named for Herbert Cushing Tolman, professor of Greek, founder of the Vanderbilt chapter of Phi Beta Kappa and dean of the College of Arts and Science from 1914 to 1923. Photo by Gerald Holly.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">87</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>DIVINITY SCHOOL QUADRANGLE. Classrooms, offices, refectory, Benton Chapel (named for Dean John Keith Benton who led the school from 1939 until his death in 1956). Financed by University funds and a number of gifts.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">88</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>BENTON CHAPEL, a part of the John Frederick Oberlin Divinity quadrangle. Oberlin College Graduate School of Theology merged with Vanderbilt Divinity School in 1966. Chapel is named for John Keith Benton, Divinity School Dean 1939-56.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">89</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>OWEN GRADUATE SCHOOL OF MANAGEMENT is named for Lulu Hampton Owen and Ralph Owen of Nashville Mechanical Engineering Hall, built in 1888 and now listed in National Register of Historic Places, has been incorporated into the modern (1982) Owen School complex. Photo by J. Clark Thomas.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">90</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>THE OLD GYM. Built in 1880, a gift from William H. Vanderbilt, son of the University&#8217;s founder. Listed in the National Register of Historic Places. Interior of the original building was remodeled in 1961 to house the Department of Fine Arts Gallery. Photo by Gerald Holly.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">91</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>BUTTRICK HALL. Built in 1928 and named for Wallace Buttrick, an officer of the General Education Board. Houses the Department of General Biology. Photo by Gerald Holly.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">92</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>STUDENT UNION BUILDING. Student Union Building houses Cafeteria, Snack Shop, Book Store and recreational facilities.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">93</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>GODCHAUX HALL. 1925. School of Nursing. Named for Mary Ragland Godchaux. A $1,000,000 under-ground addition was completed in 1978.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">94</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>KISSAM QUADRANGLE</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">95</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>DORMITORY, VANDERBILT UNIVERSITY. NASHVILLE, TENN.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">96</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>ALUMNI MEMORIAL HALL. Recreation and assembly rooms for students and faculty. Given by Alumni as a memorial to 44 Vanderbilt men who gave their lives in World War 1.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">97</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>RAND HALL, VANDERBILT UNIVERSITY. Main dining hall of the University, campus bookstore and post office. This building was named for Frank Chambless Rand, 1898, president of the Board of Trust from 1935 to 1949. Alumni and other friends contributed about half the cost.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">98</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>LINE UP OF VANDERBILT FOOTBALL TEAM OF</unittitle>
+<unitdate>1906</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">99</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>DUDLEY FIELD. Home of the Vanderbilt Commodores. Built in 1922, the stadium was renovated and expanded in 1982, now seats 41,135 spectators. Photo by J. Clark Thomas.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">100</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Dudley Field and Memorial Gymnasium</unittitle>
+<unittitle><emph render="italic">Vanderbilt University&#8211;Nashville, Tenn</emph>.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">101</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>BLAIR SCHOOL OF MUSIC was merged with Vanderbilt University in 1981. Established in 1964 through a bequest of Valere Blair Potter in memory of her mother, Myra Jackson Blair, the school was first a division of Peabody College. Private institution from 1977 until merger with Vanderbilt. Photo by John Halliburton.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">102</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>STATUE OF COMMODORE CORNELIUS VANDERBILT by Italian sculptor Giuseppe Moretti stands in front of Kirkland Hall, at entrance to Vanderbilt University campus. Commodore Vanderbilt gave a million dollars in 1873 to build and endow the University, with the wish that it would &#8220;contribute to strengthening the ties which should exist between all sections of our common country.&#8221; Photo by Sallie India Linebaugh.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">103</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Spring Arrives on Campus</unittitle>
+</did>
+<note>
+<p>Dogwoods in bloom brighten our 3300acre grounds in early spring, heralding the longer, warmer days to come in Nashville.</p>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">104</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>AN OASIS IN THE CITY</unittitle>
+</did>
+<note>
+<p>Vanderbilt University&#8217;s lush landscape mixes towering trees, winding paths, and spacious lawns with historic and current architecture.</p>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">105</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>24. Nashville: With Flounces, garlands, and pointed toes, these children danced at a Vanderbilt reunion in 1925.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">106</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>26. Nashville: &#8220;The Campus&#8221; grill is still on 21st Avenue South across from the Vanderbilt campus.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">107</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>25. Nashville: Professor Walter Storer photographed this fire destroying Vanderbilt&#8217;s Wesley Hall, 19 February 1932.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">108</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Aerial View- Vanderbilt University</unittitle>
+<unittitle>Nashville, Tennessee</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">109</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University. The Commodore&#8217;s Statue. Nashville citizens subscribed to pay for the statue of the University&#8217;s founder, Commodore Cornelius Vanderbilt. It was installed on campus in 1897 and faced east. In 1949, the Commodore &#8220;turned around&#8221; to face north when the main entrance to the campus was placed on West End Avenue.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">110</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University, Nashville, TN 37240</unittitle>
+</did>
+<note>
+<p>Tennessee General Assembly dedication to Mr. Vanderbilt- Photo by Will and Deni McIntyre.</p>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">111</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Statue of Commodore Cornelius Vanderbilt</unittitle>
+</did>
+<note>
+<p>Vanderbilt University is a private, comprehensive teaching and research university with undergraduate, graduate, and professional programs. It has over 1,600 full-time faculty and diverse student body of about 9,700. Vanderbilt was founded in 1873 with a gift from Commodore Cornelius Vanderbilt.</p>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">112</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>KIRKLAND HALL</unittitle>
+</did>
+<note>
+<p>Kirkland Hall&#8217;s bronze bell sounds the hours from its distinctive tower. Named in 1939 for James H. Kirkland, Vanderbilt&#8217;s second Chancellor, the building houses administrative offices including the office of the Chancellor.</p>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">113</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Cornelius Vanderbilt Statue up close</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">114</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Proposed Graduate School of Management&#8211;To open in 1970.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">115</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Vanderbilt University. Kirkland Hall clock tower.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">116</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Entrance to Vanderbilt Campus.</unittitle>
+</did>
+<note>
+<p>NASHVILLE, TENNESSEE</p>
+<p>Statue of Cornelius Vanderbilt</p>
+</note>
+</c03>
+<c03 level="item">
+<did>
+<container type="folder">117</container>
+<unitdate><title render="underline">Not-dated</title></unitdate>
+<unittitle>Postcard of Kirkland Hall. VANDERBILT. Nashville, Tennessee.</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

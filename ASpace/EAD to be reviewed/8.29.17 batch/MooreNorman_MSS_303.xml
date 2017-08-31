@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Moore, Norman Papers</titleproper>
+<titleproper>Finding Aid for the Moore, Norman Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>1862-1865</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Moore, Norman Papers</unittitle>
+<unitid>MSS.0303</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.21 linear feet</extent>
+</physdesc>
+<unitdate>1862-1865</unitdate>
+</did>
+<scopecontent>
+<head>Scope and Content</head>
+<p>This collection contains copies of letters from 3 Union Soldiers to Norman Moore, during the Civil War. The letters discuss the war, lives of the soldiers, lives of people in Tennessee and Mississippi, crime in Nashville, and the death of President Lincoln. Several letters are fragmented pieces, and 2 letters are severely faded.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Correspondence &#8212; from Newton Chaffe</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>Scrapbook, 1940s</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>June 10, 1862</unitdate>
+<unittitle>original faded</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>December 5, 1863</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>January 17, 1864</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>March 6, 1864</unitdate>
+<unittitle>&#189; of letter</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>April 6, 1864</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>August 29, 1864</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>January 5, 1865</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>January 28, 1865</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>March 27, 1865</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>April 11, 1865</unitdate>
+<unittitle>&#189; of letter</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>April 23, 1865</unitdate>
+<unittitle>regarding the death of President Lincoln</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence &#8212; from Jerry Rogers</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>March 14, 1865</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>April 18, 1865</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>n.d.</unitdate>
+<unittitle>&#189; of letter (2)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence &#8212; from cousin</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>n.d.</unitdate>
+<unittitle>&#189; of letter</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence &#8212; from brother</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>December 1, 1863</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>original badly faded</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>December 1, 1863</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Dear Brother:</unittitle>
+</did>
+<c03 level="item">
+<did>
+<unittitle>But first let me answer your question before</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

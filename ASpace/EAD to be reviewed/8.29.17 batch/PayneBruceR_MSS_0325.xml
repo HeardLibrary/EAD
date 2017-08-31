@@ -1,0 +1,2805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Payne, Bruce R. Papers</titleproper>
+<titleproper>Finding Aid for the Bruce R. Payne Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Bruce R. Payne Papers</unittitle>
+<unitid>MSS.0325</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">3.75 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<bioghist>
+<head>Biographical Note</head>
+<p>Bruce Ryburn Payne was born on February 18,1874 in Mull Valley in North Carolina to Jordan Nathaniel Payne and Barbara Anne Eliza Warlick. He attended Trinity College (Duke University) in Durham, North Carolina receiving a baccalaureate degree in 1896 and a master&#8217;s degree in 1902. While earning his master&#8217;s degree Payne taught Latin and Greek at Durham High School. In 1902 he and his wife were offered scholarships to attend the Teachers College of Columbia University. In 1903 Payne received his second master&#8217;s degree the following year he was awarded a doctorate.</p>
+<p>After receiving his PhD Payne taught for a year at William &#38; Mary College as a professor of philosophy, while there he was elected to Phi Beta Kappa. In 1905 he became professor of secondary education and philosophy at the University of Virginia. Payne served as director of the summer institute for teachers and developed this program into a model for the continuing education of teachers during the summer months. The institute was to train young teachers and women who were not allowed to matriculate at the University of Virginia during the regular sessions. The program was rigorous and academically demanding and in being so demonstrated to skeptics the value of summer schools for teachers.</p>
+<p>In 1911, Payne was recruited to Peabody College to be its first President and was given the task of starting a teachers&#8217; college in Nashville, Tennessee from scratch. He immediately began planning for the construction of the first campus buildings and creating a vision for the new college. By 1913, plans were drawn up and the first buildings under construction. Sited across the street from Vanderbilt University Peabody College developed a love hate relationship that played out through the interactions of Payne and Chancellor James H. Kirkland. This sometimes acrimonious relationship lasted throughout the men&#8217;s lives.</p>
+<p>Payne served as President of Peabody College till his death in 1937. In those twenty-six years he established the college as the premier location for teacher education in the south. Peabody&#8217;s growth of prestige can be directly linked to the careful caretaking of Bruce Payne during his tenure as leader of the institution. The faculty were cultivated and recruited with great care as were the relationships developed with the General Education Board and other granting agencies. When he died on April 21, 1937 of a heart attack in Nashville Payne had only recently returned from a trip north to meet with donors hoping to shore up the college during the difficult years of the Depression.</p>
+<p>Payne was laid to rest at Mount Olivet Cemetery in Nashville, Tennessee. He left behind his widow Lula Carr, son Maxwell Carr Payne and a grieving college.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content Note</head>
+<p>The Bruce R. Payne Papers are comprised of nine boxes (3.75 linear feet) of correspondence and subject files. The papers are broken into three series. Series I: is the largest series (six boxes) and contains correspondence both outgoing and incoming with the outgoing organized by date and the incoming by name of sender. Another small sub-set is called Secondary and are carbons of letters sent to him for informational purposes.</p>
+<p>Series II: Office of the President is comprised of subject files about topics of concern for Payne as President of Peabody College. These are arranged alphabetically in three boxes.</p>
+<p>Lastly, Series III: Personal Records contains one folder about Bruce R. Payne&#8217;s finances.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Series I: Correspondence</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence -Outgoing</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unitdate>January 23, 1912-July 4, 1912</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unitdate>July 15, 1912-December 26, 1912</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unitdate>January 15, 1913-October 1, 1913</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unitdate>January 14, 1914-November 3, 1914</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unitdate>December 4, 1914-December 28, 1914</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unitdate>January 16, 1915-December 27, 1915</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unitdate>December 20, 1916</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unitdate>January 29, 1917-August 24, 1917</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unitdate>February 19, 1918-August 22, 1918</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unitdate>October 18, 1919-December 1919</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unitdate>August 22, 1921-August 27, 1921</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unitdate>February 27, 1922-December 16, 1922</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unitdate>April 4, 1923-October 12, 1923</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unitdate>February 5, 1924-April 24, 1924</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unitdate>May 3, 1924-July 28, 1924</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unitdate>August 7, 1924-September 30, 1924</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unitdate>October 2, 1924-October 21, 1924</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unitdate>November 11, 1924-December 19, 1924</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unitdate>January 1, 1925-January 20, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unitdate>February 3, 1925-February 28, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unitdate>March 2, 1925-March 31, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unitdate>May 11, 1925-May 12, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unitdate>May 13, 1925-May 31, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unitdate>June 1, 1925-June 11, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unitdate>June 17, 1925-July 21, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unitdate>August 10, 1925-September 23, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unitdate>October 1, 1925-December 6, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unitdate>December 19, 1925-December 22, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unitdate>January 1, 1926-January 22, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unitdate>February 3, 1926-February 22, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unitdate>March 3, 1926-March 31, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unitdate>April 3, 1926-June 11, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unitdate>June 21, 1926-July 26, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unitdate>August 3, 1926-August 25, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unitdate>September 28, 1926-October 14, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unitdate>October 21, 1926-IMovember 24, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">37</container>
+<unitdate>December8, 1926-December 27, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">38</container>
+<unitdate>January 1, 1927-January 17, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">39</container>
+<unitdate>January 19, 1927-January 27, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">40</container>
+<unitdate>February 6, 1927-March 21, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">41</container>
+<unitdate>April 21, 1927-August 31, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">42</container>
+<unitdate>September 26, 1927-October 12, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">43</container>
+<unitdate>November 3, 1927-December 24, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">44</container>
+<unitdate>January 5, 1928-April 20, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">45</container>
+<unitdate>May 7, 1928-June 25, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unitdate>July 5, 1928-August 21, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">47</container>
+<unitdate>September 22, 1928-November 23, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">48</container>
+<unitdate>December 1, 1928-December 27, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">49</container>
+<unitdate>January 7, 1929-January 31, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">50</container>
+<unitdate>February 2, 1929-February 13, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">51</container>
+<unitdate>March 2, 1929-April 13, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">52</container>
+<unitdate>May 8, 1929-July8, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">53</container>
+<unitdate>August 29, 1929-October 16, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">54</container>
+<unitdate>November 4, 1929-November 25, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">55</container>
+<unitdate>December5, 1929-December 31, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">56</container>
+<unitdate>January 1, 1930-January 16, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">57</container>
+<unitdate>February 7, 1930-March 31, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">58</container>
+<unitdate>April 1, 1930-April 26, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">59</container>
+<unitdate>May 6, 1930-May 30, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">60</container>
+<unitdate>June 10, 1930-June 22, 1930</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series I: Correspondence</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence -Outgoing</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unitdate>July 1, 1930-July 28, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unitdate>August 11, 1930-September 22, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unitdate>October 2, 1930-November 21, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unitdate>December 11, 1930-December 20, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unitdate>January 10, 1931-January 28, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unitdate>February 2, 1931-february 27, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unitdate>March 11, 1931-May 28, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unitdate>June 22, 1931-June 29, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unitdate>July 3, 1931-August 25, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unitdate>September 3, 1931-September 29.1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unitdate>October 3, 1931-October 21, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unitdate>November 18, 1931- December 28, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unitdate>January 6, 1932-January 26, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unitdate>February 5, 1932-March 25, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unitdate>April 4, 1932-April 25, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unitdate>May 2, 1932-May 30, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unitdate>June 6, 1932-June 25, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unitdate>July 1, 1932-July 30, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unitdate>August 4, 1932-August 22, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unitdate>September 9, 1932-September 29, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unitdate>October 4, 1932-October 25, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unitdate>November 6, 1932-November 30, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unitdate>December 1, 1932-December 23, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unitdate>January 6, 1933-January 27, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">25</container>
+<unitdate>February 3, 1933-February 28, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">26</container>
+<unitdate>March 1, 1933-March 31, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">27</container>
+<unitdate>April 8, 1933-April 27, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">28</container>
+<unitdate>May 1, 1933-May 29, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">29</container>
+<unitdate>June 2, 1933-June 20, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">30</container>
+<unitdate>June 21, 1933-June 29, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">31</container>
+<unitdate>July 6, 1933-July 26, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">32</container>
+<unitdate>August 4, 1933-August 28, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">33</container>
+<unitdate>September 10, 1933-September 30, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">34</container>
+<unitdate>October 5, 1933-October 31, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">35</container>
+<unitdate>November 2, 1933-November 14, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">36</container>
+<unitdate>December 1, 1933-December 15, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">37</container>
+<unitdate>January 22, 1934-February 16, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">38</container>
+<unitdate>March 5, 1934-March 31, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">39</container>
+<unitdate>April 1, 1934-April 28, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">40</container>
+<unitdate>May 7, 1934-June 16, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">41</container>
+<unitdate>July 9, 1934-July 31, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">42</container>
+<unitdate>August 2, 1934-August 18, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">43</container>
+<unitdate>September 11, 1934-September 28, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">44</container>
+<unitdate>October 2, 1934-October 28, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">45</container>
+<unitdate>November 6, 1934-November 23, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">46</container>
+<unitdate>December 3, 1934-December 29, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">47</container>
+<unitdate>January 4, 1935-January 21, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">48</container>
+<unitdate>February 2, 1935-March 25, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">49</container>
+<unitdate>April 9, 1935-May 27, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">50</container>
+<unitdate>June 13, 1935-June 29, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">51</container>
+<unitdate>July 1, 1935-August 24, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">52</container>
+<unitdate>September 10, 1935-September 23, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">53</container>
+<unitdate>October 9, 1935-October 30, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">54</container>
+<unitdate>November 9, 1935-November 26, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">55</container>
+<unitdate>December 2, 1935-December 31, 1935</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series I: Correspondence</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence -Outgoing</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unitdate>January 4, 1936-February 28, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unitdate>March 5, 1936-april 27, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unitdate>May 7, 1936-May 30, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unitdate>June 3, 1936-June 22, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unitdate>July 6, 1936-July 17, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unitdate>July 18, 1936-July 30, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unitdate>August 5, 1936-August 22, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unitdate>September 4, 1936-September 30, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unitdate>October 5, 1936-October 22, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unitdate>November 2, 1936-November 19, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unitdate>December 18, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unitdate>January 8, 1937-February 12, 1937</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unitdate>March 18, 1937-March 30, 1937</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unitdate>April 6, 1937-April 16, 1937</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">15</container>
+<unitdate>Undated</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence -Incoming</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">16</container>
+<unittitle>Adams-Ames</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle>Anderson-Armstrong</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>Arnett, Trevor</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unittitle>Ault, O.C.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">20</container>
+<unittitle>Bachman-Barnwell</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">21</container>
+<unittitle>Barr-Beck</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">22</container>
+<unittitle>Beeson, M.A.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">23</container>
+<unittitle>Benedict-Blnstock</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">24</container>
+<unittitle>Blshop-Bizzell</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">25</container>
+<unittitle>Bogle, Sarah C.N.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">26</container>
+<unittitle>Bolte-Bowle</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">27</container>
+<unittitle>Braden-Brldges</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">28</container>
+<unittitle>Brierley, W.W.</unittitle>
+<unitdate>1928,1930-1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">29</container>
+<unittitle>Brierley, W.W.</unittitle>
+<unitdate>1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">30</container>
+<unittitle>Brierley, W.W.</unittitle>
+<unitdate>1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">31</container>
+<unittitle>Brierley, W.W.</unittitle>
+<unitdate>1935-1937</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">32</container>
+<unittitle>Brlster-Broughton</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">33</container>
+<unittitle>Brown-Browning</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">34</container>
+<unittitle>Bryan-Butler</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">35</container>
+<unittitle>Buttrlck-Byrns</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">36</container>
+<unittitle>Caldwell-Capshaw</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unittitle>Carney-Cawthon</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>Chadwell-Clark</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">39</container>
+<unittitle>Claxton-Clement</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">40</container>
+<unittitle>Clifford-Combs</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">41</container>
+<unittitle>Comer-Cooper</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">42</container>
+<unittitle>Costello-Crawford</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">43</container>
+<unittitle>Crlttenden-Currler</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">44</container>
+<unittitle>Danlel-Davldson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">45</container>
+<unittitle>Davls-Dawson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">46</container>
+<unittitle>Dlcklnson-Dougherty</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">47</container>
+<unittitle>Draper-Dwire</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">48</container>
+<unittitle>Eason-Edgerton</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">49</container>
+<unittitle>Edwards-Ellls</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">50</container>
+<unittitle>Embree, Edwin E.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">51</container>
+<unittitle>Erlkson-Evans</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">52</container>
+<unittitle>Ewlng-Exner</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series I: Correspondence</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence&#8212;Incoming</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>Fair-Favrot</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>Feakins-Fisher</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>Fleming-Fouch</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>Francis-Frankel</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>Franklin-Frasier</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>Galloway-Garvey</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>Gibson-Goulding</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>Gray-Guy</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>Hall-Hanna</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>Harding-Hardy</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>Hargrove, H.L.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>Harriban-Hegeman</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">13</container>
+<unittitle>Hendrick-Highsmith</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle>Hill, H.G.-Hill, John</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>Hill, Theda Buford Phillips-Hite</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>Hoke-Hopkinson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle>Hostetter-Hotz</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle>House-Howse</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>Hudson-Hurt</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>Hutto-Hyde</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>Inglis, James</unittitle>
+<unitdate>November 22, 1926-September 29, 1937</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>Inglis, James</unittitle>
+<unitdate>October 3, 1927-December 27, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>Inglis, James</unittitle>
+<unitdate>March 23, 1928-December 31, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">24</container>
+<unittitle>Inglis, James</unittitle>
+<unitdate>August 12, 1929-May 31, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">25</container>
+<unittitle>Irby, Nolen M.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">26</container>
+<unittitle>Jack-James</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">27</container>
+<unittitle>James, George R.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">28</container>
+<unittitle>Jarman-Jenks</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">29</container>
+<unittitle>Jennings-Jessup</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">30</container>
+<unittitle>Johnson-Johnston</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">31</container>
+<unittitle>Jones-Juhan</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">32</container>
+<unittitle>Keppel-King</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">33</container>
+<unittitle>Kirkland, James H.</unittitle>
+<unitdate>September 15, 1911-December 1914</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">34</container>
+<unittitle>Kirkland, James H.</unittitle>
+<unitdate>January 6, 1915-June 1, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">35</container>
+<unittitle>Koenlg-Kohn</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">36</container>
+<unittitle>Laird-Lane</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">37</container>
+<unittitle>Lansill, John</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series I: Correspondence</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence -Incoming</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>Lawrence, William</unittitle>
+<unitdate>September 14, 1909-December 6, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle>Lawrence, William</unittitle>
+<unitdate>January 2, 1927-October 11, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">3</container>
+<unittitle>Lawrence, William</unittitle>
+<unitdate>October 16, 1929-November 4, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">4</container>
+<unittitle>Lawrence, William</unittitle>
+<unitdate>September 29, 1933-April 19, 1937, undated</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>Leathers-Leonard</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle>Lessenger-Letterdahl</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">7</container>
+<unittitle>Libbin-Lloyd</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">8</container>
+<unittitle>Lockwood-Lorenz</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">9</container>
+<unittitle>Loventhal-Lyon</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">10</container>
+<unittitle>MacRae, Hugh</unittitle>
+<unitdate>October 14, 1931-December 11, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">11</container>
+<unittitle>MacRae, Hugh</unittitle>
+<unitdate>February 14, 1932-December 31, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">12</container>
+<unittitle>MacRae, Hugh</unittitle>
+<unitdate>January 6, 1933-May 17, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">13</container>
+<unittitle>MacRae, Hugh</unittitle>
+<unitdate>May 19, 1933-June 9, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">14</container>
+<unittitle>MacRae, Hugh</unittitle>
+<unitdate>June 14, 1933-October 30, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">15</container>
+<unittitle>MacRae, Hugh</unittitle>
+<unitdate>March 12, 1934-November 8, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">16</container>
+<unittitle>MacRae, Hugh</unittitle>
+<unitdate>January 24, 1935-February 6, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle>Mahon-Martin</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">18</container>
+<unittitle>Matherly-Maytubby</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">19</container>
+<unittitle>McAlister-McCuistion</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">20</container>
+<unittitle>McCune-McKellar</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">21</container>
+<unittitle>McKim, Mead &#38; Whlte-McVey</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">22</container>
+<unittitle>Mellon-Mims</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">23</container>
+<unittitle>Minor, J. L.</unittitle>
+<unitdate>January 18, 1930-September 27, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">24</container>
+<unittitle>Mitchell-Moorhead</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">25</container>
+<unittitle>Morgan, Arthur E. -Morgan, Harcourt A.</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">26</container>
+<unittitle>Morgan, J. P.</unittitle>
+<unitdate>October 25, 1924-May 16, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">27</container>
+<unittitle>Morgan, J. P.</unittitle>
+<unitdate>March 9, 1933-November 21, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">28</container>
+<unittitle>Morris-Murphy</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">29</container>
+<unittitle>Nadler-Newlen</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">30</container>
+<unittitle>Norrell-Northcott</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">31</container>
+<unittitle>Olds, Marshall</unittitle>
+<unitdate>May 19, 1926-April 16, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">32</container>
+<unittitle>Oster-Owens</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">33</container>
+<unittitle>Palfrey-Payne</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">34</container>
+<unittitle>Peabody, George Foster</unittitle>
+<unitdate>March 31, 1925-December 6, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">35</container>
+<unittitle>Peabody, George Foster</unittitle>
+<unitdate>September 4, 1929-June 24, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">36</container>
+<unittitle>Peabody, George Foster</unittitle>
+<unitdate>October 28, 1932-September 27, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">37</container>
+<unittitle>Peabody, George Foster</unittitle>
+<unitdate>June 4, 1934-April 22, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">38</container>
+<unittitle>Pearce-Pettit</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">39</container>
+<unittitle>Phipps-Purdom</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">40</container>
+<unittitle>Rabitte-Raulston</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">41</container>
+<unittitle>Reeves-Reynolds</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">42</container>
+<unittitle>Rice-Richey</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">43</container>
+<unittitle>Robert-Robinson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">44</container>
+<unittitle>Rodman-Rogers</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">45</container>
+<unittitle>Roosevelt-Rosier</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">46</container>
+<unittitle>Ruml-Ryburn</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series I: Correspondence</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence -Incoming</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>Salley-Sarratt</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>Satterlee, Herbert L.</unittitle>
+<unitdate>August 12, 1926-March 23, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>Saucier-Servis</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>Sharp-Sherrod</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>Shoecraft-Sisson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>Smith-Southgate</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>Spahn-Stevens</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>Stewart-Stoddard</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle>Stokes, Anson Phelps</unittitle>
+<unitdate>September 14, 1925-December 28, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>Stokes, Anson Phelps</unittitle>
+<unitdate>February 11, 1926-November 27, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle>Stokes, Anson Phelps</unittitle>
+<unitdate>January 25, 1927-October 23, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle>Stokes, Anson Phelps</unittitle>
+<unitdate>July 17, 1931-July 20, 1936</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle>Stone-Stubbs</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">14</container>
+<unittitle>Suhrle, Ambrose L.</unittitle>
+<unitdate>April 7, 1927-undated</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">15</container>
+<unittitle>Suhrle, Ambrose L.</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">16</container>
+<unittitle>Survey-Suzzallo</unittitle>
+<unitdate>December 23, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">17</container>
+<unittitle>Suzzallo, Henry</unittitle>
+<unitdate>January 7, 1928-November 28, 1928</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">18</container>
+<unittitle>Suzzallo, Henry</unittitle>
+<unitdate>January 13, 1929-January 24, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">19</container>
+<unittitle>Suzzallo, Henry</unittitle>
+<unitdate>March 17, 1930-June 3, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">20</container>
+<unittitle>Taft-Taylor</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">21</container>
+<unittitle>Teuton-Thorkelson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">22</container>
+<unittitle>Tldwell-Tiffett</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">23</container>
+<unittitle>Tilton, Edward L.</unittitle>
+<unitdate>August 23, 1921-December 27, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">24</container>
+<unittitle>Tlson-Tupper</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">25</container>
+<unittitle>Turner-Twlnbridge</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">26</container>
+<unittitle>Uffleman, Ivah W.</unittitle>
+<unitdate>February 7, 1930-March 29, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">27</container>
+<unittitle>Valll, Evelyn Wilkes</unittitle>
+<unitdate>April 15, 1929-October 12, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">28</container>
+<unittitle>Vaill, Frederick S. -Vardell</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">29</container>
+<unittitle>Waginer-Walker, Bradley</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">30</container>
+<unittitle>Walker, Jestena M.</unittitle>
+<unitdate>August 11, 1922-December 17, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">31</container>
+<unittitle>Walker, Jestena M.</unittitle>
+<unitdate>January 14, 1926-October 7, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">32</container>
+<unittitle>Walker, Jestena M.</unittitle>
+<unitdate>October 5, 1933-October 14, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">33</container>
+<unittitle>Walker, Jestena M.</unittitle>
+<unitdate>November 19, 1934-November 19, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">34</container>
+<unittitle>Walker, Sydnor</unittitle>
+<unitdate>May 9, 1925-July 10, 1925</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">35</container>
+<unittitle>Ward-Weatherford</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">36</container>
+<unittitle>Well-Whltley</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">37</container>
+<unittitle>Wilcox-Wllllams</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">38</container>
+<unittitle>Wllllamson-Wllson</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">39</container>
+<unittitle>WInchester-WrIght</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">40</container>
+<unittitle>Unidentified</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence -Secondary</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">41</container>
+<unittitle>Inglls, James</unittitle>
+<unitdate>August 9, 1926-November 24, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">42</container>
+<unittitle>McRae, Hugh</unittitle>
+<unitdate>September 15, 1932-December 15, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">43</container>
+<unittitle>McRae, Hugh</unittitle>
+<unitdate>February 27, 1933-October 6, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">44</container>
+<unittitle>McRae, Hugh</unittitle>
+<unitdate>March 10, 1934-February 6, 1935</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">45</container>
+<unitdate>May 11, 1914-December 29, 1915</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">46</container>
+<unitdate>April 17, 1923-December 18, 1924</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">47</container>
+<unitdate>May 9, 1925-December 10, 1926</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">48</container>
+<unitdate>January 4, 1927-August 24, 1927</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">49</container>
+<unitdate>July 5, 1928-December 23, 1929</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">50</container>
+<unitdate>May 22, 1930-July 22, 1930</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">51</container>
+<unitdate>March 7, 1931-July 30, 1931</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">52</container>
+<unitdate>June 1, 1932-November 22, 1932</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">53</container>
+<unitdate>February 14, 1933-August 7, 1933</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">54</container>
+<unitdate>February 23, 1934-June 14, 1934</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">55</container>
+<unitdate>May 5, 1935-March 19, 1937</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series II: Office of the President</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">1</container>
+<unittitle>Accreditation</unittitle>
+<unitdate>1931</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">2</container>
+<unittitle>Administration Building-Elevations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">3</container>
+<unittitle>Campus and Proposed Buildings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">4</container>
+<unittitle>Chapel</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">5</container>
+<unittitle>Commercial Education</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">6</container>
+<unittitle>Confederate Memorial Hall (1 of 3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">7</container>
+<unittitle>Confederate Memorial Hall (2 of 3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">8</container>
+<unittitle>Confederate Memorial Hall (3 of 3)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">9</container>
+<unittitle>Curriculum Budget</unittitle>
+<unitdate>1926</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">10</container>
+<unittitle>Curriculum Budget</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">11</container>
+<unittitle>East Hall Dormitory</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">12</container>
+<unittitle>Financial Needs--Campaigns</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">13</container>
+<unittitle>Fundraising-Annuities</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">14</container>
+<unittitle>Fundraising-Gifts and Pledges</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">15</container>
+<unittitle>Fundraising -Peabody Educational Programs (1 of 6)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">16</container>
+<unittitle>Fundraising -Peabody Educational Programs (2 of 6)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">17</container>
+<unittitle>Fundraising -Peabody Educational Programs (3 of 6)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">18</container>
+<unittitle>Fundraising -Peabody Educational Programs (4 of 6)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">19</container>
+<unittitle>Fundraising -Peabody Educational Programs (5 of 6)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">20</container>
+<unittitle>Fundraising -Peabody Educational Programs (6 of 6)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">21</container>
+<unittitle>Fundraising -Proposals (1 of 2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">22</container>
+<unittitle>Fundraising -Proposals (2 of 2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">23</container>
+<unittitle>German Educators at Peabody</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">24</container>
+<unittitle>Lawrence, Reverend William -Speech</unittitle>
+<unitdate>February 29, 1928</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">25</container>
+<unittitle>Lea, Luke</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">26</container>
+<unittitle>Maytubby, Joel</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series II: Office of the President</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">1</container>
+<unittitle>Memoranda to the Faculty</unittitle>
+<unitdate>1932-1933, 1935-1937</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">2</container>
+<unittitle>J. P. Morgan &#38; Company</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">3</container>
+<unittitle>Music Building Proposal</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">4</container>
+<unittitle>National Public Health Nursing (1 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">5</container>
+<unittitle>National Public Health Nursing (2 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">6</container>
+<unittitle>National Public Health Nursing (3 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">7</container>
+<unittitle>National Public Health Nursing (4 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">8</container>
+<unittitle>Newspaper Clippings, May 1912 (1 of 2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">9</container>
+<unittitle>Newspaper Clippings, May 1912 (2 of 2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">10</container>
+<unittitle>Newspaper Clippings</unittitle>
+<unitdate>June-August 1912</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">11</container>
+<unittitle>Newspaper Clippings</unittitle>
+<unitdate>1914</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">12</container>
+<unittitle>Newspaper Clippings</unittitle>
+<unitdate>1926, 1929</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">13</container>
+<unittitle>Newspaper Clippings</unittitle>
+<unitdate>1931-1932, 1934-1935</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">14</container>
+<unittitle>Oil Companies&#8217; Annual Reports (1 of 2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">15</container>
+<unittitle>Oil Companies&#8217; Annual Reports (2 of 2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">16</container>
+<unittitle>Peabody, George Foster</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">17</container>
+<unittitle>Peabody, George -Bust in Hall of Fame</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">18</container>
+<unittitle>Phi Beta Kappa</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">19</container>
+<unittitle>Rural Life School (1 of 2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">20</container>
+<unittitle>Rural Life School (2 of 2)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series II: Office of the President</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Series III: Personal Records</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">1</container>
+<unittitle>Scholarships, Fellowships, Loans</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">2</container>
+<unittitle>Semi-centennial Proceedings (1 of 4)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">3</container>
+<unittitle>Semi-centennial Proceedings (2 of 4)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">4</container>
+<unittitle>Semi-centennial Proceedings (3 of 4)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">5</container>
+<unittitle>Semi-centennial Proceedings (4 of 4)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">6</container>
+<unittitle>Social Religious Building</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">7</container>
+<unittitle>Southeastern Council (1 of 2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">8</container>
+<unittitle>Southeastern Council (2 of 2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">9</container>
+<unittitle>Speakers</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">10</container>
+<unittitle>Teacher Training (1 of 2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">11</container>
+<unittitle>Teacher Training (2 of 2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">12</container>
+<unittitle>Teacher Training -Statistics -Payne&#8217;s Research (1 of 2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">13</container>
+<unittitle>Teacher Training -Statistics -Payne&#8217;s Research (2 of 2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">14</container>
+<unittitle>Teacher Training -Statistics -Payne&#8217;s Writings (1 of 2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">15</container>
+<unittitle>Teacher Training -Statistics -Payne&#8217;s Writings (2 of2)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">16</container>
+<unittitle>Vanderbilt University</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">17</container>
+<unittitle>Vespers</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">18</container>
+<unittitle>YWCA at Peabody</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Personal Records</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">19</container>
+<unittitle>Financial Papers</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
