@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Black Foxe Military Institute Collection</titleproper>
+<titleproper>Finding Aid for the Black-Foxe Military Institute Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Black Foxe Military Institute Collection</unittitle>
+<unitid>MSS.0044</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">Linear feet 0.21</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<bioghist>
+<head>Biographical Note</head>
+<p>The Black-Foxe Military Institute was a private, all-male military and boarding school, serving students from kindergarten through twelfth grade, in Los Angeles, California. The school was founded in 1929 by the real estate tycoon Charles E. Toberman and Majors Earle Foxe and Harry Lee Black. The school was founded on the site of the former Urban Military Academy and many celebrities sent their children to Black-Foxe. In 1968 Black-Foxe was forced to shut down after the property&#8217;s mortgage holder foreclosed.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content Note</head>
+<p>This collection is composed of one 1/2 Hollinger box containing six folders. Within the collection is Black-Foxe&#8217;s yearbook, <emph render="italic">The Adjutant</emph>, from 1936 and 1937, the school&#8217;s newspaper, <emph render="italic">Kaydet,</emph> volumes 15, 16, and 18, and a brochure detailing the school. Additionally, there are some promotional items relating to Vanderbilt University.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="item">
+<did>
+<container type="folder">1</container>
+<unittitle>Black-Foxe Adjutant</unittitle>
+<unitdate>1935-1936</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="folder">2</container>
+<unittitle><emph render="italic">The Adjutant</emph></unittitle>
+<unitdate><emph render="italic">1937</emph></unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="folder">3</container>
+<unittitle><emph render="italic">Kaydet</emph> Vols. 15 &#38; 16</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="folder">4</container>
+<unittitle><emph render="italic">Kaydet</emph> Vol. 18,</unittitle>
+<unitdate>Number 1</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="folder">5</container>
+<unittitle>Black-Foxe Military Institute brochure</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="folder">6</container>
+<unittitle>Vanderbilt Items</unittitle>
+</did>
+<note>
+<list type="ordered" numeration="loweralpha">
+<item>&#8220;Items of Interest About Vanderbilt&#8222; brochure</item>
+<item>&#8220;Ward-Belmont Glee Club&#8222; brochure</item>
+<item>&#8220;Sketch of the Life of Commodore Vanderbilt&#8222;</item>
+<item>Listing of undergraduate students and their degrees</item>
+</list>
+</note>
+</c01>
+</dsc>
+</archdesc>
+</ead>

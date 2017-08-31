@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Breyer, Bernard R. and Donald Davidson Collection</titleproper>
+<titleproper>Finding Aid for the Bernard R. Breyer/Donald Davidson Correspondence Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>1945-1948</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Bernard R. Breyer/Donald Davidson Correspondence Collection</unittitle>
+<unitid>MSS.0573</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.03 linear feet</extent>
+</physdesc>
+<unitdate>1945-1948</unitdate>
+</did>
+<bioghist>
+<head>Biography/History</head>
+<p>Bernard R. Breyer, a Nashville native born in 1919 received a Bachelor of Arts degree from Vanderbilt University in 1939, a Master&#8217;s of Art from Louisiana State University in 1940, and a PhD. from the University of Virginia in 1948. While at Vanderbilt he was a student of Donald Davidson, a member of the Fugitive/Agrarian literary group, and corresponded with him for many years. He served in the United States Army during World War II. Dr. Breyer later became a professor of English at Auburn University in Alabama.</p>
+<p>These letters were received from Ward Allen.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Contents</head>
+<p>The collection contains four letters, one typed and three handwritten, dated from 1945 to 1946. Two of the letters discuss military life in World War I and World War II. Also included is a discussion regarding the Vanderbilt University athletic program and the upcoming football season.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Correspondence &#8211; Outgoing</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>May 29, 1945</unitdate>
+<unittitle>Bernard Breyer to Donald Davidson</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence - Incoming</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>July 15, 1945</unitdate>
+<unittitle>Donald Davidson to Bernard Breyer</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unitdate>January 11, 1946</unitdate>
+<unittitle>Donald Davidson to Bernard Breyer</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence &#8211; Miscellaneous</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unitdate>March 16, 1948</unitdate>
+<unittitle>Donald Davidson to Carrie Rich</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

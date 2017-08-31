@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Vesperian, Franklin Society Papers</titleproper>
+<titleproper>Finding Aid for the Franklin Vesperian Society Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Franklin Vesperian Society Papers</unittitle>
+<unitid>MSS.0156</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<arrangement>
+<head>Organization Note:</head>
+<p>The Franklin Vesperian Society was a literary society created by the students of the University of Nashville in the early to middle 19th century. This all male group of writers would meet to discuss an interesting broad range of topics and write essays give speeches about them. The collection covers a series of essays starting from 1828 to 1831 which were created by some of its members. Topics range from contemporary issues to religion and nature.</p>
+</arrangement>
+<scopecontent>
+<head>Scope and Content Note:</head>
+<p>This collection is a half Hollinger box which is .2085 linear feet that contain the writings of members of the society.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Folders--Writings</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Alexander, R- &#8220;The Unequal Distribution Among the Human Family&#8221;</unittitle>
+<unitdate><emph render="italic">November 1830</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Alexander, R- &#8220;Essay on Phrenology&#8221;</unittitle>
+<unitdate><emph render="italic">July 1831</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Andrews, R.L- &#8220;The Origins and Use of Honey&#8221;</unittitle>
+<unitdate><emph render="italic">Undated</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Hay, J.G- &#8220;The Equality of Human Happiness&#8221;</unittitle>
+<unitdate><emph render="italic">November 1830</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Hay, P- &#8220;The Progress of Literature and Society from the Century to the Present&#8221;</unittitle>
+<unitdate><emph render="italic">October 1828</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Hay, P- &#8220;The Influence of Custom&#8221;</unittitle>
+<unitdate><emph render="italic">Undated</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Hoge, T- &#8220;A Brief View of the Natural Evidence of the Immortality of the Soul&#8221;</unittitle>
+<unitdate><emph render="italic">October 1830</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Hoge, T- &#8220;Legends of the West&#8221;</unittitle>
+<unitdate><emph render="italic">February 1831</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>McPhail, D- &#8220;Essay on Water&#8221;</unittitle>
+<unitdate><emph render="italic">Undated</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Sconce, T.M- &#8220;Essay on Intemperance&#8221;</unittitle>
+<unitdate><emph render="italic">Undated</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Weldon, R (Reader)- &#8220;Essay on Historical Reading&#8221;</unittitle>
+<unitdate><emph render="italic">October 1831</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Unidentified- &#8220;Essay on Agriculture&#8221;</unittitle>
+<unitdate><emph render="italic">Undated</emph></unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

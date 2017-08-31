@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Van Sickle, John V. Collection</titleproper>
+<titleproper>Finding Aid for the John V. Van Sickle Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>1942-1946</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>John V. Van Sickle Collection</unittitle>
+<unitid>MSS.0465</unitid>
+<unitdate>1942-1946</unitdate>
+</did>
+<scopecontent>
+<head>Scope aod Contents</head>
+<p>This collection contains six journal articles and two publications, all in pamphlet form. Professor Van Sickle was in the Economics Department.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Journal Articles</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">Geographical Aspects of a Minimum Wage</emph> reprinted from <emph render="underline">Harvard Business Review</emph> &#8211; Spring, 1946.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">Has Private Enterprise a Future?</emph> reprinted from <emph render="underline">The Journal of Capital Management</emph> &#8211; May, 1944.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">The International Labor Office: An Appraisal</emph> reprinted from <emph render="underline">The Southern Economic Journal</emph> &#8211; April, 1946.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">Reform of Federal Taxes on Personal and Corporate Income</emph> reprinted from <emph render="underline">American Economic Review</emph> &#8211; December, 1944.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">Regional Aspects of the Problem of Full Employment at Fair Wages</emph> reprinted from <emph render="underline">The Southern Economic Journal</emph> &#8211; July, 1946.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">Regionalism: A Tool of Economic Analysis</emph> reprinted from <emph render="underline">American Economic Review</emph> &#8211; May, 1945.</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Publications</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">Public Works, Economic Stabilization, and the Rural South</emph> (Papers of the Institute of Research and Training in Social Sciences &#8211; Number Two) published by Vanderbilt University Press, Tennessee, January, 1942.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle><emph render="italic">The Stake of the Cotton South in International Trade</emph> published by University of California Press, California, 1945.</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
