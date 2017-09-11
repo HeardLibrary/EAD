@@ -1,0 +1,2836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Binkley, William Campbell Papers</titleproper>
+<titleproper>Finding Aid for the William Campbell Binkley Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Binkley, William Campbell Papers</unittitle>
+<unitid>MSS.0042</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">17.64 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<dsc type="othertype">
+<c01 level="item">
+<did>
+<container type="box">1-9</container>
+<unittitle>Outgoing correspondence. Approximately 6,750 items, mostly carbon copies, dating from 1920 to 1970. Arranged chronologically.</unittitle>
+</did>
+<odd>
+<list type="simple">
+<item>Box 1: 1920 -- 1935 (1-35)</item>
+<item>Box 2: 1936 -- Oct. 1938 (1-34)</item>
+<item>Box 3: Nov. 1938 -- 1941 (1-32)</item>
+<item>Box 4: 1942 -- June 1944 (1-31)</item>
+<item>Box 5: July 1944 -- Mar. 1946 (1-30)</item>
+<item>Box 6: Apr. 1946 -- June 1948 (1-29)</item>
+<item>Box 7: July 1948 -- May 1952 (1-32)</item>
+<item>Box 8: June 1952 -- May 1957 (1-30)</item>
+<item>Box 9: June 1957 -- Feb. 1970 (1-30)</item>
+</list>
+</odd>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">10-24</container>
+<unittitle>Incoming correspondence. Approximately 7,800 items, from about 1400 correspondents. Arranged alphabetically.</unittitle>
+</did>
+<odd>
+<list type="simple">
+<item>Box 10: Abbott -- Bailey (1-13)</item>
+<item>Box 11: Baker -- Burnette (1-16)</item>
+<item>Box 12: Burt -- Cole (1-16)</item>
+<item>Box 13: Cole -- Davis (1-16)</item>
+<item>Box 14: Day -- Futrell (1-17)</item>
+<item>Box 15: Gage -- Haun (1-16)</item>
+<item>Box 16: Hay -- Jordan (1-15)</item>
+<item>Box 17: Josephson -- Malone (1-16)</item>
+<item>Box 18: Mamatey -- Moore (1-15)</item>
+<item>Box 19: Morgan -- Paine (1-15)</item>
+<item>Box 20: Paine -- Robison (1-16)</item>
+<item>Box 21: Roddis -- Stephenson (1-16)</item>
+<item>Box 22: Stephenson -- Thompson (1-12)</item>
+<item>Box 23: Thomson -- Williams (1-17)</item>
+<item>Box 24: Williams -- Zorn (1-6)</item>
+</list>
+</odd>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">25</container>
+<unittitle>Manuscript writings</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">25-26</container>
+<unittitle>Articles, addresses, etc., arranged alphabetically:</unittitle>
+</did>
+<odd>
+<list type="simple">
+<item>&quot;The Activities of the Texas Revolutionary Army after San Jacinto&quot;</item>
+<item>&quot;Do the Americas Have a Common History? A United States View&quot;</item>
+<item>&quot;Frank Lawrence Owsley, 1890-1956&quot;</item>
+<item>&quot;Handicaps to Effective Research in Colleges&quot;</item>
+<item>&quot;A Historian looks at the National Union Catalog of Manuscript Collections&quot;</item>
+<item>&quot;A History of the Texan Revolution&quot; (Knopf Fellowship application, 1940)</item>
+<item>&quot;Independence and Political Stability&quot;</item>
+<item>&quot;New Mexico and the Santa Fe Expedition&quot;</item>
+<item>&quot;Our Latin American Neighbors&quot;</item>
+<item>&quot;Public Opinion and the Teaching of History&quot;</item>
+<item>&quot;Reports from a Texan Agent in New Mexico, 1849&quot; (&quot;Some Problems of the Historian&quot;)</item>
+<item>&quot;Some Undeveloped Topics in Tennessee History&quot;</item>
+<item>&quot;Some Unwritten Pages in American History&quot;</item>
+<item>&quot;The South and the West&quot;</item>
+<item>&quot;The Texan Revolution&quot;</item>
+<item>&quot;The Texan Revolutionary Army after San Jacinto&quot;</item>
+<item>&quot;Two World Wars and American Historical Scholarship&quot;</item>
+<item>&quot;Walter Lynwood Fleming&quot;</item>
+</list>
+</odd>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26</container>
+<unittitle>Fleming Lectures:</unittitle>
+</did>
+<odd>
+<list type="simple">
+<item>&quot;Conditions in Texas on the Eve of the Revolution&quot;</item>
+<item>&quot;The Preliminaries of the Revolution&quot;</item>
+<item>&quot;The Struggle for the Federal Constitution&quot;</item>
+</list>
+</odd>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26</container>
+<unittitle>Book reviews, arranged alphabetically by author of book:</unittitle>
+</did>
+<odd>
+<list type="simple">
+<item>Adams, <emph render="underline">America&#39;s Tragedy</emph> (1934)</item>
+<item>Bannon, <emph render="underline">Bolton and the Spanish Borderlands</emph> (1964)</item>
+<item>Barker, The <emph render="underline">Life of Stephen F. Austin</emph> (1925)</item>
+<item>......, <emph render="underline">Mexico and Texas, 1821-1835</emph> (1928) (w/ Castaneda, <emph render="underline">The Mexican Side of the Texan Revolution</emph>)</item>
+<item>------, <emph render="underline">Readings in Texas History</emph> (1929)</item>
+<item>Beers, The <emph render="underline">Western Military Frontier, 1815-1846</emph> (1935)</item>
+<item>Bloom, New <emph render="underline">Mexico History and Civics</emph> (1933)</item>
+<item>Clark, <emph render="underline">The Rampaging Frontier</emph></item>
+<item>Falconer, <emph render="underline">Letters and Notes on the Texan Santa Fe Expedition, 1841-1842</emph> (1930)</item>
+<item>Folmsbee, <emph render="underline">Sectionalism and Internal Improvements in Tennessee, 1796-1845</emph> (1939)</item>
+<item>Forrest, <emph render="underline">Missions and Pueblos of the Old Southwest</emph> (1929)</item>
+<item>Gambrell, <emph render="underline">Anson Jones: The Last President of Texas</emph> (1948)</item>
+<item><emph render="underline">Writing Southern History: Essays in Historiography in Honor of Fletcher M. Green</emph> (1965)</item>
+<item>Haley, <emph render="underline">George W. Littlefield, Texan</emph> (1943)</item>
+<item>Historical Records Survey, <emph render="underline">Inventory of the Colonial Archives of Texas, 1821-1837</emph>. No. 3, <emph render="underline">Municipality of Brazoria, 1832-1837</emph> (1937)</item>
+<item>Konwiser, <emph render="underline">Texas Republic Postal System</emph> (1933)</item>
+<item>Mecham, <emph render="underline">Francisco de Ibarra and Nueva Vizcaya</emph> (1927)</item>
+<item>Molyneaux, <emph render="underline">The Romantic Story of Texas</emph> (1936)</item>
+<item>Parks, <emph render="underline">Felix Grundy: Champion of Democracy</emph> (1940)</item>
+<item>Reynolds, ed., As <emph render="underline">Our Neighbors See Us: Readings in the Relations of the United States and Latin America, 1820-1940</emph> (1940)</item>
+<item>Rister, <emph render="underline">Robert E. Lee in Texas</emph> (1946)</item>
+<item>Robertson, <emph render="underline">History of the Latin-American Nations</emph> (1925)</item>
+<item>Schmitz, <emph render="underline">Texan Statecraft</emph>, <emph render="underline">1836-1845</emph> (1941)</item>
+<item>Smither, ed., <emph render="underline">Journals of the Fourth Congress of the Repub1ic of Texas, 1839-1840, to which are added the Relief Laws</emph> (1930-31)</item>
+<item>Stephenson, <emph render="underline">Southern History in the Making: Pioneer Historians of the South</emph> (1964)</item>
+<item>Streeter, <emph render="underline">Bibliography of Texas, 1795-1845</emph>. Part I, <emph render="underline">Texas Imprints</emph> (1955)</item>
+<item>Webb, <emph render="underline">The Texas Rangers</emph>: A <emph render="underline">Century of Frontier Defense</emph> (1935)</item>
+<item>White, ed., <emph render="underline">Messages of the Governors of Tennessee</emph>, Vol. VI, <emph render="underline">1869-1883</emph> (1963)</item>
+<item>Williams and Barker, eds., <emph render="underline">The Writings of Sam Houston, 1813-1863</emph>, Vol. I, <emph render="underline">1813-1836</emph> (1938) ; Vol. II, <emph render="underline">1814-1842</emph> (1939); Vol. Ill, <emph render="underline">1822-1844</emph> (1940); Vol. IV, <emph render="underline">1821-1847</emph> (1941); Vol. V, <emph render="underline">1824-1854</emph> (1941); Vol. VI, <emph render="underline">1828-1858</emph> (1941); Vol. VII, <emph render="underline">1824-1860</emph> (1942); Vol. VIII, <emph render="underline">1825-1863</emph> (1943).</item>
+<item>Winkler, ed., <emph render="underline">Check List</emph> of <emph render="underline">Texas Imprints</emph>, 1846-1860 (1949) 1 unidentified book review, title and author not given</item>
+</list>
+</odd>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26 (12)</container>
+<unittitle><emph render="underline">Southwestern Historical Quarterly</emph> summaries: summaries of articles by Biesele, Brown, Christensen, Donoghue, Henderson, Holden, Lesley, Myres, Rister, Smither, B. N. Taylor, P. S. Taylor, Winston (16 summaries)</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26 (13)</container>
+<unittitle><emph render="underline">Dictionary of American History</emph> and <emph render="underline">Dictionary of American Biography</emph> entries: articles on James Davis Porter, Edward Bushrod Stahlman, Alfred Alexander Taylor, Robert Love Taylor, Republic of Texas, John Wilson Thomas, and Peter Turney</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26 (14)</container>
+<unittitle>Proposals and reports: Supplementary Statements to an Application for a Grant-in-Aid by the Social Science Research Council (n.d.); Report on the Work Done during the Simmer of 1933 on a Grant-in-Aid from the Social Science Research Council for Research on a History of the Republic of Texas; Statement Concerning the Research Project of William C. Binkley, submitted to the Committee on Grants-in-Aid of the Social Science Research Council in connection with a request for a grant-in-aid (n.d.); Supplementary Statement to an Application for a Summer Grant from the University Center Research Council (n.d.); Report to the University Center Research Council on Use of Summer Grant, 1949; Report to the Committee on Grants-in-Aid of the Social Science Research Council on the use which was made of a grant-in-aid for the year 1949-1950</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26 (15)</container>
+<unittitle>Miscellaneous writings: book review, <emph render="underline">The National Union Catalog of Manuscript Collections, 1962</emph>; article, &quot;The Southwest: An Attempt at a Historical Definition&quot;; obituaries, Andrew Bell Benedict, Louis Pelzer, Charles William Ramsdell</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26 (16)</container>
+<unittitle>Published writings (offprints of articles and reviews): &quot;A Historian Looks at the National Union Catalog of Manuscript Collections,&quot; &quot;Two World Wars and American Historical Scholarship,&quot; reviews: Gambrell, <emph render="underline">Mirabeau Buonaparte Lamar, Troubadour and Crusader; Writing Southern History</emph>: <emph render="underline">Essays in Historiography in Honor of Fletcher M. Green</emph>; Stephenson, <emph render="underline">Southern History in the Making</emph>; White, ed., <emph render="underline">Messages of the Governors of Tennessee</emph>, Vol. VI, <emph render="underline">1869-1883</emph>.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">26 (17)</container>
+<unittitle>The <emph render="underline">Expansionist Movement</emph> in <emph render="underline">Texas, 1836-1850</emph>. Ph.D. thesis, University of California, 1923. Typed carbon.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (1-15)</container>
+<unittitle>Typescript of <emph render="underline">The Texas Revolution</emph>, chapters I-IV, with notes and comments, tentative outline, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (1-4)</container>
+<unittitle>Chapter I, &quot;The Establishment of Anglo-American Interests in Texas.&quot; 2 typed originals, with carbons and footnotes.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (5-8)</container>
+<unittitle>Chapter II, &quot;Development of the Issue between Mexico and the Texans.&quot; 2 typed originals, with carbons and footnotes.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (9-11)</container>
+<unittitle>Chapter III, &quot;Conditions in Texas on the Eve of the Revolution, 1833-1835.&quot; 2 typed originals, with carbons and footnotes.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (12-13)</container>
+<unittitle>Chapter IV, &quot;The Preliminaries of the Revolution, 1834-1835.&quot; 1 typed original, with carbon and footnotes.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (14-15)</container>
+<unittitle>Chapter V, &quot;The Struggle for the Federal Constitution.&quot; 1 typed original, with carbon and footnotes.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (16)</container>
+<unittitle><emph render="underline">The Texas Revolution</emph>: notes and comments, outlines, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">27 (17-18)</container>
+<unittitle><emph render="underline">Official Correspondence of the Texas Revolution</emph>: introductory material.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28-29</container>
+<unittitle><emph render="underline">Official Correspondence of the Texas Revolution</emph> and other Texas correspondence: typed transcriptions and notes</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (1-3)</container>
+<unittitle>Texas correspondence</unittitle>
+<unitdate>1836</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (4-5)</container>
+<unittitle><emph render="underline">Official Correspondence</emph> - miscellaneous research notes</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (6-8)</container>
+<unittitle>Rusk correspondence</unittitle>
+<unitdate>1835-1836</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (9)</container>
+<unittitle>Miscellaneous Texas correspondence, 1839, 1850, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (10)</container>
+<unittitle>Thomas Falconer, &quot;Notes of a Journey through Texas and New Mexico, in the Years 1841 and 1842&quot; (in the <emph render="underline">Journal of the Royal Geographical Society of London</emph>, 1844)</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (11)</container>
+<unittitle>Pakenham correspondence</unittitle>
+<unitdate>1841-1842</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (12)</container>
+<unittitle>Miscellaneous Texas correspondence, 1832, 1836, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28-29</container>
+<unittitle>Personal material, photographs, material relating to miscel laneous projects and interests, etc., material relating to publications</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">28 (13)</container>
+<unittitle>Biographical and personal material, miscellaneous: resumes, membership cards, records of travel and personal possessions, tributes, certificates, <emph render="underline">Dictionary of American Scholars</emph> entries, etc., etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (1)</container>
+<unittitle>Newspaper clippings (personal)</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (2)</container>
+<unittitle>Photographs</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (3)</container>
+<unittitle><emph render="underline">Official Correspondence of the Texas Revolution</emph> - material relating to publication</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (4)</container>
+<unittitle><emph render="underline">The Texas Revolution</emph> - material relating to publication, royalties, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (5)</container>
+<unittitle><emph render="underline">The Texas Revolution</emph> - reviews</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (6)</container>
+<unittitle>Fleming lectures, 1950-52 - program, clippings, sketch</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (7)</container>
+<unittitle>Comments on theses, papers, etc. - miscellaneous and undated</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (8)</container>
+<unittitle>Student records, recommendations, etc. - miscellaneous and undated</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (9)</container>
+<unittitle>Preliminary Report on the Archives of Colorado, Colorado Social Science Association</unittitle>
+<unitdate>May, 1929</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (10)</container>
+<unittitle><emph render="underline">Dictionary of American Biography, Dictionary of American History, Atlas of American History</emph> material</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (11)</container>
+<unittitle>Historical publications - University series sets (typed lists)</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (12-13)</container>
+<unittitle>Historical Records Survey of Tennessee (WPA, 1936-1938) material</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (14)</container>
+<unittitle>Territory Papers - bills, acts, resolutions, etc.</unittitle>
+<unitdate>1936-1963</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">29 (15)</container>
+<unittitle>Texas Correspondence Project: &quot;Editing and Publishing the Domestic Correspondence of the Republic of Texas,&quot; submitted to The National Historical Publications Commission</unittitle>
+<unitdate>1965</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30-32</container>
+<unittitle>Historical associations, societies, etc. - papers</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (1-3)</container>
+<unittitle>American Association for State and Local History, minutes, reports, etc.</unittitle>
+<unitdate>1960-1968</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (4-5)</container>
+<unittitle>American Historical Association, minutes, reports, etc.</unittitle>
+<unitdate>1941-1963</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (6-7)</container>
+<unittitle>American History Research Center, minutes, reports, etc.</unittitle>
+<unitdate>1951-1958</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30-32</container>
+<unittitle>Mississippi Valley Historical Association and <emph render="underline">Review</emph>, minutes, reports, etc.</unittitle>
+<unitdate>1936-1962</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (8)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1936-1938</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (9)</container>
+<unittitle>MVHA Memphis meeting</unittitle>
+<unitdate>1939</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (10)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1939-1940</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (11)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1940-1942</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (12)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1943-1945</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">30 (13)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1946-1947</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (1)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1948-1950</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (2)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1951-1952</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (3)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1953-1954</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (4)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1955-1956</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (5)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1967-1959</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (6)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1960-1961</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (7)</container>
+<unittitle>MVHA minutes, reports, etc.</unittitle>
+<unitdate>1963</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (8-9)</container>
+<unittitle>MVHA officers</unittitle>
+<unitdate>1907-1965</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (10)</container>
+<unittitle>MVHA Policy Committee</unittitle>
+<unitdate>1944</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (11)</container>
+<unittitle>MVHA Publications Committee</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">31 (12)</container>
+<unittitle>MVHA Secretary-Treasurer&#39;s Report</unittitle>
+<unitdate>1953-1957</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (1)</container>
+<unittitle>MVHA Secretary-Treasurer&#39;s Report</unittitle>
+<unitdate>1957-1959</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (2)</container>
+<unittitle>MVHA Secretary-Treasurer&#39;s Report</unittitle>
+<unitdate>1959-1962</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (3)</container>
+<unittitle>MVHA - miscellaneous</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (4)</container>
+<unittitle><emph render="underline">MVHR</emph> budget (travel, etc.),</unittitle>
+<unitdate>1953-1962</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (5)</container>
+<unittitle><emph render="underline">MVHR</emph> - miscellaneous</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (6-9)</container>
+<unittitle>Southern Historical Association and <emph render="underline">Journal of Southern History</emph>, 1930&#39;s through 1960&#39;s</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (10)</container>
+<unittitle>Tennessee Historical Society, 1943- , and Tennessee history</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (11)</container>
+<unittitle>Texas State Historical Association</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (12-13)</container>
+<unittitle>Southern Humanities Conference</unittitle>
+<unitdate>1946-1952</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">32 (14)</container>
+<unittitle>Southern University Conference</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">33</container>
+<unittitle>Teaching materials from California, Colorado, Vanderbilt, Tulane, etc., including lecture and research notes, reading lists, syllabi, examinations, regulations, and miscellaneous publications.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">33 (1)</container>
+<unittitle>University of California (including Bolton material for fest schrift)</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">33 (2-16), 34 (1-4)</container>
+<unittitle>Colorado College - lecture and research notes</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">34 (5)</container>
+<unittitle>Colorado College - miscellaneous</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">34 (6-11)</container>
+<unittitle>Vanderbilt University - syllabi, reading lists, examinations, lecture outlines, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">34 (12)</container>
+<unittitle>Vanderbilt University - Ph.D. program</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">35 (1)</container>
+<unittitle>Vanderbilt University - degrees granted in history</unittitle>
+<unitdate>1931-1952</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">35 (2)</container>
+<unittitle>Vanderbilt University - statistical analysis of graduate students in history</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">35 (3)</container>
+<unittitle>Vanderbilt University - History Department faculty</unittitle>
+<unitdate>1923-1953</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">35 (4)</container>
+<unittitle>Vanderbilt University - miscellaneous</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">35 (5-10)</container>
+<unittitle>Tulane University - syllabi, examinations, lecture notes, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">35 (11-15)</container>
+<unittitle>Tulane University - miscellaneous</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">36 (1-2)</container>
+<unittitle>University of Houston - Ph.D. program</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">36 (3-4)</container>
+<unittitle>University of Houston - miscellaneous</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">36 (5)</container>
+<unittitle>University of Texas - miscellaneous</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">36 (6-14)</container>
+<unittitle>Lecture and research notes</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">37 (1-13)</container>
+<unittitle>Lecture and research notes</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">38 (1-6)</container>
+<unittitle>Lecture and research notes</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">38 (7)</container>
+<unittitle>Miscellaneous notes, lists, bills, invoices, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">38 (8)</container>
+<unittitle>Maps</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">38 (9-12)</container>
+<unittitle>Manuscripts by other persons -- addresses by Clifford L. Lord, James W. Silver (2), and Walter Prescott Webb</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">38 (13-15, 39 (1)</container>
+<unittitle>Manuscripts by other persons -- articles by Rudolf Freund, Weymouth T. Jordan (2), Walter Prescott Webb, Joe Mathews, and Thomas B. Alexander</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">39 (2)</container>
+<unittitle>Manuscripts by other persons -- poems, proposals, outlines, abstracts, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">39 (3-7)</container>
+<unittitle>Published articles by other persons -- clippings, off prints, etc.</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">39 (8-10)</container>
+<unittitle>Miscellaneous printed material</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">40 (1-6)</container>
+<unittitle>Miscellaneous printed material</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">40 (7)</container>
+<unittitle>1 roll of microfilm, unidentified</unittitle>
+</did>
+</c01>
+</dsc>
+<bibliography>
+<head/>
+<p>Incoming correspondence is arranged alphabetically, by author. Other information given is as follows: in parentheses, letterhead(s) used; number of items; in parentheses, date, if one letter only, or year(s), if more than one letter.</p>
+<bibref>ABBOTT, Lucille (Edgewater Beach Hotel) - 1 (April l4, 1950)</bibref>
+<bibref>ABBOTT, W. Lewis (Colorado College) - 2 (1929, 1930)</bibref>
+<bibref>ABEHNETHY, Thomas P. (University of Virginia) - 5 (1935, 1942, 1943, 1948)</bibref>
+<bibref>ABRAHAM, Lucille - 3 (1932, 1933)</bibref>
+<bibref>ACKERMAN, D. F. (Springfield Public Schools) - 1 (July 11, 1952)</bibref>
+<bibref>ADAIR, E. R. (McGill University) - 4 (1929, 1932)</bibref>
+<bibref>ADAMS, Evelyn C. - 1 (Dec. 12, 1945)</bibref>
+<bibref>ADAMS, Hbrace (Arkansas State Teachers College) - 1 (May 1, 1946)</bibref>
+<bibref>ADER, Emile B. (University of Tulsa) - 1 (Oct. 22, 1952)</bibref>
+<bibref>ADLER, Walter P. (Coleman E. Adler &amp; Sons) - 1 (June 4, 1965)</bibref>
+<bibref>AESCHBACHER, William D. (Mississippi Valley Historical Association) - 197 (1956-61, 1963, 1965, 1966, 1968) (including several letters to W.D.A. from other persons)</bibref>
+<bibref>AGNEW, Dwight L. (Mississippi Valley Historical Review) - 3 (1946)</bibref>
+<bibref>AITON, Arthur S. (University of Michigan, Committee on Latin American Studies) - 12 (1921-23, 1925, 1932, 1938, 1939, n.d.)</bibref>
+<bibref>ALAMEDA County Charities Commission - 1 (June 27, 1937)</bibref>
+<bibref>ALBRIGHT, Preston B. (Stanford University, Kemper Military School) - 8 (1930-32, 1944)</bibref>
+<bibref>ALDERSON, William T. (Tennessee State Library and Archives, Tennessee Historical Commission, Tennessee Historical quarterly) - 17 (1953, 1954, 1956, 1957, 1959-61, 1963-66)</bibref>
+<bibref>ALEXANDER, Arthur J. - 1 (May 28, 1945)</bibref>
+<bibref>ALEXANDER, Thomas B. (U.S. Navy, Clemson Agricultural College, Georgia Teachers College, University of Alabama) - 56 (1942-49, 1951, 1952, 1954-60)</bibref>
+<bibref>ALLEN, Carolyn E. (Social Science Research Council) - 1 (July 1, 1933)</bibref>
+<bibref>ALLEN, Charles (University of New Mexico Press) - 3 ( 1947, 1948)</bibref>
+<bibref>ALLEN, Jack (Peabody College) - 1 (Aug. 8, 1960)</bibref>
+<bibref>ALLEN, Winnie (University of Texas Library) - 16 (1937, 1939, 1940, 1943, 1950, 1951)</bibref>
+<bibref>ALLRED, John C. (University of Houston) - 1 (Sept. 13, 1965)</bibref>
+<bibref>ALMGREN, Mary Louise - 1 (Sept. 25, 1934)</bibref>
+<bibref>AMBLER, C. H. (tiest Virginia University) - 2 (1947)</bibref>
+<bibref>ANDER, O. Fritiof (Augustana College and Theological Seminary) - 5 (1943, 1948, n.d.)</bibref>
+<bibref>ANDERSON, Douglas - 5(1942, 1943, n.d.)</bibref>
+<bibref>ANDERSON, Frances F. (Western Kentucky State Teachers College) - 1 (May 13, 1948)</bibref>
+<bibref>ANDERSON, George L. (Colorado College, University of Kansas, Mississippi Valley Historical Association) - 14 (1940, 1950, 1951, 1955, 1956)</bibref>
+<bibref>ANDRADE, Alberto M. (Biblioteca) - 1 (Mar. 2, 1943)</bibref>
+<bibref>ANDREWS, Matthew Page (Committee on Publication) - 2 (1944)</bibref>
+<bibref>ANDREWS, Rena M. (Winthrop College, Meredith College) - 8 (1945-47)</bibref>
+<bibref>ANGLE, Paul M. (Illinois State Historical Library) - 4 (1944, 1945) (including 1 from F.L. Paxson)</bibref>
+<bibref>APPLEWHITE, Davis (University of Redlands) - 15 (1946-53, 1959, 1969)</bibref>
+<bibref>ARMBRISTER, Victor S. - 1 (Jan. 30, 1937)</bibref>
+<bibref>ARMSTRONG, Neva (Southern Historical Association) - 5 (1959, 1964, 1966, 1967)</bibref>
+<bibref>ASBURY, Samuel E. - 14 (1941, 194-47)</bibref>
+<bibref>ATHERTON, Lewis (University of Missouri) - 2 (1938, 1959)</bibref>
+<bibref>ATKINSON, Richard M. (U.S. House of Representatives) - 1 (Apr. 28, 1947)</bibref>
+<bibref>AULT, Q. Cfulane University) - 1 (June 10, 1964)</bibref>
+<bibref>BACARISSE, Charles A. (University of Houston) - 2 (1957)</bibref>
+<bibref>BAILEY, J.O. (Southern Humanities Commission) - 9 (1948-49)</bibref>
+<bibref>BAILEY, Kenneth K. (Cumberland College, New Mexico Military Institute, Indiana University, Texas Western College, North Texas State College, Louisiana State University) - 27 (1950, 1952-61)</bibref>
+<bibref>BAKER, C. W. (Williams Printing Company) - 1 (May 22, 1941)</bibref>
+<bibref>BAKER, Frank J. (Attorney at Law) - 1 (Aug. 31, 1921)</bibref>
+<bibref>BAKER, Robert A. (Round Table Club) - 1 (Mar. 1, 1954)</bibref>
+<bibref>BALDWIN, Ben R. (Florence State Teachers College) - 3 (1939, 1940)</bibref>
+<bibref>BALL, Clyde - 1 (Dec. 4, 1937)</bibref>
+<bibref>BANKS, Sidney (The Chamberlain) - 1 (Dec. 9, 1936)</bibref>
+<bibref>BARBEE, David Rankin (Committee on American History) - 2 (1945, 1948)</bibref>
+<bibref>BARD, W. E. - 3 (1938, 1942, 1954)</bibref>
+<bibref>BARKER, E. C. (University of Texas) - 31 (1920-24, 1928, 1932-34, 1938-40 1938-40, 1946, 1949)</bibref>
+<bibref>BARNES, DEMAS (University of Pittsburgh) - 1 (May 18, 1954)</bibref>
+<bibref>BARNES, J. WARD (Eldorado Township High School) - 9 (1941, 1942, 1944, 1945)</bibref>
+<bibref>BARNES, James A. (Temple University) - 6 (1941, 1943, 1946, 1947, 1951)</bibref>
+<bibref>BARNES, Walter C. (University of California, University of Oregon, Smith College, Black Mountain College, Wellesley College) - 24 (1920, 1921, 1923, 1925, 1926, 1929, 1930, 1938, 1940-42, 1953) (including 1 each from Lennose Mills and J. Fred Hippy)</bibref>
+<bibref>BARNHART, John D. (Journal of Southern History, Indiana University) -20 (1937, 1938, 1943-48)</bibref>
+<bibref>BARRETT, Laura (Social Science Research Council) - 1 (n.d.)</bibref>
+<bibref>BARROW, Mrs. A.M. - 1 (n.d.)</bibref>
+<bibref>BARROWS, Albert L. (National Research Council) - 3 (1921, 1922, 1925)</bibref>
+<bibref>BARTH, Werner H. (Kansas State College) - 1 (Sept. 16, 1958)</bibref>
+<bibref>BASLER, Roy P. (Peabody College) - 1 (Aug. 5, 1947)</bibref>
+<bibref>BASS, W. A. (Tennessee State Department of Education) - 4 (1937, 1938)</bibref>
+<bibref>BATTEN, J. M. (Scarritt College) - 5 (1936)</bibref>
+<bibref>BAUGHMAN, Howard E. (Hotel Hermitage) - 3 (1936)</bibref>
+<bibref>BAUGHMAN, James P. (University of Houston) - 3 (1960, 1962)</bibref>
+<bibref>BAUGHN, Milton (Arkansas A. &#38; M. College) - 3 (1952, 1958, 1959)</bibref>
+<bibref>BAXTER, James P. III (Harbard University) - 7 (1922-25, 1930)</bibref>
+<bibref>BEACH, Leonard (Vanderbilt University) - 3 (1951, 1953)</bibref>
+<bibref>BEALE, Howard K. (University of Wisconsin) - 3 (1944, 1951, 1952)</bibref>
+<bibref>BEAN, W. G. (Washington and Lee University) - 4 (1949, 1950)</bibref>
+<bibref>BEARDEN, H. D. - 1 (Aug. 6, 1944)</bibref>
+<bibref>BEARDSLEY, W. W. (P.F. Collier &amp; Son Corp.) - 1 (Oct. 10, 1938)</bibref>
+<bibref>BEATTY, Richmond C. - 1 (n.d.)</bibref>
+<bibref>BECKER, Carl (Cornell University) - 1 (Jan. 16, 1945)</bibref>
+<bibref>BEGGS, William N. (State Historical . . . Society of Colorado) - 3 (1923, 1924)</bibref>
+<bibref>BELISSARY, Constantine - 4 (1948, 1949, 1954) (including 1 from Harvie Branscomb)</bibref>
+<bibref>BELK, N. C. (Lamar College) - 2 (1944, 1948)</bibref>
+<bibref>BELL, Helen L. - 2 (1948)</bibref>
+<bibref>BELLOT, H. Hale (University of London) - 3 (1937, 1940</bibref>
+<bibref>BELSER, Thomas A., Jr. - 3 (1950, 1954, 1957)</bibref>
+<bibref>BEMIS, Samuel F. - 9 (1934)</bibref>
+<bibref>BENEDICT, A. B. (Vanderbilt University) - 1 (Oct. 17, 1952)</bibref>
+<bibref>BENEDICT, Anne S. - 1 (June 19, 1953)</bibref>
+<bibref>BENEDICT, H. Y. (University of Texas) - 4 (1932, 1934, 1935, 1937)</bibref>
+<bibref>BENSON, Jerome (Phi Delta Kappa) - 2 (1963, n.d.)</bibref>
+<bibref>BERDAHL, Clarence A. (University of Illinois) - 2 (1946)</bibref>
+<bibref>BERNARD, V. L. (Whitney National Bank) - 4 (1940-41)</bibref>
+<bibref>BERRY, Marie F. (New York Genealogical and Biographical Society) - 1 (Nov. 24, 1943)</bibref>
+<bibref>BETTERSWORTH, John K. (Mississippi State College) - 1 (Jan. 30, 1950)</bibref>
+<bibref>BICKLEY, J. L. (Canadian National Railways) - 1 (Nov. 22, 1932)</bibref>
+<bibref>BIEBER, Ralph P. (Washington University) - 50 (1931, 1932, 1934, 1947-51) (including several letters to R.P.B. from other persons)</bibref>
+<bibref>BIESELE, Rudolph L. (University of Texas) - 8 (1939, 1943, 1946-48)</bibref>
+<bibref>BILLINGTON, Ray A. (Northwestern University) - 4 (1946, 1960, 1963)</bibref>
+<bibref>BILLMANN, Calvin J. (Florida State University) - 2 (1954, 1961)</bibref>
+<bibref>BINGHAM, Elizabeth Claughton - 2 (1939, 1950)</bibref>
+<bibref>BINGHAM, Harold J. (Teachers College of Connecticut, University of California) - 4 (1946-48, 1956)</bibref>
+<bibref>BINKLEY, F. M. - 4 (1933)</bibref>
+<bibref>BINKLEY, R. W. - 2 (1931, 1933)</bibref>
+<bibref>BINKLEY, Vera - 1 (March 24, 1933)</bibref>
+<bibref>BISHOP, Aileen (Vanderbilt University) - 3 (1930, 1941)</bibref>
+<bibref>BLACKSHARE, A. L., Jr. (National Distributors Association) - 1 (July 2 1925)</bibref>
+<bibref>BLAKE, Clagette (Gertrude Blake Rich) - 8 (1950-53)</bibref>
+<bibref>BLAKELY, Hunter B. (Queens-Chicora College) - 1 (June 9, 1939)</bibref>
+<bibref>BLEGEN, Theodore G. (University of Minnesota, Minnesota Historical Society) - 18 (1938, 1944-46, 1948)</bibref>
+<bibref>BLISS, Leslie E. (Huntington Library) - 1 (Aug. 6, 1951)</bibref>
+<bibref>BLISS, Willard F. - 1 (Apr. l8, 1943)</bibref>
+<bibref>BLOOM, Lansing B. (Historical Society of New Mexico, University of New Mexico, New Mexico Historical Review) - 9 (1926-28, 1931, 1933, 1934)</bibref>
+<bibref>BLUE, W. R. (M.D.) - 1 (Sept. 29, 1943)</bibref>
+<bibref>BLUE, WILLIAM L. (Foreign Service) - 14 (1934-42, 1950, n.d.)</bibref>
+<bibref>BOEHM, Eric H. (Historical Abstracts) - 3 (1963)</bibref>
+<bibref>BOHANNAN , Luther B. (University of Maryland) - 1 (Nov. l8, 1947)</bibref>
+<bibref>BOLIN, J. S. (University of California) - 1 (Mar. 3, 1924)</bibref>
+<bibref>BOLLING, Dick - 1 (Sept. 22, 1940)</bibref>
+<bibref>BOLTON, Herbert E. (University of California, American Historical Asso ciation) - 31 (1919-26, 1928, 1930, 1931, 1936, 1938, 1940, 1941)</bibref>
+<bibref>BQNHAM, H.S. (Texas House of Representatives) - 1 (Sept. 30, 1921)</bibref>
+<bibref>BONINO, Louise (Random House) - 3 (1957)</bibref>
+<bibref>BONNER, James C. (Georgia State College for Women) - 5 (1944, 1950)</bibref>
+<bibref>BORDEN, Morton - 2 (1949)</bibref>
+<bibref>BOROUGH, B. L. - 1 (Aug. 9, 1948)</bibref>
+<bibref>BOSS, Josephine (University of California) - 1 (Jan. 20, 1931)</bibref>
+<bibref>BOSWELL, J. M. (Cumberland College) - 1 (May 29, 1964)</bibref>
+<bibref>BOUCHER, C. S. (University of Texas) - 1 (Jan. 29, 1922)</bibref>
+<bibref>BOURNE, Henry E. (American Historical Review) - 11 (1931, 1932, 1935, 1936)</bibref>
+<bibref>BOWLES, Gordon T. (Committee on International Exchange of Persons) - 2 (1949)</bibref>
+<bibref>BOYCE, Gray C. (Northwestern University) - 1 (July 20, 1949)</bibref>
+<bibref>BOYD, George H. (University of Georgia) - 1 (Feb. 26, 1947)</bibref>
+<bibref>BOYD, Count R. (Yellow Pine Lumber) - 1 (Jan. 6, 1931)</bibref>
+<bibref>BOYNTON, Paul L. (Austin State College) - 1 (Apr. 3, 1952)</bibref>
+<bibref>BRADEN, Arthur (Transylvania College) - 3 (1936)</bibref>
+<bibref>BRADLEY, Harold W. (Stanford University, Claremont Graduate School, Temple University, Vanderbilt University) - 14 (1943-46, 1948, 1949, 1951-53, 1955, 1958)</bibref>
+<bibref>BRAMHALL, F. D. (Colorado Social Science Association) - 1 (Apr. 19, 1928)</bibref>
+<bibref>BRANSCOMB, Harvie (Vanderbilt University) - 10 (1948-53) (including 1 to H.B. from Miriam Wilson)</bibref>
+<bibref>BRAYER, Herbert O. (Colorado State Archives, Northwestern University) -2 (1946, 1952)</bibref>
+<bibref>BREAKER, E. P. - 1 (n.d.)</bibref>
+<bibref>BREARLY, H. C. (Peabody College) - 2 (194, 1953)</bibref>
+<bibref>BRIDENBAUGH, Carl (Institute of Karly American History and Culture) - 2 (1947, 1949)</bibref>
+<bibref>BRILEY, Beverly (Davidson County) - 1 (Aug. 8, 1951)</bibref>
+<bibref>BRISTER, J. W. (Memphis State Teachers College) - 1 (May 29, 1936)</bibref>
+<bibref>BROCKHAGEN, Fred R. (California Monthly) - 2 (1935)</bibref>
+<bibref>BRODINSKY, B. P. (Educator&#39;s Washington Dispatch) - 1 (Sept. 14, 1946)</bibref>
+<bibref>BROOKER, Wilfred L. (Ashland Public Schools) - 1 (Feb. 15, 1938)</bibref>
+<bibref>BROOKS, Addie Lou - 24 (1932-34, 1940, 1942, 194, 1945)</bibref>
+<bibref>BROOKS, Philip C. (Society of American Archivists, University of California, National Archives) - 8 (1931, 1932, 1938, 1939, 1942)</bibref>
+<bibref>BROWN, B. F. (North Carolina State College) - 1 (Aug. 26, 1942)</bibref>
+<bibref>BROWN, B. June - 1 (July 26, 1959)</bibref>
+<bibref>BROWN, C. A. (Birmingham Board of Education) - 1 (Feb. 1, 1937)</bibref>
+<bibref>BROWN, J. Douglas (Princeton University) - 2 (1959)</bibref>
+<bibref>BROWN, Lula L. - 3 (1931, 1932)</bibref>
+<bibref>BROWN, Norman (University of Texas) - 1 (Sept. 20, 1963)</bibref>
+<bibref>BROWN, W. Burlie - 2 (1954, n.d.) (including 1 from Stephens Rice)</bibref>
+<bibref>BROWNE, A. D. - 3 (1939.41)</bibref>
+<bibref>BROWNING, Gordon (Tennessee Executive Chamber) - 1 (Mar. 27, 1950)</bibref>
+<bibref>BROWNING, Howard M. - 9 (1937, 1940, 1941, 1943, 1945)</bibref>
+<bibref>BROWNING, Leo H. (Middle Georgia College) - 1 (Feb. 5, 1936)</bibref>
+<bibref>BRUCE, E. L. Company. (E.L. Fellman) - 1 (Sept. 5, 1945)</bibref>
+<bibref>BRUCE, Harold L. (University of California) - 2 (1930)</bibref>
+<bibref>BRUCE, Kathleen (Sophie Newcomb College) - 5 (1944)</bibref>
+<bibref>BRYAN, J. M. (Missouri Pacific Lines) - 1 (June 1, 1932)</bibref>
+<bibref>BUCK, Solon J. (American Historical Association Endowment Fund) - 1 (Aug. 10, 1926)</bibref>
+<bibref>BUCK, Vera H. (Albion College) - 2 (1939)</bibref>
+<bibref>BUDD, Edward - 1 (Aug. 13, 1940)</bibref>
+<bibref>BULL, H. D. (Prince George Parish, Winyah) - 2 (1943, 1946)</bibref>
+<bibref>BULTMAN, William A. (Arkansas State Teachers College) - 1 (Apr. 12, 1946)</bibref>
+<bibref>BUNCH, Marion E. (Washington University) - 1 (Dec. 17, 1962)</bibref>
+<bibref>BURK, J. E. (Ward-Belmont) - 1 (July 28, 1942)</bibref>
+<bibref>BURNETT, Edmund C. (Carnegie Institution) - 3 (1942)</bibref>
+<bibref>BURNETTE, Lawrence Jr. (State Historical Society of Wisconsin) - 2 (1961) (including 1 from Frances G. James)</bibref>
+<bibref>BURT, Jesse C., Jr. (Florence State Teachers College, Lambuth College) -33 (1946-49, 1951, 1952, 1954-56) (including letters to J.C.B. from George W. Stocking, Milbrey W. Miller, and Dan M. Robison)</bibref>
+<bibref>BURTON, L. Dortch - 1 (May 11, 1942)</bibref>
+<bibref>BURTS, Robert M., Jr. - 1 (July 13, 1953)</bibref>
+<bibref>BUTCHER, H. Borton - 1 (Apr. 14, 1928)</bibref>
+<bibref>BUTTS, A. B. (Mississippi State College) - 1 (Mar. 13, 1935)</bibref>
+<bibref>BYERLY, Kenneth - 1 (Feb. 23, 1934)</bibref>
+<bibref>CALDWELL, Roy H. - 1 (Feb. 6, 1922)</bibref>
+<bibref>CALHOUN, J. W. (University of Texas) - 3 (1938, 1939)</bibref>
+<bibref>CALLAHAN, North - 1 (Nov. 25, 1949)</bibref>
+<bibref>CALLCOTT, W. H. (University of South Carolina) - 2 (1931, 1947)</bibref>
+<bibref>CALVERT, Kae Venable - 22 (1953, 1956-59, 1963, 1965, 1969) (including 1 letter each from W.R. Hogan and R.M. Lumiansky)</bibref>
+<bibref>CAMARA CASCUDO, Luis da (Sociedade Brasileira de Folk-Lore) - 1 (Dec. 23, 1943)</bibref>
+<bibref>CAMPBELL, Adele - 1 (July 10, 1927)</bibref>
+<bibref>CAMPBELL, Mary R. - 6 (1936-39)</bibref>
+<bibref>CANNON, M. Hamlin (National Archives) - 1 (Apr. 1, 1945)</bibref>
+<bibref>CANTWELL, J. W. (Oklahoma A. and M. College) - 3 (1920)</bibref>
+<bibref>CAPERS, Charlotte (Mississippi Department of Archives and History) - 2 (1943)</bibref>
+<bibref>CAPERS, Gerald M. (Yale University, Newcomb College) - 5 (1938, 1939, 1947)</bibref>
+<bibref>CAPPON, Lester J. (University of Virginia, Institute of Early American History and Culture, Southern Historical Association) - 28 (1944, 1947-51)</bibref>
+<bibref>CARMICUAEL, O.C. (Vanderbilt University) - 8 (1936, 1937, 1940, 1942, 1943, 1945)</bibref>
+<bibref>CARPENTER, L. G. (Consulting Engineer) - 1 (Mar. 26, 1927)</bibref>
+<bibref>CARR, Minnie Pearl (Colorado Education Association) - 2 (1923)</bibref>
+<bibref>CARROLL, E. Malcolm (Duke University) - 2 (1954)</bibref>
+<bibref>CARROON, Frank (New Mexico Normal University) - 1 (Nov. 9, 1928)</bibref>
+<bibref>CARSON, George Barr Jr. (Service Center for Teachers of History) - 2 (1957)</bibref>
+<bibref>CARSON, Jane (Newcomb College) - 1 (Feb. 1, 1950)</bibref>
+<bibref>CARTER, Clarence E. (Miami University, Territorial Papers, National Archives) - 37 (1925, 1933-37, 1939, 1942-45, 1947, 1951)</bibref>
+<bibref>CARTER, Harvey L. (Colorado College) - 3 (1963)</bibref>
+<bibref>CARTER, Purvis M. (Prairie View A &amp; M College) - 1 (Nov. 22, 1965)</bibref>
+<bibref>CARNRIGHT, Morse A. (University of California Press) - 1 (Sept. 26, 1925)</bibref>
+<bibref>CASAGRANDE, Joseph B. (Social Science Research Council) - 1 (June 14, 1950)</bibref>
+<bibref>CASKEY, W. M. (Peabody College, Vanderbilt University, Louisiana State University, Mississippi College) - 16 (1931-36, 1953)</bibref>
+<bibref>CASSELL, Robert (Works Progress Administration) - 1 (Feb. 6, 1940)</bibref>
+<bibref>CASSLES, Ethel - 1 (Aug. 11, 1921)</bibref>
+<bibref>CASTLE, Catherine (Peabody College) - 1 (Mar. 16, 1938)</bibref>
+<bibref>CASWELL, Ruth A. (Columbia University) - 2 (1941, 1942)</bibref>
+<bibref>GATES, Thelma (State Teachers College, Troy) - 1 (Feb. 19, 1948)</bibref>
+<bibref>CAUGHEY, John (University of California, Pacific Historical Review) - 4 (1946, 1948, 1951, 1964)</bibref>
+<bibref>CAYWOOD, Bruce P. - 7 (1931, 1932)</bibref>
+<bibref>CHAFFIN, Nora C. (Duke University, Vanderbilt University) - 14 (1944-46, 1948-52)</bibref>
+<bibref>CHAN, Helen (Appleton-Century-Crofts) - 1 (June 24, 1963)</bibref>
+<bibref>CHAPMAN, Charles E. (University of California) - 2 (1920, 1925)</bibref>
+<bibref>CHAPPELL, Gordon T. (Winthrop College, Newberry College, Huntington College) - 28 (1938-42, 1945, 1950, 1951, 1953, 1956)</bibref>
+<bibref>CHARVAT, William (Ohio State) - 1 (Nov. 1, 1948)</bibref>
+<bibref>CHENEY, Frances Neel (Peabody Library School) - 2 (1945, 1951)</bibref>
+<bibref>CHERRINGTON, Ernest H., Jr. (Centenary College of Louisiana) - 1 (Aug. 5, 1946)</bibref>
+<bibref>CHILDS, St. Julien Ravenel (Brooklyn College) - 1 (Jan. 21, 1943)</bibref>
+<bibref>CHITWOOD, O. P. (West Virginia University) - 3 (1943, n.d.)</bibref>
+<bibref>CHOATE, J. E. Jr. (David Lipscomb College) - 1 (Oct. 27, 1955)</bibref>
+<bibref>CHRISTIAN, A. K. (University of Oklahoma) - 5 (1922, 1923, 1925, 1927, 1939)</bibref>
+<bibref>CLARK, Charles B. (Washington College) - 1 (Nov. 23, 1936)</bibref>
+<bibref>CLARK, Emily (Newcomb College) - 1 (Jan. l8, 1969)</bibref>
+<bibref>CLARK, Elmer T. (World Outlook) - 1 (July 19, 1951)</bibref>
+<bibref>CLARK, J. L. (Sam Houston State Teachers College) - 2 (1937)</bibref>
+<bibref>CLARK, John B. (Lincoln Memorial University) - 1 (Oct. 7, 1947)</bibref>
+<bibref>CLARK, Thomas D. (University of Kentucky, Jouxtnal of Southern History, Mississippi Valley Historical Association, Organization of American Historians) - ll8 (1931, 1938, 1939, 1941-53, 1958-62, 1970)</bibref>
+<bibref>CLARKE, Mary W. - 5 (1966)</bibref>
+<bibref>CLARKE, W. P. - 8 (1922, 1926, 1927, 1929, 1937, 1940, 1941)</bibref>
+<bibref>CLARKSON, Jesse D. (Brooklyn College) - 2 (1942)</bibref>
+<bibref>CLARKSON, R. E. - 1 (Jan. 11, 1938)</bibref>
+<bibref>CLEETON, GLEN U. (Carnegie Institute of Technology) - 1 (June 7, 1948)</bibref>
+<bibref>CLELAND, J. S. (Monmouth College) - 1 (July 26, 1947)</bibref>
+<bibref>CLEM, Orlie M. (Public Schools of Owego, N.Y.) - 1 (Sept. 20, 1935)</bibref>
+<bibref>CLEMEN, Rudolf A. (Society of American Historians) - 2 (l946, 1950)</bibref>
+<bibref>CLEVEN, N. Andrew N. (University of Arkansas) - 1 (Mar. 27, 1921)</bibref>
+<bibref>CLEVENGER, Homer (Lindenwood College) - 1 (May 22, 1944)</bibref>
+<bibref>CLIFTON, Frances - see F. C. Daniels</bibref>
+<bibref>CLINE, Phil - 1 (n.d.)</bibref>
+<bibref>CLYDE, Paul H. (Duke University) - 1 (Nov. 23, 1949)</bibref>
+<bibref>COAN, Charles F. (State University of New Mexico) - 30 (1920-27)</bibref>
+<bibref>COCKING, Walter D. (Tennessee Department of Education) - 2 (1933, 1935)</bibref>
+<bibref>COEN, B. F. (Colorado State Agricultural College) - 3 (1927, 1928)</bibref>
+<bibref>COLE, Arthur C. (Mississippi Valley Historical Review, Brooklyn College) - 31 (1935-40, 1952) (includes letters from Richard R. Stenberg)</bibref>
+<bibref>COLE, Fred. C. (Jonrnal of Southern History, Department of the Navy, Tulane University, Mississippi Valley Historical Review) - 47 (1936, 1939-43, 1945-47, 1949, 1951-53, 1959) (including letters from Robert Love, Russell Nichol, and Howard E. Baughman)</bibref>
+<bibref>COLE, Lois Dwight (G.P. Putnam&#39;s Sons) - 1 (Aug. 7, 1958)</bibref>
+<bibref>COLEMAN, Herbert E. - 3 (1944)</bibref>
+<bibref>COLEMAN, R. V. (Atlas of American History, Dictionary of American History) - 2 (1938, 1941)</bibref>
+<bibref>COLES, Harry L., Jr. (National Archives, Ohio State University, Naval War College) - 45 (1942-51, 1953, 1957, 1960-62, 1966)</bibref>
+<bibref>COLES, J. William (First American National Bank) - 1 (Sept. 30, 1953)</bibref>
+<bibref>COLES, Pat - 1 (n.d.)</bibref>
+<bibref>COLLIER, P.F. &amp; Sons - 2 (1934)</bibref>
+<bibref>COLLINS, Alan C. (Doubleday, Doran and Co.) - 3 (1933)</bibref>
+<bibref>COMETTI, Elizabeth (Marshall College) - 1 (Jan. 20, 1950)</bibref>
+<bibref>CONEY, Donald (University of Texas Library) - 2 (1937)</bibref>
+<bibref>CONKIN, Paul K. - 2 (1955, 1964)</bibref>
+<bibref>COOK, R. C. - 1 (Nov. 6, 1951)</bibref>
+<bibref>COPE, Helene Robbins - 7 (1962) (including letters from John P. Dyer and J.C. Morris)</bibref>
+<bibref>COPELAND, J. Isaac (Peabody College Library) - 1 (Nov. 3, 1966)</bibref>
+<bibref>CORBITT, Duvon C. (University of Omaha) - 1 (July 31, 1945)</bibref>
+<bibref>COTNER, R. C. (University of Texas) - 4 (1951, 1952, 1963)</bibref>
+<bibref>COTTERILL, Robert S. (Fla State College for Women, Southern Historical Association, Florida State University) - 6 (1943, 1944, 1946, 1948, 1950)</bibref>
+<bibref>COUCH, William T. (University of North Carolina Press, Works Progress Administration) - 19 (1933, 1938, 1940, 1942) (including letters from Mary T. Bobbitt, A.Y. Lloyd, and Mary T. Littlejohn)</bibref>
+<bibref>COULTER, E. Merton (University of Georgia, Louisiana State University, University of Kentucky, University of Texas, Southern Historical Association) - 47 (1922-25, 1928, 1931, 1932, 1935, 1938, 1942, 1943, 1945, 1946, 1948, 1949, 1951) (including letters from Benjamin B. Kendrick and A.M. Shaw, Jr.)</bibref>
+<bibref>COUSINS, Paul M. (Shorter College) - 1 (May 17, 1946)</bibref>
+<bibref>COVER, John H. (University of Denver) - 1 (May 13, 1927)</bibref>
+<bibref>COWEN, D. D. (American National Bank) - 1 (Jan. 11, 1940)</bibref>
+<bibref>COX, Isaac J. (Northwestern University, Louisiana State University) - 9 (1931, 1933, 1936, 1938, 1939, 1941, 1943)</bibref>
+<bibref>COX, LaWanda (Dartmouth College, Hunter College, City College of New York) - 3 (19V7, 1948, 1963)</bibref>
+<bibref>COZENS, Frederick W. (University of California) - 1 (Apr. 2, 1925)</bibref>
+<bibref>CRADDOCK, John W. - 1 (Feb. 5, 1943)</bibref>
+<bibref>CRAMER, J. H. - 1 (Oct. 25, 1945)</bibref>
+<bibref>CRANE, Robert T. (Social Science Research Council) - 1 (Feb. 20, 1953)</bibref>
+<bibref>CRAVEN, Avery O. (University of Chicago) - 4 (1939, 1948, 1949)</bibref>
+<bibref>CRAVEN, Wesley Frank (New York University, Princeton University) - 9 (1942, 1943, 1946, 1955)</bibref>
+<bibref>CRAWFORD, Meredith P. (Vanderbilt University) - 4 (1949)</bibref>
+<bibref>CRESAP, Bernarr (Florence State College) - 13 (1947, 1950, 1953, 1954, 1956, 1959, 1968)</bibref>
+<bibref>CRITTENDEN, C. C. (North Carolina Historical Commission) - 3 (1942, 1945)</bibref>
+<bibref>CROSS, Joseph E. - 1 (Apr. 17, 1946)</bibref>
+<bibref>CROSS, Lucy Manley - 1 (Aug. 10, 1948)</bibref>
+<bibref>CROWELL, James W. (Pomona College) - 1 (Feb. 26, 1930)</bibref>
+<bibref>CROWNOVER, Arthur, Jr. (Sons of the American Revolution) - 4 (1934, 1942)</bibref>
+<bibref>CRUDUP, Josiah (Brenau College) - 2 (1947)</bibref>
+<bibref>CRUIKSHANK, Earl Fee (Vanderbilt University, U.S. Army) - 20 (1932, 1933, 1939, 1942, 1944, 1945)</bibref>
+<bibref>CRUMB, Frederick W. (Potsdam State Teachers College) - 2 (1948)</bibref>
+<bibref>CULLOM and Ghertner Co. (A.S. Ghertner) - 4 (1937, 1948)</bibref>
+<bibref>GUMMING, W. P. - 1 (n.d.)</bibref>
+<bibref>CURL, R. F. (Methodist Church) - 1 (Mar. 15, 1944)</bibref>
+<bibref>CURLEE, Abigail - 1 (Hay 26, 1940)</bibref>
+<bibref>CURLEE, Joan - 7 (1954, 1956-58)</bibref>
+<bibref>CURRENT, Richard h. (University of Illinois) - 2 (1953)</bibref>
+<bibref>CURRY, Charlotte M. - 1 (June 12, 1922)</bibref>
+<bibref>CURTI, Merle (University of Wisconsin) - 9 (1945, 1946, 1951, 1952)</bibref>
+<bibref>CURTISS, W. M. (Foundation for Economic Education) - 1 (Jan. 19, 1953)</bibref>
+<bibref>DALE, E. E. (University of Oklahoma) - 52 (1930, 1932, 1939, 1940, 1943-48, 1951, 1952, 1954, 1959, 1964, 1967)</bibref>
+<bibref>DALE, William Pratt II - 1 (May 6, 1946)</bibref>
+<bibref>DANIELS, Frances Clifton (Florida State University) - 8 (1948, 1951, 1854, 1958, 1959, 1961)</bibref>
+<bibref>DANIELS, R. Balfour (University of Houston) - 1 (Sept. 27, 1965)</bibref>
+<bibref>DANNALS, George C. - 1 (Nov. 18, 1940)</bibref>
+<bibref>DAUGHERTY, W. D. (Hotel Savoy) - 1 (Nov. 6, 1936)</bibref>
+<bibref>DAVENPORT, F. Garvin (Syracuse University, Transylvania College, Monmouth College) - 118 (1935-54, 1956-58)</bibref>
+<bibref>DAVID, Henry (Queens College) - 2 (l948)</bibref>
+<bibref>DAVIDSON, Philip (Agnes Scott College, Vanderbilt University, University of Louisville) - 20 (1941-43, 1948-51, 1960) (including 1 letter each from R.C. Cook and Godfrey Davies)</bibref>
+<bibref>DAVIES, Godfrey (Huntington Library) - 1 (Nov. 13, 1952)</bibref>
+<bibref>DAVIS, Charles Hall (Attorney at Law) - 2 (1944)</bibref>
+<bibref>DAVIS, Charles S. (Florida State University) - 1 (Oct. 26, 1954)</bibref>
+<bibref>DAVIS, Chester K. (New Mexico State University) - 1 (Jan. 16, 1963)</bibref>
+<bibref>DAVIS, Edwin A. (Louisiana State University) - 11 (1942, 1944, 1949, 1950, 1953, 1958)</bibref>
+<bibref>DAVIS, Frank (Sam Davis Hotel) - 1 (Oct. 20, 1936)</bibref>
+<bibref>DAVIS, Gerald H. - 2 (1958)</bibref>
+<bibref>DAVIS, J. Treadwell (Junior College of Augusta, Ga., Mississippi Southern College, University of Southern Mississippi) - 19 (1937, 1939-41, 1946, 1947, 1949-53, 1963, 1966)</bibref>
+<bibref>DAVIS, Keith (University of Texas Library) - 2 (1939, n.d.)</bibref>
+<bibref>DAVIS, Lambert (University of North Carolina Press) - 1 (Mar. 10, 1949)</bibref>
+<bibref>DAVIS, Marjorie - 1 (July 13, 1937)</bibref>
+<bibref>DAVIS, Mary Lamar - 1 (Sept. 15, 1940)</bibref>
+<bibref>DAVIS, Robert E. (Texian Press) - 5 (1964, 1966, n.d.) (including 2 letters from W. Stull Holt)</bibref>
+<bibref>DAVIS, Thurston (Colorado College) - 1 (Apr. 18, 1941)</bibref>
+<bibref>DAY, James M. (Texas State Library) - 1 (Oct. 25, 1965)</bibref>
+<bibref>DE TREVILLE, Catherine - 1 (Aug. 20, 1943)</bibref>
+<bibref>DEAS, W. M. (First National Rank of Louisiana) - 1 (Sept. 2, 1932)</bibref>
+<bibref>DEBIEN, G. - 3 (1945, 1947)</bibref>
+<bibref>DELANEY, Sue Ellen - 1 (Jan. 29, 1942)</bibref>
+<bibref>DELINAS, Rurand - 1 (Nov. 17, 1929)</bibref>
+<bibref>DELZELL, Charles (and family) - 1 (Dec. 24, 1956)</bibref>
+<bibref>DELLEN, Joseph E. (University of Maryland) - 1 (Sept. 30, 1957)</bibref>
+<bibref>DEMIS, Frank S. - 1 (July 8, 1925)</bibref>
+<bibref>DENMAN, Clarence P. (Western Kentucky State Teachers College) - 1 (Apr. 12, 1936)</bibref>
+<bibref>DERHAM, Milo G. (University of Colorado) - l8 (1927-30, 1935, 1936)</bibref>
+<bibref>DESCHAMPS, Margaret Burr (Coker College, Agnes Scott College) - 13 (1947-53)</bibref>
+<bibref>DESTLER, Chester McA. (Southern Georgia Teachers College, Connecticut College) - 7 ( 1936, 1938, 1939, 1945, 1948, 1949)</bibref>
+<bibref>DETWEILER, Philip F. (Journal of Southern History) - 19 (1954, 1957-59, 1963-65, n.d.) (including letters from Fred Cole, William Peery, and W. H. Stephenson)</bibref>
+<bibref>DEWITT, John H. (Tennessee Court of Appeals) - 3 (including 1 from Cordell Hull) (1934-36)</bibref>
+<bibref>DEWITT, Mrs. John H. (Tennessee Historical Commission) - 4 (1942, 1943)</bibref>
+<bibref>DICK, Everett (Union College) - 6 (1938, 1939, 1943, 1949)</bibref>
+<bibref>DIGKE^SOH,rQiiM.(Colorado State Teachers College) - 4 (1930, 1955)</bibref>
+<bibref>DIEHL, Charles E. (Southern University Conference) - 1 (Nov. 4, 1946)</bibref>
+<bibref>DIMICK, Howard T. - 5 (1945, 1949) (including 1 from Guy Stanton Ford)</bibref>
+<bibref>DITMARS, R. Maud (Colorado Women&#39;s College) - 3 (1929)</bibref>
+<bibref>DODD, T. Leo (Eldorado Township High School) - 1 (Jan. 30, 1942)</bibref>
+<bibref>DODGE, John V. (Encyclopedia Britannica) - 1 (July 8, 1958)</bibref>
+<bibref>DOLLAKHIDE, Louis E. - 1 (Aug. 16, 1945)</bibref>
+<bibref>DONNALD, Morrill - 4 (1938, 1940)</bibref>
+<bibref>DORMAN, Lewy - 15 (1931, 1933-35)</bibref>
+<bibref>DORRANCE, Frances (Wyoming Historical and Genealogical Society) - 1 (Dec. 8, 1925)</bibref>
+<bibref>DOWNES, Randolph C. (Smith College) - 1 (Jan. 30, 1946)</bibref>
+<bibref>DOYLE, Clyde (U.S. Congress) - 3 (1924, 1925, 1949)</bibref>
+<bibref>DOYLE, Joan (Louisiana State University Press) - 2 (1952, 1954)</bibref>
+<bibref>DRIVER, Carl S. (Vanderbilt University) - 4 (1935, 1936) (including 3 from Mrs. Driver)</bibref>
+<bibref>DRIVER, Lester - 1 (July 18, 1936)</bibref>
+<bibref>DRUM, Emily - 1 (Sept. 14, 1960)</bibref>
+<bibref>DUBOSE, Charles L. - 1 (Sept. 4, 1929)</bibref>
+<bibref>DUGGAN, Laurence (U.S. Department of State) - 1 (Apr. 12, 1938)</bibref>
+<bibref>DUKE, V. L. (University of Redlands) - 1 (June 1, 1920)</bibref>
+<bibref>DUMOND, Dwight L. (University of Michigan, Mississippi Valley Historical Association) - 15 (1946, 1948, 1950, 1952, 1953, 1964, n.d.)</bibref>
+<bibref>DUNIWAY, G. A. (Colorado College) - 13 (1921-23, 1925, 1929, n.d.)</bibref>
+<bibref>DUNAGAN, W. 11.-1 (Feb. 6, 1950)</bibref>
+<bibref>DUPLANTIS, Dorothy - 2 (1954)</bibref>
+<bibref>DURKIN, Joseph T., S.J. (Georgetown University) - 1 (July 10, 1944)</bibref>
+<bibref>DURRELL, L. W. (Colorado-Wyoming Academy of Science) - 1 (May 19, 1930)</bibref>
+<bibref>DUTCH, Jim T. - 1 (Jan. 29, 1953)</bibref>
+<bibref>DYER, Brainerd (University of California) - 2 (1949)</bibref>
+<bibref>DYE, Sue (Indiana University) - 4 (1963-64)</bibref>
+<bibref>DYER, J. P. (Florence State Teachers College, Vanderbilt University, South Georgia State College, Armstrong Junior College, Office of Price Administration, Tulane University) - 32 (1931-37. 1939, 1942, 1943, 1945, 1946, 1948, 1968) (including 3 from E. Merton Coulter, 1 from Thomas W. Gamble)</bibref>
+<bibref>EASLEY, Georgia S. - 1 (Jan. 3, 1925)</bibref>
+<bibref>EASTERBY, J. Ii. (College of Charleston, Historical Commission of South Carolina) - 2 (1946, 1949)</bibref>
+<bibref>EASUM, C. V. (University of Wisconsin) - 2 (1948)</bibref>
+<bibref>EATON, Clement (Lafayette College) - 1 (July 10, 1945)</bibref>
+<bibref>EBLE, John (Eble Teachers Agency) - 1 (Feb. 20, 1939)</bibref>
+<bibref>EBERLING, E. J. (Tennessee Division of Unemployment Compensation) - 1 (Aug. 5, 1938)</bibref>
+<bibref>EBY, Frederick (University of Texas) - 5 (1921-23, 1927, 1929)</bibref>
+<bibref>ECKER, Joseph T. (Middle Georgia College) - 1 (Mar. 2, 1936)</bibref>
+<bibref>ECKHARDT, C. C. (University of Colorado) - 5 (1929, 1930, 1936)</bibref>
+<bibref>EDMONDS, Katharine H.S. (Peninsula Enterprise) - 1 (Dec. 4, 1943)</bibref>
+<bibref>EDWARDS, Robert L. (Harvard University) - 1 (Feb. 16, 1941)</bibref>
+<bibref>EGGEN, H. O. (Class of &#39;10A) - 1 (June 23, 1940)</bibref>
+<bibref>EIDSON, John O. (University Center in Georgia) - 1 (Mar. 10, 1953)</bibref>
+<bibref>ELLIOTT, Rush (Ohio University) - 1 (Dec. 29, 1959)</bibref>
+<bibref>ELLIS, Elmer (University of Missouri) - 24 (1936, 1938-40, 1946, 1947, 1949, 1950, 1954) (including 1 each from John D. Hicks and Bell I. Wiley)</bibref>
+<bibref>ELLIS, Milton (New England Quarterly) - 1 (June 26, 1943)</bibref>
+<bibref>ELLISON, Joseph (Oregon State Agricultural College) - 1 (Mar. 4, 1931)</bibref>
+<bibref>ELLISON, Martha L. (East Tennessee Historical Society) - 5 (1942, 1943)</bibref>
+<bibref>ELLISON, Rhoda C. - 2 (1946)</bibref>
+<bibref>EMMONS, Martha - 4 (1926, 1933) (including 1 from John M. Sharpe)</bibref>
+<bibref>ENGLAND, J. Merton (Vanderbilt University, University of Kentucky, Journal of Southern History) - 21 (1939, 1941, 1943, 1945, 1947, 1950, 1952, 1955, 1956, 1961)</bibref>
+<bibref>ENGLISH, W. Francis (University of Missouri) - 1 (Dec. 28, 1948)</bibref>
+<bibref>ESTEP, Raymond (U.S. Air Force University) - 2 (1949, 1951)</bibref>
+<bibref>EVANGELISTICA, Dominick - 1 (June 2, 1943)</bibref>
+<bibref>EVANS, Alvin E. - 1 (Aug. 10, 1922)</bibref>
+<bibref>EVANS, Luther H. (Library of Congress, Works Progress Administration) -11 (1936, 1937, 1942, 1945)</bibref>
+<bibref>EVERETT, Donald E. (Tulane University) - 1 (May 28, 1953)</bibref>
+<bibref>FARRIS, Hazel H. - 2 (1952)</bibref>
+<bibref>FAW, W. W. (Tennessee Court of Appeals) - 1 (July 18, 1942)</bibref>
+<bibref>FAWCETT, Ellen D. (Dictionary of American Biography) - 2 (1933)</bibref>
+<bibref>FEINSTEIN, Estelle F. - see E. F. Fisher</bibref>
+<bibref>FELGAR, Robert P. (Jacksonville State Teachers College) - 2 (1936)</bibref>
+<bibref>FERGUSON, James S. - 1 (Feb. 2, 1950)</bibref>
+<bibref>FERGUSON, John L. (Arkansas Historical Commission) - 1 (Nov. 2, 1965)</bibref>
+<bibref>FIELD, Alston G. (Historical Records Survey) - 1 (May 6, 1936)</bibref>
+<bibref>FIELDS, Eiflmett B., Jr. (Vanderbilt University) - 2 (1951, 1960)</bibref>
+<bibref>FIERMAN, Floyd S. (Temple Mount Sinai) - 1 (Nov. 4, 1964)</bibref>
+<bibref>FISHEL, Leslie H., Jr. (State Historical Society of Wisconsin) - 1 (Mar. 18, 1964)</bibref>
+<bibref>FISHER, C. B. (Maryville College) - 1 (Dec. 20, 1945)</bibref>
+<bibref>FISHER (FEINSTEIN), Estelle (University of Connecticut) - 11 (1944-47, 1949, 1963)</bibref>
+<bibref>FISHWICK, Marshall W. (Yale University) - 1 (Mar. 5, 1948)</bibref>
+<bibref>FITCH, Charles S. (United Press Associations) - 1 (Feb. 5, 1945)</bibref>
+<bibref>FITE, Gilbert G. (University of Oklahoma) - 8 (1950, 1957, 1967)</bibref>
+<bibref>FITE, Harley (Carson-Newman College) - 1 (May 19, 1964)</bibref>
+<bibref>FITTS, Charles T. (Pomona College) - 1 (Sept. 11, 1933)</bibref>
+<bibref>FLANDERS, Ralph B. (New York University) - 1 (July 3, 1944)</bibref>
+<bibref>FLEETWOOD, Milton - 1 (Nov. 9, 1950)</bibref>
+<bibref>FLEMING, D. F. (Vanderbilt University) - 2 (1931, 1938)</bibref>
+<bibref>FLEMING, Doris A. (Vanderbilt University) - 1 (Sept. 28, 1953)</bibref>
+<bibref>FLEMING, Eleanor - 1 (Aug. 15, 1935)</bibref>
+<bibref>FLORIDA SPUR, The - 1 (Nov. 21, 1941)</bibref>
+<bibref>FOLMSBEE, Stanley J. (East Tennessee Historical Society, University of Tennessee) - 12 (1937, 1942, 1943, 1945-^7) (including 1 from Robert H. White)</bibref>
+<bibref>FOOTE, Alvin - 1 (Aug. 27, 1928)</bibref>
+<bibref>FOOTE, Elsie Robins (Glenwood Springs Public Schools) - 1 (Nov. 28, 1927)</bibref>
+<bibref>FORD, Guy Stanton (American Historical Association) - 5 (1942, 1945, 1946, 1951)</bibref>
+<bibref>FRANKLIN PRESS, The - 44 (1942-49)</bibref>
+<bibref>FRANKLIN, W. Neil (National Archives) - 8 (l943, 194, 1946, 1947)</bibref>
+<bibref>FRANTZ, Joe B. (University of Texas) - 12 (1951, 1955, 1962-64, 1966) (including 1 each from H.H. Ransom, Dorman Winfrey, and Oliver W. Holmes)</bibref>
+<bibref>FREELAND, William R. - 1 (Jan. 20, 1945)</bibref>
+<bibref>FREEMAN, Mrs. P.R. - 1 (May 29, 1933)</bibref>
+<bibref>FREIDEL, Frank (Navy Department) - 1 (July 26, 1946)</bibref>
+<bibref>FRIEND, Llerena (University of Texas Library) - 2 (1951)</bibref>
+<bibref>FRYE, Burton C. (Appleton-Century-Crofts) - 1 (Mar. 8, 1966)</bibref>
+<bibref>FULLER, E. S. - 1 (June 1945)</bibref>
+<bibref>FULLER, G. N. (Michigan Historical Commission) - 1 (1943, 1944)</bibref>
+<bibref>FULLER, L. W. (University of Colorado, Colorado College) - 6 (1928-31, 1933)</bibref>
+<bibref>FULLER, W. A. (University of Florida) - 10 (1924-26, 1928)</bibref>
+<bibref>FULLER, Walter P. (The Floridian) - 1 (Dec. 27, 1944)</bibref>
+<bibref>FULTON, Maurice G. - 1 (June 20, 1933)</bibref>
+<bibref>FURR, Ray A. (Winthrop College) - 1 (Jan. 21, 1941)</bibref>
+<bibref>FUTRELL, Robert Frank (Research Studies Institute, Air University) - 12 (1939, 1941-43, 1946, 1949, 1951, 1957, 1958)</bibref>
+<bibref>GABRIEL, Ralph H. (American Historical Association) - 1 (n.d.)</bibref>
+<bibref>GAGE, Lucy - 1 (Sept. 20, 1943)</bibref>
+<bibref>GALLOWAY, Luida B. - 1 (June 20, 1949)</bibref>
+<bibref>GAMBRELL, Herbert P. (Southern Methodist University, Dallas Historical Society, Philosophical Society of Texas) - 12 (1935, 1936, 1943, 1944, 1946-48, 1950, 1969) (including 1 from Sam Rayburn)</bibref>
+<bibref>GANAWAY, Loomis Morton (Herbert Hoover Senior High School, San Diego Senior High School, San Diego Junior College) - l8 (1937-39, 1942, 1943, 1945, 1947, 1950, 1951, n.d.) (including 1 from Lansing B. Bloom)</bibref>
+<bibref>GARLAND, J. L. - 2 (1947, 1948)</bibref>
+<bibref>GARNER, Alfred W. (Mississippi State College) - 2 (1942)</bibref>
+<bibref>GARRISON, Curtis W. (The Hayes Memorial) - 1 (May 2, 1939)</bibref>
+<bibref>GARTH, T. R. - 2 (1922)</bibref>
+<bibref>GATES, Paul W. (Cornell University) - 9 (1938, 1939, 1945, 1946, 1951, 1958) (including 1 to P.W.G. from Alfred B. Sears)</bibref>
+<bibref>GEISER, S. W. (Southern Methodist University) - 1 (Oct. 2, 1947)</bibref>
+<bibref>GEORGE, Dean - 3 (1944-46)</bibref>
+<bibref>GERAGHTY, Michael J. - 2 (1958)</bibref>
+<bibref>GEROULD, C. P. - 1 (May 19, 1924)</bibref>
+<bibref>GESELL, Gerhard A. (Covington, Burling, Rublee, Acheson &amp; Shorb) - 1 (Mar. 19, 1943)</bibref>
+<bibref>GEWEHR, Wesley M. (University of Maryland) - 2 (1928, 1946)</bibref>
+<bibref>GIBSON, William M. - 1 (Oct. 31, 1945)</bibref>
+<bibref>GILBERT, Amy M. (Associated Colleges of Upper New York) - 1 (Mar. 21, 1947)</bibref>
+<bibref>GILBERT, David H. (University of Texas Press) - 3 (1967)</bibref>
+<bibref>GILES, Effie Dean - 1 (Mar. 4, 1941)</bibref>
+<bibref>GILLIAM, Will D., Jr. (Journal of Southern History) - 2 (1956, 1957)</bibref>
+<bibref>GILLILAND, C. V. (University of Southern California) - 1 (June 21, 1921)</bibref>
+<bibref>GILMORE, Juliet - 4 (1955-56)</bibref>
+<bibref>GILMORE, Robert J. (Colorado College) - 3 (1930)</bibref>
+<bibref>GILMORE, Robert L. - 5 (1952, 1955, 1959, 1960)</bibref>
+<bibref>GLENN, L. C. (Vanderbilt University) - 1 (June 18, 1930)</bibref>
+<bibref>GOING, Allen (University of Houston) - 9 (1946, 1961, 1965, 1966)</bibref>
+<bibref>GOODELL, Robert C. (Washington and Lee University) - 2 (1942)</bibref>
+<bibref>GOODING, Lydia (Columbia University) - 1 (Nov. 13, 1943)</bibref>
+<bibref>G00DLOE, Hallum W. (Tennessee Department of Banking) - 5 (1942)</bibref>
+<bibref>GOODWIN, Cardinal (Mills College) - 16 (1921, 1931-33, 1942)</bibref>
+<bibref>GOODYKOONTZ, Colin B. (University of Colorado) - 7 (1937, 194. 1946, 1949)</bibref>
+<bibref>GORE, Albert (Tennessee Department of Labor, U.S. Congress) - 2 (1937, 1943)</bibref>
+<bibref>GOTTSCHALK, Louis (University of Chicago) - 4 (1953)</bibref>
+<bibref>GOVAN, Jane - 2 (1956, n.d.)</bibref>
+<bibref>GCVAN, Thomas P. (Emory University, University of the South, National</bibref>
+<bibref>Council of the Protestant Episcopal Church) - 41 (1935, 1937-^, 1946, 1947, 1950, 1952-56, 1959)</bibref>
+<bibref>GRAHAM, Emmette V. (Associated Advertising Company) - 8 (1927, 1933)</bibref>
+<bibref>GRANT, C. L. (Georgia State College) - 5 (1954, 1957, 1960, 1961)</bibref>
+<bibref>GRANT, U. S. , 3rd. (National Council for Historic Sites and Buildings) -1 (Dec. 13, 1949)</bibref>
+<bibref>GRANTHAM, Dewey W., Jr. (Vanderbilt University) - 17 (1947, 1948, 1953-61)</bibref>
+<bibref>GRAY, Wood (George Washington University) - 3 (l946, 1950, 1955)</bibref>
+<bibref>GREEN, Fletcher M. (Emory University, University of North Carolina, Southern Historical Association) - 38 (1935-37, 1939, 1943-46, 1948-51, 1953, 1958, 1961)</bibref>
+<bibref>GREENE, Helen (Georgia State College for Women) - 1 (1947)</bibref>
+<bibref>GREENFIELD, Kent Roberts (Johns Hopkins University, Department of the Army) - 3 (1940, 1950)</bibref>
+<bibref>GREGORY, E. W., Jr. - 1 (Mar. 14, 1932)</bibref>
+<bibref>GREGORY, W. Edgar (Delta Alpha Phi Fraternity) - 1 (June 1, 1932)</bibref>
+<bibref>GREICUS, Elizabeth - 6 (1956, 1959, 1964)</bibref>
+<bibref>GREER, James K. (Howard College) - 3 (1934, 1935, 1943)</bibref>
+<bibref>GRESHAM, L. P. (Trevecca Nazarene College) - 1 (Oct. 29, 1952)</bibref>
+<bibref>GRESSLEY, Gene M. (University of Wyoming) - 2 (1958)</bibref>
+<bibref>GRIFFIN, Richard W. III (The 1946 Howler) - 1 (July 20, 1948)</bibref>
+<bibref>GRIFFITH, R. H. - 1 (May 28, 1933)</bibref>
+<bibref>GRIFFITH, R. W. (Mississippi Heights Academy) - 1 (Feb 16, 1931)</bibref>
+<bibref>GRIFFITH, William J. - 6 (1964, n.d.)</bibref>
+<bibref>GRIMES, Irvin L. - 1 (Apr. 5, 1961)</bibref>
+<bibref>GRIMM, Harold J. (Indiana University) - 1 (Jan. 15, 1958)</bibref>
+<bibref>GRINNELL, Leslie (Macmillan Company) - 2 (1943)</bibref>
+<bibref>GUERRY, Alex (University of the South) - 3 (1932, 1933, 1941)</bibref>
+<bibref>GRISE, F. G. (Western Kentucky State Teachers College) - 2 (1932)</bibref>
+<bibref>GUSTAVSON, Carl (Miami University) - 1 (Apr. 19, 1945)</bibref>
+<bibref>GUTSCH, Milton R. (University of Texas) - 37 (1920, 1925-28, 1930, 1931, 1933, 1935-41, 1950, 1951)</bibref>
+<bibref>GUYTON, David E. (Blue Mountain College) -</bibref>
+<bibref>HACKETT, Charles W. (University of Texas) - 22 (1927, 1929, 1931, 1932, 1937, 1938, n.d.)</bibref>
+<bibref>HACKETT, J. F. (Tulane University) - 1 (Sept. 13, 1949)</bibref>
+<bibref>HAFEN, LeKoy R. (State Historical . . . Society of Colorado) - 7 (1924, 1926, 1927, 1930, 1945)</bibref>
+<bibref>HAGEN, Olftf T. (U.S. Department of the Interior) - 1 (Sept. 13, 1933)</bibref>
+<bibref>HAINES, C. G. (University of Texas) - 15 (1920-23, 1925)</bibref>
+<bibref>HALL, Mary Jean - 1 (Apr. 5, 1950)</bibref>
+<bibref>HALL, Wilmer L. (Virginia State Library) - 1 (Apr. 25, 1946)</bibref>
+<bibref>HAMER, Marcelle Lively (University of Texas Library) (1937, 1938, 1940, 1941, 1949)</bibref>
+<bibref>IIAMER, Marguerite B. (University of Tennessee) - 1 (Feb. 24, 1931)</bibref>
+<bibref>HAMER, P. M. (University of Tennessee, Works Progress Administration, National Archives, Southern Historical Association) - 20 (1931, 1933, 1935-38, 1940)</bibref>
+<bibref>HAMILTON, Holrnan - 1 (May 6, 1946)</bibref>
+<bibref>HAMILTON, J. G. de Roulhace (University of North Carolina Library) - 4 (1946, 1951)</bibref>
+<bibref>HAMILTON, William B. (Duke University) - 12 (l^-W, 1950)</bibref>
+<bibref>HAMLETT, Earl G. (Polk Street Methodist Church) - 1 (June 19, 1942)</bibref>
+<bibref>HAMMOND, George P. (University of Southern California, University of New Mexico, University of California) - 16 (1932, 1933, 1940, 1943, 1951)</bibref>
+<bibref>HAMMOND, H. W. - 1 (Aug. 25, 1933)</bibref>
+<bibref>HAMMOND, Thomas T. (University of Virginia) - 1 (Apr. 3, 1962)</bibref>
+<bibref>HAMNER, Laura V. (U.S. Post Office, Claude, Texas) - 1 (Jan. 27, 1921)</bibref>
+<bibref>HANKE, Lewis (Library of Congress, Columhia University) - 6 (1941, 1963)</bibref>
+<bibref>HANNA, A. J. (Rollins College, Southern Historical Association) - 18 (1942-48, n.d.)</bibref>
+<bibref>HANNA, Kathryn Abbey (Florida State College for Women, Rollins College, Southern Historical Association) - 10 (1935, 1942-44, 1947, 1948, 1952)</bibref>
+<bibref>HANNA, Paul L. (Journal of Politics) - 1 (Jan. 14, 1946)</bibref>
+<bibref>HANSEN, Marcus L. (University of Illinois) - 2 (1935)</bibref>
+<bibref>HARDACRE, Gracia - 3 (1951, 1961, n.d.)</bibref>
+<bibref>HARDAGRE, Paul H. (Vanderbilt University) - 25 (1948-51, 1956, 1959, 1960, 1963, 1964, 1967-69, n.d.)</bibref>
+<bibref>HARDY, Eric W. (Junior College of Augusta) - 2 (1941)</bibref>
+<bibref>HARLAN, Louis R. (East Texas State College) - 3 (1958, 1959)</bibref>
+<bibref>HARLOW, Ralph V. (Syracuse University) - 1 (May 29, 1943)</bibref>
+<bibref>HARPER, Henry Winston (University of Texas) - 1 (Sept. 10, 1926)</bibref>
+<bibref>HARRINGTON, Charles (Tulane University) - 1 (n.d.)</bibref>
+<bibref>HARRINGTON, Fred Harvey (University of Arkansas) - 4 (1944, 1946, 1948, 1957)</bibref>
+<bibref>HARRISON, H. V. - 1 (Feb. 15, 1940)</bibref>
+<bibref>HART, Laura Louise (Vanderbilt University ) - 2 (1945, 1949)</bibref>
+<bibref>HARTJE, Robert G. (University of Georgia, Wittenberg University) - 8 (1951-54, 1960, 1964)</bibref>
+<bibref>HARWELL, Richard B. (Emory University) - 2 (1944, 1948)</bibref>
+<bibref>HASKINS, Charles H. (Harvard University) - 1 (Mar. 12, 1926)</bibref>
+<bibref>HASSETT, William D. (The White House) - 1 (June 8, 1950)</bibref>
+<bibref>HAUN, Mildred (Nashville Tenriessean) - 1 (July 11, 1942)</bibref>
+<bibref>HAY, Thomas Robson - 7 (l942-45)</bibref>
+<bibref>HAYDEN, Carl (United States Senate) - 2 (1937, 1945)</bibref>
+<bibref>HAYNIE, William B. - 2 (1937)</bibref>
+<bibref>HAYS, Samuel P. (University of Pittsburgh) - 1 (June 13, 1962)</bibref>
+<bibref>HAZARD, Lucy Lockwood (Mills College) - 2 (1936)</bibref>
+<bibref>HEAD, Holman (University of Alabama) - 2 (Sept. 29, 1953)</bibref>
+<bibref>HECK, Frank H. (Centre College of Kentucky) - 2 (1958)</bibref>
+<bibref>HEGENER, Joseph - 1 (Aug. 27, 1921)</bibref>
+<bibref>HEISEY, Ernest E. (Southern Methodist University) - 1 (Apr. 7, 1936)</bibref>
+<bibref>HELDERMAN, L. C. (Washington and Lee University) - 1 (June 3, 1935)</bibref>
+<bibref>HEMPHILL, W. Edwin (Virginia World War II Commission, Albemarle County Historical Society) - 4 (1945, 1946)</bibref>
+<bibref>HENDERSON, Archibald (University of North Carolina) - 2 (1945)</bibref>
+<bibref>HENDERSON, Gerald D. (Vanderbilt University) - 6 (1930, 1933, 1939)</bibref>
+<bibref>HENDERSON, S. E. - 1 (Jan. 2, 1938)</bibref>
+<bibref>HENDERSON, L. C. (Harlan High School) - 1 (Feb. 21, 1931)</bibref>
+<bibref>HENDERSON, Zach S. (Georgia Teachers College) - 2 (1949)</bibref>
+<bibref>HENDRICKSON, Walter B. (MacMurray College) - 1 (July 3, 1948)</bibref>
+<bibref>HENRY, H. M. (Emory and Henry College) - 4 (1937, 1942, 1950) (including 1 from John Pomfret)</bibref>
+<bibref>HENRY, Robert S. (Association of American Railroads) - 8 (1946, 1948, 1949) (including 1 from Monroe F. Cockrell)</bibref>
+<bibref>HEPBURN, A. H. (Bobbs-Merrill Company) - 2 (1942)</bibref>
+<bibref>HERSHEY, C. B. (Colorado College) - 12 (1925, 1927, 1934, 1935, 1944, 1953)</bibref>
+<bibref>HERSTEIN, W. R. - 1 (Mar. 7, 1939)</bibref>
+<bibref>HERTEL, K. L. (University of Tennessee) - 1 (Aug. 25, 1947)</bibref>
+<bibref>HESLER, I. R. (University of Tennessee) - 1 (Apr. 5, 1935)</bibref>
+<bibref>HESSELTINE, William B. (University of Wisconsin, Southern Historical Association) - 6 (1937, 1939, 1951, 1960) (including 1 from Ray A. Billington)</bibref>
+<bibref>HEYMAN, Max L., Jr. - 1 (Jan. 21, 1948)</bibref>
+<bibref>HEWLETT, James 11. (Centre College of Kentucky) - 1 (Oct 2, 1947)</bibref>
+<bibref>HEXTER, J. H. (Washington University) - 1 (Dec. 3, 1957)</bibref>
+<bibref>HIBBS, Max L. - 1 (Aug. 7, 1940)</bibref>
+<bibref>HICKS, John D. (University of Wisconsin, Wisconsin State Historical Society, University of California) - 7 (1938, 1941, 1944, 1945)</bibref>
+<bibref>HIDY, Ralph W. (Harbard University, Business History Review) - 5 (1958-60, 1962)</bibref>
+<bibref>HIGGINBOTHAM, S. W. (Rice University, Journal of Southern History) - 7 (1945, 1963, 1966)</bibref>
+<bibref>1IIGHSAW, J. L. (Memphis Technical High School) - 7 (1938, 1939)</bibref>
+<bibref>HIGHSMITH, William E. (Louisiana State University) - 3 (l946, 1947)</bibref>
+<bibref>HILDRICH, Joseph N. - 2 (1931)</bibref>
+<bibref>HILL, Lawrence F. (Ohio State University) - 5 (1930, 1935, 1949, 1951, 1959)</bibref>
+<bibref>HILL, Lister (U.S. Senate) - 1 (Apr. 28, 1951)</bibref>
+<bibref>HILL, Louise B. (Bennett School of Liberal and Applied Arts) - 13 (1931-38)</bibref>
+<bibref>HILLDRUP, R. L. - 1 (Feb. 2, 1945)</bibref>
+<bibref>HITT, Homer L. (Louisiana State University in New Orleans) - 1 (Apr. 8, 1958)</bibref>
+<bibref>HINTON, Kate - 1 (Apr. 22, 1965)</bibref>
+<bibref>HOAGLAND, D. R. (University of California) - 1 (Oct. 23, 1958)</bibref>
+<bibref>HODDEN, F. H. (University of Kansas) - 3 (1926, 1928)</bibref>
+<bibref>HODGES, Arthur W. (Department of the Army) - 1 (July 6, 1950)</bibref>
+<bibref>HOFFMAN, Donald B. (Phi Alpha Theta) - 1 (Apr. 5, 1951)</bibref>
+<bibref>HOFFMAN, J. Wesley (University of Tennessee) - 2 (1945, 1950)</bibref>
+<bibref>HOGAN, W. E. (Methodist Episcopal General Board of Christian Education) - 1 (May 19, 1937)</bibref>
+<bibref>HOGAN, W. Murray (Nashville Chamber of Commerce) - 2 (1936, 1938)</bibref>
+<bibref>HOGAN, William R. (Louisiana State University, University of Oklahoma, Tulane University) - 14 (1939, 1940, 194-46)</bibref>
+<bibref>HOGGAN, David L. (American Institute, Munich) - 1 (Aug. 25, 1950)</bibref>
+<bibref>HOLLANDER, Lee M. - 1 (June 5, 1933)</bibref>
+<bibref>HOLMAN, Maude (Tennessee Department of Education) - 1 (Mar. 17, 1938)</bibref>
+<bibref>HOLT, W. Stull (University of Washington) - 4 (1951, 1963)</bibref>
+<bibref>HOOD, Cornelia - 1 (Jan. 23, 1938)</bibref>
+<bibref>HOOKER, Richard J. (Central Y.M.C.A. College) - 2 (l943) (including 1 from W. H. Stephenson)</bibref>
+<bibref>HOOLE, W. Stanley (University of Alabama) - 1 (Apr. 21, 1947)</bibref>
+<bibref>HORN, Stanley F. (Southern Lumberman, Tennessee Historical Society) - 6 (1937, 1941, 1942, 1951) (including 1 each from Emma Farrell and S. C. Williams)</bibref>
+<bibref>HORTON, Lucile Dee (County of El Paso) - 1 (May 29, 1930)</bibref>
+<bibref>HOSKINS, James D. (University of Tennessee) - 1 (Oct. 25, 1934)</bibref>
+<bibref>HOUSE, R. B. (University of North Carolina) - 1 (Apr. 12, 1949)</bibref>
+<bibref>HOWE, Edmund G. (University of Alabama) - 1 (n.d.)</bibref>
+<bibref>HOWE, George F. (University of Cincinnati) - 20 (1936-38) (including 1 each from Alston G. Field, M. M. Quaife, Louis B. Schmidt, Thomas P. Martin, 2 from Nelson Vance Russell)</bibref>
+<bibref>HOWELL, Isabel (Vanderbilt University Library, Tennessee State Library and Archives) - 7 (1932, 1933, 1955, n.d.)</bibref>
+<bibref>HOWELL, Morton B. (Insurance) - 1 (Oct. 22, 1956)</bibref>
+<bibref>HOWELL, R. B. C. (State of Tennessee) - 2 (1937)</bibref>
+<bibref>HOWARD, Mrs. T. L. - 1 (Mar. 26, 1936)</bibref>
+<bibref>HOWER, Ralph M. (Harvard University) - 1 (Sept. 17, 1965)</bibref>
+<bibref>HOYT, William D., Jr. (Loyola College) - 1 (Feb. 1, 1950)</bibref>
+<bibref>HUBBARD, Preston J. - 1 (Jan. l8, 1954)</bibref>
+<bibref>HUBBART, H. C. (Ohio Wesleyan University) - 2 (1938, 1939)</bibref>
+<bibref>HUDSON, A. P. (University of North Carolina) - 1 (Oct. 17, 1938)</bibref>
+<bibref>HUGHES, R. M. (Miami University) - 1 (Nov. 12, 1924)</bibref>
+<bibref>HULBERT, Archer Butler (University of Chicago, Colorado College) - 33 (1923-31, n.d.) (including 1 each from John W, Oliver, E. A. Christian, and George A. Womack)</bibref>
+<bibref>HUMPHREY, G. D. (Mississippi State College) - 1 (May 3. 1935)</bibref>
+<bibref>HUNT, Douglas L. (Birmingham-Southern College) - 4 (1934, 1935, 1938)</bibref>
+<bibref>HURD, R. C. (Marshalltown, Iowa, High School) - 1 (Aug. 29, 1925)</bibref>
+<bibref>HURT, John Jeter (Union University) - 2 (1935)</bibref>
+<bibref>HUSSEY, Roland D. (University of California) - 2 (1950)</bibref>
+<bibref>HUTCHINSON, William T. (James Madison Papers) - 2 (1962)</bibref>
+<bibref>IBBOTSON, J. S. (Rosenburg Library) - 2 (Oct. 26, 1936)</bibref>
+<bibref>INAUGURAL Committee (Vanderbilt University) - 1 (Jan. 11, 1938)</bibref>
+<bibref>INGRAM, Irvine S. (West Georgia College) - 3 (1952)</bibref>
+<bibref>IRELAND, Gordon - 2 (1941)</bibref>
+<bibref>IRONS, George V. (Howard College) - 1 (Apr. 23, 1946)</bibref>
+<bibref>IVEY, John E., Jr. (Board of Control for Southern Regional Education) -1 (Nov. 14, 1949)</bibref>
+<bibref>JACKSON, Dorothy V. (Mississippi Valley Historical Association) - 1 (Jan. 13, 1964)</bibref>
+<bibref>JACKSON, George Pullen (Vanderbilt University) - 2 (1934, 1936)</bibref>
+<bibref>JACKSON, Kenneth M. (Mount Saint Mary&#39;s College) - 7 (1937, 1939, 1940, 1946, 1951)</bibref>
+<bibref>JACOBS, Wilbur R. (University of California) - 1 (Dec. 12, 1958)</bibref>
+<bibref>JAMES, Herman (University of Texas) - 2 (1921, 1922)</bibref>
+<bibref>JAMES, Joseph B. (William Woods College) - 2 (1943)</bibref>
+<bibref>JAMES, Thelma - 1 (Sept. 17, 1942)</bibref>
+<bibref>JAQUA, E. J. (Pomona College) - 1 (July 23, 1926)</bibref>
+<bibref>JARMAN, Beryl B. (House of Representatives) - 1 (Aug. 21, 1945)</bibref>
+<bibref>JARMAN, T. Wilson (Mary Baldwin College) - 1 (Apr. 28, 1943)</bibref>
+<bibref>JEFFERSON, B. L. (University of Illinois) - 1 (May 7, 1929)</bibref>
+<bibref>JEFFRIES, Charlie - 1 (Apr. 23, 19W</bibref>
+<bibref>JEFFRIES, William W. (University of Mississippi, U.S. Naval Academy) -22 (1937, 1939, 1941-46, 1948, 1954-56) (including 1 from Felix Johnson)</bibref>
+<bibref>JEMISON, Margaret (Emory University) - 1 (June 18, 1943)</bibref>
+<bibref>JENKINS, William T. (Snead Junior College) - 1 (Feb. 12, 1957)</bibref>
+<bibref>JEWETT, F. L. (Texas Bible Chair) - 1 (n.d.)</bibref>
+<bibref>JOAN OF ARC, Sister (Our Lady of the Lake College) - 1 (July 12, 1945)</bibref>
+<bibref>JOHANNSEN, Robert W. (University of Washington) - 2 (1950, 1951)</bibref>
+<bibref>JOHNSON, Amanda (Georgia State College) - 1 (Nov. 18, 1948)</bibref>
+<bibref>JOHNSON, Arthur M. (Cambridge School, Harvard University) - 19 (1947, 1949-54, 1957-59)</bibref>
+<bibref>JOHNSON, Eldon L. (University of Oregon) - 2 (1951)</bibref>
+<bibref>JOHNSON, J. G. (University of Colorado) - 1 (Nov. 26, 1928)</bibref>
+<bibref>JOHNSON, Lewis K. (Washington and Lee University) - 1 (Sept. 24, 1947)</bibref>
+<bibref>JOHNSON, Samuel A. (Kansas State Teachers College) - 1 (Apr. 1, 1936)</bibref>
+<bibref>JOHNSTON, Frontis W. (Davidson College) - 1 (Feb. 2, 1950)</bibref>
+<bibref>JONES, Allen F. (National Archives) - 2 (1937)</bibref>
+<bibref>JONES, David Howell (Vanderbilt University Press) - 2 (1968)</bibref>
+<bibref>JONES, R. F. - 1 (Sept. 19, 1922)</bibref>
+<bibref>JONES, T. Marshall (Works Progress Administration) - 8 (1936-38, 1940, n.d.)</bibref>
+<bibref>JONES, Virgil L. (University of Arkansas) - 2 (1954)</bibref>
+<bibref>JONES, Warren F. (Winchester High School) - 1 (Feb. 14, 1931)</bibref>
+<bibref>JORDAN, Lenore - 2 (1936, 1937)</bibref>
+<bibref>JORDAN, Weymouth Tyree (Transylvania College, Cherokee Indian Normal School, Blue Mountain College, Judson College, Alabama Polytechnic Institute, Florida State University) - 157 (including 1 each from Lorena C. Goodrich and Dan M. Robison, and 3 from W. H. Stephenson)</bibref>
+<bibref>JOSEPHSON, Bertha E. (Mississippi Valley Historical Review) - 12 (1934-36, 1939, n.d.)</bibref>
+<bibref>KALMON, Ed and Marion - 4 (n.d.)</bibref>
+<bibref>KAMPF, Louise F. (Colorado College) - 1 (July 11, 1947)</bibref>
+<bibref>KANE, Nancy Hall (American Historical Review) - 1 (Jan. 2, 1957)</bibref>
+<bibref>KARNES, Thomas L. (Tulane University) - 4 (1958, n.d.)</bibref>
+<bibref>KARSCH, Robert F. (Westminster College) - 5 (1935-38)</bibref>
+<bibref>KAYS, V. C. (Arkansas State A &amp; M College) - 1 (Mar. 24, 1926)</bibref>
+<bibref>KEARNEY, Thomas - 2 (1938, n.d.)</bibref>
+<bibref>KEGLEY, Isabelle Green - 8 (1932, 1933, n.d.)</bibref>
+<bibref>KEITH, Warren G. (Winthrop College) - 1 (Aug. 30, 1938)</bibref>
+<bibref>KEHL, James A. (University of Pittsburgh) - 2 (1958)</bibref>
+<bibref>KELLAR, Herbert A. (McCormick Historical Association) - 24 (1938, 1939, 1943, 1944, 1946, 1947, 1949, 1952, n.d.)</bibref>
+<bibref>KELLAR, Lucille - 2 (1955)</bibref>
+<bibref>KELLER, J. A. (Florence State Teachers College) - 1 (Apr. 28, 1939)</bibref>
+<bibref>KELLY, Alfred H. (Wayne State University) - 1 (Feb. 26, 1957)</bibref>
+<bibref>KENDRICK, B. B. (Women&#39;s College, University of North Carolina) - 1 (Feb. 5, 1943)</bibref>
+<bibref>KENNEDY, John F. (U.S. Senate) - 2 (1957)</bibref>
+<bibref>KENNEDY, Margaret - 1 (Feb. 17, 1930)</bibref>
+<bibref>KERN, Jean B. (Mississippi Valley Historical Review) - 3 (1946)</bibref>
+<bibref>KERR, Robert Erskine - 3 (1947, 1949, 1950)</bibref>
+<bibref>KETRING, Ruth A. (Duke University Library) - 1 (Feb. 15, 1932)</bibref>
+<bibref>KEY, D. M. (Millsaps College) - 5 (1935)</bibref>
+<bibref>KIBLER, Lillian - 1 (Jan. 31, 1950)</bibref>
+<bibref>KIGER, Joseph C. (American Council on Education, University of Alabama) - 4 (1951, 1953, 1961)</bibref>
+<bibref>KILMAN, Ed (The Houston Post) - 1 (Feb. 2, 1940)</bibref>
+<bibref>KIMBROUGH- Phillips Company (Doris Payne) - 1 (Sept. 2, 1953)</bibref>
+<bibref>KIMMEL, Roy (Cherry Lawn School) - 4 (1927, 1929)</bibref>
+<bibref>KINARD, F. M. (Clemson Agricultural College) - 2 (1946)</bibref>
+<bibref>KINARD (Latimer), Margaret (William and Mary College, Clemson Agricultural College, University of Illinois) - 5 (1948, 1951-53, 1956)</bibref>
+<bibref>KINCAID, Robert L. (Lincoln Memorial University) - 1 (Oct. 20, 1942)</bibref>
+<bibref>KING, John O. (Ludlow Typograph Company) - 1 (Oct. 9, 1944)</bibref>
+<bibref>KING, W. T. (Western Union Telegraph Company) - 1 (Nov. 5, 1936)</bibref>
+<bibref>KIRKLAND, J. H. (Vanderbilt University) - 15 (1930, 1931, 1934, 1937) (including 2 from George B. Winton)</bibref>
+<bibref>KIRKPATRICK, Olive - 2 (1951, 1953)</bibref>
+<bibref>KIRWAN, A. D. (University of Kentucky) - 1 (Jan. 27, 1950)</bibref>
+<bibref>KNIGHT, Edgar W. (University of North Carolina) - 3 (1947, 1948)</bibref>
+<bibref>KNIGHT, Homer L. - 2 (1938, 1941)</bibref>
+<bibref>KNAPP, Charles M. (University of Kentucky) - 1 (Sept. 25, 1935)</bibref>
+<bibref>KNOWLES, George H. (Stanford University) - 2 (1943, 1951)</bibref>
+<bibref>KOHLMEIER, A. L. (Indiana University) - 4 (1944-46)</bibref>
+<bibref>KOM0DORE, Marianne - 3 (1956, 1957, 1958)</bibref>
+<bibref>KOOKER, Arthur R. (Army Air Forces Training Command) - 1 (Sept. 22, 1943)</bibref>
+<bibref>KOONTZ, Louis Knott (Pacific Historical Review, University of California) - 6 (1933, 1942, 1947, 1948, 1950)</bibref>
+<bibref>KOWITZ, Gerald T. (University of Houston) - 2 (1965)</bibref>
+<bibref>KOY, R. A. (U.S. Gypsum Company) - 1 (June 18, 1962)</bibref>
+<bibref>KRAMER, Howard D. (Mississippi Valley Historical Review) - 1 (1942)</bibref>
+<bibref>KREY, A. G. (University of Minnesota) - 1 (Feb. 10, 1949)</bibref>
+<bibref>KRUEGER, E. T. (Vanderbilt University) - 1 (Mar. 15, 1937)</bibref>
+<bibref>KUYKENDALL, Ralph S. (University of California, Hawaii Historical Commission, University of Hawaii) - 10 (1921-23, 1925, 1933)</bibref>
+<bibref>KYTE, George C. (Phi Delta Kappa Fraternity) - 1 (Dec. 12, 1932)</bibref>
+<bibref>LAKE, Devereaux - 1 (May 4, 1948)</bibref>
+<bibref>LAMBETH, Walter (U.S. House of Representatives) - 1 (Apr. 29, 1937)</bibref>
+<bibref>LAMKIN, R. L. (Farm Credit Administration) - 1 (July 30, 1934)</bibref>
+<bibref>LANCASTER Press, Inc. (C.W. Wilson) - 13 (1932-33)</bibref>
+<bibref>LAND, Aubrey C. (Princeton University, Vanderbilt University, University of Nebraska, London School of Economics and Political Science, University of Maryland) - 11 (1950, 1951, 1955-58, 1962, 1964)</bibref>
+<bibref>LANG, Elfrieda (Indiana Magazine of History) - 1 (Apr. 28, 1949)</bibref>
+<bibref>LANGDON, Robert M. (U.S. Naval Academy) - 1 (Oct. 7, 1947)</bibref>
+<bibref>LANNING, John Tate (The Hispanic American Historical Review) - 2 (1942)</bibref>
+<bibref>LAPHAM, M. E. (Tulane University) - 1 (July 23, 1963)</bibref>
+<bibref>LAPRADE, W. T. (Duke University Press) - 1 (Feb. 10, 1945)</bibref>
+<bibref>LARKIN, Thomas III (Larkin, Roosevelt &amp; Larkin) - 1 (Aug. 17, 1946)</bibref>
+<bibref>LARSON, Laurence (University of Illinois) - 2 (1925, 1928)</bibref>
+<bibref>LARSON, T. A. (University of Wyoming) - 2 (1956)</bibref>
+<bibref>LASSOV5ZKY, Ch. (Peter Pazmany University) - 1 (Sept. 5, 1947)</bibref>
+<bibref>LAW, Robert A. (University of Texas) - 1 (Oct. 9, 1944)</bibref>
+<bibref>LAWRENCE, Alexander A. (Georgia Historical Society) - 5 (1947)</bibref>
+<bibref>LEACH, Henry Goddard (Committee on Cultural Relations with Latin America) 1 - (Feb. 2, 1930)</bibref>
+<bibref>LEAVITT, Sturgis E. (Southern Humanities Commission) - 15 (1948-50) (including 2 from Philip Davidson)</bibref>
+<bibref>LEE, Ronald F. (Department of the Interior) - 1 (Dec. 20, 1933)</bibref>
+<bibref>LEE, Umphrey (Southern University Conference) - 2 (1947, 1948)</bibref>
+<bibref>LeDUC, Thomas (University of Nebraska) - 1 (Nov. 22, 1951)</bibref>
+<bibref>LEEBRICK, K. C. (University of Hawaii) - 10 (1920, 1922, 1925, 1927)</bibref>
+<bibref>LEFLER, Hugh T. (University of North Carolina) - 1 (Jan. 7, 1950)</bibref>
+<bibref>LEHMANN, Joseph H. (University of Alabama, U.S. Air Force University) -9 (1949, 1953, 1955, n.d.)</bibref>
+<bibref>LELAND, W. C. (American Historical Association) - 1 (Sept. 9, 1919)</bibref>
+<bibref>LEOPOLD, Richard W. (Northwestern University) - 1 (May 20, 1963)</bibref>
+<bibref>LEVERET^ William E., Jr. (Indian Springs School) - 6 (1953, 1955, 1956, 1960)</bibref>
+<bibref>LEVY, Lawrence H. (Hotel Claridge) - 2 (1939)</bibref>
+<bibref>LEWIS, Anna (Oklahoma College for Women) - 1 (Apr. 1946)</bibref>
+<bibref>LEWIS, L. L. (Oklahoma Agricultural and Mechanical College) - 3 (1920)</bibref>
+<bibref>LINDGREN, Raymond E. (Occidental College, Vanderbilt University, University of Minnesota, City College, Princeton University, University of Wisconsin) - 48 (l945, 1947, 1949-57)</bibref>
+<bibref>LINDLEY, Harlow (Ohio State Archeological and Historical Society) - 1 (May 25, 1944)</bibref>
+<bibref>LINDSEY, David (Baldwin-Wallace College) - 2 (1947)</bibref>
+<bibref>LINTON, Samuel E. (Tennessee Sons of the American Revolution) - 1 (Feb. 15, 1935)</bibref>
+<bibref>LISTON, R. T. L. (Davis and Elkins College) - 2 (1942)</bibref>
+<bibref>LITTLE, Helen - 1 (July 22, 1937)</bibref>
+<bibref>LIVELY, Robert A. (Princeton University) - 9 (1950-52)</bibref>
+<bibref>LLOYD, A. Y. (Morehead State Teachers College, Kentucky Department of Welfare) - 7 (1931, 1933, 1939)</bibref>
+<bibref>LLOYD, E. Russell (Rhodes Scholarships) - 1 (Oct. 22, 1924)</bibref>
+<bibref>LLOYD, Evelyn (State Historical . . . Society of Colorado) - 1 (Feb. 2, 1927)</bibref>
+<bibref>LOCKWOOD, Frank C. (University of Arizona) - 2 (1932)</bibref>
+<bibref>LOGSDON, R. E. (Memphis Chamber of Commerce) - 5 (1939)</bibref>
+<bibref>LOLMAUGH, Nellie H. - 20 (1945, 1950-53, 1955, 1960, 1964, n.d.)</bibref>
+<bibref>LONG, Linda - 1 (Mar. 2, 1964)</bibref>
+<bibref>LONGENECKER, Herbert E. (Tulane University) - 3 (1962-64)</bibref>
+<bibref>LONN, Ella (Goucher College, Southern Historical Association) - 13 (1935, 1943-46, 1948)</bibref>
+<bibref>LORANT, Stefan - 1 (Nov. 24, 1947)</bibref>
+<bibref>LORCH, Fred W. (Iowa State College) - 1 (Apr. 7, 1938)</bibref>
+<bibref>LORD, Clifford L. (Wisconsin State Historical Society, American Association for State and Local History, Columbia University) - 23 (1951-56, 1958-60, 1964)</bibref>
+<bibref>LORD, Robert H. (Harvard College) - 2 (1921, 1922)</bibref>
+<bibref>LOUISIANA State University Press (Bruce F. Denbo) - 1 (Aug. 6, 1947)</bibref>
+<bibref>LOVELL, Lois Campbell - 1 (Dec. 3, 1934)</bibref>
+<bibref>LOVENTHAL, Lee J. (Loventhal Brothers) - 1 (Sept. 13, 1930)</bibref>
+<bibref>LOVETT, Robert W. (Harvard University) - 1 (Oct. 31, 1962)</bibref>
+<bibref>LOWE, Caroline - 1 (June 27, 1952)</bibref>
+<bibref>LOWREY, Lawrence T. (Blue Mountain College) - 1 (Jan. 20, 1931)</bibref>
+<bibref>LOWRIE, George W. (University of Minnesota) - 1 (May 15, 1922)</bibref>
+<bibref>LOWRY, C. S. (Murray State Teachers College) - 1 (Nov. 16, 1942)</bibref>
+<bibref>LUCHETTI, Dennis - l(Apr. 10, 1968)</bibref>
+<bibref>LUCKETT, Wallace W. (National Park Service) - 7 (1930, 1931, 1933-35)</bibref>
+<bibref>LUDLUM, Robert P. (A. &amp; M. College of Texas) - 1 (Nov. 30, 1938)</bibref>
+<bibref>LUMIANSKY, R. M. (Tulane University) - 5 (1959-63)</bibref>
+<bibref>LUND, F. E. (State Teachers College, Florence) - 2 (1947)</bibref>
+<bibref>LUNDE, Robert G. (University of Kentucky) - 2 (1938, 1939)</bibref>
+<bibref>LUTZ, Ralph H. (Stanford University) - 1 (Aug. 8, 1952)</bibref>
+<bibref>LYBYER, Albert H. (University of Illinois) - 1 (Sept. 17, 1935)</bibref>
+<bibref>LYON, E. Wilson (Colgate University) - 1 (Oct. 16, 1938)</bibref>
+<bibref>LYNCH, William O. (Indiana Historical Society) - 42 (1938, 1939, 1944-47, 1949, n.d.)</bibref>
+<bibref>MacDONALD, H. D. (Kiwanie Club of Colorado Springs) - 2 (1926, 1928)</bibref>
+<bibref>MacLEISH, Archibald (Librarian of Congress, Department of State) - 3 (1944, 1945)</bibref>
+<bibref>MAGEE, Robert M. (Wayne University) - 1 (Apr. 9, 1945)</bibref>
+<bibref>MAHORNER, Sue (Works Progress Administration) - 1 (nov. 9, 1938)</bibref>
+<bibref>MADRON, Beverly B. - 2 (1961)</bibref>
+<bibref>MADRON, Thomas William (Lambuth College) - 4 (1964, 1966)</bibref>
+<bibref>MALONE, Carroll B. (Stanford University) - 2 (1930, 1931)</bibref>
+<bibref>MALONE, Dumas (Dictionary of American Biography) - 11 (1930-33)</bibref>
+<bibref>MAMATEY, Victor S. (Florida State University) - 1 (Apr. 8, 1965)</bibref>
+<bibref>MANN, Albert H. (General Education Hoard) - 1 (Aug. 4, 1944)</bibref>
+<bibref>MANNING, Thomas G. (Yale University) - 2 (1947, 1948)</bibref>
+<bibref>MARKS, Alan J. (Plenum Publishing Company) - 1 (^ept. 3, 1969)</bibref>
+<bibref>MARCHANT, Alexander (University of Texas, Vunderbilt University) - 17 (1949, 1950, 1952-54, 1956, 1958, n.d.)</bibref>
+<bibref>MAtfLEY, Aime Bonner - 1 (Sept. 26, 1946)</bibref>
+<bibref>MARQUIS, A. N. Co. - 2 (1925, n.d.)</bibref>
+<bibref>MARSH, Philip (Miami University) - 1 (may 10, 1948)</bibref>
+<bibref>MARSHALL, Thomas M. (Washington University) - 3 (1921, 1925, 1930)</bibref>
+<bibref>MARTIN, Chester (American Historical Association) - 3 (1932)</bibref>
+<bibref>MARTIN, Thomas E. (U.S. Congress) - 1 (July 27, 1945)</bibref>
+<bibref>MARTIN, Thomas P. (Library of Congress) - 29 (1935, 1944, 1945, 1948, 1950, 1953, n.d.)</bibref>
+<bibref>MARTIN, W. E. (Sullins College) - 1 (July 12, 1943)</bibref>
+<bibref>MASON, K. H. - 1 (Apr. 30, 1946)</bibref>
+<bibref>MASSEY, Mary Elizabeth (Washington College) - 1 (July 19, 1948)</bibref>
+<bibref>MASTERSON, W. H. (Rice Institute) - 3 (1957, 1958)</bibref>
+<bibref>MATEYKA, Melvin J. - 1 (Nov. 10, 1945)</bibref>
+<bibref>MATHEWS, Joseph J. (Emory University) - 10 (1948-51)</bibref>
+<bibref>MATHIAS, James F. (Guggenheim Foundation) - 3 (1949, 1953, n.d.)</bibref>
+<bibref>MATTHEWS, Charles D. (Birmingham-Southern College) - 1 (May 7, 1942)</bibref>
+<bibref>MAUELSHAGEN, Carl (University System of Georgia) - 2 (1946)</bibref>
+<bibref>MAXEY &amp; Donnelly Motor Co. (J. Ries Trathan) - 1 (July 17, 1953)</bibref>
+<bibref>MAXWELL, George W. - 1 (June 12, 1930)</bibref>
+<bibref>MAYER, Joseph (Joint Committee on Materials for Research) - 3 (1934)</bibref>
+<bibref>MAYFIELD, G. R. (Vanderbilt University) - 1 (Jan. 15, 1938)</bibref>
+<bibref>MAYO, Bernard (University of Virginia) - 4 (l943-45, 1949)</bibref>
+<bibref>McABEE, Forrest L. (University of California Faculty Club) - 1 (Apr. 27, 1931)</bibref>
+<bibref>McALISTER, Hill (Tennessee Executive Chamber) - 1 (Oct. 15, 1936)</bibref>
+<bibref>McBRIDE, Robert M. (Tennessee Historical Quarterly) - 2 (1966)</bibref>
+<bibref>McCAIN, J. R. (Agnes Scott College) - 1 (Nov. 30, 1950)</bibref>
+<bibref>McCAIN, William D. (Mississippi Department of Archives and History) - 3 (1946, 1948)</bibref>
+<bibref>McCALL, Abner V. (Baylor University) - 1 (May 20, 1965)</bibref>
+<bibref>McCAMPBELL, Betsy - 6 (1955, 1956, 1958)</bibref>
+<bibref>McCANN, Bess (Peabody College) - 1 (Mar. 28, 1932)</bibref>
+<bibref>McCLOY, Shelby T. (University of Kentucky) - 1 (Jan. 20, 1950)</bibref>
+<bibref>McCLURE, Stanley W. - 1 (Jan. 26, 1938)</bibref>
+<bibref>McCONNELL, Roland C. - 1 (Dec. 16, 1946)</bibref>
+<bibref>McCONNELL, W. J. - 1 (.Aug. 28, 1950)</bibref>
+<bibref>McCRADY, Edward (University of the South) - 7 (1946-48)</bibref>
+<bibref>McCULLOCH, Margaret C. - 1 (Oct. 12, 1946)</bibref>
+<bibref>McCUTCHEON, Roger P. (Tulane University) - 1 (June 16, 1954)</bibref>
+<bibref>McDANIEL, William R. (Works Progress Administration) - 1 (Dec. 30, 1938)</bibref>
+<bibref>McDONALD, Forrest (State Historical Society of Wisconsin) - 8 (1956-59)</bibref>
+<bibref>McDONALD, Kenneth M. - 9 (1937-39)</bibref>
+<bibref>McDONALD, IL D. (Strang Garage Company) - 1 (Nov. 10, 1930)</bibref>
+<bibref>McDONALD, Thomas N. - 1 (May 7, 1957)</bibref>
+<bibref>McDONaLD, William E. (Herbert Hoover High School) - 2 (1935, 1936)</bibref>
+<bibref>McFADDEN, Ed. T. (Commercial National Bank) - 7 (1931, 1940, 1950, n.d.) (including 1 each from Charles T. Fitts and W. M. Proctor)</bibref>
+<bibref>McFADDEN, George W., Jr. - 8 (1925, 1927-29)</bibref>
+<bibref>McGRANE, Reginald C. (University of Cincinnati) - 3 (1950, 1951, 1953)</bibref>
+<bibref>McILWAINE, Robert S. - 1 (Oct. 8, 1926)</bibref>
+<bibref>McKAY, S. S. - 2 (1921)</bibref>
+<bibref>McKEITHAN, D. M. (University of Texas) - 8 (1944, 1945)</bibref>
+<bibref>McKELLAR, Kenneth (U.S. Senate) - 1 (Apr. 28, 1937)</bibref>
+<bibref>McKINLEY, Lela Ethel - 2 (1935)</bibref>
+<bibref>McLAIN, Raymond F. (Eureka College) - 1 (May 20, 1939)</bibref>
+<bibref>McLEAN, Ross H. (Emory University) - 7 (1935)</bibref>
+<bibref>McLEAN, Winifred H. - 1 (Oct. 3, 1936)</bibref>
+<bibref>McLEMORE, R. A. (Jones County Agricultural High School and Junior College, Judson College, Mississippi Southern College) - 55 (1933-39, 1941, 1943, 1944, 1946-51, 1953, 1956) (including 1 from Savoie Lottinville)</bibref>
+<bibref>McLENDAN, J. H. - 1 (July 26, 1937)</bibref>
+<bibref>McMILLAN, M. C. - 1 (Dec. 9, 1947)</bibref>
+<bibref>McMURTRIE, Douglas C. (Committee on Historical Source Materials) - 1 (June 7, 1944)</bibref>
+<bibref>McNEILL, W. H. - l (sept. 5, 1924)</bibref>
+<bibref>McREYNOLDS, Sam D. (U.S. House of Representatives) - 1 (Apr. lb, 1938)</bibref>
+<bibref>MEAD, Telfer L. (Saunders System) - 3 (1927, 1936)</bibref>
+<bibref>MEADE, ROBERT D. (Randolph Macon women&#39;s College) - 2 (1944, 1947)</bibref>
+<bibref>MEANEY, John W. (University of Texas) - 6 (1965) (including 1 from Dorrnan H. Winfrey)</bibref>
+<bibref>MECHAM, J. Lloyd (Southwestern Social Science Association) - 1 (Oct. 13, 1933)</bibref>
+<bibref>MENDELSON, Wallace (University of Tennessee) - 1 (May 7, 1947)</bibref>
+<bibref>MENK, Patricia Holbert (University of Virginia) - 1 (July 11, 1945)</bibref>
+<bibref>MERK, Frederick (Harvard University) - 2 (1964)</bibref>
+<bibref>MERIWETHER, R. L. (University of South Carolina) - 1 (Apr. 6, 1928)</bibref>
+<bibref>MERONEY, Geraldine - 5 (1947, 1949, 1953)</bibref>
+<bibref>MERRIAM, John F. (Northern Natural Gas Company) - 2 (1963)</bibref>
+<bibref>MERRILL, Horace S. (University of Maryland) - 3 (1965)</bibref>
+<bibref>METZENTHIN, W. E. (University of Texas) - 1 (Sept. 4, 1936)</bibref>
+<bibref>MEYER, Erwin Ferdinand (Chief) (Colorado College, University of Colorado) 51 (1922, 1924-30, 1932)</bibref>
+<bibref>METCALF, K. D. (New York Public Library) - 1 (Jan. 19, 1935)</bibref>
+<bibref>MIEROW, C. C. (Colorado College, Carleton College) - 21 (1924, 1925, 1929, 1930, 1937, 1943) (including 1 each from George G. Wilson, A. Lawrence Lowell, and Clarence Crane Brinton)</bibref>
+<bibref>MILES, Edwin A. (University of Houston) - 3 (1959, 1960)</bibref>
+<bibref>MILES, Guy - 1 (Feb. 17, 1972)</bibref>
+<bibref>MILLEH, August C., Jr. - 1 (Jan. 25, 1948)</bibref>
+<bibref>MILNAR, Anthony L. - 1 (Feb. 5, 1945)</bibref>
+<bibref>MILTON, Abby Crawford (Current Historical Society of Tennessee) - 2 (1935)</bibref>
+<bibref>MILTON, George Fort (The Chattanooga News) - 3 U938) (including 1 from Cordell Hull)</bibref>
+<bibref>MIMS, Edwin (Vanderbilt University) - 2 (1955) (including 1 from Goodrich C. White)</bibref>
+<bibref>MINTON, John D. (University of Miami) - 5 (1947, 1951)</bibref>
+<bibref>MISCH, Fannie B. - 1 (Jan. 26, 1947)</bibref>
+<bibref>MITCHELL, F. K. (Rhodes Scholarships) - 1 (Nov. 20, 1934)</bibref>
+<bibref>MITCHELL, H. C. (West Virginia University, University of Maine) - 7 (1924-27, n.d.)</bibref>
+<bibref>MITCHELL, Martha C. (Mississippi College) - 1 (Apr. 1, 1948)</bibref>
+<bibref>MOE, Henry Allen (Guggenheim Foundation) - 3 (1955, 1958, 1959)</bibref>
+<bibref>MOFFATT, Charles H. (Anderson City Schools, Marshall College) - 20 (l943-48, 1950-52)</bibref>
+<bibref>MOFFITT, James W. (Oklahoma Historical Society, Bessie Tift College) - 4 (1936, 1942, 19V+, 1947)</bibref>
+<bibref>MOGER, Allen W. (Washington and Lee University) - 4 (1943, 194, 1947)</bibref>
+<bibref>MOLLETf, Carlie (H.E. Huntington Library) - 2 (1937)</bibref>
+<bibref>MONAGHAN, J. (Illinois State Historical Society) - 2 (1944)</bibref>
+<bibref>MONROE, Haskell (Texas A 8c M University) - 1 (Sept. 15, 1964)</bibref>
+<bibref>MONTGOMERY, C. D. - 1 (Feb. 2, 1959)</bibref>
+<bibref>MONTGOMERY, C. M. (Pi K<emph render="sub">a</emph>ppa Alpha Fraternity, University of Texas) - 4 (1921, 1923, 1924)</bibref>
+<bibref>MONTGOMERY, Horace (University of Georgia) - 1 (Jan. 27, 1950)</bibref>
+<bibref>MOOD, Fulmer (University of California Library) - 3 (1943, n.d.)</bibref>
+<bibref>MOODY, L. S. (Chamber of Commerce of Augusta) - 1 (July 30, 1945)</bibref>
+<bibref>MOOK, Maurice A. (American University) - 2 (1942, 1943)</bibref>
+<bibref>M00NEY, Chase (University of Mississippi, Brenau College, War Department, Indiana University) - 93 (1938-63) (including 1 each from B.I. Wiley and John L. Snell)</bibref>
+<bibref>MOORE, A. B. (University of Alabama) - 17 (1931, 1935, 1936, 1942, 1944, 1946, 1947, 1958)</bibref>
+<bibref>MOORE, Dan Tyler (International Platform Association) - 1 (Nov. 25, 1964)</bibref>
+<bibref>MOORE, Eoline Wallace (Birmingham-Southern College) - 1 (Mar. 18, 1946)</bibref>
+<bibref>MOORE, Glover (Mississippi State College) - 17 (1933, 1936, 1937, 1941, 1943, 1948, 1952, 1967)</bibref>
+<bibref>MOORE, Mary D. (Tennessee Division of Library and Archives) - 1 (May 5, 1942)</bibref>
+<bibref>MORGAN, W. H. (Morgan, Napier Company) - 1 (Aug. 21, 1936)</bibref>
+<bibref>MORRIS, Richard B. (Princeton Institute for Advanced Study) - 1 (Feb. 2, 1948)</bibref>
+<bibref>MORROW, Josephine (Colorado College) - 3 (1922, 1924)</bibref>
+<bibref>MORROW, Ralph E. (Washington University) - 2 (1957, 1961)</bibref>
+<bibref>MORTON, D. Walter (Syracuse University) - 1 (Sept. 23, 1935)</bibref>
+<bibref>MORTON, Richard L. (The William and Mary Quarterly) - 6 (1944-46)</bibref>
+<bibref>MOWRY, George E. (War Production Board, University of California, Mississippi Valley Historical Association) - 6 (1944, 1951, 1952, n.d.)</bibref>
+<bibref>MUMFORD, L. Quincey (Librarian of Congress) - 1 (Aug. 1, 1958)</bibref>
+<bibref>MUNDEN, Ken (Society of American Archivists) - 2 (1964, 1965)</bibref>
+<bibref>MUNGER, Lilla - 1 (Dec. 22, 1922)</bibref>
+<bibref>MUNRO, Dana C. - 1 (Mary 29, 1929)</bibref>
+<bibref>MUNRO, Dana G. - 1 (Oct. 20, 1941)</bibref>
+<bibref>MURPHY, Gardner (City College of New York) - 1 (July 29, 1943)</bibref>
+<bibref>MURPHY, Malcolm - 7 (1926, 1928-30)</bibref>
+<bibref>MURRAY, John W. (Murray Drug Company) - 1 (Sept. 23, 1935)</bibref>
+<bibref>MUSSED, J. H. (Dental Specialty Company) - 2 (1922)</bibref>
+<bibref>MYERS, Edward D. (Southern Humanities Conference) - 6 (1950, 1951)</bibref>
+<bibref>NAPIER, T. H. (Alabama College) - 1 (Aug. 8, 1939)</bibref>
+<bibref>NASATIER, Abraham - 1 (Dec. 2, 1920)</bibref>
+<bibref>NAVAL Administrative Office - 1 (Feb. 19, 1957)</bibref>
+<bibref>NAVY Department, Bureau of Naval Personnel - 3 (1945) (including 1 each from Germain R. Row, F. V. Lawrence, Jr., and Elizabeth G. Grimsley)</bibref>
+<bibref>NAWTHEY, Arno (University of Texas) - 1 (June 7, 1963)</bibref>
+<bibref>NAYLOR, Joe A. (The Naylor Company) - 1 (Apr. 4, 1941)</bibref>
+<bibref>NEILL, Robert T. (Hill, Neill &amp; Hill) - 1 (Nov. 5, 1923)</bibref>
+<bibref>NELSON, B. H. (Clark College) - 1 (Oct. 29, 1945)</bibref>
+<bibref>NELSON, Frank A. - 2 (1948)</bibref>
+<bibref>NELSON, Walter R. - 1 (Sept. 26, 1959)</bibref>
+<bibref>NETTELS, Curtis P. (University of Wisconsin, American Historical Association) - 12 (1941)</bibref>
+<bibref>NEU, C. T. (East Texas State Teachers College) - 1 (May 18, 1936)</bibref>
+<bibref>NEUHAUS, Elizabeth (The History Majors' Committee) - 1 (Mar. 29, 1928)</bibref>
+<bibref>NEUMANN, Alfred R. (University of Houston) - 2 (1965)</bibref>
+<bibref>NEW BOLD, Catharine (State University of New ifork, Albany) - 1 (Apr. 9, 1964)</bibref>
+<bibref>NEVLON, Lulu M. - 6 (1921, 1922, n.d.)</bibref>
+<bibref>NEWMAN, Andrew J. (University of Kansas) - 1 (Aug. 24, 1920)</bibref>
+<bibref>NEWSOME, A. R. (North Carolina Historical Commission) - 1 (Mar. 2, 1934)</bibref>
+<bibref>NICHOLS, Jeannette P. - 8 (1938, 1939, 1945, 1946)</bibref>
+<bibref>NICHOLS, Roy F. (University of Pennsylvania) - 14 (1934-36)</bibref>
+<bibref>NICHOLSON, W. B. (Austin Peay Normal School) - 1 (Sept. 30, 1937)</bibref>
+<bibref>NIEHAUS, E. F. - 1 (July 1956)</bibref>
+<bibref>NIXON, H. C. (Tulane University) - 2 (1935, 1936)</bibref>
+<bibref>NIXON, Raymond B. (Emory University) - 2 (1945)</bibref>
+<bibref>NOBLE, Dorothy - 1 (Jan. 30, 1940)</bibref>
+<bibref>NOBLIN, Stuart - 1 (Jan. 6, 1946)</bibref>
+<bibref>NORLIN, President (Secretary) (University of Colorado) - 1 (Aug. 19, 1929)</bibref>
+<bibref>NORRIS, Joe L. (Wayne State University) - 1 (Apr. 15, 1957)</bibref>
+<bibref>NORTHWESTERN University History Department - 1 (Mar. 17, 1941)</bibref>
+<bibref>OAKES, Mildred (Tulane University) - 1 (Dec. 14, 1965)</bibref>
+<bibref>OAKES, William J. (Memorial Junior High School) - 1 (Feb. 20, 1935)</bibref>
+<bibref>O'BRIEN, C. Bickford (University of California) - 1 (Feb. 26, 1959)</bibref>
+<bibref>O'CALLAGHAN, H. N. (First American National Bank) - 2 (1950, 1953)</bibref>
+<bibref>O'CONNOR, Thomas - 1 (Oct. 17, 1930)</bibref>
+<bibref>O'DELL, Frances M. (Tennessee Historical Society) - 1 (Oct. 24, 1963)</bibref>
+<bibref>ODUM, Howard W. (University of North Carolina) - 1 (Nov. 14, 1935)</bibref>
+<bibref>O'KEEFE, W. F. (Doubleday, Doran &amp; Co.) - 1 (May 1, 1944)</bibref>
+<bibref>OLDFATHER, C. H. (University of Nebraska) - 1 (May 31, 1932)</bibref>
+<bibref>OLSON, James C. (Mississippi Valley Historical Review, University of Nebraska) - ll8 (1953-56, 1963, 1966) (including 4 from Patricia French, 2 each from O.M. Dickerson and Jay F. W. Pearson, and 1 each from Eric H. Boehm, Mary Ann Davis, Russell W. Fridley, Sarah B. Holland, R. W. G. Vail, and William G. Wilson)</bibref>
+<bibref>OSBORN, F. H. (War Department) - 1 (Feb. 9, 1942)</bibref>
+<bibref>OSBORN, George C. (Memphis State College, University of Florida) - 4 (1943, 1946-48)</bibref>
+<bibref>OSBORNE, Lithgow (American-Scandinavian Foundation) - 1 (Feb. 24, 1950)</bibref>
+<bibref>OSBORNE, Louise - 1 (May 21, 1950)</bibref>
+<bibref>OSBORNE, Mary H. (University of North Carolina) - 1 (Feb. 1, 1950)</bibref>
+<bibref>OSWALD, Gertrude Casebier (Sherman Junior High School) - 4 (1960, n.d.)</bibref>
+<bibref>OVERSTREET, J. W. (Winston County Agricultural High School) - 1 (Feb. 11, 1931)</bibref>
+<bibref>OVERTON, Richard C. (Chicago, Burlington &amp; Quincy Rail Road Company, Northwestern University) - 11 (1945, 1950, 1962)</bibref>
+<bibref>OWEN, David (American Historical Association, Harvard University) - 7 (1949, 1950)</bibref>
+<bibref>OWEN, Marie B. (Alabama Department of Archives and History) - 2 (1934, 1937)</bibref>
+<bibref>OWINGS, Donnell M. (University of Oklahoma) - 1 (Feb. 8, 1950)</bibref>
+<bibref>OWSLEY, Frank Lawrence (Vanderbilt University, University of Alabama) - 48 (1930-33, 1935, 1937-40, 1942, n.d.) (including 1 each from Fletcher M. Green, Frank Q. Crockett, James A. Barnes, J.H. Parks, and Howard K. Beale)</bibref>
+<bibref>OWSLEY, Harriet Chappell (Tennessee State Library and Archives) - 20 (1953, 1956-60, 1964) (including 1 each from Roger W. Shugg and Ken Munden)</bibref>
+<bibref>PAGE, Mary F. - 2 (1948, n.d.)</bibref>
+<bibref>PAINE, Alice T. (University of North Carolina Press) - 2 (1949)</bibref>
+<bibref>PAINE, Clara S. (Mississippi Valley Historical Association) - 229 (1923, 1936, 1938-41, 1943-54, 1956, n.d.) (including 1 letter each from Paul M. Angle, Thomas L. Bailey, John D. Barnhart, Thomas D. Clark, Elmer Ellis, Curtis W. Garrison, J. L. Highsaw, Albert L. Kohlmeier, George E. Mowry, and Grace Lee Nute)</bibref>
+<bibref>PAINE, Clarence S. (Beloit College Libraries, Oklahoma City Libraries) -10 (1946, 1950, 1951, 1953) (including 1 from S. Moinul Haq)</bibref>
+<bibref>PALMER, Frank C. (University of California) - 1 (Feb. 24, 1925)</bibref>
+<bibref>PALMER, Stuart (American Education Fellowship) - 1 (July 20, 1945)</bibref>
+<bibref>PANKEY, Clyde Ely (Laurel School) - 2 (1947)</bibref>
+<bibref>PAPILLON, Cicely G. - 1 (Feb. 15, 1946)</bibref>
+<bibref>PARGELLIS, Stanley (Newberry Library) - 11 (1944, 1945, 1948) (including 1 from E. E. Dale)</bibref>
+<bibref>PARK, Laurine - 3 (1927, 1930) parker, Gordon (Colorado College) - 5 (1926-29, 1935) parker, Marie Hammond - 1 (Feb. 10, 1953)</bibref>
+<bibref>PARKER, William A. (American Council of Learned Societies) - 1 (Apr. 28, 1950)</bibref>
+<bibref>PARKS, E. T. (Berea College) - 2 (1943)</bibref>
+<bibref>PARKS, Edd Winfield - 5 (1936, 1938, 1939, 1944) (University of Georgia)</bibref>
+<bibref>PARKS, J. H. (Birmingham-Southern College, Florida State College for Women) 2 (1943, 1946)</bibref>
+<bibref>PARKS, Norman L. - 16 (1929, 1931-33) (including 1 each from Thomas P. Abernethy, Thomas S. Staples, and G.A. O'Neal)</bibref>
+<bibref>PARMER, J. Norman (Northern Illinois University) - 2 (including 1 from Darla Owen) (1961)</bibref>
+<bibref>PASCHAL, F. C. (Vanderbilt University) - 10 (1930-33, 1935, 1936) (including 1 each from Jane Sutherland and P. E. Minor)</bibref>
+<bibref>PATRICK, Rembert W. (University of Florida, Florida Historical Society, Southern Historical Association) - 3 (1956, 1962, 1966)</bibref>
+<bibref>PATTERSON, C. Perry (University of Texas) - 2 (1921)</bibref>
+<bibref>PATTERSON, Ernest Minor (American Academy of Political and Social Science) 2 (1910, 1938) (including 1 to F. W. hoore from Rednard Gumplowicz)</bibref>
+<bibref>PATTERSON, John C. (American University) - 5 (1930, 1940) (including 1 from Charles W. Hackett)</bibref>
+<bibref>PATTIE, Frank (Rice Institute) - 1 (Aug. 13, 1946)</bibref>
+<bibref>PATTON, James W. (Converse College, Southern Historical Association, University of North Carolina Library) - 60 (1935, 1941-49, 1951, 1956, 1958) (including 1 from The Franklin Press)</bibref>
+<bibref>PATY, Sadie - 1 (Aug. 8, 1943)</bibref>
+<bibref>PAULISSEN, Bob (American Transfer and Storage Co.) - 1 (May 24, 1967)</bibref>
+<bibref>PAXSON, Frederic L. - 1 (Aug. 28, 1946)</bibref>
+<bibref>PEARCE, H. J. (Brenau College) - 3 (1939, 1940)</bibref>
+<bibref>PEASE, F. S., Jr. (Appleton-Century-Crofts) - 25 (1935-36)</bibref>
+<bibref>PECK1IAM, Howard H. (Indiana Historical Bureau) - 8 (1948, 1949, 1953)</bibref>
+<bibref>PEDERSON, Lora Lee - 1 (Aug. 20, 1945)</bibref>
+<bibref>PEELER, Elizabeth (Southwestern College, Birmingham-Southern College) -4 (1941-43)</bibref>
+<bibref>PEERY, William (Tulane University) - 1 (July 3, 1963)</bibref>
+<bibref>PEGG, C. H. (University of North Carolina) - 2 (1935)</bibref>
+<bibref>PEIRCE, Paul S. - 2 (1942, 1943)</bibref>
+<bibref>PELZER, Louis (State University of Iowa, Mississippi Valley Historical Review) - 37 (1924, 1925, 1930, 1936-39, 1941-46)</bibref>
+<bibref>PELZER, Mildred W. - 1 (Nov. 8, 1946)</bibref>
+<bibref>PERKINS, Clarence (University of North Dakota) - 1 (Dec. 4, 1928)</bibref>
+<bibref>PERKINS, Dexter (American Historical Association) - 1 (Feb. 27, 1931)</bibref>
+<bibref>PERKINS, Howard C. (Bradley University) - 8 (1942, 1945-47, 1949)</bibref>
+<bibref>PERKINS, Lindsey S. (Brooklyn College) - 1 (May 28, 1947)</bibref>
+<bibref>PERRY, Ralph (Tennessee Executive Chamber) - 2 (1936)</bibref>
+<bibref>PETERSON, William J. (State Historical Society of Iowa, State University of Iowa, Iowa Authors Club) - 22 (1938, 1939, 1942-44, 1946, 1948, 1950-53, n.d.) (including 1 from Thomas E. Martin)</bibref>
+<bibref>PHELPS, Hilda Wilcox - 1 (May 1, 1944)</bibref>
+<bibref>PHELPS, Shelton (Peabody College, Winthrop College) - 3 (1933, 1939, 1941)</bibref>
+<bibref>PHILLIPS, Dayton (Vanderbilt University) - 14 (1949, 1951-53, 1964)</bibref>
+<bibref>PHILLIPS, Ulrich B. (Yale University) - 6 (1932-33)</bibref>
+<bibref>PICKENS, A. L. - 1 (July 23, 1946)</bibref>
+<bibref>PIERCE, Cornelia M. (Carnegie Institution of Washington) - 2 (1932)</bibref>
+<bibref>PIPHER, Charlotte Applewhite (Tulane University Library) - 1 (Apr. 8, 1946)</bibref>
+<bibref>PITTMAN, Marvin S. (South Georgia Teachers College, Georgia Teachers College) - 6 (1934, 1935, 1940, 1943)</bibref>
+<bibref>POMFRET, John E. (College of William and Mary, Vanderbilt University, Social Science Research Council) - 20 (1936-42, 1944-46, 1948, n.d.) (including 1 each from C. M. Sarratt and H. Clay Reed)</bibref>
+<bibref>PORTER, Livingstone - 1 (July 13, 1920)</bibref>
+<bibref>POSEY, Walter Brownlow (Birmingham-Southern College, Agnes Scott College, Emory University, Southern Historical Association) - 66 (1930-35, 1937, 1938, 1941-51, 1953, 1956-58) (including 1 each from Phil Williams, William D. McCain, and W.H. Stephenson)</bibref>
+<bibref>POSTLETHWAITE, W. W. (Colorado College, Winter Night Club) - 4 (1922, 1926, 1927)</bibref>
+<bibref>POTTER, David M. (Yale University) - 2 (1943, 1949)</bibref>
+<bibref>POTTER, Kenneth (West Coast Relays) - 1 (Apr. 25, 1932)</bibref>
+<bibref>PRICE, Grady D. - 1 (Nov. 29, 1943)</bibref>
+<bibref>PRICE, N. II. (West End High School) - 1 (Feb. 8, 1936)</bibref>
+<bibref>PRICHARD, Walter (Louisiana State University) - 2 (1937)</bibref>
+<bibref>PRIEST, J. Percy (U.S. Congress) - 1 (Nov. 9, 1943)</bibref>
+<bibref>PRESCOTT, Frank W. (University of Chattanooga) - 3 (1932, 1937, 1939)</bibref>
+<bibref>PUCKEIT, E. P. (Central College) - 1 (June 23, 1941)</bibref>
+<bibref>QUAIFE, M. M. (Detroit Public Library, Mississippi Valley Historical Review) - 14 (1928, 1929, 1930, 1945, 1946)</bibref>
+<bibref>QUALEY, Carlton C. - 1 (Aug. 16, 1948)</bibref>
+<bibref>QUEENER, Verton (Maryville College) - 2 (1943)</bibref>
+<bibref>QUENZEL, Carrol H. (Mary Washington College) - 1 (Jan. 25, 1946)</bibref>
+<bibref>QUINT, Howard H. (University of South Carolina) - 2 (1947, 1948)</bibref>
+<bibref>RACHAL, William M. E. (Virginia State Library, World War II History Division) - 2 (1950)</bibref>
+<bibref>RAGNATZ, Lowell Joseph (American Historical Association) - 1 (Mar. 28, 1931)</bibref>
+<bibref>RAGNATZ), Mary Parker - 1 (Sept. 7, 1937)</bibref>
+<bibref>RAINES, Mary Elizabeth - 1 (Dec. 5, 1941)</bibref>
+<bibref>RAINEY, Homer P. (University of Texas) - 1 (Mar. 8, 1941)</bibref>
+<bibref>RAMSDELL, Charles W. (University of Texas, Southern Historical Association) - 15 + fragment (1924, 1925, 1935, 1936, 1938, 1939)</bibref>
+<bibref>RAND, Clayton (The Dixie Guide) - 1 (June 2, 1944)</bibref>
+<bibref>RANDALL, James G. (University of Illinois) - 11 (1937-39, 1943) (including 1 each from Fred A. Shannon, Francis P. Weisenberger, and Howard K. Beale)</bibref>
+<bibref>RANKIN, Robert S. (Duke University) - 1 (Oct. 26, 1945)</bibref>
+<bibref>RANSOM, Ellene - 3 (1941)</bibref>
+<bibref>RANSOM, Harry (University of Texas) - 1 (Mar. 23, 1964)</bibref>
+<bibref>RATCLIFFE, Emory (Fresno State College) - 1 (Feb. 27, 1941)</bibref>
+<bibref>RAWLEY, James A. (University of Nebraska) - 1 (Sept. 23, 1966)</bibref>
+<bibref>RAY, Gordon N. (Guggenheim Foundation) - 1 (n.d.)</bibref>
+<bibref>READ, Conyers (American Historical Association) - 5 (1933, 1935, 1936)</bibref>
+<bibref>REID, Robert D. - 1 (Mar. 23, 1948)</bibref>
+<bibref>RENFRO, Thomas G. - 1 (Aug. 20, 1960)</bibref>
+<bibref>REPAREZ, G. de - 1 (May 3, 1945)</bibref>
+<bibref>RESERVE Life Insurance Co. (G. Anderson) - 1 (Mar. 24, 1965)</bibref>
+<bibref>RESTREPO, Camilo - 2 (1942)</bibref>
+<bibref>REYNOLDS, George M. (Julius Rosenwald Fund) - 1 (Mar. 11, 1940)</bibref>
+<bibref>REYNOLDS, Hughes - 1 (Feb. 9, 1945)</bibref>
+<bibref>REYNOLDS, T. H. (Oklahoma A &amp; M School) - 2 (1936, 1937)</bibref>
+<bibref>RHOA, Linda - 1 (Oct. 7, 1936)</bibref>
+<bibref>RICE, Otis K. - 1 (Jan. 21, 1946)</bibref>
+<bibref>RICHARDSON, Ira (Adams State Teachers College) - 1 (July 25, 1939)</bibref>
+<bibref>RICHARDSON, Rupert N. (Hardin-Simmons University) - 6 (1934, 1936, 1942, 1944)</bibref>
+<bibref>RICHES, Cromwell A. (Department of State) - 1 (n.d.)</bibref>
+<bibref>RIDDLE, J. I. (Judson College) - 1 (Apr. 8, 1946)</bibref>
+<bibref>RIDGE, Martin (Journal of American History) - 2 (1969)</bibref>
+<bibref>RIEPMA, Siert F. (Works Progress Administration) - 4 (1936, 1937)</bibref>
+<bibref>RIKER, Thad W. (University of Texas) - 1 (Jan. 15, 1940)</bibref>
+<bibref>RIPPY, J. Fred (University of Chicago, Duke University) - 61 (1919-32, 1947)</bibref>
+<bibref>RISCH, Erma - 2 (l947)</bibref>
+<bibref>RISTER, Carl Coke (University of Oklahoma) - 35 (1936, 1938, 1941, 1944-46, 1949-51)</bibref>
+<bibref>ROBB, Felix C. (Peabody College) - 1 (Dec. 17, 1948)</bibref>
+<bibref>ROBBINS, Roy M. (Butler University) - 2 (1953)</bibref>
+<bibref>ROBERT, Joseph C. (Duke University) - 5 (1938, 1939, 1944)</bibref>
+<bibref>ROBERTSON, Jarnes A. (Hispanic American Historical Review, Florida State Historical Society) - 12 (1923, 1926, 1927, 1931, 1933)</bibref>
+<bibref>ROBINSON, Edgar E. (Institute of American History) - 1 (Jan. 21, 1947)</bibref>
+<bibref>ROBINSON, J. Lunsford - 2 (1938)</bibref>
+<bibref>ROBINSON, Jim (North Carolina Department of Agriculture) - 2 (1947)</bibref>
+<bibref>ROBINSON, W. Stitt (University of Kansas) - 2 (1969)</bibref>
+<bibref>ROBINSON, William M., Jr. - 5 (1945, 1946, 1948, 1949, 1950) (including 1 to Donald Davidson)</bibref>
+<bibref>ROBISON, Daniel M. (Vanderbilt University, Tennessee State Library and Archives) - 36 (1931-36, 1938, 1940, 1953, 1962) (including 1 each from F. C. Paschal, Henry J. Willingham, and Richmond Croom Beatty)</bibref>
+<bibref>RODDIS, Jeanne - 2 (1922)</bibref>
+<bibref>RODNEY, Imogene - 1 (Aug. 20, 1939)</bibref>
+<bibref>RODRIGUEZ, Jaime E. - 1 (Aug. 17, 1966)</bibref>
+<bibref>ROE, William S. (Colorado Springs High School) - 1 (Oct. 21, 1925)</bibref>
+<bibref>ROEMER, C; E.-l (Aug. 15, 1957)</bibref>
+<bibref>ROGERS, Edgar F. (Library of Congress) - 1 (June 18, 1942)</bibref>
+<bibref>ROGERS, Lou (North Carolina Education Association) - 1 (May 2, 1944)</bibref>
+<bibref>HOLAND, Charles P. (Tulane University) - 1 (rud.)</bibref>
+<bibref>ROMBERG, Eda A. (Scribner Public Schools) - 1 (Oct. 25, 1939)</bibref>
+<bibref>ROONEY, William E. (Civil War Round Table) - 2 (1961)</bibref>
+<bibref>ROSE, Joseph S., Jr. (U.S. Naval Reserve Recruiting Station) - 1 (Mar. 2, 1942)</bibref>
+<bibref>ROSE, Lisle A. (University of Illinois) - 2 (1952)</bibref>
+<bibref>ROSS, Earle D. (Iowa State College) - 2 (1936, 1947)</bibref>
+<bibref>ROSS, Edward Alsworth (Committee on Cultural Relations with Latin America) 1 (Jan. 5, 1931)</bibref>
+<bibref>ROTHE, Charles (University of Texas Library) - 1 (n.d.)</bibref>
+<bibref>ROTHROCK, Mary U. (Lawson McGhee Library) - 1 (May 29, 1933)</bibref>
+<bibref>ROUSE, Tom (University of Texas) - 1 (May 2, 1939)</bibref>
+<bibref>ROWLAND, Mrs. Dunbar (Rowland Historical and Research Library) - 6 (1945-47, n.d.)</bibref>
+<bibref>RUSSELL, J. C. (University of Mew Mexico) - 9 (1927, 1929, 1930, 1932, 1947)</bibref>
+<bibref>RUSSELL, John R. (American Red Cross) - 1 (Jan. 23, 1945)</bibref>
+<bibref>RUSSELL, Richard B. (U.S. Senate) - 1 (Apr. 12, 1943)</bibref>
+<bibref>RUTLAND, Robert Allen (State Historical Society of Iowa, University of California) - 10 (1953, 1954, 1956, 1957, 1960, 1961, 1963)</bibref>
+<bibref>SALLIS, Jerry Price (Mississippi Valley Historical Review) - 3 (1960)</bibref>
+<bibref>SAMMONS, Wheeler (Who&#39;s Who in America) - 1 (n.d.)</bibref>
+<bibref>SANDEKS, Jennings B. (University of Tennessee, Memphis State College) -6 (1938, 1942, 1946)</bibref>
+<bibref>SARRATT, G. M. (Vanderbilt University) - 4 (1946, 1949) (including 1 from Meredith P. Crawford)</bibref>
+<bibref>SAUNDERS, Humphrey - 1 (Feb. 25, 1931)</bibref>
+<bibref>SAVAGE, Louise (University of Virginia Library) - 1 (Nov. 2, 1943)</bibref>
+<bibref>SAYE, Albert B. (University of Georgia) - 1 (Jan. 3, 1945)</bibref>
+<bibref>SCHAEDLER, Louis C. - 1 (May 26, 1947)</bibref>
+<bibref>SCI1ELL, Herbert S. (University of South Dakota) - 5 (1938, 1939, 194, 1948)</bibref>
+<bibref>SCHEPS, Clarence (Tulane University) - 5 (1953, 1958, 1959, 1963)</bibref>
+<bibref>SCUERMERHORN, H. B. - 1 (May 26, 1953)</bibref>
+<bibref>SCHLEGEL, Marvin W. (Longwood College) - 1 (n.d.)</bibref>
+<bibref>SCHMIDT, Louis Bernard (University of Texas, Iowa State College) - 14 (1938-41, 1943, 1944)</bibref>
+<bibref>SC1IOLES, France V. (Library of Congress Mexican Archives, University of New Mexico, Carnegie Institution) - 37 (1926-31, 1941, 1946, 1950, 1952, 1953)</bibref>
+<bibref>SCILULTZ, Harold S. (University of Vermont) - 2 (1946)</bibref>
+<bibref>SCOTT, Mrs. A. W. (University of Georgia Press) - 1 (n.d.)</bibref>
+<bibref>SCOTT, Franklin D. (Northwestern University) - 1 (July 20, 1949)</bibref>
+<bibref>SCOTT, Mrs. John - 2 (1941)</bibref>
+<bibref>SEARS, Alfred B. (University of Oklahoma) - 5 (1938, 1939, 1946, 1950)</bibref>
+<bibref>SELLERS, Ava F. (Vanderbilt University) - 1 (Feb. 7, 1956)</bibref>
+<bibref>SELLERS, James B. (University of Alabama) - 1 (May 5, 1944)</bibref>
+<bibref>SELLERS, James L. (Mississippi Valley Historical Association, University of Nebraska, Nebraska State Historical Society) - 17 (1939, 194, 1945, 1948, 1951-53)</bibref>
+<bibref>SELLIN, Thorsten (Annals of American Academy of Political and Social Science) - 1 (Nov. 7, 1932)</bibref>
+<bibref>SENSABAUGH, Leon F. (Birmingham-Southern College) - 6 (1946, 1947, 1950, 1958)</bibref>
+<bibref>SETTLEMIER, Westen H. - 1 (Oct. 22, 1921)</bibref>
+<bibref>SIIAFER, Boyd C. (American Historical Association, American Historical Review) - 27 (1955-59, 1961, 1963) (including 1 each from Patty W. Washington and Carl Wittke, 2 from Douglas Veale)</bibref>
+<bibref>SHANKS, Henry T. (Birmingham-Southern College) - 11 (1944-46, 1948-51)</bibref>
+<bibref>SHANNON, Fred. A. (Mississippi Valley Historical Association, Kansas State Agricultural College) - 3 (1928, 1930)</bibref>
+<bibref>SHANNON, William V. - 1 (Mar. 30, 1948)</bibref>
+<bibref>SHARP, Walter R. (Social Science Research Council) - 1 (Dec. 15, 1931)</bibref>
+<bibref>SHAW, A. M. Jr. (Centenary College of Louisiana) - 3 (1943, 1948, 1949)</bibref>
+<bibref>SHEETS, L. C. (University of Colorado Bookstore) - 1 (Feb. 27, 1936)</bibref>
+<bibref>SHELBY, Charmion- 2 (1938)</bibref>
+<bibref>SHEPPARD, William Arthur - 5 (1942) (including 1 from W. H. Stephenson)</bibref>
+<bibref>SHERRARD, May L. - 1 (Sept. 15, 1952)</bibref>
+<bibref>SHERRIFF, Florence Jansen - 1 (Nov. 28, 1944)</bibref>
+<bibref>SHIPLEY, Max L. (Texas State College for Women) - 1 (Mar. 2, 1956)</bibref>
+<bibref>SHISLER, F. E. - 1 (n.d.)</bibref>
+<bibref>SHOEMAKER, Louise - 5 (1945-47)</bibref>
+<bibref>SHORES, Venila Lovina (Florida State College for Women) - 1 (Apr. 24, 1947)</bibref>
+<bibref>SHORT, James R. - 1 (Feb. 7, 1953)</bibref>
+<bibref>SHOWS, S. M. (DeSoto Parish Department of Education) - 1 (July 1, 1943)</bibref>
+<bibref>SHRYOCK, Richard H. (University of Pennsylvania) - 3 (1939, 1941) (including 1 from John Pomfret)</bibref>
+<bibref>SHUGG, Roger W. (Indiana University, University of Chicago Press) - 9 (1943, 1957, 1958) (including 1 from Blossom Porte)</bibref>
+<bibref>SIBLEY, Elbridge (Social Science Research Council) - 7 (1946, 1949, 1951 1952, n.d.)</bibref>
+<bibref>SIEGEL, Stanley (University of Houston) - 1 (Aug. 22, 1968)</bibref>
+<bibref>SILLS, Ashley H. - 1 (Aug. 1, 1936)</bibref>
+<bibref>SILVER, James W. (Vanderbilt University, Southwestern College, University of Mississippi) - 90 (1934-49, 1951, 1952, 1954-56, 1958, 1960, 1962) (including 1 each from P.L. Rainwater, Charles H. Simpson, Jr., and R. Bliss Edgar)</bibref>
+<bibref>SILVESTRO, Clement M. (American Association for State and Local History) - 1 (Sept. 16, 1960)</bibref>
+<bibref>SIMMONS, C. A. - 1 (Aug. 31, 1921)</bibref>
+<bibref>SIMMS, Henry II. (Ohio State University) - 3 (1938, 1947)</bibref>
+<bibref>SIMPSON, Albert F. (Junior College of Augusta, Army Air Forces, Air University) - 36 (1934-38, r;4o-41, 1948, 1951, 1954, 1955, 1968)</bibref>
+<bibref>SIOUSSAT, St. George L. (University of Pennsylvania, Library of Congress Manuscripts Division) - 10 (1932, 1945-47) (including 1 from William E. Lingelbach)</bibref>
+<bibref>SISAM, Cora liutton (Daughters of the American Revolution) - 1 (May 29, 1929)</bibref>
+<bibref>SITTERSON, J. Carlyle (University of North Carolina, Southern Historical Association) - 15 (1946, 1949, 1950)</bibref>
+<bibref>SKIPPER, O. C. (Louisiana State Normal College, Mississippi State College for Women) - 3 (1944, 1954)</bibref>
+<bibref>SMITH, Anne W. (Louisiana State University Press) - 2 (1952)</bibref>
+<bibref>SMITH, C. Henry (University of Colorado Library) - 2 (1936)</bibref>
+<bibref>SMITH, Charles E. (Louisiana State University) - 7 (1949-52)</bibref>
+<bibref>SMITH, Culver H. (University of Chattanooga, American Historical Association) - 13 (1934-36, 1948)</bibref>
+<bibref>SMITH, Cyril E. (West Virginia University) - 2 (1929)</bibref>
+<bibref>SMITH, Honora D. - 1 (n.d.)</bibref>
+<bibref>SMITH, J. M. (Louisiana State University) - 1 (June 6, 1934)</bibref>
+<bibref>SMITH, J. M. (Tennessee State Department of Education) - 1 (Apr. 10, 1938)</bibref>
+<bibref>SMITH, James H. C. (Carnegie Institution) - 1 (June 21, 1925)</bibref>
+<bibref>SMITH, Joe Patterson (Illinois College) - 3 (1944, 1945)</bibref>
+<bibref>SMITH, Marks - 2 (1927, 1928)</bibref>
+<bibref>SMITH, Ralph A. - 1 (Jan. l8, 1951)</bibref>
+<bibref>SMITH, Rebecca W. (Texas Christian University) - 1 (Apr. 25, 1936)</bibref>
+<bibref>SMITH, Sam B. (Tennessee State Library and Archives) - 1 (Jan. 22, 1965)</bibref>
+<bibref>SMITH, T. Lynn - 1 (July 15, 1949)</bibref>
+<bibref>SMITH, V. Mitchell, Jr. (University of Wyoming) - 1 (Feb. 9, 1944)</bibref>
+<bibref>SMITH, Winnie - 1 (Sept. 6, 1934)</bibref>
+<bibref>SMITHER, Harriet (Texas State Library) - 6 (1931, 1932, 1934, 1936)</bibref>
+<bibref>SMYLIE, Patricia (Louisiana State University Press) - 1 (Mar. 14, 1952)</bibref>
+<bibref>SMYTHE, Hugh H. (Atlanta University) - 1 (Aug. 11, 1944)</bibref>
+<bibref>SNAVELY, Guy E. (Birmingham-Southern College) - 1 (Oct. 4, 1945)</bibref>
+<bibref>SNELL, John L. (American Historical Association, Tulane University) - 3 (1958, 1963)</bibref>
+<bibref>SNIPES, James J. (Selective Service) - 1 (Apr. 13, 1942)</bibref>
+<bibref>SNYDER, Louis L. (City College) - 1 (Oct. 27, 1964)</bibref>
+<bibref>SOLBERG, Richard W. - 1 (Jan. 1, 1945)</bibref>
+<bibref>SONNICHSEN, C. L. (University of Texas) - 1 (Oct. 2, 1944)</bibref>
+<bibref>SOULE, Phelps (University of Pennsylvania Press) - 13 (1936)</bibref>
+<bibref>SOULE, Percy - 1 (July 30, 1951)</bibref>
+<bibref>SCUTII, Percy - 1 (July 30, 1951) SOUTHERN Editors Association - 2 (1944)</bibref>
+<bibref>SPAIN, Rufus B. (Baylor University) - 5 (1962, 1963, 1965)</bibref>
+<bibref>SPARENBERG, C. II. (University of Texas) - 2 (1932)</bibref>
+<bibref>SPAULDING, E. Wilder (Department of State) - 3 (1942, 1943, 1945)</bibref>
+<bibref>SPAULDING, William E. (Houghton Mifflin Company) - 1 (Apr. 26, 1933)</bibref>
+<bibref>SPEYNIAN, Arleen - 1 (Aug. 4, 1965)</bibref>
+<bibref>SPRING, Agnes Wright (State Historical Society of Colorado) - 2 (1952)</bibref>
+<bibref>SPROUL, Robert G. (University of California) - 3 (1918, 1919, 1938)</bibref>
+<bibref>STAMPP, Kenneth M. (University of California) - 1 (June 26, 1948)</bibref>
+<bibref>STANSIFER, Charles L. (Southwestern Louisiana Institute, University of Southwestern Louisiana, University of Kansas) - 17 (1958-64)</bibref>
+<bibref>STAPLES, Thomas S. (Hendrix College) - 1 (Nov. 26, 1940)</bibref>
+<bibref>STARR, Harris E. (Dictionary of American Biography) - 2 (l941)</bibref>
+<bibref>STEEN, R. W. (A &amp; M College of Texas) - 3 (1946, 1949)</bibref>
+<bibref>STENBERG, Richard R. (University of Texas) - 2 (1933, 1943)</bibref>
+<bibref>STEPHENS, H. Thomas (University of California) - 1 (July 30, 1916)</bibref>
+<bibref>STEPHENSON, Wendell H. (Louisiana State University, Journal of Southern History, Southern Historical Association, University of Kentucky, Mississippi Valley Historical Review, Tulane University, University of Oregon) - 224 (1931, 1932, 19348) (including several letters to W.H.S. from various persons)</bibref>
+<bibref>STETSON, Sarah P. - 3 (1947)</bibref>
+<bibref>STEVENSON, P. M. (Piatt, West &amp; Stevenson) - 2 (1940)</bibref>
+<bibref>STEVENSON, George J. (Emory and Henry College) - 2 (1962)</bibref>
+<bibref>STEWART, Edgar I. (Eastern Washington College of Education) - 1 (July 28, 1946)</bibref>
+<bibref>STEWART, Frank M. (University of Texas, Southwestern Political Science Association) - 3 (1921, 1922)</bibref>
+<bibref>STEWART, Irwin (Committee on Scientific Aids to Learning) - 2 (1940)</bibref>
+<bibref>STEWART, Philip B. - 1 (Nov. 23, 1925)</bibref>
+<bibref>STICKLES, A. M. (Western <emph render="super">K</emph>entucky State Teachers College) - 1 (Mar. 24, 1943)</bibref>
+<bibref>STILWELL, Robert S. - 1 (Mar. 2, 1936)</bibref>
+<bibref>STIPE, J. G. (Emory University) - 1 (July 20, 1948)</bibref>
+<bibref>STIPP, John L. (University of Omaha) - 1 (Nov. 5, 1945)</bibref>
+<bibref>STOCKING, George W. (Vanderbilt University). - 5 (1951, 1957) (including 1 from R. Fels)</bibref>
+<bibref>STOCKTON, Ernest L. (Cumberland University) - 3 (1939, 1940)</bibref>
+<bibref>STONE, Margaret H. - 1 (Apr. 14, 1942)</bibref>
+<bibref>STONE, Robert J. (Tulane University) - 2 (1957, 1959)</bibref>
+<bibref>STOUT, Kate T. - 1 (Oct. 24, 1942)</bibref>
+<bibref>STRAIN, Paul K. (The Torch Press) - 1 (July 25, 1955)</bibref>
+<bibref>STRICKER, W. L. - 1 (Dec. 14, 1940)</bibref>
+<bibref>STRICKLAND, Rex W. (University of Texas) - 1 (Apr. 19, 1937)</bibref>
+<bibref>STUART, W. S. - 1 (Kay 17, 1933)</bibref>
+<bibref>SUMMERS, Festus P. (West Virginia War History Commission) - 1 (June 30, 1945)</bibref>
+<bibref>SUMMERSELL, Charles G. (University of Alabama) - 52 (1931-33, 1936-40, 1945, 1946, 1948, 1950, 1956-59)</bibref>
+<bibref>SUNSHINE Club - 1 (n.d.)</bibref>
+<bibref>SWAIN, Martha, and Susie Gordon - 1 (n.d.)</bibref>
+<bibref>SWANTON, Emily - 1 (Aug. 23, 1957)</bibref>
+<bibref>SWART, C --- ) - 1 (June 16, 1922)</bibref>
+<bibref>SWEARINGS, Mack (Tulane University, Georgia State College for Women) -7 (1935, 1939, 1942)</bibref>
+<bibref>SWEENEY, Thomas B. (Equitable Life Assurance Society) - 1 (Jan. 29, 1940)</bibref>
+<bibref>SWEET, Alfred H. - 1 (Nov. 28, 1949)</bibref>
+<bibref>SWEM, E. G. (College of William and Mary Library) - 2 (1943)</bibref>
+<bibref>SWINT, Betty W. (College and Research Libraries) - 6 (1937, 1945, 1946, 1967)</bibref>
+<bibref>SWINT, Henry Lee (Middle Georgia College, Vanderbilt University) - 142 (1936, 1941, 1942, 1944, 1946, 1949-62, 1965, 1967, 1968)</bibref>
+<bibref>SWINT, Thyra L. - 1 (Mar. 25, 1945)</bibref>
+<bibref>SYDNOR, Charles L. (University of Mississippi, Duke University) - 17 (1935, 1939, 1942, 1943, 1945, 1947-49)</bibref>
+<bibref>TAGGART, Harold F. (Santa Maria Union High School, San Mateo Junior College) - 2 (1922, 1931)</bibref>
+<bibref>TAMEY, C. W. (Gooding College) - 1 (Dec. 3, 1928)</bibref>
+<bibref>TANDY, Lucy (University of Oklahoma) - 1 (Nov. 13, 1951)</bibref>
+<bibref>TATUM, Georgia Lee (Mississippi Delta State Teachers College) - 10 (1931-34, 1938)</bibref>
+<bibref>TAYLOR, A. Elizabeth (Judson College, Texas State College for Women, Texas Women&#39;s University) - 23 (1941, 1943-47, 1950, 1952, 1953, 1955, 1957, 1960, 1963)</bibref>
+<bibref>TEBEAU, C. W. (University of Miami) - 1 (Jan. 28, 1950)</bibref>
+<bibref>TECHNICAL Composition Co. - 1 (July 22, 1947)</bibref>
+<bibref>TEN H00R, Marten (Tulane University, University of Alabama) - 3 (1938, 1953)</bibref>
+<bibref>TENNESSEE Electric Power Company (J.A. Hutchison) - 1 (July 17, 1936)</bibref>
+<bibref>TENNESSEE Valley Authority (C. L. rtichey) - 1 (Nov. 9, 1933)</bibref>
+<bibref>THOMAS, Alfred B. (University of Oklahoma) - 4 (1936, 1938, 1939)</bibref>
+<bibref>THOMAS, Bruce (Trinity University) - 1 (Mar. 12, 1953)</bibref>
+<bibref>THOMAS, Charles M. (Army Air Forces) - 1 (Oct. 26, 1944)</bibref>
+<bibref>THOMAS, David Y. (University of Arkansas, University of Texas) - 9 (1920, 1931, 1932, 1934, 1937, 1939, 1942)</bibref>
+<bibref>THOMAS, Francis W. (Harvard Law School) - 3 (1926-28)</bibref>
+<bibref>THOMAS, Homer L. (Camp Winnepe) - 1 (Feb. 3, 1937)</bibref>
+<bibref>THOMAS, Lois (Arkansas History Commission) - 3 (1935, 1937)</bibref>
+<bibref>THOMPSON, E. Bruce (Mississippi College, Baylor University) - 20 (1935, 1942-48, 1950, 1965)</bibref>
+<bibref>THOMPSON, Lawrence S. (University of Kentucky Libraries) - 1 (Feb. 14, 1950)</bibref>
+<bibref>THOMPSON, S. B. - 2 (1938, 1942) (including 1 from D. S. Campbell)</bibref>
+<bibref>THOMSON, Bob Polk - 1 (Feb. 15, 1949)</bibref>
+<bibref>THOMSON, Phillip - 1 (July 29, 1960)</bibref>
+<bibref>THORNHILL, Bonnie (Texas State Historical Association) - 1 (Aug. 5, 1953)</bibref>
+<bibref>THORNTON, Henrietta (Indiana University) - 2 (1946)</bibref>
+<bibref>THRONE, Mildred (Mississippi Valley Historical Review) - 6 (1944, 1945)</bibref>
+<bibref>TILESTON, Roland R. (Pomona College) - 3 (1928, 1929, n.d.)</bibref>
+<bibref>TILLEY, Nannie M. (East Texas State Teachers College) - 3 (1946, 1950, 1956)</bibref>
+<bibref>TIMBERLAKE, Lucie Compton (United Daughters of the Confederacy) - 2 (1933, 1934) (including 1 from Hill Turner)</bibref>
+<bibref>TINLING, Marion (Huntington Library) - 1 (July 7, 1944)</bibref>
+<bibref>TINSLEY, James A. (University of Houston) - 1 (June 14, 1965)</bibref>
+<bibref>TOAL, Paul von Lilienfeld - 2 (1941)</bibref>
+<bibref>TODD, Herbert H. (Cherokee Indian Normal School) - 9 (1934, 1936-41)</bibref>
+<bibref>TOLSON, Hillory A. (U.S. Department of the Interior) - 1 (Jan. 8, 1938)</bibref>
+<bibref>TOPE, R. E. (Grand Junction Public Schools) - 1 (Oct. 17, 1927)</bibref>
+<bibref>TORCH Press, The (Edward N. Misak) - 1 (May 10, 1946)</bibref>
+<bibref>DE LA TORRE VILLAR, Ernesto (instituto Panamericano de Geografia e His-toria) - 1 (Nov. 14, 1944)</bibref>
+<bibref>TRAVISS, Sister Mary Peter, O.P. (Dominican College) - 1 (July 6, 1958)</bibref>
+<bibref>TRIPPELL, Randalin (Associated Women Students of Colorado College) - 1 (May 2, 1930)</bibref>
+<bibref>TRUETT, Randle Bond (Lincoln Institute of Kentucky) - 7 (1933, 1934, 1936, 1937)</bibref>
+<bibref>TULLIS, Coral H. (University of Texas) - 1 (Oct. 1, 1929)</bibref>
+<bibref>TURNER, Hill (Alumni Association of Vanderbilt University) - 1 (Nov. 16, 1936)</bibref>
+<bibref>TURRENTINE, S. B. (Greensboro College) - 2 (1934)</bibref>
+<bibref>UNDERWOOD, Ella Mabel - 1 (Aug. 16, 1929)</bibref>
+<bibref>VAN HOOK, Joseph O. (Mississippi Woman&#39;s College) - 4 (1935, 1937, 1938)</bibref>
+<bibref>VAN LEER, Blake R. (Georgia Institute of Technology) - 1 (Oct. 20, 1950)</bibref>
+<bibref>VAN RENSSELAER, Alexander (D. Appleton-Century Company) - 2 (1936)</bibref>
+<bibref>VAN TASSEL, David D. (The University of Texas) - 1 (Feb. 18, 1965)</bibref>
+<bibref>VANDERBILT University Press - 1 (Apr. 3, 1942)</bibref>
+<bibref>VAUGHAN, Elizabeth (Tulane University) - 1 (July 16, 1968)</bibref>
+<bibref>VENABLE, Austin L. (University of Arkansas, Winthrop College) - 39 (1935, 1937-^1, 1944-46, 1948, 1949, 1952) (including 1 from Henry R. Sims)</bibref>
+<bibref>VILES, Jonas (University of Missouri) - 2 (1936)</bibref>
+<bibref>VOEGELI, Jacque (Tulane University) - 1 (Oct. 7, 1966)</bibref>
+<bibref>VOLWILER, A. T. (Ohio University, Ohio War History Commission) - 11 (1938, 1939, 19H-46, 1948)</bibref>
+<bibref>WADE, John D. (The Georgia Review) - 3 (1938, 1946)</bibref>
+<bibref>WALKER, Curtis H. (Rice Institute, Vanderbilt University) - 39 (1923, 1923, 1926, 1929-^0, 1942, 1944-46, 1949, 1951, 1954)</bibref>
+<bibref>WALKER, Gillian S. - 1 (July 30, 1943)</bibref>
+<bibref>WALKER, William Edward - 1 (Dec. 24, 1947)</bibref>
+<bibref>WALL, Bennett H. (University of Kentucky, Southern Historical Association) - 35 (1949, 1950, 1952-55, 1957-59, 1962-67) (including 1 from Clifford L. Lord and play manuscript by Gil Fite)</bibref>
+<bibref>WALLACE, Ernest (Texas Technological College) - 2 (l943, 1967)</bibref>
+<bibref>WALLER, Chariot (Delta Kappa Epsilon) - 1 (Apr. 14, 1951)</bibref>
+<bibref>WALLER, G. M. (The American History Research Center) - 5 (1952-54)</bibref>
+<bibref>WALLER, Theresa - 1 (Feb. 16, 1950)</bibref>
+<bibref>WALLIS, C. Lamar (Rosenberg Library) - 4 (1949-50)</bibref>
+<bibref>WALTERS, John Bennett Jr. (Emory and Henry College, Alabama College) - 29 (1936, 1944, 1946-51, 1953-56, 1962)</bibref>
+<bibref>WALTERS, Everett (Ohio State University) - 1 (Jan. 27, 1960)</bibref>
+<bibref>WALTHER, Daniel (Southern Junior College) - 3 (1943-46) (including 1 from W. H. Stephenson)</bibref>
+<bibref>WARD, Judson C. Jr. (Emory University) - 1 (Dec. 22, 1949)</bibref>
+<bibref>WARD, Paul L. (American Historical Association) - 2 (1966, 1969)</bibref>
+<bibref>WARDELL, M. L. (University of Oklahoma) - 1 (Apr. 6, 1936)</bibref>
+<bibref>WARDLAW, Frank H. (University of Texas Press) - 2 (1965, 1966)</bibref>
+<bibref>WARREN, Harris G. (University of Mississippi) - 4 (l949, 1952)</bibref>
+<bibref>WARREN, Leora R. (University of California) - 1 (Apr. 8, 1931)</bibref>
+<bibref>WARREN, Robert Penn - 1 (Aug. 6, 1957)</bibref>
+<bibref>WASHINGTON, Patty W. (American Historical Association) - 8 (1921, 1922, 1924, 1942, 1955) (see also: S1IAFER)</bibref>
+<bibref>WATSON, Richard L. Jr. (Duke University, Mississippi Valley Historical Association) - 2 (1964, n.d.)</bibref>
+<bibref>WATIS, Arthur P. (University of California, University of Pennsylvania) -3 (1910, 1918, 1930)</bibref>
+<bibref>WEATHERFORD, J. M. (Weatherford Printing Company) - 1 (Apr. 14, 1933)</bibref>
+<bibref>VEAVER, Blanche Henry (Clark) (Transylvania College, Vanderbilt University, National Association of Deans of Women, Georgia Teachers College, Vanderbilt-Peabody Master of Arts in Teaching) - 38 (1937, 1939-52, 1956, 1961, n.d.)</bibref>
+<bibref>WEAVER, Herbert (Georgia Teachers College, Vanderbilt University) - 72 (1937, 1939-41, 1943-49, 1951-59, 1962, 1963, 1966, 1967, 1969) (including 1 each fromAustin Prodoehl, Guy E. Snavely, Walter B. Posey, and John Pomfret)</bibref>
+<bibref>WEBB, Walter Prescott (University of Texas) - 23 (1929-31, 1933, 1937-39, 1941, 1949, 1951, 1953-55, 1958)</bibref>
+<bibref>WEBER, William C. (Charles Scribner&#39;s Sons) - 1 (Oct. 24, 1944)</bibref>
+<bibref>WEEKLEY, Glenn E. - 1 (Oct. 2, 1949)</bibref>
+<bibref>WEEKS, Clarence N. Jr. - 2 (1954, 1959)</bibref>
+<bibref>WEISBERGER, Bernard A. - 1 (Sept. 2, 1948)</bibref>
+<bibref>WEISENBURGER, Francis P. (Ohio State University) - 9 (1938-41)</bibref>
+<bibref>WELLS, Guy H. (Georgia State College for Women) - 2 (1938,;&gt;1942&gt;0)</bibref>
+<bibref>WELLS, H. B. (Indiana University) - 3 (1945, 1946)</bibref>
+<bibref>WENTWORTII, Richard L. (Louisiana State University Press) - 3 (1963)</bibref>
+<bibref>WESLEY, Edgar B. (University of Minnesota) - 1 (May 19, 1943)</bibref>
+<bibref>WEST, Elizabeth H. (Texas State Library) - 5 (1919, 1920, 1924)</bibref>
+<bibref>WEST, Esther Irene (American Red Cross) - 1 (Apr. 18, 1945)</bibref>
+<bibref>WESTERGAARD, Waldemar (Pomona College, University of California) - 3 (1924, n.d.)</bibref>
+<bibref>WESTINGHOUSE Electric &amp; Manufacturing Company - 3 (n.d., 1934)</bibref>
+<bibref>WHEELER, Amie - 1 (Mar. 25, 1933)</bibref>
+<bibref>WHEELER, Ben - 1 (July 31, 1921)</bibref>
+<bibref>WHITAKER, Arthur P. (American Historical Association) - 1 (Jan. 4, 1946)</bibref>
+<bibref>WHITE, Frank F. Jr. (Maryland Historical Society) - 1 (Feb. 19, 1948)</bibref>
+<bibref>WHITE, Goodrich C. (Emory University) - 1 (Nov. 27, 1950)</bibref>
+<bibref>WHITE, II. F. - 1 (Dec. l6, 1927)</bibref>
+<bibref>WHITE, Robert II. (Tennessee Historical Commission, Tennessee Historical Society, Office of the State Historian) - 5 (1954, 1955, 1957, 1960)</bibref>
+<bibref>WHITE, Weldon B. (White, Gullett, Farrell &amp; Phillips) - 5 (1951) (including 1 each from W. F. Burton and Christopher Crittenden)</bibref>
+<bibref>WHITEHURST, A. L. - 1 (Jan. 29, 1932)</bibref>
+<bibref>WHITEHURST, Mrs. A. L. - 1 (Jan. 28, 1946)</bibref>
+<bibref>WHITFIELD, Theodore M. (Western Maryland College) - 3 (1943, 1944)</bibref>
+<bibref>WHITLEY, Sam H. (East Texas State Teachers College) - 1 (May 18, 1936)</bibref>
+<bibref>WHITTEMORE, Robert C. (Tulane University) - 5 (1968-70)</bibref>
+<bibref>WRITTEN, Dolphus - 1 (May 21, 1940)</bibref>
+<bibref>WILCOX, Fannie M. (Texas State Library) - 1 (June 27, 1924)</bibref>
+<bibref>WILEY, Bell I. (University of Mississippi, Army Ground Forces, Emory University, Louisiana State University) - 23 (1939, 1941-48, 1950)</bibref>
+<bibref>WILEY, Evelyn (Birmingham-Southern College) - 9 (1940, 1941, 1950, 1956, 1957, 1961)</bibref>
+<bibref>WILKERSON, M. M. (Louisiana State University Press) - 4 (1951, 1952)</bibref>
+<bibref>WILKES, M. R. - 1 (Nov. 26, 1947)</bibref>
+<bibref>WILLARD, Jack L. (Department of State) - 1 (Dec. 26, 1944)</bibref>
+<bibref>WILLARD, James F. (University of Colorado, Progress of Medieval Studies) - 8 (1927-30)</bibref>
+<bibref>WILLIAMS, Amelia (University of Texas) - 1 (Feb. 9, 1942)</bibref>
+<bibref>WILLIAMS, Clanton W. (University of Alabama, War Department, Army Air Forces) - 9 (1936, 1938, 1939, 1941, 1942, 1944, 1946)</bibref>
+<bibref>WILLIAMS, Frank B. Jr. (&quot;Pappy&quot;) (East Tennessee State College) - l8 (1946, 1948-53, 1958, 1962)</bibref>
+<bibref>WILLIAMS, Jack K. (Clemson Agricultural College) - 2 (1947)</bibref>
+<bibref>WILLIAMS, Samuel C. (Tennessee Historical Commission; Williams, Winston &amp; Guinn) - 23 (1941, 1942, n.d.) (including 1 each from Stanley Horn and Archibald Henderson)</bibref>
+<bibref>WILLIAMS, T. Harry (Louisiana State University) - 26 (1943-47, 1959)</bibref>
+<bibref>WILLIAMS, William Appleman (University of Oregon) - 1 (June 29, 1954)</bibref>
+<bibref>WILSON, B. - 2 (1945, 1946)</bibref>
+<bibref>WILSON, Charles R. (Colgate University) - 1 (June 14, 1945)</bibref>
+<bibref>WILSON, Laura Mae - 1 (n.d.)</bibref>
+<bibref>WILSON, Logan (Newcomb College) - 1 (Feb. 9, 1950)</bibref>
+<bibref>WILSON, Osburn C. - 5 (1933-35, 1937)</bibref>
+<bibref>WINDROW, J. E. (Peabody Demonstration School) - 1 (May l8, 1942)</bibref>
+<bibref>WINFREY, Dorman H. (Texas State Library) - 4 (1962, 1964) (including 1 from W. Stull Holt)</bibref>
+<bibref>WING, Herbert Jr. (Dickinson College) - 2 (1946)</bibref>
+<bibref>WINKLER, Henry R. (The American Historical Keview) - 2 (1965)</bibref>
+<bibref>WINSTON, A. P. (University of Texas) - 3 (1929, 1932, 1940)</bibref>
+<bibref>WINSTON, James E. (Newcomb College) - 3 (1936)</bibref>
+<bibref>WINTHER, Oscar O. (Indiana University) - 18 (1951, 1957-59, 1962-64)</bibref>
+<bibref>WINTON, Dorothy (Vanderbilt University) - 1 (Apr. 12, 1939)</bibref>
+<bibref>WIRTH, Conrad L. (U.S. Department of the Interior) - 1 (Apr. 27, 1935)</bibref>
+<bibref>WIRTH, Fremont P. (Peabody College) - 5 (1931, 1934, n.d.) (including 1 from E. H. Stillwell)</bibref>
+<bibref>WISH, Harvey - 3 (1943)</bibref>
+<bibref>WITTKE, Carl (Oberlin College, Western Reserve University) - 18 (1944-46, 1951-53, 1955-57)</bibref>
+<bibref>WOODFIN, Maude H. (University of Richmond) - 1 (Sept. 1, 1943)</bibref>
+<bibref>WOODS, J. B. (University of Tennessee) - 1 (Oct. 27, 1953)</bibref>
+<bibref>WOODWARD, C. Vann (Southern Historical Association) - 2 (1944, 1952)</bibref>
+<bibref>WOODY, Robert H. (Duke University) - 17 (1936, 1937, 1942, 194-48)</bibref>
+<bibref>WOOLPOLK, Sarah Van - 2 (1956)</bibref>
+<bibref>WORK, Agnes (Herbert Hoover Senior High School) - 1 (Mar. 14, 1938)</bibref>
+<bibref>WREDEN, Nicholas (E.P. Dutton &amp; Co.) - 1 (Jan. 17, 1950)</bibref>
+<bibref>WRIGHT, E. Baskin (University of Alabama) - 1 (Mar. 30, 1932)</bibref>
+<bibref>WRIGHT, Louis B. (Huntington Library) - 3 (1948, 1953)</bibref>
+<bibref>WROE, Ed. R. L., Jr. (The American National Bank) - 1 (Aug. 22, 1963)</bibref>
+<bibref>WUEST, Lillian G. (Historical and Philosophical Society of Ohio) - 1 (Jan. 12, 1943)</bibref>
+<bibref>WYMAN, Walter D. - 1 (Apr. 24, 1949)</bibref>
+<bibref>YARBROUGH, W. II. (Peabody Demonstration School) - 1 (Jan. 21, 1931)</bibref>
+<bibref>YATES, Richard E. (South Georgia College, Hendrix College) - 52 (1934-^0, 1942-46, 1949, 1957, 1958, 1966) (including 1 from Henry E. Bourne, 2 from W. T. Couch)</bibref>
+<bibref>WENTES, Margaret B. (United Daughters of the Confederacy) - 1 (Jan. 26, 1949)</bibref>
+<bibref>YOUNG, Donald (Social Science Research Council) - 11 (1932-34) (including 3 from Virginia Pero)</bibref>
+<bibref>YOUNG, Harvey (Emory University) - 4 (1948, 1950, 1959)</bibref>
+<bibref>YOUNGER, Ed (Naval War College) - 1 (Feb. 16, 1961)</bibref>
+<bibref>YZENBAARD, John II. - 1 (Mar. l6, 1944)</bibref>
+<bibref>ZEIGEL, Elizabeth H. (Mississippi Delta State Teachers College) - 1 (Dec. 1, 1932)</bibref>
+<bibref>ZEPI, Erwin C. (Ohio State Archaeological and Historical Society) - 1 (Apr. 17, 1946)</bibref>
+<bibref>ZORN, Roman J. (University of Missouri) - 1 (Jan. 20, 1951)</bibref>
+</bibliography>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>BINKLEY: Incoming Correspondence &#8212; Addenda</unittitle>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>ABRAHAMS, Samuel</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1946)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>ACKEKMAN, J. D.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1930)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>AESCHBACHER, W. D.</unittitle>
+<physdesc><extent>25</extent></physdesc>
+<unitdate>(1957-61, n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BACARISSE, Charles and Ellie</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1963)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BAILEY, J. O.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1949)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BEACH, Leonard B. (Vanderbilt University)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1953)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BEATSON, J. W. (National Economic League)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1929)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BERGNER, Merton</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1927)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BORGES, E. Gil (Pan American Union)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1925)</unitdate>
+<note><p>(to Erwin F. Meyer)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BRILL, E. J.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1957)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>BROWN, George W. Canadian Historical Review)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1942)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>CLEVERDON, L. G. (Judson College)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1938)</unitdate>
+<note><p>(to Kenneth McDonald)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>COLE, Arthur C. (M.V.H.R.)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1935)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>COLE, Fred (Tulane University)</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1954, 1956)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>COTNER, R. (University of Texas)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>COWLES, Porter (University of North Carolina Press)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1942)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>COX, Isaac J.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1936)</unitdate>
+<unitdate>(to T. R. Hay)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>CRITTENDEN, Christopher (North Carolina Dept. of Archives and History)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1951)</unitdate>
+<note><p>(to A. F. Kuhlman)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>CROWELL, J. W.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1926)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>CURTI, Merle (University of Wisconsin)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1945)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>DAVIDSON, Philip</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1948, 1951)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>DAVIS, Lambert (University of North Carolina Press)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1949)</unitdate>
+<note><p>(to G. W. Stocking)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>DAVIS, Robert E.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1964)</unitdate>
+<unitdate>(to W. Stull Holt)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>DODD, William E. (University of Chicago)</unittitle>
+<physdesc><extent>1930</extent></physdesc>
+<unitdate>(to Curtis H. Walker)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>DUMOND, Dwight L. (M.V.H.A.)</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1953)</unitdate>
+<note><p>(to C. S. Paine, M. L. Springer)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>GEER, Russel M. (Tulane University)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1955)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>GRIMES, Irwin L.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>HANKE, Lewis</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1941)</unitdate>
+<note><p>(to Prof. Nettels)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>HENDERSON, Gerald (Vanderbilt University)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1930)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>HESSELTINE, W. B. (University of Wisconsin)</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1939)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>HILL, Jim Dan (Wisconsin State College)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1957)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>HOGAN, William R.</unittitle>
+<physdesc><extent>8</extent></physdesc>
+<unitdate>(1954, 1956, 1957, n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>HORN, Stanley F. (Tennessee Historical Society)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1943)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>HULBERT, Archer B.</unittitle>
+<physdesc><extent>3</extent></physdesc>
+<unitdate>(1926, n.d.)</unitdate>
+<note><p>(1 from Elsie Baier)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>KELLY, Alfred H. (Wayne State University)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1961)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>KOONTZ, Louis Knott (U.C.L.A.)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1950)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>KUHLMAN, A. F. (Joint University Libraries)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<note><p>(to Earl F. Cruickshank)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LEEBRICK, K. C.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1920)</unitdate>
+<note><p>(to L. L. Lewis)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LEOPOLD, Richard W.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1963)</unitdate>
+<note><p>(to O. O. Winther)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LORD, Clifford L. (State Historical Society of Wisconsin)</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1952-53)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LOUISIANA State University Press</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1947)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LUMIANSKY, R. M. (Tulane University)</unittitle>
+<physdesc><extent>7</extent></physdesc>
+<unitdate>(154, 1955, 1957, 1962)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>M.V.H.R.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1946)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>MARTIN, Thomas P.</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1950)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>MAXWELL, Allen (Southwest Review)</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1946)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>MEYER, Erwin F.</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1926, 1928)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>MOE, Henry Allen (Guggenheim Foundation)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>MURPHY, Malcolm</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1926)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>NETTELS, Curtis P.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1942)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>OLSON, James C. (M.V.H.A.)</unittitle>
+<physdesc><extent>6</extent></physdesc>
+<unitdate>(1954-56)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>OWSLEY, Frank L.</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1933, n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>PAINE, Clara S. (m.v.h.a.)</unittitle>
+<physdesc><extent>9</extent></physdesc>
+<unitdate>(1940-43, 1946, 1952, n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>PAINE, CUfcgfice S. (Oklahoma City Libraries)</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1953, 1959)</unitdate>
+<note><p>peery, William (Tulane University)</p></note>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1956, 1957)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>PROVINE, W. A. (Tennessee Historical Society)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1933)</unitdate>
+<note><p>(to F. C. Paschal)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>RAMALEY, Francis (University of Colorado)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1930)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>RIPPEY, J. Fred (University of Colorado)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1926)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>RYAN, Robert F. (Tulane University)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1970)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>SCHEPS, Clarence (Tulane University)</unittitle>
+<physdesc><extent>4</extent></physdesc>
+<unitdate>(1954, 1955, 1957)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>SCHOLES, France</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1926)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>SILSBY, Robert W. (Kenmore West Senior High School)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1960)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>STAPLES, Dr.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1938)</unitdate>
+<note><p>(copy)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>STEPHENSON, W. H.</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1953, n.d.)</unitdate>
+<note><p>(1 from Patricia Johnson)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>STOCKING, George W. (Vanderbilt University)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1953)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>STRAUSS, Harold (Alfred A. Knopf, Inc.)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1940)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>SUMMERSELL, Charles</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(n.d.)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>TAYLOR, Garland F. (Tulane University)</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1954)</unitdate>
+<note><p>(1 from R. E. Ellsworth)</p></note>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>TODD, Herbert H. (Cherokee Indian Normal School)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1940)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>UNDERWOOD, Ella Mabel</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1934, 1935)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>UPHAW, A. H. (University of Idaho)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1921)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>UPTON, Lulu N.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1925)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WALKER, Curtis h.</unittitle>
+<physdesc><extent>2</extent></physdesc>
+<unitdate>(1943, 1946)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WALLER, G. M. (American History Research Center)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1953)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WASHINGTON, P. W. (American Historical Association)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1926)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WEAVER, Herbert</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1946)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WHITE, Goodrich C. (Emory University)</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1948)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WILEY, Bill</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1942)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WILKIE, Emily D. (University of California Press)</unittitle>
+<physdesc><extent>5</extent></physdesc>
+<unitdate>(1923, 1924)</unitdate>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>WILLIAMS, Samuel C.</unittitle>
+<physdesc><extent>1</extent></physdesc>
+<unitdate>(1937)</unitdate>
+</did>
+</c01>
+</dsc>
+<bibliography>
+<head>Subject Index to Correspondence (Based on Dr. Binkley&#39;s files)</head>
+<bibref><emph render="underline">American Archivist</emph> article, 1965. See: Isabel Howell, Ken Munden.</bibref>
+<bibref>American Association for State and Local History, 196O-1965. See William T. Alderson, Clifford L. Lord.</bibref>
+<bibref>American Historical Association, 1956-1962. See Boyd C. Shafer.</bibref>
+<bibref>-----. Correspondence, 1919-1950. See Howard K. Beale, J.L. Bickley, Henry E. Bourne, Elmer Ellis, Guy Stanton Ford, Ralph H. Gabriel, Lewis Hanke, Waldo G. Leland, Chester Martin, Richard L. Morton, Curtis Nettels, Dexter Perkins, Lowell Joseph Ragnatz, Conyers Read, Culver H. Smith, w.H. Stephenson, Patty W. Washington, Francis P. Weisenburger.</bibref>
+<bibref>-----. Beveridge Fund Committee, <emph render="underline">Texas Revolutionary Correspondence</emph>, 1952-1937• See Mary Louise Almgren, J.S. Ibbotson, Bertha Joseph-son, K. D. Metcalf, Roy F. Nichols, F.S. Pease, Jr., Ulrich B. Phillips, Harriet Smither, Phelps Soule, Alexander Van Rensselaer.</bibref>
+<bibref>-----. Harmsworth Committee, 1955- 1958. See Boyd C. Shafer, Carl Wittke.</bibref>
+<bibref>Archives Survey correspondence, 1934-1940. See Robert Cassell, Luther H. Evans, P. M. Hamer, T. Marshall Jones, Joseph Mayer, A. R. Newsome, Frank W. Prescott.</bibref>
+<bibref>American History Research Center, Advisory Council. See Clifford M. Lord, Forrest McDonald, George M. Waller.</bibref>
+<bibref><emph render="underline">Dictionary of American Biography</emph>, 1931-1941« See Ellen D. Fawcett, Dumas Malone, Harris E. Starr.</bibref>
+<bibref><emph render="underline">Dictionary of American History</emph>, 1938. See R. V. Coleman.</bibref>
+<bibref>East Tennessee Historical Society, 1931-1943. See Martha L. Ellison, S. J. Folmsbee, P. M. Hamer, Jennings B. Sanders.</bibref>
+<bibref>Fleming Lectures, 1951-1962. See Winnie Allen, A. B. Benedict, Thomas D. Clark, Robert E. Davis, Joan Doyle, Guy Stanton Ford, Marie Hammond Parker, Charles Elson Roemer, May L. Sherrard, Anne W. Smith, Charles E. Smith, Patricia Smylie, Bell I. Wiley, M. M. Wilkerson, William Appleman Williams.</bibref>
+<bibref><emph render="underline">Hispanic America History Review</emph>, 1923-1933. See James A. Robertson.</bibref>
+<bibref><emph render="underline">Journal of Southern History</emph>, 1964-1965. See Phil Detweiler.</bibref>
+<bibref>Houston, University of, 1965-1966. See John C. Allred, Allen J. Going, John W. Meaney, Alfred R. Neumann, James A. Tinsley.</bibref>
+<bibref>Mississippi Valley Historical Association, 1923-1944. See Ralph P. Bieber, Harold W. Bradley, Marguerite B. Haradr; George F. Howe, Clara S. Paine, Louis Pelzer, Edgar B. Wesley.</bibref>
+<bibref>-----. Austin meeting, 1936. See Herbert E. Bolton, Arthur C. Cole, I. J. Cox, C. M. Destler, Elmer Ellis, Robert P. Felgar, Lucy Lockwood Hazard, Ernest E. Heisey, George F. Howe, Samuel A. Johnson, Bertha E. Josephson, H. C. Nixon, Clara S. Paine, Louis Pelzer, Francis B. Pinkins, Charles W. Ramsdell, Rupert N. Richardson, Siert F. Riepma, C. C. Rister, Earle D. Ross, Rebecca W. Smith, Alfred B. Thomas, M. L. Wardell, James E. Winston.</bibref>
+<bibref>-----. Program Committee, 1937-1939. See John D, Barnhart, T. D. Clark, W. B. hesseltine, George F. Howe, V. A. Moody, J. G. Randall, C. C. Rister, J. L. Sellers, Francis P. Weisenburger.</bibref>
+<bibref>-----. Local Arrangements, 1939. See J. L. Highsaw, Lawrence H. Levy, R. E. Logsdon.</bibref>
+<bibref>-----. Abolition, 1938-1939. See Lewip E. Atherton, Arthur C. Cole, Bertha C. Josephson, Robert G. Lunde, Joseph C. Robert, Henry H. Simms, Francis P. Weisenberger.</bibref>
+<bibref>-----. Mid-West Democracy, 1938-1939. See John D. Hicks, H. C. Hubbart, Jeannette P. Nichols, J. G. Randall.</bibref>
+<bibref>-----. North-South Relations, 1938-1939. Arthur C. Cole, Avery Craven, Paul W. Gates, Herbert A. Kellar, Louis Bernard Schmidt.</bibref>
+<bibref>-----. Spanish Interests, 1938-1939. Arthur S. Aiton, Philip C. Brooks, I. J. Cox, Charles W. Hackett, E. Wilson Lyon, Charmion Shelby, Alfred B. Thomas.</bibref>
+<bibref>-----. Luncheon: Research Materials, 1938-1939. See: Clarence E. Carter, Charles W. Ramsdell.</bibref>
+<bibref>-----. Great Plains, 1938-1939. See: Everett N. Dick, Louis Pelzer, C. C. Rister, Herbert S. Schell, Alfred B. Sears.</bibref>
+<bibref>-----. Foreign Policy, 1938-1939. Seer Elmer Ellis, George F. Howe, David Thomas, A. T. Volwiler.</bibref>
+<bibref>-----. Dinners, 1939« See: W. R. Herstein, Charles W. Ramsdell, W. H. Stevenson.</bibref>
+<bibref>-----. Joint Session, 1938-1939. See: Gerald M. Capers, Jr., F. G. Davenport, Philip M. Hamer, Jennings B. Sanders, Mack Swearingen, Charles S. Sydnor.</bibref>
+<bibref>-----. Humor Session, 1938-1939. See: E. Merton Coulter, A. P. Hudson, Edd Winfield Parks, William J. Peterson, John Wade.</bibref>
+<bibref>-----. Teachers Section, 1938-1939. See: C. M. Destler, Elmer Ellis.</bibref>
+<bibref>-----. Memphis meeting, 1939. miscellaneous. See: Theodore C. Blegen, C. M. Destler, Fletcher M. Green, B. E. Josephson, Robert P. Ludlum, William O. Lynch, Louis Pelzer, Alfred B. Sears, Richard N. Shryock, A. T. Volwiler, Francis P. Weisenberger.</bibref>
+<bibref>-----. President, 1938-1939. See: William O. Lynch.</bibref>
+<bibref>-----. Secretary, 1938-1938. See: Clara S. Paine.</bibref>
+<bibref>-----. Special Committee, 1944. See: Paul M. Angle, Theodore C. Blegen, Merle Curti, E. E. Dale, Herbert A. Kellar, Harlow Lindley, William O. Lynch, Archibald MacLeish, Douglas C. McMurtrie, J. Monaghan, Stanley Pargellis, Louis Pelzer, Mildred Throne.</bibref>
+<bibref>-----. Correspondence, 1944. See: Preston B. Albright, Matthew Page Andrews, Thomas L. Bailey, John D. Barnhart, J. Neilson Barry, Edward L. Bernays, Theodore C. Blegen, H. C. Brearley, T. D. Clark, G. N. Fuller, Colin B. Goodykoontz, J. D. Hicks, James W. Moffitt, George E. ttowry, W. S. O'Keefe, Clara S. Paine, William J. Peterson, Clayton Rand, Carl Coke Rister, Herbert S. Schell, Louis Bernard Schmidt, J. L. Sellers, Joe Patterson Smith, Mildred Throne, A. T. Volwiler, T. Harry Williams.</bibref>
+<bibref>-----. Miscellaneous correspondence, 1944-1946. See: G. C. Barker, John D. Barnhart, Harold J. Bingham, 13. P. Brodinsky, Fred Cole, Merle Curti, E. E. Dale, Dwight L. Dumond, J. G. de Roulhac Hamilton, Robert S. Henry, A. L. Kohlmeier, William O. Lynch, Jeannette P. Nichols, Clara S. Paine, Frederic L. Paxson, Mildred W. Peker, William J. Peterson, M. M. ^uaife, Carl Coke Rister, Henrietta Thornton, H. B. Wells, Carl Wittke.</bibref>
+<bibref>-----. Correspondence as President,-1944-1946. See: John D. Barnhart, Ray A. Billington, Theodore C. Blegen, Harold W. Bradley, T. D. Clark, Joseph E. Cross, Merle Curti, Randolph C. Downes, Luther H. Evans, Paul W. Gates, L. R. Hafen, A. L. Kohlmeier, William O. Lynch, Robert M. Magee, Jeannette P. Nichols, R. C. Overton, Clara S. Paine, Clarence S. Paine, Stuart Palmer, Louis Pelzer, M. M. Quaife, Carl Coke Rister, J. L. Sellers, Joe Patterson Smith, Mildred Throne, A.T. Volwiler, H. B. Wells, Carl Wittke.</bibref>
+<bibref>-----. Executive Committee, 1946-1948. See: Dwight L. Agnew, O. Fritiof Ander, John D. Barnhart, Ralph P. Bieber, Theodore C. Blegen, Thomas D. Clark, Elmer Ellis, Frank Freidel, W. W. Gewehr, Colin B. Goodykoontz, Wood Gray, Fred Harvey Harrington, Herbert A. Kellar, Jean B. Kern, William O. Lynch, Clara S. Paine, Louis Pelzer, Erma Risch, Earle D. Ross, W. H. Stephenson.</bibref>
+<bibref>-----. Correspondence, 1948-1949. See: John D. Barnhart, Kalph P. Bieber, Theodore C. Blegen, E. E. Dale, Dwight L. Dumond, Fred Harvey Harrington, Walter B. Hendrickson, Clara S. Paine, Howard H. Peckham, William J. Peterson, Carlton C. Qualley, Hubert S. Schell, J. L. Sellers.</bibref>
+<bibref>-----. Madison meeting, 1949-1951. See: Lucille Abbott, George L. Anderson, Ralph P. Bieber, Fred Cole, Everett Dick, Dwight Dumond, Elmer Ellis, Donald B. Hoffman, Herbert A. Kellar,,George E. Mowry, Reginald C. ^cGrane, Richard C. Overton, Clara S. Paine, Clarence S. Paine, Howard H. Peckham, William J. Peterson, Carl Coke Rister, Walter D. Wyman.</bibref>
+<bibref>-----. Correspondence, 1951-1955. Seel Paul M. Angle, Harold W. Bradley, Fred Cole, Richard N. Current, Merle Curti, E. E. Dale, Dwight Dumond, Joe B. Frantz, Paul W. Gates, W. B. Hesseltine, George H. Knoles, Thomas LeDuc, Clifford L. Lord, R. C. McGrane, George Mowry, Clara S. Paine, Howard H. Peckham, Carl Coke Rister, James Lee Sellers, W. H. Stephenson, Harris G. Warren, Carl Wittke.</bibref>
+<bibref>----. Correspondence, 1953-1954. See: W. Burlie Brown, Richard N. Current, Dwight Dumond, Donald E. Everett, Fletcher M. Green, R«gi-nald C. McGrane, George Mowry, James C. Olson, Clara S. Paine, Clarence S. Paine, William J. Peterson, James Lee Sellers, W. H. Stephenson, W. P. Webb, Carl Wittke.</bibref>
+<bibref>-----. Secretary-Treasurer, 1953-1955. See: James C. Olson.</bibref>
+<bibref>-----. Program Committee, 1954-1957. See Lewis Atherton, Gilbert C. Fite, Joe B. Frantz.</bibref>
+<bibref>-----. Executive Committee, 1955-1956. See: George L. Anderson, James C. Olson.</bibref>
+<bibref>-----. Publications Committee, 1955-1956. See: George L. Anderson, Dwight L. Dumond, O. H. Dickerson, James C. Olson.</bibref>
+<bibref>-----. Seeretary-Treasurer, 1955-1956. See: James C. Olson, Paul R. Strain.</bibref>
+<bibref>-----. Secretary-Treasurer, 1956-1957. See: W. D. Aeschbacher, James C. Oloon.</bibref>
+<bibref>-----. Secretary-Treasurer, 1957-1958. See: W. D. Aeschbacher, W. 11. Stephenson.</bibref>
+<bibref>-----. Secretary-Treasurer, 1958-1959. See: W. D. Aeschbacher, Wilbur R. Jacobs.</bibref>
+<bibref>-----. Affairs, 1959-1960. See: W. D. Aeschbacher, Thomas D. Clark, Fletcher M. Green.</bibref>
+<bibref>-----. Seeretary-Treasurer, 1959-1961. See: W. D. Aeschbacher, Irwin L. Grimes, Walter R. Nelson, Jerry Sallis, Robert W. Silsby, Phillip Thomson.</bibref>
+<bibref><emph render="underline">Mississippi Valley Historical Review</emph>, 1934-1946. See: Arthur C. Cole, Lester Driver, Bertha E. Josephson, Howard Kramer, Naylor Company, Louis Pelzer, M. M. Quaife, Torch Press.</bibref>
+<bibref>-----. Budget correspondence, 1954-1962. See Roger P. McCutcheon.</bibref>
+<bibref>-----. Staff - Recommendations and correspondence, 1956-1962. See: Jim Baughman, Lawrence Burnette, Jr., Joseph E. Dellen, Philip Detweiler, Emily Drum, Allen J. Going, Libby Greicus, Ralph W. Hidy, William R. Hogan, Marianne Komodore, R. A. Koy, Robert W. Lovett, R. M. Lumiansky, Beverly B. Madron, Mrs. John C. Sallis, Clarence Scheps, Robert J. Stone, Emily Swnaton, Sarah Van Woolfolk.</bibref>
+<bibref>-----. Winter-Mooney correspondence, 1962-1962. See Chase Mooney, Oscar O. Winther.</bibref>
+<bibref>-----. Correspondence, 1963-1964. See: W.D. Aeschbacher, Lawanda Cox, Sue Dye, Dorothy V. Jackson, James C. Olson, Bennett H. Wall, Richard L. Watson, Jr., Oscar O. Winther.</bibref>
+<bibref>M.A. Candidates (former), 1933-1953. See: Elizabeth Claughton Bingham, William Blue, Dick Boiling, Addie Lou Brooks, Walter D. Cocking, Margaret Burr DesChamps, Morrill Donald, John O. Eidson, Luida B. Gallaway, P. M. Hamer, Isabelle Green Kegley, Margaret Kinard, C.S. Lowry, Charles D. Matthews, William E. Martin, Geraldine Meroney, Louise Osborne, F.C. Paschal, Elizabeth Peeler, J.E. Pomfret, Walter B. Posey, Lisle A. Rose, Leon F. Sensabaugh, Richard H. Shryock, Lois Thomas, Glenn E. Weekley, Evelyn Wiley.</bibref>
+<bibref>NUCMC Paper, 1964. See Haskell Monroe, Harriet C. Owsley.</bibref>
+<bibref>Santa Ana High School, Class of '10A. See: H.O. Eggen, Kate Hinton, Olive Kirkpatrick, Nellie Lolmaugh, Ed McFadden.</bibref>
+<bibref>Social Science Research Council, 1933-1952. See: Carolyn E. Allen, Joseph B. Casagrande, Robert T. Crane, John E. Pomfret, Walter R. Sharp, Elbridge Sibley, Donald Young.</bibref>
+<bibref>Southern Historical Association - Journal, 1934-1942. See John D. Barn-hart, Fred Cole, Thomas Kearney, W. H. Stephenson.</bibref>
+<bibref>-----. Program, Birmingham meeting, 1935« See: Kathryn T. Abbey, Thomas P. Abernethy, E. Merton Coulter, Fletcher M. Green, L.G. Helderman, Charles M. Knapp, Ella Lonn, Ross H. McLean, H.C. Nixon, James W. Patton, C.H. Pegg, Walter B. Posey, Charles W. Ramsdell, Guy E. Snavely, W. H. Stephenson, M. Swearingen, Charles S. Sydnor.</bibref>
+<bibref>-----. Nashville meeting, 1936-1938. See: J.M. Batten, Howard E. Baughman, Fred Cole, E. Merton Coulter, W.O. Daugherty, Frank Davis, Fletcher M. Green, W. Murray Hogan, w. King, Hill McAlister, Winifred H. McLean, James W. Moffitt, Edd Parks, Ralph Perry, Charles W. Ramsdell, Linda Rhoa, Culver H. Smith, Hill Turner, R.H. Woody.</bibref>
+<bibref>-----. General Matters, 1936-1941. See: Sydney Banks, Thomas D. Clark, Edwin A. Davis, Fletcher M. Green, P.M. Hamer, Herbert A. Cellar, James W. Patton, Walter Prichard, T.H. Reynolds, W.H. Stephenson.</bibref>
+<bibref>-----. Correspondence as President, 1949-1952. W.G. Bean, John K. Bettersworth, James C. Bonner, William A. Bultman, Lester J. Cappon, Jane Carson, Gordon T. Chappell, Paul H. Clyde, Elizabeth Cometti, E.M. Coulter, Avery Craven, Edwin A. Davis, J.H. Easterby, James S. Ferguson, Gilbert C. Fite, Milton Fleetwood, Tom Govan, U.S. Grant 3rd, Wood Gray, Kathryn Abbey Hanna, J. Wesley Hoffman, William D. Hoyt, Jr., Frontis W. Johnston, Lillian Kibler, A.D. Kirwan, Hugh T. Lefler, Thomas P. Martin, Joseph J. Mathews, Bernard Mayo, J.R. McCain, Shelby T. McCloy, Horace Montgomery, David Owen, Donnell M. Owings, Walter B. Posey, William H.E. Rachal, A.B. Sears, Henry T. Shanks, J. Carlisle Sitterson, C.W. Tebeau, E. Bruce Thompson, Lawrence S. Thompson, Nannie M. Tilley, Bla/ke R. Van Leer, Bennett H. Wall, Theresa Waller, Goodrich C. White, C. Vann Woodward.</bibref>
+<bibref>-----. Presidential Address. See: Winnie Allen, Leslie E. Bliss, Harold W. Bradley, Frances Clifton, E. <emph render="super">M</emph>erton Coulter, E.E. Dale, Llerena Friend, Fletcher M. Green, J.G. de Roulhac Hamilton, George Hammond, Lawrence F. Hill, W. Stull Holt, Robert W. Johannsen, Margaret Kinard, Joe Mathews, Clarence S. Paine, ^ames W. Patton, Charley Smith, Walter Prescott Webb, O.°. Winther.</bibref>
+<bibref>-----. Secretary, 1942-1953. See: James W. Patton, J. Carlyle Sitterson, Bennett Wall.</bibref>
+<bibref>-----. Correspondence, 1957-1963. See: Neva Armstrong, Werner H. Barth, Will D. Gilliam, Jr., William B. <emph render="sub">H</emph>esseltine, John F. Merriam, R.W. Patrick, James W. Patton, Walter B. Posey, O.C. Skipper.</bibref>
+<bibref>Southern Humanities Conference, 1946-1952. See: J.O. Bailey, Meredith P. Crawford, Hazel Farris, i&lt;.B. House, John E. Ivey, Jr., Sturgis E. eavitt, Edward D. Myers.</bibref>
+<bibref>Southern University Conference, Committee on Research, 1947-1950. See: Charles E. Diehl, Umphrey Lee, Edward McCrady, Logan Wilson.</bibref>
+<bibref>Tennessee History, miscellaneous, 1931-1946. See: Kenneth Byerly, Paul G. Caywood, R.E. Clarkson, Arthur Crownover, Jr., Stanley J. Folmsbee, Olaf T. Hagen, S.E. Henderson, T. Marshall Jones, Samuel E. Linton, Fred W. Lorch, K.H. Mason, Stanley W. McClure, Abby Crawford Milton, C.D. Montgomery, W.B. Nicholson, J.M. Smith, P.M. Stevenson, Fremont P. Wirth.</bibref>
+<bibref><emph render="underline">Tennessee Historical quarterly</emph> - Judge Williams, 1941-1943. See Hallum W. Goodloe, Archibald Henderson, Stanley F. <emph render="super">n</emph>orn, RHW, Samuel C. Williams.</bibref>
+<bibref>-----. Correspondence, 1942-1943. See: Mrs. A.M. Barrow, Addie Lou Brooks, H.M. Browning, Edmund O. Burnett, L. Dortch ^urton, John W. Craddock, C.C. Crittenden, Arthur Crownover, Jr., Sue Ellen Delaney, Mrs. John H. DeWitt, Emma Farrell, W.W. Faw, S.J. Folmsbee, Hallum W. Goodloe, Mildred Haun, A.H. Hepburn, Stanley F. Horn, Thelma James, Robert L. Kincaid, Guy Miles, James W. Moffitt, Mrs. John Trotwood Moore, Elizabeth Peeler, Louis Pelzer, James J. Snipes, Margaret H. Stone, Kate T. Stout, Charles S. Sydnor, David Y. Thomas, E. Bruce Thompson, Vanderbilt University Press, J.E. Windrow, Lillian C. Wuest.</bibref>
+<bibref>Tennessee Historical Society. Correspondence, 1931-1951. See Clarence E. Carter, John H. DeWitt, Stanley Horn, Frank W. Prescott.</bibref>
+<bibref>-----. Special Committee, 1937-1944. See: Clyde Ball, W.A. Bass, H. Hale Bellot, Cullom &#38; Ghertner, Luther H. Evans, W.B. Haynie, W.B. <emph render="super">n</emph>esseltine, Stanley F. Horn, R.B.C. Howell, S.F. Riepma, Samuel C. Williams.</bibref>
+<bibref>Territory Papers, 1933-1952. See: Richard M, Atkinson, Harold H. Burton, Clarence E. Carter, R.S. Cotterill, Herbert Gambrell, George P. Hammond, Carl Hayden, Lister Hill, Cordell Hull, Elmer T. Hutchinson, J. Walter Lambeth, Archibald MacLeish, Thomas E. Martin, Burnet R. Maybank, Kenneth D. McKellar, J. Percy Priest, M.M. Quaife, Richard B. Russell, Mrs. Rutledge Smith, E. Wilder Spaulding, Walter P. Webb.</bibref>
+<bibref>Texas State Historical Association, 1941, 1947 • See: Walter P. Webb.</bibref>
+<bibref>Texas University Library, 1937-1941. See: Winnie Allen, David Coney, Keith Davis, Marcelle Lively Hamer, Charles Rothe.</bibref>
+<bibref>Texas, University of, Press, 1967- See: David H. Gilbert.</bibref>
+<bibref>Tulane University, 1963-1964. See: W.D. Aeschbacher, <emph render="super">H</emph>erbert E. Longe-necker, William Peery, Clarence Scheps, John Snell.</bibref>
+<bibref>Tulane, University College, 1968-1970. See: Emily Clarke, John P. Dyer, Robert C. Whittemore.</bibref>
+<bibref>Texas Records Correspondence, 1962-1963. See: James M. Day, Joe B. Frantz, John W. Meaney, Frank H. wardlaw, Dorman Winfrey.</bibref>
+<bibref>Texas, University of, Correspondence, 1930-1943. See: H.Y. Benedict, J.W. Calhoun, Mrs. P.S. Clarke, Milton R. Gutsch, Charles W. Hackett, Hilda Wilcox Phelps, Homer P. Rainey, Thad W. Riker, -Lorn Rousse, W.p. Webb.</bibref>
+<bibref>Vanderbilt position, correspondence, 1930. See: Aileen Bishop, William E. Dodd, L.C. Glenn, Gerald D, Henderson, J.H. Kirkland, Charles C. Mierow, Frank L. Owsley, F.C. Paschal, Curtis H. Walker.</bibref>
+</bibliography>
+</archdesc>
+</ead>

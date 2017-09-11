@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Glenn, Leonidas Chalmers Papers</titleproper>
+<titleproper>Finding Aid for the Leonidas Chalmers Glenn Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>Undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Leonidas Chalmers Glenn</unittitle>
+<unitid>MSS.0171</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">8.75 linear feet</extent>
+</physdesc>
+<unitdate>Undated</unitdate>
+</did>
+<bioghist>
+<head>Biographical Sketch</head>
+<chronlist>
+<chronitem>
+<date>September 8, 1871</date>
+<event>Born near King&#8217;s Mountain, North Carolina; son of William D. and Sarah P. Glenn; boyhood spent in Crowders Creek valley , North Carolina</event>
+</chronitem>
+<chronitem>
+<date>1891</date>
+<event>Bachelors degree, University of South Carolina</event>
+</chronitem>
+<chronitem>
+<date>1891-1896</date>
+<event>Teacher i n South Carolina Public Schools</event>
+</chronitem>
+<chronitem>
+<date>1894-1896</date>
+<event>Superintendent o f schools, Darlington, South Carolina</event>
+</chronitem>
+<chronitem>
+<date>Summer, 1896</date>
+<event>Attended Harvard University (studied under William Morris Davis)</event>
+</chronitem>
+<chronitem>
+<date>1896-1899</date>
+<event>Doctorate work at Johns Hopkins University; Ph.D. awarded, 1899</event>
+</chronitem>
+<chronitem>
+<date>1899-1900</date>
+<event>Adjunct professor geology and biology, University of South Carolina</event>
+</chronitem>
+<chronitem>
+<date>September 12, 1900</date>
+<event>Married Nellie Louise McCullough, of Darlington , S.C.</event>
+</chronitem>
+<chronitem>
+<date>Fall, 1900</date>
+<event>Became adjunct professor of geology, Vanderbilt University</event>
+</chronitem>
+<chronitem>
+<date>1903</date>
+<event>Became full professor and chairman of Department of Geology, Vanderbilt</event>
+</chronitem>
+<chronitem>
+<date>1928</date>
+<event>Became head of Science Division , Vanderbilt</event>
+</chronitem>
+<chronitem>
+<date>1942</date>
+<event>Retired as Emeritus Professor of Geology, Vanderbilt</event>
+</chronitem>
+<chronitem>
+<date>1900-1908</date>
+<event>Assistant geologist with United State Geological Survey</event>
+</chronitem>
+<chronitem>
+<date>1916-1917</date>
+<event>On leave to work with Sinclair Oil Company</event>
+</chronitem>
+<chronitem>
+<date>1918</date>
+<event>Acting state geologist, Tennessee</event>
+</chronitem>
+<chronitem>
+<date>1918-1919</date>
+<event>Special agent in oil and gas valuation , Department of Internal Revenue</event>
+</chronitem>
+<chronitem>
+<date>1919</date>
+<event>Geological expert i n Red River boundary dispute between Oklahoma and Texas, Department of Justice</event>
+</chronitem>
+<chronitem>
+<date>1935-1951</date>
+<event>Member of Board of Consultants, Tennessee Valley Authority Consultant, United States Army Corps of Engineers</event>
+</chronitem>
+<chronitem>
+<date>January 11, 1951</date>
+<event>Died, Nashville.</event>
+</chronitem>
+</chronlist>
+</bioghist>
+<dsc type="othertype">
+<c01 level="item">
+<did>
+<daogrp>
+<daodesc><p>Nashville <emph render="underline">Tennessean</emph>, 1974</p></daodesc>
+<daoloc xlink:href="../image/f0171_1.jpg"></daoloc>
+</daogrp>
+<daogrp>
+<daoloc xlink:href=""></daoloc>
+</daogrp>
+<daogrp>
+<daodesc><p>Nashville <emph render="underline">Tennessean</emph>, February 7, 1938</p></daodesc>
+<daoloc xlink:href="../image/f0171_2.jpg"></daoloc>
+</daogrp>
+<daogrp>
+<daoloc xlink:href=""></daoloc>
+</daogrp>
+<daogrp>
+<daodesc><p>Nashville <emph render="underline">Tennessean</emph>, February 9, 1938</p></daodesc>
+<daoloc xlink:href="../image/f0171_3.jpg"></daoloc>
+</daogrp>
+<daogrp>
+<daoloc xlink:href=""></daoloc>
+</daogrp>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<unittitle>TVA Dams</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Chatuge</unittitle>
+<unitdate>(1941)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Cherokee</unittitle>
+<unitdate>(1940-1941)</unitdate>
+</did>
+<note>
+<p>geology, embankment design, soil laboratory report, rock forms, construction progress, photographs, consultants visi ts</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Chickamauga</unittitle>
+<unitdate>(1935-1940)</unitdate>
+</did>
+<note>
+<p>watertable profiles , geologic elements, soil foundation, embankment, progress reports on construction, resistivit y measurements, cost data, ground water investigations</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Coulter Shoals</unittitle>
+<unitdate>(1936-1939)</unitdate>
+</did>
+<note>
+<p>geologic report, constultants report, rock surface conditions</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Douglas</unittitle>
+<unitdate>(1942)</unitdate>
+</did>
+<note>
+<p>construction progress</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>Fontana</unittitle>
+<unitdate>(1942-1944)</unitdate>
+</did>
+<note>
+<p>information for consultants</p>
+</note>
+</c02>
+</c01>
+<c01 level="item">
+<did>
+<unittitle>TVA Dams</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Fort Loudoun</unittitle>
+<unitdate>(1940-1942)</unitdate>
+</did>
+<note>
+<p>preliminary investigation, embankment design, soil reports, consultants report</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Gilbertsville</unittitle>
+<unitdate>(1937-1944)</unitdate>
+</did>
+<note>
+<p>effecton area economy, photographs, progress report, consulting engineers reports , cost estimates, blueprints</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Guntersville</unittitle>
+<unitdate>(1936-1939)</unitdate>
+</did>
+<note>
+<p>Honeycomb Cave, consulting engineers reports, groundwater conditions</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Hiwassee</unittitle>
+<unitdate>(1936-1942)</unitdate>
+</did>
+<note>
+<p>earthquakes in Tennessee Valley, photographs, geologic sections, report of consulting engineers, geologic drawings</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>South Holston</unittitle>
+<unitdate>(1942)</unitdate>
+</did>
+<note>
+<p>consulting engineers memorandum</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Kentucky</unittitle>
+<unitdate>(1939-1943)</unitdate>
+</did>
+<note>
+<p>consulting engineers reports, soiltesting and embankment design, Kentucky project statistics , progress reports.</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle>Lower Tennessee</unittitle>
+<unitdate>(1935-1936)</unitdate>
+</did>
+<note>
+<p>preliminary report</p>
+</note>
+</c02>
+</c01>
+<c01 level="item">
+<did>
+<unittitle>TVA Dams</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Norris</unittitle>
+<unitdate>(1935)</unitdate>
+</did>
+<note>
+<p>summary of principal features</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Nottely</unittitle>
+<unitdate>(1941)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Pickwick Landing</unittitle>
+<unitdate>(1935-1939)</unitdate>
+</did>
+<note>
+<p>summary of principal features, report on construction</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Vasper Water Table</unittitle>
+<unitdate>(1939)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Watauga</unittitle>
+<unitdate>(1947)</unitdate>
+</did>
+<note>
+<p>information for consultants</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Watts Bar</unittitle>
+<unitdate>(1938-1940)</unitdate>
+</did>
+<note>
+<p>report of consultants, geology of dam site, soiltests , reports on construction program, photographs</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Wheeler</unittitle>
+<unitdate>(1935-1939)</unitdate>
+</did>
+<note>
+<p>summary of principal features, photographs, report of consulting engineers</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Wilson</unittitle>
+<unitdate>(1935-1939)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Wolf Creek</unittitle>
+<unitdate>(1940)</unitdate>
+</did>
+<note>
+<p>definite project report, data for consultants</p>
+</note>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle>Miscellaneous</unittitle>
+</did>
+<note>
+<list type="simple">
+<item>"The Tennessee Valley Experiment" (reprint from Engineering News-Record, December, 1936)</item>
+<item>Travel regulations for consultants, 1935</item>
+<item>Pamphlets and press releases on the TVA by Harcourt A. Morgan (1935 and 1936) and David E. Lilienthal (1936)</item>
+<item>Symposium on Masonry Dams</item>
+<item>"Geology of the Dam Sites of the Tennessee Valley Region"</item>
+<item>Bibliography on Dams for 1924-1938 compiled by the Engineer School, Fort Belvoir, Virginia</item>
+<item>Information on a l l dams for consultant inspection trips:February, May, July, September, 1941</item>
+</list>
+</note>
+</c02>
+</c01>
+<c01 level="item">
+<did>
+<unittitle>Dams Other Than TVA</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Table Rock (Arkansas and Missouri)</unittitle>
+<unitdate>1942-1945</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Water Valley (Arkansas and Missouri)</unittitle>
+<unitdate>1940-1941</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Conchas (New Mexico)</unittitle>
+<unitdate>1939</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Falmouth (Kentucky)</unittitle>
+<unitdate>1942</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Fort Peck (Montana)</unittitle>
+<unitdate>1938</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Fort Supply (Arkansas)</unittitle>
+<unitdate>1938</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Greer&#8217;s Ferry (Arkansas)</unittitle>
+<unitdate>1940</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>John Martin (Colorado)</unittitle>
+<unitdate>1940-1942</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Lone Rock (Arkansas)</unittitle>
+<unitdate>1941</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Nuuanu (Hawaii)</unittitle>
+<unitdate>1932</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Flood Control</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>World Power and High Dams</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>International Union of Geodsey and Geophysics,</unittitle>
+<unitdate>1939</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<unittitle>Miscellaneous information of water power projects</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="item">
+<did>
+<unittitle>Dams Other Than TVA</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Caddoa (Colorado)</unittitle>
+<unitdate>1940-1941</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<unittitle>Chamita, Jemez, Chiflo (Arizona)</unittitle>
+<unitdate>1945-1946</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Arkansas Oil/Thompson &#38; Co. (Earthquake, Reelfoot Lake, 1926)</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Charts of Various Activities of the State Forestry Commission, Ala. &#38; Ga.,</unittitle>
+<unitdate>1936</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Consulting Reports for TVA</unittitle>
+<unitdate>1904-1941</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Dam Site Geology (Visit of L. C. Glenn)</unittitle>
+<unitdate>Dec, 29, 1939</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Dataon Coal Land, Pulaski-, Va.</unittitle>
+<unitdate>Dec. 1923</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Earthquake Forces on Dams</unittitle>
+<unitdate>June 18, 1931</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Forest Resources of the Norris Dam Watershed</unittitle>
+<unitdate>1936</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Geological Maps of Western Kentucky Coal Fields</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Georgia State Museum</unittitle>
+<unitdate>1936</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Glenn&#8217;s School Notes, Johns Hopkin University</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Great Sraokie Mountains Literature</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Group Photo, Kentucky Dam</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Kentucky State Parks, Annual</unittitle>
+<unitdate>1935</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>List of Patents</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Literature on New Hampshire and Weeks Law, Silver Jubilee Maps:</unittitle>
+</did>
+<c02 level="item">
+<did>
+<unittitle>Henry County, Tennessee</unittitle>
+<unitdate>1922</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Chester County, Tennessee</unittitle>
+<unitdate>1918</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Carroll County, Tennessee</unittitle>
+<unitdate>1926</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Hardeman County, Tennessee</unittitle>
+<unitdate>1923</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Henderson County, Tennessee</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Black and St. Francis River Commission of Missouri</unittitle>
+<unitdate>1927</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Subdistrict No. 3 of Grassy Lake and Tyronza DD. No. 9</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Mississippi County, Arkansas</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>General Contours</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Subdistrict No. 1 (Carson Lake D.D. No. 8) Mississippi County</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Arkansas Contour Map</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<unittitle>Tennessee Valley and Adjacent territories</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Meterology Notes</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Miscellaneous Photographs</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Notes on Earthquakes, Dams and Salt Deposits</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Notes</unittitle>
+<unitdate>1929</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Patent</unittitle>
+<unitdate>1883</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Suit</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>TVA---Earthquakes and other reports</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>TVA---Red Iron Ores (Neal Suit)</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>Virginia Forest Service</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">6</container>
+<unittitle>L.C. Glenn Papers</unittitle>
+<unitdate>updated December 31, 2014</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>TVA</unittitle>
+<unitdate>1942</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>Info of Interest</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>Progress Items</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>Progress Reports</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>TVA Lawsuits</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>Bell Foley</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>Caddoa</unittitle>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>

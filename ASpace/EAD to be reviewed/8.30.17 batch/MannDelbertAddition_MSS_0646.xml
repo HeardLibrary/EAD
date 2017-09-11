@@ -1,0 +1,5563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Mann, Delbert Papers</titleproper>
+<titleproper>Finding Aid for the Delbert Mann Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Delbert Mann Papers</unittitle>
+<unitid>MSS.0007</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">42.42 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Photographs</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>All Quiet on the Western Front -1979</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>121-130</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>131-140</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>141-150</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>151-160</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>161-170</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>All Quiet on the Western Front-1979</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>171-180</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>181-190</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>191-200</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>201-210</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>211-220</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>221-230</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>231-240</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>241-250</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>251-260</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>261-270</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unittitle>271-280</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>281-290</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>291-300</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>301-310</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>311-320</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>321-330</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>331-340</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>341-350</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>All Quiet on the Western Front-1979, 351-360</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>361-370</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>371-373</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>All the Way Home -1981, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>April Morning-1987, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unittitle>71-77</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>Bachelor Party-1956, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">15</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">16</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle>41-47</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>Birch lnterval-1974, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unittitle>11-12</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">20</container>
+<unittitle>Breaking Up-1976, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">21</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">22</container>
+<unittitle>21-25</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>Bronte-1982, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>Dark at the Top of the Stairs-1960, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>41-48</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>David Copperfield, 1969, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">13</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>41-46</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle>The Day Lincoln Was Shot-1956, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>Dear Heart-1963, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>Dear Heart-1963, 41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">3</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">4</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>81-83</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle>A Death in California-1985, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">7</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">8</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">9</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">10</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">11</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">12</container>
+<unittitle>Desire Under the Elms-1957, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">13</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">14</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">15</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">16</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle>51-52</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">18</container>
+<unittitle>First Woman President-1974, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">19</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">20</container>
+<unittitle>21-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">21</container>
+<unittitle>Fitzwilly-1966, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">22</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">23</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">24</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">25</container>
+<unittitle>41-45</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">26</container>
+<unittitle>Francis Gary Powers Story-The U2 Spy Plane, 1-6</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>A Gathering of Eagles-1962, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle>121-130</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">14</container>
+<unittitle>131-140</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">15</container>
+<unittitle>141-150</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">16</container>
+<unittitle>151-153</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">17</container>
+<unittitle>The Gift of Love: A Christmas Story-1983, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">18</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">19</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">20</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">21</container>
+<unittitle>A Girl Named Sooner-1974, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">22</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">23</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">24</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">25</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">26</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">27</container>
+<unittitle>God&#8217;s Guerillas-1981, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">1</container>
+<unittitle>Heidi-1967, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">2</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">3</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">4</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">5</container>
+<unittitle>41-42</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">6</container>
+<unittitle>Home to Stay-1977, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">7</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">8</container>
+<unittitle>21-26</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">9</container>
+<unittitle>Incident in a Small Town-1993, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">10</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">11</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">12</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">13</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">14</container>
+<unittitle>51-54</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">15</container>
+<unittitle>Incident in Baltimore-1991, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">16</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">17</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">18</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">19</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">20</container>
+<unittitle>lronclads-1991, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">21</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">22</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">23</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">24</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">25</container>
+<unittitle>51-56</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">26</container>
+<unittitle>Jane Eyre-1970, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">27</container>
+<unittitle>11-21</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">28</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">29</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">1</container>
+<unittitle>Jane Eyre-1970, 41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">2</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">3</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">4</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">5</container>
+<unittitle>Kidnapped-1971, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">6</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">7</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">8</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">9</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">10</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">11</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">12</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">13</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">14</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">15</container>
+<unittitle>101-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">16</container>
+<unittitle>Last Days of Patton-1985, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">17</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">18</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">19</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">20</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">21</container>
+<unittitle>51-53</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">22</container>
+<unittitle>Legendary Curse of the Hope Diamond-1975, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">23</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">24</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">25</container>
+<unittitle>31-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">1</container>
+<unittitle>Lily in Winter-1994, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">2</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">3</container>
+<unittitle>Love Leads the Way-1984, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">4</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">5</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">6</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">7</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">8</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">9</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">10</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">11</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">12</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">13</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">14</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">15</container>
+<unittitle>121-125</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">16</container>
+<unittitle>Lover Come Back, 1961, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">17</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">18</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">19</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">20</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">21</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">22</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">23</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">24</container>
+<unittitle>81-89</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">1</container>
+<unittitle>Love&#8217;s Dark Ride-1978, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">2</container>
+<unittitle>The Man Without a Country-1973, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">3</container>
+<unittitle>11-16</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">4</container>
+<unittitle>Marty-1954, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">5</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">6</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">7</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">8</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">9</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">10</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">11</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">12</container>
+<unittitle>Member ofthe Wedding-1982, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">13</container>
+<unittitle>11-15</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">14</container>
+<unittitle>The Memoirs of Abraham Lincoln-1990, 1992, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">15</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">16</container>
+<unittitle>21-24</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">17</container>
+<unittitle>Middle of the Night-1959, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">18</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">19</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">20</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">21</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">22</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">23</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">1</container>
+<unittitle>Middle of the Night-1959, 71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">2</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">3</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">4</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">5</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">6</container>
+<unittitle>121-130</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">7</container>
+<unittitle>131-140</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">8</container>
+<unittitle>141-150</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">9</container>
+<unittitle>151-160</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">10</container>
+<unittitle>161-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">11</container>
+<unittitle>Mister Buddwing-1964, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">12</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">13</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">14</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">15</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">16</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">1</container>
+<unittitle>Mister Buddwing-1964, 61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">2</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">3</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">4</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">5</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">6</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">7</container>
+<unittitle>121-130</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">8</container>
+<unittitle>131-140</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">9</container>
+<unittitle>141-150</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">10</container>
+<unittitle>151-160</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">11</container>
+<unittitle>161-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">12</container>
+<unittitle>Night Crossing-1980, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">13</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">14</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">15</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">16</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">17</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">18</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">19</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">20</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">21</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">22</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">23</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">24</container>
+<unittitle>121-130</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">25</container>
+<unittitle>131-140</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">26</container>
+<unittitle>141-1501</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">27</container>
+<unittitle>151-160</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">1</container>
+<unittitle>Night Crossing-1980, 161-170</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">2</container>
+<unittitle>171-180</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">3</container>
+<unittitle>181-190</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">4</container>
+<unittitle>191-200</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">5</container>
+<unittitle>201-210</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">6</container>
+<unittitle>211-220</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">7</container>
+<unittitle>221-230</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">8</container>
+<unittitle>231-240</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">9</container>
+<unittitle>241-250</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">10</container>
+<unittitle>251-260</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">11</container>
+<unittitle>261-270</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">12</container>
+<unittitle>271-280</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">13</container>
+<unittitle>281-290</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">14</container>
+<unittitle>291-300</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">15</container>
+<unittitle>301-310</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">16</container>
+<unittitle>311-320</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">17</container>
+<unittitle>321-330</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">18</container>
+<unittitle>331-340</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">19</container>
+<unittitle>341-350</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">20</container>
+<unittitle>351-360</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">21</container>
+<unittitle>361-370</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">22</container>
+<unittitle>371-380</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">1</container>
+<unittitle>Night Crossing-1980, 381-390</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">2</container>
+<unittitle>391-400</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">3</container>
+<unittitle>401-410</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">4</container>
+<unittitle>411-420</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">5</container>
+<unittitle>421-430</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">6</container>
+<unittitle>431-440</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">7</container>
+<unittitle>441-450</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">8</container>
+<unittitle>451-460</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">9</container>
+<unittitle>The Outsider-1960, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">10</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">11</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">12</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">13</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">14</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">15</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">16</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">17</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">18</container>
+<unittitle>91-99</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">19</container>
+<unittitle>The Pink Jungle-1967, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">20</container>
+<unittitle>11-17</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">1</container>
+<unittitle>Plot to Kill Stalin-1958, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">2</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">3</container>
+<unittitle>21-27</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">4</container>
+<unittitle>A Quiet Place-1955, 1-7</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">5</container>
+<unittitle>Quick, Before it Melts-1963, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">6</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">7</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">8</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">9</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">10</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">11</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">12</container>
+<unittitle>71-72</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">13</container>
+<unittitle>Separate Tables-1958, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">14</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">15</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">16</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">17</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">18</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">19</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">20</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">21</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">22</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">23</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">24</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">1</container>
+<unittitle>She Waits- 1972, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">2</container>
+<unittitle>Speaking of Murder-1956, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">3</container>
+<unittitle>11-12</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">4</container>
+<unittitle>The Ted Kennedy Jr. Story-1986, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">5</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">6</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">7</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">8</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">9</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">10</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">11</container>
+<unittitle>71-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">12</container>
+<unittitle>Thou Shall Not Commit Adultery-1978, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">13</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">14</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">15</container>
+<unittitle>To Find My Son-1980, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">16</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">17</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">18</container>
+<unittitle>31-35</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">19</container>
+<unittitle>Tom and Joann-1978, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">20</container>
+<unittitle>11-19</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">21</container>
+<unittitle>Torn Between Two Loves-1979, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">22</container>
+<unittitle>11-14</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">23</container>
+<unittitle>Touch of Mink-1962, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">24</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">25</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">26</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">1</container>
+<unittitle>Touch of Mink-1962, 41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">2</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">3</container>
+<unittitle>61-70</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">4</container>
+<unittitle>71-80</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">5</container>
+<unittitle>81-90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">6</container>
+<unittitle>91-100</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">7</container>
+<unittitle>101-110</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">8</container>
+<unittitle>111-120</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">9</container>
+<unittitle>121-130</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">10</container>
+<unittitle>131-140</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">11</container>
+<unittitle>141-149</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">12</container>
+<unittitle>Tovarich-1962, 1-9</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">13</container>
+<unittitle>Three for a Wedding-1964, 1-4</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">14</container>
+<unittitle>The Tunnel-1959, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">15</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">16</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">17</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">17</container>
+<container type="folder">18</container>
+<unittitle>What Makes Sammy Run?-1959, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">1</container>
+<unittitle>Producer&#8217;s Showcase-1955-Darkness at Noon, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">2</container>
+<unittitle>11-12</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">3</container>
+<unittitle>Producer&#8217;s Showcase-1955-Marty, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">4</container>
+<unittitle>Producer&#8217;s Showcase-1955-Our Town, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">5</container>
+<unittitle>11-17</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">6</container>
+<unittitle>Producer&#8217;s Showcase-1955-The Petrified Forest, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">7</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">8</container>
+<unittitle>Producer&#8217;s Showcase-1955-Yellow Jack, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">9</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;The Barretts of Wimpole Street, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">10</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;Command Decision, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">11</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;The Corn is Green, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">12</container>
+<unittitle>11-18</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">13</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;Dear Ruth, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">14</container>
+<unittitle>11-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">15</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;Dream Girl, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">16</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">17</container>
+<unittitle>21-23</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">18</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;The Glass Menagerie, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">19</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;Highland Fling, 1-6</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">20</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;John Loves Mary, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">21</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;Life With Father, 1-6</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">22</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;Rain, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">23</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;The Road to Rome, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">24</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. &#8211;You Can&#8217;t take it with You, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">25</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. -1988, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">26</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">27</container>
+<unittitle>21-24</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">28</container>
+<unittitle>Town Theatre &#8211;Columbia, S.C. -1992-1993, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">18</container>
+<container type="folder">29</container>
+<unittitle>11-15</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">1</container>
+<unittitle>TV Playhouse 1949-1950, 1-9</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">2</container>
+<unittitle>TV Playhouse 1949, 1-4</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">3</container>
+<unittitle>TV Playhouse 1950 &#8211;Bonanza, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">4</container>
+<unittitle>TV Playhouse 1950 &#8211;The Feast, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">5</container>
+<unittitle>TV Playhouse 1950 &#8211;The Last Tycoon, 1-9</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">6</container>
+<unittitle>TV Playhouse 1950 &#8211;The Sudden Guest, 1-6</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">7</container>
+<unittitle>TV Playhouse 1950 &#8211;othello, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">8</container>
+<unittitle>11-16</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">9</container>
+<unittitle>TV Playhouse 1950 &#8211;Vincent van Gogh, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">10</container>
+<unittitle>11-13</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">11</container>
+<unittitle>TV Playhouse 1951, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">12</container>
+<unittitle>TV Playhouse 1951 &#8211;The Adventures of Hiram Holiday, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">13</container>
+<unittitle>TV Playhouse 1951 &#8211;The Birth ofthe Movies, 1-9</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">14</container>
+<unittitle>TV Playhouse 1951 &#8211;Bulletin 120, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">15</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">16</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">17</container>
+<unittitle>31-34</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">18</container>
+<unittitle>TV Playhouse 1951 &#8211;By-line for Murder, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">19</container>
+<unittitle>TV Playhouse 1951 &#8211;The Copper, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">20</container>
+<unittitle>TV Playhouse 1951 &#8211;The Eleventh Ward, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">21</container>
+<unittitle>TV Playhouse 1951 &#8211;Fiight to Freedom, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">22</container>
+<unittitle>TV Playhouse 1951 &#8211;I Was Stalin&#8217;s Prisoner, 1-6</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">23</container>
+<unittitle>TV Playhouse 1951 &#8211;Justice for Mr. Pleznick, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">24</container>
+<unittitle>TV Playhouse 1951 &#8211;Money to Burn, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">25</container>
+<unittitle>TV Playhouse 1951 &#8211;October Story, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">26</container>
+<unittitle>TV Playhouse 1951 &#8211;Operation Airlift, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">27</container>
+<unittitle>TV Playhouse 1951 &#8211;Pretend I am a Stranger, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">28</container>
+<unittitle>TV Playhouse 1951 &#8211;The Return, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">29</container>
+<unittitle>TV Playhouse 1951 &#8211;A Secret Island, 1-4</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">30</container>
+<unittitle>TV Playhouse 1951 &#8211;This Time Next Year, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">31</container>
+<unittitle>TV Playhouse 1952 &#8211;The Best Laid Schemes, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">32</container>
+<unittitle>TV Playhouse 1952 &#8211;Dusty Portrait, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">33</container>
+<unittitle>11-13</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">34</container>
+<unittitle>TV Playhouse 1952 &#8211;The Five Fathers of Pepi, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">35</container>
+<unittitle>TV Playhouse 1952 &#8211;The Lantern Copy, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">36</container>
+<unittitle>TV Playhouse 1952 &#8211;The Last Hour, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">37</container>
+<unittitle>TV Playhouse 1952 &#8211;The Medea Cup, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">38</container>
+<unittitle>TV Playhouse 1952 &#8211;The Monument, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">39</container>
+<unittitle>TV Playhouse 1952 &#8211;Mr. Quimby&#8217;s Christmas Hats, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">40</container>
+<unittitle>TV Playhouse 1952 &#8211;Parole Chief, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">41</container>
+<unittitle>TV Playhouse 1952 &#8211;The Rich Boy, 1-9</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">42</container>
+<unittitle>TV Playhouse 1952 &#8211;Search, 1-9</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">43</container>
+<unittitle>TV Playhouse 1952 &#8211;Segment, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">44</container>
+<unittitle>TV Playhouse 1952 &#8211;Three Sundays, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">19</container>
+<container type="folder">45</container>
+<unittitle>TV Playhouse 1952 &#8211;Without Fear or Favor, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">1</container>
+<unittitle>TV Playhouse 1953, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">2</container>
+<unittitle>TV Playhouse 1953 &#8211;The Bachelor Party, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">3</container>
+<unittitle>TV Playhouse 1953 &#8211;Catch a Falling Star, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">4</container>
+<unittitle>TV Playhouse 1953 &#8211;Double Jeopardy, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">5</container>
+<unittitle>TV Playhouse 1953 &#8211;Elegy, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">6</container>
+<unittitle>TV Playhouse 1953 &#8211;Ernie Barger is 50, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">7</container>
+<unittitle>TV Playhouse 1953 &#8211;Her Prince Charming, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">8</container>
+<unittitle>TV Playhouse 1953 &#8211;Holiday Song, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">9</container>
+<unittitle>TV Playhouse 1953 &#8211;Hollywood Tandem, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">10</container>
+<unittitle>TV Playhouse 1953 &#8211;A Little Something in Reserve, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">11</container>
+<unittitle>TV Playhouse 1953 &#8211;Marty, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">12</container>
+<unittitle>TV Playhouse 1953 &#8211;Othello, 1-4</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">13</container>
+<unittitle>TV Playhouse 1953 &#8211;Printer&#8217;s Measure, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">14</container>
+<unittitle>TV Playhouse 1953 &#8211;Reluctant Citizen, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">15</container>
+<unittitle>TV Playhouse 1953 &#8211;Wings on My Feet, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">16</container>
+<unittitle>TV Playhouse 1953 &#8211;Wish on the Moon, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">17</container>
+<unittitle>TV Playhouse 1954 &#8211;And Crown Thy Good, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">18</container>
+<unittitle>TV Playhouse 1954 &#8211;Hangman in the Fog, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">19</container>
+<unittitle>TV Playhouse 1954 &#8211;The Mother, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">20</container>
+<unittitle>TV Playhouse 1954 &#8211;Somebody Special, 1-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">21</container>
+<unittitle>55<emph render="super">th</emph> Vanderbilt Reunion, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">22</container>
+<unittitle>11-16</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">23</container>
+<unittitle>Aldrich Award, DGA, 1997, 1-8</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">24</container>
+<unittitle>Nashville Playhouse, 1-4</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">25</container>
+<unittitle>Nashville Playhouse &#8211;Emperor&#8217;s New Clothes, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">26</container>
+<unittitle>Nashville Playhouse 1942 &#8211;Mr. and Mrs. North, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">27</container>
+<unittitle>Nashville Playhouse 1940 &#8211;Our Town, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">28</container>
+<unittitle>11-12</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">29</container>
+<unittitle>Nashville Playhouse 1941 &#8211;Qutward Bound, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">30</container>
+<unittitle>Nashville Playhouse -Sailors of Toulon, 1-5</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">31</container>
+<unittitle>Nashville Playhouse 1940 &#8211;Twelfth Night, 1-2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">32</container>
+<unittitle>Nashville Community Playhouse 1961, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">33</container>
+<unittitle>Academy Award Tribute, March 1, 1988, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">34</container>
+<unittitle>Hume-Fogg High School, 1-3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">35</container>
+<unittitle>Vanderbilt University, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">20</container>
+<container type="folder">36</container>
+<unittitle>11-16</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">1</container>
+<unittitle>Wellesley Summer Theatre 1947-1948, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">2</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">3</container>
+<unittitle>21-24</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">4</container>
+<unittitle>Yale University 1945-1947, 1-10</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">5</container>
+<unittitle>11-20</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">6</container>
+<unittitle>21-30</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">7</container>
+<unittitle>31-40</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">8</container>
+<unittitle>41-50</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">9</container>
+<unittitle>51-60</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">10</container>
+<unittitle>61-</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">21</container>
+<container type="folder">11</container>
+<unittitle>Yale Drama School 1991, 1-2</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Photographs Folders</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Tim and Joann</emph></unittitle>
+<unitdate><emph render="italic">1978</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Francis Gary Powers Story the U-2 Spy Plane</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Breaking Up 197?</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">The Legendary Curse of the Hope Diamond</emph></unittitle>
+<unitdate><emph render="italic">1975</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Thou Shalt Not Commit Adultery</emph></unittitle>
+<unitdate><emph render="italic">1978</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Torn Between Two Loves</emph></unittitle>
+<unitdate><emph render="italic">1979</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">All Quiet On the Western Front&#8211;Publicity Materials</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">All Quiet On the Western Front&#8211;Photographs and Slides</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">All Quiet On the Western Front</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">TV Playhouse</emph></unittitle>
+<unitdate><emph render="italic">1949-1950</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Town Theatre Pictures Columbia, S.C.</emph></unittitle>
+<unitdate><emph render="italic">1947-1949</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">The Outsider</emph></unittitle>
+<unitdate><emph render="italic">1960</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Lover Come Back</emph></unittitle>
+<unitdate><emph render="italic">1961</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Touch of Mink</emph></unittitle>
+<unitdate><emph render="italic">1962</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Nashville Playhouse</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Vanderbilt</emph></unittitle>
+<unitdate><emph render="italic">1939-41</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Hume Fogg High</emph></unittitle>
+<unitdate><emph render="italic">1937</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Love&#8217;s Dark Ride</emph></unittitle>
+<unitdate><emph render="italic">1978</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Home to Stay</emph></unittitle>
+<unitdate><emph render="italic">1977</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Tell Me My Name</emph></unittitle>
+<unitdate><emph render="italic">1977</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">The First Woman President</emph></unittitle>
+<unitdate><emph render="italic">1974</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">The Glass Menagerie (Atlanta)</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">A Girl Named Sooner</emph></unittitle>
+<unitdate><emph render="italic">1974</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Birch Interval</emph></unittitle>
+<unitdate><emph render="italic">1974</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">The Man Without a Country</emph></unittitle>
+<unitdate><emph render="italic">1973</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">She Waits</emph></unittitle>
+<unitdate><emph render="italic">1972</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Kidnapped</emph></unittitle>
+<unitdate><emph render="italic">1971</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Jane Eyre</emph></unittitle>
+<unitdate><emph render="italic">1970</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">David Copperfield</emph></unittitle>
+<unitdate><emph render="italic">1969</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Heidi</emph></unittitle>
+<unitdate><emph render="italic">1967</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">The Pink Jungle</emph></unittitle>
+<unitdate><emph render="italic">1967</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Fitzwilly</emph></unittitle>
+<unitdate><emph render="italic">1966</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Mister Buddwing</emph></unittitle>
+<unitdate><emph render="italic">1964</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">3 For a Wedding</emph></unittitle>
+<unitdate><emph render="italic">1964</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Quick, Before it Melts</emph></unittitle>
+<unitdate><emph render="italic">1963</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Dear Heart</emph></unittitle>
+<unitdate><emph render="italic">1963</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Tovarich</emph></unittitle>
+<unitdate><emph render="italic">1962</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">A Gathering of Eagles</emph></unittitle>
+<unitdate><emph render="italic">1962</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Lily in Winter</emph></unittitle>
+<unitdate><emph render="italic">1994</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Incident in a Small Town</emph></unittitle>
+<unitdate><emph render="italic">1993</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">The Memoirs of Abraham Lincoln</emph></unittitle>
+<unitdate><emph render="italic">1990 and 1992</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">The Petrified Forest</emph></unittitle>
+<unitdate><emph render="italic">1988</emph></unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>December 2008</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Videocassettes</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE BACHELOR PARTY</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">BEN FRANKLIN</emph></unittitle>
+<unitdate><emph render="italic">1972</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">BIRCH INTERVAL, THE MAKING OF .</emph> .. <emph render="italic">ROBERT TAYLOR&#8217;S BACKYARD, DEL AT WORK, GETTYSBURG, PA</emph></unittitle>
+<unitdate><emph render="italic">1977</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">BREAKING UP</emph></unittitle>
+<unitdate><emph render="italic">1976</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">DARK AT THE TOP OF THE STAIRS</emph></unittitle>
+<unitdate><emph render="italic">1960</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">FITZWILLY &#8211;PRO; INSPECTOR CLOUSEAU &#8211; PRO; PARTY- PRO &#8211; DEMO TAPE FOR LARRY MIRISCH</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">FRANCIS GARY POWERS: THE TRUE STORY OF THE U-2 INCIDENT</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">GOLDEN VOICES, S/LVER SCREEN</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">GREAT CATHERINE</emph> &#8211; NBC THEATRE GUILD</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">HOLIDAY SONG</emph> &#8211; PHILCO TELEVISION PLAYHOUSE</unittitle>
+<unitdate>1953</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">INPRINT - SKUTCH/MANN BEVERLY HILLS PUBLIC TELEVISION</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE INWARD HORIZON</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">LOVE LEADS THE WAY</emph></unittitle>
+<unitdate><emph render="italic">1984</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MAKING IT SPECIAL</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE MARRIAGES</emph></unittitle>
+<unitdate><emph render="italic">1950</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MARTY</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MARTY</emph></unittitle>
+<unitdate><emph render="italic">1993</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MARTY</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">A WIND FROM THE SOUTH</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MARTY &#8211; INTERVIEW WITH DELBERT MANN</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MARY KAY AND JOHNNY SHOW</emph></unittitle>
+<unitdate><emph render="italic">1949</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MIDDLE OF THE NIGHT</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">MR. QUIMBY&#8217;S CHRISTMAS HATS-</emph> GOODYEAR TELEVISION PLAYHOUSE</unittitle>
+<unitdate>1952</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE MOTHER</emph> &#8211; PHILCO TELEVISION PLAYHOUSE</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">NIGHT CROSSING</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">OMNIBUS: THE HARVARD SHOW</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">OTHELLO</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">OUR TOWN</emph></unittitle>
+<unitdate><emph render="italic">1955</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE OUTSIDER</emph></unittitle>
+<unitdate><emph render="italic">1960</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">PETRIFIED FOREST</emph></unittitle>
+<unitdate><emph render="italic">MAY 1955</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">PLOT TO KILL STALIN</emph> &#8211; PLAYHOUSE 90</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">RABBIT TRAP</emph> &#8211;PHILCO- GOODYEAR PLAYHOUSE</unittitle>
+<unitdate>1955</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">RED MILL</emph> &#8211; Dupont Show ofthe Month</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">SATURDAYNIGHTATTHE MOVIES</emph></unittitle>
+<unitdate>1995</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">SEARCH</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">SEPARATE TABLES</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>SOMEBODY SPECIAL</unittitle>
+<unitdate>1954</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle>SENSE AND SENSIBILITY GOODYEAR TELEVISION PLAYHOUSE</unittitle>
+<unitdate>1950</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">STAGE 10 LIVE: A CELEBRATION OF THE GOLDEN AGE OF TELEVISION</emph></unittitle>
+<unitdate><emph render="italic">1988</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">STAGE 10 LIVE: A CELEBRATION OF THE GOLDEN AGE OF TELEVISION (THE PETRIFIED FOREST)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">SUITABLE FOR FRAMING</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE SYMBOL</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">TORCH FOR A DARK JOURNEY</emph> &#8211;PHILCO TV PLAYHOUSE</unittitle>
+<unitdate>1950</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">TRADE SECRETS</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE DARK AT THE TOP OF THE STAIRS</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">WISH ON THE MOON</emph> &#8211; GOODYEAR TV PLAYHOUSE</unittitle>
+<unitdate>1953</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">WITHOUT FEAR OR FAVOR</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">YELLOW JACK</emph> &#8211; PRODUCERS&#8217; SHOWCASE</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">ACADEMY AWARDS &#8211; RUSSIA- ARGENTINA-NOME</emph></unittitle>
+<unitdate><emph render="italic">1987</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">APRIL MORNING</emph></unittitle>
+<unitdate><emph render="italic">1987</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">BEST LAID PLANS</emph></unittitle>
+<unitdate><emph render="italic">1952</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">BIRCH INTERVAL</emph></unittitle>
+<unitdate><emph render="italic">1975</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">DAVID COPPERFIELD</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">DAY LINCOLN WAS SHOT</emph></unittitle>
+<unitdate><emph render="italic">1956</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">DEAR HEART</emph></unittitle>
+<unitdate><emph render="italic">1963</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">A DEATH IN CALIFORNIA</emph></unittitle>
+<unitdate><emph render="italic">1985</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">DELBERT MANN INTERVIEW; TODAY SHOW- ALL THE WAY HOME; ALL QUIET ON THE WESTERN FRONT; PM MAGAZINE: KENNEDY CHALLENGE; IN SEARCH OF TOWER OF LONDON MURDERS</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">DEL MANN TRIBUTE &#8211; TURNER CLASSIC MOVIES 11-30-00</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">DARK AT THE TOP OF THE STAIRS; SEPARATE TABLES; DEAR HEART; MR. BUDDWING</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">ERNIE BARGER IS 50- PH/LCD TV PLAYHOUSE</emph></unittitle>
+<unitdate><emph render="italic">1953</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">FIRST WOMAN PRESIDENT</emph></unittitle>
+<unitdate><emph render="italic">1974</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">F/TZWILLY</emph></unittitle>
+<unitdate><emph render="italic">1967</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">GATHERING OF EAGLES</emph></unittitle>
+<unitdate><emph render="italic">1962</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">THE GIFT OF LOVE</emph></unittitle>
+<unitdate><emph render="italic">1983</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">GIGGI MAKES A CHESS PIE</emph></unittitle>
+<unitdate><emph render="italic">1989</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">A GIRL NAMED SOONER</emph></unittitle>
+<unitdate><emph render="italic">1974</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">HOME TO STAY</emph></unittitle>
+<unitdate><emph render="italic">2001</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">THE HUNTRESS</emph></unittitle>
+<unitdate><emph render="italic">1954</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">INCIDENT IN BALTIMORE</emph></unittitle>
+<unitdate><emph render="italic">1991</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">INTIMATE PORTRAITS: GRACE KELLY</emph></unittitle>
+<unitdate><emph render="italic">1980</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">I WAS STALIN&#8217;S PRISONER &#8211; GOODYEAR TV PLAYHOUSE</emph></unittitle>
+<unitdate><emph render="italic">1951</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">KIDNAPPED &#8211; 1999 (2 TAPES)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">THE LEGENDARY CURSE OF THE HOPE DIAMOND</emph></unittitle>
+<unitdate><emph render="italic">1975</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">LOVE LEADS THE WAY</emph></unittitle>
+<unitdate><emph render="italic">1990</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">LOVE&#8217;S DARK RIDE</emph></unittitle>
+<unitdate><emph render="italic">1977</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">MEMBER OF THE WEDDING</emph></unittitle>
+<unitdate><emph render="italic">1990</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">MEMOIRS OF ABRAHAM LINCOLN</emph></unittitle>
+<unitdate><emph render="italic">1991</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">MEMOIRS OF ABRAHAM LINCOLN</emph></unittitle>
+<unitdate><emph render="italic">1993</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">MISTER BUDDWING</emph></unittitle>
+<unitdate><emph render="italic">1965</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">OCTOBER STORY</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">THE COPPER -GOODYEAR T.V. PLAYHOUSE</emph></unittitle>
+<unitdate><emph render="italic">1981</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">THE PINK JUNGLE</emph></unittitle>
+<unitdate><emph render="italic">1967</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">QUICK BEFORE IT MELTS</emph></unittitle>
+<unitdate><emph render="italic">1964</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">THE RECLUSE</emph></unittitle>
+<unitdate><emph render="italic">1953</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">RITA</emph></unittitle>
+<unitdate><emph render="italic">2003</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">SATURDAY ADOPTION</emph></unittitle>
+<unitdate><emph render="italic">1992</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">SHE WAITS &#8211; 1971 (AIR COPY)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">TELL ME MY NAME</emph></unittitle>
+<unitdate><emph render="italic">1977</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">TELL ME MY NAME</emph></unittitle>
+<unitdate><emph render="italic">1995</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">TO FIND MY SON</emph></unittitle>
+<unitdate><emph render="italic">1980</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">TOM AND JOANNE</emph></unittitle>
+<unitdate><emph render="italic">1978</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">TRIBUTE TO FRED COE</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">WHAT MAKES SAMMY RUN? (EDITED VERSION) &#8211; MUSEUM OF TELEVISION AND RADIO</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">ALL QUIET ON THE WESTERN FRONT (3 TAPES)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">BRONTE &#8211; 1983 REEL 1</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">BRONTE &#8211; 1983 REEL 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">DELBERT MANN INTERVIEW, MAY 20, 1997 &#8211; 9 TAPES</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">DELBERT MANN Q&#38;A</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">DELBERT MANN RETROSPECTIVE</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">FRANK CAPRA MEMORIAL SERVICE</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">GRACE KELLY: THE AMERICAN PRINCESS</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">HEIDI</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">JANE EYRE (PART 1)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">JANE EYRE (PART 2)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">THE LAST DAYS OF PATTON</emph></unittitle>
+<unitdate><emph render="italic">1985</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">MIDDLE OF THE NIGHT: A CONVERSATION WITH DELBERT MANN AND EVA MARIE SAINT</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">NFL DISTANT REPLAY 2002 WEEK 13 &#8220;HEIDI GAME&#8217;</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">PLOT TO KILL STALIN &#8211; PLAYHOUSE 90 &#8211; 1991 (2 TAPES)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">SEPARATE TABLES</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">SEPARATE TABLES</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">THE TED KENNEDY, JR. STORY</emph></unittitle>
+<unitdate><emph render="italic">1986</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">THAT TOUCH OF MINK</emph></unittitle>
+<unitdate><emph render="italic">1992</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">THOU SHALT NOT COMMIT ADULTERY</emph></unittitle>
+<unitdate><emph render="italic">1981</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">THE TUNNEL &#8211; PLAYHOUSE 90- 1991 (2 TAPES)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">ANGELA LANSBURY: A BALANCING ACT</emph></unittitle>
+<unitdate><emph render="italic">1998</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">ANN MANN&#8217;S APPEARANCE IN R.R.STATION SCENE &#8211; &#8220;INCIDENT&#8221;</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">APRIL MORNING</emph></unittitle>
+<unitdate><emph render="italic">1983</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">BIRTH OF THE MOVIES &#8211; PHILCO TELEVISION PLAYHOUSE</emph></unittitle>
+<unitdate><emph render="italic">1951</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">DARKNESS AT NOON &#8211; PRODUCERS SHOWCASE</emph></unittitle>
+<unitdate><emph render="italic">1955</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">DELBERT MANN ARCHIVAL PROJECT</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">DELBERT MANN SATURDAY NIGHT AT THE MOVIES</emph></unittitle>
+<unitdate><emph render="italic">FEBRUARY 25, 1995</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">HOLLYWOOD GREATS &#8211; DAVID NIVEN</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">IRONCLADS</emph></unittitle>
+<unitdate><emph render="italic">1991</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">IRONCLADS: BEHIND THE SCENES</emph></unittitle>
+<unitdate><emph render="italic">1991</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">JUBILEE: THE STORY OF HOW THE FISK JUBILEE SINGERS INTRODUCED THE NEGRO SPIRITUAL TO THE WORLD</emph></unittitle>
+<unitdate><emph render="italic">SEPTEMBER 15, 1997</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">LOVER COME BACK</emph></unittitle>
+<unitdate><emph render="italic">1961</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">MAN WITHOUT A COUNTRY</emph></unittitle>
+<unitdate><emph render="italic">1972</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">A MAN WITHOUT A COUNTRY</emph></unittitle>
+<unitdate><emph render="italic">1991</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">MIDDLE OF THE NIGHT</emph></unittitle>
+<unitdate><emph render="italic">1959</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">THE RICH BOY</emph> &#8211; 1952- PHILCO PLAYHOUSE</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">SEGMENT</emph></unittitle>
+<unitdate><emph render="italic">1952</emph></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Large Videocassette Tapes</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">ERNIE BARGER IS FIFTY</emph> ( 1 videocassette&#8212;black and white, 59:38, 8-9-53, Philco Television Playhouse )</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">INCIDENT IN A SMALL TOWN</emph> (2 videocassettes &#8211;Rill Entertainment version)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">LAST DAYS OF PATTON</emph> (Part I &#8211;reels 1 and 2, Part II&#8212;reels 3 and 4, Part III&#8212;reel 5)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE MEMOIRS OF ABRAHAM LINCOLN</emph> ( 2 Videos&#8212;Wisconsin Public Television)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">SONNY VANDUSEN INTERVIEW&#8212;THE MEMOIRS OF ABRAHAM LINCOLN</emph> (1 video)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">SANTA CLARIJA FILM FESTIVAL&#8212;BOB TAYLOR&#8217;S BACKYARD</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THE TEDDY KENNEDY STORY</emph> (Parts I and II &#8211;2 videos 35mm print)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">THOU SHALT NOT COMMIT ADULTERY</emph> (Parts I and II&#8212;2 videos&#8212;Edgar J. Scherick Productions</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">TOM AND JOANNE</emph> ( 1 videocassette&#8212;51 minutes )</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">1</container>
+<unittitle><emph render="italic">TORN BETWEEN TWO LOVERS</emph> (Parts I and II &#8211;2 videos Alan Landsburg Productions, 1554 S. Sepulveda Blvd. LA 90025 )</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Videocassettes</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">April Morning&#8212;Parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Bachelor Party&#8212;Parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Birch Interval&#8212;Parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">David Copperfield 1 tape</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Desire Under the Elm&#8212;1 tape</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Middle of the Night&#8212; Parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">The Outsider &#8211; Parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">The Plot to Kill Stalin&#8212;Parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">Santa Clarija Film Festiveal</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">2</container>
+<unittitle><emph render="italic">The Tunnel&#8212;Parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Breaking Up</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Death in California</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">A Gathering of Eagles</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">A Girl Named Sooner</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Jane Eyre</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Kidnapped</emph> &#8211; Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">The Recluse</emph>&#8212;1 tape</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">3</container>
+<unittitle><emph render="italic">Tell Me My Name</emph> &#8211; Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">Dark at the Top of the Stairs</emph>&#8212;Parts 1, 2, and 3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">Darkness at Noon</emph> &#8211;Parts 1, 2, and 3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">Ford Star Jubilee: The Day Lincoln was Shot</emph> (1956) Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">Love&#8217;s Dark Ride</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">Man Without a Country</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">The Medea Cup</emph>&#8212; 1 tape</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">4</container>
+<unittitle><emph render="italic">Separate Tables</emph> &#8211; Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<unittitle><emph render="italic">David Copperfield</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<unittitle><emph render="italic">Dear Heart</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<unittitle><emph render="italic">The Dupont Show of the Month: The Red Mill</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<unittitle><emph render="italic">Heidi</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<unittitle><emph render="italic">Lover Come Back</emph>&#8212;Parts 1, 2, and 3</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<unittitle><emph render="italic">That Touch of Mink</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">5</container>
+<unittitle><emph render="italic">That Touch of Mink</emph>&#8212;Parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">To Find My Son &#8211;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">How to Stay&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">Mr. Buddwing&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">The Legendary Curse of the Hope Diamond&#8212;1 videocassette</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">Ben Franklin&#8212;1 videocassette</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">The First Woman President</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">The Harvard Show&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">6</container>
+<unittitle><emph render="italic">Marty&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<unittitle><emph render="italic">All Quiet on the Western Front&#8212;parts 1, 2, and 3</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<unittitle><emph render="italic">Bronte&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<unittitle><emph render="italic">Francis Gary Powers&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<unittitle><emph render="italic">The Gift of Love&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<unittitle><emph render="italic">Quick Before It Melts</emph>&#8212;parts 1 and 2</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">7</container>
+<unittitle>CBS <emph render="italic">Playhouse&#8212;Saturday Adoption&#8211;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<unittitle><emph render="italic">All the Way Home&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<unittitle><emph render="italic">Death in California&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<unittitle><emph render="italic">Fitzwilly&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<unittitle><emph render="italic">Night Crossing&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<unittitle><emph render="italic">Our Town&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">8</container>
+<unittitle><emph render="italic">Yellow Jack&#8212;parts 1 and 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">9</container>
+<unittitle>&#190;&#8221; Video tapes</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Air date</unittitle>
+</did>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>6-17-1951</unitdate>
+<unittitle><emph render="italic">Operation Airlift (Philco Playhouse)</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>1-13-52</unitdate>
+<unittitle><emph render="italic">Without Fear or Favor (Goodyear Playhouse)</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>2-10-52</unitdate>
+<unittitle><emph render="italic">The Rich Boy</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>3-23-53</unitdate>
+<unittitle><emph render="italic">The Best Laid Schemes</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>12-7-52</unitdate>
+<unittitle><emph render="italic">Search</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>1-4-53</unitdate>
+<unittitle><emph render="italic">Double Jeopardy (Philco)</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>3-29-53</unitdate>
+<unittitle><emph render="italic">Wish on the Moon (Goodyear)</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>5-24-53</unitdate>
+<unittitle><emph render="italic">Marty</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>5-24-53</unitdate>
+<unittitle><emph render="italic">Marty (on the Golden Age of Televison series)</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>8-9-53</unitdate>
+<unittitle><emph render="italic">Ernie Barger is Fifty</emph></unittitle>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box">9</container>
+<unitdate>9-19-54</unitdate>
+<unittitle><emph render="italic">Middle of the Night</emph></unittitle>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Videocassettes &#190;&#8221;</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Against Her Will</emph> Reels 1 and 2 (95 min.)</unittitle>
+<unitdate>(9/10/91)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">April Morning Parts I (42:41) and II (56:40)</emph></unittitle>
+<unitdate>(10/20/87)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">April Morning Parts I (42:41) and II(56:40)</emph></unittitle>
+<unitdate>(10/20/87)</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Videocassettes &#189;&#8221;</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">April Morning</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Bronte</emph> &#8211;Reels 1 and 2</unittitle>
+<unitdate>(1982)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">The Gift of Love</emph></unittitle>
+<unitdate>(1983)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">A Girl Named Sooner</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Hollywood Remembers The Blacklist Line Cut# 1 and# 2</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Hollywood Remembers the Blacklist 10/27/97 (not for air)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Incident in a Small Town</emph> (12/2/ 93) Final corrected</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Incident in a Small Town (12/14/1993)</emph> air copy, revised sound</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Intimate Portraits: Grace Kelly</emph> (off the air )</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Ironclads&#8212;Monitor vs. Merrimack</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Kidnapped&#8212;Reels</emph> 1 and 2</unittitle>
+<unitdate>(1971)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Kidnapped</emph>&#8212;Reels 1 and 2 tied (99min.) (1971)&#8212;2 copies</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Lily in Winter (94:37)</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Lily in Winter</emph> &#8211;Electronic Press Kit</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Night Crossing</emph></unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Separate Tables (99:22)</emph></unittitle>
+<unitdate>1957-58</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Marty &#8211;Part 1 of 1 (90 min.) TV</emph></unittitle>
+<unitdate><emph render="italic">5/24/53</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">The Ted Kennedy Jr. Story (1 hour, 32 min.)</emph> (work print not color corrected)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">Ted Kennedy Jr. (c. 1986)</emph> Craig Nelson, Susan Blakley</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">10</container>
+<unittitle><emph render="italic">To Find My Son</emph></unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Videocassettes &#190;&#8221;</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">All Quiet on the Western Front:</emph> Promo</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">Delbert Mann Interview (Dub)</emph> Aired 2/28/81 Length 16:03</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">God&#8217;s Guerillas (30:00 mins.)</emph></unittitle>
+<unitdate><emph render="italic">8-12-81</emph></unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">In Search of ... The Tower of London Murders</emph> (21:30 mins.)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">Ironclads Parts I( 56:55) and 2(36:46)</emph> (1-14-91)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">Love Leads the Way Parts I (60:38) and 2( 41:17)</emph></unittitle>
+<unitdate>8/23/84</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">Making It Special: The Filming of &#8220;A Girl Named Sooner&#8221; (43:30 mins.)</emph> This rough cut was edited in</unittitle>
+<unitdate>November 1974</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">Member of the Wedding Acts 1, 2, and 3 (3 reels)</emph></unittitle>
+<unitdate>(12/20/ 82)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">Othello</emph></unittitle>
+<unitdate>(August 27, 1950)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">PM Magazine &#8220;Kennedy Challenge&#8221;</emph> (5:43)</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">11</container>
+<unittitle><emph render="italic">Today Show: All the Way Home</emph></unittitle>
+<unitdate>(Dec. 21, 1981)</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">Dear Heart c. 1963,</emph> G. Ford, G. Page</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">The Huntress 2/14/54</emph> Goodyear Television Playhouse</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">Jane Eyre</emph> Summer</unittitle>
+<unitdate>1970</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">A Man Without a Country Part 1 of 2 (53:15)</emph></unittitle>
+<unitdate>1/30/87</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">The Marriages</emph></unittitle>
+<unitdate>Jan. 22, 1950</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Videocassettes &#189;&#8221;</unittitle>
+</did>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">&#8220;Marty&#8221; Instant Recall</emph> ABC 11/19/90 (TV Version)</unittitle>
+<unitdate>5/24/53</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">Memoirs of Abraham Lincoln (dubbed 1/26/93)</emph> video OK, sound not</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">Memoirs of Abraham Lincoln 1/14/93</emph> Complete Show Video OK, Sound not</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">Middle of the Night (59: 33) 9/19/54</emph> Philco Television Playhouse</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">Pink Jungle</emph> Air Copy Damaged</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">Segment</emph></unittitle>
+<unitdate>Jan. 27, 1952</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<container type="box">12</container>
+<unittitle><emph render="italic">The Symbol</emph></unittitle>
+<unitdate>Jan. 5, 1951</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

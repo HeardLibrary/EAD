@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Puryear-Rodes Family Letters</titleproper>
+<titleproper>Finding Aid for the Puryear-Rodes Family Letters</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>2011-2012</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Puryear-Rodes Family Letters</unittitle>
+<unitid>MSS.0737</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">2.50 linear feet</extent>
+</physdesc>
+<unitdate>2011-2012</unitdate>
+</did>
+<scopecontent>
+<head>Scope and Content Note</head>
+<p>This small collection of letters and transcripts is comprised of 1.04 linear feet of manuscript material, ranging in date from 1892 until the death of Sara Puryear Rodes on August 21, 1997.</p>
+<p>Other important dates for this collection are the time around the wedding of Sara Puryear and Allan Battle Rodes on October 8, 1929.</p>
+<p>This collection of correspondence chronicles the everyday business and lives of Sara Puryear Rodes and her husband Allan Battle Rodes and their daughter Sally. It includes letters from friends and other family members. The collection numbers approximately 230 letters.</p>
+</scopecontent>
+<bioghist>
+<head>Biographical Notes</head>
+<p><emph render="bold">Sara McKennie Puryear Rodes</emph> was born in 1900 and died on August 21, 1997 at the age of 97. She was a native of Nashville and lived all her life in middle Tennessee. She was the daughter of Gustavus Adolphus Puryear (1850-1936) and Rena McKennie Puryear. She graduated from Miss Annie Allison&#8217;s Girls Preparatory School in 1918. She received her BA from Vanderbilt in 1922 where she was a member of Tri Delta Sorority and the YWCA cabinet. She had a sister and two brothers all of whom attended Vanderbilt. She married Allan Battle Rodes on October 8, 1929, and they had one daughter Sara Rodes Lee, Sally, who was born on January 5, 1932.</p>
+<p>She was a member of West End Methodist Church, a member of the Query Club, co-director of Camp Monterey for 44 years and secretary for the Cumberland Science museum for more than 50 years. She was president of the YWCA in Nashville during World War II, a founding member of Cheekwood Botanical Gardens, and a Daughter of the American Revolution.</p>
+<p><emph render="bold">Allan Battle Rodes</emph>, (known as Battle) was the son of H. E. Rodes and Mary Battle Rodes. He received his BA from Vanderbilt in 1924. He married Sara Puryear on October 8, 1929, and they had one daughter Sara Rodes Lee who was born in 1932. He was a business man with his own company Franklin Building Supply. In the early years of their marriage he travelled often on business. He died on January 20, 1989. Many of the letters in this collection were written by him to his wife, Sara.</p>
+<p><emph render="bold">Sara Rodes Lee</emph> (Sally) lives with her husband John Lee, an architect, in Williamson County. They have 3 children.</p>
+<p>She grew up in Nashville, and received BA (1953), MA(1956) and her Ph.D (1989) degrees from Vanderbilt. She divides her time between horses and writing, and she has taught English literature at Middle Tennessee State University.</p>
+<p>Sally Lee is the donor of this collection, and prepared the transcripts of the letters.</p>
+</bioghist>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unitdate>1892 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unitdate>1911 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unitdate>1915 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unitdate>1918 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unitdate>1923 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unitdate>1924 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unitdate>1925 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unitdate>1926 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unitdate>1927 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unitdate>1928 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unitdate>January 21, 1929 - March 20, 1929 (6)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unitdate>March 21, 1929 - April 15, 1929 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unitdate>April 15, 1929 - April 22, 1929 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unitdate>April 22, 1929 - April 26, 1929 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unitdate>April 28, 1929 - April 30, 1929 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unitdate>May 6, 1929 - May 15, 1929 (4)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unitdate>June 9, 1929 - July 16, 1929 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unitdate>September 6, 1929 - September 18, 1929 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unitdate>September 20, 1929 - September 26, 1929 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unitdate>October 7, 1929; wedding invitation for October 8, 1929 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unitdate>January 19, 1930 - June 21, 1930 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unitdate>January 21, 1950 - July 25, 1930 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unitdate>July 25, 1930 - July 29, 1930 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unitdate>July 29, 1930 - November 19, 1930 (4)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unitdate>November 21, 1930 - November 26, 1930 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unitdate>December 4, 1930 - December 19, 1930 (5) and undated (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unitdate>1931 (7)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unitdate>January 24, 1932 - December 11, 1932 (2)</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unitdate>February 2, 1933 - March 1, 1933 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unitdate>March 3, 1933 - December 27, 1933 (6)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unitdate>January 2, 1934 - January 10, 1934 (8)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unitdate>January 24, 1934 - January 30, 1934 (4)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unitdate>January 31, 1934 - February 9, 1934 (6)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unitdate>October 18, 1934 - October 22, 1934 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unitdate>October 23, 1934 - October 27, 1934 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unitdate>November 14, 1934 - November 18, 1934 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unitdate>November 19, 1934 - November 23, 1934 (5)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unitdate>November 27, 1934 - date unknown (7)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unitdate>1935 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unitdate>1936 (13)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unitdate>1938 (10)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unitdate>1939 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unitdate>1941 (7)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unitdate>1942 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unitdate>1943 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unitdate>1944 (4)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unitdate>1946 (12)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unitdate>1958 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unitdate>1963 (2)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unitdate>1964 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unitdate>1969 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unitdate>1981 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">258</container>
+<unitdate>1983 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">26</container>
+<unitdate>1986 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">27</container>
+<unitdate>1989 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">28</container>
+<unitdate>1990 (1)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">29</container>
+<unitdate>1997 (3)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">30</container>
+<unitdate>Undated letters</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Transcripts</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unitdate>1892</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unitdate>1911</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unitdate>1915</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unitdate>1918</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unitdate>1922</unitdate>
+<unittitle>no originals, transcripts only</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unitdate>1923</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unitdate>1924</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unitdate>1925</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unitdate>1926</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unitdate>1927</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unitdate>1928</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unitdate>1929</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unitdate>1930</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unitdate>1931</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">15</container>
+<unitdate>1932</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">16</container>
+<unitdate>1933</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unitdate>1934</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unitdate>1935</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unitdate>1936</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">20</container>
+<unitdate>1938</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">21</container>
+<unitdate>1939</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">22</container>
+<unitdate>1941</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">23</container>
+<unitdate>1942</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">24</container>
+<unitdate>1943</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">25</container>
+<unitdate>1944</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">26</container>
+<unitdate>1945</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">27</container>
+<unitdate>1946</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">28</container>
+<unitdate>1958</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">29</container>
+<unitdate>1963</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">30</container>
+<unitdate>1964</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">31</container>
+<unitdate>1969</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">32</container>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">33</container>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">34</container>
+<unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">35</container>
+<unitdate>1989; 1990</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">36</container>
+<unitdate>1997</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unitdate>Additional notes by Sally Rodes Lee on the letters from 1934 and 1936</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Photographs</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>Sara P. Rodes and Sally Rodes, Delray Beach, Florida</unittitle>
+<unitdate>1934</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">39</container>
+<unittitle>Ken and Jim Goodpasture, Sally Rodes, Jean Puryear, Delray Beach, Florida,</unittitle>
+<unitdate>1934</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

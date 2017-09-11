@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Lytle, Andrew Nelson Papers</titleproper>
+<titleproper>Finding Aid for the The Andrew Nelson Lytle 1988 Addition</titleproper>
+<author>Catherine Ashley Via</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>1900-1928</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>The Andrew Nelson Lytle 1988 Addition</unittitle>
+<unitid>MSS.0603</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied"></extent>
+</physdesc>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent>
+<head><emph render="bold">Summary</emph></head>
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+<colspec colnum="2" colname="2" align="left" colwidth="100pt"/>
+<tbody>
+<row>
+<entry colname="1">Size</entry>
+<entry colname="2">1 linear ft.</entry>
+</row>
+<row>
+<entry colname="1">Geographic Locations</entry>
+<entry colname="2">United States</entry>
+</row>
+<row>
+<entry colname="1">Inclusive Dates</entry> 
+<entry colname="2">1922-1988</entry>
+</row>
+<row>
+<entry colname="1">Bulk Dates</entry> 
+<entry colname="2">1937-1987</entry>
+</row>
+<row>
+<entry colname="1">Languages</entry>
+<entry colname="2">English</entry>
+</row>
+<row>
+<entry colname="1">Summary</entry>
+<entry colname="2">The Papers of Andrew Nelson Lytle (1902-1995), author, educator, editor, critic and Vanderbilt University alumnus (B.A. 1925), were acquired in 1988 from Mr. Lytle. Lytle was a member of the Agrarian literary movement and was close colleagues with Robert Penn Warren, John Crowe Ransom, and Allen Tate.</entry>
+</row>
+<row>
+<entry colname="1">Access Restrictions</entry> 
+<entry colname="2">No restrictions</entry>
+</row>
+<row>
+<entry colname="1">Copyright</entry>
+<entry colname="3">Andrew Lytle&#8217;s literary executor is his son-in-law, George Chamberlain of Sewanee. His address is:</entry>
+<entry colname="1">George I. Chamberlain 233 Quintard Road Sewanee, TN 37375</entry>
+<entry colname="1">Telephone: 931-598-0532</entry>
+</row>
+<row>
+<entry colname="1">Stack Locations</entry>
+<entry colname="2">Manuscripts</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</scopecontent>
+<bioghist>
+<head><emph render="bold">Biography</emph></head>
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="1" align="left" colwidth="100pt"/>
+<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+<tbody>
+<row>
+<entry colname="2">Born on December 26, in Murfreesboro, Tennessee, to Robert Logan and Lillie Belle Lytle.</entry>
+<entry colname="1">1902</entry>
+</row>
+<row>
+<entry colname="2">Father buys the Log Cabin at Monteagle, Tennessee</entry>
+<entry colname="1">1907</entry>
+</row>
+<row>
+<entry colname="2">Enrolls in Sewanee Military Academy as a day student in fall of 1916; attends as boarding student after fall of 1917 when mother buys house in Sewanee; wins the Golden Medal for Scholarship; upon graduation is offered, but refuses an appointment to West Point; travels in France with mother and sister, Polly; writes a letter from France to Sewanee&#8217;s headmaster, Major Henry Gass, which is printed in <emph render="underline">The Little Tiger</emph>, the student publication; prepares for admission to Oxford while at the home of Mademoiselle Durieux on the Left Bank in Paris with an English tutor; studies fencing.</entry>
+<entry colname="1">1916-1920</entry>
+</row>
+<row>
+<entry colname="2">Enters Exeter College, Oxford; called home after three weeks because of death of grandfather, John Nelson; enrolls in Vanderbilt in fall to be near grandmother, Molly Nelson, in Murfreesboro</entry>
+<entry colname="1">1921</entry>
+</row>
+<row>
+<entry colname="2">Takes sophomore literature under Donald Davidson.</entry>
+<entry colname="1">1922</entry>
+</row>
+<row>
+<entry colname="2">Publishes two poems in Vanderbilt&#8217;s undergraduate review, <emph render="underline">Driftwood</emph> Flames, &#8220;Hill Cattle&#8221; and &#8220;Une Reflexion.&#8221;</entry>
+<entry colname="1">1923</entry>
+</row>
+<row>
+<entry colname="2">Becomes a student of John Crowe Ransom and a classmate of Robert Penn Warren during Vanderbilt career; writes <emph render="underline">Journal of European Tour: 1 July &#8211; 6 September 1924;</emph> attends Fugitive meetings during senior year.</entry>
+<entry colname="1">1924</entry>
+</row>
+<row>
+<entry colname="2">Publishes &#8220;Edward Graves&#8221; in March issue of <emph render="underline">The Fugitives;</emph> Vanderbilt&#8217;s Calumet Club produces his one-act play <emph render="underline">The Gold Tooth;</emph> graduates from Vanderbilt with B.A. degree; goes to Guntersville, Alabama, where he runs his father&#8217;s farm, Cornsilk, for a year.</entry>
+<entry colname="1">1925</entry>
+</row>
+<row>
+<entry colname="2">Begins a long play entitled <emph render="underline">New Ground:</emph> raises strawberries; becomes a student of George Pierce Baker at the 47 Workshop at Yale in the fall; wins several acting roles.</entry>
+<entry colname="1">1926</entry>
+</row>
+<row>
+<entry colname="2">Receives an invitation from Tate in March to visit him at 27 Bank Street, New York City; their friendship begins.</entry>
+<entry colname="1">1927</entry>
+</row>
+<row>
+<entry colname="2">Baker&#8217;s Experimental Theatre produces his one-act play, <emph render="underline">The Lost Sheep;</emph> earns a role in a twelve-week Broadway production of <emph render="underline">The Grey Fox</emph>.</entry>
+<entry colname="1">1928</entry>
+</row>
+<row>
+<entry colname="2">Lytle does research for a biography of Nathan Bedford Forrest; plans a biography of J.C. Calhoun; lives with paralytic boy as a paid housekeeper; returns to South in May to continue Forrest research; spends June in New York trying out for <emph render="underline">The Patriarch</emph> which open is fall [1926]; becomes involved in plans for an Agrarian offensive.</entry>
+<entry colname="1">1929</entry>
+</row>
+<row>
+<entry colname="2">Contributes &#8220;The Hind Tit&#8221; to Agrarian symposium; argues against title, <emph render="underline">I&#8217;ll Take My Stand;</emph> continues work on <emph render="underline">Forrest</emph>.</entry>
+<entry colname="1">1930</entry>
+</row>
+<row>
+<entry colname="2">Oversees strawberry crop in Huntsville, Alabama; publishes <emph render="underline">Bedford Forrest and His Critter Company;</emph> reviews Stribling&#8217;s <emph render="underline">The Forge</emph> in &#8220;Life in the Cotton Belt&#8221; for New Republic; is reported in July in Huntsville&#8217;s <emph render="underline">The Times</emph> to advocate erecting a Forrest statue; returns to Southampton on Long Island in summer where, with George Haight as director and treasurer, he and others start the Hampton Players; in July performs in <emph render="underline">The Immodest Violet</emph>; reviews four Lincoln books for <emph render="underline">Virginia Quarterly Review</emph> in &#8220;The Lincoln Myth.&#8221;</entry>
+<entry colname="1">1931</entry>
+</row>
+<row>
+<entry colname="2">Publishes first piece of fiction, &#8220;Old Scratch in the Valley,&#8221; in Virginia Quarterly Review; decides against Calhoun biography; reviews book on Robert Barnwell Rhett and one of Edmund Ruffin for <emph render="underline">Hound and Horn</emph> in &#8220;Principles of Secession&#8221;; visits Albemarle, Virginia; there becomes engaged to a daughter of the Pattons who, in September, breaks the engagement; gets involved in a legal battle over mortgage rights to Cornsilk; continues to work on long play; begins &#8220;Mr. MacGregor.&#8221; His mother dies.</entry>
+<entry colname="1">1932</entry>
+</row>
+<row>
+<entry colname="2">Reviews book on Sherman for <emph render="underline">Virginia Quarterly Review</emph> in &#8220;A Tactical Blunder&#8221;; contributes &#8220;A Confederate General&#8221; to <emph render="underline">New Republic</emph>; finishes revision of &#8220;The Backwoods Progression&#8221; and publishes it in <emph render="underline">American Review</emph>.</entry>
+<entry colname="1">1933</entry>
+</row>
+<row>
+<entry colname="2">Receives Owsley&#8217;s narrative of his Uncle Dink in June; attends Alabama Writers&#8217; Conference; completes &#8220;John Taylor and the Political Economy,&#8221; a three-part essay published in <emph render="underline">American Review;</emph> spends Christmas in New Orleans with Tates</entry>
+<entry colname="1">1934</entry>
+</row>
+<row>
+<entry colname="2">Publishes &#8220;The Passion of Aleck Maury,&#8221; a review of Caroline Gordon&#8217;s novel in New Republic; attends the Mercantile Library Association meeting in Cincinnati with Tate; &#8220;Mr. MacGregor&#8221; appears in Virginia Quarterly Review in April; works on a play, possibly The Gold Dust Family, while at Cornsilk; reviews Chilton&#8217;s Follow The Furies and later, Freeman&#8217;s R.E. Lee in The Southern Review; begins paper for second agrarian symposium.</entry>
+<entry colname="1">1935</entry>
+</row>
+<row>
+<entry colname="2">Becomes professor of American History at Southwestern College in Memphis; &#8220;Jericho, Jericho&#8221; appears in <emph render="underline">The Southern Review;</emph> contributes &#8220;The Small Farm Secures the State&#8221; to <emph render="underline">Who Owns America?</emph>; by August the Alabama Supreme Court decides in favor of his father in the farm lawsuit; &#8220;The Approach of the Southern Writer to His Material&#8221; appears in <emph render="underline">The Atlanta Constitution</emph>.</entry>
+<entry colname="1">1936</entry>
+</row>
+<row>
+<entry colname="2">Goes to New Orleans in February then on to Hollywood; visits George Haight and investigates movie possibilities; helps wage campaign to retain Ransom at Vanderbilt; begins work on <emph render="underline">At The Moon&#8217;s Inn</emph>.</entry>
+<entry colname="1">1937</entry>
+</row>
+<row>
+<entry colname="2">Reviews Styron&#8217;s <emph render="underline">The Cast Iron Man</emph> in &#8220;John C. Calhoun&#8221; for <emph render="underline">The Southern Review;</emph> continues research on De Soto in Nashville and Little Rock; marries Edna Langdon Barker in June; spends three months in California working on novel; moves to Monteagle in fall.</entry>
+<entry colname="1">1938</entry>
+</row>
+<row>
+<entry colname="2">Attends Writers&#8217; Conference in Savannah; continues work on De Soto and publishes excerpt, &#8220;A Fragment: How Nuno Tovar Came to Cross the Ocean Sea,&#8221; in June; remains at Monteagle but buys a 330-acre farm in Robertson County, Tennessee.</entry>
+<entry colname="1">1939</entry>
+</row>
+<row>
+<entry colname="2">Receives Guggenheim Fellowship; spends part of summer with Tates at Princeton; in December, secures 627 Dumaine Street in New Orleans for three months and works on De Soto.</entry>
+<entry colname="1">1940</entry>
+</row>
+<row>
+<entry colname="2">Gets a three-month extension of Guggenheim; returns to Monteagle around June first; accepts offer of a rent-free house at Sewanee in exchange for public lectures; <emph render="underline">At The Moon&#8217;s Inn</emph> appears November 16, the day his first daughter, Pamela, is born.</entry>
+<entry colname="1">1941</entry>
+</row>
+<row>
+<entry colname="2">Accepts a teaching position at Sewanee Military Academy; later becomes professor of history at the University of the South and managing editor of <emph render="underline">Sewanee Review;</emph> &#8220;Alchemy&#8221; comes out in <emph render="underline">Kenyon Review</emph>.</entry>
+<entry colname="1">1942</entry>
+</row>
+<row>
+<entry colname="2">Reviews Freeman&#8217;s <emph render="underline">Lee&#8217;s Lieutenants</emph> for <emph render="underline">Sewanee Review;</emph> father dies on Valentine&#8217;s Day in Guntersville; sells what remains of Cornsilk after TVA flooding; spends summer at farm in Portland in Robertson County; publishes a review of Warren&#8217;s <emph render="underline">At Heaven&#8217;s Gate in Sewanee Review;</emph> declines job in war department.</entry>
+<entry colname="1">1943</entry>
+</row>
+<row>
+<entry colname="2">Raises turkeys and tobacco in Portland; continues to edit <emph render="underline">Review</emph> through spring issue; goes on duck hunt to Reelfoot Lake which contributes to the creation of &#8220;The Guide.&#8221;</entry>
+<entry colname="1">1944</entry>
+</row>
+<row>
+<entry colname="2">&#8220;The Guide&#8221; (later &#8220;The Mahogany Frame&#8221;) appears in <emph render="underline">Sewanee Review</emph> and wins Lytle a cash prize from Prentice-Hall.</entry>
+<entry colname="1">1945</entry>
+</row>
+<row>
+<entry colname="2">Remains in Portland and begins work on <emph render="underline">A Name for Evil;</emph> a second daughter, Katherine Anne, is born on May 12.</entry>
+<entry colname="1">1946</entry>
+</row>
+<row>
+<entry colname="2">Goes to University of Iowa for spring semester to take over fiction classes and work on novella; makes a three-day trip to California in April; spends summer in Portland finishing <emph render="underline">A Name for Evil</emph> which comes out in August; returns to Iowa in fall as Acting Head of the Iowa University School of Writing; Flannery O&#8217;Connor is in his writing class.</entry>
+<entry colname="1">1947</entry>
+</row>
+<row>
+<entry colname="2">Takes over household chores while Edna recuperates from an operation; attends a ten-day workshop in Missouri in June; returns to Portland; publishes &#8220;Note on a Traditional Sensibility,&#8221; a tribute to Ransom in <emph render="underline">Sewanee Review;</emph> in fall accepts position of Lecturer in Creative Writing at the University of Florida in Gainesville</entry>
+<entry colname="1">1948</entry>
+</row>
+<row>
+<entry colname="2">Publishes &#8220;Regeneration for Man,&#8221; an essay on Faulkner&#8217;s <emph render="underline">Intruder in the Dust</emph> in <emph render="underline">Sewanee Review;</emph> starts work on what will become <emph render="underline">The Velvet Horn;</emph> sells Log Cabin to the Woman&#8217;s Association; begins building a house in Gainesville; assesses Gordon&#8217;s fiction in a <emph render="underline">Sewanee Review</emph> essay entitled &#8220;Caroline Gordon and the Historic Image.&#8221;</entry>
+<entry colname="1">1949</entry>
+</row>
+<row>
+<entry colname="2">Moves into newly finished house at 1822 North West Ave. in May.</entry>
+<entry colname="1">1950</entry>
+</row>
+<row>
+<entry colname="2">Continues work on <emph render="underline">The Velvet Horn</emph>.</entry>
+<entry colname="1">1951</entry>
+</row>
+<row>
+<entry colname="2">Contributes to &#8220;The Agrarian Today,&#8221; a symposium published in <emph render="underline">Shenandoah;</emph> leases Portland farm.</entry>
+<entry colname="1">1952</entry>
+</row>
+<row>
+<entry colname="2">Submits &#8220;How Many Miles to Babylon&#8221; to the Hopkins symposium; &#8220;Image as the Guide to Meaning in the Historical Novel&#8221; appears in <emph render="underline">Sewanee Review;</emph> the third daughter, Lillie Langdon is born November 15.</entry>
+<entry colname="1">1953</entry>
+</row>
+<row>
+<entry colname="2">Heads the humanities division of the International Seminar of the Harvard Summer School; visits the Allen Tates in Princeton; works five weeks on a Faulkner paper; reviews Gerald Carson&#8217;s <emph render="underline">The Old Country Store for The Southern Folklore Quarterly;</emph> goes to New York in December to summarize three papers given at the MLA symposium, &#8220;The Southern Literary Renaissance.&#8221;</entry>
+<entry colname="1">1954</entry>
+</row>
+<row>
+<entry colname="2">Publishes Faulkner essay, &#8220;The Son of Man: He Will Prevail,&#8221; in Sewanee Review; continues work on <emph render="underline">The Velvet Horn;</emph> his &#8220;A Summing Up,&#8221; along with the three other papers from the MLA symposium, is published in <emph render="underline">Shenandoah</emph>.</entry>
+<entry colname="1">1955</entry>
+</row>
+<row>
+<entry colname="2">Participates in the Fugitives&#8217; Reunion held at Vanderbilt, May 3-5; &#8220;What Quarter of the Night,&#8221; an excerpt from <emph render="underline">The Velvet Horn</emph>, still in progress, appears in <emph render="underline">Sewanee Review</emph>; publishes &#8220;A Hero and the Doctrinaires of Defeat&#8221; in <emph render="underline">The Georgia Review</emph> and an essay on Gordon&#8217;s collection of short stories, <emph render="underline">The Forest of the South</emph>, in Critique.</entry>
+<entry colname="1">1956</entry>
+</row>
+<row>
+<entry colname="2">Leaves Bobbs-Merrill for McDowell, Obolensky; sells Portland farm in April; publishes an essay on Faulkner, <emph render="underline">&#8220;The Town</emph>: Helen&#8217;s Last Stand&#8221; in <emph render="underline">Sewanee Review; The Velvet Horn</emph> comes out in August; goes to New York to promote sales.</entry>
+<entry colname="1">1957</entry>
+</row>
+<row>
+<entry colname="2">Reviews works by Walter Sullivan, Howard Nemerov, and Peter Taylor in &#8220;The Displaced Family&#8221; in <emph render="underline">Sewanee Review;</emph> reviews <emph render="underline">The Lasting South</emph>, ed. by Kilpatrick and Rubin, in &#8220;The Quality of the South&#8221; for <emph render="underline">National Review; A Novel, Novella and Four Stories</emph> comes out with a new &#8220;Foreword&#8221;; reviews Cheney&#8217;s <emph render="underline">This Is Adam</emph> and Wright&#8217;s <emph render="underline">The Long Dream</emph> in &#8220;Man or Symbol&#8221; for <emph render="underline">National Review</emph>.</entry>
+<entry colname="1">1958</entry>
+</row>
+<row>
+<entry colname="2">&#8220;The Working Novelist and the Mythmaking Process&#8221; appears in <emph render="underline">Daedalus;</emph> has a serious operation in June which forces him to cancel a summer lectureship at Harvard; attends McDowell, Obolensky anniversary party in New York in August; visits Tate and Isabella at Princeton; publishes &#8220;Allen Tate: Upon the Occasion of His Sixtieth Birthday&#8221; in <emph render="underline">Sewanee Review;</emph> writes an introduction for a new printing of <emph render="underline">Forrest;</emph> spends Christmas with Tates in Florida.</entry>
+<entry colname="1">1959</entry>
+</row>
+<row>
+<entry colname="2">Funding from Guggenheim Fellowship begins; makes plans to write memoir; travels to Mexico, but Edna becomes ill there; returns to Florida then Memphis where she is diagnosed as having lung cancer; buys back the Log Cabin from the Woman&#8217;s Association; the new printing of <emph render="underline">Forrest</emph> appears.</entry>
+<entry colname="1">1960</entry>
+</row>
+<row>
+<entry colname="2">Takes leave of absence from Gainesville in May to edit <emph render="underline">Sewanee Review</emph> and becomes lecturer in English at the University of the South; begins editing <emph render="underline">Review</emph> with Autumn number.</entry>
+<entry colname="1">1961</entry>
+</row>
+<row>
+<entry colname="2">Attends Literary Festival in Spartanburg and ALMA in New York; works on essay on impressionism.</entry>
+<entry colname="1">1962</entry>
+</row>
+<row>
+<entry colname="2">Learns that Edna&#8217;s cancer has returned; publishes &#8220;Agee&#8217;s Letters to Father Flye&#8221; in <emph render="underline">Sewanee Review</emph> and &#8220;Impressionism, the Ego and the First Person&#8221; in <emph render="underline">Daedalus;</emph> is called back to hospital during Vanderbilt&#8217;s annual symposium; Edna dies April 26; invites Pamela and her husband, Jim Law, to move in the Log Cabin; fulfills engagements at Richmond, Kentucky, and Tryon, North Carolina, before attending the William Elliott celebration in Cambridge in July.</entry>
+<entry colname="1">1963</entry>
+</row>
+<row>
+<entry colname="2">Undergoes another serious operation in spring; daughter Kate marries in August; delivers Founder&#8217;s Day Address, &#8220;A Christian University and the Word,&#8221; at Sewanee in October; publishes a tribute to Flannery O&#8217;Connor in <emph render="underline">Espirit,</emph> the literary magazine of the University of Scranton.</entry>
+<entry colname="1">1964</entry>
+</row>
+<row>
+<entry colname="2">Plans a special issue of the <emph render="underline">Review</emph> devoted to Eliot and guest edited by Tate; is accorded an honorary Doctor of Letters degree from Kenyon; publishes an essay on Hemingway, <emph render="underline">&#8220;A Moveable Feast:</emph> The Going To and Fro&#8221; and one on Bovary, &#8220;In Defense of a Passionate and Incorruptible Heart&#8221; in <emph render="underline">Sewanee Review</emph>.</entry>
+<entry colname="1">1965</entry>
+</row>
+<row>
+<entry colname="2">Brings out Eliot issue; participates in a discussion published in Alabama <emph render="underline">Alumni News</emph> as &#8220;And Like All Good Conversations It Never Ends&#8221;; adds &#8220;&#8217;The Open Boat&#8217;: A Pagan Tale&#8221; to the essays collected and published as <emph render="underline">The Hero with the Private Parts;</emph> receives the National Foundation for the Arts and Humanities Award.</entry>
+<entry colname="1">1966</entry>
+</row>
+<row>
+<entry colname="2">&#8220;A Wake for the Living&#8221; appears in <emph render="underline">Sewanee Review</emph> as an excerpt from a memoir by that name, still in progress.</entry>
+<entry colname="1">1967</entry>
+</row>
+<row>
+<entry colname="2">Attends Dallas Literary Festival honoring Nashville Agrarians and presents paper on Joyce; promoted to rank of Professor of English at University of the South.</entry>
+<entry colname="1">1968</entry>
+</row>
+<row>
+<entry colname="2"><emph render="underline">A Name for Evil</emph> appears an unauthorized Avon Paperback; &#8220;A Reading of Joyce&#8217;s &#8216;The Dead&#8217;&#8221; printed in <emph render="underline">Sewanee Review;</emph> adds &#8220;Forward&#8221; to a collection of Owsley&#8217;s essays, <emph render="underline">The South: Old and New Frontiers</emph>.</entry>
+<entry colname="1">1969</entry>
+</row>
+<row>
+<entry colname="2">Accorded honorary Doctor of Letters degree by University of Florida during Florida&#8217;s Writers&#8217; Conference; &#8220;Jericho, Jericho, Jericho&#8221; is dramatized at Vanderbilt.</entry>
+<entry colname="1">1970</entry>
+</row>
+<row>
+<entry colname="2">&#8220;The Garden of Innocence,&#8221; a second excerpt from <emph render="underline">The Wake</emph> and &#8220;The State of Letters in a Time of Disorder&#8221; appear in <emph render="underline">Sewanee Review;</emph> edits and prepares &#8220;Forward&#8221; to <emph render="underline">Craft and Vision: The Best Fiction from &#8220;The Sewanee Review.&#8221;</emph></entry>
+<entry colname="1">1971</entry>
+</row>
+<row>
+<entry colname="2">&#8220;The Old Neighborhood,&#8221; a third excerpt from the memoir in progress, appears in <emph render="underline">The Southern Review</emph>.</entry>
+<entry colname="1">1972</entry>
+</row>
+<row>
+<entry colname="2">A surreptitious Avon Paperback of <emph render="underline">The Long Night</emph> comes out in March; retires as editor of <emph render="underline">Sewanee Review</emph> with the Autumn issue; accorded honorary Doctor of Letters degree from University of the South.</entry>
+<entry colname="1">1973</entry>
+</row>
+<row>
+<entry colname="2">Serves as Vanderbilt&#8217;s Visiting Professor during spring semester.</entry>
+<entry colname="1">1974</entry>
+</row>
+<row>
+<entry colname="2">Moves to a 75-acre farm in Kentucky in April; <emph render="underline">A Wake for the Living</emph> appears in July; a response to questions is recorded in <emph render="underline">South Dakota Review</emph> as &#8220;The Writer&#8217;s Sense of Place.&#8221;</entry>
+<entry colname="1">1975</entry>
+</row>
+<row>
+<entry colname="2">Composes a tribute to Peter Taylor, &#8220;On a Birthday,&#8221; for <emph render="underline">Shenandoah</emph>. Sells the Kentucky farms and moves back to the Log Cabin.</entry>
+<entry colname="1">1976</entry>
+</row>
+<row>
+<entry colname="2">Writes &#8220;A Ploughman&#8217;s Politics&#8221; on the republication of John Taylor of Caroline&#8217;s <emph render="underline">Arator</emph> for<emph render="underline"> Modern Age</emph>.</entry>
+<entry colname="1">1977</entry>
+</row>
+<row>
+<entry colname="2">Prepares an &#8220;Introduction&#8221; for the Palaemon Press&#8217;s limited edition of Alchemy; contributes &#8220;The Momentary Man&#8221; to <emph render="underline">The Hillsdale Review</emph>, a publication of Hillsdale College, Michigan.</entry>
+<entry colname="1">1978</entry>
+</row>
+<row>
+<entry colname="2">Publishes &#8220;They Took Their Stand: The Agrarian View After Fifty Years&#8221; in <emph render="underline">Modern Age</emph> and, separately, as <emph render="underline">Reflections of a Ghost;</emph> contributes an untitled response to the question &#8220;Is Regional Writing Dead?&#8221; for <emph render="underline">The Student</emph>, a publication of Wake Forest University; publishes a reminiscence, &#8220;A Journey South,&#8221; in <emph render="underline">Kentucky Review;</emph> attends Vanderbilt&#8217;s Fiftieth Anniversary of the Agrarian Manifesto; participates in a discussion published as &#8220;The Agrarian-Industrial Metaphor&#8221; in <emph render="underline">A Band of Prophets</emph>, ed. by Harvard and Sullivan; writes &#8220;A Tribute&#8221; for the Katherine Anne Porter entry in the 1980 Yearbook of <emph render="underline">Dictionary of Literary Biography</emph>.</entry>
+<entry colname="1">1979</entry>
+</row>
+<row>
+<entry colname="2">Publishes &#8220;The Artists in a Time of Disorder&#8221; in <emph render="underline">The Chattahoochee Review;</emph> &#8220;A Partial Reading of <emph render="underline">Parade&#8217;s End</emph> or the Hero as an Old Furniture Dealer&#8221; in <emph render="underline">The Presence of Ford Madox Ford;</emph> &#8220;The Search for Order in American Society: The Southern Response&#8221; in <emph render="underline">The Southern Partisan;</emph> the &#8220;Afterword&#8221; to <emph render="underline">Why The South Will Survive;</emph> and &#8220;A Tribute&#8221; for the Caroline Gordon entry in the 1981 Yearbook of <emph render="underline">Dictionary of Literary Biography</emph>.</entry>
+<entry colname="1">1980</entry>
+</row>
+<row>
+<entry colname="2">Nominated for the Presidential Medal of Freedom; honored at a celebration of his eightieth birthday at Sewanee; <emph render="underline">The Velvet Horn is reprinted;</emph> &#8220;Allen Tate and John Peale Bishop&#8221; appears in <emph render="underline">Grand Street;</emph> &#8220;Recollection and Reflection&#8221; appears in <emph render="underline">Mountain Voices: The Centennial History of the Monteagle Sunday School Assembly</emph>.</entry>
+<entry colname="1">1981</entry>
+</row>
+<row>
+<entry colname="2">Adds a personal perspective on Frances Cheney in <emph render="underline">References Services and Library Education: Essays in Honor of Frances Neel Cheney</emph>.</entry>
+<entry colname="1">1982</entry>
+</row>
+<row>
+<entry colname="2"><emph render="underline">Alchemy and Other Stories</emph> published; <emph render="underline">Bedford Forrest</emph> reprinted: &#8220;Three Ways of Making a Saint: A Reading of &#8216;Three Tales&#8221; by Flaubert&#8221; appears in <emph render="underline">Southern Review;</emph> Katherine Anne Liggett, Lytle&#8217;s daughter, dies in Pensacola.</entry>
+<entry colname="1">1983</entry>
+</row>
+<row>
+<entry colname="2">Writes &#8220;Foreword&#8221; to <emph render="underline">Shakespeare&#8217;s Insistent Theme</emph>, a volume in honor of Charles Harrison. Wins the Lynhurst Foundation grant.</entry>
+<entry colname="1">1984</entry>
+</row>
+<row>
+<entry colname="2">Awarded the Ingersoll Foundation prize, the Richard M. Weaver Award for Scholarly Letters given in Chicago in November. Continues to live in the Log Cabin at Monteagle.</entry>
+<entry colname="1">1985</entry>
+</row>
+<row>
+<entry colname="2">Lytle dies in his Monteagle cabin at the age of 92 on December 14, from an illness he had for many years. He was the last surviving member of the Agrarian literary group.</entry>
+<entry colname="1">1986</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</bioghist>
+<userestrict>
+<p><emph render="underline">Most notes taken from:</emph></p>
+<p><emph render="underline"><emph render="bold">The Lytle-Tate Papers: The Correspondence of Andrew Lytle and Allen Tate</emph></emph>.</p>
+<p>Thomas Daniel Young and Elizabeth Sarcone, eds. Jackson: University Press of Mississippi, 1987.</p>
+</userestrict>
+<scopecontent>
+<head><emph render="bold">Scope and Contents</emph></head>
+<p>The Papers of Andrew Nelson Lytle (1902-1995), author, educator, editor, critic and Vanderbilt University alumnus (B.A. 1925), were acquired in 1988 from Mr. Lytle. A preliminary organization was performed on the collection in 1988, but until now had not been fully processed. This collection consists of copied material and is valued for its informational content such as extensive letters from Lytle&#8217;s wife, Edna Langdon Barker Lytle. Included within this collection is correspondence, writings, writings about Lytle, family documents, and financial documents.</p>
+<p>For details of Lytle&#8217;s life and works, the following are recommended:</p>
+<p>Lucas, Mark. &#8220;Andrew Lytle,&#8221; in <emph render="underline">Fifty Southern Writers After 1900</emph>. Joseph M. Flora and Robert Bain, eds. New York: Greenwood Press, 1987. (Pages 290-300)</p>
+<p>Lytle, Andrew Nelson. <emph render="underline">A Wake For The Living: A Family Chronicle</emph>. New York: Crown Publishers, 1975.</p>
+<p>Polk, Noel. &#8220;Andrew Nelson Lytle: A Biography of His Writings,&#8221; <emph render="underline">Mississippi Quarterly</emph> 23 (Fall, 1970): 435-491</p>
+<p>Wright, Stuart T. <emph render="underline">Andrew Nelson Lytle: A Bibliography, 1920-1982</emph>. Sewanee, TN: University of the South, 1982.</p>
+</scopecontent>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle><emph render="bold">SERIES AND SUBSERIES DESCRIPTIONS</emph></unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="bold">Series I. Correspondence</emph></unittitle>
+<unitdate>1922 &#8211; 1988</unitdate>
+<note>
+<p>The Correspondence Series is contained in 2 boxes of this collection. The series is subdivided into Outgoing (1937&#8211;1958) and Incoming (1922&#8211;1988).</p>
+<p>The Outgoing Correspondence is comprised of 71 letters that are arranged chronologically. The date of the postmark was used when a letter was undated. The majority of outgoing correspondence is to Lytle&#8217;s wife, Edna Langdon Barker Lytle. There are three undated outgoing letters without postmarked envelopes.</p>
+<p>The Incoming Correspondence is made up of 582 letters and is arranged alphabetically by correspondent. Letters were arranged chronologically when more than one letter of a correspondent was present. As with the outgoing correspondence, the incoming correspondence used the postmark date of the envelope if the letter was undated. The affiliation of the correspondent is noted in parenthesis. Bracketed information indicates either to whom the correspondence is directed if other than Andrew Lytle or gives additional details about the correspondence. Dates are inclusive dates of the correspondence. There are several letters from Edna Langdon Barker Lytle, Andrew&#8217;s wife.</p>
+</note>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="bold">Series II. Writings, Undated</emph></unittitle>
+<note>
+<p>Writings by Andrew Lytle make up seven folders within this collection. All writings are typescript essays.</p>
+</note>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="bold">Series III. Writings About Lytle, Undated</emph></unittitle>
+<note>
+<p>This series is comprised of four folders that are writings about Andrew Lytle or his writings.</p>
+</note>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="bold">Series IV. Family</emph></unittitle> 
+<unitdate>1959</unitdate>
+<note>
+<p>The family series contains one folder of a grade report for Pamela Lytle at St. Mary&#8217;s School in Sewanee, Tennessee.</p>
+</note>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="bold">Series V. Financial</emph></unittitle> 
+<unitdate>1982 - 1988</unitdate>
+<note>
+<p>There is only one folder that makes up the financial series. The folder consists of various financial documents, such as bills, a royalty statement, a reprint permission fee form, a receipt, and a purchase order from Austin Peay State University.</p>
+</note>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>SERIES I. CORRESPONDENCE</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Outgoing Correspondence:</unittitle>
+<unitdate>March 16, 1937 &#8211; July 1939</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Outgoing Correspondence:</unittitle>
+<unitdate>Aug. 1, 1939 &#8211; March 20, 1942</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Outgoing Correspondence:</unittitle>
+<unitdate>March 21, 1942 &#8211; June 30, 1949</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Outgoing Correspondence:</unittitle>
+<unitdate>July 6, 1949 &#8211; June 21, 1954</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Outgoing Correspondence:</unittitle>
+<unitdate>June 22, 1954 - Undated</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Alexander, L. &#8211; Ashby, J</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Ball, B &#8211; Barker, H.H</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Barker, Mrs. H.H. (1 of 2)</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Barker, Mrs. H.H. (2 of 2)</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Barrett, J. &#8211; Bovenizer, D</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Bragg, J. &#8211; Bryant, J</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Cardineau, T. &#8211; Cullen, C</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Dalrymple, A. &#8211; Dunlap, B</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Easterly, J. &#8211; England, B</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Farrer, L. &#8211; Frederickson, A</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Gardner, I. &#8211; Green, F</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Hale, P. &#8211; Hunt, S</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Jacobs, M. &#8211; Jordan, M</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Kirk, R. &#8211; Koch, C</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Law, P. &#8211; Lyman, G</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Lytle, E. (1 of 15)</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Lytle, E. (2 of 15)</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Lytle, E. (3 of 15)</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Lytle, E. (4 of 15)</unitdate>
+</did>
+</c02>
+
+<c02 level="subseries">
+<did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>Incoming Correspondence:</unittitle>
+<unitdate>Lytle, E. (5 of 15)</unitdate>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Incoming Correspondence: Lytle, E. (6 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Incoming Correspondence: Lytle, E. (7 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Incoming Correspondence: Lytle, E. (8 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Incoming Correspondence: Lytle, E. (9 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Incoming Correspondence: Lytle, E. (10 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Incoming Correspondence: Lytle, E. (11 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Incoming Correspondence: Lytle, E. (12 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Incoming Correspondence: Lytle, E. (13 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Incoming Correspondence: Lytle, E. (14 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>Incoming Correspondence: Lytle, E. (15 of 15)</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unittitle>Incoming Correspondence: Lytle, P.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>Incoming Correspondence: McConnell, T. &#8211; McGehee, L.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Incoming Correspondence: McNabb, T. &#8211; Murrah, J.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Incoming Correspondence: Nagel, E. &#8211; Northouse, C.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Incoming Correspondence: Owsley, H.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>Incoming Correspondence: Paine, J.H.E. &#8211; Pritchard, B.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>Incoming Correspondence: Rasheed, N. &#8211; Ryan, S.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>Incoming Correspondence: Salaita, G. &#8211; Sundahle, D.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unittitle>Incoming Correspondence: Tate, A. &#8211; Tullis, D.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unittitle>Incoming Correspondence: Underwood, T.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unittitle>Incoming Correspondence: Vanzandt, K.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unittitle>Incoming Correspondence: Walsh, M. &#8211; Weeks, L.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>Incoming Correspondence: Weyman, B. &#8211; Wyatt, R.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unittitle>Incoming Correspondence: Yoken, M. &#8211; Young, T.D.</unittitle> 
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">2</container>
+<container type="folder">25</container>
+<unittitle>Incoming Correspondence: Unidentified</unittitle> 
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>SERIES II. WRITINGS</unittitle>
+</did>
+
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings &#8211; Typescript: &#8220;Can You Teach Creative Writing.&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings &#8211; Typescript: &#8220;A Medley: History and Myth and the Artist&#8221; (1 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings &#8211; Typescript: &#8220;A Medley: History and Myth and the Artist&#8221; (2 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings &#8211; Typescript: &#8220;A Medley: History and Myth and the Artist&#8221; (3 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings &#8211; Typescript: &#8220;A Medley: History and Myth and the Artist&#8221; (4 of 4)</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings &#8211; Typescript: &#8220;The Plumed Serpent and the White Elephant&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings &#8211; Typescript: &#8220;The Unclean Lips&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings ABOUT LYTLE</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings About Lytle &#8211; &#8220;About Andrew Lytle&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings About Lytle &#8211; &#8220;Andrew Lytle: A Personal Remembrance&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings About Lytle &#8211; Interview with Andrew Lytle by Claude Koch</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Writings About Lytle &#8211; &#8220;In the Inner Chamber: The Velvet Horn&#8221;</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<container type="box">3</container>
+<unittitle>SERIES IV. FAMILY</unittitle>
+</did>
+
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Family</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>SERIES V. FINANCIAL</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Financial</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Walsh, Joseph Leonard Collection</titleproper>
+<titleproper>Finding Aid for the Joseph Leonard Walsh Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>The Joseph Leonard Walsh Collection</unittitle>
+<unitid>MSS.0487</unitid>
+<unitdate>undated</unitdate>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">.84 linear feet</extent>
+</physdesc>
+</did>
+<bioghist>
+<head>Biographical Sketch</head>
+<chronlist>
+<chronitem>
+<date>Sept. 21, 1895</date>
+<event>Born, Washington, to John Leonard and Sally (Jones) Walsh.</event>
+</chronitem>
+<chronitem>
+<date>1908-1912</date>
+<event>Student, Baltimore Polytechnic Institute.</event>
+</chronitem>
+<chronitem>
+<date>1912-1913</date>
+<event>Student, Columbia University.</event>
+</chronitem>
+<chronitem>
+<date>1916</date>
+<event>S.B., Harvard University University of Chicago, post-graduate studies.</event>
+</chronitem>
+<chronitem>
+<date>1917</date>
+<event>University of Wisconsin. 1920 Ph.D., Harvard.</event>
+</chronitem>
+<chronitem>
+<date>1920-1921</date>
+<event>University of Paris (France).</event>
+</chronitem>
+<chronitem>
+<date>1925-1926</date>
+<event>University of Munich (Germany).</event>
+</chronitem>
+<chronitem>
+<date>July 15, 1931</date>
+<event>Married Aline Natalie Burgess (divorced July, 1941), children: Sallie Elizabeth (Mrs. Gordon Taylor Curtis), Elizabeth Hildegard (Mrs. David Wolfe).</event>
+</chronitem>
+<chronitem>
+<date>April 2, 1946</date>
+<event>Married Elizabeth Cherry Strayhorn</event>
+</chronitem>
+</chronlist>
+<p>Walsh was a faculty member of Harvard University from 1916-1966, and Professor of Mathematics from 1935 until 1966. In 1965 he served as Professor of Mathematics at the University of Maryland in College Park. He was member (and past president) of the American Mathematics Society, National Academy of Sciences, Mathematics Association of America, A.A.A.S., Phi Beta Kappa, Sigma Xi, and a Fellow of the American Academy of Arts and Sciences.</p>
+<p>Walsh is well known as the author of several articles including &#x201C;Interpolation and Approximation,&#x201D; 1935; &#x201C;Approximation by Polynomials,&#x201D; 1935; &#x201C;Location of Critical Points,&#x201D; 1950; &#x201C;Approximation by Bounded Functions,&#x201D; 1960 (with A.H. Ahlberg and E.N. Wilson); and &#x201C;Theory of Splines,&#x201D; 1967. (Note: The articles cited are not necessarily in the J.L. Walsh Collection in Special Collections, Vanderbilt). He also dedicated much of his time to research on approximation to functions, location zeros polynomials, and orthoganal functions.</p>
+<p>Information&#x2014;<emph render="underline">Dictionary of American Men and Women in Science</emph> (1973), vol.6, p. 6682.</p>
+</bioghist>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>Incoming Correspondence &#x2014; Joseph Leonard Walsh Collection</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Geiler, Frau Emelie, 2-4-1927 (written in German)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Kothe, Gottfried, 5-7-1968</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>Shoenberg, I.J., 9-19-1972 (enclosed with Russian translation concerning theory of spline approximation)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Syllabus &#x2014; Joseph Leonard Walsh Collection</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Dept. of Mathematics Fall Syllabus - 1962 Harvard University.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Dept. of Mathematics Syllabus, Mathematics 1b - Sept. 1957 Harvard University.</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Scientific Publications of J.L. Walsh 1916-Sept. 1928</unittitle>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Miscellaneous Notes &#x2014; Joseph Leonard Walsh Collection</unittitle>
+</did>
+</c01>
+</dsc>
+<bibliography>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2a</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Analogue for Maximally Convergent Polynomials of Jentzsh&#x2019;s Theorem.</title>&#x201D; <emph render="underline">Duke Mathematical Journal</emph> 26 (December, 1959): 605-616.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Approximation by Bounded Analytic Functions: General Configurations</title>.&#x201D; <emph render="underline">Proceedings of the American Mathematical Society</emph> 10 (April, 1959): 280-285.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Approximation by Bounded Analytic Functions; Uniform Convergence as Implied by Mean Convergence</title>.&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 130 (March, 30): 406-413.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Approximation by Polynomials: Uniform Convergence as Implied by Mean Convergence.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Science</emph> 55 (January, 1966): 20-25.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Approximation by Polynomials: Uniform Convergence as Implied by Mean Convergence, II.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 55 (June, 1966): 1505-1407.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Approximation by Polynomials: Uniform Convergence as Implied by Mean Convergence, III.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 56 (November, 1966): 1406-1408.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Approximation by Rational Functions: Open Problems.</title>&#x201D; <emph render="underline">Journal of Approximation Theory</emph> 3 (September, 1970): 236-242.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Approximation to a Function by a Polynomial in Another Function.</title>&#x201D; <emph render="underline">American Mathematical Monthly</emph> 76 (November, 1969): 1049-1050.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Asymptotic Properties of Polynomials with Auxiliary Conditions of Interpolation.</title>&#x201D; <emph render="underline">Annales Polonci Mathematici XII</emph> (1962): 17-24.</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2b</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Best Approximation by Rational Functions and by Meromorphic Functions with Some Free Poles.</title>&#x201D; <emph render="underline">Journal D&#x2019;Analyse Math&#233;matique</emph> 18 (1967): 359-375.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Boundary Values of an Analytic Function and the Tchebycheff Method of Approximation.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 32 (March 30, 1929): 335-390.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Comvergence of Approximating Rational Functions of Prescribed Type.</title>&#x201D; <emph render="underline">Contempory Problems of the Theory of Analytic Functions</emph> (1966): 304-308.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Convergence of Sequences of Rational Functions of Best Approximation, II.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 116 (April, 1965): 227-237.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Convergence of Sequences of Rational Functions of Best Approximation, III.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 130 (January, 1968): 167-183.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Convergence of Sequences of Rational Functions of Best Approximation with some Free Poles.</title>&#x201D; <emph render="underline">Approximation of Functions</emph> (1965): 1-16.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Degree of Approximation by Bounded Harmonic Functions.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 46 (October, 1960): 1390-1393.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Degree of Approximation by Rational Functions and Polynomials.</title>&#x201D; <emph render="underline">Michigan Mathematical Journal</emph> 15 (1968): 109-110.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Degree of Polynomial Approximation to an Analytic Function as Measured by a Surface Integral.</title>&#x201D; <emph render="underline">National Academy of Sciences</emph> 48 (January, 1962): 26-32.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Divergence of Sequences of Polynomials Interpolating in Roots of Unity.</title>&#x201D; <emph render="underline">Bui let in of the American Mathematical Society</emph> (October, 1936): 715-719.</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2c</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Existence of Rational Functions of Best Approximation</title>.&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 33, 668-689.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>An Extension of the Generalized Bernstein Lemma.</title>&#x201D; <emph render="underline">Colloquim Mathematicum</emph> 16 (1967): 91-92.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>A Generalization of Facer&#x2019;s Polynomials.</title>&#x201D; <emph render="underline">Math. Annalen, Bd</emph> (1958): 23-33.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Hyperbolic Capacity and Interpolating Rational Functions.</title>&#x201D; <emph render="underline">Duke Mathematical Journal</emph> 32 (September, 1965): 369-380.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Inequalities Expressing Degree of Convergnece of Rational Functions.</title>&#x201D; <emph render="underline">Journal of Approximation Theory</emph> 2 (1969): 160-166. [2 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Interpolation and an Analogue of the Laurent Development.</title>&#x201D; <emph render="underline">National Academy of Sciences</emph> 19 (January, 1933): 203-207.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Interpolation and Functions Analytic Interior to the Unit Circle</title>.&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 34 (March, 1932): 523-556.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Lemniscates and Equipotential Curves of Green&#x2019;s Function.</title>&#x201D; <emph render="underline">American Mathematical Monthly</emph> 42 (January, 1935): 1-17.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>The Location of the Critical Points of Simply and Doubly Periodic Functions.</title>&#x201D; <emph render="underline">Duke Mathematical Journal</emph> 14 (September, 1947): 575-586.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Mean Approximation by Polynomials of a Jordan Curve</title>.&#x201D; <emph render="underline">Journal of Approximation Theory</emph> 4 (September, 1971): 263-268.</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2d</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Approximation by Bounded Analytic Functions, Problems x: General Configurations.</title>&#x201D; <emph render="underline">Aquationes Mathematicae</emph> 3 (1969): 160-164.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Classes of Functions Defined by Integrated Lipshitz Conditions.</title>&#x201D; <emph render="underline">American Mathematical Society</emph> 74 (March, 1968): 344-346.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Degree of Approximation by Bounded Analytic Functions: Problem B.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 96 (August, 1960): 246-258.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Degree of Approximation to Analytic Functions by Rational Functions with Preassigned Poles.</title>&#x201D; <emph render="underline">National Academy of Science</emph> 42 (December, 1956): 927-930.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Degree of Convergence of Sequences of Rational Functions of Prescribed Type.</title>&#x201D; <emph render="underline">National Academy of Science</emph> 67 (November, 1970): 1188-1101.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Invariance of Degree of Polynomial and Trigonometric Approximation Under Change of Independent Variable.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 45 (October, 1959): 1528-1533.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Least-Square Approximation to an Analytic Function by Polynomials, as Measured by a Surface Integral.</title>&#x201D; <emph render="underline">Proceedings of the American Mathematical Society</emph> 10 (April, 1959): 273-279.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Polynomial Approximation on a Jordan Arc.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 46 (July, 1960): 981-983.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on Polynomial Interpolation to Analytic Functions</title>.&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 19 (November, 1933): 959-963.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Behavior of a Polynomial at Infinity.</title>&#x201D; <emph render="underline">American Mathematical Monthly</emph> 43 (October, 1936): 461-464.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Coefficients of Over-Convergent Power Series.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> 48 (February, 1942): 163-166.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Convergence of Sequences of Rational Functions of Best Approximation to a Meromorphic Function.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 69 (October 1972): 2963-2964.</bibref>
+<p><emph render="underline">Works Cited</emph>, cont. &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2d (page 2)</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Curvature of Level Curves of Green&#x2019;s Function.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 23 (February, 1937): 84-89. [2 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Curvature of Orhtogonal Trajectories of Level Curves Green&#x2019;s Function.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 23 (March, 1937): 166-169. [4 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Curvature of Orthogonal Trajectories of Level Curves of Green&#x2019;s Functions.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> (August, 1938): 519-523. [2 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Curvature of Orthogonal Trajectories of Level Curves of Green&#x2019;s Functions, III.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> 46 (February, 1940): 101-108.</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2e</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Degree of Convergnece of Sequences of Analytic Functions.</title>&#x201D; <emph render="underline">Tranactions of the American Mathematical Society</emph> 47 (March, 1940): 293-304.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Location of the Critical Points of Green&#x2019;s Function.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> (October, 1933): 775-782.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Location of the Critical Points of Harmonic Functions.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 20 (October, 1934): 551-554.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Orthogonality of Tchebycheff Polynominals on Confocal Ellipses.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> (February, 1934): 83-88.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Overconvergence of Sequences of Polynomials of Best Approximation.</title>&#x201D; <emph render="underline">Transactions of the Mathematical Society</emph> 33 (1930): 370-388.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Note on the Shape of Level Curves of Green&#x2019;s Function.</title>&#x201D; <emph render="underline">Duke Mathematical Journal</emph> 20 (December, 1953): 611-616.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On Approximation by Bounded Analytic Functions.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 87 (March,1958): 467-484.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On Degree of Approximation by Bounded Harmonic Functions.</title>&#x201D; <emph render="underline">Journal de Math&#233;matiques</emph> (1959): 201-220.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On Interpolation and Approximation by Functions Analytic and Bounded in a Given Region.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Science</emph> 24 (October, 1938): 477-486.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On Interpolation by Functions Analytic and Bounded in a Given Region.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 46 (July, 1939): 46-65.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On Polynomial Interpolatiion to Analytic Functions with Singularities.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> (April, 1932): 289-294. [2 copies]</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2f</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On the Circles of Curvature of the Images of Circles Under a Conformal Map.</title>&#x201D; <emph render="underline">American Mathematical Monthly</emph> 46 (October, 1939): 472-485.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On the Convergence of Sequences of Rational Functions.</title>&#x201D; <emph render="underline">Siam Journal</emph> 4 (1967): 211-221.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On the Degree of Approximation to an Analytic Function by Means of Rational Functions</title>.&#x201D; <emph render="underline">Transactions of the American Mathematical Journal</emph> 30 (1928): 838-847.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On the Degree of Convergence of Sequences of Rational Functions</title>.&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 47 (March, 1940): 254-292.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On the Location of the Roots of the Derivative of a Polynomial</title>.&#x201D; Annals of Mathematics 22 (December, 1920): 128-144.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On the Overconvergence of Sequences of Polynomials of Best Approximation.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 32 (1930): 794-816.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>On the Overconvergence of Sequences of Rational Functions.</title>&#x201D; <emph render="underline">American Journal of Mathematics</emph> 54 (July, 1932): 559-570.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Polynomial Expansions of Functions Defined by Cauchy&#x2019;s Integral</title>&#x201D; <emph render="underline">Journal de Mathematiques</emph> (1952): 221-244.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Some Interpolation Series.</title>&#x201D; <emph render="underline">American Mathematical Monthly</emph> 41 (May, 1934): 300-308.</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2g</p>
+<bibref><persname role="author">Aharonov, D., and Walsh, Joseph L.</persname> &#x201C;<title>On the Convergence of Rational Functions of Best Approximation to a Meromorphic Function.</title>&#x201D; <emph render="underline">Journal of Mathematical Analysis and Applications</emph> 40 (November, 1972): 418-426.</bibref>
+<bibref><persname role="author">Aharonov, D., and Walsh, J.L.</persname> &#x201C;<title>Some Examples in Degree of Approximation by Rational Functions.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 159 (September, 1971): 427-444.</bibref>
+<bibref><persname role="author">Ahlberg, J.H.; Nilson, E.N. ; and Walsh, J.L.</persname> &#x201C;<title>Best Approximation and Convergence Properties of Higher-Order Spline Approximations.</title>&#x201D; <emph render="underline">Journal of Mathematics and Mechanics</emph> 14 (March, 1965): 231-244.</bibref>
+<bibref><persname role="author">Ahlberg, J.H. ; Nilson, E.N. ; and Walsh, J.L.</persname> &#x201C;<title>Complex Cubic Splines.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 129 (December, 1967): 391-413.</bibref>
+<bibref><persname role="author">Ahlberg, J.H. ; Nilson, E.N. ; and Walsh, J.L.</persname> &#x201C;<title>Complex Polynomial Splines on the Unit Circle.</title>&#x201D; <emph render="underline">Journal of Mathematical Analysis and Applications</emph> 33 (February, 1971): 234-257.</bibref>
+<bibref><persname role="author">Ahlberg, J.H. ; Nilson, E.N. ; and Walsh, J.L.</persname> &#x201C;<title>Convergence Properties of Generalized Splines.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 54 (August, 1965): 344-350.</bibref>
+<bibref><persname role="author">Ahlberg, J.H. ; Nilson, E.N. ; and Walsh, J.L.</persname> &#x201C;<title>Cubic Splines on the Real Line.</title>&#x201D; <emph render="underline">Journal of Approximation Theory</emph> 1 (June, 1968): 5-10.</bibref>
+<bibref><persname role="author">Ahlberg, J.H. ; Nilson, E.N. : and Walsh, J.L.</persname> &#x201C;<title>Extremal, Orthogonality, and Convergence Properties of Multidimensional Splines.</title>&#x201D; <emph render="underline">Journal of Mathematical Analysis and Applications</emph> 12 (august, 1965): 27-48.</bibref>
+<bibref><persname role="author">Ahlberg, J.H. ; Nilson, E.N. ; and Walsh, J.L.</persname> &#x201C;<title>Properties of Analytic Splines (1) Complex Polynomial Splines.</title>&#x201D; <emph render="underline">Journal of Mathematical Analysis and Applications</emph> 27 (August, 1969): 262-278.</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2h</p>
+<bibref><persname role="author">Motzkin,T.S., and Walsh, J.L.</persname> &#x201C;<title>Least pth Power Polynomials on a Real Finite Point Set.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph>. 78 (January, 1955): 67-81.</bibref>
+<bibref><persname role="author">Motzkin, T.S., and Walsh, J.L.</persname> &#x201C;<title>Mean Approximation on an Interval for an Exponent Less Than One.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 122 (1966): 443-460.</bibref>
+<bibref><persname role="author">Motzkin, T.S., and Walsh, J.L.</persname> &#x201C;<title>A Persistent Local Maximum of the pth Power Deviation on an Interval, p&lt;l.</title>&#x201D; <emph render="underline">Pacific Journal of Mathematics</emph> 24 (1968): 133-142.</bibref>
+<bibref><persname role="author">Motzkin, T.S., and Walsh, J.L.</persname> &#x201C;<title>Zeros of the Error Function for Tchebycheff Approximation in a Small Region.</title>&#x201D; <emph render="underline">Proceedings of the London Mathematical Society</emph> 13 (January, 1963): 90-98.</bibref>
+<bibref><persname role="author">Walsh, J.L.; Ahlberg, J.H.; and Nilson, E.N.</persname> &#x201C;<title>Best Approximation Properties of the Spline Fit.</title>&#x201D; <emph render="underline">Journal of Mathematics and Mechanics</emph> 11 (March, 1962): 225-234.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Elliott, H. Margaret.</persname> &#x201C;<title>Polynomial Approximation to Harmonic and Analytic Functions: Generalized Continuity Conditions.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 68 (March, 1950): 180-203.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Merriman, G.M.</persname> &#x201C;<title>Note on the Simultaneous Orthogonality-of Harmonic Polynomials on Several Curves.</title>&#x201D; <emph render="underline">Duke Mathematical Journal</emph> 3 (June, 1937): 279-288.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Nilson, E.N.</persname> &#x201C;<title>On Funcitons Analytic in a Region: Approximation in the Sense of Least pth Powers.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 65 (March, 1949): 239-258. [2 copies]</bibref>
+<p><emph render="underline">Works Cited</emph> &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 2i</p>
+<bibref><persname role="author">Walsh, J.L., and Russell, H.G.</persname> &#x201C;<title>Hyperbolic Capacity and Interpolating Rational Functions II.</title>&#x201D; <emph render="underline">Duke Mathematical Journal</emph> 33 (June, 1966): 275-280.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Russell, H.G.</persname> &#x201C;<title>Integrated Continuity Conditions and Degree of Approximation by Polynomials or by Bounded Analytic Functions.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 92 (August, 1959): 355-370. [2 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L., and Russell, Helen G.</persname> &#x201C;<title>On the Convergence and Overconvergence of Sequences fo Polynomials of Best Simultaneous Approximation to Several Functions Analytic in Distinct Regions.</title>&#x201D; <emph render="underline">Transactions of the American Mathematica1 Society</emph> 36 (January, 1934): 13-28.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Saff, E.B..</persname> &#x201C;<title>Extensions of D. Jackson&#x2019;s Theorem on Best Complex Polynomial Mean Approximation.</title>&#x201D; <emph render="underline">Transact ions of the American Mathematical Society</emph> 138 (April, 1969): 61-69.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Schneider, W.J.</persname> &#x201C;<title>On the Shape of the Level Loci of Harmonic Measure.</title>&#x201D; <emph render="underline">Journal D&#x2019;Analyse Mathematique</emph> 23 (1970): 441-460.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Seidel, W.</persname> &#x201C;<title>On the Derivatives of Functions Analytic in the Unit Circle</title>.&#x201D; 24 (August, 1938): 337-340.</bibref>
+<bibref><persname role="author">Walsh, J.L.; Sewell, W.E.; and Elliott, H.M.</persname> &#x201C;<title>On the Degree of Convergence of Harmonic Polynomials to Harmonic Functions.</title>&#x201D; <emph render="underline">Proceedings of the National Academy of Sciences</emph> 35 (January, 1949): 59-62.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Sewell, W.E.</persname> &#x201C;<title>Note on Degree of Approximation to a Integral by Riemann Sums.</title>&#x201D; <emph render="underline">American Mathematical Monthly</emph> 44 (March, 1937): 155-160.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Sewell, W.E.</persname> &#x201C;<title>Note on Degree of Trigonometric and Polynomial Approximation to an Analytic Funciton.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> (December, 1938): 865-873.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Sewell, W.E.</persname> &#x201C;<title>Note on the Relation Between Continuity and Degree of Polynomial Approximation in the Complex Domain.</title>&#x201D; <emph render="underline">Bulletin of the American Mathematical Society</emph> (August, 1937): 557-563.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Sewell, W.E.</persname> &#x201C;<title>On the Degree of Polynomial Approximation to Analytic Functions: Problem B</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 49 (March, 1941): 229-257.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Sewell, W.E.</persname> &#x201C;<title>Sufficient Conditions for Various Degrees of Approximation by Polynomials.</title>&#x201D; <emph render="underline">Duke Mathematical Journal</emph> 6 (September, 1940): 658-705.</bibref>
+<bibref><persname role="author">Walsh, J.L., and Sinclair, A.</persname> &#x201C;<title>On the Degree of Convergence of Extremal Polynomials and Other Extremal Functions.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 115 (March, 1965): 145-160.</bibref>
+<p><emph render="underline">Works Cited</emph> - Publications in Foreign Journals Joseph Leonard Walsh Collect Location - Box 1-Folder 2j</p>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Uber den Grad der Approximation einer analytischen Funktion.</title>&#x201D; <emph render="underline">Sitzungsberichte der Bayerischen Akademie der Wissenschaften Mathe-matisch-naturwissenschaftliche Abteilung</emph> (1926): 223-229. [2 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Uber die Entwicklung einer analytischen Funktion nach Polynomen.</title>&#x201D; <emph render="underline">Mathematische Annalen</emph> (1926): 430-436. [2 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L., and Gaier, D.</persname> &#x201C;<title>Zur Methode der variablen Gebiete bei der Randverzerrung.</title>&#x201D; <emph render="underline">Archiv Der Mathematik</emph> 6 (1955): 77-86.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Sur l&#x2019;approximation par fonctions rationnelles et par fonctions holomorphes bornees.</title>&#x201D; <emph render="underline">Annali Di Matematica</emph> 39 (1955): 267-277. [2 copies]</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Sur la determination d&#x2019;une fonction analytique par ses valeurs sur un contour.</title>&#x201D; <emph render="underline">Analyse Mathematique</emph> p. 1-3.</bibref>
+<bibref><persname role="author">Walsh, J.L.</persname> &#x201C;<title>Sur l&#x2019;interpolation par fonctions rationnelles.</title>&#x201D; <emph render="underline">Analyse Math&#233;matique</emph>.</bibref>
+<p>Scientific Publications in the Possession of J.L. Walsh Literature Cited &#x2014; Joseph Leonard Walsh Collection Location - Box 1-Folder 3</p>
+<bibref><persname role="author">Bouligand, G.</persname> &#x201C;<title>Autour d&#x2019;un type de rationalite detenu par devers systemes triples orthogonaux.</title>&#x201D; <emph render="underline">Journal de Mathematiques</emph> 39 (1960): 293-306.</bibref>
+<bibref><persname role="author">Davis, Philipj., and Rabinowitz, Philip.</persname> &#x201C;<title>Advances in Orthonormalizing Computation.</title>&#x201D; TITLE OF PUBLICATION UNKNOWN.</bibref>
+<bibref><persname role="author">Kellogg, O.D.</persname> &#x201C;<title>Double Distributions and the Dirichlet Proble.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 9 (January, 1908): 51-66.</bibref>
+<bibref><persname role="author">Kellogg, O.D.</persname> &#x201C;<title>Harmonic Functions and Green&#x2019;s Integral.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 13 (January, 1912): 109-132.</bibref>
+<bibref><persname role="author">Kellogg, O.D.</persname> &#x201C;<title>Potential Functions on the Boundary of Their Regions of Definition.</title>&#x201D; <emph render="underline">Transactions of the American Mathematical Society</emph> 9 (January, 1908): 39-50.</bibref>
+<bibref><persname role="author">Shisha, O.</persname> &#x201C;<title>An Extension of Jensen&#x2019;s Theorem for the Derivative of a Polynomial and for Infrapolynomials.</title>&#x201D; <emph render="underline">Journal of Research of the National Bureau of Standards</emph> 66B (April-June, 1962): 53-55.</bibref>
+<bibref>Miscellaneous Book Reviews, <emph render="underline">American Scientist</emph>, Vol. 58, p. 565-566.</bibref>
+</bibliography>
+</archdesc>
+</ead>

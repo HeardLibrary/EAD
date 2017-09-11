@@ -1,0 +1,6064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">Gleaves, Edwin Sheffield Papers</titleproper>
+<titleproper>Finding Aid for the Edwin Sheffield Gleaves Papers</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Edwin Sheffield Gleaves Papers</unittitle>
+<unitid>MSS.0170</unitid>
+<unitdate>undated</unitdate>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">23.75 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<dsc type="othertype">
+<c01 level="series">
+<did>
+<unittitle>PERSONAL CORRESPONDENCE (U.S.)</unittitle>
+<unitdate>1958 - 1986</unitdate>
+</did>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unitdate>1958-1963</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unitdate>1964</unitdate>
+<unittitle>incoming</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unitdate>1964</unitdate>
+<unittitle>outgoing</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unitdate>1965</unitdate>
+<unittitle>incoming</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unitdate>1965</unitdate>
+<unittitle>outgoing</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unitdate>1966</unitdate>
+<unittitle>incoming</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unitdate>1966</unitdate>
+<unittitle>outgoing</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unitdate>1965-1967</unitdate>
+<unittitle>University of Washington</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unitdate>1966</unitdate>
+<unittitle>University of Houston</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unitdate>1967</unitdate>
+<unittitle>incoming</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unitdate>1967</unitdate>
+<unittitle>outgoing</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unitdate>1967</unitdate>
+<unittitle>Business (incoming)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unitdate>1967</unitdate>
+<unittitle>Business (outgoing)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unitdate>1968</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unitdate>1969</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unitdate>1970</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unitdate>1971</unitdate>
+<unittitle>Peabody</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unitdate>1971</unitdate>
+<unittitle>Peabody</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unitdate>1971</unitdate>
+<unittitle>Library School</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unitdate>1971</unitdate>
+<unittitle>General</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unitdate>1971</unitdate>
+<unittitle>General</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unitdate>1972</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unitdate>1972-73</unitdate>
+<unittitle>Tennessee Library Association</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unitdate>1973</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unitdate>1974</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unitdate>1975</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unitdate>1976</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unitdate>1977-78</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unitdate>1979</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unitdate>1980</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unitdate>1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unitdate>1984</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unitdate>1985</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">37</container>
+<unittitle>Frances Neel Cheney &#8211; Edwin S. Gleaves</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>PERSONAL CORRESPONDENCE (LATIN AMERICA)</unittitle>
+<unitdate>1974-1987</unitdate>
+</did>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Correspondence -- ELB</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Correspondence -- Argentina</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Correspondence -- Colombia</unittitle>
+<unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Correspondence -- Kozano -- Rivera</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Correspondence -- Colombia</unittitle>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Correspondence -- Colombia</unittitle>
+<unitdate>1976-1980</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Correspondence -- Costa Rica, University of</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Correspondence -- Costa Rica</unittitle>
+<unitdate>1977</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Correspondence -- Ecuador</unittitle>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>Correspondence -- Mexico-Conacyt</unittitle>
+<unitdate>1974</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unittitle>Correspondence -- Mexico-Conacyt</unittitle>
+<unitdate>1975</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>Correspondence -- Mexico</unittitle>
+<unitdate>1974</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Correspondence -- Mexico</unittitle>
+<unitdate>1975</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Correspondence -- Mexico</unittitle>
+<unitdate>1976</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Mexico -- Microforms Workshop Oct</unittitle>
+<unitdate>1976</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>Correspondence -- Mexico</unittitle>
+<unitdate>1979-1980</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>Correspondence -- Mexico -- Universidad de Guanajuato</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>Correspondence -- Mexico -- Universidad de Guanajuato</unittitle>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unittitle>Correspondence -- Mexico -- Universidad de Guanajuato</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unittitle>Correspondence -- Mexico -- Universidad de Guanajuato</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unittitle>Correspondence -- Mexico</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unittitle>Correspondence -- Paraguay</unittitle>
+<unitdate>1976</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>Correspondence -- Venezuela</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unittitle>Fulbright Grant</unittitle>
+<unitdate>1971</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">25</container>
+<unittitle>Fulbright Grant</unittitle>
+<unitdate>1986-1987</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">26</container>
+<unittitle>Organization of American States</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 221/LIS 2210, SELECTION / COLLECTION DEVELOPMENT (1)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>LS 221 -- Book Selection</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>LS 221 -- Course of Study</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>LIS 2210 -- Class Calendar for Summer Session</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>LS 221 -- Schedule of Field Trips and Visiting Speeches</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>LIS 2210 -- Notable Books</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>LS 221 -- Class Calendar</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>LIS 2210 -- Unit 4; The Selector and Book Selection Aids; Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>LIS 2210 -- Unit 5; Selection of Editions and Translations: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>LIS 2210 -- Unit 6; Selection of Nonbook Materials; Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>LIS 2210 -- Unit 7; Variations by Type of Library: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unittitle>LIS 2210 -- Unit 8; Acquisitions: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unittitle>LIS 2210 -- Sample Record Labels and Prices</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>LS 221 -- Microformulations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unittitle>LIS 2210 -- Evaluative Criteria in the Selection of Sound Recordings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">15</container>
+<unittitle>LIS 2210 -- Library Collection Development -- Course of Study, Spring</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">16</container>
+<unittitle>LIS 2210 -- Schedule of Class Meetings, Summer</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle>LIS 2210 -- Library Collection Development -- Basic Bibliography, Spring</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>LIS 2210 -- Library Collection Development -- Related Readings, Spring</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unittitle>LIS 2210 -- Unit 1; The Library and Its Community: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">20</container>
+<unittitle>LIS 2210 -- Unit 2; The Publishing Trade: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">21</container>
+<unittitle>LIS 2210 -- Unit 3; Principles and Policies for Materials Selection: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">22</container>
+<unittitle>LIS 2210 -- Review of <emph render="underline">Recorded Classical Music</emph>, by Arthur Cohn</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">23</container>
+<unittitle>LIS 2210 -- A Musical Survey (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">24</container>
+<unittitle>LIS 2210 -- Bibliographic Control of Software -- Class Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">25</container>
+<unittitle>LIS 2210 -- Who Wrote What: A Non-literary Quiz</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">26</container>
+<unittitle>LIS 2210 -- Who Wrote What: A Non-literary Quiz</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">27</container>
+<unittitle>LIS 2210 -- Unit 9; Resource Sharing: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">28</container>
+<unittitle>LIS 2210 -- Unit 10; Collection Evaluation: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">29</container>
+<unittitle>LIS 2210 -- Unit 11; Weeding, Storage, and Preservation: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">30</container>
+<unittitle>LIS 2210 -- Unit 12; Censorship and Selection: Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">31</container>
+<unittitle>LIS 2210 -- Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">32</container>
+<unittitle>LS 221 -- Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">33</container>
+<unittitle>LIS 2210 -- Library Collection Development -- Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">34</container>
+<unittitle>LIS 2210/3070 -- Editions and Translations: Some Questions</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">35</container>
+<unittitle>LS 221 -- Problem Books: Case Study and Report</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">36</container>
+<unittitle>LIS 2210 -- Annotation I</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unittitle>LS 221 -- Annotation of Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>LS 221 -- Notable Materials Project</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">39</container>
+<unittitle>LIS 2210 -- Book Review</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">40</container>
+<unittitle>LIS 2210 -- Class Calendar</unittitle>
+<unitdate>1985-1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">41</container>
+<unittitle>LIS 2210 -- Annotation II</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">42</container>
+<unittitle>LIS 2210 -- Special Materials -- for Special People</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">43</container>
+<unittitle>LIS 2210 --Developing A Materials Selection Policy</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">44</container>
+<unittitle>LIS 2210 -- Library Collection Development -- The Basic Repertoire</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">45</container>
+<unittitle>LS 221 -- Here Comes the Sun: Libraries and Solar Energy Information Transfer</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">46</container>
+<unittitle>LS 221 -- Ahora Conoces -- Que?</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">47</container>
+<unittitle>LS 221 -- Oral Book Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">48</container>
+<unittitle>LS 221 -- Music</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">49</container>
+<unittitle>LIS 2210 -- &#8220;Introductory Notes to Classical Music: A Personal Selection&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">50</container>
+<unittitle>LIS 2210 -- &#8220;Classical Music: A Personal Selection&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">51</container>
+<unittitle>LIS 2210 -- &#8220;Tools for the Selection of Classical Music Recordings&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">52</container>
+<unittitle>LIS 2210 -- Music &#8220;Best Recordings of the Past Twenty Years&#8221; (<emph render="underline">Stereo Review</emph>)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">53</container>
+<unittitle>LS 221 -- Classical Music Recordings: Not the Best</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">54</container>
+<unittitle>LIS 2210 -- The Basic Repertoire, Unit 6</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">55</container>
+<unittitle>LIS 2210 -- A Personal Basic Repertoire</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">56</container>
+<unittitle>LIS 2210 -- The Basic Repertoire</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">57</container>
+<unittitle>LIS 2210 -- Music -- Catalogers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">58</container>
+<unittitle>LIS 2210 -- Recommended Lists of Music</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">59</container>
+<unittitle>LS 221 -- Hoffmann, &#8220;A Basic Recorded Sound Collection&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">60</container>
+<unittitle>LS 221 -- A Recommended Basic Repertoire</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">61</container>
+<unittitle>LIS 2210 -- The Basic Repertoire, Unit 6 -- Original</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">62</container>
+<unittitle>LS 221 -- The Basic Repertoire</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">63</container>
+<unittitle>LS 221 - Recordings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">64</container>
+<unittitle>LIS 2210 -- Music -- Performance Series</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">65</container>
+<unittitle>LS 221 -- Schwann&#8217;s Most Frequently Recorded Classical Performers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">66</container>
+<unittitle>LS 221 -- Music -- &#8220;The $150 Record Collection&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">67</container>
+<unittitle>LIS 2210 -- &#8220;The Most Recorded Symphonies&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">68</container>
+<unittitle>LIS 2210 -- Music -- Order Forms</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">69</container>
+<unittitle>LS 221 -- Schwann&#8217;s &#8220;Basic Record Library&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">70</container>
+<unittitle>LS 221 -- The Best Classical Recording of</unittitle>
+<unitdate>1976 and 1977</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">71</container>
+<unittitle>LS 221 -- A New Musical Joke? An Objection to an Objection</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">72</container>
+<unittitle>LS 221 -- Music -- &#8220;Best Recordings of the Past Twenty Years&#8221; (<emph render="underline">Stereo Review</emph>)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">73</container>
+<unittitle>LS 221 -- The Basic Repertoire</unittitle>
+<unitdate>1973-1974</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">74</container>
+<unittitle>LS 221 -- The Basic Repertoire</unittitle>
+<unitdate>1977</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">75</container>
+<unittitle>LS 221 -- Tools of the Trade &#8220;Problem Sheet&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">76</container>
+<unittitle>LS 221 -- &#8220;Glossary of Library Terms&#8221; (ALA)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 221/LIS 2210, SELECTION / COLLECTION DEVELOPMENT (2)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>LIS 2210 -- Supreme Court -- Decision on New York School Board</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>LIS 2210 -- Reading on Intellectual Freedom</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>Tennessee Department of Education Committee on HJR 341</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>LS 221 -- Assignments -- The Seven Minutes</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>LS 221 -- Censorship -- &#8220;It Can Happen Here: A Censorship Role Play&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>LS 221 -- Censorship -- &#8220;The Freedom to Read&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>LS 221 -- Censorship -- The Test of Civilization</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>LS 221 -- Questionable Books, Problem Books</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>LS 221 -- Censorship</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>LIS 2210 -- Freedom to Read, Foundation News</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>LIS 2210 -- ALA Office for Intellectual Freedom</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>LS 221 -- Library Cooperation</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">13</container>
+<unittitle>LIS 2210 -- Approved Plans</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle>LS 221 -- Standards for University Libraries</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>LS 221 -- Community Junior College Libraries, Standards, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>LIS 2210 -- Standards for College Libraries</unittitle>
+<unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle>LIS 2210 -- &#8220;A Method for Quantitatively Evaluating a University Library Collection</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle>LIS 2210 -- Standards -- Academic Libraries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>LS 221 -- Guidelines for Two-Year College Learning Resources Programs</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>LIS 2210 -- Usage Count for Periodicals, Lambuth College</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>LIS 2210 -- A Droll Role Play: A Public Encounter over a Controversial Book</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>LS 221 -- A Droll Role Play</unittitle>
+<unitdate>(Spring and Summer 1979)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>LS 221 -- Portraits of the Artists</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">24</container>
+<unittitle>LIS 2210 -- Standards for College Libraries</unittitle>
+<unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">25</container>
+<unittitle>LIS 2210 -- &#8220;Evaluating Collections by Their Use&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">26</container>
+<unittitle>LS 221 -- Serials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">27</container>
+<unittitle>LS 221 -- Book Selection -- Standards, Formulae, Criteria, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">28</container>
+<unittitle>LIS 2210 -- Collection Development Policies (T.R.)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">29</container>
+<unittitle>LS 221 -- The Most Censored Materials in the U. S.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">30</container>
+<unittitle>The Nature of Faith by the Use of Books</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">31</container>
+<unittitle>LIS 2210 -- NICEM Indexes</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">32</container>
+<unittitle>LS 221 -- Standards for College Libraries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">33</container>
+<unittitle>LS 221 -- Standing Order Plans</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">34</container>
+<unittitle>LS 322</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">35</container>
+<unittitle>LS 322 -- Introduction</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">36</container>
+<unittitle>LS 322 -- Bibliography of Humanities</unittitle>
+<unitdate>(Summer 1980)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">37</container>
+<unittitle>LS 322 -- Humanities RQ</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">38</container>
+<unittitle>LS 322 -- Course of Study and Assignments</unittitle>
+<unitdate>(Summer 1980)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">39</container>
+<unittitle>LS 322 -- Pathfinder Project</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">40</container>
+<unittitle>LS 322 -- Variations on Religious Themes</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">41</container>
+<unittitle>LS 322 -- Memo on Assignment Preference</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">42</container>
+<unittitle>LS 322 -- Bibliography of Humanities -- Philosophy: Questions for Discussion</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">43</container>
+<unittitle>LS 322 -- Music Writings and Recordings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">44</container>
+<unittitle>LS 322 -- Art Assignment</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">45</container>
+<unittitle>LS 322 -- Visual Arts</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">46</container>
+<unittitle>LS 322 -- A Basic Literary Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">47</container>
+<unittitle>LS 322 -- Musical Heritage Society</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">48</container>
+<unittitle>LS 322 -- Language and Literature</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">49</container>
+<unittitle>LS 307/322 -- &#8220;English Literature: Selected Reference Sources&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">50</container>
+<unittitle>LS 307/322 -- &#8220;American Literature: All Periods&#8221; (SIU Guide)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">51</container>
+<unittitle>LS 322 -- Performing Arts</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">52</container>
+<unittitle>LS 322 -- The Computer and the Humanities</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">53</container>
+<unittitle>LS 502a (Peabody)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 320/LIS 3200, MICROGRAPHICS</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>LS 320 -- Course of Study</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle>LIS 3200 -- Micrographics in Libraries -- Course of Study</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">3</container>
+<unittitle>LIS 3200 -- Course of Study</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">4</container>
+<unittitle>LIS 3200 -- Course of Study</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>NMA, Introduction to Micrographics</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle>LS 320 -- Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">7</container>
+<unittitle>LS 3200 -- Learning Activities and Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">8</container>
+<unittitle>LS 320 -- Supplementary Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">9</container>
+<unittitle>LS 320 -- Assignments: Learning Activities</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">10</container>
+<unittitle>LS 320 -- Class Calendar</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">11</container>
+<unittitle>LS 320 -- Microfiche or Roll Film?</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">12</container>
+<unittitle>LIS 3200 -- Gleaves, Edwin S. &#8220;A Microform Program for Duckworth Libraries&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">13</container>
+<unittitle>LIS 3200 -- Reference Sources</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">14</container>
+<unittitle>Jonathan Livingston Librarian</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">15</container>
+<unittitle>LS 320 -- Microfiche Readers for Libraries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">16</container>
+<unittitle>LS 320 -- Benefits of the Serials in Microform</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle>A New Library -- Without a New Building</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">18</container>
+<unittitle>LIS 3200 -- University Microfilms International</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">19</container>
+<unittitle>LS 320 -- &#8220;A New Library -- Without a New Building&#8221; (floor plan)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">20</container>
+<unittitle>LS 320 -- User Environment and Attitudes in an Academic Microform Center</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">21</container>
+<unittitle>LIS 3200 -- Non-silver Microforms in a Working Environment</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">22</container>
+<unittitle>IS 320 -- Library Microform Facilities</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">23</container>
+<unittitle>LS 320 -- Gleaves, Edwin S., &#8220;A Microform Program for the Duckworth Libraries&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">24</container>
+<unittitle>LIS 3200 -- Serials On-line Transparencies</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">25</container>
+<unittitle>LS 320 -- &#8220;WLB&#8217;s Miniguide to Microform for Library Users&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">26</container>
+<unittitle>LIS 3200 -- OCLC</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">27</container>
+<unittitle>LS 320 -- Guide to Information about Microforms</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">28</container>
+<unittitle>LS 320 -- References and Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">29</container>
+<unittitle>LS 320 -- Micrographics Equipment Review</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">30</container>
+<unittitle>LS 320 -- Samples</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">31</container>
+<unittitle>LS 320 -- Videodisks</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">32</container>
+<unittitle>LS 320 -- Medical Serials in Microform</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">33</container>
+<unittitle>University Microforms International (Information on Serials Subscription)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">34</container>
+<unittitle>LS 320 -- ERIC</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">35</container>
+<unittitle>LS 320 -- &#8220;Periodicals: Which Way to Keep Them?&#8221; 36 National Micrographics Association</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">37</container>
+<unittitle>LS 320 -- &#8220;Introduction to Micrographs&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">38</container>
+<unittitle>LS 320 -- Supplementary Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">39</container>
+<unittitle>LS 320 -- Serials in Microform</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">40</container>
+<unittitle>Selecting Microforms (Micrographic Association of Australia)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">41</container>
+<unittitle>LIS 3200 -- Survey on Micrographics Education for Librarians</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">42</container>
+<unittitle>LIS 3200 -- Selected Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">43</container>
+<unittitle>LIS 3200 -- &#8220;Micrographics&#8221; by Saffady &#38; Gleaves</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">44</container>
+<unittitle>LIS 3200 -- &#8220;Microform Serials Acquisition&#8221; (ESG &#38; RTC)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">45</container>
+<unittitle>LIS 3200 -- Micrographics Resources for the Study of Microforms</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">46</container>
+<unittitle>LS 320 -- Revised Criteria for the Procurement and Use of Microforms and Related Equipment</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">47</container>
+<unittitle>LIS 3200 -- Micrographics in Libraries</unittitle>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">48</container>
+<unittitle>LS 320 -- Introduction to Micrographics (English &#38; Spanish)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">49</container>
+<unittitle>LIS 3200 -- ARL Microform Cataloging Clearinghouse</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">50</container>
+<unittitle>LS 320 -- Cataloging and Classification</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">51</container>
+<unittitle>LIS 3200 -- Text for Slide Presentation</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">52</container>
+<unittitle>LS 320 -- Articles</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">53</container>
+<unittitle>MLS -- Fall</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">54</container>
+<unittitle>LS 320 -- Library Materials in Microform -- General Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">55</container>
+<unittitle>LIS 3200 -- Films</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">56</container>
+<unittitle>LS 320 -- Serials in Microform -- Subscription Service</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">57</container>
+<unittitle>LIS 3200 -- Selecting Microforms (MAA)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">58</container>
+<unittitle>LIS 3200 -- Microbook Library Series</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">59</container>
+<unittitle>Micrographics</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">5</container>
+<container type="folder">60</container>
+<unittitle>LS 320 -- Articles</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 320, MICROGRAPHICS</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>LS 320 -- Evaluation of Module on Microforms</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>LS 320 -- Computer Output Microfilm</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>LS 320 -- SDC and Lockheed</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>LS 320 -- Originals</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>LS 320 -- NMA</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>LS 320 -- Off Campus / Originals</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>Microforms -- Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>Microforms -- Correspondence, Letters of Micropublishers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle>Microforms -- Selected Reading List on Microforms (Original LS Copy)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>LS 320 -- National Microfilm Library</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle>LS 320 -- Microform Workshops and Conference</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle>ERIC -- RCU -- Computer Search</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle>LS 320 -- Effective Microform Environment</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">14</container>
+<unittitle>LS 320 -- Reading Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">15</container>
+<unittitle>LS 320 -- ERIC Exercises</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">16</container>
+<unittitle>LS 320 -- Special Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">17</container>
+<unittitle>LS 320 -- Letters to Micropublishers</unittitle>
+<unitdate>1978</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">18</container>
+<unittitle>LS 320 -- VA Proposal</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">19</container>
+<unittitle>LS 320 -- &#8220;What Is Microfilm?</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">20</container>
+<unittitle>LS 320 -- Misc. Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">21</container>
+<unittitle>LS 320 -- &#8220;A Selective Bibliography on Microforms, 1970-75&#8221; (Original)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">22</container>
+<unittitle>LS 320 -- Preservation on Microform</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">23</container>
+<unittitle>LS 320/221 -- Microforms -- Some Basic References Compiled by USIA</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">24</container>
+<unittitle>LS 320 -- Peabody-in-Memphis</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">25</container>
+<unittitle>LS 320 -- (Memphis) -- Supplementary Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">26</container>
+<unittitle>LS 320 -- Microform Materials -- Peabody-in-Memphis</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">27</container>
+<unittitle>LS 320 -- Examinations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">28</container>
+<unittitle>LS 320 -- El Medio Invisible</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">29</container>
+<unittitle>Microformatos -Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">30</container>
+<unittitle>LS 320 -- &#8220;Creacion de un Ambiente&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">31</container>
+<unittitle>Los Microformatos -- Universidad de Guanajuato, Julio</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">32</container>
+<unittitle>El Medio Invisible, Marzo</unittitle>
+<unitdate>1973</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">33</container>
+<unittitle>Problemas en la Applicacion de los Microformatos</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">34</container>
+<unittitle>Ventajas de la Microfotografia en las Bibliotecas</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">35</container>
+<unittitle>LS 320 -- Materiales en Espanial</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">36</container>
+<unittitle>LS 320 -- &#8220;La Era de Microfilm&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">37</container>
+<unittitle>LS 320 -- Equipment -- Camaras</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">38</container>
+<unittitle>Los Microformatos -- ERIC</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">39</container>
+<unittitle>LIS 3200 -- Los Microformatos: Programa de Estudio</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">40</container>
+<unittitle>LS 320 -- Spanish Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">6</container>
+<container type="folder">41</container>
+<unittitle>LS 320 -- &#8220;Calculos Papa el Costo . . .&#8221;</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LIS 3210, SERIAL PUBLICATIONS LS 302, ACADEMIC LIBRARY ADMINISTRATION WRITINGS AND REPORTS</unittitle>
+<unitdate>1954-1967</unitdate>
+</did>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">1</container>
+<unittitle>LIS 3210 -- Course of Study</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">2</container>
+<unittitle>LIS 3210 -- Related Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">3</container>
+<unittitle>LIS 3210 -- Working with Serials Selection Tools</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">4</container>
+<unittitle>LIS 3210 -- Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">5</container>
+<unittitle>LIS 3210 -- Unit 5 -- Handouts</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">6</container>
+<unittitle>LIS 3210 -- Unit 6 -- Handouts</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">7</container>
+<unittitle>LIS 3210 -- Selection Tools</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">8</container>
+<unittitle>LIS 3210 -- Special Bibliographical Note</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">9</container>
+<unittitle>LIS 3210 -- Serial Publication OCLC CED-ROM Search of <emph render="underline">CIJE</emph> Database, Sample Formats</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">10</container>
+<unittitle>LIS 3210 -- Serial Publication SERIALS &#38; LIBRARIES: A BIB BASED UPON THE OCLC CD-ROM (1)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">11</container>
+<unittitle>LIS 3210 -- Serial Publication SERIALS &#38; LIBRARIES: A BIB BASED UPON THE OCLC CD-ROM (2)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">12</container>
+<unittitle>LIS 3210 -- Serials, Records and Claims</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">13</container>
+<unittitle>LIS 3210 -- Citation and Use Studies</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">14</container>
+<unittitle>LIS 3210 -- Magazine Logos</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">15</container>
+<unittitle>LIS 3210 -- Serial Publications -- SERIALS LIBRARIAN Job Description</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">16</container>
+<unittitle>LIS 3210 -- Serial Publications -- Discussion Questions</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">17</container>
+<unittitle>LIS 3210 -- Exercises and Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">18</container>
+<unittitle>LIS 3210 -- Notebook</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">19</container>
+<unittitle>LIS 2210/3210 -- University of Tennessee at Martin</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">20</container>
+<unittitle>LIS 2210/3210 -- Mercy College</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">21</container>
+<unittitle>LIS 3210 -- Serials Publications -- Little magazines</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">22</container>
+<unittitle>LIS 3210 -- Serials Publications -- Tabloids</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">23</container>
+<unittitle>LIS 3210 -- Serials Publications -- Newspapers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">24</container>
+<unittitle>LIS 3210 -- Selected Readings from <emph render="underline">THE SERIALS LIBRARIAN</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">25</container>
+<unittitle>LIS 3210 -- Faxon Company</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">26</container>
+<unittitle>LIS 3210 -- CIJE Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">27</container>
+<unittitle>LIS 3210 -- Unit I -- Handouts</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">28</container>
+<unittitle>LIS 3210 -- Serials Publications -- Mercy College Libraries Periodicals Manual</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">29</container>
+<unittitle>LIS 3210 -- Leading U.S. Magazines (TR)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">30</container>
+<unittitle>LIS 3210 --DLC</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">31</container>
+<unittitle>LIS 3210 -- UBE News in</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">32</container>
+<unittitle>LIS 3210 -- <emph render="underline">Managing the Serials Explosion</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">33</container>
+<unittitle>LIS 3210 -- Serials Publications -- Examination E</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">34</container>
+<unittitle>LIS 3210 -- Review for Quiz</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">35</container>
+<unittitle>LIS 3210 -- Notes</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">36</container>
+<unittitle>LIS 3210 -- History of Magazines</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">37</container>
+<unittitle>LIS 3210 -- Serials Publications -- Mercy College Libraries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">38</container>
+<unittitle>LIS 3210 -- Case Studies -- Spring</unittitle>
+<unitdate>1894</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">39</container>
+<unittitle>LIS 3210 -- OCLC</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">40</container>
+<unittitle>LIS 3210 -- Transparencies</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">41</container>
+<unittitle>LIS 3210 -- Fulfillment Houses</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">42</container>
+<unittitle>LIS 3210 -- On-line Serial Services EBSCO AND FAXON</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">43</container>
+<unittitle>LS 302 -- &#8220;Guidelines for Two-Year College Learning Resources Programs&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">44</container>
+<unittitle>LS 302 -- Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">45</container>
+<unittitle>LS 302 -- Class Calendar</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">46</container>
+<unittitle>LS 302 -- Community/Junior College Library/Learning Resources Centers --A Preliminary Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">47</container>
+<unittitle>LS 302 -- Correspondence</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">48</container>
+<unittitle>LS 302 -- Course of Study</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">49</container>
+<unittitle>LS 302 -- Examinations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">50</container>
+<unittitle>LS 302 -- Carnegie Commission Reports</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">51</container>
+<unittitle>LS 302 -- Draft; Guidelines for Branch Libraries in Colleges and Universities</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">52</container>
+<unittitle>LS 302 -- Related Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">53</container>
+<unittitle>LS 302 -- (Jackson) Higher Education -- Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">54</container>
+<unittitle>LS 302 -- &#8220;Standards for Faculty States for College and University Libraries&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">55</container>
+<unittitle>LS 302 --(Jackson) Reading and Reference List</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">56</container>
+<unittitle>LS 302 -- Statistical Summary of Joint University Libraries</unittitle>
+<unitdate>1936/37 to 1972/73</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">57</container>
+<unittitle>LS 302 -- Academic Administration -- Larry Bone Summer 1976, Term 1</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">58</container>
+<unittitle>Conrad -- <emph render="underline">The Nigger of the &#8220;Narcissus&#8221;</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">59</container>
+<unittitle>&#8220;Hemingway and Baroja . . . &#8220;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">60</container>
+<unittitle>Hemingway -- &#8220;On the Spanish Trail of E. H.&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">61</container>
+<unittitle>Housman, &#8220;Loveliest of Trees&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">62</container>
+<unittitle>&#8220;Going Fishing in the Sky&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">63</container>
+<unittitle>&#8220;Growing Up Without Giving Up&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">64</container>
+<unittitle>&#8220;Guide to the . . . Reference Resources&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">65</container>
+<unittitle>Howells, W. D. -- <emph render="underline">INDIAN SUMMER</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">66</container>
+<unittitle>Ibsen, Henrik -- Criticism</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">67</container>
+<unittitle>Leavis, F. R. -- <emph render="underline">The Great Tradition</emph> (Review)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">68</container>
+<unittitle>&#8220;Literature and the Ministry&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">69</container>
+<unittitle>&#8220;Point of Views in <emph render="underline">the Nigger of the Narcissus</emph>&#8221; -- A New Reading (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">70</container>
+<unittitle>Synge, J. M. -- Deirdre of the Sorrows</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">71</container>
+<unittitle>Thoreau (Freshman Research Paper)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">72</container>
+<unittitle>Thoreau -- &#8220;Walking&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">7</container>
+<container type="folder">73</container>
+<unittitle>&#8220;The Thin Crooked Line&#8221; (ESG)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 307/LIS 3070, LITERARY RESEARCH AND BIBLIOGRAPHY LIS 3710, LATIN AMERICAN SEMINAR LS 320/3200, MICROGRAPHICS LS/ED 260A, INTRODUCTION TO MEDIA STUDIES</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">1</container>
+<unittitle>LS 320 -- MCA -- Youth, Law and Justice</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">2</container>
+<unittitle>LS 320 -- SPEC &#38; OMS .Duplicate packet from Microform Collections -- kit 59</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">3</container>
+<unittitle>LS 320 -- Gleaves, E. S. &#8220;A Microforms program for the Duckworth Libraries. ..&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">4</container>
+<unittitle>LS 320 -- Formats and Standards</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">5</container>
+<unittitle>LS 320 -- &#8220;Microforms: A History of Benign Neglect (JAL)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">6</container>
+<unittitle>LS 320 -- Micrographics: An eventful Forty Years -- What Next?</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">7</container>
+<unittitle>LS 320 -- JUL</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">8</container>
+<unittitle>LS 320 -- Microform Readers. Sourcebook of Library Technology</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">9</container>
+<unittitle>Xerox University Microfilms</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">10</container>
+<unittitle>Eastman Kodak Company</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">11</container>
+<unittitle>LIS 3200 -- Surging Serial Costs: the Microfiche solution</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">12</container>
+<unittitle>LIS 3200 -- National Micrographics Association</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">13</container>
+<unittitle>LIS 3200 -- &#8220;Micrographics Yesterday&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">14</container>
+<unittitle>LIS 3200 -- &#8220;MicroVAX 800&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">15</container>
+<unittitle>LIS 3200 -- &#8220;The Reader&#8217;s Road Atlas&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">16</container>
+<unittitle>LIS 3200 -- &#8220;This Is Microprint&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">17</container>
+<unittitle>LIS 3200 -- Resources for the Study of Microforms</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">18</container>
+<unittitle>ERIC Information -- Clearinghouse on Information Resources</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">19</container>
+<unittitle>Library Technology Reports</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">20</container>
+<unittitle>Microformatos -- Calulos Para el Costo . . . &#8220;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">21</container>
+<unittitle>Microform Review -- Annual Library Microform Conference</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">22</container>
+<unittitle>LS 320 -- Schedule of 5th Annual Library Microform Conference</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">23</container>
+<unittitle>LS 320 -- How to Use ERIC</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">24</container>
+<unittitle>3-M Company Advertisement . . . COM, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">25</container>
+<unittitle>LS 320 -- &#8220;Microforms: What They Are and how They Are Used&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">26</container>
+<unittitle>LS 320 -- Why Microforms?</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">27</container>
+<unittitle>LS 320 -- The New Contemporary Kitchen Library</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">28</container>
+<unittitle>LS 320 -- Monarch Notes on Microfiche</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">29</container>
+<unittitle>LIS 3200 -- ERIC Printouts</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">30</container>
+<unittitle>LS 320 -- Ring King Visible</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">31</container>
+<unittitle>LS 320 -- Reprint of ED 046-403</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">32</container>
+<unittitle>&#8220;Literary and Library Prizes&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">33</container>
+<unittitle>LS/English 307 -- A Bibliographical Guide to the Study of Contemporary American Writers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">34</container>
+<unittitle>LS/English 307 -- Book Reviewing: &#8220;The Fine Art of Literary Mayham&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">35</container>
+<unittitle>LS/English 307 -- Assignments -- Requiem for a Reviewer</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">36</container>
+<unittitle>LS 307 -- Assignment -- &#8220;Some Books Every Student of Literature Should Read&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">37</container>
+<unittitle>LS/English 307 -- Assignments -- Breaking the Language Barrier</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">38</container>
+<unittitle>LS/English 307 -- (Peabody) Surveys and Histories</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">39</container>
+<unittitle>LS/English 307 -- Tanselle Article</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">40</container>
+<unittitle>LS/English 307 -- Assignments -- &#8220;Looking Backward&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">41</container>
+<unittitle>LS/English 307 -- Assignments -- Bibliographical Verification</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">42</container>
+<unittitle>LS/English 307 -- Assignments -- The Oxford Companion to Critics: Study in Biography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">43</container>
+<unittitle>LS/English 307 -- Exams -- Bibliographical Form</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">44</container>
+<unittitle>Poetry -- &#8220;Time and Death,&#8221; &#8220;Death Be Not Proud&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">45</container>
+<unittitle>LS/English 307 -- Assignments -- The Comparative Review: Political Satire</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">46</container>
+<unittitle>LS/English 307 -- Assignments -- Survey of the Literature</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">47</container>
+<unittitle>Gleaves, E. S. The Textual Revolution</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">48</container>
+<unittitle>LS 307 -- Tanselle, &#8220;The Periodical Literature of English and American Bibliography&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">49</container>
+<unittitle>LS 307 -- &#8220;The Periodical Literature of English and American Bibliography&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">50</container>
+<unittitle>&#8220;Literary Manslaughter&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">51</container>
+<unittitle>LS 307 -- &#8220;Hemingway and Baroja: Studies in Spiritual Anarchism&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">52</container>
+<unittitle>LS 307 -- Altick, &#8220;The Unsung Scholar,&#8221; <emph render="underline">The Scholar Adventurers</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">53</container>
+<unittitle>LS/ED 260A -- Outline of Topics</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">54</container>
+<unittitle>LS/ED 260A -- Objectives of the Course, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">55</container>
+<unittitle>ED 260 -- Educational media</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">56</container>
+<unittitle>ED//LS 260</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">57</container>
+<unittitle>LS 3710 -- Latin American Seminar</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">58</container>
+<unittitle>Grants for Libraries: A Highly Selective Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">8</container>
+<container type="folder">59</container>
+<unittitle>Librarianship 442 (Washington) -- Syllabus, Reading Lists, Exams</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS221/LIS 2210, SELECTION/COLLECTION DEVELOPMENT</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">1</container>
+<unittitle>LS 221 -- The Best-Seller Program</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">2</container>
+<unittitle>LIS 2210/3070 -- Prices of Reference Book (Transparencies)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">3</container>
+<unittitle>LS 221 -- Best Sellers (TR)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">4</container>
+<unittitle>LS 221 -- (Peabody) Articles</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">5</container>
+<unittitle>LIS 2210 -- Library Collection Development</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">6</container>
+<unittitle>LS 221 -- The Best-Seller Program</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">7</container>
+<unittitle>LS 221 -- The Best-Seller Program</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">8</container>
+<unittitle>LS 221 -- Reading Lists</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">9</container>
+<unittitle>LIS 2210 -- &#8220;Designed for College&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">10</container>
+<unittitle>LS 221 -- Bookselling in the Sunbelt PW-11/15/76</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">11</container>
+<unittitle>LS 221 -- Varieties of Readers and Reading in</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">12</container>
+<unittitle>LIS 2210 -- Gleaves &#8220;Literary Manslaughter&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">13</container>
+<unittitle>LS 327 -- Assignments &#8220;Classics and Best Sellers&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">14</container>
+<unittitle>LIS 2210 -- 1983 Consumer Research Study on Reading</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">15</container>
+<unittitle>LIS 2210 -- Budgets</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">16</container>
+<unittitle>LS 221 -- Censorship -- TV</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">17</container>
+<unittitle>LIS 2210 -- Censorship -- Textbooks</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">18</container>
+<unittitle>&#8220;What to Do Before the Censor Comes and After&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">19</container>
+<unittitle>LIS 2210 -- Tampa Public Library (Censorship Case)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">20</container>
+<unittitle>LS 210 -- Publishing Trade</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">21</container>
+<unittitle>Reading in America</unittitle>
+<unitdate>1928-1946</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">22</container>
+<unittitle>LIS 2210 -- <emph render="underline">Reading in America</emph></unittitle>
+<unitdate><emph render="underline">1978</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">23</container>
+<unittitle>Reading Lists -- ALA</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">24</container>
+<unittitle>Reading Lists -- Keys to Good Reading</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">25</container>
+<unittitle>LIS 2210 -- &#8220;General Principles of Selection&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">26</container>
+<unittitle>LS 221 -- &#8220;Overlooked Books&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">27</container>
+<unittitle>Basic Publications for the Publisher and the Book Trade</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">28</container>
+<unittitle>Book Clubs</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">29</container>
+<unittitle>LS 2210 -- (ALA) Development of a Materials Selection Program; Katz Collection Development Policy</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">30</container>
+<unittitle>LS 221 -- &#8220;Policies and Procedures for Selection of Instructional Material&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">31</container>
+<unittitle>LS 221 -- (Peabody) Book Selection Tools</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">32</container>
+<unittitle>LIS 2210 -- Materials Selection Tools</unittitle>
+<unitdate>(Spring 1983)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">33</container>
+<unittitle>IS/English 307 -- Book Reviewing</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">34</container>
+<unittitle>LIS 2210 -- <emph render="underline">Library Acquisition Policies and Procedures</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">35</container>
+<unittitle>LIS 2210 -- Book Selection Media: Types and Examples</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">36</container>
+<unittitle>LS 221 -- Materials Selection Policy</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">37</container>
+<unittitle>Translation -- Articles, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">38</container>
+<unittitle>LS 221 -- Editions, Series, Translations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">39</container>
+<unittitle>LS 221 -- Editions and Series</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">40</container>
+<unittitle>LIS 2210 -- Book in Other Languages</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">41</container>
+<unittitle>LIS 2210 -- WPLN Program Guide: Understanding Music Code</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">42</container>
+<unittitle>LS 221 -- Selection Aids: Non-Book Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">43</container>
+<unittitle>LIS 2210 -- Microcomputer Software</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">44</container>
+<unittitle>LS 221 -- Un Programa de Adquisicion Cooperativa de publiciones Periodcas</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">45</container>
+<unittitle>LS 221 -- Academic Libraries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">46</container>
+<unittitle>LIS 2210 -- Methods of Evaluation Methods and Examples</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">47</container>
+<unittitle>LS 221 -- Coutts Library Services and JUL</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">48</container>
+<unittitle>LIS 2210 -- Evaluation of Collections</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">49</container>
+<unittitle>LIS 2210 -- Selection Policies -- Public Libraries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">50</container>
+<unittitle>Asheim -- Who Selects for Whom</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">51</container>
+<unittitle>LIS 2210 -- A Droll Role Play; Creationism vs. Evolution</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">52</container>
+<unittitle>LIS 2210 -- Creationism vs. Evolution</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">53</container>
+<unittitle>LS 221 -- Censorship -- &#8220;Readings on intellectual Freedom&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">54</container>
+<unittitle>LS 221 -- Censorship -- Articles</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">55</container>
+<unittitle>LS 221 -- Censorship -- <emph render="underline">Are You Running With Me Jesus</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">56</container>
+<unittitle>LS 221 -- (Peabody) Examinations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">57</container>
+<unittitle>LIS 2210 -- Study Guide for Final Examination</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">58</container>
+<unittitle>LIS 2210 -- Final Examination, Fall</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">59</container>
+<unittitle>LIS 2210 -- Final Examination, Spring</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">60</container>
+<unittitle>LIS 2210 -- Final Examination, Spring</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">9</container>
+<container type="folder">61</container>
+<unittitle>LIS 2210 -- Final Examination, Summer</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 307/LIS 3070, LITERARY RESEARCH AND BIBLIOGRAPHY</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">1</container>
+<unittitle>LS/English 307 -- Bibliography and Literature Research, Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">2</container>
+<unittitle>LS/English 307 -- Bibliography and Literature Research, Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">3</container>
+<unittitle>LS/English 307 -- Bibliography and Literature Research</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">4</container>
+<unittitle>LS/English 307 -- Assignments -- Bibliographical Essay</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">5</container>
+<unittitle>LIS 3070 -- Review for ARBA</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">6</container>
+<unittitle>LS/English 307 -- Bibliographies and Study Guides</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">7</container>
+<unittitle>LIS 3070 -- Flannery O&#8217;Connor, Correspondence</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">8</container>
+<unittitle>LS 307 -- Originals</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">9</container>
+<unittitle>LS 307 -- Pathfinders and Other Library Research Guides</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">10</container>
+<unittitle>LS 307 -- Proposal for Books</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">11</container>
+<unittitle>LS 307 -- Descriptive Bibliography: To Be or Not To Be</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">12</container>
+<unittitle>LS/English 307 -- Washington Irving</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">13</container>
+<unittitle>LS/English 307 -- Assignments -- Problems in Bibliography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">14</container>
+<unittitle>LIS 3070 -- Characteristics of Written Scholarship in American Literature: A Citation Study&#8221; (Budd)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">15</container>
+<unittitle>LS 307 -- Journals and Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">16</container>
+<unittitle>LS 307 -- William Pell, &#8220;Facts of Scholarly Publishing,&#8221; <emph render="underline">PMCA</emph> 88, Spring</unittitle>
+<unitdate>1973</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">17</container>
+<unittitle>LS 307 -- Journals and Literary Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">18</container>
+<unittitle>LIS 3070 -- Patterson&#8217;s Literary Research Guide; Some Reference Questions</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">19</container>
+<unittitle>LIS 3070 -- &#8220;The Literary Elite&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">20</container>
+<unittitle>LS 307 -- The Basic Core</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">21</container>
+<unittitle>LIS 3070 -- Dictionaries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">22</container>
+<unittitle>LS 307 -- Textual Study -- Emily Dickinson</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">23</container>
+<unittitle>LS 307 -- &#8220;Bibliography&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">24</container>
+<unittitle>LS/English 307 -- Bibliography and Literature Research: Course of Study</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">25</container>
+<unittitle>LS/English 307 -- Assignments -- What Is In A Name?</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">26</container>
+<unittitle>Poetry -- Six Poems</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">27</container>
+<unittitle>LS/English 307 -- Quiz Riverside Editions</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">28</container>
+<unittitle>LS/English 307 -- Assignments -- Literary Scholarship</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">29</container>
+<unittitle>LS/English 307 -- Assignments -- Detection of Error</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">30</container>
+<unittitle>LS/English 307 -- Assignments -- Detection of Error</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">31</container>
+<unittitle>LS/English 307 -- Glossolalia Literaria</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">32</container>
+<unittitle>LIS 3070 -- Computers and Literature</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">33</container>
+<unittitle>LS 307 -- Clossolalia and Literaria</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">34</container>
+<unittitle>Poetry -- &#8220;Binsley Poplars&#8221; and &#8220;Commuions&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">35</container>
+<unittitle>LS/English 307 -- Cartoon of David Levine</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">36</container>
+<unittitle>LS/English 307 -- H128a or Emily Unedited</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">37</container>
+<unittitle>LIS 3070 -- Washington Irving, <emph render="underline">The Sketch Book</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">38</container>
+<unittitle>LS 307 -- &#8220;Some Scholarly Occupations&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">39</container>
+<unittitle>LIS 2210 -- &#8220;Literature in Translation&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">40</container>
+<unittitle>LS 331 -- Letters to Literary Tabby</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">41</container>
+<unittitle>LS 307 -- The Spirit of Scholarship</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">42</container>
+<unittitle>LS 307 -- Johnson, Thomas H., ed. <emph render="underline">The Poems of Emily Dickinson</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">43</container>
+<unittitle>LS/English 307 -- Examinations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">44</container>
+<unittitle>LS 307 -- <emph render="underline">Eaters of the Dead</emph>: Stranger Than Fiction</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">45</container>
+<unittitle>LS/English 307 -- Assignments -- A Recherch&#233; du Livres Perdus</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">46</container>
+<unittitle>LS/English 307 -- Quiz Saturday Review</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">47</container>
+<unittitle>LS/English 307 -- Supplementary Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">48</container>
+<unittitle>LS/English 307 -- Review of Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">49</container>
+<unittitle>LS/English 307 -- Quiz -- &#8220;The Common Reader and the Uncommon Critic&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">50</container>
+<unittitle>LS/English 307 -- Reference Bibliography: A Tentative Taxonomy</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">51</container>
+<unittitle>LS/English 307 -- The Bibliographical Bard: Some Reference Questions</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">52</container>
+<unittitle>LS/English 307 -- William Pell, &#8220;Facts of Scholarly Publishing,&#8221; <emph render="underline">PMCA</emph> 88, Spring</unittitle>
+<unitdate>1973</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">53</container>
+<unittitle>LS/English 307 -- Assignments -- Quotations in Context: The Whole Truth</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">10</container>
+<container type="folder">54</container>
+<unittitle>Poetry -- &#8220;To His Toy Mistress&#8221; (Marvell and Meinke)</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 327, READING INTERESTS LS 385, EDUCATION FOR LIBRARIANSHIP</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">1</container>
+<unittitle>LS 327 -- Reading Interests</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">2</container>
+<unittitle>LS 327 -- Reading Interests -- Reviews of Reviews</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">3</container>
+<unittitle>LS 327 -- Reading Interests -- Articles</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">4</container>
+<unittitle>LS 327 -- Services to the Blind and Physically handicapped</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">5</container>
+<unittitle>LS 327 -- Reading Interests -- Sights and Sounds Showcase</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">6</container>
+<unittitle>LS 327 -- Reading Interests -- Profile of the Changing Library</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">7</container>
+<unittitle>LS 327 -- English Journalism</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">8</container>
+<unittitle>LS 327 -- Reading Interests -- Course of Study</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">9</container>
+<unittitle>LS 327 -- Reading Interests -- Notable Books Assignment</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">10</container>
+<unittitle>LS 327 -- Reading Interests -- Bibliographies</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">11</container>
+<unittitle>LS 327 -- Reading Interests -- Examinations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">12</container>
+<unittitle>LS 327 -- Reading Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">13</container>
+<unittitle>LS 327 -- Reading Interests -- Assignments on Best Sellers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">14</container>
+<unittitle>LS 327 -- Assignments -- &#8220;Oral Reports&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">15</container>
+<unittitle>LS 327 -- Assignments on American Issues Forum</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">16</container>
+<unittitle>LS 327 -- Bibliographies</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">17</container>
+<unittitle>LS 327 -- Assignments -- Reading Profile and Reading Plan</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">18</container>
+<unittitle>LS 327 -- Parallel Reading Lists</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">19</container>
+<unittitle>LS 327 -- Reading Interests -- Parallel Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">20</container>
+<unittitle>LS 327 -- Reading Interests -- Assignment: Magazine Biographies</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">21</container>
+<unittitle>LS 327 -- Reading Interests -- Assignments</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">22</container>
+<unittitle>LS 327 -- Reading Interests -- Reserve Lists -- Gleaves/ Rothacker</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">23</container>
+<unittitle>LS 385 -- Education for Librarianship -- Articles, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">24</container>
+<unittitle>LS 385 -- Accreditation</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">25</container>
+<unittitle>Accreditation of Programs of Education for Librarianship</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">26</container>
+<unittitle>LS 385 -- Education for Librarianship -- Articles, Materials, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">27</container>
+<unittitle>LS 385 -- Education for Librarianship -- Syllabi and Reading Lists</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">28</container>
+<unittitle>ALA -- &#8220;Library Education and Personal Utilization&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">29</container>
+<unittitle>ALA -- COA -- Standards for Accreditation</unittitle>
+<unitdate>1972</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">30</container>
+<unittitle>LS 385 -- Education for Librarianship -- Selected Readings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">31</container>
+<unittitle>LS 385 -- Education for Librarianship -- Research</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">32</container>
+<unittitle>Library Schools -- Curricula</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">33</container>
+<unittitle>LS 385 -- Experiential Methods in the Teaching of Library Management&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">34</container>
+<unittitle>LS 385 -- &#8220;Notes on Professional Education for Librarianship in the U.S.&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">35</container>
+<unittitle>ALA -- COA -- Standards for Accreditation</unittitle>
+<unitdate>1951</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">36</container>
+<unittitle>International Standards for Library Education.&#8221; G. A. Marco</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">11</container>
+<container type="folder">37</container>
+<unittitle>LS 385 -- Education for Librarianship -- Articles</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LS 395, LIBRARIAN AND THE PROFESSION FESTSCHRIFT MATERIALS</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">1</container>
+<unittitle>SLA Salary Survey 1976, 77, 78</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">2</container>
+<unittitle>Library Journal -- Annual Placement and Salary Report</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">3</container>
+<unittitle>LS 395 (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">4</container>
+<unittitle>LS 395 -- &#8220;Guide to Library Placement Sources&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">5</container>
+<unittitle>LS 395 -- &#8220;Job Prospects in the 1980s&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">6</container>
+<unittitle>LS 395 -- Placement, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">7</container>
+<unittitle>LS 395 -- Placement, &#8220;ALA Guidelines on Professional Placement Practices&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">8</container>
+<unittitle>LS 395 -- Placement, Sample Letters of Inquiry</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">9</container>
+<unittitle>Lexington Books -- Contributor&#8217;s Resumes, Author Biographies</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">10</container>
+<unittitle>SELA Breakfast at Louisville. Presentation of Festschrift to Frances Neel Cheney</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">11</container>
+<unittitle>Festschrift Index</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">12</container>
+<unittitle>Article on Festschrift -- <emph render="underline">Nashville Banner</emph></unittitle>
+<unitdate>Nov. 13, 1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">13</container>
+<unittitle>Cheney Festschrift -- Biography</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">14</container>
+<unittitle>Frances Neel Cheney Award</unittitle>
+<unitdate>April 1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">15</container>
+<unittitle>Cheney Festschrift -- FNC Correspondence</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">16</container>
+<unittitle>Cheney Festschrift -- No.3, Post-Publications</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">17</container>
+<unittitle>Cheney Festschrift -- JMT Correspondence</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">18</container>
+<unittitle>Cheney Festschrift -- Royalty Transactions</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">19</container>
+<unittitle>Cheney Festschrift -- Reviews, Notices, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">20</container>
+<unittitle>Cheney Festschrift -- No.1</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">21</container>
+<unittitle>Cheney Festschrift -- Lexington Books</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">22</container>
+<unittitle>Cheney Festschrift -- Announcement</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">23</container>
+<unittitle>Cheney Festschrift -- No.2</unittitle>
+<unitdate>September 1981 -- September 1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">12</container>
+<container type="folder">24</container>
+<unittitle>Lexington Books -- Instructions to Authors</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>REVIEWS AND TRANSLATIONS (Drafts and Typescripts)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">1</container>
+<unittitle>Reviews -- <emph render="underline">American Reference Book Annual</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">2</container>
+<unittitle>Reviews -- <emph render="underline">American Reference Book Annual</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">3</container>
+<unittitle>ARBA Reviews</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">4</container>
+<unittitle>ARBA Reviews</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">5</container>
+<unittitle>ARBA Reviews</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">6</container>
+<unittitle>ARBA Reviews</unittitle>
+<unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">7</container>
+<unittitle>ARBA Reviews</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">8</container>
+<unittitle>ARBA Reviews</unittitle>
+<unitdate>1988</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">9</container>
+<unittitle>Libraries Unlimited ARBA Guide</unittitle>
+<unitdate>August 1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">10</container>
+<unittitle>Reviews for <emph render="underline">Library Science Annual</emph></unittitle>
+<unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">11</container>
+<unittitle><emph render="underline">Nashville Banner</emph> Reviews</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">12</container>
+<unittitle><emph render="underline">Nashville Banner</emph> Book Reviews, Correspondence</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">13</container>
+<unittitle>Review of Aunt Julia and the Scriptwriter by Mario Vargas Liosa</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">14</container>
+<unittitle>Review of <emph render="underline">AZTEC</emph>, by Gary Jenings</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">15</container>
+<unittitle>Review of <emph render="underline">The Bible and Popular Culture in America</emph>, by Allene Stuart Phy</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">16</container>
+<unittitle>Review of <emph render="underline">Brother Enemy</emph>, by Speer Morgan</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">17</container>
+<unittitle>Review of <emph render="underline">Chronicle of Death Foretold</emph>, by Gabriel Garcia</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">18</container>
+<unittitle>Review of <emph render="underline">Cocktails at Somoza&#8217;s and Diplomatic Immunity</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">19</container>
+<unittitle>Review of <emph render="underline">The College Library: A Collection of Essays</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">20</container>
+<unittitle>Review of Computer Books and Magazines for the <emph render="underline">Christmas Season</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">21</container>
+<unittitle>The Computer Buyer&#8217;s Computer Book Guide</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">22</container>
+<unittitle>Review of <emph render="underline">Congo</emph>, by Michael Crichton</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">23</container>
+<unittitle>The Correspondence of Flannery O&#8217;Connor and the Brainard Cheneys <emph render="underline">Nashville Banner</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">24</container>
+<unittitle>The Correspondence for <emph render="underline">Tennessee Librarian</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">25</container>
+<unittitle>Cost -- Effectiveness of Alternative Library Storage Programs</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">26</container>
+<unittitle>Review of <emph render="underline">The Cricket Sings</emph>, by Federico G. Lorca</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">27</container>
+<unittitle>Review of <emph render="underline">The Club and Other Stories</emph>, by Mario V. Llosa</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">28</container>
+<unittitle>Review of <emph render="underline">Electronic Life: How to Think about Computers</emph>, by Michael Crichton</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">29</container>
+<unittitle>Review of <emph render="underline">Emerson&#8217;s Library</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">30</container>
+<unittitle>Review of <emph render="underline">Panny</emph>, by Erica Jong</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">31</container>
+<unittitle>Review of <emph render="underline">The Fate of the Earth</emph>, by Jonathan Schell</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">32</container>
+<unittitle>Review of <emph render="underline">The Fate of the Earth and Nuclear War: What&#8217;s in It for You</emph> for <emph render="underline">Christian Home</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">33</container>
+<unittitle>Review of <emph render="underline">A Flag</emph> for Sunrise, by Robert Stone</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">34</container>
+<unittitle>Review of <emph render="underline">Folk Songs of the America&#8217;s</emph> (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">35</container>
+<unittitle>Review of <emph render="underline">George Eliot; A Reference Guide</emph>, by Constance Fulmer</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">36</container>
+<unittitle>Review of <emph render="underline">History of Education</emph>, for librarianship in Columbia</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">37</container>
+<unittitle>Review of &#8220;The Honorary Consul&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">38</container>
+<unittitle>Review of <emph render="underline">The House of the Spirits</emph>, by Isabel Allende</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">39</container>
+<unittitle>Review of <emph render="underline">In Evil Hour</emph>, by Gabriel G. Marquez</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">40</container>
+<unittitle>Review of <emph render="underline">Iniciacion En Basic</emph>, by William S. Davis</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">41</container>
+<unittitle>Review of <emph render="underline">Lenguaje Basic</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">42</container>
+<unittitle>Review of <emph render="underline">The Library of America</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">43</container>
+<unittitle>Review of <emph render="underline">Louis Shores, Author-Librarian: A Bibliography</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">44</container>
+<unittitle>Review of <emph render="underline">The London Embassy</emph>, by Paul Theroux</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">45</container>
+<unittitle>Review of <emph render="underline">Matthew Arnold</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">46</container>
+<unittitle>Review of <emph render="underline">Microforms in Libraries. A Manual for Evaluation and Management</emph>, for <emph render="underline">International Journal of Review in LIS</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">47</container>
+<unittitle>Review of <emph render="underline">Monsignor Quixote</emph>, by Graham Greene</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">48</container>
+<unittitle>Review of <emph render="underline">The Mosquito Coast</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">49</container>
+<unittitle>Review of <emph render="underline">Myself As Witness</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">50</container>
+<unittitle>Review of <emph render="underline">North Toward Home</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">51</container>
+<unittitle>Review of <emph render="underline">The Old Gringo</emph>, by Carlos Fuentes</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">52</container>
+<unittitle>Review of <emph render="underline">The Peace Book</emph>, for Christian Home</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">53</container>
+<unittitle>Review of <emph render="underline">Prisoner Without A Name</emph>, Cell Without A Number, by Jacob Timerman</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">54</container>
+<unittitle>Review of <emph render="underline">Research Library Cooperation in the Caribbean</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">55</container>
+<unittitle>Review of <emph render="underline">Russian Journal</emph>, by Andrea Lee</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">56</container>
+<unittitle>Review of <emph render="underline">Run with the Horsemen</emph>, by Ferrol Sams</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">57</container>
+<unittitle>Review of <emph render="underline">Salvador</emph>, by Joan Didion</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">58</container>
+<unittitle>Review of <emph render="underline">Space</emph>, by James Michener</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">59</container>
+<unittitle>Review of <emph render="underline">Spanish-Language Books</emph> for <emph render="underline">Public Libraries</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">60</container>
+<unittitle>Review of <emph render="underline">Starting Over</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">61</container>
+<unittitle>Review of <emph render="underline">The Story of the Shipwrecked Sailor</emph>, for <emph render="underline">Nashville Banner</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">62</container>
+<unittitle>Review of <emph render="underline">Target for Research in Library Education</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">63</container>
+<unittitle>Review of <emph render="underline">Theory and Practice in Library Education</emph>, by Joe Morehead</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">64</container>
+<unittitle>Review of <emph render="underline">Towers at the Edge of a World</emph>, by Virgil Barnett</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">65</container>
+<unittitle>Review of <emph render="underline">Under Cover: An Illustrated History of American Mass Market Paperbacks</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">66</container>
+<unittitle>Review of <emph render="underline">Under the Apple Tree</emph>, by Dan Wakefield</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">67</container>
+<unittitle>Review of <emph render="underline">Waging Peace: A Handbook to Abolish Nuclear Weapons</emph>, for <emph render="underline">Christian Home</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">68</container>
+<unittitle>Review of <emph render="underline">Waiting for the Barbarians and Ah. But Your Land Is Beautiful</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">69</container>
+<unittitle>Review of <emph render="underline">Warday</emph>, by Whitley Strieber and James Kunetka</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">70</container>
+<unittitle>Review of <emph render="underline">William Morris</emph>, A Reference Guide, by Gary L. Aho</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">71</container>
+<unittitle>Review of <emph render="underline">World Librarianship</emph>, by Richard Krzys and Gaston Litton</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">72</container>
+<unittitle>Review of <emph render="underline">ALA Encyclopedia</emph> (2nd, ed.) -- Translations of Articles on Aguirre, Pessacq, Ruiz, and Sabor</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">73</container>
+<unittitle>Translation -- Article on Paraguay (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">74</container>
+<unittitle>&#8220;Argentina&#8221;: Translation of Article for <emph render="underline">ALA Encyclopedia</emph> (2nd, ed.)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">75</container>
+<unittitle>&#8220;Dominican Republic&#8221; -- Translation of Article for <emph render="underline">ALA Encyclopedia</emph> (2nd, ed.)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">13</container>
+<container type="folder">76</container>
+<unittitle>&#8220;Paraguay&#8221; -- Translation of Article for <emph render="underline">ALA World Encyclopedia</emph></unittitle>
+<unitdate>(1984)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">77</container>
+<unittitle>&#8220;Spain&#8221; -- Translation for <emph render="underline">ALA World Encyclopedia for Library and Information Science</emph></unittitle>
+<unitdate>(1986)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">78</container>
+<unittitle><emph render="underline">Encyclopedia of Library and Information Science</emph></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>PUBLICATIONS AND REPORTS</unittitle>
+<unitdate>1967-1984</unitdate>
+</did>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">1</container>
+<unittitle>Microcomputers and School Libraries</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">2</container>
+<unittitle>Mid-State Library Association: A Brief Chronicle</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">3</container>
+<unittitle>&#8220;Los Miscrocomputadores y sus Applicaciones Imformaticas&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">4</container>
+<unittitle>Microformaaulation: A Selected Bibliography of Microforms, 1970-75&#8221; (ESG &#38; JRV)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">5</container>
+<unittitle>&#8220;A Microforms Program for the Duckworth Libraries of Young Harris College. A Consultant Report&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">6</container>
+<unittitle>Microform Series Acquisition: A Suggested Plannong Model (ESG &#38; RTC)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">7</container>
+<unittitle>&#8220;Micrographics&#8221; -- ALA World Encyclopedia of LIS Services</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">8</container>
+<unittitle>Micrographics Education: Content, Methodology and Resources for Graduate Course</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">9</container>
+<unittitle>The Mid-State Library Association: A Brief Chronicle</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">10</container>
+<unittitle>Millsaps College</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">11</container>
+<unittitle>More Room at the Top: Librarianship in Light of Asheim&#8217;s Proposed Restructure</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">12</container>
+<unittitle>More Room at the Top: Librarianship in Light of Asheim&#8217;s Proposed Restructure</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">13</container>
+<unittitle>The Most Useful Reference Source on Latin America: Results of a Survey of Those Who Use Them Most -- <emph render="underline">The Reference Librarian</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">14</container>
+<unittitle>Microforms in Academe&#8221; Purdue University</unittitle>
+<unitdate>April 5, 1984</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">15</container>
+<unittitle>Northern Illinois University -- Lecture on Latin America Librarianship</unittitle>
+<unitdate>April 1, 1980</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">16</container>
+<unittitle>Peabody Journal of Education -- Special Issue</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">17</container>
+<unittitle>&#8220;The Nashville Union Catalog: A Report.&#8221; (ESG and Margareta Martin)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">18</container>
+<unittitle>&#8220;No Tears For Absalom&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">19</container>
+<unittitle>Paraguay -- Article on National Library</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">20</container>
+<unittitle>Paraguay -- Informe Sobre El Proyecto De La Escuela De Bllbliotecologia, UNA</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">21</container>
+<unittitle>&#8220;The Peabody Education Library: Future Imperfect Tense&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">22</container>
+<unittitle>&#8220;Peabody Perspectives in Library Science&#8221; -- An Experiment in Continuing Education</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">23</container>
+<unittitle>People-to-People Librarians (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">24</container>
+<unittitle>The Placement Picture, 1973: A Peabody Perspective</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">25</container>
+<unittitle>Possibilities with Paperbacks in Libraries; A Bibliographical Checklist of Suggestions</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">26</container>
+<unittitle>Profile of A Library School (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">27</container>
+<unittitle>Puerto Rico -- &#8220;Escuela Graduada de Bibliotecologia&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">28</container>
+<unittitle>Report of A Planning Conference for Solar Technology Information Transfer</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">29</container>
+<unittitle>The Role of TLA in Continuing Education: Time to Come Clean&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">30</container>
+<unittitle>Salpicando: Mexico Supplement 1</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">31</container>
+<unittitle>Salpicando: Costa Rica -- A Journal of Random Observations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">32</container>
+<unittitle>Salpicando: Mexico</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">33</container>
+<unittitle>Salpicando: Some Notes from Paraguay</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">34</container>
+<unittitle>Salpicando: Some Notes from Paraguay</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">35</container>
+<unittitle>&#8220;Seattle and the University Washington&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">36</container>
+<unittitle>Serving Yesterday&#8217;s People Tomorrow: Bookmobile Programs and Reading Interests in Rural Tennessee</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">37</container>
+<unittitle>SELA, 1976 -- Microforms Workshop</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">38</container>
+<unittitle>Tennessee Advisory Council on Libraries Report on Fort Loudon Reg.Lib.Ctr.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">39</container>
+<unittitle>Tennessee Advisory Council on Libraries Report on Tennessee Regional Library for the Blind and Physically Handicapped</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">40</container>
+<unittitle>Tennessee Advisory Council on Libraries Report on Memphis Area Resource Center</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">41</container>
+<unittitle>Tennessee Advisory Council on Libraries Report on Nashville Area Resource Center</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">42</container>
+<unittitle>Library of the Tennessee State Penitentiary: An Evaluation Report for the T. A. C. L. 1983</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">43</container>
+<unittitle>Tennessee Advisory Council on Libraries Report on Caney Fork Reg. Lib. Ctr.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">44</container>
+<unittitle>Tennessee Advisory Council on Libraries Report on WPIN Talking Library</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">45</container>
+<unittitle>Tennessee Advisory Council on Libraries Reports on Area Resource Centers</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">46</container>
+<unittitle>Tennessee Regional Library System -- Tenn. Regional Library for the Blind and Physically Handicapped</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">47</container>
+<unittitle>Tennessee Regional Library System -- Warioto Regional Library</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">48</container>
+<unittitle>Three Agenda for Research in Library and Information Science&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">49</container>
+<unittitle>Tennessee Advisory Council on Libraries Reports on Warioto Regional Library</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">50</container>
+<unittitle>&#8220;Los Territorios Academicos . . . &#8220; Revista Interamericana de Bibliotecologia</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">51</container>
+<unittitle>TLA -- Committee on Pornography Bill</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">52</container>
+<unittitle>United Methodist Publishing House Final Report (Original)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">53</container>
+<unittitle>&#8220;A Watch and Chain and a Jeweled Sword&#8221; Drafts, Correspondence, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">54</container>
+<unittitle>&#8220;A Watch and Chain and a Jeweled Sword&#8221; as submitted to RQ</unittitle>
+<unitdate>(13 August 1984)</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">55</container>
+<unittitle>A Watch and Chain and a Jeweled Sword or the Graveyard of Scholarship: Festschrift and Librarianship</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">56</container>
+<unittitle>Wisconsin, University of, Oshkosh -- Consultant Visit on ALA Accreditation</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">57</container>
+<unittitle>Webster&#8217;s New World Dictionary (ESG) Type Script</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">14</container>
+<container type="folder">58</container>
+<unittitle>Young Harris College</unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>LATIN AMERICA</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">1</container>
+<unittitle>Columbia</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">2</container>
+<unittitle>Costa Rica</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">3</container>
+<unittitle>Escuela Interamericana de Bibliotecologia</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">4</container>
+<unittitle>EIBM -- History, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">5</container>
+<unittitle>Mexico -- San LUIS Potosi, etc.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">6</container>
+<unittitle>Mexico -- &#8220;Project Mexico-Peabody: A Proposal for a Short-Term Seminar in Nashville&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">7</container>
+<unittitle>Mexico -- Conacyt</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">8</container>
+<unittitle>Mexico -- Reunion Sobre Grandes Cencentracions Universitaraias</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">9</container>
+<unittitle>Mexico -- University of Guanajuato, 1985-86, -- Thesis</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">10</container>
+<unittitle>Passport and Travel Information</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">11</container>
+<unittitle>Organization of American States, Correspondence, Contracts, etc</unittitle>
+<unitdate>1970</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">12</container>
+<unittitle>Paraguay -- Universidad nacional de Asuncion, Escuela de Bibliotecologia</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">13</container>
+<unittitle>Puerto Rico</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">14</container>
+<unittitle>Unesco</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">15</container>
+<unittitle>Unesco -- Simposio, Interamanicano San Jose, Costa Rica</unittitle>
+<unitdate>Feb. 1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">16</container>
+<unittitle>Venezuela -- Sinasbi</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">17</container>
+<unittitle>Venezuela -- ULA -- Course on Microforms</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">18</container>
+<unittitle>Venezuela -- Proyecto de Adquisicion Cooperativa</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">19</container>
+<unittitle>Venezuela -- U. D. O. -- Course on Microforms</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">20</container>
+<unittitle>Venezuela -- L. U. Z.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">21</container>
+<unittitle>Venezuela -- U. L. A. -- Mf Workshop -- Class List</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">22</container>
+<unittitle>Venezuela -- Universidad de los Andes</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">23</container>
+<unittitle>Venezuela</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">24</container>
+<unittitle>Venezuela -- U. L. A. -- Projectos de Clase</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">25</container>
+<unittitle>Venezuela -- U. C. V.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">26</container>
+<unittitle>Venezuela -- Consejo Nacional de Uuniversidad Comiscion de Trabejo -- Projecto de Plan</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">27</container>
+<unittitle>Venezuela -- Don Quixote de la Mancha: Comparative Translations</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">28</container>
+<unittitle>&#8220;Readers Indigestion&#8221;, <emph render="underline">Post</emph> Article</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">29</container>
+<unittitle>Language -- Dialects</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">30</container>
+<unittitle>Language -- Ideographs</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">31</container>
+<unittitle>Language -- Development of the Alphabet</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">32</container>
+<unittitle>Language -- Names</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">33</container>
+<unittitle>English Literature -- The Victorian Age -- English 516b (GPL)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">34</container>
+<unittitle>English Literature -- The Victorian Poetry and Prose -- English 258 (GPL)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">35</container>
+<unittitle>Libraries Unlimited</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">36</container>
+<unittitle>Southwestern Publishing Co.</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">37</container>
+<unittitle>Mercy College</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">38</container>
+<unittitle>Kentucky, University of, -- Personal Correspondence</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">39</container>
+<unittitle>Metodos de Ensenanza &#8211;Universidad de Costa Rica</unittitle>
+<unitdate>1971</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">40</container>
+<unittitle>EIB Seleccion de Material &#8211;Photocopies of Articles</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">41</container>
+<unittitle>EB-316 Seleccion de Material (Part 1) Universidad de Costa Rica</unittitle>
+<unitdate>1971</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">15</container>
+<container type="folder">42</container>
+<unittitle>EB-316 El Lector y la Biblioteca (Part 2) Unversidad de Costa Rica</unittitle>
+<unitdate>1971</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>PUBLICATIONS AND REPORTS, 1967 (A-MEX)</unittitle>
+</did>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">1</container>
+<unittitle>All in One Boat: The Case for Educating for the Global View TVA Presentation</unittitle>
+<unitdate>March 24, 83</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">2</container>
+<unittitle>ALA -- IRRT -- Special Issue of LEADS</unittitle>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">3</container>
+<unittitle>&#8220;ALA and Library Education for the 1970s&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">4</container>
+<unittitle>The Bibliosmiles</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">5</container>
+<unittitle><emph render="underline">Building Library Collections</emph></unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">6</container>
+<unittitle>Careers of Diversity in an Age of Adversity: Librarianship, Information Science and Information Management</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">7</container>
+<unittitle>Creacion de un Ambiente Efectivo Papa Microformas en Bibliotecas: un Modulo Instructivo</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">8</container>
+<unittitle>Creating an Effective Microform Environment in Libraries: a Self-Instructional Learning Module</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">9</container>
+<unittitle>Creating an Effective Microform Environment in Libraries, Original</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">10</container>
+<unittitle>Creating an Effective Microform Environment in Libraries: a Self-Instructional Learning Module (Original)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">11</container>
+<unittitle>Creating an Effective Microform Environment in Libraries: a Self-Instructional Learning Module</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">12</container>
+<unittitle>Creating an Effective Microform Environment in Libraries: a Self-Instructional Learning Module (revised edition)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">13</container>
+<unittitle>&#8220;Current Sources of Statistics on Library Education&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">14</container>
+<unittitle>Department of Library and Information Science (Contribution to McCrossan Volume)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">15</container>
+<unittitle>&#8220;Drury, F. K. W. &#8220;, <emph render="underline">Dictionary of American Library Biography</emph> (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">16</container>
+<unittitle>&#8220;La Escuela Interammericana de Bibliotecologia: A Report with Recommendations&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">17</container>
+<unittitle>&#8220;La Escuela Interammericana de Bibliotecologia: A Report with Recommendations&#8221; (ESG)&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">18</container>
+<unittitle>&#8220;Evaluation of the Library School Directory&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">19</container>
+<unittitle>&#8220;Faculty Teaching Loads In Graduate Schools in the Southeast&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">20</container>
+<unittitle>&#8220;The Fisk University Library Research Program in Ethnic Studies Librarianship: An Evaluation Report&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">21</container>
+<unittitle>&#8220;Focus On . . . the IRRT of the ALA&#8221; <emph render="underline">Information Development</emph> (1-86)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">22</container>
+<unittitle>&#8220;Formacion de Personal Bibliotecario en la Era Electronica&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">23</container>
+<unittitle>&#8220;George Peabody College, School of Library Science,&#8221; <emph render="underline">Encyclopedia of Library and Information Science</emph> (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">24</container>
+<unittitle>&#8220;Graduate Courses in Library Science Offered in the Southeast During the 1978 and 1979 Summer Sessions&#8221; (RTC &#38; ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">25</container>
+<unittitle>History of Library Education (ESG &#38; JMT)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">26</container>
+<unittitle>IFIA Preconference,, Montreal</unittitle>
+<unitdate>August 1982</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">27</container>
+<unittitle>&#8220;Information Requirements of University Faculty&#8221; (ERIC)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">28</container>
+<unittitle>&#8220;Innocents Abroad: Americans Among Other Cultures&#8221;. CIEC Speech</unittitle>
+<unitdate>March 25, 1986</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">29</container>
+<unittitle>&#8220;International Relations Round Table&#8221;. <emph render="underline">ALA Yearbook</emph></unittitle>
+<unitdate><emph render="underline">1986</emph></unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">30</container>
+<unittitle>&#8220;Intellectual Freedom in Tennessee&#8221;. <emph render="underline">Tres Pasos Adelante</emph> (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">31</container>
+<unittitle>&#8220;Intellectual Freedom in Tennessee&#8221;, (ESG), L.S. 221, Spring</unittitle>
+<unitdate>1977</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">32</container>
+<unittitle>&#8220;La Investigation en las Escuelas de Bibliotecologia. . . &#8220; (ESG &#38; RH) - Original</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">33</container>
+<unittitle>&#8220;La Investigation en las Escuelas de Bibliotecologia. . . &#8220; (ESG &#38; RH) -Support Materials</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">34</container>
+<unittitle>&#8220;Jonathan Livingston Librarian&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">35</container>
+<unittitle>Lambuth College</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">36</container>
+<unittitle>Letters to Newspapers</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">37</container>
+<unittitle>Letters to the Editor</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">38</container>
+<unittitle>Library Education in Transition</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">39</container>
+<unittitle>&#8220;Library Instruction in the Library School Curriculum&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">40</container>
+<unittitle>Library Education: Issues for the Eighties (Top Copy)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">41</container>
+<unittitle>&#8220;The Literary Catabomb&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">42</container>
+<unittitle>&#8220;A Literary Catacomb&#8221; (Popular Literature)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">43</container>
+<unittitle>&#8220;Library Education: Issues for the Eighties&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">44</container>
+<unittitle>Reference Services Review. The Literary Elite: A Personal Selection of the Most Essential Titles . . .</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">45</container>
+<unittitle>Literary Manslaughter</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">46</container>
+<unittitle>&#8220;The Literary Catacomb&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">47</container>
+<unittitle>&#8220;Looking Backward, Learning Forward: or From Ragtime to Tymshare&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">48</container>
+<unittitle>&#8220;Marietta and the Virgin and I&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">49</container>
+<unittitle>La Maestria en Bibliotecologia Y Ciencias de la Informmacion de la Universidad de Guanajuato (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">50</container>
+<unittitle>Mexico -- &#8220;Un Problema Bibliotecario Inesperado&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">51</container>
+<unittitle>Mexico -- &#8220;Curso de Orientacion en Bibliotecologia en Mexico&#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">52</container>
+<unittitle>Mexico -- &#8220;Analysis of &#8216;Estudios Propuestos Para un Programa de Maestria en Bibliotecologia&#8217; . . . &#8221; (ESG)</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">53</container>
+<unittitle>Mexico -- &#8220;San Luis Potosi Como Sede Del Curso De Maestria En Bibliotecologia&#8221;</unittitle>
+</did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box">16</container>
+<container type="folder">54</container>
+<unittitle>Questionnaire: Information Requirements of University Faculty: An Investigation into the Information Needs, Habits, and Attitudes of the faculty of George Peabody College for Teachers of Vanderbilt University, 1984 (ESG)</unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+<eadid countrycode="US"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="filing">James Papers Robertson Collection</titleproper>
+<titleproper>Finding Aid for the Robertson James Papers Collection</titleproper>
+<author></author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections Manuscripts and Rare Books</publisher>
+<p><date>undated</date></p>
+<address>
+<addressline>419 21st Avenue South</addressline>
+<addressline>Nashville, TN 37203-2427</addressline>
+<addressline>specialcollections@vanderbilt.edu</addressline>
+<addressline>URL:
+<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+<repository>
+<corpname>Special Collections Manuscripts and Rare Books</corpname>
+</repository>
+<unittitle>Robertson James Papers Collection</unittitle>
+<unitid>MSS.0366</unitid>
+<physdesc altrender="whole">
+<extent altrender="materialtype spaceoccupied">3.36 linear feet</extent>
+</physdesc>
+<unitdate>undated</unitdate>
+</did>
+<bioghist>
+<p>The papers of James Robertson (1742-1814), pioneer, Brigadier General of Territory Southwest of Ohio, Indian Agent, Tennessee Legislator and Senator are owned by George Peabody College and have been placed on deposit in the Manuscript Division by that institution.</p>
+<p>Linear feet of shelf space occupied: 1.68</p>
+<p>Approximate number of items: 376</p>
+<p>These papers in the custody of the Manuscript Division are Subject to an agreement made between George Peabody College and the Tennessee State Library and Archives.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content Note</head>
+<p>The James Robertson Papers are composed of original letters and documents of James Robertson for the dates 1784-1814 given by his son Dr. Felix Robertson to the University of Nashville. They were arranged in a chronological order and bound in two volumes by Nathaniel Cross, a member of the faculty. As a preface to the volumes, the following statement is made: &#8220;The correspondence etc., of Gen. James Robertson, who has been styled the &#8216;Father of Tennessee,&#8217; was obtained from his son, Dr. Felix Robertson of Nashville, with permission to select from it such papers as might be considered worth preserving; inasmuch, however as many of those, that were of a private nature, contained the allusions to political occurrences and Indian border troubles of the day, it was deemed best to preserve the correspondence entire.&#8221; For the sake of better preservation, these volumes have been taken apart and the correspondence has been arranged alphabetically by author of the letter.</p>
+<p>This valuable collection for the early period contains letters from many of the pioneers in the Cumberland Settlements, a number of Indian chiefs of the Cherokee, Chickasaw, Choctaw, and Creek Nations, and Indian agents, many of whom took part in the Indian Wars and in treaty making. Some letters contain information about land transactions and proposed early roads, especially the Natchez Trace. In addition to a letter signed by George Washington and the Secretaries of War, Henry Dearborn, Henry Knox, James McHenry, and Timothy Pickering, there are letters written by W. P. Anderson, Tim Barnard, William Blount, Willie Blount, H. Bradford, Abraham Bradley, John F. Brevard, Baron of Carondelet, John Clark, William Cocke, Alexander Cornell, Francis Cruzat, George M. Deaderick, Silas Dinsmoor, Thomas Doyle, R. C. Foster, G. Granger, George Haller, Benjamin Hawkins, David Henley, James Hoggatt, Andrew Jackson, Robert King, Alexander McGillivray, John McKee, John McLeish, Joseph McMinn, William MacLin, Allan B. McGruder, William Martin, Return J. Meigs, Esteban Miro, Seth Penn, Andrew Pickens, John Pitchlynn, Thomas Portell, William Prince, Thomas Purson, John Reid, John Rhea, James Robertson, James Seagrove, John Sevier, William Sharpe, Dan Smith, John Sommerville, R. Sparke, A. Tatum, Charles Thompson, John Thompson, James White, B. W. Williams, John Williams, Hu Williamson, James Winchester and Thomas Wright. A deposition of James Powell, a report of Isaac Titsworth, and a statement made by the historian A. W. Putnam make up the remainder of the collection.</p>
+</scopecontent>
+<bioghist>
+<head>Biographical Note</head>
+<p>JAMES ROBERTSON</p>
+<chronlist>
+<chronitem>
+<date>1742</date>
+<event>Born June 28, son of John and Mary (Gower) Robertson, Brunswick County, Virginia -Moved in early youth to Wake County, North Carolina.</event>
+</chronitem>
+<chronitem>
+<date>1768</date>
+<event>Married.October 20, Charlotte Reeves, daughter of George Reeves.</event>
+</chronitem>
+<chronitem>
+<date>1771</date>
+<event>Moved west and becane a member of the court created by the Watauga Association.</event>
+</chronitem>
+<chronitem>
+<date>1774</date>
+<event>Participated in Lord Dunmore&#8217;s War at Battle of Point Pleasant.</event>
+</chronitem>
+<chronitem>
+<date>1776-1779</date>
+<event>Acted as Agent to the Cherokees for North Carolina and Virginia.</event>
+</chronitem>
+<chronitem>
+<date>1779</date>
+<event>Headed an exploring party that contemplated a settlement at French Lick, a trading post on the Cumberland.</event>
+</chronitem>
+<chronitem>
+<date>1780</date>
+<event>Lead a group of Watauga settlers to Nashville via Cumberland - Signed the Cumberland Compact.</event>
+</chronitem>
+<chronitem>
+<date>1781</date>
+<event>Made an alliance with the Chickasaw Indians and was elected Colonel of the Militia.</event>
+</chronitem>
+<chronitem>
+<date>1785</date>
+<event>Became a trustee of Davidson Academy which later became the University of Nashville. Represented his county in the North Carolina Assembly.</event>
+</chronitem>
+<chronitem>
+<date>1786-1789</date>
+<event>Played an active though obscure part in the Spanish Conspiracy.</event>
+</chronitem>
+<chronitem>
+<date>1787</date>
+<event>Represented his county in North Carolina Assembly. Lead the Coldwater expedition against the Indians.</event>
+</chronitem>
+<chronitem>
+<date>1790</date>
+<event>Appointed Brigadier-General of the Territory Southwest of the Ohio.</event>
+</chronitem>
+<chronitem>
+<date>1794</date>
+<event>Resigned position after ordering the Nickajack Campaign.</event>
+</chronitem>
+<chronitem>
+<date>1796</date>
+<event>Represented Davidson County in the Constitutional Convention of Tennessee.</event>
+</chronitem>
+<chronitem>
+<date>1798</date>
+<event>Entered the Tennessee Senate in place of Thomas Hardeman who had resigned. He represented Tennessee at first treaty of Tellico between United States and Cherokees.</event>
+</chronitem>
+<chronitem>
+<date>1808 or later</date>
+<event>Was trustee of the University of Nashville.</event>
+</chronitem>
+<chronitem>
+<date>1814</date>
+<event>Died at the agency at Chickasaw Bluff where he was serving as Indian Agent to the Chickasaws.</event>
+</chronitem>
+</chronlist>
+</bioghist>
+<dsc type="othertype">
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Accounts</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Broadsides--Lands of John Sevier</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Correspondence--Front Pages of Volumes I and II</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Correspondence--Authors Unknown</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Correspondence--Anderson, W. P.,</unittitle>
+<unitdate>1804</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Correspondence--Barnard, Tim</unittitle>
+<unitdate>1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Correspondence--Blount, William</unittitle>
+<unitdate>1790-1792</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Correspondence--Blount, William</unittitle>
+<unitdate>1793</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Correspondence--Blount, William</unittitle>
+<unitdate>Jan.-Aug., 1794</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Correspondence--Blount, William</unittitle>
+<unitdate>Sept.-Dec., 1794</unitdate>
+</did>
+</c01> 
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Correspondence--Blount, William</unittitle>
+<unitdate>Jan.-June, 1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Correspondence--Blount, William</unittitle>
+<unitdate>July-Dec., 1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Correspondence--Blount , William</unittitle>
+<unitdate>1796</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Correspondence--Blount, William</unittitle>
+<unitdate>1797-1798</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Correspondence--Blount, Willie</unittitle>
+<unitdate>1795-1814</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Correspondence--Bradford, H.</unittitle>
+<unitdate>1789</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Correspondence-Bradley, Abraham</unittitle>
+<unitdate>1807</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Correspondence--Brevard, John</unittitle>
+<unitdate>1813</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Correspondence--Carondelet, Baron of</unittitle>
+<unitdate>1793-1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Correspondence--Clark, John, et. al., undated</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Correspondence--Clarksville Citizens</unittitle>
+<unitdate>1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Correspondence--Cocke, William</unittitle>
+<unitdate>1797</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Correspondence--Cornell, Alexander</unittitle>
+<unitdate>1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Correspondence--Cruzat, Francis</unittitle>
+<unitdate>1784</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Correspondence--Deaderick, George M.</unittitle>
+<unitdate>1810</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Correspondence--Dinsmoor, Silas</unittitle>
+<unitdate>1795-1814</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Correspondence--Doyle, Thomas</unittitle>
+<unitdate>1794-1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>Correspondence--Foster, R. C.,</unittitle>
+<unitdate>1805</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unittitle>Correspondence--Granger, G.</unittitle>
+<unitdate>1807</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>Correspondence--Haller, George</unittitle>
+<unitdate>1807</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Correspondence--Hawkins, Benjamin</unittitle>
+<unitdate>1797-1798</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Correspondence--Henley, David</unittitle>
+<unitdate>1795-1798</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Correspondence--Raggatt, James</unittitle>
+<unitdate>1803</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>Correspondence--Indians--Cherokee Nation</unittitle>
+<unitdate>1796-1805</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>Correspondence--Indians--Chickasaw Nation</unittitle>
+<unitdate>1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>Correspondence--Indians--Choctaw Nation</unittitle>
+<unitdate>1790</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unittitle>Correspondence--Indians--Creek Nation</unittitle>
+<unitdate>1790</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unittitle>Correspondence--Jackson, Andrew</unittitle>
+<unitdate>1796</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unittitle>Correspondence--King, Robert</unittitle>
+<unitdate>1804</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Correspondence--McGillivray, Alexander</unittitle>
+<unitdate>1788</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Correspondence--McKee, John</unittitle>
+<unitdate>1794-1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>Correspondence--McLeish, John</unittitle>
+<unitdate>1813</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Correspondence--McMinn, Joseph</unittitle>
+<unitdate>1804</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>Correspondence--Maclin, William</unittitle>
+<unitdate>1797-1804</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>Correspondence--Magruder, Allan B.</unittitle>
+<unitdate>1805</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>Correspondence--Martin, William</unittitle>
+<unitdate>1809</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>Correspondence--Meigs, Return, J.</unittitle>
+<unitdate>1804-1809</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>Correspondence--Mira, Esteban</unittitle>
+<unitdate>1783</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>Correspondence--Orders--General</unittitle>
+<unitdate>1793</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unittitle>Correspondence--Penn, Seth</unittitle>
+<unitdate>1809</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unittitle>Correspondence--Pickens, Andrew</unittitle>
+<unitdate>1796</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>Correspondence--Pike, Zebulon</unittitle>
+<unitdate>1796</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unittitle>Correspondence--Pitchlynn, John</unittitle>
+<unitdate>1812-1813</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">15</container>
+<unittitle>Correspondence--Portell, Thomas</unittitle>
+<unitdate>1792-1794</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">16</container>
+<unittitle>Correspondence--Prince, William</unittitle>
+<unitdate>1792</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle>Correspondence--Purson, Thomas</unittitle>
+<unitdate>1787</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>Correspondence--Reid, John</unittitle>
+<unitdate>1813</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unittitle>Correspondence--Rhea, John</unittitle>
+<unitdate>1806-1808</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">3</container>
+<container type="folder">20</container>
+<unittitle>Correspondence--Robertson, James</unittitle>
+<unitdate>1787~1812</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>Correspondence--Seagrove, James</unittitle>
+<unitdate>1794</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>Correspondence--Sevier, John</unittitle>
+<unitdate>1791-1793</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>Correspondence--Sharpe, William</unittitle>
+<unitdate>1807</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>Correspondence--Smith, Dan</unittitle>
+<unitdate>1793-1805</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>Correspondence--Sommerville</unittitle>
+<unitdate>John, 1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>Correspondence--Sparke, R.</unittitle>
+<unitdate>1814</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>Correspondence--Tatum, A.</unittitle>
+<unitdate>1789</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>Correspondence--Thompson, Charles</unittitle>
+<unitdate>1813</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>Correspondence--Thompson, John</unittitle>
+<unitdate>1794</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>Correspondence--War Department--Dearborn, Henry</unittitle>
+<unitdate>1803-1807</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>Correspondence--War Department--Knox, Henry</unittitle>
+<unitdate>1791-1794</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>Correspondence--War Department--McHenry, James</unittitle>
+<unitdate>1799</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">13</container>
+<unittitle>Correspondence--War Department--Pickering, Timothy</unittitle>
+<unitdate>1795-1796</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle>Correspondence--Washington, George</unittitle>
+<unitdate>1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>Correspondence--wbite, James</unittitle>
+<unitdate>1795</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>Correspondence--Williams, B. W.</unittitle>
+<unitdate>1814</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle>Correspondence--Williams, John</unittitle>
+<unitdate>1805</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle>Correspondence--Williamson, Hu</unittitle>
+<unitdate>1789</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>Correspondence--Winchester, James</unittitle>
+<unitdate>1793-1801</unitdate>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>Deposition--James Powell</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>Proposal--Natchez Trace</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>Report--Isaac Titsworth</unittitle>
+</did>
+</c01>
+<c01 level="item">
+<did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>Statement--A. W. Putnam--Government at Ft. Nashborough</unittitle>
+</did>
+</c01>
+</dsc>
+<index>
+<head>Name Index</head>
+<p>This is a name index for the correspondence in the James Robertson Papers, together with the dates of the letters. The numbers in parentheses immediately following the name denote the number of letters, if more than one. The last numbers refer to the box and folder in which the material can .be found.</p>
+<indexentry>
+<persname>Addams, James, <emph render="underline">et al</emph>., 1795, to James Robertson, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Anderson, W. P., 1804, to James Robertson, 1-5</persname>
+</indexentry>
+<indexentry>
+<persname>Barnard, Tim, 1795, to Governor [William] Blount, 1-6</persname>
+</indexentry>
+<indexentry>
+<persname>Bench, The, <emph render="underline">see</emph>, Turtle at home, 1796, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Big Warrior, <emph render="underline">see</emph> Mad Dog, 1795, 2-19</persname>
+</indexentry>
+<indexentry>
+<persname>Bird, A., <emph render="underline">see</emph>, Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Bloody Fellow, The, 1792, to William Blount, 2-16 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William (129), 1790-1798, to James Robertson, 1-7-14</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1792, to The Bloody Fellow, Chief of the Cherokees, 1-7</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1792, to The Glass, a Chief of the Cherokees, 1-7</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1793, to Judges Campbell, McNairy, and Anderson, 1-8</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1793, to John Pitchlynn, 1-8</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1794, to Joseph Evans, 1-10 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1794, to Benjamin Logan, 1-10 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1794, to James Seagrove, 1-9</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1794, to William Whitley, 1-10 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1795, to William Colbert, 1-12</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1795, to Alexander Cornell, 1-12 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1795, to Joseph Dorris, 1-12 (broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1795, to [David Henley], 1-11</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, William, 1795, to Timothy Pickering, 1-12</persname>
+</indexentry>
+<indexentry>
+<persname>Blount, Willie (6), 1795-1814, to James Robertson, 1-15</persname>
+</indexentry>
+<indexentry>
+<persname>Bradford, H., 1789 (general orders), 1-16</persname>
+</indexentry>
+<indexentry>
+<persname>Bradley, Abraham, Jr., 1809, to James Robertson, 1-17</persname>
+</indexentry>
+<indexentry>
+<persname>Brevard, John F., 1813, to James Robertson, 1-18</persname>
+</indexentry>
+<indexentry>
+<persname>Broom, The, <emph render="underline">see</emph>, Tallotiskee, 1804, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Brownlee, John, <emph render="underline">see</emph> Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Carondelet, Baron of, 1793, to James Robertson, 2-1</persname>
+</indexentry>
+<indexentry>
+<persname>Carondelet, Baron of, 1795, to Efa Hodjo or the Mad Dog of Tuckabatches, 2-1</persname>
+</indexentry>
+<indexentry>
+<persname>Charleson, <emph render="underline">see</emph>, Chennabe, 1805, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Chennabe, <emph render="underline">et al</emph>., 1805, to James Robertson, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Chiefs of the Upper and Lower Creeks, 1795, to William Blount, 1-11</persname>
+</indexentry>
+<indexentry>
+<persname>Chinumbe Mingo, <emph render="underline">et al</emph>., 1809, to James Robertson, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Chisholm, John D., <emph render="underline">see</emph>, Clark, John, n.d., 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>Chuguthage, <emph render="underline">see</emph>, Turtle at home, 1796, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Citizen of Mere District, 1792, to James Robertson, 1-4</persname>
+</indexentry>
+<indexentry>
+<persname>Clark, John, <emph render="underline">et al</emph>., n.d. proposition concerning a means of transporting produce, 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>Cocke, William, 1797, to James Robertson, 2-4</persname>
+</indexentry>
+<indexentry>
+<persname>Colbert, George, <emph render="underline">see</emph> Chennabe, 1805, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Colbert, George, <emph render="underline">see</emph>, Chinumbe Mingo, 1809, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Colbert, George, 1812, to James Robertson, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Cornell, Alexander (2), 1795, to William Blount, 2-5 Cornell, Alexander, 1795, to Billy Colbert, George Colbert, Pyo lata, Pyo Mingo, and Uglyacabe Mingo of the Chickasaw Nation, 2-5</persname>
+</indexentry>
+<indexentry>
+<persname>Cruzat, Francis (2), 1784, to Monsieur ___________ (one letter is translation from French) , 2-6</persname>
+</indexentry>
+<indexentry>
+<persname>Danning, Robert, <emph render="underline">see</emph>, Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Deaderick, George M., 1810, to James Robertson, 2-7</persname>
+</indexentry>
+<indexentry>
+<persname>Dearborn, H[enry], 1803, to Archibald Roane, 4-10 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Dearborn, H[enry] (7), 1805-1807, to James Robertson, 4-10</persname>
+</indexentry>
+<indexentry>
+<persname>Dearborn, Henry, 1806, to Return J. Meigs, 4-10 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Dearborn H[enry], 1806, to James Robertson, and Return J. Meigs, 4-10</persname>
+</indexentry>
+<indexentry>
+<persname>Dearborn, H[enry], 1806, to James Robertson, Return J. Meigs, and William Hill, 4-10</persname>
+</indexentry>
+<indexentry>
+<persname>Dinsmoor, Silas (6), 1795-1814, to James Robertson, 2-8</persname>
+</indexentry>
+<indexentry>
+<persname>Dinsmoor, Silas, 1805, to Henry Dearborn, 2-8</persname>
+</indexentry>
+<indexentry>
+<persname>Doyle, T[homas] (2), 1794-1795, to James Robertson, 2-9</persname>
+</indexentry>
+<indexentry>
+<persname>Emattaharnica, <emph render="underline">see</emph>, Chinumbe Mingo, 1809, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Foster, R. c., 1805, to James Robertson, 2-10</persname>
+</indexentry>
+<indexentry>
+<persname>Gilbery, William w., <emph render="underline">see</emph> Chinumbe Mingo, 1809, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Glass, The, 1792, to William Blount, 2-16 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Glass, The, <emph render="underline">see</emph> Justes, Richard, 1796, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Granger, G., 1807, to James Robertson, 2-11</persname>
+</indexentry>
+<indexentry>
+<persname>Haller, Goerge, 1807, to James Robertson, 2-12</persname>
+</indexentry>
+<indexentry>
+<persname>Hattashimeco, <emph render="underline">see</emph> Chinumbe Mingo, 1809, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Hawkins, Benjamin (2), 1797-1798, to James Robertson, 2-13</persname>
+</indexentry>
+<indexentry>
+<persname>Hawkins, Bn., <emph render="underline">see</emph>, Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Henley, David, 1795, to John Gordon, 2-14</persname>
+</indexentry>
+<indexentry>
+<persname>Henley, David (12), 1795-1798, to James Robertson, 2-14</persname>
+</indexentry>
+<indexentry>
+<persname>Hoggatt, James, 1803, to James Robertson, 2-15</persname>
+</indexentry>
+<indexentry>
+<persname>Jackson, Andrew (2), 1796?-1798, to James Robertson, 2-20</persname>
+</indexentry>
+<indexentry>
+<persname>Jackson, Andrew, 1803, to [Benjamin] Bradford, 1-3 (broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>Justes, Richard, <emph render="underline">et al</emph>., 1796, to James Robertson, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Kelly, John O., 1798, to James Robertson, 1-4</persname>
+</indexentry>
+<indexentry>
+<persname>Kennedy, N., <emph render="underline">see</emph>, Clark, John, n.d., 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>King, Robert, 1804, to James Robertson, 2-21</persname>
+</indexentry>
+<indexentry>
+<persname>Knox, Henry (3), 1791-1792, to William Blount, 4-11 (extracts)</persname>
+</indexentry>
+<indexentry>
+<persname>Knox H[enry], 1793, to the Chiefs and warriors of the Chickasaw Nation of Indians, 4-11 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Knox, H[enry] (2), 1793, to Major General Wayne, 4-11 (extracts of same letter)</persname>
+</indexentry>
+<indexentry>
+<persname>Knox, H[enry] (2), 1794, to William Blount, 4-11 (copies)</persname>
+</indexentry>
+<indexentry>
+<persname>Lea, John M., 1891, to Chancellor Payne, 1-1</persname>
+</indexentry>
+<indexentry>
+<persname>Libbert, Philip, <emph render="underline">see</emph>, Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Little Turkey, 1795, to William Blount, 2-16 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>McCallam, Hugh, <emph render="underline">see</emph> Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>McGillivray, Alexander, 1788, to James Robertson, 3-1</persname>
+</indexentry>
+<indexentry>
+<persname>McGillivray, Dan1, <emph render="underline">see</emph>, Mad Dog, 1796, 2-19</persname>
+</indexentry>
+<indexentry>
+<persname>McHenry, James, 1796, to William Blount, 4-12 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>McHenry, James, 1799, to James Robertson, 4-12</persname>
+</indexentry>
+<indexentry>
+<persname>Mcintosh, Lachlan, <emph render="underline">see</emph> Robertson, James, 1798, 3-20 (broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>McKee, John, 1794, to the Glass and the Chiefs of the lower Towns of the Cherokees, 3-2</persname>
+</indexentry>
+<indexentry>
+<persname>McKee, John (3), 1794-1795, to William Blount, 3-2</persname>
+</indexentry>
+<indexentry>
+<persname>McLeish, John, 1813, to James Robertson, 3-3</persname>
+</indexentry>
+<indexentry>
+<persname>McLemore, John, <emph render="underline">see</emph>, Tallotiskee, 1804, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Macline, William (2), 1797-1804, to James Robertson, 3-5</persname>
+</indexentry>
+<indexentry>
+<persname>McMinn, Joseph, 1804, to James Robertson, 3-4</persname>
+</indexentry>
+<indexentry>
+<persname>Mad Dog and Big Waarrior, 1795, to James Seagrove, 2-19</persname>
+</indexentry>
+<indexentry>
+<persname>Mad Dog and Danl McGillevray, 1796, to the Chickasaw Nation, 2-19</persname>
+</indexentry>
+<indexentry>
+<persname>Magruder, Allan B., 1805, to James Robertson, 3-6</persname>
+</indexentry>
+<indexentry>
+<persname>Martin, William, 1809, to James Robertson, 3-7</persname>
+</indexentry>
+<indexentry>
+<persname>Meigs, Return J. (9), 1804-1809, to James Robertson, 3-8</persname>
+</indexentry>
+<indexentry>
+<persname>Meigs, Return J. , <emph render="underline">see</emph> Smith, Daniel, 1805, 4-4</persname>
+</indexentry>
+<indexentry>
+<persname>Meigs, Return J., 1806, to Abraham Maury, 2-16 (enclosed treaty made with Cherokee Indians at Tellico, October 25, 1805)</persname>
+</indexentry>
+<indexentry>
+<persname>Middle Striker, <emph render="underline">see</emph> Turtle at home, 1796, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Mingo Mattaha, <emph render="underline">see</emph> Chinumbe Mingo, 1809, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Miro, Esteban, 1783, to James Robertson, 3-9</persname>
+</indexentry>
+<indexentry>
+<persname>Montgomery, William, <emph render="underline">see</emph>, Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Okoy, <emph render="underline">see</emph>, Chinumbe Mingo, 1809, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Okoye, <emph render="underline">see</emph>, Chennabe, 1805, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Opeorningo, George Colbert, 1795, to James Robertson, 1-11 (copy in the hand of William Blount)</persname>
+</indexentry>
+<indexentry>
+<persname>Opiamingo (2), 1795, to James Robertson, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Park, E., <emph render="underline">see</emph> Clark, John n.d., 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>Penn, Seth, 1809, to James Robertson, 3-11</persname>
+</indexentry>
+<indexentry>
+<persname>Phillips, Joseph, <emph render="underline">see</emph> Clark, John, n.d., 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>Pickens, Andrew, 1796, to James Robertson, 3-12</persname>
+</indexentry>
+<indexentry>
+<persname>Pickering, Timothy (2), 1795, to James Robertson, 4-13 (same letter, one a copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Pickering, Timothy (3), 1795-1796, to William Blount, 4-13</persname>
+</indexentry>
+<indexentry>
+<persname>Pike, Zebulon, 1796, to James Robertson, 3-13</persname>
+</indexentry>
+<indexentry>
+<persname>Pitchlynn, John (3), 1812-1813, to James Robertson, 3-14</persname>
+</indexentry>
+<indexentry>
+<persname>Portell, Thomas, 1792, to Andrew Fagot, 3-15 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Portell, Thomas (4), 1792-1794, to James Robertson, 3-15</persname>
+</indexentry>
+<indexentry>
+<persname>Powell, James, 1805, to James Robertson, re: deposition, 4-20</persname>
+</indexentry>
+<indexentry>
+<persname>Prince, William, 1792, to James Robertson, 3-16</persname>
+</indexentry>
+<indexentry>
+<persname>Puson, Thomas, 1787, to James Robertson, 3-17</persname>
+</indexentry>
+<indexentry>
+<persname>Putnam, A. w., 1850, to unknown correspondent, 4-23 (incomplete)</persname>
+</indexentry>
+<indexentry>
+<persname>Reid, John, 1813, to James Robertson, 3-18</persname>
+</indexentry>
+<indexentry>
+<persname>Rhea, John (2), 1806-1808, to James Robertson, 3-19 (one broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>Robertson, James (27), 1787-1812, to various individuals, 3-20 (rough drafts and copies)</persname>
+</indexentry>
+<indexentry>
+<persname>Robertson, James <emph render="underline">et al</emph>. 1798, to John Boster, 3-20 (broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>Seagrove, James (2), 1794, to William Blount, 4-1 (copies)</persname>
+</indexentry>
+<indexentry>
+<persname>Sevier, John (21), 1791-1813, to James Robertson, 4-2 (two broadsides)</persname>
+</indexentry>
+<indexentry>
+<persname>Sevier, John, 1795, to James Glasgow, 1-3 (broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>Sewall, Lewis, <emph render="underline">see</emph> Clark, John, n.d., 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>Sharpe, William, 1807, to James Robertson, 4-3</persname>
+</indexentry>
+<indexentry>
+<persname>Simmons, William, 1804, to R. J. Meigs, 4-10</persname>
+</indexentry>
+<indexentry>
+<persname>Sims, z., <emph render="underline">see</emph>, Clark, John, n.d., 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>Smith, Daniel, 1793, to The Chiefs of the Chickasaw-Nation, 4-4</persname>
+</indexentry>
+<indexentry>
+<persname>Smith, Daniel (3), 1793-1805, to James Robertson, 4-4</persname>
+</indexentry>
+<indexentry>
+<persname>Smith, Daniel, and Return J. Meigs, 1805, to James RObertson, 4-4</persname>
+</indexentry>
+<indexentry>
+<persname>Snoddey, Andrew, see, Addams, James, 1795, 2-3</persname>
+</indexentry>
+<indexentry>
+<persname>Sommerville, J[ohn], 1795, to James Robertson, 4-5</persname>
+</indexentry>
+<indexentry>
+<persname>Sparks, R[ichard], 1814, to James Robertson, 4-6</persname>
+</indexentry>
+<indexentry>
+<persname>Stuart, James, <emph render="underline">see</emph> Robertson, James, 1798, 3-20 (broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>Tallotiskee, <emph render="underline">et al</emph>., 1804, to James Robertson, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Tanclosene, <emph render="underline">see</emph> Turtle at home, 1796, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Tatom, A[bsalom], 1789, to James Robertson, 4-7</persname>
+</indexentry>
+<indexentry>
+<persname>Thompson, Charles, 1813, to unknown correspondent, re: relating attack by Creek Indians, 4-8</persname>
+</indexentry>
+<indexentry>
+<persname>Thompson, John, <emph render="underline">see</emph>, Clark, John, n.d., 2-2</persname>
+</indexentry>
+<indexentry>
+<persname>Thompson, John, 1794, to William Blount, 4-9 (copy)</persname>
+</indexentry>
+<indexentry>
+<persname>Titsworth, Isaac, 1795, to James Robertson, 4-22 (copy of information given to Governor Blount by Colonel Titsworth)</persname>
+</indexentry>
+<indexentry>
+<persname>Toote Massatabbe (Mingo), 1813, to James Robertson, 2-17</persname>
+</indexentry>
+<indexentry>
+<persname>Turkey, The, 1794, to William Blount, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Turtle at home, <emph render="underline">et al</emph>., 1796, to James Robertson, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>Washington, G[eorge], 1795, to William Colbert, John Brown the Younger and William McGillivray, Chickasaws, and Malcolm McGhee Interpreter, representing the Chickasaw Nation, 4-14</persname>
+</indexentry>
+<indexentry>
+<persname>Wats, John, <emph render="underline">see</emph> Justes, Richard, 1796, 2-16</persname>
+</indexentry>
+<indexentry>
+<persname>W[hite], J[ames], 1795, to Governor Blount?, 4-15</persname>
+</indexentry>
+<indexentry>
+<persname>Williams, B., 1814, to James Robertson, 4-16</persname>
+</indexentry>
+<indexentry>
+<persname>Williams, John, 1805, to James Robertson, 4-17 (broadside)</persname>
+</indexentry>
+<indexentry>
+<persname>Williamson, Hu., 1789, to James Robertson, 4-18</persname>
+</indexentry>
+<indexentry>
+<persname>Winchester, J[ames) (5), 1793-1797, to James Robertson, 4-19</persname>
+</indexentry>
+<indexentry>
+<persname>Winchester and Cage, 1801, to James Robertson, 4-19</persname>
+</indexentry>
+</index>
+</archdesc>
+</ead>
