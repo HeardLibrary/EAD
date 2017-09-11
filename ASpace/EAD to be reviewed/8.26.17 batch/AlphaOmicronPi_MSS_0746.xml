@@ -1,122 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Alpha Omicron Pi Collection</titleproper>
-<titleproper>Finding Aid for the Alpha Omicron Pi Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2016</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Alpha Omicron Pi Collection</unittitle>
-<unitid>MSS.0746</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.50 Linear Feet</extent>
-</physdesc>
-<unitdate>2016</unitdate>
-</did>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>This collection contains materials relating to the Alpha Omicron Pi&#8217;s Nu Omicron chapter at Vanderbilt University. There are programs, newspaper clippings, and other memorabilia arranged by decade from the 1920s through the 1950s. Also included are photographs from the 1920s, 1930s, and 1940s.</p>
-</scopecontent>
-<bioghist>
-<head>Biographical Sketch</head>
-<p>Alpha Omicron Pi is an international women&#8217;s fraternity founded June 2, 1897 at Barnard College on the Columbia University campus in New York. Today Alpha Omicron Pi has 198 collegiate chapters and 320 alumnae chapters in the United States and Canada. The organization&#8217;s purpose is to promote lifelong friendships, inspire academic excellence and lifelong learning, and develop leadership skills through service to the fraternity and community. In 1977, the Alpha Omicron Pi Foundation was established to support the philanthropies and members of the organization through scholarships and grants. The official philanthropy currently is Arthritis Research. Notable alumnae include Margaret Bourke-White, Wendy Chamberlin, and Catherine Mackin.</p>
-</bioghist>
-<dsc type="othertype">
-<c01 level="subseries">
-<did>
-<unittitle>Scrapbook Box</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Alpha Omicron Pi, Photographs</unittitle>
-<unitdate>1920-1946</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Alpha Omicron Pi, Photograph-The Basketball Team</unittitle>
-<unitdate>1929-1930</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Alpha Omicron Pi, Vanderbilt Historical Pageant</unittitle>
-<unitdate>June 12, 1923</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Alpha Omicron Pi, Vanderbilt Semi-Centennial Pageant</unittitle>
-<unitdate>October 16, 1925</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
-<unitdate>1920s</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
-<unitdate>1930s</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">7</container>
-<unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
-<unitdate>1940s</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
-<unitdate>1950s</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Alpha Omicron Pi Collection</titleproper>
+        <titleproper>Finding Aid for the Alpha Omicron Pi Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2016</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Alpha Omicron Pi Collection</unittitle>
+      <unitid>MSS.0746</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.50 linear_feet</extent>
+      </physdesc>
+    </did>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>This collection contains materials relating to the Alpha Omicron Pi&#8217;s Nu Omicron chapter at Vanderbilt University. There are programs, newspaper clippings, and other memorabilia arranged by decade from the 1920s through the 1950s. Also
+        included are photographs from the 1920s, 1930s, and 1940s.</p>
+    </scopecontent>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>Alpha Omicron Pi is an international women&#8217;s fraternity founded June 2, 1897 at Barnard College on the Columbia University campus in New York. Today Alpha Omicron Pi has 198 collegiate chapters and 320 alumnae chapters in the United States
+        and Canada. The organization&#8217;s purpose is to promote lifelong friendships, inspire academic excellence and lifelong learning, and develop leadership skills through service to the fraternity and community. In 1977, the Alpha Omicron Pi
+        Foundation was established to support the philanthropies and members of the organization through scholarships and grants. The official philanthropy currently is Arthritis Research. Notable alumnae include Margaret Bourke-White, Wendy Chamberlin, and
+        Catherine Mackin.</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Box</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Alpha Omicron Pi, Photographs</unittitle>
+            <unitdate>1920-1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Alpha Omicron Pi, Photograph-The Basketball Team</unittitle>
+            <unitdate>1929-1930</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Alpha Omicron Pi, Vanderbilt Historical Pageant</unittitle>
+            <unitdate>June 12, 1923</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Alpha Omicron Pi, Vanderbilt Semi-Centennial Pageant</unittitle>
+            <unitdate>October 16, 1925</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
+            <unitdate>1920s</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
+            <unitdate>1930s</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
+            <unitdate>1940s</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Alpha Omicron Pi, Scrapbook</unittitle>
+            <unitdate>1950s</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

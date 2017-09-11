@@ -1,152 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Aron, Lisa Collection</titleproper>
-<titleproper>Finding Aid for the Lisa Aron Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1932-1965</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Lisa Aron Collection</unittitle>
-<unitid>MSS.0651</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>1932-1965</unitdate>
-</did>
-<bioghist>
-<head>Biography/History</head>
-<p>Lisa Aron was born in 1968 in Bronx, New York. She has lived in England and Africa. When her father was a child escaped with his family from Nazi Germany and fled to Kenya. When he was an adult, he immigrated to the United States. Lisa became aware of the importance of civil, political, economic, social and cultural rights while living in Kenya, under a dictatorship. The need to combat prejudice, intolerance and racism was taken into account when she wrote the manuscript, <emph render="italic">Keyhole: The Politics of War Behind Closed Doors.</emph></p>
-<p>This collection was donated in 2007 by Lisa Aron, author of the manuscript.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This .42 linear foot collection contains one original, handwritten, family history about World War II, Nazi Germany, Auschwitz Concentration Camp, and the Aftermath of the War. The collection is divided by chapters.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<container type="folder">Chapter 1</container>
-<unitdate>1932-1945</unitdate>
-<unittitle>War on the Horizon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 2</container>
-<unitdate>1943</unitdate>
-<unittitle>Escape from Auschwitz</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 3</container>
-<unitdate>1943</unitdate>
-<unittitle>Flames of Auschwitz</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 4</container>
-<unitdate>1944</unitdate>
-<unittitle>Return to Auschwitz</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 5</container>
-<unitdate>1945</unitdate>
-<unittitle>Liberation of Auschwitz</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 6</container>
-<unitdate>1946</unitdate>
-<unittitle>In the Hands of the Allies</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 7</container>
-<unitdate>1944</unitdate>
-<unittitle>After the War</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 8</container>
-<unitdate>1941</unitdate>
-<unittitle>Hadamar: The Roots of Evil</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 9</container>
-<unitdate>1945</unitdate>
-<unittitle>Fugitive</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 10</container>
-<unitdate>1946</unitdate>
-<unittitle>Journey into Exile</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 11</container>
-<unitdate>1945</unitdate>
-<unittitle>Survival in Siberia</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 12</container>
-<unitdate>1946</unitdate>
-<unittitle>Against the System</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 13</container>
-<unitdate>1946-1947</unitdate>
-<unittitle>Stranger in Poland</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">Chapter 14</container>
-<unitdate>1965</unitdate>
-<unittitle>Pursuit of Justice (New York)</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Aron, Lisa Collection</titleproper>
+        <titleproper>Finding Aid for the Lisa Aron Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Lisa Aron Collection</unittitle>
+      <unitid>MSS.0651</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>1932-1965</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/History</head>
+      <p>Lisa Aron was born in 1968 in Bronx, New York. She has lived in England and Africa. When her father was a child escaped with his family from Nazi Germany and fled to Kenya. When he was an adult, he immigrated to the United States. Lisa became
+        aware of the importance of civil, political, economic, social and cultural rights while living in Kenya, under a dictatorship. The need to combat prejudice, intolerance and racism was taken into account when she wrote the manuscript,
+        <emph render="italic">Keyhole: The Politics of War Behind Closed Doors.</emph>
+      </p>
+      <p>This collection was donated in 2007 by Lisa Aron, author of the manuscript.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This .42 linear foot collection contains one original, handwritten, family history about World War II, Nazi Germany, Auschwitz Concentration Camp, and the Aftermath of the War. The collection is divided by chapters.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 1</container>
+          <unitdate>1932-1945</unitdate>
+          <unittitle>War on the Horizon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 2</container>
+          <unitdate>1943</unitdate>
+          <unittitle>Escape from Auschwitz</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 3</container>
+          <unitdate>1943</unitdate>
+          <unittitle>Flames of Auschwitz</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 4</container>
+          <unitdate>1944</unitdate>
+          <unittitle>Return to Auschwitz</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 5</container>
+          <unitdate>1945</unitdate>
+          <unittitle>Liberation of Auschwitz</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 6</container>
+          <unitdate>1946</unitdate>
+          <unittitle>In the Hands of the Allies</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 7</container>
+          <unitdate>1944</unitdate>
+          <unittitle>After the War</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 8</container>
+          <unitdate>1941</unitdate>
+          <unittitle>Hadamar: The Roots of Evil</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 9</container>
+          <unitdate>1945</unitdate>
+          <unittitle>Fugitive</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 10</container>
+          <unitdate>1946</unitdate>
+          <unittitle>Journey into Exile</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 11</container>
+          <unitdate>1945</unitdate>
+          <unittitle>Survival in Siberia</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 12</container>
+          <unitdate>1946</unitdate>
+          <unittitle>Against the System</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 13</container>
+          <unitdate>1946-1947</unitdate>
+          <unittitle>Stranger in Poland</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">Chapter 14</container>
+          <unitdate>1965</unitdate>
+          <unittitle>Pursuit of Justice (New York)</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
