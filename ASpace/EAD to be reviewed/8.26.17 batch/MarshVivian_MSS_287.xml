@@ -1,90 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Marsh, Vivian Collection</titleproper>
-<titleproper>Finding Aid for the Vivian Marsh Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Vivian Marsh Collection</unittitle>
-<unitid>MSS.0287</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.01 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This collection contains four letters written to Vivian Marsh from Mabel Mobley in Johnston, South Carolina. Mrs. Mobley was born in slavery. In 1967, when these letters were written Mabel lived on the Marsh Plantation.</p>
-<p>The letters are not dated, but one of the envelopes has a postmark.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle>Topics discussed:</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Cotton</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Peaches</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Pecans</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Blackberries</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Recipe for Japanese Fruit Cake</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Winemaking</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>How people treat the elderly</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Marsh, Vivian Collection</titleproper>
+        <titleproper>Finding Aid for the Vivian Marsh Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Vivian Marsh Collection</unittitle>
+      <unitid>MSS.0287</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.01 linear_feet</extent>
+      </physdesc>
+      <unitdate>undated</unitdate>
+    </did>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This collection contains four letters written to Vivian Marsh from Mabel Mobley in Johnston, South Carolina. Mrs. Mobley was born in slavery. In 1967, when these letters were written, Mabel lived on the Marsh Plantation.</p>
+      <p>The letters are not dated, but one of the envelopes has a postmark.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>Topics discussed:</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Cotton</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Peaches</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pecans</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Blackberries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Recipe for Japanese Fruit Cake</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Winemaking</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>How people treat the elderly</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
