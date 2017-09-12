@@ -1,167 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Cheek, John H. Jr. Collection</titleproper>
-<titleproper>Finding Aid for the John H. Cheek Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>Undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>John H. Cheek Collection</unittitle>
-<unitid>MSS.0689</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.84 linear feet</extent>
-</physdesc>
-<unitdate>Undated</unitdate>
-</did>
-<bioghist>
-<head>Biographical Notes</head>
-<p>John Hancock Cheek, Jr. was the son of John Hancock Cheek, Sr. and Susan E. Glenn Cheek. He was born June 26, 1924. He received his B.A. from Yale University in 1950, and his M.A.(1956) and Ph.D.(1959) from Harvard University. He came to Vanderbilt University in 1958 as a teacher of Russian. Cheek helped establish the Russian language program at Vanderbilt. He was a professor of Russian, Chinese, and Linguistics at Vanderbilt&#8217;s Department of Germanic and Slavic Languages. In 1983 he was awarded the title &#8220;Emeritus&#8221; by the Board of Trust. He died at his home February 20, 2002.</p>
-</bioghist>
-<scopecontent>
-<head>Content and Scope Notes</head>
-<p>This collection is composed of one Hollinger box, containing five folders and one book, and one 11x14 Oversize Box. The first box primarily contains notes in the Japanese writing systems of Kana and Kanji. Researchers will also find correspondence from John Cheek to H.P. Scott, regarding Cheek&#8217;s English ancestors, and a copy of Vanderbilt&#8217;s 1983 Commencement program. Finally a copy of Cheek&#8217;s Ph.D. thesis from Harvard University, <emph render="italic">A Distinctive Feature Phonematic Analysis of Lower Sorbian</emph>, is contained within.</p>
-<p>The oversize Box contains Cheek&#8217;s notes on the First Summer Institute in Chinese Civilization, geography, and Tai Chi Ch&#8217;uan as well as a photograph of his son John H. Cheek, III, as a boy. Additionally, researchers will find copies and a cover of magazines detailing the Apollo 11 and Apollo 12 moon landings.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Notes in Kana and Kanji</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Notes in Kana and Kanji</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Notes in Kana and Kanji</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Correspondence</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>April 6, 1981</unitdate>
-<unittitle>Letter from John H. Cheek, Jr. to H.P. Scott</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Vanderbilt Commencement Program</unittitle>
-<unitdate>May 13, 1983</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Cheek, John Hancock. <emph render="italic">A Distinctive Feature Phonematic Analysis of Lower Sorbian: A Synchronic Study</emph>. Cambridge: Harvard U. Press, 1959.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>First Summer Institute in Chinese Civilization</unittitle>
-<unitdate>1962</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Geography Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Tai Chi Ch&#8217;uan Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Photograph of John Cheek, his son, as a boy, c. late 1950&#8217;s.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">Apollo 11: Man and the Moon</emph>. New York: New York Times. 1969. Print.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">Life, Off to the Moon: Special Issue</emph>. Chicago: Time. July 4, 1969. Print.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">Life, Leaving For The Moon</emph>. Chicago: <emph render="italic">Time</emph>. July 25, 1969. Print.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">Life, Apollo 12: On the Moon</emph>. Chicago: <emph render="italic">Time</emph>. December 12, 1969. Print</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Apollo 11: On the Moon, A Look Special</emph>. New York; New York Times. 1969. Print.</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Cheek, John H. Jr. Collection</titleproper>
+        <titleproper>Finding Aid for the John H. Cheek Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>John H. Cheek Collection</unittitle>
+      <unitid>MSS.0689</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.84 linear_feet</extent>
+      </physdesc>
+      <unitdate>Undated</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Notes</head>
+      <p>John Hancock Cheek, Jr. was the son of John Hancock Cheek, Sr. and Susan E. Glenn Cheek. He was born June 26, 1924. He received his B.A. from Yale University in 1950, and his M.A.(1956) and Ph.D.(1959) from Harvard University. He came to
+        Vanderbilt University in 1958 as a teacher of Russian. Cheek helped establish the Russian language program at Vanderbilt. He was a professor of Russian, Chinese, and Linguistics at Vanderbilt&#8217;s Department of Germanic and Slavic Languages. In
+        1983 he was awarded the title &#8220;Emeritus&#8221; by the Board of Trust. He died at his home February 20, 2002.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Content and Scope Notes</head>
+      <p>This collection is composed of one Hollinger box, containing five folders and one book, and one 11x14 Oversize Box. The first box primarily contains notes in the Japanese writing systems of Kana and Kanji. Researchers will also find correspondence
+        from John Cheek to H.P. Scott, regarding Cheek&#8217;s English ancestors, and a copy of Vanderbilt&#8217;s 1983 Commencement program. Finally a copy of Cheek&#8217;s Ph.D. thesis from Harvard University,
+        <emph render="italic">A Distinctive Feature Phonematic Analysis of Lower Sorbian</emph>, is contained within.</p>
+      <p>The oversize Box contains Cheek&#8217;s notes on the First Summer Institute in Chinese Civilization, geography, and Tai Chi Ch&#8217;uan as well as a photograph of his son John H. Cheek, III, as a boy. Additionally, researchers will find copies
+        and a cover of magazines detailing the Apollo 11 and Apollo 12 moon landings.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Notes in Kana and Kanji</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Notes in Kana and Kanji</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>Notes in Kana and Kanji</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>April 6, 1981</unitdate>
+          <unittitle>Letter from John H. Cheek, Jr. to H.P. Scott</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>Vanderbilt Commencement Program</unittitle>
+          <unitdate>May 13, 1983</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>Cheek, John Hancock.
+            <emph render="italic">A Distinctive Feature Phonematic Analysis of Lower Sorbian: A Synchronic Study</emph>. Cambridge: Harvard U. Press, 1959.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle>First Summer Institute in Chinese Civilization</unittitle>
+          <unitdate>1962</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle>Geography Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle>Tai Chi Ch&#8217;uan Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle>Photograph of John Cheek, his son, as a boy, c. late 1950&#8217;s.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle>
+            <emph render="italic">Apollo 11: Man and the Moon</emph>. New York: New York Times. 1969. Print.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle>
+            <emph render="italic">Life, Off to the Moon: Special Issue</emph>. Chicago: Time. July 4, 1969. Print.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>
+            <emph render="italic">Life, Leaving For The Moon</emph>. Chicago:
+            <emph render="italic">Time</emph>. July 25, 1969. Print.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>
+            <emph render="italic">Life, Apollo 12: On the Moon</emph>. Chicago:
+            <emph render="italic">Time</emph>. December 12, 1969. Print</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>
+            <emph render="italic">Apollo 11: On the Moon, A Look Special</emph>. New York; New York Times. 1969. Print.</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
