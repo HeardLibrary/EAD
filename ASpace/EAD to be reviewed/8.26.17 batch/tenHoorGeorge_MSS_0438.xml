@@ -1,74 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">ten Hoor, George John Papers</titleproper>
-<titleproper>Finding Aid for the George John ten Hoor Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1930-1952</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>George John ten Hoor Collection</unittitle>
-<unitid>MSS.0438</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.02 linear feet</extent>
-</physdesc>
-<unitdate>1930-1952</unitdate>
-</did>
-<bioghist>
-<head>Biography</head>
-<p>Dr. George John ten Hoor was born on January 30, 1901 in The Netherlands. He came to the United States at an early age and received his B.A., M.A., and Ph.D. degrees from the University of Michigan. He taught at Western Reserve University from 1929 to 1936, and at the University of Chicago from 1936 to 1944. During World War II, he served with the Office of Strategic Services in England for two years and with the United States Information Service in The Netherlands in 1947.</p>
-<p>Upon his return to the United States, he briefly taught at the University of Florida before accepting a faculty position at Vanderbilt University as associate professor of Germanic languages and head of the German Department in 1948.</p>
-<p>Dr. George J. ten Hoor died on May 28, 1952 in Nashville, Tennessee.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content</head>
-<p>The George John ten Hoor Collection contains a volume of lectures on Kant and Hegel by Dr. R.M. Wenlry, Professor of Philosophy at Glasgow University and University of Michigan, and a 1952 copy of the journal Monatshefte containing an article by Dr. ten Hoor.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Folder List</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">1</container>
-<unittitle>Wenlry, R.M. Lectures on Kant and Hegel. Edited by Jerry Ashmore, with letter to ten Hoor dated</unittitle>
-<unitdate>May 10, 1930</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">2</container>
-<unittitle>ten Hoor, G.J. &#8220;Legends of Saladin in Medieval Dutch.&#8221; Monatshefte Vol. XLIV No. 6, p. 253-256.</unittitle>
-<unitdate>October 1952</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">ten Hoor, George John Papers</titleproper>
+        <titleproper>Finding Aid for the George John ten Hoor Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>George John ten Hoor Collection</unittitle>
+      <unitid>MSS.0438</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.02 linear_feet</extent>
+      </physdesc>
+      <unitdate>1930-1952</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography</head>
+      <p>Dr. George John ten Hoor was born on January 30, 1901 in The Netherlands. He came to the United States at an early age and received his B.A., M.A., and Ph.D. degrees from the University of Michigan. He taught at Western Reserve University from
+        1929 to 1936, and at the University of Chicago from 1936 to 1944. During World War II, he served with the Office of Strategic Services in England for two years and with the United States Information Service in The Netherlands in 1947.</p>
+      <p>Upon his return to the United States, he briefly taught at the University of Florida before accepting a faculty position at Vanderbilt University as associate professor of Germanic languages and head of the German Department in 1948.</p>
+      <p>Dr. George J. ten Hoor died on May 28, 1952 in Nashville, Tennessee.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>The George John ten Hoor Collection contains a volume of lectures on Kant and Hegel by Dr. R.M. Wenlry, Professor of Philosophy at Glasgow University and University of Michigan, and a 1952 copy of the journal Monatshefte containing an article by
+        Dr. ten Hoor.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="folder">1</container>
+          <unittitle>Wenlry, R.M. Lectures on Kant and Hegel. Edited by Jerry Ashmore, with letter to ten Hoor dated</unittitle>
+          <unitdate>May 10, 1930</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">2</container>
+          <unittitle>ten Hoor, G.J. &#8220;Legends of Saladin in Medieval Dutch.&#8221; Monatshefte Vol. XLIV No. 6, p. 253-256.</unittitle>
+          <unitdate>October 1952</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
