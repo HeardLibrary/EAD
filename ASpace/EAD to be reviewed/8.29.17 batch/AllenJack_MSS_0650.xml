@@ -1,1120 +1,1291 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Allen, Jack Collection</titleproper>
-<titleproper>Finding Aid for the Jack Allen Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2014</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Jack Allen Collection</unittitle>
-<unitid>MSS.0650</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">5 linear feet</extent>
-</physdesc>
-<unitdate>2014</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>Jack Allen was born in 1914 in Prestonsburg, Kentucky to Anna Mayo Allen and Edward Allen. Jack Allen attended school in Prestonsburg and graduated high school in 1931. After high school he attended Eastern Kentucky State Teachers College where he received his A.B. in 1935. After teaching high school for two years in Prestonsburg Allen left for Nashville, Tennessee to attended graduate school at George Peabody College. He graduated with a doctoral degree in 1941 and took a job at his alma mater, Eastern Kentucky State Teachers College.</p>
-<p>Jack met Peabody coed Cherry Falls in 1940 and married her in August 1941. He entered the Navy in August of 1942 and was assigned to Dallas, Texas on a Naval Selection Board. By 1943 he had reached the rank of Ensign and was re-assigned to Pearl Harbor, Hawaii. In Hawaii he was placed with the Pacific Fleet Radar Center. He was released from duty in 1945 and took a job with George Peabody College in 1946 where he remained for 33 years.</p>
-<p>Allen served on many boards and committees through the years including the National Council for the Social Studies where he was especially active in shaping the teaching of social studies to high school students. He also authored 15 textbooks and co-authored another 20 with colleagues.</p>
-<p>He and Cherry had three sons David, Robert, and Edward. Jack Allen passed away on June 19, 2004 at the age of 89.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content</head>
-<p>The Jack Allen Collection is an accumulation of Allen&#8217;s productive life as an educator at George Peabody College for Teachers in Nashville, Tennessee. The collection comprises five linear feet (4 Paige boxes) relating to Jack Allen&#8217;s career and writings.</p>
-<p>Only a few letters appear in the papers though the three from Jack Allen to his mother written in 1961 discuss his life in South Korea while on assignment from George Peabody College. Other items of interest are his writings on the teaching of Social Studies in high schools and primary grades.</p>
-<p>Making up &#190; of the collection are textbooks which Allen wrote or co-wrote with colleagues. These textbooks trace the career of Jack Allen from 1949 to 1982 and are indicative of the progression of styles of social studies textbooks created for schools during those periods.</p>
-<p>The Jack Allen Collection was donated to Special Collections in 2007 by his widow Cherry Allen of Nashville, Tennessee.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Box Listing</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Folder</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Correspondence &#8211;Outgoing to Mother</unittitle>
-<unitdate>1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Correspondence &#8211;General</unittitle>
-<unitdate>1974, 1981-1983</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Biographical Information &#8211;&#8220;My Philosophy of Living&#8221; by Jack Allen</unittitle>
-<unitdate>1938</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Biographical Information &#8211;&#8220;And So I Became a Teacher&#8221; by Jack Allen</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Biographical Information &#8211;&#8220;My Century &#8211;The Early Years&#8221; by Jack Allen</unittitle>
-<unitdate>1998</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Biographical Information &#8211;&#8220;My Century &#8211;The Later Years&#8221; by Jack Allen</unittitle>
-<unitdate>2000</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Biographical Information &#8211;Newspaper Clippings of Jack Allen</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Biographical Information &#8211;Oral History Project at University of Texas</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Education &#8211;Notebook from George Peabody College for Teachers (GPCT) Economics 440 Economics and Geography</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Education &#8211;Notebook GPCT Education 420b History of Education</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Education &#8211;Notebook GPCT Education 471</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Education &#8211;Notebook GPCT Education 526 History of Philosophy/Education</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Education &#8211;Notebook GPCT Education 689</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>Education &#8211;Notebook GPCT History 410 Revolutionary Period</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Education &#8211;Notebook GPCT History 413 19<emph render="super">th</emph> century Europe</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Education &#8211;Notebook GPCT History 426 American Sectional Controversies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Education &#8211;Notebook GPCT History 473 Essay</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>Education &#8211;Notebook GPCT History 475</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>Education &#8211;Notebook GPCT History 540</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>Education &#8211;Notebook GPCT Sociology 531 Social Problems of the Southern Regions</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>Education &#8211; Master of Arts Thesis &#8220;Grade Placement of History&#8221;</unittitle>
-<unitdate>1938</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>Education &#8211;Introduction to doctoral dissertation &#8220;The Diary of Randal William McGavock, 1852-1862&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle>Career &#8211;George Peabody College (GPC) activities</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unittitle>Career &#8211;Meetings and Awards</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unittitle>Writings &#8211;As Jack Allen Sees Henry Hill</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">26</container>
-<unittitle>Writings &#8211;Curriculum Planning in American Schools: The Social Studies</unittitle>
-<unitdate>1958</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">27</container>
-<unittitle>Writings &#8211;Life in a Global Village</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">28</container>
-<unittitle>Writings &#8211;Old Oak Club</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">29</container>
-<unittitle>Writings &#8211;Peabody Saga, article</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">30</container>
-<unittitle>Writings &#8211;Textbooks for Schools and Colleges &#8211;A talk to Nashville Librarians on</unittitle>
-<unitdate>October 4, 1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">31</container>
-<unittitle>Writings &#8211;Thoughts on the future of Social Studies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">32</container>
-<unittitle>Writings &#8211;Tribute to John E. Windrow</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">33</container>
-<unittitle>Writings &#8211;&#8220;The Community and Social Understanding&#8221; in <emph render="italic">The Council Courier</emph></unittitle>
-<unitdate>December 1941, p.3</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">34</container>
-<unittitle>Writings &#8211;&#8220;Readers Comments on &#8220;What is Needed&#8221;&#8221; <emph render="italic">in Social Education: Official Journal, National Council for the Social Studies</emph>, Vol.12 no.5</unittitle>
-<unitdate>May 1948, p.198</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">35</container>
-<unittitle>Writings &#8211;&#8220;Review of Readings in American Educational History&#8221; in the <emph render="italic">Journal of Southern History</emph></unittitle>
-<unitdate>November 1951, p.570-571</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">36</container>
-<unittitle>Writings &#8211;&#8220;The Modern Social Studies Teacher &#8211;a Portrait&#8221; in <emph render="italic">NEA Journal</emph></unittitle>
-<unitdate>November 1952, p.509</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">37</container>
-<unittitle>Writings &#8211;&#8220;Charting Ninth Grade Social Studies&#8221; in <emph render="italic">Social Education</emph>, Vol.20 no.2</unittitle>
-<unitdate>February 1956, p.68</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">38</container>
-<unittitle>Writings &#8211;&#8220;The Study of Religion in High School American History&#8221; in <emph render="italic">Religious Education</emph></unittitle>
-<unitdate>July-August 1957, p.282</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">39</container>
-<unittitle>Writings &#8211;&#8220;A Forward look in teaching the Social Studies&#8221; in <emph render="italic">Midland Schools: Official Publication of the Iowa Education Association</emph></unittitle>
-<unitdate>November 1958, p. 14-15</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">40</container>
-<unittitle>Writings &#8211;&#8220;The Social Studies in American Schools: A Report&#8221; in <emph render="italic">The Tennessee Teacher</emph></unittitle>
-<unitdate>February 1959, p. 10-12</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">41</container>
-<unittitle>Writings &#8211;&#8220;Social Studies for America&#8217;s Children&#8221; in <emph render="italic">Phi Delta Kappan</emph></unittitle>
-<unitdate>April 1959, p. 277-280</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">42</container>
-<unittitle>Writings &#8211;&#8220;Of Teaching and Social Intelligence&#8221; in <emph render="italic">Social Education</emph>, Vol. 23 no.5</unittitle>
-<unitdate>May 1959 p. 199-202</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">43</container>
-<unittitle>Writings &#8211;&#8220;The Role of Ninth Grade Civics in Citizenship Education&#8221; in the <emph render="italic">High School Journal</emph>, Vol. 44 no. 3</unittitle>
-<unitdate>December 1960, p.106-111</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">44</container>
-<unittitle>Writings &#8211;&#8220;Assessing Recent Developments in the Social Studies&#8221; in <emph render="italic">Social Education</emph>, Vol. 31 no.2</unittitle>
-<unitdate>February 1967, p.99-103</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">45</container>
-<unittitle>Writings &#8211;&#8220;Corporate Expansion and Social Studies Textbooks&#8221; in <emph render="italic">Social Education</emph>, Vol.33 no. 3</unittitle>
-<unitdate>March 1969, p.287-291</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">46</container>
-<unittitle>Writings &#8211;<emph render="italic">Issues Today-Teacher&#8217;s Edition</emph>, Vol.2 no. 15</unittitle>
-<unitdate>April 1, 1970</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">47</container>
-<unittitle>Writings &#8211;&#8220;Response of 25 former Presidents of NCSS&#8221; in <emph render="italic">Social Education</emph>, Vol.34 no.8</unittitle>
-<unitdate>November 1970, p.808</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">48</container>
-<unittitle>Writings &#8211;&#8220;Asia Revisited: Fading Stereotypes&#8221; in <emph render="italic">Issues Today-Teacher&#8217;s Edition</emph>, Vol.3 no.2</unittitle>
-<unitdate>September 25, 1970, p.1</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">49</container>
-<unittitle>Writings &#8211;&#8220;Dissent in the Classroom&#8221; in <emph render="italic">Issues Today-Teacher&#8217;s Edition</emph>, Vol.5 no.9</unittitle>
-<unitdate>February 9, 1973 Section 1, p.1</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">50</container>
-<unittitle>Writings &#8211;&#8220;In My Opinion&#8221; in <emph render="italic">Council of Supervisors and Administrators of the City of New York,</emph> Vol.14 no.14</unittitle>
-<unitdate>March 28, 1981, p.8-9</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">51</container>
-<unittitle>Writings &#8211;&#8220;Social Studies Perspectives for the 80&#8217;s&#8221; in <emph render="italic">Close-Up on Economic &#38; Social Studies Education</emph>. Peabody Center for Economic and Social Studies Education of Vanderbilt University, Fall</unittitle>
-<unitdate>1981, p.1-2</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">52</container>
-<unittitle>Writings &#8211;&#8220;Tribute to Merrill Hartshorn, NCSS Executive Secretary, Emeritus&#8221; in <emph render="italic">Social Education</emph>, Vol. 49 no.8.</unittitle>
-<unitdate>November/December 1985</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">53</container>
-<unittitle>Writings &#8211;&#8220;Educational Excellence: An Enduring American Tradition&#8221; in <emph render="italic">The Master Educator</emph>, Winter</unittitle>
-<unitdate>1986-1987</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">54</container>
-<unittitle>Reel-to-reel tapes &#8220;Citizenship Forum&#8221; by Jack Allen and Forrest E. Conner, Unidentified, Program #3</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">55</container>
-<unittitle>Reel-to-reel tapes &#8220;Citizenship Forum&#8221; by Jack Allen and Forrest E. Conner, Program #4 Program #5</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">56</container>
-<unittitle>Reel-to-reel tapes &#8220;Citizenship Forum&#8221; by Jack Allen and Forrest E. Conner, Program #6 Program #7</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">57</container>
-<unittitle>Records -45&#8217;s &#8220;News Record&#8221; by Jack Allen and Forrest E. Conner, Vol. 1 nos.1-5</unittitle>
-<unitdate>1959</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">58</container>
-<unittitle>Records -45&#8217;s &#8220;News Record&#8221; by Jack Allen and Forrest E. Conner, Vol.2 nos.1-9</unittitle>
-<unitdate>1959-1960</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">59</container>
-<unittitle>Records -45&#8217;s &#8220;News Record&#8221; by Jack Allen and Forrest E. Conner, Vol.3 nos.1-10</unittitle>
-<unitdate>1960-1961</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Textbooks</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">Recent Events in the Development of America</emph> by Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">Recent Events</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1949. Three copies</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle><emph render="italic">Recent Events</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1950</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">Recent Events</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1951</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">Recent Events</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1952</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">Recent Events</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1953</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Recent Events in the United States and the World by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1954</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">Recent Events in the United States and the World</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1955. Two copies</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Recent Events in the United States and the World</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1956</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">Recent Events in the United States and the World</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1958</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">Recent Events in the United States and the World</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1959</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">Recent Events in the United States and the World</emph> by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1960</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle><emph render="italic">United States History</emph> by Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1954</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle><emph render="italic">United States History &#8211;Teacher&#8217;s Manual</emph> by Jack Allen</unittitle>
-<unitdate>1957</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle><emph render="italic">Workbook for United States History, revised edition</emph> by Fremont P. Wirth and Jack Allen</unittitle>
-<unitdate>1949, 1952, and 1955</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle><emph render="italic">Civics</emph> by Jack Allen and Clarence Stegmier, American Book Company</unittitle>
-<unitdate>1956</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle><emph render="italic">Teachers Manual and Key for Civics-50 States Edition</emph> by Jack Allen and Clarence Stegmier, American Book Company</unittitle>
-<unitdate>1960</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle><emph render="italic">Workbook for Civics</emph> by Jack Allen and Clarence Stegmier, American Book Company</unittitle>
-<unitdate>1959</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle><emph render="italic">The Development of America</emph> by Fremont P. Wirth, American Book Company</unittitle>
-<unitdate>1956</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle><emph render="italic">The Development of America &#8211;Teacher&#8217;s Manual</emph> by Fremont P. Wirth and Jack Allen, American Book Company</unittitle>
-<unitdate>1956</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle><emph render="italic">The Study of Religion in the Public Schools &#8211;An Appraisal</emph> Jack Allen, contributor. American Council on Education, Washington DC</unittitle>
-<unitdate>1958</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle><emph render="italic">World History: Guide and Selected Resource Units &#8211;Phoenix Union High Schools and Phoenix College System.</emph> Jack Allen, Director. Phoenix, Arizona</unittitle>
-<unitdate>1960</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle><emph render="italic">United States History, revised edition</emph> by Fremont P. Wirth. American Book Company</unittitle>
-<unitdate>1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle><emph render="italic">United States History, revised edition &#8211;Teacher&#8217;s</emph> Manual by Fremont P. Wirth and Jack Allen. American Book Company</unittitle>
-<unitdate>1952</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle><emph render="italic">The Problems and Promise of American Democracy.</emph> McGraw-Hill Book Company</unittitle>
-<unitdate>1964 Prospectus</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle><emph render="italic">The Problems and Promise of American Democracy.</emph> McGraw-Hill Book Company</unittitle>
-<unitdate>1964</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle><emph render="italic">The United States of America</emph> by Jack Allen and Adelene E. Howland. Prentice-Hall Inc.</unittitle>
-<unitdate>1964</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle><emph render="italic">Nations Around the Globe</emph> by Jack Allen and Adelene E. Howland. Prentice-Hall Inc.</unittitle>
-<unitdate>1966</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">29</container>
-<unittitle><emph render="italic">Viewpoints: USA</emph> by Bernard Feder, consultant Jack Allen. American Book Company</unittitle>
-<unitdate>1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unittitle><emph render="italic">Viewpoints: USA Teacher&#8217;s Edition</emph> by Bernard Feder, consultant Jack Allen. American Book Company</unittitle>
-<unitdate>1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unittitle><emph render="italic">History: USA</emph> by Jack Allen and John L. Betts. American Book Company</unittitle>
-<unitdate>1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">32</container>
-<unittitle><emph render="italic">History: USA Teacher&#8217;s Annotated Edition</emph> by Jack Allen and John L. Betts. American Book Company</unittitle>
-<unitdate>1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">33</container>
-<unittitle><emph render="italic">This Government of Ours</emph>, a prospectus</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Textbooks</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">Contemporary Issues in American Society,</emph> Eaglton Institute, second edition. Webster Division, McGraw-Hill Book Company</unittitle>
-<unitdate>1969</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">Contemporary Issues in American Society &#8211;Teacher&#8217;s Edition,</emph> prepared by Jack Allen and Russell Farnen. Webster Division, McGraw-Hill Book Company</unittitle>
-<unitdate>1969</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle><emph render="italic">The American Public School</emph> by Jack Allen. McGraw-Hill Book Company</unittitle>
-<unitdate>1969</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">USA: History with Documents</emph>, prospectus.</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">USA: History with Documents,</emph> Vol. 1 by Jack Allen and John L. Betts. American Book Company</unittitle>
-<unitdate>1971</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">USA: History with Documents &#8211;Teacher&#8217;s Annotated Edition</emph> Vol.1 by Jack Allen and John L. Betts. American Book Company</unittitle>
-<unitdate>1971</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">USA: History with Documents,</emph> Vol. 2 by Jack Allen and John L. Betts. American Book Company</unittitle>
-<unitdate>1971</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">USA: History with Documents &#8211;Teachers Annotated Edition</emph> Vol. 2 by Jack Allen and John L. Betts. American Book Company</unittitle>
-<unitdate>1971</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Political and Economic Life in Planetary Society</emph> by Jack Allen. American Book Company</unittitle>
-<unitdate>1973</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">Economic Life in Modern America-Teacher&#8217;s Annotated Edition</emph> by Jack Allen, Thomas H. DeBolt and Susan E. DeBolt. American Book Company</unittitle>
-<unitdate>1973</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">Government and Society in Urban America &#8211;Teacher&#8217;s Annotated Edition</emph> by Jack Allen, Thomas H. DeBolt and Susan E. DeBolt. American Book Company</unittitle>
-<unitdate>1973</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">History: USA Bicentennial Edition &#8211;Teacher&#8217;s Guide</emph> by John L. Betts, American Book Company</unittitle>
-<unitdate>1976</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle><emph render="italic">One Nation Indivisible, 1777-1977: An Analysis of Unity Throughout American History.</emph> Jack Allen, Editor. Great American Achievements Program. Study Kit. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
-<unitdate>1978</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle><emph render="italic">A New Republic Among Nations. Users Guide</emph> by Dana G. Kuffman. Great Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
-<unitdate>1978</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle><emph render="italic">Democracy&#8217;s Beacon: The United States in Word Affairs.</emph> Production script 3<emph render="super">rd</emph> draft. Based on Jack Allen&#8217;s essay. Great Achievements Program. Bicentennial Council of the 13 Original States Fund Inc., University of Georgia.</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle><emph render="italic">American Society</emph> by Jack Allen. Prospectus</unittitle>
-<unitdate>1978</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unittitle><emph render="italic">American Society Workbook</emph> by Kenneth Hilton. American Book Company</unittitle>
-<unitdate>1978</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unittitle><emph render="italic">American Society Chapter Tests</emph>. American Book Company</unittitle>
-<unitdate>1978</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unittitle><emph render="italic">American Book Social Studies</emph>, Prospectus</unittitle>
-<unitdate>1979</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unittitle><emph render="italic">American Book Social Studies: Americans</emph> by Jack Allen. American Book Company</unittitle>
-<unitdate>1979</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unittitle><emph render="italic">American Book Social Studies: Americans &#8211;Teacher&#8217;s Edition</emph> by Jack Allen. American Book Company</unittitle>
-<unitdate>1979</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">22</container>
-<unittitle><emph render="italic">American Book Social Studies Workbook, Level E</emph> by George T. Munyan. American Book Company</unittitle>
-<unitdate>1979</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">23</container>
-<unittitle><emph render="italic">American Book Social Studies Workbook, Level E &#8211;Teacher&#8217;s Edition</emph> by George T. Munyan. American Book Company</unittitle>
-<unitdate>1979</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">24</container>
-<unittitle><emph render="italic">One Nation Indivisible, 1777-1977: An Analysis of Unity Throughout American History</emph> by Jack Allen. Great American Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
-<unitdate>1979</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">25</container>
-<unittitle><emph render="italic">A New Republic Among Nations: The Role of the United States in Foreign Affairs</emph> by Jack Allen. Great American Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
-<unitdate>1980</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">26</container>
-<unittitle>Of, By, and For the People: Sovereignty in American History by Jack Allen. Great American Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
-<unitdate>1980</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">27</container>
-<unittitle><emph render="italic">Education in the 80&#8217;s: Social Studies</emph> Jack Allen, Editor. NEA: Washington DC</unittitle>
-<unitdate>1981</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Textbooks</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">Places-Teacher&#8217;s Edition</emph>. American Book Social Studies, American Book Company</unittitle>
-<unitdate>1980</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">The American People</emph> by Jack Allen, American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle><emph render="italic">The American People &#8211;Teacher&#8217;s Edition</emph> by Jack Allen. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">The American People &#8211;Tests, Grade 5</emph>. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">The American People &#8211;Teacher&#8217;s Annotated Edition Workbook</emph> by George T. Munyan and Ronald Wheeler. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">Neighbors</emph> by Dorothy J. Skeel. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">Neighbors &#8211;Teacher&#8217;s Edition</emph> by Dorothy J. Skeel. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">People of the World</emph> by David C. King. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">People of the World &#8211;Teacher&#8217;s Edition</emph> by David C. King. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">People in Places</emph> by David C. King, Jay L. Weisman, and Ronald Wheeler. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">People in Places &#8211;Teachers Edition</emph>. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">People</emph> by Dorothy J. Skeel. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle><emph render="italic">People &#8211;Teacher&#8217;s Edition</emph> by Dorothy J. Skeel. American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle><emph render="italic">Communities-Teacher&#8217;s Edition.</emph> American Book Company</unittitle>
-<unitdate>1982</unitdate>
-</did>
-</c03>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Allen, Jack Collection</titleproper>
+        <titleproper>Finding Aid for the Jack Allen Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2014</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Jack Allen Collection</unittitle>
+      <unitid>MSS.0650</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Jack Allen was born in 1914 in Prestonsburg, Kentucky to Anna Mayo Allen and Edward Allen. Jack Allen attended school in Prestonsburg and graduated high school in 1931. After high school he attended Eastern Kentucky State Teachers College where he
+        received his A.B. in 1935. After teaching high school for two years in Prestonsburg Allen left for Nashville, Tennessee to attended graduate school at George Peabody College. He graduated with a doctoral degree in 1941 and took a job at his alma
+        mater, Eastern Kentucky State Teachers College.</p>
+      <p>Jack met Peabody coed Cherry Falls in 1940 and married her in August 1941. He entered the Navy in August of 1942 and was assigned to Dallas, Texas on a Naval Selection Board. By 1943 he had reached the rank of Ensign and was re-assigned to Pearl
+        Harbor, Hawaii. In Hawaii he was placed with the Pacific Fleet Radar Center. He was released from duty in 1945 and took a job with George Peabody College in 1946 where he remained for 33 years.</p>
+      <p>Allen served on many boards and committees through the years including the National Council for the Social Studies where he was especially active in shaping the teaching of social studies to high school students. He also authored 15 textbooks and
+        co-authored another 20 with colleagues.</p>
+      <p>He and Cherry had three sons David, Robert, and Edward. Jack Allen passed away on June 19, 2004 at the age of 89.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>The Jack Allen Collection is an accumulation of Allen&#8217;s productive life as an educator at George Peabody College for Teachers in Nashville, Tennessee. The collection comprises five linear feet (4 Paige boxes) relating to Jack Allen&#8217;s
+        career and writings.</p>
+      <p>Only a few letters appear in the papers though the three from Jack Allen to his mother written in 1961 discuss his life in South Korea while on assignment from George Peabody College. Other items of interest are his writings on the teaching of
+        Social Studies in high schools and primary grades.</p>
+      <p>Making up &#190; of the collection are textbooks which Allen wrote or co-wrote with colleagues. These textbooks trace the career of Jack Allen from 1949 to 1982 and are indicative of the progression of styles of social studies textbooks created
+        for schools during those periods.</p>
+      <p>The Jack Allen Collection was donated to Special Collections in 2007 by his widow Cherry Allen of Nashville, Tennessee.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Folder</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence &#8211;Outgoing to Mother</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence &#8211;General</unittitle>
+            <unitdate>1974, 1981-1983</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Biographical Information &#8211;&#8220;My Philosophy of Living&#8221; by Jack Allen</unittitle>
+            <unitdate>1938</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Biographical Information &#8211;&#8220;And So I Became a Teacher&#8221; by Jack Allen</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Biographical Information &#8211;&#8220;My Century &#8211;The Early Years&#8221; by Jack Allen</unittitle>
+            <unitdate>1998</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Biographical Information &#8211;&#8220;My Century &#8211;The Later Years&#8221; by Jack Allen</unittitle>
+            <unitdate>2000</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Biographical Information &#8211;Newspaper Clippings of Jack Allen</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Biographical Information &#8211;Oral History Project at University of Texas</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Education &#8211;Notebook from George Peabody College for Teachers (GPCT) Economics 440 Economics and Geography</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Education &#8211;Notebook GPCT Education 420b History of Education</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Education &#8211;Notebook GPCT Education 471</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Education &#8211;Notebook GPCT Education 526 History of Philosophy/Education</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Education &#8211;Notebook GPCT Education 689</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Education &#8211;Notebook GPCT History 410 Revolutionary Period</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Education &#8211;Notebook GPCT History 413 19<emph render="super">th</emph>
+              century Europe</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Education &#8211;Notebook GPCT History 426 American Sectional Controversies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Education &#8211;Notebook GPCT History 473 Essay</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Education &#8211;Notebook GPCT History 475</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Education &#8211;Notebook GPCT History 540</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Education &#8211;Notebook GPCT Sociology 531 Social Problems of the Southern Regions</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Education &#8211; Master of Arts Thesis &#8220;Grade Placement of History&#8221;</unittitle>
+            <unitdate>1938</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Education &#8211;Introduction to doctoral dissertation &#8220;The Diary of Randal William McGavock, 1852-1862&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Career &#8211;George Peabody College (GPC) activities</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Career &#8211;Meetings and Awards</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>Writings &#8211;As Jack Allen Sees Henry Hill</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>Writings &#8211;Curriculum Planning in American Schools: The Social Studies</unittitle>
+            <unitdate>1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>Writings &#8211;Life in a Global Village</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Writings &#8211;Old Oak Club</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Writings &#8211;Peabody Saga, article</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Writings &#8211;Textbooks for Schools and Colleges &#8211;A talk to Nashville Librarians on</unittitle>
+            <unitdate>October 4, 1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>Writings &#8211;Thoughts on the future of Social Studies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>Writings &#8211;Tribute to John E. Windrow</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle>Writings &#8211;&#8220;The Community and Social Understanding&#8221; in
+              <emph render="italic">The Council Courier</emph>
+            </unittitle>
+            <unitdate>December 1941, p.3</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>Writings &#8211;&#8220;Readers Comments on &#8220;What is Needed&#8221;&#8221;
+              <emph render="italic">in Social Education: Official Journal, National Council for the Social Studies</emph>, Vol.12 no.5</unittitle>
+            <unitdate>May 1948, p.198</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle>Writings &#8211;&#8220;Review of Readings in American Educational History&#8221; in the
+              <emph render="italic">Journal of Southern History</emph>
+            </unittitle>
+            <unitdate>November 1951, p.570-571</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle>Writings &#8211;&#8220;The Modern Social Studies Teacher &#8211;a Portrait&#8221; in
+              <emph render="italic">NEA Journal</emph>
+            </unittitle>
+            <unitdate>November 1952, p.509</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle>Writings &#8211;&#8220;Charting Ninth Grade Social Studies&#8221; in
+              <emph render="italic">Social Education</emph>, Vol.20 no.2</unittitle>
+            <unitdate>February 1956, p.68</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle>Writings &#8211;&#8220;The Study of Religion in High School American History&#8221; in
+              <emph render="italic">Religious Education</emph>
+            </unittitle>
+            <unitdate>July-August 1957, p.282</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle>Writings &#8211;&#8220;A Forward look in teaching the Social Studies&#8221; in
+              <emph render="italic">Midland Schools: Official Publication of the Iowa Education Association</emph>
+            </unittitle>
+            <unitdate>November 1958, p. 14-15</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle>Writings &#8211;&#8220;The Social Studies in American Schools: A Report&#8221; in
+              <emph render="italic">The Tennessee Teacher</emph>
+            </unittitle>
+            <unitdate>February 1959, p. 10-12</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle>Writings &#8211;&#8220;Social Studies for America&#8217;s Children&#8221; in
+              <emph render="italic">Phi Delta Kappan</emph>
+            </unittitle>
+            <unitdate>April 1959, p. 277-280</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">42</container>
+            <unittitle>Writings &#8211;&#8220;Of Teaching and Social Intelligence&#8221; in
+              <emph render="italic">Social Education</emph>, Vol. 23 no.5</unittitle>
+            <unitdate>May 1959 p. 199-202</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">43</container>
+            <unittitle>Writings &#8211;&#8220;The Role of Ninth Grade Civics in Citizenship Education&#8221; in the
+              <emph render="italic">High School Journal</emph>, Vol. 44 no. 3</unittitle>
+            <unitdate>December 1960, p.106-111</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">44</container>
+            <unittitle>Writings &#8211;&#8220;Assessing Recent Developments in the Social Studies&#8221; in
+              <emph render="italic">Social Education</emph>, Vol. 31 no.2</unittitle>
+            <unitdate>February 1967, p.99-103</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">45</container>
+            <unittitle>Writings &#8211;&#8220;Corporate Expansion and Social Studies Textbooks&#8221; in
+              <emph render="italic">Social Education</emph>, Vol.33 no. 3</unittitle>
+            <unitdate>March 1969, p.287-291</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">46</container>
+            <unittitle>Writings &#8211;<emph render="italic">Issues Today-Teacher&#8217;s Edition</emph>, Vol.2 no. 15</unittitle>
+            <unitdate>April 1, 1970</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">47</container>
+            <unittitle>Writings &#8211;&#8220;Response of 25 former Presidents of NCSS&#8221; in
+              <emph render="italic">Social Education</emph>, Vol.34 no.8</unittitle>
+            <unitdate>November 1970, p.808</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">48</container>
+            <unittitle>Writings &#8211;&#8220;Asia Revisited: Fading Stereotypes&#8221; in
+              <emph render="italic">Issues Today-Teacher&#8217;s Edition</emph>, Vol.3 no.2</unittitle>
+            <unitdate>September 25, 1970, p.1</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">49</container>
+            <unittitle>Writings &#8211;&#8220;Dissent in the Classroom&#8221; in
+              <emph render="italic">Issues Today-Teacher&#8217;s Edition</emph>, Vol.5 no.9</unittitle>
+            <unitdate>February 9, 1973 Section 1, p.1</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">50</container>
+            <unittitle>Writings &#8211;&#8220;In My Opinion&#8221; in
+              <emph render="italic">Council of Supervisors and Administrators of the City of New York,</emph>
+              Vol.14 no.14</unittitle>
+            <unitdate>March 28, 1981, p.8-9</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">51</container>
+            <unittitle>Writings &#8211;&#8220;Social Studies Perspectives for the 80&#8217;s&#8221; in
+              <emph render="italic">Close-Up on Economic &#38; Social Studies Education</emph>. Peabody Center for Economic and Social Studies Education of Vanderbilt University, Fall</unittitle>
+            <unitdate>1981, p.1-2</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">52</container>
+            <unittitle>Writings &#8211;&#8220;Tribute to Merrill Hartshorn, NCSS Executive Secretary, Emeritus&#8221; in
+              <emph render="italic">Social Education</emph>, Vol. 49 no.8.</unittitle>
+            <unitdate>November/December 1985</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">53</container>
+            <unittitle>Writings &#8211;&#8220;Educational Excellence: An Enduring American Tradition&#8221; in
+              <emph render="italic">The Master Educator</emph>, Winter</unittitle>
+            <unitdate>1986-1987</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">54</container>
+            <unittitle>Reel-to-reel tapes &#8220;Citizenship Forum&#8221; by Jack Allen and Forrest E. Conner, Unidentified, Program #3</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">55</container>
+            <unittitle>Reel-to-reel tapes &#8220;Citizenship Forum&#8221; by Jack Allen and Forrest E. Conner, Program #4 Program #5</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">56</container>
+            <unittitle>Reel-to-reel tapes &#8220;Citizenship Forum&#8221; by Jack Allen and Forrest E. Conner, Program #6 Program #7</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">57</container>
+            <unittitle>Records -45&#8217;s &#8220;News Record&#8221; by Jack Allen and Forrest E. Conner, Vol. 1 nos.1-5</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">58</container>
+            <unittitle>Records -45&#8217;s &#8220;News Record&#8221; by Jack Allen and Forrest E. Conner, Vol.2 nos.1-9</unittitle>
+            <unitdate>1959-1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">59</container>
+            <unittitle>Records -45&#8217;s &#8220;News Record&#8221; by Jack Allen and Forrest E. Conner, Vol.3 nos.1-10</unittitle>
+            <unitdate>1960-1961</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Textbooks</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">Recent Events in the Development of America</emph>
+              by Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="italic">Recent Events</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1949. Three copies</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="italic">Recent Events</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="italic">Recent Events</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">Recent Events</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1952</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="italic">Recent Events</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Recent Events in the United States and the World by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="italic">Recent Events in the United States and the World</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1955. Two copies</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">Recent Events in the United States and the World</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">Recent Events in the United States and the World</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">Recent Events in the United States and the World</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="italic">Recent Events in the United States and the World</emph>
+              by Jack Allen and Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="italic">United States History</emph>
+              by Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>
+              <emph render="italic">United States History &#8211;Teacher&#8217;s Manual</emph>
+              by Jack Allen</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <emph render="italic">Workbook for United States History, revised edition</emph>
+              by Fremont P. Wirth and Jack Allen</unittitle>
+            <unitdate>1949, 1952, and 1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="italic">Civics</emph>
+              by Jack Allen and Clarence Stegmier, American Book Company</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>
+              <emph render="italic">Teachers Manual and Key for Civics-50 States Edition</emph>
+              by Jack Allen and Clarence Stegmier, American Book Company</unittitle>
+            <unitdate>1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <emph render="italic">Workbook for Civics</emph>
+              by Jack Allen and Clarence Stegmier, American Book Company</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <emph render="italic">The Development of America</emph>
+              by Fremont P. Wirth, American Book Company</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>
+              <emph render="italic">The Development of America &#8211;Teacher&#8217;s Manual</emph>
+              by Fremont P. Wirth and Jack Allen, American Book Company</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <emph render="italic">The Study of Religion in the Public Schools &#8211;An Appraisal</emph>
+              Jack Allen, contributor. American Council on Education, Washington DC</unittitle>
+            <unitdate>1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <emph render="italic">World History: Guide and Selected Resource Units &#8211;Phoenix Union High Schools and Phoenix College System.</emph>
+              Jack Allen, Director. Phoenix, Arizona</unittitle>
+            <unitdate>1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <emph render="italic">United States History, revised edition</emph>
+              by Fremont P. Wirth. American Book Company</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <emph render="italic">United States History, revised edition &#8211;Teacher&#8217;s</emph>
+              Manual by Fremont P. Wirth and Jack Allen. American Book Company</unittitle>
+            <unitdate>1952</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>
+              <emph render="italic">The Problems and Promise of American Democracy.</emph>
+              McGraw-Hill Book Company</unittitle>
+            <unitdate>1964 Prospectus</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>
+              <emph render="italic">The Problems and Promise of American Democracy.</emph>
+              McGraw-Hill Book Company</unittitle>
+            <unitdate>1964</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>
+              <emph render="italic">The United States of America</emph>
+              by Jack Allen and Adelene E. Howland. Prentice-Hall Inc.</unittitle>
+            <unitdate>1964</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>
+              <emph render="italic">Nations Around the Globe</emph>
+              by Jack Allen and Adelene E. Howland. Prentice-Hall Inc.</unittitle>
+            <unitdate>1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>
+              <emph render="italic">Viewpoints: USA</emph>
+              by Bernard Feder, consultant Jack Allen. American Book Company</unittitle>
+            <unitdate>1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>
+              <emph render="italic">Viewpoints: USA Teacher&#8217;s Edition</emph>
+              by Bernard Feder, consultant Jack Allen. American Book Company</unittitle>
+            <unitdate>1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>
+              <emph render="italic">History: USA</emph>
+              by Jack Allen and John L. Betts. American Book Company</unittitle>
+            <unitdate>1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unittitle>
+              <emph render="italic">History: USA Teacher&#8217;s Annotated Edition</emph>
+              by Jack Allen and John L. Betts. American Book Company</unittitle>
+            <unitdate>1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unittitle>
+              <emph render="italic">This Government of Ours</emph>, a prospectus</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Textbooks</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">Contemporary Issues in American Society,</emph>
+              Eaglton Institute, second edition. Webster Division, McGraw-Hill Book Company</unittitle>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="italic">Contemporary Issues in American Society &#8211;Teacher&#8217;s Edition,</emph>
+              prepared by Jack Allen and Russell Farnen. Webster Division, McGraw-Hill Book Company</unittitle>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="italic">The American Public School</emph>
+              by Jack Allen. McGraw-Hill Book Company</unittitle>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="italic">USA: History with Documents</emph>, prospectus.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">USA: History with Documents,</emph>
+              Vol. 1 by Jack Allen and John L. Betts. American Book Company</unittitle>
+            <unitdate>1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="italic">USA: History with Documents &#8211;Teacher&#8217;s Annotated Edition</emph>
+              Vol.1 by Jack Allen and John L. Betts. American Book Company</unittitle>
+            <unitdate>1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="italic">USA: History with Documents,</emph>
+              Vol. 2 by Jack Allen and John L. Betts. American Book Company</unittitle>
+            <unitdate>1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="italic">USA: History with Documents &#8211;Teachers Annotated Edition</emph>
+              Vol. 2 by Jack Allen and John L. Betts. American Book Company</unittitle>
+            <unitdate>1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">Political and Economic Life in Planetary Society</emph>
+              by Jack Allen. American Book Company</unittitle>
+            <unitdate>1973</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">Economic Life in Modern America-Teacher&#8217;s Annotated Edition</emph>
+              by Jack Allen, Thomas H. DeBolt and Susan E. DeBolt. American Book Company</unittitle>
+            <unitdate>1973</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">Government and Society in Urban America &#8211;Teacher&#8217;s Annotated Edition</emph>
+              by Jack Allen, Thomas H. DeBolt and Susan E. DeBolt. American Book Company</unittitle>
+            <unitdate>1973</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="italic">History: USA Bicentennial Edition &#8211;Teacher&#8217;s Guide</emph>
+              by John L. Betts, American Book Company</unittitle>
+            <unitdate>1976</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="italic">One Nation Indivisible, 1777-1977: An Analysis of Unity Throughout American History.</emph>
+              Jack Allen, Editor. Great American Achievements Program. Study Kit. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
+            <unitdate>1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>
+              <emph render="italic">A New Republic Among Nations. Users Guide</emph>
+              by Dana G. Kuffman. Great Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
+            <unitdate>1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <emph render="italic">Democracy&#8217;s Beacon: The United States in Word Affairs.</emph>
+              Production script 3<emph render="super">rd</emph>
+              draft. Based on Jack Allen&#8217;s essay. Great Achievements Program. Bicentennial Council of the 13 Original States Fund Inc., University of Georgia.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="italic">American Society</emph>
+              by Jack Allen. Prospectus</unittitle>
+            <unitdate>1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>
+              <emph render="italic">American Society Workbook</emph>
+              by Kenneth Hilton. American Book Company</unittitle>
+            <unitdate>1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <emph render="italic">American Society Chapter Tests</emph>. American Book Company</unittitle>
+            <unitdate>1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <emph render="italic">American Book Social Studies</emph>, Prospectus</unittitle>
+            <unitdate>1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>
+              <emph render="italic">American Book Social Studies: Americans</emph>
+              by Jack Allen. American Book Company</unittitle>
+            <unitdate>1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <emph render="italic">American Book Social Studies: Americans &#8211;Teacher&#8217;s Edition</emph>
+              by Jack Allen. American Book Company</unittitle>
+            <unitdate>1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <emph render="italic">American Book Social Studies Workbook, Level E</emph>
+              by George T. Munyan. American Book Company</unittitle>
+            <unitdate>1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <emph render="italic">American Book Social Studies Workbook, Level E &#8211;Teacher&#8217;s Edition</emph>
+              by George T. Munyan. American Book Company</unittitle>
+            <unitdate>1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <emph render="italic">One Nation Indivisible, 1777-1977: An Analysis of Unity Throughout American History</emph>
+              by Jack Allen. Great American Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
+            <unitdate>1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">25</container>
+            <unittitle>
+              <emph render="italic">A New Republic Among Nations: The Role of the United States in Foreign Affairs</emph>
+              by Jack Allen. Great American Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
+            <unitdate>1980</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">26</container>
+            <unittitle>Of, By, and For the People: Sovereignty in American History by Jack Allen. Great American Achievements Program. Bicentennial Council of the 13 Original States Fund Inc.</unittitle>
+            <unitdate>1980</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">27</container>
+            <unittitle>
+              <emph render="italic">Education in the 80&#8217;s: Social Studies</emph>
+              Jack Allen, Editor. NEA: Washington DC</unittitle>
+            <unitdate>1981</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Textbooks</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">Places-Teacher&#8217;s Edition</emph>. American Book Social Studies, American Book Company</unittitle>
+            <unitdate>1980</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="italic">The American People</emph>
+              by Jack Allen, American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="italic">The American People &#8211;Teacher&#8217;s Edition</emph>
+              by Jack Allen. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="italic">The American People &#8211;Tests, Grade 5</emph>. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">The American People &#8211;Teacher&#8217;s Annotated Edition Workbook</emph>
+              by George T. Munyan and Ronald Wheeler. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="italic">Neighbors</emph>
+              by Dorothy J. Skeel. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="italic">Neighbors &#8211;Teacher&#8217;s Edition</emph>
+              by Dorothy J. Skeel. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="italic">People of the World</emph>
+              by David C. King. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">People of the World &#8211;Teacher&#8217;s Edition</emph>
+              by David C. King. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">People in Places</emph>
+              by David C. King, Jay L. Weisman, and Ronald Wheeler. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">People in Places &#8211;Teachers Edition</emph>. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="italic">People</emph>
+              by Dorothy J. Skeel. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="italic">People &#8211;Teacher&#8217;s Edition</emph>
+              by Dorothy J. Skeel. American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>
+              <emph render="italic">Communities-Teacher&#8217;s Edition.</emph>
+              American Book Company</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
