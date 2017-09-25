@@ -1,3454 +1,3457 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Drake, Robert Papers</titleproper>
-<titleproper>Finding Aid for the Robert Drake Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Robert Drake Papers</unittitle>
-<unitid>MSS.0117</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">32.50 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondences</unittitle>
-<unitdate>1959 - 1995</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unitdate>1959-1969</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unitdate>1970-1979</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unitdate>1980 -1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unitdate>1991</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unitdate>January 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unitdate>February 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unitdate>March 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unitdate>April 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unitdate>May 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unitdate>June 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unitdate>July 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unitdate>August 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unitdate>September 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unitdate>October 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unitdate>November 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unitdate>December 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unitdate>January 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unitdate>February 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unitdate>March 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unitdate>April 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unitdate>May 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unitdate>June 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unitdate>July 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unitdate>August 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unitdate>September 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">26</container>
-<unitdate>October 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">27</container>
-<unitdate>November 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">28</container>
-<unitdate>December 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">29</container>
-<unitdate>January 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">30</container>
-<unitdate>February 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">31</container>
-<unitdate>March 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">32</container>
-<unitdate>August 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">33</container>
-<unitdate>September 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">34</container>
-<unitdate>October 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">35</container>
-<unitdate>November 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">36</container>
-<unitdate>December 1995</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Correspondence 1996-1999</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unitdate>January 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unitdate>February 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unitdate>March 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unitdate>April 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unitdate>May 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unitdate>June 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unitdate>July 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unitdate>August 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unitdate>September 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unitdate>October 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unitdate>November 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unitdate>December 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unitdate>January 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unitdate>February 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unitdate>March 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unitdate>April 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unitdate>May 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unitdate>June 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unitdate>July 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unitdate>August 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unitdate>September 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unitdate>October 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unitdate>November 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unitdate>December 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unitdate>1998</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unitdate>1999</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories (1)</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>The Methodist Church, the Democratic party and the St. Louis Cardinals</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>Stardust</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Cotton Mill</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Old Cemetery</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Alone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Last Lady on the Epilogue</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Shrouds with Pockets in Them</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>How Come You Reckon He Did That?</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Travelling Companions</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Last of the Innocents</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>All Under One Roof</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Girls</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>A Short Horse</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Let There be Light</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Devil, Lightning and Policemen</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Gallery Talk</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>I&#8217;ve got a Sneaking Idea</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The convertible</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Little Girls with Blue Eyes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Last Old Maid in Town</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Graduation from the Air</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Piazza</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Election</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Every Friday Afternoon</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>What Will you do for an Encore?</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Home Place</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Introduction for Relief</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>An English Hidalgo</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>Miss Welty&#8217;s Country and My Own</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Is Regionalism a Bad Word?</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Review of Southern Writers at Century&#8217;s End</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>Southern Writers at Centuries End</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Partisan</unittitle>
-<unitdate>1997</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>The Observer, the Outsider</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Robert Drake&#8217;s North South Axis</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Good and Faithful Servant</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Southern Partisan</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle>Long Long Thoughts</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Tell Him to Wait till I get My Shoes On</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Tara Forty Years After</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Holocaust and the Literary Imagination</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>My Stories; Short on Length, Long on Talk</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Old Lady Power</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Flannery O&#8217;Connor an American Literature</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Acknowledgements</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle>The Writers Dreams</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Composition and Rhetoric and the Warders of the Gate</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>In Time and Place</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>In and Out of Yoknapatawpha</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle>Allen Tate</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Son of the Morning</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Miss Welty&#8217;s Country and my Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Writing and Listening</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle>The Wonderful Nows</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Three Southern Ladies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Unsearchable Riches</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Legacy of Allen Tate</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unittitle>The Perils of Internship</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Hemingway and Faulkner</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Southern Women</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Lone Eagle and the American Dream</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unittitle>The Big Wide World of Ripley, Tennessee</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Glory that is Greece</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Dreadful Past the Blessed Past</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Our Old Home</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unittitle>Cranks, Nuts and Gizzards</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Uses of Obscenity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>My Novel</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>America Prophecies, Dreams, Visions</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unittitle>Taking Stock</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>South the Towers Rising</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Performer</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>My Affair with Eustace Tilley</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unittitle>The Carter Prospect</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Wonders at the Gate</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>The Emperor&#8217;s Clothes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Getting Above Your Rising</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">22</container>
-<unittitle>Games Authors Play</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Good Behavior</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>My Christmas Journey</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Why I Write Fiction</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">23</container>
-<unittitle>The Home Place (1)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">24</container>
-<unittitle>The Home Place (2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">25</container>
-<unittitle>The Home Place (3)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">26</container>
-<unittitle>The Home Place (4)</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories (2)</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>The Observer, the Outsider</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Little Girl with Blue Eyes (short stories)</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>The Blue Remembered Hills of Lauderdale County, Tennessee</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Writer and the Corridors of Memory</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Teaching Fiction Writing</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>The Writer as Hunger Artist</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Writer</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Writers and History</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>All Your Children will be Born Naked</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Loving Vision</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Wood Landers</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Lonely Heart of Carson McCullers</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Practice Music</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Austin Warren (1899-1986)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Morning Song</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>What Papa Said</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Enormous Spider Web of Robert Penn Warren</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Practice Music Practice Music</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Memphis for the Day</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Thoreau and Mrs. Hamby</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Over the Mountains</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>New Year&#8217;s Eve</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>Tara Twenty Years After</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Richard Marias</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>An Audience with Mr. Faulkner</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Living Room</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>Do you Know Ben Webster</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>I Don&#8217;t Know What He is Doing Now</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Art of Fiction</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Nigger of the Narcissus</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>The Little Jewish Lady</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>What Were You Doing When You Heard the News?</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Auntie&#8217;s Message</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Good and Faithful Servant</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>The Lady From Somewhere</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Miss Welty&#8217;s Country and My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Regionalism in American Fiction</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Hemingway and Faulkner</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>The Sauce for the Asparagus</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Miss Minerva and William Green Hill</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>Absalom, Absalom or Why Southerners Tell Stories</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Two Eudora Welty Stories</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Saki&#8217;s Ironic Stories</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Manners Anyone? Or Who Killed the Butler?</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>Gentlemen, Blondes &#38; Brunettes</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Signs of the Times, or Signs of all Times</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Greatness Through Limitation</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Flannery O&#8217;Connor and American Culture</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">15</container>
-<unittitle>The Paradigm of Flannery O&#8217;Connor&#8217;s True County</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Three Southern Ladies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Bleeding Stinking Mad Shadow of Jesus</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Reasons of the Heart</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">16</container>
-<unittitle>Yoknapatawpha Innocence Lost</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>As the Old as Man Himself</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">17</container>
-<unittitle>The Modern Inferno</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>A Joyful Noise</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Lady Old Power</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">18</container>
-<unittitle>Mother, Father Three Sons</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Family of Fire</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Picture Frame and Other Stories</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">19</container>
-<unittitle>An Audience with Mr. Faulkner</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Writer as Observer, the Writer as Outsider</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Southern Writers at the Century&#8217;s End</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">20</container>
-<unittitle>A Sweet Touch</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>As Clean as the Ten Commandments</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>For the Prestige</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>New Year&#8217;s Eve</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">21</container>
-<unittitle>Over the Mountains</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Maxwell girls</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>What Papa Said?</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>A Sweet Touch</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">22</container>
-<unittitle>Brutally Massacred by Indians</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Feeding the Stocks</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Living Room</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>What Have They Done?</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">23</container>
-<unittitle>Change of Life</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Raining Cotton</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Clothes Line</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">24</container>
-<unittitle>What Will I Do For an Encore?</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Square</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Luella and Mr. Kelly</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">25</container>
-<unittitle>Frances Newsman: Fabulist of Decadence</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Last of the Innocents</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Aloodiceqan: A Note on a Minor Novel</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">26</container>
-<unittitle>The Cea Critic (October,1969)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">27</container>
-<unittitle>The Drake Interview</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories (3)</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>The First Year</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>On the Side Porch</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Clothes Line</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Graduation from the Air</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Last Old Maid in Town</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>The High World</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>All this Material</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Piazza</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Assorted Stories</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>The Dark Angel in My Life</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Home Truths</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Time Place and the Past</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The New Bridge</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>A Splendid Summer</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Happy Warrior Goes Home</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>One World at a Time</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Flannery O&#8217;Conner</unittitle>
-<unitdate>1978</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle>A Church for all Seasons</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Professor, what do you Profess?</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Miss Minerva Again</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>I Never Write Letters</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>I&#8217;ve Got a Sneaking Idea</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>Star Dust</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>A Short Horse</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>What do You do Now</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>Comedy of Manners</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Day</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Alone</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">12</container>
-<unittitle>Robert Penn Warren</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">13</container>
-<unittitle>The Nigger of the Narcissus</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">14</container>
-<unittitle>Comedy of Manners</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Why Southerners Tell Stories</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">15</container>
-<unittitle>Teaching Fiction Writing</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">16</container>
-<unittitle>The Train in My Life</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Dream House</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">17</container>
-<unittitle>William Faulkner: Toward Yoknapatawpha and Beyond</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>In Time and Place: Some Origins of America Fiction</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Robert Coles, Flannery O&#8217;Connor&#8217;s South.</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">18</container>
-<unittitle>Donald Davidson and the Ancient Mariner</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>My Christmas Journey</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Legacy of Allen Tate</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Southern Women</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">19</container>
-<unittitle>Dutch Genre Painter</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>The Writer as Listener</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>I Can Tell You All About It</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">20</container>
-<unittitle>Southern Women: Fact and Fiction.</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories (4)</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">1</container>
-<unittitle>The Home Place: A Memory and a Celebration</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">2</container>
-<unittitle>The Single Heart (script)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">3</container>
-<unittitle>Robert Drake reviews</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">4</container>
-<unittitle>Comic Monologues: Robert Drake&#8217;s Community of Voices</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">5</container>
-<unittitle>The Picture Frame and Other Stories</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">6</container>
-<unittitle>For the Record (Final Draft) I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">7</container>
-<unittitle>For the Record (Final Draft) II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">8</container>
-<unittitle>For the Record (Final Draft) III</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">9</container>
-<unittitle>For the Record (Final Draft) IV</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">10</container>
-<unittitle>For the Record (Final Draft) V</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">11</container>
-<unittitle>Telling and Reckoning: A Recuperation of the Drake Stories.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">12</container>
-<unittitle>The Interpretation of Otherness</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Home truths. Heart truths</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Pietas Medici</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>A Dutch Genre Painter</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">13</container>
-<unittitle>The Big Room</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Flannery O&#8217;Connor&#8217;s South</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>My Country, My Voices</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Violence and Culture in the Antebellum South</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">14</container>
-<unittitle>I Don&#8217;t Want You to Ever Call Again</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>The Loving Vision of Eudora Welty</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>The Scalpel and the Pen</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Going Home</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">15</container>
-<unittitle>Modern Age</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Why Flannery O&#8217;Connor Stayed Home</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>All Your Children Will Be Born Naked</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Lamar Alexander, Robin Hood, and Barry Parker</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">16</container>
-<unittitle>Survivors</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>I Can Tell You All About It</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>A Joyful Noise</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Tell Me a Story</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">17</container>
-<unittitle>The Writer: Behind the Scenes</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>She Won&#8217;t Cook</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Is There Any Market for Good Women?</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">18</container>
-<unittitle>Morning Song</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>The Lady from Somewhere</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>One Writer&#8217;s Pieties</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">19</container>
-<unittitle>The Little Boy and His Bank</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Why Southerners Tell Stories</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>The Writer as Hunger Artist</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Good Evening Ladies and Gentlemen</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">20</container>
-<unittitle>Let There Be Light</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>William Hall Drake and His Family</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Risen Sun</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Talk of Stewardship</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories (5)</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">1</container>
-<unittitle>No More Use Than a Billy Goat</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>It&#8217;s So Close in Here</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>A Dead Cat on the Line</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">2</container>
-<unittitle>A Short Horse</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>A Note on the Text</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>We are going to Mark Things Down</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>A Gentle Quarrel with Readers</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">3</container>
-<unittitle>A Short Horse</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Cultivating My Antique Garden</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The Last of the Innocents</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Miss O&#8217;Connor and the Scandal of Redemption</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">4</container>
-<unittitle>New Year&#8217;s Eve</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Ceremonies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Austin Warren (1899-1986)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The Little Jewish Lady</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">5</container>
-<unittitle>The Lady from Somewhere</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Miss Effie the Peabody and the Father Time</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Mrs. Picture Show Green</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The writer as the hunger artist</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">6</container>
-<unittitle>My sweet hearts house</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The first year</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Douglas Pascal</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The birth day picture</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">7</container>
-<unittitle>His heart his home</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The Methodist church, the Democratic Party and the St. Louis cardinals</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Christianity and literature</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">8</container>
-<unittitle>A back bedroom an open fire and the art of fiction</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Code interview</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>She won&#8217;t cook</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Red warren: His heart his home</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">9</container>
-<unittitle>The writer as the hunger artist</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Notre dame magazine</unittitle>
-<unitdate>1998</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Dedication and preface</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">10</container>
-<unittitle>The Maxwell girls</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Them fried niggers smell good don&#8217;t they clover?</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Counting out</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Daddy and the preachers</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">11</container>
-<unittitle>Austin warren</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Cleanth brooks</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Daddy and the devil</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Travelling companions</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">12</container>
-<unittitle>Speeches</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">13</container>
-<unittitle>The picture frame and other stories</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The lunch box</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">14</container>
-<unittitle>Writing in the southern traditional interviews with southern contemporary authors</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">15</container>
-<unittitle>The picture frame</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Every Friday afternoon</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>The last of the innocents</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">16</container>
-<unittitle>The beauty revue counting out</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Tight fisted till the end</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">17</container>
-<unittitle>The legitimate pleasures of literature</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories VI</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">1</container>
-<unittitle>Connections</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Let there be light</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">2</container>
-<unittitle>The day</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">3</container>
-<unittitle>The devil, lightning and policemen</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>All under the roof</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">4</container>
-<unittitle>The cotton mill</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>The old cemetery</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">5</container>
-<unittitle>The little girl with blue eyes</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Travelling companions</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">6</container>
-<unittitle>Star dust</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>I&#8217;ve got a sneaking idea</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">7</container>
-<unittitle>The convertible</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>The pickup truck</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">8</container>
-<unittitle>The two nieces</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Graduation from the air</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">9</container>
-<unittitle>The girls</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Every Friday after noon</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">10</container>
-<unittitle>How come you recon he did that</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>The last old maid in town</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">11</container>
-<unittitle>A short horse</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Shrouds with pockets in them</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">12</container>
-<unittitle>The Peabody ducks and all the rest</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>All that believe that, stand on their head</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">13</container>
-<unittitle>For the record (script)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">14</container>
-<unittitle>Reading Robert drake</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">15</container>
-<unittitle>The election</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">16</container>
-<unittitle>The child prodigy</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">17</container>
-<unittitle>Alone</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">18</container>
-<unittitle>For the record I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">19</container>
-<unittitle>For the record II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">20</container>
-<unittitle>Hearing voices of women at the back of my mind</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">21</container>
-<unittitle>The Whig in the Robert drake fiction</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">22</container>
-<unittitle>Telling and reckoning</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">23</container>
-<unittitle>A sort of central fact about Woodsville</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>A rail road as a metaphor in the works of Robert drake</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">24</container>
-<unittitle>A southern realist</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">25</container>
-<unittitle>Family of five</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">26</container>
-<unittitle>The Whig ethos in Robert drake fiction</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Hearing the voices of women at the back of my mind</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">27</container>
-<unittitle>For the record (final draft) I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">28</container>
-<unittitle>For the record (final draft) II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">29</container>
-<unittitle>For the record (final draft) III</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">30</container>
-<unittitle>For the record (final draft) IV</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">31</container>
-<unittitle>The single heart</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>short stories VII</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">1</container>
-<unittitle>What do we do now</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>At the lake</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>All this material and other such things</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The picture frame</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">2</container>
-<unittitle>Connections</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The pickup truck</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>For the prestige</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The child prodigy</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">3</container>
-<unittitle>How come the Maxell girls</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>All this material</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Let there be light</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">4</container>
-<unittitle>The last old maid in town</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Cleanth Brooks</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>What papa said?</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Auntie ant the two nieces</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">5</container>
-<unittitle>Eve of St. Agnes</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">6</container>
-<unittitle>The kingdom of God in marigold Mississippi</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">7</container>
-<unittitle>Uncle john and the trail of the years</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Mr. Andrew and the big holly tree</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Easy steps for little feet</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">8</container>
-<unittitle>Mrs. Higgins heart</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Daddy and the bull and the bull named Herbert</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The moss girls</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Saki&#8217;s ironic stories</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">9</container>
-<unittitle>The summer of the widow peeper</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Manners anyone</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The fountain filled with blood</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>By thy good pleasure</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">10</container>
-<unittitle>The stark naked Baptist</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>A lacodician</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Mr. Marcus and the overhead bridge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>By thy good pleasure</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">11</container>
-<unittitle>The hair curling gospel</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Manners anyone</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>A modern inferno</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The bridegroom cometh</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">12</container>
-<unittitle>Mr. Davison and the ancient mariner</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Dear dead Hollywood</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Huck among the doctors</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">13</container>
-<unittitle>Huck among the doctors</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The time the bank failed</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The first funeral</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The nine year old evangelist</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">14</container>
-<unittitle>The home place I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">15</container>
-<unittitle>The home place II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">16</container>
-<unittitle>The home place III</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">17</container>
-<unittitle>The home place IV</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">18</container>
-<unittitle>Mr. Wood Wad and the past</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Lorelei Dorothy and the comedy of manners</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The woodlands and the traditional pastoral</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>By thy good pleasure</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">19</container>
-<unittitle>Miss O&#8217;Connor and the scandal of redemption</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Flannery O&#8217;Conner RIP</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The fall of man and the puritan mind</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The bowel fearful people</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">20</container>
-<unittitle>Mrs. Piccard and the Baptists</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Some problems and a biography</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">21</container>
-<unittitle>The last of the innocents</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>An audience with Mr. Faulkner a centennial Memoir</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The writer as hunger artist</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The writer as observer, the writer as insider</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">22</container>
-<unittitle>The last of the innocents</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Tara twenty years after</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>The book the movie the dream</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Robert Drake&#8217;s north south axis</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">23</container>
-<unittitle>All under one roof</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Ella Biggs</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>I am counting with you all the way</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Why southerners tell stories</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories VIII</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">1</container>
-<unittitle>The single heart</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">2</container>
-<unittitle>Amazing grace</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories IX</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">1</container>
-<unittitle>For the record (1)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">2</container>
-<unittitle>For the record (2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">3</container>
-<unittitle>For the record (3)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">4</container>
-<unittitle>For the record (4)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">5</container>
-<unittitle>Survivors and others (original copy)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">6</container>
-<unittitle>Robert drake story collection</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">7</container>
-<unittitle>The home place a memory and a celebration.</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Reviews, Publications and Personal Documents.</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">1</container>
-<unittitle>The southern review</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<unittitle>Christianity and literature (Autumn 1996)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<unittitle>September 1987 Publications</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">2</container>
-<unittitle>The Chattahoochee review Vol. XVI</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">3</container>
-<unittitle>Robert Drake reviews I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">4</container>
-<unittitle>Robert Drake reviews II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">5</container>
-<unittitle>Robert Drake reviews III</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">6</container>
-<unittitle>Robert Drake reviews IV</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">7</container>
-<unittitle>Publications</unittitle>
-<unitdate>1953-1999</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">8</container>
-<unittitle>My literary equipment</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<unittitle>Critics to Robert&#8217;s work</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Mississippi quarterly</emph></unittitle>
-<unitdate>1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">Mississippi quarterly</emph></unittitle>
-<unitdate>1994-1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">11</container>
-<unittitle>Bridgton press</unittitle>
-<unitdate>2014</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">12</container>
-<unittitle>Robert Drake CV</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">13</container>
-<unittitle>Speaking engagements</unittitle>
-<unitdate>(1965-1995)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">14</container>
-<unittitle>Drake interview</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">15</container>
-<unittitle>Graduate student hand book</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Drake, Robert Papers</titleproper>
+        <titleproper>Finding Aid for the Robert Drake Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Robert Drake Papers</unittitle>
+      <unitid>MSS.0117</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">32.50 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1953/1999" type="inclusive"></unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondences</unittitle>
+          <unitdate>1959-1995</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unitdate>1959-1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>1970-1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>1980 -1989</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unitdate>1991</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>January 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>February 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>March 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unitdate>April 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unitdate>May 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unitdate>June 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unitdate>July 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unitdate>August 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unitdate>September 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unitdate>October 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unitdate>November 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unitdate>December 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unitdate>January 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unitdate>February 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unitdate>March 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unitdate>April 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unitdate>May 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unitdate>June 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unitdate>July 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unitdate>August 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unitdate>September 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unitdate>October 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unitdate>November 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unitdate>December 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unitdate>January 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unitdate>February 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unitdate>March 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unitdate>August 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unitdate>September 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unitdate>October 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unitdate>November 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unitdate>December 1995</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence 1996-1999</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>January 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>February 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>March 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unitdate>April 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unitdate>May 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>June 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>July 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unitdate>August 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unitdate>September 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unitdate>October 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unitdate>November 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unitdate>December 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unitdate>January 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unitdate>February 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unitdate>March 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unitdate>April 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unitdate>May 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unitdate>June 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unitdate>July 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unitdate>August 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unitdate>September 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unitdate>October 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unitdate>November 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unitdate>December 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unitdate>1998</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unitdate>1999</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories (1)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>The Methodist Church, the Democratic party and the St. Louis Cardinals</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Stardust</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Cotton Mill</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Old Cemetery</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Alone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Last Lady on the Epilogue</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Shrouds with Pockets in Them</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>How Come You Reckon He Did That?</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Travelling Companions</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Last of the Innocents</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>All Under One Roof</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Girls</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>A Short Horse</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Let There be Light</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Devil, Lightning and Policemen</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Gallery Talk</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>I&#8217;ve got a Sneaking Idea</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The convertible</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Little Girls with Blue Eyes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Last Old Maid in Town</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Graduation from the Air</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Piazza</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Election</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Every Friday Afternoon</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>What Will you do for an Encore?</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Home Place</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Introduction for Relief</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>An English Hidalgo</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Miss Welty&#8217;s Country and My Own</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Is Regionalism a Bad Word?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Review of Southern Writers at Century&#8217;s End</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Southern Writers at Centuries End</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Partisan</unittitle>
+              <unitdate>1997</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>The Observer, the Outsider</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Robert Drake&#8217;s North South Axis</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Good and Faithful Servant</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Southern Partisan</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Long Long Thoughts</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Tell Him to Wait till I get My Shoes On</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Tara Forty Years After</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Holocaust and the Literary Imagination</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>My Stories; Short on Length, Long on Talk</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Old Lady Power</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Flannery O&#8217;Connor an American Literature</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Acknowledgements</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>The Writers Dreams</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Composition and Rhetoric and the Warders of the Gate</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>In Time and Place</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>In and Out of Yoknapatawpha</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Allen Tate</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Son of the Morning</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Miss Welty&#8217;s Country and my Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Writing and Listening</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>The Wonderful Nows</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Three Southern Ladies</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Unsearchable Riches</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Legacy of Allen Tate</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>The Perils of Internship</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Hemingway and Faulkner</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Southern Women</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Lone Eagle and the American Dream</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>The Big Wide World of Ripley, Tennessee</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Glory that is Greece</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Dreadful Past the Blessed Past</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Our Old Home</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Cranks, Nuts and Gizzards</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Uses of Obscenity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>My Novel</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>America Prophecies, Dreams, Visions</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>Taking Stock</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>South the Towers Rising</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Performer</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>My Affair with Eustace Tilley</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>The Carter Prospect</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Wonders at the Gate</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>The Emperor&#8217;s Clothes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Getting Above Your Rising</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>Games Authors Play</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Good Behavior</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>My Christmas Journey</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Why I Write Fiction</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">23</container>
+            <unittitle>The Home Place (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">24</container>
+            <unittitle>The Home Place (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">25</container>
+            <unittitle>The Home Place (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">26</container>
+            <unittitle>The Home Place (4)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories (2)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>The Observer, the Outsider</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Little Girl with Blue Eyes (short stories)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>The Blue Remembered Hills of Lauderdale County, Tennessee</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Writer and the Corridors of Memory</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Teaching Fiction Writing</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>The Writer as Hunger Artist</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Writer</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Writers and History</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>All Your Children will be Born Naked</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Loving Vision</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Wood Landers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Lonely Heart of Carson McCullers</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Practice Music</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Austin Warren (1899-1986)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Morning Song</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>What Papa Said</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Enormous Spider Web of Robert Penn Warren</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Practice Music Practice Music</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Memphis for the Day</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Thoreau and Mrs. Hamby</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Over the Mountains</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>New Year&#8217;s Eve</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Tara Twenty Years After</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Richard Marias</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>An Audience with Mr. Faulkner</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Living Room</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Do you Know Ben Webster</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>I Don&#8217;t Know What He is Doing Now</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Art of Fiction</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Nigger of the Narcissus</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>The Little Jewish Lady</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>What Were You Doing When You Heard the News?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Auntie&#8217;s Message</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Good and Faithful Servant</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>The Lady From Somewhere</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Miss Welty&#8217;s Country and My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Regionalism in American Fiction</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Hemingway and Faulkner</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>The Sauce for the Asparagus</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Miss Minerva and William Green Hill</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Absalom, Absalom or Why Southerners Tell Stories</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Two Eudora Welty Stories</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Saki&#8217;s Ironic Stories</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Manners Anyone? Or Who Killed the Butler?</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Gentlemen, Blondes &#38; Brunettes</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Signs of the Times, or Signs of all Times</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Greatness Through Limitation</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Flannery O&#8217;Connor and American Culture</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>The Paradigm of Flannery O&#8217;Connor&#8217;s True County</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Three Southern Ladies</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Bleeding Stinking Mad Shadow of Jesus</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Reasons of the Heart</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Yoknapatawpha Innocence Lost</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>As the Old as Man Himself</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle>The Modern Inferno</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>A Joyful Noise</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Lady Old Power</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle>Mother, Father Three Sons</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Family of Fire</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Picture Frame and Other Stories</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle>An Audience with Mr. Faulkner</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Writer as Observer, the Writer as Outsider</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Southern Writers at the Century&#8217;s End</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle>A Sweet Touch</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>As Clean as the Ten Commandments</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>For the Prestige</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>New Year&#8217;s Eve</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle>Over the Mountains</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Maxwell girls</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>What Papa Said?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>A Sweet Touch</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Brutally Massacred by Indians</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Feeding the Stocks</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Living Room</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>What Have They Done?</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">23</container>
+            <unittitle>Change of Life</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Raining Cotton</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Clothes Line</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">24</container>
+            <unittitle>What Will I Do For an Encore?</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Square</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Luella and Mr. Kelly</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">25</container>
+            <unittitle>Frances Newsman: Fabulist of Decadence</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>The Last of the Innocents</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Aloodiceqan: A Note on a Minor Novel</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">26</container>
+            <unittitle>The Cea Critic (October,1969)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">27</container>
+            <unittitle>The Drake Interview</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories (3)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>The First Year</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>On the Side Porch</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Clothes Line</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Graduation from the Air</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Last Old Maid in Town</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>The High World</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>All this Material</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Piazza</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Assorted Stories</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>The Dark Angel in My Life</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Home Truths</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Time Place and the Past</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The New Bridge</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>A Splendid Summer</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Happy Warrior Goes Home</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>One World at a Time</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Flannery O&#8217;Conner</unittitle>
+              <unitdate>1978</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>A Church for all Seasons</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Professor, what do you Profess?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Miss Minerva Again</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>I Never Write Letters</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>I&#8217;ve Got a Sneaking Idea</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Star Dust</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>A Short Horse</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>What do You do Now</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Comedy of Manners</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Day</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Alone</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Robert Penn Warren</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>The Nigger of the Narcissus</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle>Comedy of Manners</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Why Southerners Tell Stories</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle>Teaching Fiction Writing</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">16</container>
+            <unittitle>The Train in My Life</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Dream House</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle>William Faulkner: Toward Yoknapatawpha and Beyond</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>In Time and Place: Some Origins of America Fiction</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Robert Coles, Flannery O&#8217;Connor&#8217;s South.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">18</container>
+            <unittitle>Donald Davidson and the Ancient Mariner</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>My Christmas Journey</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Legacy of Allen Tate</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>Southern Women</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">19</container>
+            <unittitle>Dutch Genre Painter</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>The Writer as Listener</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>I Can Tell You All About It</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">20</container>
+            <unittitle>Southern Women: Fact and Fiction.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories (4)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>The Home Place: A Memory and a Celebration</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>The Single Heart (script)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Robert Drake reviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Comic Monologues: Robert Drake&#8217;s Community of Voices</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>The Picture Frame and Other Stories</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>For the Record (Final Draft) I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>For the Record (Final Draft) II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>For the Record (Final Draft) III</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>For the Record (Final Draft) IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>For the Record (Final Draft) V</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Telling and Reckoning: A Recuperation of the Drake Stories.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">12</container>
+            <unittitle>The Interpretation of Otherness</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Home truths. Heart truths</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Pietas Medici</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>A Dutch Genre Painter</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">13</container>
+            <unittitle>The Big Room</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Flannery O&#8217;Connor&#8217;s South</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>My Country, My Voices</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Violence and Culture in the Antebellum South</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">14</container>
+            <unittitle>I Don&#8217;t Want You to Ever Call Again</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>The Loving Vision of Eudora Welty</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>The Scalpel and the Pen</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Going Home</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">15</container>
+            <unittitle>Modern Age</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Why Flannery O&#8217;Connor Stayed Home</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>All Your Children Will Be Born Naked</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Lamar Alexander, Robin Hood, and Barry Parker</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">16</container>
+            <unittitle>Survivors</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>I Can Tell You All About It</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>A Joyful Noise</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Tell Me a Story</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">17</container>
+            <unittitle>The Writer: Behind the Scenes</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>She Won&#8217;t Cook</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Is There Any Market for Good Women?</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">18</container>
+            <unittitle>Morning Song</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>The Lady from Somewhere</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>One Writer&#8217;s Pieties</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">19</container>
+            <unittitle>The Little Boy and His Bank</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Why Southerners Tell Stories</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>The Writer as Hunger Artist</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Good Evening Ladies and Gentlemen</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">20</container>
+            <unittitle>Let There Be Light</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>William Hall Drake and His Family</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Risen Sun</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Talk of Stewardship</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories (5)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>No More Use Than a Billy Goat</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>It&#8217;s So Close in Here</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>A Dead Cat on the Line</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>A Short Horse</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>A Note on the Text</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>We are going to Mark Things Down</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>A Gentle Quarrel with Readers</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>A Short Horse</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Cultivating My Antique Garden</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The Last of the Innocents</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Miss O&#8217;Connor and the Scandal of Redemption</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>New Year&#8217;s Eve</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Ceremonies</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Austin Warren (1899-1986)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The Little Jewish Lady</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>The Lady from Somewhere</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Miss Effie the Peabody and the Father Time</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Mrs. Picture Show Green</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The writer as the hunger artist</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>My sweet hearts house</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The first year</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Douglas Pascal</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The birth day picture</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>His heart his home</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The Methodist church, the Democratic Party and the St. Louis cardinals</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Christianity and literature</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>A back bedroom an open fire and the art of fiction</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Code interview</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>She won&#8217;t cook</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Red warren: His heart his home</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>The writer as the hunger artist</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Notre dame magazine</unittitle>
+              <unitdate>1998</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Dedication and preface</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>The Maxwell girls</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Them fried niggers smell good don&#8217;t they clover?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Counting out</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Daddy and the preachers</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>Austin warren</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Cleanth brooks</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Daddy and the devil</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Travelling companions</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>Speeches</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>The picture frame and other stories</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The lunch box</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle>Writing in the southern traditional interviews with southern contemporary authors</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle>The picture frame</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Every Friday afternoon</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>The last of the innocents</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>The beauty revue counting out</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Tight fisted till the end</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle>The legitimate pleasures of literature</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories VI</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Connections</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>Let there be light</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>The day</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>The devil, lightning and policemen</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>All under the roof</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>The cotton mill</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>The old cemetery</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>The little girl with blue eyes</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>Travelling companions</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Star dust</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>I&#8217;ve got a sneaking idea</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>The convertible</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>The pickup truck</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>The two nieces</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>Graduation from the air</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>The girls</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>Every Friday after noon</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>How come you recon he did that</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>The last old maid in town</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">11</container>
+            <unittitle>A short horse</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>Shrouds with pockets in them</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">12</container>
+            <unittitle>The Peabody ducks and all the rest</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>All that believe that, stand on their head</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">13</container>
+            <unittitle>For the record (script)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">14</container>
+            <unittitle>Reading Robert drake</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">15</container>
+            <unittitle>The election</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">16</container>
+            <unittitle>The child prodigy</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">17</container>
+            <unittitle>Alone</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">18</container>
+            <unittitle>For the record I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">19</container>
+            <unittitle>For the record II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">20</container>
+            <unittitle>Hearing voices of women at the back of my mind</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">21</container>
+            <unittitle>The Whig in the Robert drake fiction</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">22</container>
+            <unittitle>Telling and reckoning</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">23</container>
+            <unittitle>A sort of central fact about Woodsville</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>A rail road as a metaphor in the works of Robert drake</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">24</container>
+            <unittitle>A southern realist</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">25</container>
+            <unittitle>Family of five</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">26</container>
+            <unittitle>The Whig ethos in Robert drake fiction</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <unittitle>Hearing the voices of women at the back of my mind</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">27</container>
+            <unittitle>For the record (final draft) I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">28</container>
+            <unittitle>For the record (final draft) II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">29</container>
+            <unittitle>For the record (final draft) III</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">30</container>
+            <unittitle>For the record (final draft) IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">31</container>
+            <unittitle>The single heart</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>short stories VII</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>What do we do now</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>At the lake</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>All this material and other such things</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The picture frame</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Connections</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The pickup truck</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>For the prestige</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The child prodigy</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>How come the Maxell girls</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>All this material</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Let there be light</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>The last old maid in town</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Cleanth Brooks</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>What papa said?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Auntie ant the two nieces</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Eve of St. Agnes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>The kingdom of God in marigold Mississippi</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Uncle john and the trail of the years</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Mr. Andrew and the big holly tree</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Easy steps for little feet</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>Mrs. Higgins heart</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Daddy and the bull and the bull named Herbert</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The moss girls</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Saki&#8217;s ironic stories</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">9</container>
+            <unittitle>The summer of the widow peeper</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Manners anyone</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The fountain filled with blood</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>By thy good pleasure</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">10</container>
+            <unittitle>The stark naked Baptist</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>A lacodician</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Mr. Marcus and the overhead bridge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>By thy good pleasure</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">11</container>
+            <unittitle>The hair curling gospel</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Manners anyone</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>A modern inferno</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The bridegroom cometh</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">12</container>
+            <unittitle>Mr. Davison and the ancient mariner</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Dear dead Hollywood</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Huck among the doctors</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">13</container>
+            <unittitle>Huck among the doctors</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The time the bank failed</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The first funeral</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The nine year old evangelist</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">14</container>
+            <unittitle>The home place I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">15</container>
+            <unittitle>The home place II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">16</container>
+            <unittitle>The home place III</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">17</container>
+            <unittitle>The home place IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">18</container>
+            <unittitle>Mr. Wood Wad and the past</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Lorelei Dorothy and the comedy of manners</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The woodlands and the traditional pastoral</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>By thy good pleasure</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">19</container>
+            <unittitle>Miss O&#8217;Connor and the scandal of redemption</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Flannery O&#8217;Conner RIP</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The fall of man and the puritan mind</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The bowel fearful people</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">20</container>
+            <unittitle>Mrs. Piccard and the Baptists</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Some problems and a biography</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">21</container>
+            <unittitle>The last of the innocents</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>An audience with Mr. Faulkner a centennial Memoir</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The writer as hunger artist</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The writer as observer, the writer as insider</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">22</container>
+            <unittitle>The last of the innocents</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Tara twenty years after</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>The book the movie the dream</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Robert Drake&#8217;s north south axis</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">23</container>
+            <unittitle>All under one roof</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Ella Biggs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>I am counting with you all the way</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <unittitle>Why southerners tell stories</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories VIII</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>The single heart</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Amazing grace</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories IX</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>For the record (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>For the record (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>For the record (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>For the record (4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Survivors and others (original copy)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">6</container>
+            <unittitle>Robert drake story collection</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">7</container>
+            <unittitle>The home place a memory and a celebration.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Reviews, Publications and Personal Documents.</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>The southern review</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Christianity and literature (Autumn 1996)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>September 1987 Publications</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>The Chattahoochee review Vol. XVI</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Robert Drake reviews I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>Robert Drake reviews II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>Robert Drake reviews III</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>Robert Drake reviews IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>Publications</unittitle>
+            <unitdate>1953-1999</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>My literary equipment</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Critics to Robert&#8217;s work</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">Mississippi quarterly</emph>
+            </unittitle>
+            <unitdate>1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">Mississippi quarterly</emph>
+            </unittitle>
+            <unitdate>1994-1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">11</container>
+            <unittitle>Bridgton press</unittitle>
+            <unitdate>2014</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">12</container>
+            <unittitle>Robert Drake CV</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">13</container>
+            <unittitle>Speaking engagements</unittitle>
+            <unitdate>(1965-1995)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">14</container>
+            <unittitle>Drake interview</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">15</container>
+            <unittitle>Graduate student hand book</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
