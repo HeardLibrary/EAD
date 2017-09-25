@@ -1,103 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Buchanan, Margaret and Charles Collection</titleproper>
-<titleproper>Finding Aid for the Margaret and Charles Buchanan Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>Undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Margaret and Charles Buchanan Collection</unittitle>
-<unitid>MSS.0060</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>Undated</unitdate>
-</did>
-<bioghist>
-<head>Biographical Sketch</head>
-<p><emph render="bold">Margaret Gwin Baskette</emph></p>
-<p>The autograph album of Margaret Gwin Baskette was given to the Special Collections Department of the Joint University Libraries on April 11, 1968. The donor was Pearl Leigh Buchanan, a graduate of Peabody who received an M.A. in 1929 and who, at the time of the donation, was a Professor at Eastern Kentucky University. The autograph album belonged to &#8220;Maggie&#8221; as her friends called her. The V.U. <emph render="underline">Alumni Directory</emph> (May 1923) lists her years of matriculation as 1881-1883. She was embarking on a career in journalism and was publishing articles and stories in the Nashville <emph render="underline">Banner</emph>. Women were not admitted to Vanderbilt at that time, but she was given special permission to attend these classes. She became the wife of Charles Henry Buchanan, a ministerial student; they were married on October 21, 1885. They had one daughter, Pearl Leigh Buchanan. One of their classmates was Charles Soong of China (one of Soong&#8217;s daughters became Madame Sun Yat Sen and another became Madame Chiang Kai-Shek). Another classmate was John Orr, who became a librarian in the Congressional Library in Washington, D.C. Autographs of many other students are found in the album.</p>
-<p><emph render="bold">Charles Henry Buchanan</emph></p>
-<p>Charles Henry Buchanan (1858- ) attended the Vanderbilt Academic School and Biblical School from 1881 through 1884. He was a minister of the Methodist Episcopal Church, South, first spending 20 years as a pastor in Choteau, Oklahoma and subsequent years as a pastor in Central Texas and Baltimore, Maryland.</p>
-<p>Rev. Buchanan was the author of <emph render="underline">A Gospel for the New Age; being the reality of religion as Jesus taught it</emph>, published in 1925 and <emph render="underline">Wanted: The Old Puritan Spirit as well</emph> as articles and editorials for the Texas <emph render="underline">Advocate</emph> and other church papers.</p>
-<p>In 1882-1883, Rev. Buchanan helped organize and played on the first football team in Tennessee, made up of young Vanderbilt Academic and Biblical School students.</p>
-<p>The Margaret and Charles Buchanan Collection include an autograph album, a bound copy of the <emph render="italic">Vanderbilt Observer</emph>, newspaper clippings, reminiscences and various ephemera. The Collection consists of one Hollinger box (.417 linear feet).</p>
-</bioghist>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<container type="folder">1</container>
-<unittitle>A typescript letter to Margaret Buchanan, dated June 19, 1942, signed with an illegible signature by the Secretary to Dr. T.V. Soong, Minister for Foreign Affairs, Republic of China.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">2</container>
-<unittitle>1 Autograph album of Margaret Gwin Baskette which contains autographs collected while she was a student at Vanderbilt University, 1880-1883.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>1 Bound copy of the <emph render="underline">Vanderbilt Observer</emph>, dating from February, 1883 to June 1886, in which an index to the writings of Charles H. Buchanan is included.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">4</container>
-<unittitle>4 Newspaper clippings, 3 relate to Madame Chiang Kai-Shek, the other clipping is an untitled, anonymous poem.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>1 Reprint from the Vanderbilt Alumnus for February, 1932, titled &#8220;The Burning of Wesley Hall.&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">6</container>
-<unittitle>1 Commencement Announcement for 1882.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">7</container>
-<unittitle>1 p. of reminiscences of the first football game organized and played in Tennessee.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">7</container>
-<unittitle>3 completed, handwritten questionnaires for V.U. <emph render="underline">Alumni Directory</emph>, 1925. Two are from Charles Henry Buchanan and one is from Margaret Buchanan.</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Buchanan, Margaret and Charles Collection</titleproper>
+        <titleproper>Finding Aid for the Margaret and Charles Buchanan Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Margaret and Charles Buchanan Collection</unittitle>
+      <unitid>MSS.0060</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>Undated</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>
+        <emph render="bold">Margaret Gwin Baskette</emph>
+      </p>
+      <p>The autograph album of Margaret Gwin Baskette was given to the Special Collections Department of the Joint University Libraries on April 11, 1968. The donor was Pearl Leigh Buchanan, a graduate of Peabody who received an M.A. in 1929 and who, at
+        the time of the donation, was a Professor at Eastern Kentucky University. The autograph album belonged to &#8220;Maggie&#8221; as her friends called her. The V.U.
+        <emph render="underline">Alumni Directory</emph>
+        (May 1923) lists her years of matriculation as 1881-1883. She was embarking on a career in journalism and was publishing articles and stories in the Nashville
+        <emph render="underline">Banner</emph>. Women were not admitted to Vanderbilt at that time, but she was given special permission to attend these classes. She became the wife of Charles Henry Buchanan, a ministerial student; they were married on
+        October 21, 1885. They had one daughter, Pearl Leigh Buchanan. One of their classmates was Charles Soong of China (one of Soong&#8217;s daughters became Madame Sun Yat Sen and another became Madame Chiang Kai-Shek). Another classmate was John Orr,
+        who became a librarian in the Congressional Library in Washington, D.C. Autographs of many other students are found in the album.</p>
+      <p>
+        <emph render="bold">Charles Henry Buchanan</emph>
+      </p>
+      <p>Charles Henry Buchanan (1858- ) attended the Vanderbilt Academic School and Biblical School from 1881 through 1884. He was a minister of the Methodist Episcopal Church, South, first spending 20 years as a pastor in Choteau, Oklahoma and subsequent
+        years as a pastor in Central Texas and Baltimore, Maryland.</p>
+      <p>Rev. Buchanan was the author of
+        <emph render="underline">A Gospel for the New Age; being the reality of religion as Jesus taught it</emph>, published in 1925 and
+        <emph render="underline">Wanted: The Old Puritan Spirit as well</emph>
+        as articles and editorials for the Texas
+        <emph render="underline">Advocate</emph>
+        and other church papers.</p>
+      <p>In 1882-1883, Rev. Buchanan helped organize and played on the first football team in Tennessee, made up of young Vanderbilt Academic and Biblical School students.</p>
+      <p>The Margaret and Charles Buchanan Collection include an autograph album, a bound copy of the
+        <emph render="italic">Vanderbilt Observer</emph>, newspaper clippings, reminiscences and various ephemera. The Collection consists of one Hollinger box (.417 linear feet).</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="folder">1</container>
+          <unittitle>A typescript letter to Margaret Buchanan, dated June 19, 1942, signed with an illegible signature by the Secretary to Dr. T.V. Soong, Minister for Foreign Affairs, Republic of China.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">2</container>
+          <unittitle>1 Autograph album of Margaret Gwin Baskette which contains autographs collected while she was a student at Vanderbilt University, 1880-1883.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">3</container>
+          <unittitle>1 Bound copy of the
+            <emph render="underline">Vanderbilt Observer</emph>, dating from February, 1883 to June 1886, in which an index to the writings of Charles H. Buchanan is included.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">4</container>
+          <unittitle>4 Newspaper clippings, 3 relate to Madame Chiang Kai-Shek, the other clipping is an untitled, anonymous poem.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">5</container>
+          <unittitle>1 Reprint from the Vanderbilt Alumnus for February, 1932, titled &#8220;The Burning of Wesley Hall.&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">6</container>
+          <unittitle>1 Commencement Announcement for 1882.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">7</container>
+          <unittitle>1 p. of reminiscences of the first football game organized and played in Tennessee.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">7</container>
+          <unittitle>3 completed, handwritten questionnaires for V.U.
+            <emph render="underline">Alumni Directory</emph>, 1925. Two are from Charles Henry Buchanan and one is from Margaret Buchanan.</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

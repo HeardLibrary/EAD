@@ -1,374 +1,405 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Bryan, Charles Faulkner Collection</titleproper>
-<titleproper>Finding Aid for the Charles Faulkner Bryan Collection</titleproper>
-<author>Molly Dohrmann</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2007</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>The Charles Faulkner Bryan Collection</unittitle>
-<unitid>MSS.0058</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>2007</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>Charles Faulkner Bryan was born in McMinnville, Tennessee on July 26, 1911.</p>
-<p>He became one of Tennessee&#8217;s most important musicians, composers, and collectors of folk music, and he had a career as a music educator most notably at Tennessee Polytechnic Institute and at George Peabody College for Teachers. While at Peabody he and George Pullen Jackson co-authored a textbook for the teaching of music in the schools. In 1946 Bryan studied with Paul Hindemith at Yale on a Guggenheim Fellowship. There he began and completed his famous work <emph render="italic">The Bell Witch Cantata</emph> which had its premier at Carnegie Hall in 1947 under the direction of Robert Shaw. Bryan incorporated black spirituals, white spirtuals, and Appalachian folk tunes masterfully in his work, and he is known especially for <emph render="italic">The White Spiritual Symphony</emph> ( 1942) and the folk opera <emph render="italic">Singin&#8217; Billy</emph> (1952) On this he worked with Fugitive poet and Agrarian and Vanderbilt professor Donald Davidson, and much of the correspondence in this collection relates to this cooperative venture between Bryan and Davidson.</p>
-<p>In the last years of his life he was Master of Music at Indian Springs School in Alabama. He died suddenly on July 7, 1955 at the age of 43 leaving an important legacy of understanding of American folk lore and culture through his work as a musician and teacher. He was married to Edith Hillis in 1935, and they had two children, Betty Lynn and Charles, Jr. In Warren County Tennessee in the park in front of the courthouse there is an historical marker which honors Bryan&#8217;s achievements and reads:</p>
-<blockquote>
-<p>&#8220;A native of Warren County, Bryan was a pioneer in the study of American folk music. Through his talented efforts this distinctively American form of musical expression gained worldwide fame and appreciation. He worked closely with the people of the Southern mountains and coves in the study of this music, but his work earned a permanent place of honor and distinction in the highest ranks of academic and scholarly achievement. Presented in his memory by a grateful community.&#8221;</p>
-</blockquote>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>This collection is .42 linear feet, one Hollinger box, of materials relating to Charles Faulkner Bryan and it includes photocopies of correspondence between Bryan and Donald Davidson, with whom he collaborated on the musical Singin&#8217; Billy.</p>
-<p>Also in this collection is sheet music of pieces by Bryan and includes the <emph render="italic">Songs for Children</emph> Series, the <emph render="italic">Bell Witch Secular Folk Cantata, Tennessee Folk Songs</emph> and other music by Bryan. There are two 8 x 10 photographs of Bryan in this small collection.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>File Listing</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Photocopies of Correspondence</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Outgoing</unittitle>
-<unitdate>September 28, 1948 - September 5, 1953</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Outgoing</unittitle>
-<unitdate>September 21, 1953 - December 7, 1953</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Outgoing</unittitle>
-<unitdate>January 9, 1954 - June 14, 1955</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Photocopies of Correspondence with Donald Davidson</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Incoming</unittitle>
-<unitdate>October 14, 1950 - November 8, 1951</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Incoming</unittitle>
-<unitdate>June 4, 1952 - July 13, 1952</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Incoming</unittitle>
-<unitdate>August 15, 1952 - December 14, 1952</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Incoming</unittitle>
-<unitdate>January 4, 1953 - March 29, 1953</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Incoming</unittitle>
-<unitdate>April 2, 1953 - May 27, 1953</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Incoming</unittitle>
-<unitdate>June 2, 1953 - August 25, 1953</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Incoming</unittitle>
-<unitdate>September 4, 1953 - December 13, 1953</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Incoming</unittitle>
-<unitdate>January 8, 1954 - August 30, 1954</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Incoming</unittitle>
-<unitdate>September 13, 1954 - December 20, 1954</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Incoming</unittitle>
-<unitdate>December 27, 1954 - December 8, 1955</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Sheet Music</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>&#8220;The Area of a Regular Polygon&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>&#8220;Arma Virumque Cano&#8221; words from Vergil&#8217;s Aeneid</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle><emph render="italic">The Bell Witch &#8211; Secular Folk Cantata</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Sheet Music</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>&#8220;Down the Road&#8221;; &#8220;I Heard the Bells on Christmas Day&#8221;; &#8220;Longing&#8221;; &#8220;To a Hall&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>&#8220;Flower in the Crannied Wall&#8221; words by Alfred, Lord Tennyson</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>&#8220;The Hawthorn Tree&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>&#8220;The Low Country&#8221; from <emph render="italic">Singin&#8217; Billy</emph></unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle><emph render="italic">Songs for Children</emph></unittitle>
-<note>
-<list type="ordered" numeration="loweralpha">
-<item>&#8220;About Buttons&#8221;</item>
-<item>&#8220;The Circus Parade&#8221;</item>
-<item>&#8220;The Doctor&#8221;</item>
-</list>
-</note>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle><emph render="italic">Songs for Children</emph></unittitle>
-<note>
-<list type="simple">
-<item>d. &#8220;Fireflies&#8221;</item>
-<item>e. &#8220;Gas Station Man&#8221;</item>
-<item>f. &#8220;Go to Sleep&#8221;</item>
-</list>
-</note>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle><emph render="italic">Songs for Children</emph></unittitle>
-<note>
-<list type="simple">
-<item>g. &#8220;Hippity Hop&#8221;</item>
-<item>h. &#8220;If a Pig Wore a Wig&#8221;</item>
-<item>i. &#8220;Mary Middling&#8221;</item>
-<item>j. &#8220;Mary Middling #2&#8221;</item>
-</list>
-</note>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle><emph render="italic">Songs for Children</emph></unittitle>
-<note>
-<list type="simple">
-<item>k. &#8220;The Postman&#8221;</item>
-<item>l. &#8220;Rain&#8221;</item>
-<item>m &#8220;Snow&#8221;</item>
-<item>n. &#8220;The Tractor&#8221;</item>
-</list>
-</note>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle>&#8220;East Gospel&#8221; and &#8220;Peace in the Valley&#8221; from <emph render="italic">Strangers in this World</emph> words by Brainard Cheney and music by C.F. Bryan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle><emph render="italic">Tennessee</emph> Folk Songs collected by George Boswell; arranged by Charles F. Bryan for use in the Tennessee public schools</unittitle>
-<unitdate>1950</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle>&#8220;Then&#8221; by William Stafford and C.F. Bryan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle>&#8220;These are the Times&#8221; by Thomas Paine and C.F. Bryan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">29</container>
-<unittitle>&#8220;These are the Times&#8221; by Thomas Paine and C.F. Bryan</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Other</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unittitle>Libretto for <emph render="italic">Singin&#8217; Billy</emph>: An Opera in Two Acts by Charles F. Bryan and Donald Davidson for a performance at George Peabody College</unittitle>
-<unitdate>August 9, 10, 1951</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unittitle>Program - Dedication Ceremony - Bryan Fine Arts Building, Nov. 14, 1981, Tennessee Technological University, Cookeville, Tennessee</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">32</container>
-<unittitle>Article - &#8220;Falconhurst: A Legend of Place and People&#8221; in <emph render="italic">Tennessee Magazine</emph>, September 1983 with an accompanying letter from Mrs. Bryan</unittitle>
-<unitdate>September 15, 1983</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">33</container>
-<unittitle>Photograph - Charles Faulkner Bryan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">34</container>
-<unittitle>Photograph - Robert Shaw congratulating Charles F. Bryan at rehearsal of the <emph render="italic">Bell Witch Cantata</emph> in Carnegie Hall</unittitle>
-<unitdate>1947</unitdate>
-</did>
-</c03>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Bryan, Charles Faulkner Collection</titleproper>
+        <titleproper>Finding Aid for the Charles Faulkner Bryan Collection</titleproper>
+        <author>Molly Dohrmann</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>The Charles Faulkner Bryan Collection</unittitle>
+      <unitid>MSS.0058</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Charles Faulkner Bryan was born in McMinnville, Tennessee on July 26, 1911.</p>
+      <p>He became one of Tennessee&#8217;s most important musicians, composers, and collectors of folk music, and he had a career as a music educator most notably at Tennessee Polytechnic Institute and at George Peabody College for Teachers. While at
+        Peabody he and George Pullen Jackson co-authored a textbook for the teaching of music in the schools. In 1946 Bryan studied with Paul Hindemith at Yale on a Guggenheim Fellowship. There he began and completed his famous work
+        <emph render="italic">The Bell Witch Cantata</emph>
+        which had its premier at Carnegie Hall in 1947 under the direction of Robert Shaw. Bryan incorporated black spirituals, white spirtuals, and Appalachian folk tunes masterfully in his work, and he is known especially for
+        <emph render="italic">The White Spiritual Symphony</emph>
+        ( 1942) and the folk opera
+        <emph render="italic">Singin&#8217; Billy</emph>
+        (1952) On this he worked with Fugitive poet and Agrarian and Vanderbilt professor Donald Davidson, and much of the correspondence in this collection relates to this cooperative venture between Bryan and Davidson.</p>
+      <p>In the last years of his life he was Master of Music at Indian Springs School in Alabama. He died suddenly on July 7, 1955 at the age of 43 leaving an important legacy of understanding of American folk lore and culture through his work as a
+        musician and teacher. He was married to Edith Hillis in 1935, and they had two children, Betty Lynn and Charles, Jr. In Warren County Tennessee in the park in front of the courthouse there is an historical marker which honors Bryan&#8217;s
+        achievements and reads:</p>
+      <blockquote>
+        <p>&#8220;A native of Warren County, Bryan was a pioneer in the study of American folk music. Through his talented efforts this distinctively American form of musical expression gained worldwide fame and appreciation. He worked closely with the
+          people of the Southern mountains and coves in the study of this music, but his work earned a permanent place of honor and distinction in the highest ranks of academic and scholarly achievement. Presented in his memory by a grateful community.&#8221;</p>
+      </blockquote>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>This collection is .42 linear feet, one Hollinger box, of materials relating to Charles Faulkner Bryan and it includes photocopies of correspondence between Bryan and Donald Davidson, with whom he collaborated on the musical Singin&#8217; Billy.</p>
+      <p>Also in this collection is sheet music of pieces by Bryan and includes the
+        <emph render="italic">Songs for Children</emph>
+        Series, the
+        <emph render="italic">Bell Witch Secular Folk Cantata, Tennessee Folk Songs</emph>
+        and other music by Bryan. There are two 8 x 10 photographs of Bryan in this small collection.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Photocopies of Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Outgoing</unittitle>
+            <unitdate>September 28, 1948 - September 5, 1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Outgoing</unittitle>
+            <unitdate>September 21, 1953 - December 7, 1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Outgoing</unittitle>
+            <unitdate>January 9, 1954 - June 14, 1955</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photocopies of Correspondence with Donald Davidson</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>October 14, 1950 - November 8, 1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>June 4, 1952 - July 13, 1952</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>August 15, 1952 - December 14, 1952</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>January 4, 1953 - March 29, 1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>April 2, 1953 - May 27, 1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>June 2, 1953 - August 25, 1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>September 4, 1953 - December 13, 1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>January 8, 1954 - August 30, 1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>September 13, 1954 - December 20, 1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Incoming</unittitle>
+            <unitdate>December 27, 1954 - December 8, 1955</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Sheet Music</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>&#8220;The Area of a Regular Polygon&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>&#8220;Arma Virumque Cano&#8221; words from Vergil&#8217;s Aeneid</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="italic">The Bell Witch &#8211; Secular Folk Cantata</emph>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Sheet Music</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>&#8220;Down the Road&#8221;; &#8220;I Heard the Bells on Christmas Day&#8221;; &#8220;Longing&#8221;; &#8220;To a Hall&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>&#8220;Flower in the Crannied Wall&#8221; words by Alfred, Lord Tennyson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>&#8220;The Hawthorn Tree&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>&#8220;The Low Country&#8221; from
+              <emph render="italic">Singin&#8217; Billy</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <emph render="italic">Songs for Children</emph>
+            </unittitle>
+            <note>
+              <list type="ordered" numeration="loweralpha">
+                <item>&#8220;About Buttons&#8221;</item>
+                <item>&#8220;The Circus Parade&#8221;</item>
+                <item>&#8220;The Doctor&#8221;</item>
+              </list>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <emph render="italic">Songs for Children</emph>
+            </unittitle>
+            <note>
+              <list type="simple">
+                <item>d. &#8220;Fireflies&#8221;</item>
+                <item>e. &#8220;Gas Station Man&#8221;</item>
+                <item>f. &#8220;Go to Sleep&#8221;</item>
+              </list>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <emph render="italic">Songs for Children</emph>
+            </unittitle>
+            <note>
+              <list type="simple">
+                <item>g. &#8220;Hippity Hop&#8221;</item>
+                <item>h. &#8220;If a Pig Wore a Wig&#8221;</item>
+                <item>i. &#8220;Mary Middling&#8221;</item>
+                <item>j. &#8220;Mary Middling #2&#8221;</item>
+              </list>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <emph render="italic">Songs for Children</emph>
+            </unittitle>
+            <note>
+              <list type="simple">
+                <item>k. &#8220;The Postman&#8221;</item>
+                <item>l. &#8220;Rain&#8221;</item>
+                <item>m &#8220;Snow&#8221;</item>
+                <item>n. &#8220;The Tractor&#8221;</item>
+              </list>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>&#8220;East Gospel&#8221; and &#8220;Peace in the Valley&#8221; from
+              <emph render="italic">Strangers in this World</emph>
+              words by Brainard Cheney and music by C.F. Bryan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>
+              <emph render="italic">Tennessee</emph>
+              Folk Songs collected by George Boswell; arranged by Charles F. Bryan for use in the Tennessee public schools</unittitle>
+            <unitdate>1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>&#8220;Then&#8221; by William Stafford and C.F. Bryan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>&#8220;These are the Times&#8221; by Thomas Paine and C.F. Bryan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>&#8220;These are the Times&#8221; by Thomas Paine and C.F. Bryan</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Other</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>Libretto for
+              <emph render="italic">Singin&#8217; Billy</emph>: An Opera in Two Acts by Charles F. Bryan and Donald Davidson for a performance at George Peabody College</unittitle>
+            <unitdate>August 9, 10, 1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>Program - Dedication Ceremony - Bryan Fine Arts Building, Nov. 14, 1981, Tennessee Technological University, Cookeville, Tennessee</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unittitle>Article - &#8220;Falconhurst: A Legend of Place and People&#8221; in
+              <emph render="italic">Tennessee Magazine</emph>, September 1983 with an accompanying letter from Mrs. Bryan</unittitle>
+            <unitdate>September 15, 1983</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unittitle>Photograph - Charles Faulkner Bryan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unittitle>Photograph - Robert Shaw congratulating Charles F. Bryan at rehearsal of the
+              <emph render="italic">Bell Witch Cantata</emph>
+              in Carnegie Hall</unittitle>
+            <unitdate>1947</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
