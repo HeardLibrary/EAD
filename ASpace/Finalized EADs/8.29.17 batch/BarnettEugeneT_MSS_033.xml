@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Barnett, Eugene E. Papers</titleproper>
+        <titleproper>Finding Aid for the Eugene E. Barnett Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Eugene E. Barnett Papers</unittitle>
+      <unitid>MSS.0033</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>1888-1967</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/History</head>
+      <p>Eugene Epperson Barnett was born in 1888 in Leesburg, Florida. He received a B.A. from Emory University in 1907; post-graduate study in the School of Religion at Vanderbilt University, 1907-1908; and received Honorary Degree of LL.D., from Emory
+        University in 1944, and University of North Carolina in 1946.</p>
+      <p>He was the General Secretary of the National Council of YMCA&#8217;s from 1908-1910. He continued his work with the International Committee of the YMCA. From 1910-1936 he worked in China. While in China, he observed many religious and political
+        changes including the downfall of Chiang Kai-Shek and the resurgence of Communism. After leaving China, he continued to work for the YMCA until his retirement in 1953. He traveled extensively before and after retirement. He died in 1970.</p>
+      <p>The autobiographical manuscript written by Eugene E. Barnett gives detailed information on his family background (the Barnett and Epperson Families), his boyhood, his college years with his involvement with the YMCA, the lives of his family both
+        at home and abroad, and his many experiences. The memoir covers in great detail the following subjects:</p>
+      <list type="simple">
+        <item>Physical descriptions of Shanghai and Hangchow</item>
+        <item>YMCA work in Hangchow</item>
+        <item>Boxer Rebellion</item>
+        <item>Collapse of Ch&#8217;ing Dynasty</item>
+        <item>Economic Depression</item>
+        <item>Cultural Life in China</item>
+        <item>Anti-American Sentiment</item>
+        <item>World War I</item>
+        <item>Japanese Invasion of Manchuria</item>
+        <item>Siege of Shanghai by Japanese Forces</item>
+        <item>Marxism</item>
+        <item>Communism</item>
+        <item>USSR (Soviet Union)</item>
+      </list>
+      <p>Although intended to be a three-chapter autobiographical manuscript, the last chapter was not written.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This .21 linear feet collection contains correspondence, vita, book review, and an 304-page typescript autobiographical manuscript. The manuscript is divided into 20 sections and has been put in file folders by section number.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence &#8211; Outgoing</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>July 4, 1967</unitdate>
+            <unittitle>to Woodrow W. Wasson</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence &#8211; Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>December 6, 1966</unitdate>
+            <unittitle>from Sherman P. Carter</unittitle>
+          </did>
+        </c02>
+      </c01>
+
+      <c01 level="series">
+        <did>
+          <unittitle>Book Review</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>December 6, 1966</unitdate>
+            <unittitle>
+              <emph render="italic">Prophet of Plenty: The First Ninety Years of W. D. Weatherford</emph>
+              by Wilma Dykeman, University of Tennessee Press</unittitle>
+            <unitdate>1966</unitdate>
+          </did>
+        </c02>
+      </c01>
+
+      <c01 level="series">
+        <did>
+          <unittitle>Manuscript</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="italic">As I Look Back: Recollections of Growing up in America&#8217;s Southland and of Twenty-Six years in Pre-Communist China, 1888-1936</emph>
+            </unittitle>
+          </did>
+          <note>
+            <table frame="none">
+              <tgroup cols="3">
+                <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+                <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+                <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+                <tbody>
+                  <row>
+                    <entry colname="1">Section I</entry>
+                    <entry colname="2">Preview</entry>
+                    <entry colname="3">1-6</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section II</entry>
+                    <entry colname="2">Forebears</entry>
+                    <entry colname="3">7-22</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section III</entry>
+                    <entry colname="2">Boyhood</entry>
+                    <entry colname="3">23-37</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section IV</entry>
+                    <entry colname="2">College and University</entry>
+                    <entry colname="3">38-49</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section V</entry>
+                    <entry colname="2">Choosing and Starting My Life Work</entry>
+                    <entry colname="3">50-64</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section VI</entry>
+                    <entry colname="2">Taking Off</entry>
+                    <entry colname="3">65-77</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section VII</entry>
+                    <entry colname="2">Heaven Below</entry>
+                    <entry colname="3">78-86</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section VIII</entry>
+                    <entry colname="2">Preparing for Action</entry>
+                    <entry colname="3">87-101</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section IX</entry>
+                    <entry colname="2">Our First Term in Hangchow</entry>
+                    <entry colname="3">102-121</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section X</entry>
+                    <entry colname="2">To the U.S.A. and Back</entry>
+                    <entry colname="3">122-136</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XI</entry>
+                    <entry colname="2">Hangchow &#8220;Mission Accomplished&#8221;</entry>
+                    <entry colname="3">137-155</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XII</entry>
+                    <entry colname="2">Hangchow Postscript</entry>
+                    <entry colname="3">156-169</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XIII</entry>
+                    <entry colname="2">Changing Gear&#8212;Shifting Winds</entry>
+                    <entry colname="3">170-185</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XIV</entry>
+                    <entry colname="2">How to Spend a Furlough</entry>
+                    <entry colname="3">186-199</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XV</entry>
+                    <entry colname="2">Into Heavy Weather</entry>
+                    <entry colname="3">200-221</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XVI</entry>
+                    <entry colname="2">How Chinese Communism Looked To me during its Salad Years</entry>
+                    <entry colname="3">222-240</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XVII</entry>
+                    <entry colname="2">More Stresses and Strains</entry>
+                    <entry colname="3">241-261</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XVIII</entry>
+                    <entry colname="2">On the China Home Stretch (A)</entry>
+                    <entry colname="3">262-278</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XIX</entry>
+                    <entry colname="2">On the China Home Stretch (B)</entry>
+                    <entry colname="3">279-293</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Section XX</entry>
+                    <entry colname="2">On the China Home Stretch (C)</entry>
+                    <entry colname="3">294-304</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">&#160;</entry>
+                    <entry colname="2">Footnote</entry>
+                    <entry colname="3">304</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">&#160;</entry>
+                    <entry colname="2">Addendum to Closing Three Chapters [chapter not written]</entry>
+                    <entry colname="3">305-346</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Vita</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>Dated January 18, 1960</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
