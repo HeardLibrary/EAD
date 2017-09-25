@@ -1,1196 +1,1290 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Egerton, John Papers, Addition</titleproper>
-<titleproper>Finding Aid for the John Egerton Papers, Addition</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2014</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>John Egerton Papers, Addition</unittitle>
-<unitid>MSS.0695</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">5.01 linear feet</extent>
-</physdesc>
-<unitdate>2014</unitdate>
-</did>
-<bioghist>
-<head>Biographical Sketch</head>
-<p>John Edgerton was born in Atlanta, Georgia, June 14, 1935, the son of William G. Egerton, a traveling salesman, and his wife, Rebecca White Egerton. The family soon settled in Cadiz, Kentucky, where John Egerton remained until leaving to attend Western Kentucky University, 1953-1954. From 1954 until 1956, he served in the United States Army. He earned a B.A. at the University of Kentucky in 1958 and an M.A. in 1960. In 1957 he married Ann Elizabeth Bleidt, the couple have two sons.</p>
-<p>Between 1958 and 1960, Egerton was with the Public Relations Department of the University of Kentucky, and from 1960 to 1965, he was the Director of Public Information for the University of South Florida. He was a staff writer for <emph render="italic">Southern Education Report</emph>, 1965-1969, and for <emph render="italic">Race Relations Reporter</emph>, 1969-1971.</p>
-<p>In 1971, Egerton began his career as a free-lance reporter. He was a contributing editor for <emph render="italic">Saturday Review of Education</emph> (1972-1973), <emph render="italic">Race Relations Reporter</emph> (1973-1974), and <emph render="italic">Southern Voices</emph> (1974-1975). From 1973-1975, he was a writer for Atlanta&#8217;s Southern Regional Council. In 1977-1978, he was journalist-in-residence at Virginia Polytechnic Institute and State University. Egerton has written or edited eleven non-fiction books and contributed over two hundred articles to periodicals. He has also been a participant in and writer for many projects or conferences dealing with desegregation and civil rights.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>Most of this addition to John Egerton Papers (MSS128) consists of freelance articles Egerton wrote between 1966 and 2006. There are also additional materials relating to his books: <emph render="italic">A Mind to Stay Here</emph> (1970); <emph render="italic">The Americanization of Dixie</emph> (1973); and <emph render="italic">Nashville: The Faces of Two Centuries</emph> (1979). Other materials include speeches, book reviews, and planning for Nashville&#8217;s first Southern Festival of Books.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Box Listing</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>A Mind to Stay Here</unittitle>
-<unitdate>(1970)</unitdate>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Research Notes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Publication Notes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Correspondence, Incoming, A-C</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Correspondence, Incoming, D-W</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Correspondence, Outgoing</unittitle>
-<unitdate>1969-1973</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Contract and Royalty Statements</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Reviews</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Reviews</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>The Americanization of Dixie</unittitle>
-<unitdate>(1973)</unitdate>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Pages 1-35</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Pages 36-61</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Pages 62-83</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Pages 84-111</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Pages 112-135</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>Pages 136-158</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Pages 159-179</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Pages 180-216</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Pages 217-226</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Nashville: The Faces of Two Centuries</unittitle>
-<unitdate>(1979)</unitdate>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>Foreword Material</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>A, 1-27</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>B, 1-35</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>C, 1-32</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>D, 1-27A</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle>D, Warren, 1-3724. E, 1-41</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>Word Pictures, A, 1-38</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Word Pictures, B, 1-32</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Word Pictures, C, 1-23</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Word Pictures, D, 1-27</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Word Pictures, E, 1-18</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>Galley Proofs for <emph render="italic">Nashville: The Faces of Two Centuries</emph> are in Box 89 of John Egerton Papers (MSS 128)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Southern Festival Of Books---Correspondence, Incoming---Alexander-Woodward</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Southern Festival of Books---Correspondence Outgoing</unittitle>
-<unitdate>August 3, 1986-April 4, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Southern Festival of Books, 1989---Planning Materials</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Southern Festival of Books, 1989---Planning Materials</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>Southern Festival of Books---Publicity and Author Biographies</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>Southern Festival of Books, 1989---Reviews</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>Southern Festival of Books, 1990---Correspondence-Incoming---Cheatham-McCash</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>Southern Festival of Books---Planning</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>Avon Williams, Jr. Tribute, 1994---Correspondence-Incoming---Dinkins-Williams</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>Avon Williams, Jr. Tribute, 1994---Correspondence-Outgoing</unittitle>
-<unitdate>June, 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle>Avon Williams, Jr. Tribute, 1994---Research</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>Avon Williams, Jr. Tribute---Tributes for Memorial Service, 1994 and 63<emph render="super">rd</emph> Birthday Celebration</unittitle>
-<unitdate>1984</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>John Maguire Project (Democracy/Race/Culture/), 1998-2001---Correspondence-Incoming---Maguire</unittitle>
-<unitdate>1998-1999</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>John Maguire Project---Correspondence-Incoming---Maguire</unittitle>
-<unitdate>2000</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>John Maguire Project---Correspondence-Incoming---Maguire</unittitle>
-<unitdate>2001</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle>John Maguire Project---Correspondence-Outgoing</unittitle>
-<unitdate>June 2, 1999-November 20, 2001</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle>John Maguire Project---Participants</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---English</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Spanish</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Tagalog</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Vietnamese</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Chinese</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Korean</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Freelance Articles, 1966-2006 (A note attached to these papers states that most freelance articles from the 1990s on are on floppy discs.)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Alice Lloyd-The College That Can&#8217;t Be</unittitle>
-<unitdate>(1966)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>About Will Campbell; Little Rock-Ten years Later</unittitle>
-<unitdate>(1967)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>The Last People Between the Lakes</unittitle>
-<unitdate>(1968)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>A Report on New Educational Enterprises</unittitle>
-<unitdate>(1971)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>Special to <emph render="italic">American Report</emph>, Doctorates</unittitle>
-<unitdate>(1971)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">The Healing of a Nation</emph> by David Loye (Book review); An Overview of Governance in Public Black Education with Particular Emphasis on the Public Black Institutions in Florida, South Carolina, North Carolina, Virginia, Alabama and Louisiana</unittitle>
-<unitdate>(1971)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>Model Programs for Cultural Pluralism in Higher Education</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle>Opryland; Columbia, South Carolina-A Southern Center Where There May Still Be Time; Ole Miss</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle>Preliminary Information on Public Higher Education in South Carolina; <emph render="italic">Down to Now</emph> by Pat Walters (Book Review); Black Colleges</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle>Grandparents; Tennessee Politics</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unittitle>What&#8217;s Right with Busing</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unittitle>Alright, Everybody Off the Bus, WLAC Radio Talk</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unittitle>Teachers</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unittitle>The School Desegregation Act of</unittitle>
-<unitdate>1972 (1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unittitle>Desegregation</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">22</container>
-<unittitle>Hayes Mizell, School Board Member; Wey&#8217;s Way; Infant Education</unittitle>
-<unitdate>(1972)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">23</container>
-<unittitle><emph render="italic">Facing the Lions</emph> by Tom Wicker and <emph render="italic">The Last of the Southern Girls</emph> by Willie Morris (Book Reviews); Head Start; Vouchers; CUTE-Cooperative Urban Teacher Education</unittitle>
-<unitdate>(1973)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">24</container>
-<unittitle>Interviews with Dr. Leon Kamin; Farm School; Memorandum to Jean Fairfax; Katallgete; Being a Southerner in the New South</unittitle>
-<unitdate>(1973)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">25</container>
-<unittitle>But Does One Know When to Quit Hustling His Book?; Transforming Trash in Nashville; Mississippi Conversations</unittitle>
-<unitdate>(1973-1974)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">26</container>
-<unittitle>Fisk</unittitle>
-<unitdate>(1974)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">27</container>
-<unittitle><emph render="italic">The Deep South States of America</emph> by Neal R. Pierce (Book Review); This Little Piggie Cried &#8220;Wee! Wee! Wee!&#8221;; South</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">28</container>
-<unittitle>Reflections of a (lower-case) humanist; Cities (Nashville); Southern Governmental Monitoring Project; The Fund for the Improvement of Postsecondary Education (Report)</unittitle>
-<unitdate>(1974)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>Ending Discrimination in Higher Education: A Report from Ten States</unittitle>
-<unitdate>(1974)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>Hello, Boston, This Is Little Rock Calling; The Man Who Cried Impeachment First; Minority Policemen: How Many Are There?</unittitle>
-<unitdate>(1974)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>Can Separate Be Equal?; The View from the Hills</unittitle>
-<unitdate>(1974-1975)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>My Turn; Address to the Queens College Book and Author Luncheon</unittitle>
-<unitdate>(1975)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Equality of Access to postsecondary Education</unittitle>
-<unitdate>(1975)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>The Word Crisis; Psychology-Dartmouth</unittitle>
-<unitdate>(1975)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Education by Crisis; Looking for Jimmy; Back to Basics</unittitle>
-<unitdate>(1976)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>Patty Hearst; Inequality; Teachers; Pride</unittitle>
-<unitdate>(1976)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>John Buffington; Carter and the Southern Issue; Final Tribute to the Good Ole Boys</unittitle>
-<unitdate>(1976)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>Minorities and the Media; Land-Use Planning in North Nashville; Sue Alston; Tip Top Inn</unittitle>
-<unitdate>(1976)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>South Can Preserve Its Heritage By Balancing Growth; Merger of Black, White Universities Ordered in Nashville; New Dissension Flares in Tennessee System; Head Elementary School Has All the Ingredients</unittitle>
-<unitdate>(1977)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>Humanities; <emph render="italic">A Chance to Learn</emph> by Meyer Weinberg (Book Review)</unittitle>
-<unitdate>(1977)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>Reflections on Utopianism; Speech at Virginia Tech; Ruth Harriet Jacobs</unittitle>
-<unitdate>(1977)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>The Changing Agenda of Higher Education; Speech to Trident 2000, Charleston; Speech to Charlotte Historic Properties Commission</unittitle>
-<unitdate>(1977)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">15</container>
-<unittitle>Apples; New South; Carter Country; Squatters&#8217; Rights; Starting Over</unittitle>
-<unitdate>(1977)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">16</container>
-<unittitle>The Seeds of Racial Justice (A review of <emph render="italic">In Search of the Silent South</emph> by Morton Sosna</unittitle>
-<unitdate>(1978)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">17</container>
-<unittitle>Days of Heroism and Shame (A review of <emph render="italic">My Soul Is Rested</emph> by Howell Raines; A Pervasive Acceptance of Segregation; The Issues Medical Schools Have Ignored</unittitle>
-<unitdate>(1978)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">18</container>
-<unittitle>A One-Year Hitch in the Professoriate; After A Year of Teaching At VPI, A Writer Calls It Quits</unittitle>
-<unitdate>(1978)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">19</container>
-<unittitle><emph render="italic">The Winner Names the Age</emph> by Lillian Smith (Book Review); Koinonia Housing; Libraries</unittitle>
-<unitdate>(1978)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">20</container>
-<unittitle>Moving; Shaggy-dog Stories; <emph render="italic">Watermelon Wine: the Spirit of Country Music</emph> by Faye Gaillard (Book Review)</unittitle>
-<unitdate>(1978)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">21</container>
-<unittitle>The Albatross Lives; Letters from Rhodesia</unittitle>
-<unitdate>(1978)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">22</container>
-<unittitle>A Gentlemen&#8217;s Fight; Going Back Would Be Unthinkable</unittitle>
-<unitdate>(1979)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">23</container>
-<unittitle>Fantasy; <emph render="italic">The Second Coming</emph> by Walker Percy (Book Review); <emph render="italic">American Dreams: Lost and</emph> Found by Studs Terkel (Book Review)</unittitle>
-<unitdate>(1980)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">24</container>
-<unittitle>A Pilgrim&#8217;s Progress (Speech at Rugby, Tennessee (October 5, 1980 and October 5, 2005); Addie Ledford</unittitle>
-<unitdate>(1980)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">25</container>
-<unittitle>Words as an Endangered Species; Metro School Tax</unittitle>
-<unitdate>(1981)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">26</container>
-<unittitle>The Match, And How to Make It</unittitle>
-<unitdate>(1981)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">27</container>
-<unittitle>Gene Graham; Policy Comes Home; New Harmony; Wordsmiths</unittitle>
-<unitdate>(1982)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">28</container>
-<unittitle>Can We Save the Schools?; Pack Up Your Troubles; The Lost Art of Listening; My Son, On the Right Track; A Lock of Ages Opens to a Book Called <emph render="italic">Generations</emph></unittitle>
-<unitdate>(1982)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">29</container>
-<unittitle>Book Reviews---<emph render="italic">There Is a River</emph> by Vincent Harding; <emph render="italic">Hearts and Minds</emph> by Harry S. Ashmore; <emph render="italic">The Glad River</emph> by Will Campbell</unittitle>
-<unitdate>(1983)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">30</container>
-<unittitle>The Push Is On; Country Ham and Beaten Biscuits; Julius Wayland; Nashoba Experiment</unittitle>
-<unitdate>(1983)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Eighty Years of Respect for Berea; An Interview with John Egerton; &#8220;Progress&#8221; Is Wonderful Only If You Can Afford It</unittitle>
-<unitdate>(1984)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Olympics &#8220;Big Show&#8221; A Spectacle Not To Be Missed; Capital Punishment a Legal Killing Which Has No Place in Our Society</unittitle>
-<unitdate>(1984)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>Appalachia: The Politics of History; I Am What I Am; Barbecue</unittitle>
-<unitdate>(1984)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Southern Voices, Old and New; Will the Earth Endure?; Morrissey Photographs</unittitle>
-<unitdate>(1984)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>Book Reviews---<emph render="italic">Southern Progressivism: The Reconciliation of Progress and Tradition</emph> by Dewey W. Grantham; <emph render="italic">The Good War</emph> by Studs Terkel; <emph render="italic">Tell About the South: The Southern Rage to Explain</emph> by Fred Hobson; <emph render="italic">The Kidwells: A Family Odyssey</emph> by Dwayne E. Walls</unittitle>
-<unitdate>(1984)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>Speaking of History; A Determined Wordsmith; The Bottom Line; The Second Coming of Watson Brown</unittitle>
-<unitdate>(1985)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">Gone with the Ivy: A Biography of Vanderbilt University</emph> by Paul Conkin (Book Review)</unittitle>
-<unitdate>(1985)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>Daniel Kimmis; Wentworth Caldwell; The Greeks: Coming in Through the Kitchen; A Writer Turns to Farming</unittitle>
-<unitdate>(1986)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>Kate Jackson; Bobbie Ann Mason</unittitle>
-<unitdate>(1986)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>Book Reviews---<emph render="italic">Forty Acres and a Goat</emph> by Will Campbell; <emph render="italic">Looking for Hogeye</emph> by Roy Reed; <emph render="italic">Vera Cruz</emph> by Rosalind Wright; <emph render="italic">Myth, Media, and the Southern Mind</emph> by Stephen A Smith</unittitle>
-<unitdate>(1986)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>Pilgrim&#8217;s Progress: The Travels of Duncan Hines; A Latter-day Immigrant in America; Looking Back: From Miami to Milwaukee</unittitle>
-<unitdate>(1986)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">12</container>
-<unittitle>Possum on Terrace (John Popham)</unittitle>
-<unitdate>(1987)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">13</container>
-<unittitle>Weems Book: The Land, The People, The Homeplace, The Workplace</unittitle>
-<unitdate>(1987)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">14</container>
-<unittitle>Book Collecting; John Egerton on Writing; <emph render="italic">A Past Remembered: A Collection of Antebellum</emph> Homes in Davidson County by Paul Clements (Book Review)</unittitle>
-<unitdate>(1987)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">15</container>
-<unittitle>The Klan Basher; When &#8220;Reason&#8221; Reigned in Kansas; Women, Food, and Southern Culture; Politics and Food</unittitle>
-<unitdate>(1988)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">16</container>
-<unittitle>Robert Allen; <emph render="italic">The Lost First Edition of Upton Sinclair&#8217;s &#8216;The Jungle&#8217;</emph>, Edited with an Introduction by Gene DeGruson</unittitle>
-<unitdate>(1988)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">17</container>
-<unittitle>New Southern Cookbooks Owe Much to Dull, Brown; About Men and Cooking; Kentucky Book Fair</unittitle>
-<unitdate>(1988)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Files 18 through 25 are Food Articles for &#8220;Southern Food&#8221;</unittitle>
-<unitdate>October, 1988 to December, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">18</container>
-<unitdate>October 2, 1988-November 6, 1988</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">19</container>
-<unitdate>November 13, 1988-December 25, 1988</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">20</container>
-<unitdate>January 1, 1989-February 26, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">21</container>
-<unitdate>March 5, 1989-April 30, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">22</container>
-<unitdate>May 7, 1989-June 25, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">23</container>
-<unitdate>July 2, 1989-August 27, 2989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">24</container>
-<unitdate>September 1, 1989-October 29, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">25</container>
-<unitdate>November 5, 1989-December 31, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">26</container>
-<unittitle>Commanding Presence; The South&#8217;s Last Stand; Myles Horton</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">27</container>
-<unittitle>Book Reviews---<emph render="italic">Covenant</emph> by Al Clayton; <emph render="italic">The Encyclopedia of Southern</emph> Culture, Edited by William Ferris and Charles Wilson; American Years by Harold Sinclair</unittitle>
-<unitdate>(1989)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">28</container>
-<unittitle>Book Reviews---<emph render="italic">The Dream Long Deferred</emph> by Faye Galliard; <emph render="italic">The Rest of the Dream</emph> by Wade Hall; <emph render="italic">A Turn in the South</emph> by V.S. Naipul</unittitle>
-<unitdate>(1989)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">29</container>
-<unittitle>Roots of Southern Food; Call It a Southern Revival; Barbecue; A Nashville Memory; Blue Plate Heaven; Deja Vu All Over Again</unittitle>
-<unitdate>(1990)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">1</container>
-<unittitle>Book Reviews: <emph render="italic">A Foxfire Christmas: Appalachian Memories and Traditions</emph>, Editor-Eliot Wigginton; <emph render="italic">The Secret Diary of Mikhail Gorbachev</emph> by Faye Galliard; <emph render="italic">Delta Time: A Journey Through Mississippi</emph> by Tony Dunbar</unittitle>
-<unitdate>(1990)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">2</container>
-<unittitle>Book Reviews: <emph render="italic">Spring Hill, Tennessee</emph> by Tom T. Hall; <emph render="italic">The Long Haul</emph> by Myles Horton, with Judith and Herbert Kohl</unittitle>
-<unitdate>(1990)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">3</container>
-<unittitle>Dixie Diner; Merchants; Old Restaurants</unittitle>
-<unitdate>(1990)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">The Promised Land</emph> by Nicholas Lemann (Book Review); Aloha, Y&#8217;all!; People&#8217;s Houses; The Pre-Brown South; Highlander in the Thirties</unittitle>
-<unitdate>(1991-1994)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">Generations</emph> by Richard Fielder, a Script Based on John Egerton&#8217;s Book, Generations</unittitle>
-<unitdate>(1992)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">6</container>
-<unittitle>Striving for Equilibrium; In Pursuit of the Perfect Fried Chicken; The Immortality of Fried Chicken</unittitle>
-<unitdate>(1992-1995)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">Redeye: A Western</emph> by Clyde Egerton (Book Review); The South As An American Problem; James Still: In His World; Bob Sykes Barbecue</unittitle>
-<unitdate>(1994-1996)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">8</container>
-<unittitle>A Southern Sense of Place; Promises, Promises; <emph render="italic">Volunteer Forty-Niners: Tennesseans and the</emph> California Gold Rush by Walter Durham (Book Review)</unittitle>
-<unitdate>(1997)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">9</container>
-<unittitle>Unfinished Business; <emph render="italic">Kentucky: A Guide to the Bluegrass State-</emph> Compiled and Written by the Federal Writers&#8217; Project of the Works Program Administration for the State of Kentucky, 1939 (Book Review)</unittitle>
-<unitdate>(1997)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">10</container>
-<unittitle>His Own Drummer; Notes from the Hot Bread Zone; The Gravity of Segregation</unittitle>
-<unitdate>(2000-2004)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">11</container>
-<unittitle>The People vs. George Bush; The Endurance of Southern Food; Writer of the South (2 copies)</unittitle>
-<unitdate>(2000-2004)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">12</container>
-<unittitle>The Literary Patriot (2 copies); As God Is My Witness, I&#8217;ll Never Go Hungry Again</unittitle>
-<unitdate>(2006-2007)</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Egerton, John Papers, Addition</titleproper>
+        <titleproper>Finding Aid for the John Egerton Papers, Addition</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2014</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>John Egerton Papers, Addition</unittitle>
+      <unitid>MSS.0695</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.01 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>John Edgerton was born in Atlanta, Georgia, June 14, 1935, the son of William G. Egerton, a traveling salesman, and his wife, Rebecca White Egerton. The family soon settled in Cadiz, Kentucky, where John Egerton remained until leaving to attend
+        Western Kentucky University, 1953-1954. From 1954 until 1956, he served in the United States Army. He earned a B.A. at the University of Kentucky in 1958 and an M.A. in 1960. In 1957 he married Ann Elizabeth Bleidt, the couple have two sons.</p>
+      <p>Between 1958 and 1960, Egerton was with the Public Relations Department of the University of Kentucky, and from 1960 to 1965, he was the Director of Public Information for the University of South Florida. He was a staff writer for
+        <emph render="italic">Southern Education Report</emph>, 1965-1969, and for
+        <emph render="italic">Race Relations Reporter</emph>, 1969-1971.</p>
+      <p>In 1971, Egerton began his career as a free-lance reporter. He was a contributing editor for
+        <emph render="italic">Saturday Review of Education</emph>
+        (1972-1973),
+        <emph render="italic">Race Relations Reporter</emph>
+        (1973-1974), and
+        <emph render="italic">Southern Voices</emph>
+        (1974-1975). From 1973-1975, he was a writer for Atlanta&#8217;s Southern Regional Council. In 1977-1978, he was journalist-in-residence at Virginia Polytechnic Institute and State University. Egerton has written or edited eleven non-fiction books
+        and contributed over two hundred articles to periodicals. He has also been a participant in and writer for many projects or conferences dealing with desegregation and civil rights.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>Most of this addition to John Egerton Papers (MSS128) consists of freelance articles Egerton wrote between 1966 and 2006. There are also additional materials relating to his books:
+        <emph render="italic">A Mind to Stay Here</emph>
+        (1970);
+        <emph render="italic">The Americanization of Dixie</emph>
+        (1973); and
+        <emph render="italic">Nashville: The Faces of Two Centuries</emph>
+        (1979). Other materials include speeches, book reviews, and planning for Nashville&#8217;s first Southern Festival of Books.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="subseries">
+        <did>
+          <unittitle>A Mind to Stay Here</unittitle>
+          <unitdate>(1970)</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Research Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Publication Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, Incoming, A-C</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, Incoming, D-W</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, Outgoing</unittitle>
+            <unitdate>1969-1973</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Contract and Royalty Statements</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Reviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Reviews</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="subseries">
+        <did>
+          <unittitle>The Americanization of Dixie</unittitle>
+          <unitdate>(1973)</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Pages 1-35</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Pages 36-61</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Pages 62-83</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Pages 84-111</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Pages 112-135</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Pages 136-158</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Pages 159-179</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Pages 180-216</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Pages 217-226</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="subseries">
+        <did>
+          <unittitle>Nashville: The Faces of Two Centuries</unittitle>
+          <unitdate>(1979)</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Foreword Material</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>A, 1-27</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>B, 1-35</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>C, 1-32</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>D, 1-27A</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>D, Warren, 1-3724. E, 1-41</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle>Word Pictures, A, 1-38</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle>Word Pictures, B, 1-32</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle>Word Pictures, C, 1-23</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle>Word Pictures, D, 1-27</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle>Word Pictures, E, 1-18</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <unittitle>Galley Proofs for
+            <emph render="italic">Nashville: The Faces of Two Centuries</emph>
+            are in Box 89 of John Egerton Papers (MSS 128)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle>Southern Festival Of Books---Correspondence, Incoming---Alexander-Woodward</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>Southern Festival of Books---Correspondence Outgoing</unittitle>
+          <unitdate>August 3, 1986-April 4, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>Southern Festival of Books, 1989---Planning Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>Southern Festival of Books, 1989---Planning Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">10</container>
+          <unittitle>Southern Festival of Books---Publicity and Author Biographies</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">11</container>
+          <unittitle>Southern Festival of Books, 1989---Reviews</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">12</container>
+          <unittitle>Southern Festival of Books, 1990---Correspondence-Incoming---Cheatham-McCash</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13</container>
+          <unittitle>Southern Festival of Books---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">14</container>
+          <unittitle>Avon Williams, Jr. Tribute, 1994---Correspondence-Incoming---Dinkins-Williams</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">15</container>
+          <unittitle>Avon Williams, Jr. Tribute, 1994---Correspondence-Outgoing</unittitle>
+          <unitdate>June, 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">16</container>
+          <unittitle>Avon Williams, Jr. Tribute, 1994---Research</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">17</container>
+          <unittitle>Avon Williams, Jr. Tribute---Tributes for Memorial Service, 1994 and 63<emph render="super">rd</emph>
+            Birthday Celebration</unittitle>
+          <unitdate>1984</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">18</container>
+          <unittitle>John Maguire Project (Democracy/Race/Culture/), 1998-2001---Correspondence-Incoming---Maguire</unittitle>
+          <unitdate>1998-1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">19</container>
+          <unittitle>John Maguire Project---Correspondence-Incoming---Maguire</unittitle>
+          <unitdate>2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">20</container>
+          <unittitle>John Maguire Project---Correspondence-Incoming---Maguire</unittitle>
+          <unitdate>2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">21</container>
+          <unittitle>John Maguire Project---Correspondence-Outgoing</unittitle>
+          <unitdate>June 2, 1999-November 20, 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">22</container>
+          <unittitle>John Maguire Project---Participants</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1</container>
+          <unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---English</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">2</container>
+          <unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Spanish</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Tagalog</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Vietnamese</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Chinese</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>John Maguire Project---Publications---<emph render="italic">Tool Kit</emph>---Korean</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <unittitle>Freelance Articles, 1966-2006 (A note attached to these papers states that most freelance articles from the 1990s on are on floppy discs.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">7</container>
+          <unittitle>Alice Lloyd-The College That Can&#8217;t Be</unittitle>
+          <unitdate>(1966)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">8</container>
+          <unittitle>About Will Campbell; Little Rock-Ten years Later</unittitle>
+          <unitdate>(1967)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">9</container>
+          <unittitle>The Last People Between the Lakes</unittitle>
+          <unitdate>(1968)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">10</container>
+          <unittitle>A Report on New Educational Enterprises</unittitle>
+          <unitdate>(1971)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">11</container>
+          <unittitle>Special to
+            <emph render="italic">American Report</emph>, Doctorates</unittitle>
+          <unitdate>(1971)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">12</container>
+          <unittitle>
+            <emph render="italic">The Healing of a Nation</emph>
+            by David Loye (Book review); An Overview of Governance in Public Black Education with Particular Emphasis on the Public Black Institutions in Florida, South Carolina, North Carolina, Virginia, Alabama and Louisiana</unittitle>
+          <unitdate>(1971)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">13</container>
+          <unittitle>Model Programs for Cultural Pluralism in Higher Education</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">14</container>
+          <unittitle>Opryland; Columbia, South Carolina-A Southern Center Where There May Still Be Time; Ole Miss</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">15</container>
+          <unittitle>Preliminary Information on Public Higher Education in South Carolina;
+            <emph render="italic">Down to Now</emph>
+            by Pat Walters (Book Review); Black Colleges</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">16</container>
+          <unittitle>Grandparents; Tennessee Politics</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">17</container>
+          <unittitle>What&#8217;s Right with Busing</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">18</container>
+          <unittitle>Alright, Everybody Off the Bus, WLAC Radio Talk</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">19</container>
+          <unittitle>Teachers</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">20</container>
+          <unittitle>The School Desegregation Act of</unittitle>
+          <unitdate>1972 (1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">21</container>
+          <unittitle>Desegregation</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">22</container>
+          <unittitle>Hayes Mizell, School Board Member; Wey&#8217;s Way; Infant Education</unittitle>
+          <unitdate>(1972)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">23</container>
+          <unittitle>
+            <emph render="italic">Facing the Lions</emph>
+            by Tom Wicker and
+            <emph render="italic">The Last of the Southern Girls</emph>
+            by Willie Morris (Book Reviews); Head Start; Vouchers; CUTE-Cooperative Urban Teacher Education</unittitle>
+          <unitdate>(1973)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">24</container>
+          <unittitle>Interviews with Dr. Leon Kamin; Farm School; Memorandum to Jean Fairfax; Katallgete; Being a Southerner in the New South</unittitle>
+          <unitdate>(1973)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">25</container>
+          <unittitle>But Does One Know When to Quit Hustling His Book?; Transforming Trash in Nashville; Mississippi Conversations</unittitle>
+          <unitdate>(1973-1974)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">26</container>
+          <unittitle>Fisk</unittitle>
+          <unitdate>(1974)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">27</container>
+          <unittitle>
+            <emph render="italic">The Deep South States of America</emph>
+            by Neal R. Pierce (Book Review); This Little Piggie Cried &#8220;Wee! Wee! Wee!&#8221;; South</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">28</container>
+          <unittitle>Reflections of a (lower-case) humanist; Cities (Nashville); Southern Governmental Monitoring Project; The Fund for the Improvement of Postsecondary Education (Report)</unittitle>
+          <unitdate>(1974)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle>Ending Discrimination in Higher Education: A Report from Ten States</unittitle>
+          <unitdate>(1974)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">2</container>
+          <unittitle>Hello, Boston, This Is Little Rock Calling; The Man Who Cried Impeachment First; Minority Policemen: How Many Are There?</unittitle>
+          <unitdate>(1974)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">3</container>
+          <unittitle>Can Separate Be Equal?; The View from the Hills</unittitle>
+          <unitdate>(1974-1975)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">4</container>
+          <unittitle>My Turn; Address to the Queens College Book and Author Luncheon</unittitle>
+          <unitdate>(1975)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">5</container>
+          <unittitle>Equality of Access to postsecondary Education</unittitle>
+          <unitdate>(1975)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">6</container>
+          <unittitle>The Word Crisis; Psychology-Dartmouth</unittitle>
+          <unitdate>(1975)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">7</container>
+          <unittitle>Education by Crisis; Looking for Jimmy; Back to Basics</unittitle>
+          <unitdate>(1976)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">8</container>
+          <unittitle>Patty Hearst; Inequality; Teachers; Pride</unittitle>
+          <unitdate>(1976)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">9</container>
+          <unittitle>John Buffington; Carter and the Southern Issue; Final Tribute to the Good Ole Boys</unittitle>
+          <unitdate>(1976)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">10</container>
+          <unittitle>Minorities and the Media; Land-Use Planning in North Nashville; Sue Alston; Tip Top Inn</unittitle>
+          <unitdate>(1976)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">11</container>
+          <unittitle>South Can Preserve Its Heritage By Balancing Growth; Merger of Black, White Universities Ordered in Nashville; New Dissension Flares in Tennessee System; Head Elementary School Has All the Ingredients</unittitle>
+          <unitdate>(1977)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">12</container>
+          <unittitle>Humanities;
+            <emph render="italic">A Chance to Learn</emph>
+            by Meyer Weinberg (Book Review)</unittitle>
+          <unitdate>(1977)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">13</container>
+          <unittitle>Reflections on Utopianism; Speech at Virginia Tech; Ruth Harriet Jacobs</unittitle>
+          <unitdate>(1977)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">14</container>
+          <unittitle>The Changing Agenda of Higher Education; Speech to Trident 2000, Charleston; Speech to Charlotte Historic Properties Commission</unittitle>
+          <unitdate>(1977)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">15</container>
+          <unittitle>Apples; New South; Carter Country; Squatters&#8217; Rights; Starting Over</unittitle>
+          <unitdate>(1977)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">16</container>
+          <unittitle>The Seeds of Racial Justice (A review of
+            <emph render="italic">In Search of the Silent South</emph>
+            by Morton Sosna</unittitle>
+          <unitdate>(1978)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">17</container>
+          <unittitle>Days of Heroism and Shame (A review of
+            <emph render="italic">My Soul Is Rested</emph>
+            by Howell Raines; A Pervasive Acceptance of Segregation; The Issues Medical Schools Have Ignored</unittitle>
+          <unitdate>(1978)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">18</container>
+          <unittitle>A One-Year Hitch in the Professoriate; After A Year of Teaching At VPI, A Writer Calls It Quits</unittitle>
+          <unitdate>(1978)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">19</container>
+          <unittitle>
+            <emph render="italic">The Winner Names the Age</emph>
+            by Lillian Smith (Book Review); Koinonia Housing; Libraries</unittitle>
+          <unitdate>(1978)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">20</container>
+          <unittitle>Moving; Shaggy-dog Stories;
+            <emph render="italic">Watermelon Wine: the Spirit of Country Music</emph>
+            by Faye Gaillard (Book Review)</unittitle>
+          <unitdate>(1978)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">21</container>
+          <unittitle>The Albatross Lives; Letters from Rhodesia</unittitle>
+          <unitdate>(1978)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">22</container>
+          <unittitle>A Gentlemen&#8217;s Fight; Going Back Would Be Unthinkable</unittitle>
+          <unitdate>(1979)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">23</container>
+          <unittitle>Fantasy;
+            <emph render="italic">The Second Coming</emph>
+            by Walker Percy (Book Review);
+            <emph render="italic">American Dreams: Lost and</emph>
+            Found by Studs Terkel (Book Review)</unittitle>
+          <unitdate>(1980)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">24</container>
+          <unittitle>A Pilgrim&#8217;s Progress (Speech at Rugby, Tennessee (October 5, 1980 and October 5, 2005); Addie Ledford</unittitle>
+          <unitdate>(1980)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">25</container>
+          <unittitle>Words as an Endangered Species; Metro School Tax</unittitle>
+          <unitdate>(1981)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">26</container>
+          <unittitle>The Match, And How to Make It</unittitle>
+          <unitdate>(1981)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">27</container>
+          <unittitle>Gene Graham; Policy Comes Home; New Harmony; Wordsmiths</unittitle>
+          <unitdate>(1982)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">28</container>
+          <unittitle>Can We Save the Schools?; Pack Up Your Troubles; The Lost Art of Listening; My Son, On the Right Track; A Lock of Ages Opens to a Book Called
+            <emph render="italic">Generations</emph>
+          </unittitle>
+          <unitdate>(1982)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">29</container>
+          <unittitle>Book Reviews---<emph render="italic">There Is a River</emph>
+            by Vincent Harding;
+            <emph render="italic">Hearts and Minds</emph>
+            by Harry S. Ashmore;
+            <emph render="italic">The Glad River</emph>
+            by Will Campbell</unittitle>
+          <unitdate>(1983)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">30</container>
+          <unittitle>The Push Is On; Country Ham and Beaten Biscuits; Julius Wayland; Nashoba Experiment</unittitle>
+          <unitdate>(1983)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>Eighty Years of Respect for Berea; An Interview with John Egerton; &#8220;Progress&#8221; Is Wonderful Only If You Can Afford It</unittitle>
+          <unitdate>(1984)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2</container>
+          <unittitle>Olympics &#8220;Big Show&#8221; A Spectacle Not To Be Missed; Capital Punishment a Legal Killing Which Has No Place in Our Society</unittitle>
+          <unitdate>(1984)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">3</container>
+          <unittitle>Appalachia: The Politics of History; I Am What I Am; Barbecue</unittitle>
+          <unitdate>(1984)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">4</container>
+          <unittitle>Southern Voices, Old and New; Will the Earth Endure?; Morrissey Photographs</unittitle>
+          <unitdate>(1984)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">5</container>
+          <unittitle>Book Reviews---<emph render="italic">Southern Progressivism: The Reconciliation of Progress and Tradition</emph>
+            by Dewey W. Grantham;
+            <emph render="italic">The Good War</emph>
+            by Studs Terkel;
+            <emph render="italic">Tell About the South: The Southern Rage to Explain</emph>
+            by Fred Hobson;
+            <emph render="italic">The Kidwells: A Family Odyssey</emph>
+            by Dwayne E. Walls</unittitle>
+          <unitdate>(1984)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">6</container>
+          <unittitle>Speaking of History; A Determined Wordsmith; The Bottom Line; The Second Coming of Watson Brown</unittitle>
+          <unitdate>(1985)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">7</container>
+          <unittitle>
+            <emph render="italic">Gone with the Ivy: A Biography of Vanderbilt University</emph>
+            by Paul Conkin (Book Review)</unittitle>
+          <unitdate>(1985)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">8</container>
+          <unittitle>Daniel Kimmis; Wentworth Caldwell; The Greeks: Coming in Through the Kitchen; A Writer Turns to Farming</unittitle>
+          <unitdate>(1986)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">9</container>
+          <unittitle>Kate Jackson; Bobbie Ann Mason</unittitle>
+          <unitdate>(1986)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">10</container>
+          <unittitle>Book Reviews---<emph render="italic">Forty Acres and a Goat</emph>
+            by Will Campbell;
+            <emph render="italic">Looking for Hogeye</emph>
+            by Roy Reed;
+            <emph render="italic">Vera Cruz</emph>
+            by Rosalind Wright;
+            <emph render="italic">Myth, Media, and the Southern Mind</emph>
+            by Stephen A Smith</unittitle>
+          <unitdate>(1986)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">11</container>
+          <unittitle>Pilgrim&#8217;s Progress: The Travels of Duncan Hines; A Latter-day Immigrant in America; Looking Back: From Miami to Milwaukee</unittitle>
+          <unitdate>(1986)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">12</container>
+          <unittitle>Possum on Terrace (John Popham)</unittitle>
+          <unitdate>(1987)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">13</container>
+          <unittitle>Weems Book: The Land, The People, The Homeplace, The Workplace</unittitle>
+          <unitdate>(1987)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">14</container>
+          <unittitle>Book Collecting; John Egerton on Writing;
+            <emph render="italic">A Past Remembered: A Collection of Antebellum</emph>
+            Homes in Davidson County by Paul Clements (Book Review)</unittitle>
+          <unitdate>(1987)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">15</container>
+          <unittitle>The Klan Basher; When &#8220;Reason&#8221; Reigned in Kansas; Women, Food, and Southern Culture; Politics and Food</unittitle>
+          <unitdate>(1988)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">16</container>
+          <unittitle>Robert Allen;
+            <emph render="italic">The Lost First Edition of Upton Sinclair&#8217;s &#8216;The Jungle&#8217;</emph>, Edited with an Introduction by Gene DeGruson</unittitle>
+          <unitdate>(1988)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">17</container>
+          <unittitle>New Southern Cookbooks Owe Much to Dull, Brown; About Men and Cooking; Kentucky Book Fair</unittitle>
+          <unitdate>(1988)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <unittitle>Files 18 through 25 are Food Articles for &#8220;Southern Food&#8221;</unittitle>
+          <unitdate>October, 1988 to December, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">18</container>
+          <unitdate>October 2, 1988-November 6, 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">19</container>
+          <unitdate>November 13, 1988-December 25, 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">20</container>
+          <unitdate>January 1, 1989-February 26, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">21</container>
+          <unitdate>March 5, 1989-April 30, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">22</container>
+          <unitdate>May 7, 1989-June 25, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">23</container>
+          <unitdate>July 2, 1989-August 27, 2989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">24</container>
+          <unitdate>September 1, 1989-October 29, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">25</container>
+          <unitdate>November 5, 1989-December 31, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">26</container>
+          <unittitle>Commanding Presence; The South&#8217;s Last Stand; Myles Horton</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">27</container>
+          <unittitle>Book Reviews---<emph render="italic">Covenant</emph>
+            by Al Clayton;
+            <emph render="italic">The Encyclopedia of Southern</emph>
+            Culture, Edited by William Ferris and Charles Wilson; American Years by Harold Sinclair</unittitle>
+          <unitdate>(1989)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">28</container>
+          <unittitle>Book Reviews---<emph render="italic">The Dream Long Deferred</emph>
+            by Faye Galliard;
+            <emph render="italic">The Rest of the Dream</emph>
+            by Wade Hall;
+            <emph render="italic">A Turn in the South</emph>
+            by V.S. Naipul</unittitle>
+          <unitdate>(1989)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">29</container>
+          <unittitle>Roots of Southern Food; Call It a Southern Revival; Barbecue; A Nashville Memory; Blue Plate Heaven; Deja Vu All Over Again</unittitle>
+          <unitdate>(1990)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1</container>
+          <unittitle>Book Reviews:
+            <emph render="italic">A Foxfire Christmas: Appalachian Memories and Traditions</emph>, Editor-Eliot Wigginton;
+            <emph render="italic">The Secret Diary of Mikhail Gorbachev</emph>
+            by Faye Galliard;
+            <emph render="italic">Delta Time: A Journey Through Mississippi</emph>
+            by Tony Dunbar</unittitle>
+          <unitdate>(1990)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">2</container>
+          <unittitle>Book Reviews:
+            <emph render="italic">Spring Hill, Tennessee</emph>
+            by Tom T. Hall;
+            <emph render="italic">The Long Haul</emph>
+            by Myles Horton, with Judith and Herbert Kohl</unittitle>
+          <unitdate>(1990)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">3</container>
+          <unittitle>Dixie Diner; Merchants; Old Restaurants</unittitle>
+          <unitdate>(1990)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">4</container>
+          <unittitle>
+            <emph render="italic">The Promised Land</emph>
+            by Nicholas Lemann (Book Review); Aloha, Y&#8217;all!; People&#8217;s Houses; The Pre-Brown South; Highlander in the Thirties</unittitle>
+          <unitdate>(1991-1994)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">5</container>
+          <unittitle>
+            <emph render="italic">Generations</emph>
+            by Richard Fielder, a Script Based on John Egerton&#8217;s Book, Generations</unittitle>
+          <unitdate>(1992)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">6</container>
+          <unittitle>Striving for Equilibrium; In Pursuit of the Perfect Fried Chicken; The Immortality of Fried Chicken</unittitle>
+          <unitdate>(1992-1995)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">7</container>
+          <unittitle>
+            <emph render="italic">Redeye: A Western</emph>
+            by Clyde Egerton (Book Review); The South As An American Problem; James Still: In His World; Bob Sykes Barbecue</unittitle>
+          <unitdate>(1994-1996)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">8</container>
+          <unittitle>A Southern Sense of Place; Promises, Promises;
+            <emph render="italic">Volunteer Forty-Niners: Tennesseans and the</emph>
+            California Gold Rush by Walter Durham (Book Review)</unittitle>
+          <unitdate>(1997)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">9</container>
+          <unittitle>Unfinished Business;
+            <emph render="italic">Kentucky: A Guide to the Bluegrass State-</emph>
+            Compiled and Written by the Federal Writers&#8217; Project of the Works Program Administration for the State of Kentucky, 1939 (Book Review)</unittitle>
+          <unitdate>(1997)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">10</container>
+          <unittitle>His Own Drummer; Notes from the Hot Bread Zone; The Gravity of Segregation</unittitle>
+          <unitdate>(2000-2004)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">11</container>
+          <unittitle>The People vs. George Bush; The Endurance of Southern Food; Writer of the South (2 copies)</unittitle>
+          <unitdate>(2000-2004)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">12</container>
+          <unittitle>The Literary Patriot (2 copies); As God Is My Witness, I&#8217;ll Never Go Hungry Again</unittitle>
+          <unitdate>(2006-2007)</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
