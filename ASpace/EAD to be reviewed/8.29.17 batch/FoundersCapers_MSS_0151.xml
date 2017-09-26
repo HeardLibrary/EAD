@@ -1,1409 +1,1425 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Founder&#8217;s Capers Collection</titleproper>
-<titleproper>Finding Aid for the Founder&#8217;s Capers Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Founder&#8217;s Capers Collection</unittitle>
-<unitid>MSS.0151</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.02 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>The Vanderbilt Faculty Club was a gathering place for faculty and their spouses to socialize and relax. Occasionally groups would gather to perform, one such outlet was this original musical &#8220;Founder&#8217;s Capers.&#8221; This collection specifically contains the sheet music and scripts from their 1961 performance of &#8220;Founder&#8217;s Capers&#8221;. The complete cast was comprised of Vanderbilt professors, family members, and students.</p>
-<p>The Vanderbilt faculty that participated in the performances are:</p>
-<p><emph render="underline">John M. Aden</emph>- Associate Professor of English</p>
-<p><emph render="underline">Samuel F. Babbitt</emph>- Lecturer in English</p>
-<p><emph render="underline">Natalie Babbitt</emph>- Music and Lyrics (Samuel Babbitt&#8217;s wife)</p>
-<p><emph render="underline">Robert A. Baldwin</emph>- Assistant Professor of Drama</p>
-<p><emph render="underline">John Compton</emph>- Associate Professor of Philosophy</p>
-<p><emph render="underline">Dwight L. Freshley</emph>- Associate Professor of Speech</p>
-<p><emph render="underline">Langdon Gilkey</emph>- Professor of Theology and Director of Graduate Studies in the Theological Field</p>
-<p><emph render="underline">James Glasse</emph>- Associate Professor of Practical Theology and Director of Field Work</p>
-<p><emph render="underline">Philip Hallie</emph>- Professor of Philosophy</p>
-<p><emph render="underline">Thomas W. Martin</emph>- Associate Professor of Chemistry</p>
-<p><emph render="underline">Elliott Newman</emph>- Joe and Morris Werthan Professor of Experimental Medicine</p>
-<p><emph render="underline">William Pursell</emph>- Orchestration</p>
-<p><emph render="underline">Lawrence Ratner</emph>- Associate Professor of Mathematics</p>
-<p><emph render="underline">Robbie Shackleford</emph>- Assistant Professor of Mathematics</p>
-<p><emph render="underline">Ronald E. Sleeth</emph>- Professor of Preaching</p>
-<p><emph render="underline">Joseph E. Wright</emph>- Professor of Speech and Drama, Chairman of the Department, and Director of the University Theatre</p>
-<p>There was also a chorus of Faculty wives, students, and anonymous ghost writers that contributed to these performances.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>The collection contains three archival boxes which amount to 1.251 linear feet in addition to one flat box which is 0.083 linear feet. Within each box there are:</p>
-<p>Sheet Music</p>
-<p>Scripts</p>
-<p>One vinyl Founder&#8217;s Capers Record</p>
-<p>Paintings</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Scripts and Program Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Play Script-John Compton&#8217;s Copy of Founder&#8217;s Capers Act</unittitle>
-<unitdate>1961</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Founder&#8217;s Capers CD- Book by Samuel F. Babbitt-Faculty Production</unittitle>
-<unitdate>1962</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Founder&#8217;s Capers Programs- Musical Comedy 3 Acts</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Conductor&#8217;s Copy- Full Score- William Pursell</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="subseries">
-<did>
-<unittitle>1961 Performance- Sheet Music (11 Songs)</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>Sheet Music- Violins</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Sheet Music- Piano</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Sheet Music- Cello</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Sheet Music- Viola</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Sheet Music- Alto</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Sheet Music- Tenor</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Sheet Music- Alto</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Sheet Music- Baritone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Sheet Music- String Bass</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>Sheet Music- Trombone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>Sheet Music- Trumpets</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>Sheet Music- Drums</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Overture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Opportunity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Fall in Love</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>Sheet Music- Violins</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The life of</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>Sheet Music- Drums</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The life of</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>Sheet Music- String Bass</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The life of</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle>Sheet Music- Cello</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>Sheet Music- Flute</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>Sheet Music- Trombone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The life of</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>Sheet Music- Trumpet</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The life of</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>Sheet Music- Piano</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s my Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle>Sheet Music- Viola Orchestra</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s my Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle>Sheet Music- Alto</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The Life of</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle>Sheet Music- Clarinet/Bass Clarinet</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Everyone&#8217;s a Crook at Heart</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Poor Maude</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle>Sheet Music- Saxophone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- My Heart&#8217;s My Own</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The Life of</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle>Sheet Music- Baritone and Oboe</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- The Life of</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Everyone&#8217;s a Crook at Heart</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle>Sheet Music- Violins</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- When Loves Comes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Lullaby</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle>Sheet Music- Viola Orchestra</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- When Loves Comes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Lullaby</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle>Sheet Music- Piano</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- When Loves Comes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Lullaby</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">29</container>
-<unittitle>Sheet Music- Bass</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- When Loves Comes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Lullaby</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unittitle>Sheet Music- Cello</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- When Loves Comes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unittitle>Sheet Music- Piano and Flute</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- When Love Comes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Lullaby</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">32</container>
-<unittitle>Sheet Music- Trumpet and Trombone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">33</container>
-<unittitle>Sheet Music- Drums and Alto</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">34</container>
-<unittitle>Sheet Music- Baritone and Tenor</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- A Statue of Me</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>- Men&#8217;s Sana</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="subseries">
-<did>
-<unittitle>1961 Performance- Sheet Music (8 Songs)</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>Sheet Music- Violins</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Let Me Stay with You</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- I&#8217;d Rather Stay Home</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Alma Mater</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>Sheet Music- Bass/ Bass Clarinet</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Let Me Stay with You</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- I&#8217;d Rather Stay Home</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Alma Mater</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Sheet Music- Viola</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Let me Stay with You</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Alma Mater</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Sheet Music- Clarinet</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Let me stay with You</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Alma Mater</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>Sheet Music- Piano</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- I&#8217;d Rather Stay Home</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Alma Mater</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>Sheet Music- Trumpet and Trombone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- I&#8217;d Rather Stay Home</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Alma Mater</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Sheet Music- Drums and Flutes</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- I&#8217;d Rather Stay Home</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Alma Mater</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>Sheet Music- Alto, Tenor, Baritone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- I&#8217;d Rather Stay Home</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>Sheet Music- Violins</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>Sheet Music- Viola</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>Sheet Music- Trumpet</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle>Sheet Music- Trombone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>Sheet Music- Drums</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle>Sheet Music- Bass</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle>Sheet Music- Alto and Tenor Saxophone</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle>Sheet Music- Flute and Cello</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Fight Song Dirge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unittitle>Sheet Music- Piano and Clarinet</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Anonymous Fight Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Story of my Life</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unittitle>Sheet Music- Violins</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Nothing will Ever be the Same</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- The Life of a Wife of an Egghead</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unittitle>Sheet Music- Clarinet and Bass Clarinet</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Nothing Will Ever be the Same</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unittitle>Sheet Music- Piano and Cello</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Nothing Will Ever be the Same</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unittitle>Sheet Music- Viola and Flute</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Nothing Will Ever be the Same</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">22</container>
-<unittitle>Sheet Music- String Bass, Trumpet, Oboe</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>- Nothing Will Ever be the Same</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="subseries">
-<did>
-<unittitle>Memorabilia</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>Founder&#8217;s Capers Vinyl Record- Original Cast Recording</unittitle>
-<unitdate>1961</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>Set Design #1 (Laboratory Sketch)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>Set Design #2 (Lockers Sketch)</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Founder&#8217;s Capers Collection</titleproper>
+        <titleproper>Finding Aid for the Founder&#8217;s Capers Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Founder&#8217;s Capers Collection</unittitle>
+      <unitid>MSS.0151</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.02 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1961/1962" type="inclusive"></unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>The Vanderbilt Faculty Club was a gathering place for faculty and their spouses to socialize and relax. Occasionally groups would gather to perform, one such outlet was this original musical &#8220;Founder&#8217;s Capers.&#8221; This collection
+        specifically contains the sheet music and scripts from their 1961 performance of &#8220;Founder&#8217;s Capers&#8221;. The complete cast was comprised of Vanderbilt professors, family members, and students.</p>
+      <p>The Vanderbilt faculty that participated in the performances are:</p>
+      <p>
+        <emph render="underline">John M. Aden</emph>- Associate Professor of English</p>
+      <p>
+        <emph render="underline">Samuel F. Babbitt</emph>- Lecturer in English</p>
+      <p>
+        <emph render="underline">Natalie Babbitt</emph>- Music and Lyrics (Samuel Babbitt&#8217;s wife)</p>
+      <p>
+        <emph render="underline">Robert A. Baldwin</emph>- Assistant Professor of Drama</p>
+      <p>
+        <emph render="underline">John Compton</emph>- Associate Professor of Philosophy</p>
+      <p>
+        <emph render="underline">Dwight L. Freshley</emph>- Associate Professor of Speech</p>
+      <p>
+        <emph render="underline">Langdon Gilkey</emph>- Professor of Theology and Director of Graduate Studies in the Theological Field</p>
+      <p>
+        <emph render="underline">James Glasse</emph>- Associate Professor of Practical Theology and Director of Field Work</p>
+      <p>
+        <emph render="underline">Philip Hallie</emph>- Professor of Philosophy</p>
+      <p>
+        <emph render="underline">Thomas W. Martin</emph>- Associate Professor of Chemistry</p>
+      <p>
+        <emph render="underline">Elliott Newman</emph>- Joe and Morris Werthan Professor of Experimental Medicine</p>
+      <p>
+        <emph render="underline">William Pursell</emph>- Orchestration</p>
+      <p>
+        <emph render="underline">Lawrence Ratner</emph>- Associate Professor of Mathematics</p>
+      <p>
+        <emph render="underline">Robbie Shackleford</emph>- Assistant Professor of Mathematics</p>
+      <p>
+        <emph render="underline">Ronald E. Sleeth</emph>- Professor of Preaching</p>
+      <p>
+        <emph render="underline">Joseph E. Wright</emph>- Professor of Speech and Drama, Chairman of the Department, and Director of the University Theatre</p>
+      <p>There was also a chorus of Faculty wives, students, and anonymous ghost writers that contributed to these performances.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The collection contains three archival boxes which amount to 1.251 linear feet in addition to one flat box which is 0.083 linear feet. Within each box there are:</p>
+      <p>Sheet Music</p>
+      <p>Scripts</p>
+      <p>One vinyl Founder&#8217;s Capers Record</p>
+      <p>Paintings</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Scripts and Program Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Play Script-John Compton&#8217;s Copy of Founder&#8217;s Capers Act</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Founder&#8217;s Capers CD- Book by Samuel F. Babbitt-Faculty Production</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Founder&#8217;s Capers Programs- Musical Comedy 3 Acts</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Conductor&#8217;s Copy- Full Score- William Pursell</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="subseries">
+        <did>
+          <unittitle>1961 Performance- Sheet Music (11 Songs)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Sheet Music- Violins</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Sheet Music- Piano</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Sheet Music- Cello</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Sheet Music- Viola</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Sheet Music- Alto</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Sheet Music- Tenor</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Sheet Music- Alto</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Sheet Music- Baritone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Sheet Music- String Bass</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Sheet Music- Trombone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Sheet Music- Trumpets</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Sheet Music- Drums</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Overture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Opportunity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Fall in Love</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Sheet Music- Violins</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The life of</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Sheet Music- Drums</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The life of</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Sheet Music- String Bass</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The life of</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Sheet Music- Cello</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Sheet Music- Flute</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Everybody&#8217;s a Crook at Heart</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Sheet Music- Trombone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The life of</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Sheet Music- Trumpet</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The life of</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Sheet Music- Piano</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s my Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>Sheet Music- Viola Orchestra</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s my Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>Sheet Music- Alto</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The Life of</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>Sheet Music- Clarinet/Bass Clarinet</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Everyone&#8217;s a Crook at Heart</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Poor Maude</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>Sheet Music- Saxophone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- My Heart&#8217;s My Own</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The Life of</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>Sheet Music- Baritone and Oboe</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- The Life of</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Everyone&#8217;s a Crook at Heart</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>Sheet Music- Violins</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- When Loves Comes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Lullaby</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>Sheet Music- Viola Orchestra</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- When Loves Comes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Lullaby</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>Sheet Music- Piano</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- When Loves Comes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Lullaby</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>Sheet Music- Bass</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- When Loves Comes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Lullaby</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>Sheet Music- Cello</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- When Loves Comes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>Sheet Music- Piano and Flute</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- When Love Comes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Lullaby</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unittitle>Sheet Music- Trumpet and Trombone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unittitle>Sheet Music- Drums and Alto</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unittitle>Sheet Music- Baritone and Tenor</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- A Statue of Me</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>- Men&#8217;s Sana</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="subseries">
+        <did>
+          <unittitle>1961 Performance- Sheet Music (8 Songs)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Sheet Music- Violins</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Let Me Stay with You</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- I&#8217;d Rather Stay Home</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Alma Mater</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Sheet Music- Bass/ Bass Clarinet</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Let Me Stay with You</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- I&#8217;d Rather Stay Home</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Alma Mater</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Sheet Music- Viola</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Let me Stay with You</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Alma Mater</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Sheet Music- Clarinet</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Let me stay with You</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Alma Mater</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Sheet Music- Piano</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- I&#8217;d Rather Stay Home</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Alma Mater</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Sheet Music- Trumpet and Trombone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- I&#8217;d Rather Stay Home</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Alma Mater</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Sheet Music- Drums and Flutes</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- I&#8217;d Rather Stay Home</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Alma Mater</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Sheet Music- Alto, Tenor, Baritone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- I&#8217;d Rather Stay Home</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Sheet Music- Violins</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Sheet Music- Viola</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Sheet Music- Trumpet</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Sheet Music- Trombone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>Sheet Music- Drums</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>Sheet Music- Bass</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Sheet Music- Alto and Tenor Saxophone</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>Sheet Music- Flute and Cello</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Fight Song Dirge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>Sheet Music- Piano and Clarinet</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Anonymous Fight Song</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Story of my Life</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>Sheet Music- Violins</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Nothing will Ever be the Same</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- The Life of a Wife of an Egghead</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Sheet Music- Clarinet and Bass Clarinet</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Nothing Will Ever be the Same</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>Sheet Music- Piano and Cello</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Nothing Will Ever be the Same</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>Sheet Music- Viola and Flute</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Nothing Will Ever be the Same</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>Sheet Music- String Bass, Trumpet, Oboe</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>- Nothing Will Ever be the Same</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="subseries">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Founder&#8217;s Capers Vinyl Record- Original Cast Recording</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Set Design #1 (Laboratory Sketch)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Set Design #2 (Lockers Sketch)</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
