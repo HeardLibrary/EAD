@@ -1,187 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Inge, William Collection</titleproper>
-<titleproper>Finding Aid for the William Inge Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>The William Inge Collection</unittitle>
-<unitid>MSS.0623</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>William Motter Inge was born May 3, 1913 in Independence, Kansas. During the 1920s, Independence was a wealthy and thriving town with many cultural events. Inge&#8217;s family was not wealthy, but he got to see many performances with his Boy Scout troop after meetings. This sort of small town life influenced his works which often focused on characters from small towns.</p>
-<p>Inge graduated from University of Kansas at Lawrence with a Bachelor of Arts in Speech and Drama. The George Peabody College for Teachers offered him a scholarship for a master&#8217;s degree. At the time he felt he lacked adequate funding to pursue stage life in New York, so he moved to Nashville. Inge later dropped out, feeling he had betrayed his commitment to theatre. After working several jobs in Kansas, including a position teaching English and Drama, he returned to Peabody to finish his Master of Arts degree. Inge graduated in 1938. Soon after he was offered a position on the faculty at Stephens College in Columbia, Missouri. He taught there from 1938-1943.</p>
-<p>In 1943 he moved to St. Louis to work as a drama and music critic for the St. Louis Star-Times. It was while in St. Louis he attended a production of <emph render="italic">The Glass Menagerie</emph> by Tennessee Williams. So moved by the play, Inge felt he needed to write one. Three months later he completed <emph render="italic">Farther Off from Heaven</emph>, which was produced and performed in Dallas, Texas. He followed that play with <emph render="italic">Come Back Little Sheba</emph>, earning him the recognition of &#8220;most promising playwright of the 1950 Broadway season.&#8221;</p>
-<p>A few years later Inge won a Pulitzer Prize, The Drama Critic Circle Award, The Outer Circle Award, and the Theatre Club Award for his 1953 play <emph render="italic">Picnic</emph>. His plays <emph render="italic">Picnic, Come Back Little Sheba</emph>, and <emph render="italic">Bus Stop</emph> were adapted for film during the 1950s. <emph render="italic">Dark at the Top of the Stairs</emph> is considered his finest work. It earned him five Tony nominations and the film adaptation won two Academy Awards. Additionally, he won an Academy Award for Best Screenplay for his 1960 work <emph render="italic">Splendor in the Grass</emph>.</p>
-<p>Best known as a playwright, Inge also wrote two books and a number of scripts for television and movies. At least three of his plays addressed homosexuality through plot or characters, almost certainly due to Inge being gay and closeted. <emph render="italic">Don&#8217;t Go Gentle</emph> is among these works.</p>
-<p>In 1963 Inge left New York to teach at the University of California at Irvine, but quit in 1970 due to depression. He committed suicide on June 10, 1973 at 60 years old. He is buried in his home town of Independence, Missouri.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content</head>
-<p>The William Inge Collection consists of 17 folders is contained in one archival box (.42 linear feet.) There are three series. The <emph render="bold">Independence Collection</emph> series contains newspaper clippings, photographs, and one item of correspondence related to the addition of the Collection to Independence Community College and its Dedication even which took place October 25, 1981.</p>
-<p>The <emph render="bold">News Clippings</emph> series includes selections from local and national publications. The Tennessean pieces discuss Inge&#8217;s ties to Nashville through Peabody and his sister Helene, an art teacher at Hillsboro High School.</p>
-<p>The <emph render="bold">Writing</emph> series contains undated manuscript drafts.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Independence Collection- Correspondence</unittitle>
-<unitdate>November 14, 1981</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Independence Collection- News Articles</unittitle>
-<unitdate>Undated</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Independence Collection- Newspaper Photographs</unittitle>
-<unitdate>October 1981</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>News Clippings- <emph render="italic">The Nashville Banner</emph></unittitle>
-<unitdate>July 6, 1964</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>News Clippings- <emph render="italic">The Peabody Reflector</emph></unittitle>
-<unitdate>1953, 1954, 1965</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>News Clippings- <emph render="italic">The Tennessean</emph></unittitle>
-<unitdate>September 1953 and August 1959</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>News Clippings- <emph render="italic">Time</emph></unittitle>
-<unitdate>February 8, 1963</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Press Release- University of Southern California</unittitle>
-<unitdate>September 14, 1971</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Writing- <emph render="italic">The Depth of Skin</emph>, pg. 1-34</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Writing- <emph render="italic">The Depth of Skin</emph>, pg. 35-65</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Writing- <emph render="italic">Don&#8217;t Go Gentle</emph>, pg. 1-44</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Writing- <emph render="italic">Don&#8217;t Go Gentle</emph>, pg. 45-86</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Writing- <emph render="italic">The Lady Gay</emph>, pg. 1-35</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>Writing- <emph render="italic">The Lady Gay</emph>, pg. 36-70</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Writing- <emph render="italic">The Lady Gay</emph>, pg. 71-105</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Writing- <emph render="italic">Summer&#8217;s Days</emph>, pg. 1-30</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Writing- <emph render="italic">Summer&#8217;s Days</emph>, pg. 31-62</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Inge, William Collection</titleproper>
+        <titleproper>Finding Aid for the William Inge Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>The William Inge Collection</unittitle>
+      <unitid>MSS.0623</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1953/1981" type="inclusive"></unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>William Motter Inge was born May 3, 1913 in Independence, Kansas. During the 1920s, Independence was a wealthy and thriving town with many cultural events. Inge&#8217;s family was not wealthy, but he got to see many performances with his Boy Scout
+        troop after meetings. This sort of small town life influenced his works which often focused on characters from small towns.</p>
+      <p>Inge graduated from University of Kansas at Lawrence with a Bachelor of Arts in Speech and Drama. The George Peabody College for Teachers offered him a scholarship for a master&#8217;s degree. At the time he felt he lacked adequate funding to
+        pursue stage life in New York, so he moved to Nashville. Inge later dropped out, feeling he had betrayed his commitment to theatre. After working several jobs in Kansas, including a position teaching English and Drama, he returned to Peabody to
+        finish his Master of Arts degree. Inge graduated in 1938. Soon after he was offered a position on the faculty at Stephens College in Columbia, Missouri. He taught there from 1938-1943.</p>
+      <p>In 1943 he moved to St. Louis to work as a drama and music critic for the St. Louis Star-Times. It was while in St. Louis he attended a production of
+        <emph render="italic">The Glass Menagerie</emph>
+        by Tennessee Williams. So moved by the play, Inge felt he needed to write one. Three months later he completed
+        <emph render="italic">Farther Off from Heaven</emph>, which was produced and performed in Dallas, Texas. He followed that play with
+        <emph render="italic">Come Back Little Sheba</emph>, earning him the recognition of &#8220;most promising playwright of the 1950 Broadway season.&#8221;</p>
+      <p>A few years later Inge won a Pulitzer Prize, The Drama Critic Circle Award, The Outer Circle Award, and the Theatre Club Award for his 1953 play
+        <emph render="italic">Picnic</emph>. His plays
+        <emph render="italic">Picnic, Come Back Little Sheba</emph>, and
+        <emph render="italic">Bus Stop</emph>
+        were adapted for film during the 1950s.
+        <emph render="italic">Dark at the Top of the Stairs</emph>
+        is considered his finest work. It earned him five Tony nominations and the film adaptation won two Academy Awards. Additionally, he won an Academy Award for Best Screenplay for his 1960 work
+        <emph render="italic">Splendor in the Grass</emph>.</p>
+      <p>Best known as a playwright, Inge also wrote two books and a number of scripts for television and movies. At least three of his plays addressed homosexuality through plot or characters, almost certainly due to Inge being gay and closeted.
+        <emph render="italic">Don&#8217;t Go Gentle</emph>
+        is among these works.</p>
+      <p>In 1963 Inge left New York to teach at the University of California at Irvine, but quit in 1970 due to depression. He committed suicide on June 10, 1973 at 60 years old. He is buried in his home town of Independence, Missouri.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content</head>
+      <p>The William Inge Collection consists of 17 folders is contained in one archival box (.42 linear feet.) There are three series. The
+        <emph render="bold">Independence Collection</emph>
+        series contains newspaper clippings, photographs, and one item of correspondence related to the addition of the Collection to Independence Community College and its Dedication even which took place October 25, 1981.</p>
+      <p>The
+        <emph render="bold">News Clippings</emph>
+        series includes selections from local and national publications. The Tennessean pieces discuss Inge&#8217;s ties to Nashville through Peabody and his sister Helene, an art teacher at Hillsboro High School.</p>
+      <p>The
+        <emph render="bold">Writing</emph>
+        series contains undated manuscript drafts.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Independence Collection- Correspondence</unittitle>
+          <unitdate>November 14, 1981</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Independence Collection- News Articles</unittitle>
+          <unitdate>Undated</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>Independence Collection- Newspaper Photographs</unittitle>
+          <unitdate>October 1981</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>News Clippings-
+            <emph render="italic">The Nashville Banner</emph>
+          </unittitle>
+          <unitdate>July 6, 1964</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>News Clippings-
+            <emph render="italic">The Peabody Reflector</emph>
+          </unittitle>
+          <unitdate>1953, 1954, 1965</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>News Clippings-
+            <emph render="italic">The Tennessean</emph>
+          </unittitle>
+          <unitdate>September 1953 and August 1959</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>News Clippings-
+            <emph render="italic">Time</emph>
+          </unittitle>
+          <unitdate>February 8, 1963</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle>Press Release- University of Southern California</unittitle>
+          <unitdate>September 14, 1971</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">9</container>
+          <unittitle>Writing-
+            <emph render="italic">The Depth of Skin</emph>, pg. 1-34</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>Writing-
+            <emph render="italic">The Depth of Skin</emph>, pg. 35-65</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>Writing-
+            <emph render="italic">Don&#8217;t Go Gentle</emph>, pg. 1-44</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>Writing-
+            <emph render="italic">Don&#8217;t Go Gentle</emph>, pg. 45-86</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>Writing-
+            <emph render="italic">The Lady Gay</emph>, pg. 1-35</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>Writing-
+            <emph render="italic">The Lady Gay</emph>, pg. 36-70</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>Writing-
+            <emph render="italic">The Lady Gay</emph>, pg. 71-105</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>Writing-
+            <emph render="italic">Summer&#8217;s Days</emph>, pg. 1-30</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>Writing-
+            <emph render="italic">Summer&#8217;s Days</emph>, pg. 31-62</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
