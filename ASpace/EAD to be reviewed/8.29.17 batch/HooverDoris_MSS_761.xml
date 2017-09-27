@@ -1,1012 +1,1027 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Hoover, Doris Lyons Papers</titleproper>
-<titleproper>Finding Aid for the Doris Lyons Hoover Papers</titleproper>
-<author>Camille Ivey</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2016</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Doris Lyons Hoover Papers</unittitle>
-<unitid>MSS.0761</unitid>
-<unitdate>2016</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>Doris M. Lyons was born in 1928 in Fort Payne, Alabama to Wilburn and Marion Lyons. She grew up in Chattanooga, Tennessee and attended the University of Tennessee, Chattanooga, graduating with an art (painting) degree in the late 1940s. She married Jack L. Hoover in 1949, moved to California in 1952, and they have three daughters.</p>
-<p>Doris Lyons Hoover is a retired textile/fabric artist, writer, and teacher. She is especially known for her quilts, tassels, and potholders. She is the author and illustrator of &#8220;Too Hot to Handle: Potholders and How to Make Them&#8221; (1993), and co-author of &#8220;Tassels&#8221; (1978). She also taught a variety of classes including creativity seminars and fiber arts workshops. In the 1960s she co-founded the Peninsula Stitchery Guild and later served as its president.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>The papers are contained in five Hollinger boxes and measures 1.66 linear feet. They are comprised of personal correspondence, newspaper clippings and articles about Doris Hoover, a CD of hundreds of photos of her creative works, as well as copies of the books she wrote. Her personal correspondence includes letters and postcards from other well-known artists such as Bets Ramsey and Jean Ray Laury. Bets Ramsey is an award-winning quilter, lecturer, and author. She was the founder and director of the Southern Quilt Symposium and curated major annual quilt exhibits for many (17) years. Jean Ray Laury was an influential early modern American quiltmaker, freelance designer, lecturer, and author of several books. Of special interest are the Hoover family Christmas cards, dating from the 1950s through the 1980s, all designed by Doris.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondence &#8211; Incoming</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>January 6, 1984 - March 5, 1985</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>April 14, 1985 -August 15, 1985</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>February 12, 1986 - February 17, 1986</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>December 19, 1986 - May 30, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>October 18, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>November 1, 1989 - January ?, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>March 30, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>November 26, 1990 - December 16, 1991</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>January, 1993- December 27, 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>January 9, 1995 - December 18, 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>January 19, 1998 - January 3, 2000</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unittitle>Iris Bell</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02></c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondence &#8211; Incoming</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>February 17, 1973 - December 1973</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>January 16, 1974 - December 4, 1974</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>February 7, 1975 - April 27, 1975</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>May 8, 1975 - November 19, 1975</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>January 16, 1976 - August 3, 1977</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>January 19, 1978 - December 9, 1978</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>March 5, 1979 - January 29, 1981</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>June 10, 1981 &#8211; April 17, 1987</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>January 9, 1993 - July 7, 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>August 14, 1995 - October 27, 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>April 27, 1988 - January 24, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>February 28, 1991 - October 27, 1992</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>November 13, 1993 - April 17, 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>January 29, 1996 - April 18, 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>June 22, 1997 - May 8, 1999</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>January 7, 2000 - February 24, 2000</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>September 2, 2000 - May 14, 2001</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>Phyllis Dukes</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>Marilyn Green</unittitle>
-<unitdate>November 29, 1990 - February 17, 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>Marilyn Green</unittitle>
-<unitdate>July 12, 1995 - October 28, 2005</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle>Marilyn Green</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle>Vickie Johnson</unittitle>
-<unitdate>September 21, 1990 - May 13, 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle>Gerry Kehm</unittitle>
-<unitdate>August 1, 1979 - February 10, 1982</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle>Gerry Kehm</unittitle>
-<unitdate>March 23, 1982 - August 22, 1986</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle>Gerry Kehm</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle>Jean Ray Laury</unittitle>
-<unitdate>September 21, 1972 - July 1, 1976</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle>Jean Ray Laury</unittitle>
-<unitdate>September 27, 1977 - December 12, 1989</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle>Jean Ray Laury</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">29</container>
-<unittitle>Jean Ray Laury</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unittitle>Jean Ray Laury</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unittitle>Jean Ray Laury</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02></c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondence &#8211; Incoming</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>June 27, 1980 - November 4, 1985</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>October 23, 1986 - December 28, 1986</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>January 20, 1987 - December 28, 1987</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>January 27, 1988 - September 28, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>March 6, 1991 - October 18, 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>February 10, 1994 - December 18, 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>October 21, 1997 - June 20, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>Jane McElroy</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>February 21, 1976 - September 25, 1986</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>October, 8, 1987 - November 6, 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>Miscellaneous</unittitle>
-<unitdate>March 6, 1995 - July 5, 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>July 16, 1995 - November 28, 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>February 15, 1996 - January 14, 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>February 6, 1997 - November 2, 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>January 4, 1998 - July 30, 1999</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>August 10, 1999 - December 27, 1999</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>February 10, 2000 - July 10, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unittitle>Miscellaneous Correspondence</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unittitle>Miscellaneous</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unittitle>Miscellaneous</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unittitle>Miscellaneous</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02></c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondence &#8211; Incoming</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>July 7, 1973 - December 23, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 8, 1991 - December 31, 1991</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 5, 1992 - December 28, 1992</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 4, 1993 - May 27, 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>June 16, 1993 - December 1, 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 6, 1994 - June 14, 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>July 5, 1994 - November 30, 1994</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 9, 1995 - June 4, 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>July 8, 1995 - December 28, 1995</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>February 5, 1996 - August 14, 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>September 18, 1996 - March 6, 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>April 26, 1997 - December 28, 1997</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 5, 1998 - December 26, 1998</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>February 8, 1999 - July 11, 2000</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">15</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>October 1, 2000 - June 1, 2001</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">16</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 5, 2002 - December 3, 2002</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">17</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>January 2, 2003 - December 29, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">18</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>May 15, 2004 - March 30, 2006</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">19</container>
-<unittitle>Bets Ramsey</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">20</container>
-<unittitle>Beryl Self</unittitle>
-<unitdate>May 31, 1986 - June 8, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">21</container>
-<unittitle>Beryl Self</unittitle>
-<unitdate>September 10, 1990 - September 27, 1998</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">22</container>
-<unittitle>Beryl Self</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c02></c01>
-</dsc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Hoover, Doris Lyons Papers</titleproper>
+        <titleproper>Finding Aid for the Doris Lyons Hoover Papers</titleproper>
+        <author>Camille Ivey</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2016</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Doris Lyons Hoover Papers</unittitle>
+      <unitid>MSS.0761</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.1 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Doris M. Lyons was born in 1928 in Fort Payne, Alabama to Wilburn and Marion Lyons. She grew up in Chattanooga, Tennessee and attended the University of Tennessee, Chattanooga, graduating with an art (painting) degree in the late 1940s. She
+        married Jack L. Hoover in 1949, moved to California in 1952, and they have three daughters.</p>
+      <p>Doris Lyons Hoover is a retired textile/fabric artist, writer, and teacher. She is especially known for her quilts, tassels, and potholders. She is the author and illustrator of &#8220;Too Hot to Handle: Potholders and How to Make Them&#8221;
+        (1993), and co-author of &#8220;Tassels&#8221; (1978). She also taught a variety of classes including creativity seminars and fiber arts workshops. In the 1960s she co-founded the Peninsula Stitchery Guild and later served as its president.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The papers are contained in five Hollinger boxes and measures 1.66 linear feet. They are comprised of personal correspondence, newspaper clippings and articles about Doris Hoover, a CD of hundreds of photos of her creative works, as well as copies
+        of the books she wrote. Her personal correspondence includes letters and postcards from other well-known artists such as Bets Ramsey and Jean Ray Laury. Bets Ramsey is an award-winning quilter, lecturer, and author. She was the founder and director
+        of the Southern Quilt Symposium and curated major annual quilt exhibits for many (17) years. Jean Ray Laury was an influential early modern American quiltmaker, freelance designer, lecturer, and author of several books. Of special interest are the
+        Hoover family Christmas cards, dating from the 1950s through the 1980s, all designed by Doris.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence &#8211; Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>January 6, 1984 - March 5, 1985</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>April 14, 1985 -August 15, 1985</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>February 12, 1986 - February 17, 1986</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>December 19, 1986 - May 30, 1989</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>October 18, 1989</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>November 1, 1989 - January ?, 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>March 30, 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>November 26, 1990 - December 16, 1991</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>January, 1993- December 27, 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>January 9, 1995 - December 18, 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>January 19, 1998 - January 3, 2000</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Iris Bell</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence &#8211; Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>February 17, 1973 - December 1973</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>January 16, 1974 - December 4, 1974</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>February 7, 1975 - April 27, 1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>May 8, 1975 - November 19, 1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>January 16, 1976 - August 3, 1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>January 19, 1978 - December 9, 1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>March 5, 1979 - January 29, 1981</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>June 10, 1981 &#8211; April 17, 1987</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>January 9, 1993 - July 7, 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>August 14, 1995 - October 27, 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>April 27, 1988 - January 24, 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>February 28, 1991 - October 27, 1992</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>November 13, 1993 - April 17, 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>January 29, 1996 - April 18, 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>June 22, 1997 - May 8, 1999</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>January 7, 2000 - February 24, 2000</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>September 2, 2000 - May 14, 2001</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Phyllis Dukes</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Marilyn Green</unittitle>
+            <unitdate>November 29, 1990 - February 17, 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Marilyn Green</unittitle>
+            <unitdate>July 12, 1995 - October 28, 2005</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>Marilyn Green</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>Vickie Johnson</unittitle>
+            <unitdate>September 21, 1990 - May 13, 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>Gerry Kehm</unittitle>
+            <unitdate>August 1, 1979 - February 10, 1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>Gerry Kehm</unittitle>
+            <unitdate>March 23, 1982 - August 22, 1986</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>Gerry Kehm</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>Jean Ray Laury</unittitle>
+            <unitdate>September 21, 1972 - July 1, 1976</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>Jean Ray Laury</unittitle>
+            <unitdate>September 27, 1977 - December 12, 1989</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>Jean Ray Laury</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>Jean Ray Laury</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>Jean Ray Laury</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>Jean Ray Laury</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence &#8211; Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>June 27, 1980 - November 4, 1985</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>October 23, 1986 - December 28, 1986</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>January 20, 1987 - December 28, 1987</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>January 27, 1988 - September 28, 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>March 6, 1991 - October 18, 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>February 10, 1994 - December 18, 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>October 21, 1997 - June 20, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Jane McElroy</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>February 21, 1976 - September 25, 1986</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>October, 8, 1987 - November 6, 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate>March 6, 1995 - July 5, 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>July 16, 1995 - November 28, 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>February 15, 1996 - January 14, 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>February 6, 1997 - November 2, 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>January 4, 1998 - July 30, 1999</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>August 10, 1999 - December 27, 1999</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>February 10, 2000 - July 10, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence &#8211; Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>July 7, 1973 - December 23, 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 8, 1991 - December 31, 1991</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 5, 1992 - December 28, 1992</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 4, 1993 - May 27, 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>June 16, 1993 - December 1, 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 6, 1994 - June 14, 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>July 5, 1994 - November 30, 1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 9, 1995 - June 4, 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>July 8, 1995 - December 28, 1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>February 5, 1996 - August 14, 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>September 18, 1996 - March 6, 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>April 26, 1997 - December 28, 1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 5, 1998 - December 26, 1998</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>February 8, 1999 - July 11, 2000</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>October 1, 2000 - June 1, 2001</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 5, 2002 - December 3, 2002</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>January 2, 2003 - December 29, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>May 15, 2004 - March 30, 2006</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle>Bets Ramsey</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle>Beryl Self</unittitle>
+            <unitdate>May 31, 1986 - June 8, 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle>Beryl Self</unittitle>
+            <unitdate>September 10, 1990 - September 27, 1998</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Beryl Self</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
 
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Writings, Photographs and Creations</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Articles About Doris Hoover</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Article by Doris Hoover</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>Correspondence Re: Ideas for Religious Textiles Book</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Fabric Art CD</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>Fabric Art Photos/Negatives</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>Workshop Photos</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle>Museum Exhibits</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>Newspaper Clippings</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>Publications</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>Richmond Art Center Exhibit</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>UT Chattanooga Quilt Exhibit</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">12</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris, early 1950s</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">13</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1955 - 1958</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">14</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1959 - 1962</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">15</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1963 - 1966</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">16</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1967 - 1970</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">17</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1971 - 1974</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">18</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1975, 1977 - 1979</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">19</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1981 - 1984</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">20</container>
-<unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
-<unitdate>1985 &#8211; 1987 - 1989</unitdate>
-</did>
-</c02></c01>
-</dsc>
-</archdesc>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Writings, Photographs and Creations</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Articles About Doris Hoover</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Article by Doris Hoover</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence Re: Ideas for Religious Textiles Book</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Fabric Art CD</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Fabric Art Photos/Negatives</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Workshop Photos</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Museum Exhibits</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Newspaper Clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Publications</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Richmond Art Center Exhibit</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>UT Chattanooga Quilt Exhibit</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris, early 1950s</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1955 - 1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1959 - 1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1963 - 1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">16</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1967 - 1970</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1971 - 1974</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">18</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1975, 1977 - 1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">19</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1981 - 1984</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">20</container>
+            <unittitle>Hoover Family Christmas Cards &#8211; created by Doris</unittitle>
+            <unitdate>1985 &#8211; 1987 - 1989</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

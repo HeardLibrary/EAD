@@ -1,319 +1,325 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Holroyd, Sara Collection</titleproper>
-<titleproper>Finding Aid for the Sara Holroyd World War II and George Peabody College for Teachers Collection</titleproper>
-<author>Molly Dohrmann</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2007</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Sara Holroyd World War II and George Peabody College for Teachers Collection</unittitle>
-<unitid>MSS.0654</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>2007</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>Sara Holroyd , from Selma, Alabama, came to Peabody to study music. While a student at George Peabody College for Teachers she was awarded many honors and was elected President of the Student Body and &#8220;Miss Peabody&#8221; in her senior year. She was a member of the college choir, orchestra, and band, and sang with the Peabody Madrigalians. She graduated in 1946. In 1951 she received a M.A. from Columbia, and afterwards she had a career in education as a Professor of Music at the University of Kentucky at Lexington.</p>
-<p>Sara Holroyd still lives in Lexington, Kentucky, and her interview for the <emph render="italic">Vandy Goes to War World War II Remembered Oral History Project</emph> is included in that important archive of Vanderbilt&#8217;s history.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>This small collection (.42 linear feet ) contains letters, programs, and newspaper clippings collected by Sara Holroyd, a 1946 graduate of George Peabody College for Teachers. (Peabody merged Vanderbilt University in 1979.). Ms. Holroyd was a student leader and a musician while at Peabody, and many of the programs feature her as a student musician. This collection also chronicles the end of WWII and activities at Peabody College during that time.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>File Listing</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Correspondence</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">1</container>
-<unittitle>Outgoing&#8212;Sara Holroyd to her mother on the end of WWII, Aug. 15, 1945; on election to &#8220;Miss Peabody&#8221;</unittitle>
-<unitdate>May 23, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">2</container>
-<unittitle>Incoming&#8212;Evelyn Stephenson with accompanying news article &#8220;The Four Melodears&#8221;</unittitle>
-<unitdate>Jan. 16, 1984</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Personal and Biographical</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>As Officer and President of the Peabody Student Body&#8212;newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">4</container>
-<unittitle>Sara Holroyd, musician, including the script for the Gay Nineties Revue and newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>Sara Holroyd &#8220;Miss Peabody&#8221; June 1946&#8212;newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">6</container>
-<unittitle>Sara Holroyd &#8220;Miss Peabody&#8221; June 1946&#8212;newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">7</container>
-<unittitle>Honors and awards</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">8</container>
-<unittitle>Peabody graduation awards and honors for Sara Holroyd&#8212;newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">9</container>
-<unittitle>Graduation from Peabody, including official invitation</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">10</container>
-<unittitle>Graduation from Peabody&#8212;Prom cards and other items</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">11</container>
-<unittitle>Graduation from Peabody&#8212;letters and telegrams</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">12</container>
-<unittitle>Peabody Band&#8212;newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">13</container>
-<unittitle>Peabody College friends, teachers, and events&#8212;newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">14</container>
-<unittitle>Peabody College&#8212;newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">15</container>
-<unittitle>Certificate&#8212;Mary Mildred Sullivan Scholarship</unittitle>
-<unitdate>March 19, 1945</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">16</container>
-<unittitle>Certificate&#8212;Sigma Alpha Iota</unittitle>
-<unitdate>May 10, 1947</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Programs</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">17</container>
-<unittitle>George Peabody College--Graduation</unittitle>
-<unitdate>June 7, 1946; august 23, 1946; June 6, 1947</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">18</container>
-<unittitle>George Peabody College&#8212;featuring Sara Holroyd</unittitle>
-<unitdate>Dec. 12, 1943&#8212;Aug. 19, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">19</container>
-<unittitle>George Peabody College&#8212;Christmas/Messiah</unittitle>
-<unitdate>Dec. 11, 1943&#8212;Dec. 11, 1945</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">20</container>
-<unittitle>George Peabody College&#8212;Graduate, Faculty, and other recitals</unittitle>
-<unitdate>Dec. 6, 1943&#8212;August 6, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">21</container>
-<unittitle>George Peabody College&#8212;Student Recitals</unittitle>
-<unitdate>Dec.9, 1943&#8212;July 31, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">22</container>
-<unittitle>George Peabody College&#8212;Music and Dance</unittitle>
-<unitdate>June 6, 1944&#8212;June 5, 1947</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">23</container>
-<unittitle>George Peabody College&#8212;Peabody Choir and Madrigalians</unittitle>
-<unitdate>April 23, 1945</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">24</container>
-<unittitle>George Peabody College&#8212;Chamber Music</unittitle>
-<unitdate>March 31, 1944&#8212;July 29, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">25</container>
-<unittitle>George Peabody College&#8212;College Band</unittitle>
-<unitdate>Nov. 21, 1944&#8212;July 2, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">26</container>
-<unittitle>George Peabody College&#8212;Miscellaneous</unittitle>
-<unitdate>Feb. 18, 1944&#8212;Aug. 18, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">27</container>
-<unittitle>George Peabody College&#8212;Bulletin&#8212;Division of Music, 1944-1945; 1945-1947; Music at Peabody Oct.</unittitle>
-<unitdate>1944</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">28</container>
-<unittitle>George Peabody College&#8212;Bulletin&#8212;Division of Music</unittitle>
-<unitdate>1947-1949; 1949-1951</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">29</container>
-<unittitle>Fisk University&#8212;Festival of Music and Fine Arts, Sara Holroyd, trumpet</unittitle>
-<unitdate>April 19-22, 1944</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">30</container>
-<unittitle>Peabody Demonstration School</unittitle>
-<unitdate>May 5, 1944--May 24, 1946</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">31</container>
-<unittitle>Ryman Auditorium&#8212;V.E. Day First Anniversary</unittitle>
-<unitdate>May 8, 1946</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Miscellaneous</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">32</container>
-<unittitle><emph render="italic">Peabody Reflector</emph>, June 1945&#8212;Alumni and Student News</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">33</container>
-<unittitle><emph render="italic">Peabody Reflector</emph>&#8212;Miscellaneous Articles</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">34</container>
-<unittitle><emph render="italic">Peabody Reflector</emph>&#8212;Miscellaneous Articles</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">35</container>
-<unittitle><emph render="italic">Peabody Reflector</emph>&#8212;Miscellaneous Articles</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Photographs</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">36</container>
-<unittitle>Sara Holroyd &#8220;Miss Peabody&#8221; and with other Peabody musicians</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Holroyd, Sara Collection</titleproper>
+        <titleproper>Finding Aid for the Sara Holroyd World War II and George Peabody College for Teachers Collection</titleproper>
+        <author>Molly Dohrmann</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Sara Holroyd World War II and George Peabody College for Teachers Collection</unittitle>
+      <unitid>MSS.0654</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Sara Holroyd , from Selma, Alabama, came to Peabody to study music. While a student at George Peabody College for Teachers she was awarded many honors and was elected President of the Student Body and &#8220;Miss Peabody&#8221; in her senior year.
+        She was a member of the college choir, orchestra, and band, and sang with the Peabody Madrigalians. She graduated in 1946. In 1951 she received a M.A. from Columbia, and afterwards she had a career in education as a Professor of Music at the
+        University of Kentucky at Lexington.</p>
+      <p>Sara Holroyd still lives in Lexington, Kentucky, and her interview for the
+        <emph render="italic">Vandy Goes to War World War II Remembered Oral History Project</emph>
+        is included in that important archive of Vanderbilt&#8217;s history.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>This small collection (.42 linear feet ) contains letters, programs, and newspaper clippings collected by Sara Holroyd, a 1946 graduate of George Peabody College for Teachers. (Peabody merged Vanderbilt University in 1979.). Ms. Holroyd was a
+        student leader and a musician while at Peabody, and many of the programs feature her as a student musician. This collection also chronicles the end of WWII and activities at Peabody College during that time.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Outgoing&#8212;Sara Holroyd to her mother on the end of WWII, Aug. 15, 1945; on election to &#8220;Miss Peabody&#8221;</unittitle>
+            <unitdate>May 23, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Incoming&#8212;Evelyn Stephenson with accompanying news article &#8220;The Four Melodears&#8221;</unittitle>
+            <unitdate>Jan. 16, 1984</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal and Biographical</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>As Officer and President of the Peabody Student Body&#8212;newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Sara Holroyd, musician, including the script for the Gay Nineties Revue and newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Sara Holroyd &#8220;Miss Peabody&#8221; June 1946&#8212;newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Sara Holroyd &#8220;Miss Peabody&#8221; June 1946&#8212;newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Honors and awards</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Peabody graduation awards and honors for Sara Holroyd&#8212;newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Graduation from Peabody, including official invitation</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Graduation from Peabody&#8212;Prom cards and other items</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Graduation from Peabody&#8212;letters and telegrams</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Peabody Band&#8212;newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Peabody College friends, teachers, and events&#8212;newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Peabody College&#8212;newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Certificate&#8212;Mary Mildred Sullivan Scholarship</unittitle>
+            <unitdate>March 19, 1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Certificate&#8212;Sigma Alpha Iota</unittitle>
+            <unitdate>May 10, 1947</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Programs</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>George Peabody College--Graduation</unittitle>
+            <unitdate>June 7, 1946; august 23, 1946; June 6, 1947</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>George Peabody College&#8212;featuring Sara Holroyd</unittitle>
+            <unitdate>Dec. 12, 1943&#8212;Aug. 19, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>George Peabody College&#8212;Christmas/Messiah</unittitle>
+            <unitdate>Dec. 11, 1943&#8212;Dec. 11, 1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>George Peabody College&#8212;Graduate, Faculty, and other recitals</unittitle>
+            <unitdate>Dec. 6, 1943&#8212;August 6, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>George Peabody College&#8212;Student Recitals</unittitle>
+            <unitdate>Dec.9, 1943&#8212;July 31, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>George Peabody College&#8212;Music and Dance</unittitle>
+            <unitdate>June 6, 1944&#8212;June 5, 1947</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>George Peabody College&#8212;Peabody Choir and Madrigalians</unittitle>
+            <unitdate>April 23, 1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>George Peabody College&#8212;Chamber Music</unittitle>
+            <unitdate>March 31, 1944&#8212;July 29, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>George Peabody College&#8212;College Band</unittitle>
+            <unitdate>Nov. 21, 1944&#8212;July 2, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>George Peabody College&#8212;Miscellaneous</unittitle>
+            <unitdate>Feb. 18, 1944&#8212;Aug. 18, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">27</container>
+            <unittitle>George Peabody College&#8212;Bulletin&#8212;Division of Music, 1944-1945; 1945-1947; Music at Peabody Oct.</unittitle>
+            <unitdate>1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">28</container>
+            <unittitle>George Peabody College&#8212;Bulletin&#8212;Division of Music</unittitle>
+            <unitdate>1947-1949; 1949-1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">29</container>
+            <unittitle>Fisk University&#8212;Festival of Music and Fine Arts, Sara Holroyd, trumpet</unittitle>
+            <unitdate>April 19-22, 1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">30</container>
+            <unittitle>Peabody Demonstration School</unittitle>
+            <unitdate>May 5, 1944--May 24, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">31</container>
+            <unittitle>Ryman Auditorium&#8212;V.E. Day First Anniversary</unittitle>
+            <unitdate>May 8, 1946</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">32</container>
+            <unittitle>
+              <emph render="italic">Peabody Reflector</emph>, June 1945&#8212;Alumni and Student News</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">33</container>
+            <unittitle>
+              <emph render="italic">Peabody Reflector</emph>&#8212;Miscellaneous Articles</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">34</container>
+            <unittitle>
+              <emph render="italic">Peabody Reflector</emph>&#8212;Miscellaneous Articles</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">35</container>
+            <unittitle>
+              <emph render="italic">Peabody Reflector</emph>&#8212;Miscellaneous Articles</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">36</container>
+            <unittitle>Sara Holroyd &#8220;Miss Peabody&#8221; and with other Peabody musicians</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
