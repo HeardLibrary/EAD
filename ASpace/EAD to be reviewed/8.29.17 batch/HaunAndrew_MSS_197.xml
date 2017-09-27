@@ -1,343 +1,343 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Haun, Andrew and Mattie Papers</titleproper>
-<titleproper>Finding Aid for the Andrew and Mattie Haun Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>November 2007</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Andrew and Mattie Haun Papers</unittitle>
-<unitid>MSS.0197</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.84 linear feet</extent>
-</physdesc>
-<unitdate>November 2007</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>This collection holds papers of Andrew Jacob Haun and his wife Mattie Francis Oliver Haun. Following is a chronology:</p>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<tbody>
-<row> 
-<entry colname="1">1870</entry>
-<entry colname="2">Andrew Haun born in Hamblen County, Tennessee</entry>
-</row>
-<row> 
-<entry colname="1">1887</entry>
-<entry colname="2">Andrew Haun enters Tusculum College in Greeneville, Tennessee</entry>
-</row>
-<row> 
-<entry colname="1">1888</entry>
-<entry colname="2">Andrew Haun received L.I. degree from Tusculum College</entry>
-</row>
-<row> 
-<entry colname="1">1893</entry>
-<entry colname="2">Andrew Haun moves to Nashville, Tennessee to teach elementary school</entry>
-</row>
-<row> 
-<entry colname="1">1898</entry>
-<entry colname="2">Mattie Oliver and Andrew Haun married on July 7</entry>
-</row>
-<row> 
-<entry colname="1">1910</entry>
-<entry colname="2">Moved to Franklin, Tennessee where Andrew Haun was principal of the elementary school and superintendent of the city schools.</entry>
-</row>
-<row> 
-<entry colname="1">1945</entry>
-<entry colname="2">Andrew Haun retires; Mattie Haun dies on November 19th.</entry>
-</row>
-<row> 
-<entry colname="1">1947</entry>
-<entry colname="2">Andrew Haun dies.</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>This small collection of two Hollinger boxes (.84 linear feet) contains correspondence and personal and biographical materials relating to Andrew Jacob Haun and Mattie Francis Oliver Haun, aunt and uncle of the southern writer Mildred E. Haun, whose papers are also held by Special Collections in the Vanderbilt University Library</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>File Listing</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Correspondence</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Incoming &#8211; 4 telegrams to Mrs. A.J. Haun</unittitle>
-<unitdate>May 20, 1918; April 22, 1919; April 24, 1919; April 26, 1919; 1 cablegram, n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Incoming - from Phifer, Kenneth G., Dec.7, 1944; Rehorn, Edward, July 22, 1911; Scales, John D., July 29, 1911; Stoddard, Cora Frances, Nov. 25, 1924; Whiteman, W.I.</unittitle>
-<unitdate>Feb. 23, 1931</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Incoming &#8211; from Lizzie ( no surname dated March 29, 1887); letter with illegible signature dated</unittitle>
-<unitdate>April 7, 1832</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Personal and Biographical</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Five Year Diary of Mattie Haun</unittitle>
-<unitdate>Jan. 1, 1939 &#8211; Dec. 31, 1939</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Diary of Mattie Haun</unittitle>
-<unitdate>Jan. 1, 1944 &#8211; Dec. 31, 1944</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Diary of Mattie Haun</unittitle>
-<unitdate>Jan. 1, 1935, Nov. 15, 1945</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Family records, accounts, diaries</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Family records, accounts, diaries</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Family records, accounts, diaries</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Family records, accounts, diaries</unittitle>
-<unitdate>January 1932 &#8211; September 1945</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Family records, accounts, diaries</unittitle>
-<unitdate>March 8, 1932 &#8211; January 1941</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Personal and Biographical</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>Family records, accounts, and diaries</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Notebook - Memory book, poems memorized by Mattie Haun</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Legal papers - 2 warranty deeds</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Legal papers - stock certificate; loan contract Feb. 17, 1932; <emph render="italic">Abstract of the Title to the Lands of B.S. Shields Now Known as Hortense Place</emph></unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Teacher&#8217;s certificates: 8 awarded to Andrew Haun</unittitle>
-<unitdate>1897 - 1917</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Diplomas received by A.J. Haun: National Co-operative Realty Co., Jan. 4, 1907; Summer School of the South, University of Tennessee, Knoxville</unittitle>
-<unitdate>1910</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Organizational Membership Cards - A.J. Haun - Dept. of Elementary School Principals; Free and Accepted Masons of TN; Knights Templar of TN; Royal Arch Masons of TN; TN Education Association</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Pamphlets - Bible, Religious, Devotional - &#8220;Auxiliary Devotional&#8221;, June 1941; &#8220;The Bible Teaches Temperance&#8221;; &#8220;Elders that Rule Well&#8221;; &#8220;Inquiring of God&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Prayers and notes for religious services by Andrew Haun</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>Inventory of all the goods and chattels of the estate of Andrew Jacob Haun, deceased</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>Items: &#8220;Follow the Gleam&#8221;; &#8220;What Prohibition Has Done for Us&#8221;; &#8220;Colgate and Company- New York Perfumers&#8221; Booklet</unittitle>
-<unitdate>1898</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>&#8220;Our Wedding Bells&#8221; - Wedding notebook of Andrew J. Haun and Mattie Francis Oliver Haun</unittitle>
-<unitdate>July 7, 1898</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>Newspaper clippings &#8211; Williamson County News, Franklin, TN</unittitle>
-<unitdate>Nov. 14, 1918</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>Newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>Newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle>Newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>Newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>Newspaper clippings</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>Miscellaneous papers</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>Jewelry &#8211; one small box of jewelry belonging to Mattie Haun</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Haun, Andrew and Mattie Papers</titleproper>
+        <titleproper>Finding Aid for the Andrew and Mattie Haun Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>November 2007</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Andrew and Mattie Haun Papers</unittitle>
+      <unitid>MSS.0197</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.84 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>This collection holds papers of Andrew Jacob Haun and his wife Mattie Francis Oliver Haun. Following is a chronology:</p>
+      <table frame="none">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+          <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+          <tbody>
+            <row>
+              <entry colname="1">1870</entry>
+              <entry colname="2">Andrew Haun born in Hamblen County, Tennessee</entry>
+            </row>
+            <row>
+              <entry colname="1">1887</entry>
+              <entry colname="2">Andrew Haun enters Tusculum College in Greeneville, Tennessee</entry>
+            </row>
+            <row>
+              <entry colname="1">1888</entry>
+              <entry colname="2">Andrew Haun received L.I. degree from Tusculum College</entry>
+            </row>
+            <row>
+              <entry colname="1">1893</entry>
+              <entry colname="2">Andrew Haun moves to Nashville, Tennessee to teach elementary school</entry>
+            </row>
+            <row>
+              <entry colname="1">1898</entry>
+              <entry colname="2">Mattie Oliver and Andrew Haun married on July 7</entry>
+            </row>
+            <row>
+              <entry colname="1">1910</entry>
+              <entry colname="2">Moved to Franklin, Tennessee where Andrew Haun was principal of the elementary school and superintendent of the city schools.</entry>
+            </row>
+            <row>
+              <entry colname="1">1945</entry>
+              <entry colname="2">Andrew Haun retires; Mattie Haun dies on November 19th.</entry>
+            </row>
+            <row>
+              <entry colname="1">1947</entry>
+              <entry colname="2">Andrew Haun dies.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>This small collection of two Hollinger boxes (.84 linear feet) contains correspondence and personal and biographical materials relating to Andrew Jacob Haun and Mattie Francis Oliver Haun, aunt and uncle of the southern writer Mildred E. Haun,
+        whose papers are also held by Special Collections in the Vanderbilt University Library</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Incoming &#8211; 4 telegrams to Mrs. A.J. Haun</unittitle>
+            <unitdate>May 20, 1918; April 22, 1919; April 24, 1919; April 26, 1919; 1 cablegram, n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Incoming - from Phifer, Kenneth G., Dec.7, 1944; Rehorn, Edward, July 22, 1911; Scales, John D., July 29, 1911; Stoddard, Cora Frances, Nov. 25, 1924; Whiteman, W.I.</unittitle>
+            <unitdate>Feb. 23, 1931</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Incoming &#8211; from Lizzie ( no surname dated March 29, 1887); letter with illegible signature dated</unittitle>
+            <unitdate>April 7, 1832</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal and Biographical</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Five Year Diary of Mattie Haun</unittitle>
+            <unitdate>Jan. 1, 1939 &#8211; Dec. 31, 1939</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Diary of Mattie Haun</unittitle>
+            <unitdate>Jan. 1, 1944 &#8211; Dec. 31, 1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Diary of Mattie Haun</unittitle>
+            <unitdate>Jan. 1, 1935, Nov. 15, 1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Family records, accounts, diaries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Family records, accounts, diaries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Family records, accounts, diaries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Family records, accounts, diaries</unittitle>
+            <unitdate>January 1932 &#8211; September 1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Family records, accounts, diaries</unittitle>
+            <unitdate>March 8, 1932 &#8211; January 1941</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal and Biographical</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Family records, accounts, and diaries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Notebook - Memory book, poems memorized by Mattie Haun</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Legal papers - 2 warranty deeds</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Legal papers - stock certificate; loan contract Feb. 17, 1932;
+              <emph render="italic">Abstract of the Title to the Lands of B.S. Shields Now Known as Hortense Place</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Teacher&#8217;s certificates: 8 awarded to Andrew Haun</unittitle>
+            <unitdate>1897 - 1917</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Diplomas received by A.J. Haun: National Co-operative Realty Co., Jan. 4, 1907; Summer School of the South, University of Tennessee, Knoxville</unittitle>
+            <unitdate>1910</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Organizational Membership Cards - A.J. Haun - Dept. of Elementary School Principals; Free and Accepted Masons of TN; Knights Templar of TN; Royal Arch Masons of TN; TN Education Association</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Pamphlets - Bible, Religious, Devotional - &#8220;Auxiliary Devotional&#8221;, June 1941; &#8220;The Bible Teaches Temperance&#8221;; &#8220;Elders that Rule Well&#8221;; &#8220;Inquiring of God&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Prayers and notes for religious services by Andrew Haun</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Inventory of all the goods and chattels of the estate of Andrew Jacob Haun, deceased</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Items: &#8220;Follow the Gleam&#8221;; &#8220;What Prohibition Has Done for Us&#8221;; &#8220;Colgate and Company- New York Perfumers&#8221; Booklet</unittitle>
+            <unitdate>1898</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>&#8220;Our Wedding Bells&#8221; - Wedding notebook of Andrew J. Haun and Mattie Francis Oliver Haun</unittitle>
+            <unitdate>July 7, 1898</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Newspaper clippings &#8211; Williamson County News, Franklin, TN</unittitle>
+            <unitdate>Nov. 14, 1918</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Miscellaneous papers</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Jewelry &#8211; one small box of jewelry belonging to Mattie Haun</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
