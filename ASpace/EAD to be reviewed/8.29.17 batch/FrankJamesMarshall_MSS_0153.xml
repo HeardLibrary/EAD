@@ -1,988 +1,1014 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Frank, James Marshall Papers</titleproper>
-<titleproper>Finding Aid for the James Marshall Frank Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2009</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>James Marshall Frank Papers</unittitle>
-<unitid>MSS.0153</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>2009</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>A member of the Fugitive literary group and a brother-in-law of Sidney Mttron Hirsch, James Marshall Frank was a successful manufacturer with an interest in literature and education. Born in Marshall County, Tennessee in 1866, James Marshall Frank spent most of his life in Nashville. An 1885 graduate of George Peabody College, he taught for several years. Financial responsibilities caused him to change careers, and he accepted employment with Frank and Company, a local shirt manufacturer, where he worked for the next 50 years. He married Rose Hirsch, the sister of Sidney Hirsch on November 5, 1902, and they had a daughter Helen, who is the donor of this collection. Many of the meetings of the Fugitive poets were held at his home on Whitland Avenue in Nashville. He died in Nashville on November 21, 1944.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>These papers consist primarily of correspondence and manuscript material that Fugitive poet James Marshall Frank collected. Also included here are items that came from him and other Fugitive poets and which were donated to Special Collections by his daughter Helen Frank. Donald Davidson, Laura Riding Gottshcalk, Sidney Hirsch, Merrill Moore, Allen Tate, and Robert Penn Warren are among the Fugitive poets whose work is represented, and there are also letters to and from various members of the Frank and Hirsch families.</p>
-<p>Frank&#8217;s collected issues of <emph render="italic">Skyline</emph> and <emph render="italic">The Archive</emph> feature poems by Frank and other Fugitive poets. The collection is .417 linear feet.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Outgoing Correspondence from Helen Frank</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">1</container>
-<unitdate>June 4, 1928 - June, 1964</unitdate>
-</did>
-<c04 level="item">
-<did>
-<unitdate>June 4, 1928 to family</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>August 7, 1934 to Mrs. James Frank</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>June, 1964 to Louise Davis</unitdate>
-</did>
-</c04>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Outgoing Correspondence from Sidney Hirsch</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">2</container>
-<unitdate>August 29, 1913 - November 22, 1918</unitdate>
-</did>
-<c04 level="item">
-<did>
-<unitdate>August 29, 1913 to Helen</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>May 2, 1914 to Jess</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>September 14, 1914 to Jim Frank</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>January 7, 1917 to Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>February 2, 1918; February 7, 1918 to My dear family</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>March 14, 1918; April 18, 1918; November 22, 1918 to Jim</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">3</container>
-<unitdate>February 8, 1925 - July 14, 1925</unitdate>
-</did>
-<c04 level="item">
-<did>
-<unitdate>February 8, 1925; February 15, 1925 to All</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>February 17, 1925 to Elsie</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>February 26, 1925 to All</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>March 6, 1925 to Jim</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>March 22, 1925; July 14, 1925 to All</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">4</container>
-<unitdate>November 17, 1925 - October 20, 1936</unitdate>
-</did>
-<c04 level="item">
-<did>
-<unitdate>November 17, 1925 to Jim</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>May 14, 1926</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>April 30, 1926 to All</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>June 1, 1926 to All</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>June 1926</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>October 20, 1936 to Rose, Jim, Helen</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>Incomplete dates</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">6</container>
-<unittitle>Incomplete dates</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Outgoing Correspondence from Merrill Moore</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">7</container>
-<unitdate>August 26, 1929 - December 13, 1938</unitdate>
-</did>
-<c04 level="item">
-<did>
-<unitdate>August 26, 1929 to Miss Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>November 10, 1929 to Hirsch - Franks</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>June 8, 1930 to Miss Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>November 7, 1932 to Helen</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>December 31, 1933 to Miss Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>April 20, 1937 to Miss Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>May 11, 1938 to Mrs. Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>June 30, 1938 to Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>December 13, 1938 to Rose</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">8</container>
-<unitdate>February 3, 1939 - September 1, 1950</unitdate>
-</did>
-<c04 level="item">
-<did>
-<unitdate>February 3, 1939 to Helen</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>October 20, 1939 to Mr. Jim and Miss Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>March 1, 1940 to Miss Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>March 1, 1941 to Mr. Jim</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>December, 1943 to Miss Rose</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unittitle>Thanksgiving 1944 to Rose, Jim, Elsie, Helen</unittitle>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>January 7, 1948 to Helen</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<unitdate>September 1, 1950 to Rose</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">9</container>
-<unitdate>September 11, 1957 - July/August 1948</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Incoming Correspondence to Helen Frank</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">10</container>
-<unittitle>Brittingham, Dr. and Mrs. Thomas - n.d.</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Brittingham, Mrs. Thomas (Dotsy)</unittitle>
-<unitdate>January 23, 1981</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Bynner, Witter</unittitle>
-<unitdate>November 5, 1921</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Cheney, Frances Neel (Fannie)</unittitle>
-<unitdate>August 10, 1956</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Dahl &#8211; Wolfe, Louise</unittitle>
-<unitdate>May 18, 1972</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Davis, Louise</unittitle>
-<unitdate>June 10, 1964</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Frank, Lois (Mrs. Morris)</unittitle>
-<unitdate>December 30, 1977</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">11</container>
-<unittitle>Gottschalk, Laura Riding</unittitle>
-<unitdate>December 3, 1924; April 30, 1925; June 3, 1925; August 5, 1925; August 31, 1925</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Gottschalk, Laura and Louis - n.d.;</unittitle>
-<unitdate>April 30, 19?</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">12</container>
-<unittitle>Nasse, Paquerette</unittitle>
-<unitdate>March 6, 1966</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Stewart, John L.</unittitle>
-<unitdate>June 19, 1964</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Incoming Correspondence to James Marshall Frank</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">13</container>
-<unittitle>Earnest, D.L.</unittitle>
-<unitdate>April 24, 19?</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Hume, Alfred</unittitle>
-<unitdate>April 24, 1922</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Stuart, Jesse</unittitle>
-<unitdate>October 24, 1934</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Tate, Allen</unittitle>
-<unitdate>October 14, 1927</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Witcover, H.W.</unittitle>
-<unitdate>December 12, 1924; February 21, 1928</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Incoming Correspondence to Rose Hirsch Frank (Mrs. James)</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">14</container>
-<unittitle>Frank, Jim</unittitle>
-<unitdate>June 30, 1934</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Nauen</unittitle>
-<unitdate>October 16, 1936</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Starr, Milton</unittitle>
-<unitdate>July 8, 1928</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Tate, Allen</unittitle>
-<unitdate>November 30, 1944</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Untermeyer, Jean Starr</unittitle>
-<unitdate>April 12, 1930</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Yum, Helen</unittitle>
-<unitdate>October 20, 1936; August 1, 1940</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Zener, Karl</unittitle>
-<unitdate>June 3, 1928</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Incoming Correspondence to Sidney Hirsch</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="folder">15</container>
-<unittitle>Hal</unittitle>
-<unitdate>December 31, 1921</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Ralph</unittitle>
-<unitdate>September 29, 1916</unitdate>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Poems - Manuscripts - James Marshall Frank</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">16</container>
-<unittitle>Mirrors (2 handwritten copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Two Sonnets</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>11 The Book of How</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Garden Waters</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">17</container>
-<unittitle>Croesus in Autumn</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Pro Sua Vita</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>San Francisco Night Windows</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Lines with No Title</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">18</container>
-<unittitle>Cora is Dead (4 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>I proffered you a mountain chain of love. . .</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>The Wind</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>To R.H.F. (4 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>To R&#8212;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">19</container>
-<unittitle>The Terrible</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Stranger Guest</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Silhouette</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Pegasus at the County Fair (2 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">20</container>
-<unittitle>On My Birthday</unittitle>
-<unitdate>(April 16, 1929; 2 copies)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Muses (Singing) (a dramatic poem; 4 pages)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">21</container>
-<unittitle>Husband Betrayed</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>The Helmeted Minerva</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Genealogy</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>For Example (3 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">22</container>
-<unittitle>Esperance</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">23</container>
-<unittitle>Complexity</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Coils</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Buddy II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unitdate>August</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">24</container>
-<unittitle>But when he is put up for sale . . . (2 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>From the point the circle drawn. . . ( 2 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>A soldier once went valiantly to fight. . .</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Plucked from a pristinate garden&#8230;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">25</container>
-<unittitle>Miscellaneous manuscripts</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Poems - manuscripts - other authors</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">26</container>
-<unittitle>Davidson, Donald</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>A little eye against a brain</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Crabbed Youth and Age</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Gottschalk, Laura Riding</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Address to Shelley</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">27</container>
-<unittitle>Moore, Merrill</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Certain Room</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Naked and Drenched</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Oh, Mariner, oh Master Mariner</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Notes in Defense of Ecstasy:</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Physiology</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Relativity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Conflict</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Thought, Distraught</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Meeting in a Garden</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Epithalamion of a Peach</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Swine, Wine</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>L&#8217;Etat C&#8217;Est Moi</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Misanthropy</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Vain Protestations</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Tones and Comparisons</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Disappointment of a Thrall</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>In Bed, Not Dead</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Primer of Science</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Fait Accompli</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Pilcher, Cobb</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Purpose</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">28</container>
-<unittitle>Tate, Allen</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Shadow and Shade</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>The Mediterranean (2 copies)</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Warren, Robert Penn</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Old Man One Hour Before Dawn</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Plays - manuscripts - James Marshall Frank</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">29</container>
-<unittitle>Potophor&#8217;s Wife (12 Pencil Manuscript Papers)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">30</container>
-<unittitle>Savonarola (pencil manuscripts in notebook)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">31</container>
-<unittitle>Sudaveh - Queen of Persia (drama in 5 Acts)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">32</container>
-<unittitle>Scraps of handwritten manuscripts</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Articles and clippings</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">33</container>
-<unittitle>Photocopies:</unittitle>
-</did>
-<scopecontent>
-<p>&#8220;Cora Leventhal Martin: A Tribute from a Girlhood Friend&#8221; by Rose Hirsch Frank</p>
-<p>&#8220;Member of Associated Retailers Welcomes Visitors to State Fair&#8221;</p>
-<p>&#8220;The Fugitive&#8221; (1923)</p>
-<p>&#8220;New York Woman and Massachusetts Man Win $100 Nashville Poetry Contest&#8221; (1923 - 1924)</p>
-<p>&#8220;New Fugitive is Published&#8221;</p>
-<p>&#8220;Nashville Poets Will Read Saturday&#8221;</p>
-<p>&#8220;Nashville Poets Read Originals Before Poetry Society Meeting&#8221;</p>
-<p>&#8220;The Phoenix Nest&#8221; from <emph render="italic">Saturday Review of Literature</emph> (February 16, 1929)</p>
-<p>&#8220;The December Issue of <emph render="italic">The Fugitive</emph> is an Unusually Interesting Number,&#8221; by George Bond</p>
-<p>&#8220;The World of Letters: Ransom Comment on Books and Bookmen&#8221; from <emph render="italic">Review of Books</emph></p>
-<p>&#8220;The Outland Piper,&#8221; by Donald Davidson, Has Lyrical Passion,&#8221; by Hilton R. Greer</p>
-<p>&#8220;Integrity, Patience, Discipline&#8221; A review of John Crowe Ransom&#8217;s <emph render="italic">Selected Poems</emph> From the <emph render="italic">New York Times</emph>, July 8, 1945</p>
-<p>&#8220;Ransom at 84: New Book, Old Times&#8221; from New York Times, May 17, 1972</p>
-<p>&#8220;Grant Brings No Obligation: Robert Penn Warren Nabs $300, 000 Prize&#8221; by Carey Winfrey</p>
-<p>&#8220;Fugitives&#8217; Regroup to Study, Be Studied on Beginnings, Literary Contributions&#8221; by Ralph Morrissey</p>
-<p>&#8220;Literary Group Meets at VU to Study Fugitive Poets&#8221; by Bruce Williams from <emph render="italic">The Nashville Banner</emph>, May 3, 1956</p>
-<p>&#8220;Fugitive Meetings Recorded; Poets Themselves May Pen Versions of Rare Sessions&#8221; by Ralph Morrissey from <emph render="italic">The Tennessean</emph>, May 6, 1956</p>
-<p>&#8220;Fugitive Sampling&#8221; - short poems by nine of the Fugitive poets</p>
-<p>&#8220;Literary Leaders to Meet at VU for 3 - Day Parley of Fugitive Poets&#8221; from <emph render="italic">the Nashville Banner</emph>, May 1, 1956</p>
-<p>&#8220;Assignment, Nashville: Fugitive Thoughts on &#8216;Fugitive&#8217; by Eddie Jones</p>
-<p>&#8220;Fugitive Stumped by Reunion Purpose&#8221;</p>
-<p>&#8220;Fugitives&#8217; Hark Back 30 Years to Capture Spirit of Fine Poetry&#8221; by John Seigenthaler from <emph render="italic">The Nashville Tennessean</emph>, May 3, 1956</p>
-<p>&#8220;Our Girl Friday says: Parties, Poetry Mixes for VU Fugitive Group&#8221; from <emph render="italic">The Nashville Tennessean</emph>, May 4, 1956</p>
-<p>&#8220;Spirit of Fugitives Flare Up Anew&#8221; by John Seigenthaler from <emph render="italic">The Nashville Banner</emph>, May 5, 1956</p>
-</scopecontent>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Publications</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">34</container>
-<unittitle>Skyline, a college literary magazine, published at the Cleveland College of Western Reserve University, Cleveland, Ohio:</unittitle>
-</did>
-<scopecontent>
-<p>Volume 1, no. 3 ,January 1929</p>
-<p>Volume 2, no. 1, May 1929</p>
-</scopecontent>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">35</container>
-<unittitle>The Archive, a monthly publication at Duke University, Durham, North Carolina:</unittitle>
-</did>
-<scopecontent>
-<p>Volume XLI, no. 4, January 1929</p>
-<p>Volume XLI, no. 5, February 1929</p>
-<p>Volume XLI, no. 7, April 1929</p>
-<p>Volume XLII, no. 6, May 1930</p>
-<p>Volume XLII, no. 7, April 1930</p>
-</scopecontent>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Documents</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">36</container>
-<unittitle>3 Ex Libris James M. Frank bookplates by Sidney Hirsch</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>3 Miscellaneous pencil drawings</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Order and Travel papers for Reconstruction Aide, Sadie Frank</unittitle>
-<unitdate>February 2; 3, 1919</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Wedding Invitation of Rose Lee to James Marshall Frank</unittitle>
-<unitdate>November 5, 1902</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Addressed to John P. Frank&#8217;s document of money transfer from Goldie D. and Nathaniel D. Hirsch to James M. Frank</unittitle>
-<unitdate>July 1, 1915</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Document granting patent to Sidney M. Hirsch</unittitle>
-<unitdate>June 9, 1917</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Letter to J.M. Frank about patent</unittitle>
-<unitdate>June 13, 1917</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Memorabilia</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">37</container>
-<unittitle>Brown leather covering of The Fugitive dedicated to &#8220;President S. Mttron-Hirsch, 1922 - 1925&#8221;; inscribed by Donald Davidson and Walter Clyde Curry</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Frank, James Marshall Papers</titleproper>
+        <titleproper>Finding Aid for the James Marshall Frank Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>James Marshall Frank Papers</unittitle>
+      <unitid>MSS.0153</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1902/1981" type="inclusive"></unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>A member of the Fugitive literary group and a brother-in-law of Sidney Mttron Hirsch, James Marshall Frank was a successful manufacturer with an interest in literature and education. Born in Marshall County, Tennessee in 1866, James Marshall Frank
+        spent most of his life in Nashville. An 1885 graduate of George Peabody College, he taught for several years. Financial responsibilities caused him to change careers, and he accepted employment with Frank and Company, a local shirt manufacturer,
+        where he worked for the next 50 years. He married Rose Hirsch, the sister of Sidney Hirsch on November 5, 1902, and they had a daughter Helen, who is the donor of this collection. Many of the meetings of the Fugitive poets were held at his home on
+        Whitland Avenue in Nashville. He died in Nashville on November 21, 1944.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>These papers consist primarily of correspondence and manuscript material that Fugitive poet James Marshall Frank collected. Also included here are items that came from him and other Fugitive poets and which were donated to Special Collections by
+        his daughter Helen Frank. Donald Davidson, Laura Riding Gottshcalk, Sidney Hirsch, Merrill Moore, Allen Tate, and Robert Penn Warren are among the Fugitive poets whose work is represented, and there are also letters to and from various members of the
+        Frank and Hirsch families.</p>
+      <p>Frank&#8217;s collected issues of
+        <emph render="italic">Skyline</emph>
+        and
+        <emph render="italic">The Archive</emph>
+        feature poems by Frank and other Fugitive poets. The collection is .417 linear feet.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Outgoing Correspondence from Helen Frank</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">1</container>
+              <unitdate>June 4, 1928 - June, 1964</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <unitdate>June 4, 1928 to family</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>August 7, 1934 to Mrs. James Frank</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>June, 1964 to Louise Davis</unitdate>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Outgoing Correspondence from Sidney Hirsch</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">2</container>
+              <unitdate>August 29, 1913 - November 22, 1918</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <unitdate>August 29, 1913 to Helen</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>May 2, 1914 to Jess</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>September 14, 1914 to Jim Frank</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>January 7, 1917 to Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>February 2, 1918; February 7, 1918 to My dear family</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>March 14, 1918; April 18, 1918; November 22, 1918 to Jim</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">3</container>
+              <unitdate>February 8, 1925 - July 14, 1925</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <unitdate>February 8, 1925; February 15, 1925 to All</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>February 17, 1925 to Elsie</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>February 26, 1925 to All</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>March 6, 1925 to Jim</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>March 22, 1925; July 14, 1925 to All</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">4</container>
+              <unitdate>November 17, 1925 - October 20, 1936</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <unitdate>November 17, 1925 to Jim</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>May 14, 1926</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>April 30, 1926 to All</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>June 1, 1926 to All</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>June 1926</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>October 20, 1936 to Rose, Jim, Helen</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">5</container>
+              <unittitle>Incomplete dates</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">6</container>
+              <unittitle>Incomplete dates</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Outgoing Correspondence from Merrill Moore</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">7</container>
+              <unitdate>August 26, 1929 - December 13, 1938</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <unitdate>August 26, 1929 to Miss Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>November 10, 1929 to Hirsch - Franks</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>June 8, 1930 to Miss Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>November 7, 1932 to Helen</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>December 31, 1933 to Miss Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>April 20, 1937 to Miss Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>May 11, 1938 to Mrs. Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>June 30, 1938 to Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>December 13, 1938 to Rose</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">8</container>
+              <unitdate>February 3, 1939 - September 1, 1950</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <unitdate>February 3, 1939 to Helen</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>October 20, 1939 to Mr. Jim and Miss Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>March 1, 1940 to Miss Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>March 1, 1941 to Mr. Jim</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>December, 1943 to Miss Rose</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Thanksgiving 1944 to Rose, Jim, Elsie, Helen</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>January 7, 1948 to Helen</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unitdate>September 1, 1950 to Rose</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">9</container>
+              <unitdate>September 11, 1957 - July/August 1948</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Incoming Correspondence to Helen Frank</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">10</container>
+              <unittitle>Brittingham, Dr. and Mrs. Thomas - n.d.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Brittingham, Mrs. Thomas (Dotsy)</unittitle>
+              <unitdate>January 23, 1981</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Bynner, Witter</unittitle>
+              <unitdate>November 5, 1921</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Cheney, Frances Neel (Fannie)</unittitle>
+              <unitdate>August 10, 1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Dahl &#8211; Wolfe, Louise</unittitle>
+              <unitdate>May 18, 1972</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Davis, Louise</unittitle>
+              <unitdate>June 10, 1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Frank, Lois (Mrs. Morris)</unittitle>
+              <unitdate>December 30, 1977</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">11</container>
+              <unittitle>Gottschalk, Laura Riding</unittitle>
+              <unitdate>December 3, 1924; April 30, 1925; June 3, 1925; August 5, 1925; August 31, 1925</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Gottschalk, Laura and Louis - n.d.;</unittitle>
+              <unitdate>April 30, 19?</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="folder">12</container>
+              <unittitle>Nasse, Paquerette</unittitle>
+              <unitdate>March 6, 1966</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Stewart, John L.</unittitle>
+              <unitdate>June 19, 1964</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Incoming Correspondence to James Marshall Frank</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">13</container>
+              <unittitle>Earnest, D.L.</unittitle>
+              <unitdate>April 24, 19?</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Hume, Alfred</unittitle>
+              <unitdate>April 24, 1922</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Stuart, Jesse</unittitle>
+              <unitdate>October 24, 1934</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>October 14, 1927</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Witcover, H.W.</unittitle>
+              <unitdate>December 12, 1924; February 21, 1928</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Incoming Correspondence to Rose Hirsch Frank (Mrs. James)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">14</container>
+              <unittitle>Frank, Jim</unittitle>
+              <unitdate>June 30, 1934</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Nauen</unittitle>
+              <unitdate>October 16, 1936</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Starr, Milton</unittitle>
+              <unitdate>July 8, 1928</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>November 30, 1944</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Untermeyer, Jean Starr</unittitle>
+              <unitdate>April 12, 1930</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Yum, Helen</unittitle>
+              <unitdate>October 20, 1936; August 1, 1940</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Zener, Karl</unittitle>
+              <unitdate>June 3, 1928</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Incoming Correspondence to Sidney Hirsch</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="folder">15</container>
+              <unittitle>Hal</unittitle>
+              <unitdate>December 31, 1921</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Ralph</unittitle>
+              <unitdate>September 29, 1916</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Poems - Manuscripts - James Marshall Frank</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Mirrors (2 handwritten copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Two Sonnets</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>11 The Book of How</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Garden Waters</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Croesus in Autumn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Pro Sua Vita</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>San Francisco Night Windows</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Lines with No Title</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Cora is Dead (4 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>I proffered you a mountain chain of love. . .</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>The Wind</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>To R.H.F. (4 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>To R&#8212;</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>The Terrible</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Stranger Guest</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Silhouette</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Pegasus at the County Fair (2 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>On My Birthday</unittitle>
+            <unitdate>(April 16, 1929; 2 copies)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Muses (Singing) (a dramatic poem; 4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Husband Betrayed</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>The Helmeted Minerva</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Genealogy</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>For Example (3 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Esperance</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>Complexity</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Coils</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Buddy II</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitdate>August</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>But when he is put up for sale . . . (2 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>From the point the circle drawn. . . ( 2 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>A soldier once went valiantly to fight. . .</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Plucked from a pristinate garden&#8230;</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>Miscellaneous manuscripts</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Poems - manuscripts - other authors</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>Davidson, Donald</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>A little eye against a brain</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Crabbed Youth and Age</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Gottschalk, Laura Riding</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Address to Shelley</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">27</container>
+            <unittitle>Moore, Merrill</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Certain Room</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Naked and Drenched</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Oh, Mariner, oh Master Mariner</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Notes in Defense of Ecstasy:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Physiology</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Relativity</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Conflict</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Thought, Distraught</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Meeting in a Garden</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Epithalamion of a Peach</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Swine, Wine</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>L&#8217;Etat C&#8217;Est Moi</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Misanthropy</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Vain Protestations</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Tones and Comparisons</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Disappointment of a Thrall</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>In Bed, Not Dead</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Primer of Science</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Fait Accompli</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Pilcher, Cobb</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Purpose</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">28</container>
+            <unittitle>Tate, Allen</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Shadow and Shade</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>The Mediterranean (2 copies)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Warren, Robert Penn</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Old Man One Hour Before Dawn</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Plays - manuscripts - James Marshall Frank</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">29</container>
+            <unittitle>Potophor&#8217;s Wife (12 Pencil Manuscript Papers)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">30</container>
+            <unittitle>Savonarola (pencil manuscripts in notebook)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">31</container>
+            <unittitle>Sudaveh - Queen of Persia (drama in 5 Acts)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">32</container>
+            <unittitle>Scraps of handwritten manuscripts</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Articles and clippings</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">33</container>
+            <unittitle>Photocopies:</unittitle>
+          </did>
+          <scopecontent>
+            <p>&#8220;Cora Leventhal Martin: A Tribute from a Girlhood Friend&#8221; by Rose Hirsch Frank</p>
+            <p>&#8220;Member of Associated Retailers Welcomes Visitors to State Fair&#8221;</p>
+            <p>&#8220;The Fugitive&#8221; (1923)</p>
+            <p>&#8220;New York Woman and Massachusetts Man Win $100 Nashville Poetry Contest&#8221; (1923 - 1924)</p>
+            <p>&#8220;New Fugitive is Published&#8221;</p>
+            <p>&#8220;Nashville Poets Will Read Saturday&#8221;</p>
+            <p>&#8220;Nashville Poets Read Originals Before Poetry Society Meeting&#8221;</p>
+            <p>&#8220;The Phoenix Nest&#8221; from
+              <emph render="italic">Saturday Review of Literature</emph>
+              (February 16, 1929)</p>
+            <p>&#8220;The December Issue of
+              <emph render="italic">The Fugitive</emph>
+              is an Unusually Interesting Number,&#8221; by George Bond</p>
+            <p>&#8220;The World of Letters: Ransom Comment on Books and Bookmen&#8221; from
+              <emph render="italic">Review of Books</emph>
+            </p>
+            <p>&#8220;The Outland Piper,&#8221; by Donald Davidson, Has Lyrical Passion,&#8221; by Hilton R. Greer</p>
+            <p>&#8220;Integrity, Patience, Discipline&#8221; A review of John Crowe Ransom&#8217;s
+              <emph render="italic">Selected Poems</emph>
+              From the
+              <emph render="italic">New York Times</emph>, July 8, 1945</p>
+            <p>&#8220;Ransom at 84: New Book, Old Times&#8221; from New York Times, May 17, 1972</p>
+            <p>&#8220;Grant Brings No Obligation: Robert Penn Warren Nabs $300, 000 Prize&#8221; by Carey Winfrey</p>
+            <p>&#8220;Fugitives&#8217; Regroup to Study, Be Studied on Beginnings, Literary Contributions&#8221; by Ralph Morrissey</p>
+            <p>&#8220;Literary Group Meets at VU to Study Fugitive Poets&#8221; by Bruce Williams from
+              <emph render="italic">The Nashville Banner</emph>, May 3, 1956</p>
+            <p>&#8220;Fugitive Meetings Recorded; Poets Themselves May Pen Versions of Rare Sessions&#8221; by Ralph Morrissey from
+              <emph render="italic">The Tennessean</emph>, May 6, 1956</p>
+            <p>&#8220;Fugitive Sampling&#8221; - short poems by nine of the Fugitive poets</p>
+            <p>&#8220;Literary Leaders to Meet at VU for 3 - Day Parley of Fugitive Poets&#8221; from
+              <emph render="italic">the Nashville Banner</emph>, May 1, 1956</p>
+            <p>&#8220;Assignment, Nashville: Fugitive Thoughts on &#8216;Fugitive&#8217; by Eddie Jones</p>
+            <p>&#8220;Fugitive Stumped by Reunion Purpose&#8221;</p>
+            <p>&#8220;Fugitives&#8217; Hark Back 30 Years to Capture Spirit of Fine Poetry&#8221; by John Seigenthaler from
+              <emph render="italic">The Nashville Tennessean</emph>, May 3, 1956</p>
+            <p>&#8220;Our Girl Friday says: Parties, Poetry Mixes for VU Fugitive Group&#8221; from
+              <emph render="italic">The Nashville Tennessean</emph>, May 4, 1956</p>
+            <p>&#8220;Spirit of Fugitives Flare Up Anew&#8221; by John Seigenthaler from
+              <emph render="italic">The Nashville Banner</emph>, May 5, 1956</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Publications</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">34</container>
+            <unittitle>Skyline, a college literary magazine, published at the Cleveland College of Western Reserve University, Cleveland, Ohio:</unittitle>
+          </did>
+          <scopecontent>
+            <p>Volume 1, no. 3 ,January 1929</p>
+            <p>Volume 2, no. 1, May 1929</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="folder">35</container>
+            <unittitle>The Archive, a monthly publication at Duke University, Durham, North Carolina:</unittitle>
+          </did>
+          <scopecontent>
+            <p>Volume XLI, no. 4, January 1929</p>
+            <p>Volume XLI, no. 5, February 1929</p>
+            <p>Volume XLI, no. 7, April 1929</p>
+            <p>Volume XLII, no. 6, May 1930</p>
+            <p>Volume XLII, no. 7, April 1930</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Documents</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">36</container>
+            <unittitle>3 Ex Libris James M. Frank bookplates by Sidney Hirsch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>3 Miscellaneous pencil drawings</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Order and Travel papers for Reconstruction Aide, Sadie Frank</unittitle>
+            <unitdate>February 2; 3, 1919</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Wedding Invitation of Rose Lee to James Marshall Frank</unittitle>
+            <unitdate>November 5, 1902</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Addressed to John P. Frank&#8217;s document of money transfer from Goldie D. and Nathaniel D. Hirsch to James M. Frank</unittitle>
+            <unitdate>July 1, 1915</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Document granting patent to Sidney M. Hirsch</unittitle>
+            <unitdate>June 9, 1917</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Letter to J.M. Frank about patent</unittitle>
+            <unitdate>June 13, 1917</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="folder">37</container>
+            <unittitle>Brown leather covering of The Fugitive dedicated to &#8220;President S. Mttron-Hirsch, 1922 - 1925&#8221;; inscribed by Donald Davidson and Walter Clyde Curry</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
