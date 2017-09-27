@@ -1,720 +1,719 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Garland, Landon Cabell Papers</titleproper>
-<titleproper>Finding Aid for the Landon Cabell Garland Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>The Morris Frank Collection</unittitle>
-<unitid>MSS.0154</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">2.50 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondence, Outgoing</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>July 22, 1927</unitdate>
-<unittitle>to Caroline M. Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>December 4, 1830</unitdate>
-<unittitle>to Spotswood Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>March 24, 1836</unitdate>
-<unittitle>to Samuel Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>December 16, 1839</unitdate>
-<unittitle>to Rev. John Early (Photostat Copy)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>June 1, 1846</unitdate>
-<unittitle>to John Hampden Pleasants</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>January 22, 1848</unitdate>
-<unittitle>to Caroline Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>December 1848</unitdate>
-<unittitle>to Carolina Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>April 17, 1849</unitdate>
-<unittitle>to Lucinda Rose Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>April 27, 1850</unitdate>
-<unittitle>to Lucinda Rose and Spotswood Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>July 17, 1857</unitdate>
-<unittitle>to Caroline Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>May 30, 1865</unitdate>
-<unittitle>to Caroline Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">1</container>
-<unitdate>February 8, 1993</unitdate>
-<unittitle>to J. R. Hale</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">2</container>
-<unittitle>Typed and Carbon copies of Garland Family Letters</unittitle>
-<unitdate>1829-1893</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Correspondence, Incoming</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>October 11, 1873</unitdate>
-<unittitle>to L.C. Garland from Dr. F.A.P. Barnard</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>December 17, 1873</unitdate>
-<unittitle>to L.C. Garland from Dr. F.A.P. Barnard</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>May 25, 1873</unitdate>
-<unittitle>to L.C. Garland from W.G.E.Cummingham</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>September 11, 1873</unitdate>
-<unittitle>to H.N. McTyeire from Prof. John Darby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>February 23, 1848</unitdate>
-<unittitle>to Lucinda Garland from Louise F. Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>May 25, 1833</unitdate>
-<unittitle>to Lucinda Garland from M.C. Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>June 14, 1847</unitdate>
-<unittitle>to Caroline Garland from Spotswood Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>January 3, 1973</unitdate>
-<unittitle>to L.C. Garland from Genealogical Society</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>February 1872</unitdate>
-<unittitle>to L.C. Garland from A.L.P. Green</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>April 22, 1873</unitdate>
-<unittitle>to L.C. Garland from A.L.P. Green</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>December 20, 1873</unitdate>
-<unittitle>to L.C. Garland from A.L.P. Green</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">3</container>
-<unitdate>December 27, 1873</unitdate>
-<unittitle>to L.C. Garland from A.L.P. Green</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>July 4, 1873</unitdate>
-<unittitle>to H.N. McTyeire from J. Hamilton</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>October 9, 1879</unitdate>
-<unittitle>to L.C. Garland from A. A. Lipscomb</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>April 7, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>March 17, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>May 23, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>June 21, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>June 24, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>July 22, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>August 25, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>September 13, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>September 10, 1873</unitdate>
-<unittitle>to H.N. McTyeire from J.C. Granbery Enclosure</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">4</container>
-<unitdate>November 13, 1873</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>January 2, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>January 17, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>February 14, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>February 28, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>April 6, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>April 15, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>June 4, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">5</container>
-<unitdate>September 3, 1874</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>June 16, 1875</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>July 13, 1875</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>September 10, 1875</unitdate>
-<unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>November 10, 1829</unitdate>
-<unittitle>to L.C. Garland from John H. Rice</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>September 7, 1877</unitdate>
-<unittitle>to L.C. Garland from Elliot F. Shepard</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>July 17, 1879</unitdate>
-<unittitle>to L.C. Garland from J.H. Slaughter</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>February 13, 1877</unitdate>
-<unittitle>to J.H. Slaughter from J. &#38; T. Green Enclosure</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>March 4, 1886</unitdate>
-<unittitle>to L.C. Garland from A.H. Sutherland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>February 1873</unitdate>
-<unittitle>to L.C. Garland from D.S. Switzer</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>March 26, 1874</unitdate>
-<unittitle>to L.C. Garland from Joseph W. Taylor</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>July 1, 1893</unitdate>
-<unittitle>to L.C. Garland from J.R. Tucker</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">6</container>
-<unitdate>September 27, 1882</unitdate>
-<unittitle>to L.C. Garland from &#8220;A Well Wisher&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>August 24, 1946</unitdate>
-<unittitle>to Vanderbilt University from J.D. Eggleston</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>September 21, 1946</unitdate>
-<unittitle>to J.D. Eggleston from Clara Mae Brown</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>September 21, 1946</unitdate>
-<unittitle>to Mary Garland from Clara Mae Brown</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>September 30, 1946</unitdate>
-<unittitle>to Clara Mae Brown from J.D. Eggleston</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>October 4, 1946</unitdate>
-<unittitle>to Dr. Edwin Mims from Clara Mae Brown</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>October 14, 1946</unitdate>
-<unittitle>to J.D. Eggleston from Clara Mae Brown</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>March 15, 1947</unitdate>
-<unittitle>to Clara Mae Brown from Mary Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>March 17, 1947</unitdate>
-<unittitle>to Mary Garland from Clara Mae Brown</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>March 17, 1947</unitdate>
-<unittitle>to J.D. Eggleston from Clara Mae Brown</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>March 21, 1947</unitdate>
-<unittitle>to Clara Mae Brown from J.D. Eggleston</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>April 10, 1958</unitdate>
-<unittitle>to Hampden-Sydney from Clara Mae Brown</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>April 14, 1958</unitdate>
-<unittitle>to Clara Mae Brown from Paul L. Grier</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">7</container>
-<unitdate>April 21, 1958</unitdate>
-<unittitle>to Paul L. Grier from Clara Mae Brown</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Diaries</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="file">8</container>
-<unitdate>1880</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">8</container>
-<unitdate>1882</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings, Speeches</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="file">9</container>
-<unitdate>December 5, 1880</unitdate>
-<unittitle>to the Medical Students in Elm Street Methodist Church</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">9</container>
-<unitdate>1885</unitdate>
-<unittitle>to Vanderbilt University Medical Student Graduation</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">9</container>
-<unitdate>June 14, 1888</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">9</container>
-<unitdate>Undated</unitdate>
-<unittitle>begins &#8220;This is altogether...&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">9</container>
-<unitdate>Undated</unitdate>
-<unittitle>begins &#8220;In the first...&#8221;</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings, Sermons</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="file">9</container>
-<unitdate>September 2,1883</unitdate>
-<unittitle>to the Faculty and Students of Vanderbilt University &#8220; Truthfulness the Foundation of Character&#8221;</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings, Reports</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="file">9</container>
-<unitdate>May 6, 1889</unitdate>
-<unittitle>to the Board of Trust of Vanderbilt University</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Personal and Biographical Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Biographical Sketch-- L.C. Garland by Granddaughter Caroline Garland Lewis Montgomery</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Reminiscences-- February 12, 1895 Joseph M. Safford and O.E. Brown on the death of L.C. Garland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Reminiscences-- October 11, 1943 H.H. White</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Articles-- Southern Dental Journal and Lumninary Vol. XV 1898 P. 304 (Photocopy--Refers to L.C. Garland&#8217;s early experiments with X-ray)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Clippings-- The Comet and its Career</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Clippings-- American Postage Stamps</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Financial Records-- Loan Agreement from William Hagan</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Financial Records--Receipts</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unitdate>July 21, 1882</unitdate>
-<unittitle>for family&#8217;s board at M.W. College (Mississippi Weslyan College?)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unitdate>December 1, 1882</unitdate>
-<unittitle>for butter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unitdate>December 4, 1882</unitdate>
-<unittitle>for Davidson County Taxes</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Lists-- 1887 Books loaned to Dr. Barnard</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Ephemera-- Train Ticket</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Visiting Card from Fred F. Rose</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="file">10</container>
-<unittitle>Printed directions for a Moehring Argand Burner</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Garland, Landon Cabell Papers</titleproper>
+        <titleproper>Finding Aid for the Landon Cabell Garland Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>The Landon Cabell Garland Papers</unittitle>
+      <unitid>MSS.0876</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.84 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, Outgoing</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>July 22, 1927</unitdate>
+            <unittitle>to Caroline M. Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>December 4, 1830</unitdate>
+            <unittitle>to Spotswood Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>March 24, 1836</unitdate>
+            <unittitle>to Samuel Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>December 16, 1839</unitdate>
+            <unittitle>to Rev. John Early (Photostat Copy)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>June 1, 1846</unitdate>
+            <unittitle>to John Hampden Pleasants</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>January 22, 1848</unitdate>
+            <unittitle>to Caroline Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>December 1848</unitdate>
+            <unittitle>to Carolina Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>April 17, 1849</unitdate>
+            <unittitle>to Lucinda Rose Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>April 27, 1850</unitdate>
+            <unittitle>to Lucinda Rose and Spotswood Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>July 17, 1857</unitdate>
+            <unittitle>to Caroline Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>May 30, 1865</unitdate>
+            <unittitle>to Caroline Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">1</container>
+            <unitdate>February 8, 1993</unitdate>
+            <unittitle>to J. R. Hale</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">2</container>
+            <unittitle>Typed and Carbon copies of Garland Family Letters</unittitle>
+            <unitdate>1829-1893</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>October 11, 1873</unitdate>
+            <unittitle>to L.C. Garland from Dr. F.A.P. Barnard</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>December 17, 1873</unitdate>
+            <unittitle>to L.C. Garland from Dr. F.A.P. Barnard</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>May 25, 1873</unitdate>
+            <unittitle>to L.C. Garland from W.G.E.Cummingham</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>September 11, 1873</unitdate>
+            <unittitle>to H.N. McTyeire from Prof. John Darby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>February 23, 1848</unitdate>
+            <unittitle>to Lucinda Garland from Louise F. Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>May 25, 1833</unitdate>
+            <unittitle>to Lucinda Garland from M.C. Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>June 14, 1847</unitdate>
+            <unittitle>to Caroline Garland from Spotswood Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>January 3, 1973</unitdate>
+            <unittitle>to L.C. Garland from Genealogical Society</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>February 1872</unitdate>
+            <unittitle>to L.C. Garland from A.L.P. Green</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>April 22, 1873</unitdate>
+            <unittitle>to L.C. Garland from A.L.P. Green</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>December 20, 1873</unitdate>
+            <unittitle>to L.C. Garland from A.L.P. Green</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">3</container>
+            <unitdate>December 27, 1873</unitdate>
+            <unittitle>to L.C. Garland from A.L.P. Green</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>July 4, 1873</unitdate>
+            <unittitle>to H.N. McTyeire from J. Hamilton</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>October 9, 1879</unitdate>
+            <unittitle>to L.C. Garland from A. A. Lipscomb</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>April 7, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>March 17, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>May 23, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>June 21, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>June 24, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>July 22, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>August 25, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>September 13, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>September 10, 1873</unitdate>
+            <unittitle>to H.N. McTyeire from J.C. Granbery Enclosure</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">4</container>
+            <unitdate>November 13, 1873</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>January 2, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>January 17, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>February 14, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>February 28, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>April 6, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>April 15, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>June 4, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">5</container>
+            <unitdate>September 3, 1874</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>June 16, 1875</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>July 13, 1875</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>September 10, 1875</unitdate>
+            <unittitle>to L.C. Garland from H.N. McTyeire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>November 10, 1829</unitdate>
+            <unittitle>to L.C. Garland from John H. Rice</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>September 7, 1877</unitdate>
+            <unittitle>to L.C. Garland from Elliot F. Shepard</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>July 17, 1879</unitdate>
+            <unittitle>to L.C. Garland from J.H. Slaughter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>February 13, 1877</unitdate>
+            <unittitle>to J.H. Slaughter from J. &#38; T. Green Enclosure</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>March 4, 1886</unitdate>
+            <unittitle>to L.C. Garland from A.H. Sutherland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>February 1873</unitdate>
+            <unittitle>to L.C. Garland from D.S. Switzer</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>March 26, 1874</unitdate>
+            <unittitle>to L.C. Garland from Joseph W. Taylor</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>July 1, 1893</unitdate>
+            <unittitle>to L.C. Garland from J.R. Tucker</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">6</container>
+            <unitdate>September 27, 1882</unitdate>
+            <unittitle>to L.C. Garland from &#8220;A Well Wisher&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>August 24, 1946</unitdate>
+            <unittitle>to Vanderbilt University from J.D. Eggleston</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>September 21, 1946</unitdate>
+            <unittitle>to J.D. Eggleston from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>September 21, 1946</unitdate>
+            <unittitle>to Mary Garland from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>September 30, 1946</unitdate>
+            <unittitle>to Clara Mae Brown from J.D. Eggleston</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>October 4, 1946</unitdate>
+            <unittitle>to Dr. Edwin Mims from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>October 14, 1946</unitdate>
+            <unittitle>to J.D. Eggleston from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>March 15, 1947</unitdate>
+            <unittitle>to Clara Mae Brown from Mary Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>March 17, 1947</unitdate>
+            <unittitle>to Mary Garland from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>March 17, 1947</unitdate>
+            <unittitle>to J.D. Eggleston from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>March 21, 1947</unitdate>
+            <unittitle>to Clara Mae Brown from J.D. Eggleston</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>April 10, 1958</unitdate>
+            <unittitle>to Hampden-Sydney from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>April 14, 1958</unitdate>
+            <unittitle>to Clara Mae Brown from Paul L. Grier</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">7</container>
+            <unitdate>April 21, 1958</unitdate>
+            <unittitle>to Paul L. Grier from Clara Mae Brown</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Diaries</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="file">8</container>
+            <unitdate>1880</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">8</container>
+            <unitdate>1882</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings, Speeches</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="file">9</container>
+            <unitdate>December 5, 1880</unitdate>
+            <unittitle>to the Medical Students in Elm Street Methodist Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">9</container>
+            <unitdate>1885</unitdate>
+            <unittitle>to Vanderbilt University Medical Student Graduation</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">9</container>
+            <unitdate>June 14, 1888</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">9</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>begins &#8220;This is altogether...&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">9</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>begins &#8220;In the first...&#8221;</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings, Sermons</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="file">9</container>
+            <unitdate>September 2,1883</unitdate>
+            <unittitle>to the Faculty and Students of Vanderbilt University &#8220; Truthfulness the Foundation of Character&#8221;</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings, Reports</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="file">9</container>
+            <unitdate>May 6, 1889</unitdate>
+            <unittitle>to the Board of Trust of Vanderbilt University</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal and Biographical Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Biographical Sketch-- L.C. Garland by Granddaughter Caroline Garland Lewis Montgomery</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Reminiscences-- February 12, 1895 Joseph M. Safford and O.E. Brown on the death of L.C. Garland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Reminiscences-- October 11, 1943 H.H. White</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Articles-- Southern Dental Journal and Lumninary Vol. XV 1898 P. 304 (Photocopy--Refers to L.C. Garland&#8217;s early experiments with X-ray)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Clippings-- The Comet and its Career</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Clippings-- American Postage Stamps</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Financial Records-- Loan Agreement from William Hagan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Financial Records--Receipts</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unitdate>July 21, 1882</unitdate>
+              <unittitle>for family&#8217;s board at M.W. College (Mississippi Weslyan College?)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>December 1, 1882</unitdate>
+              <unittitle>for butter</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>December 4, 1882</unitdate>
+              <unittitle>for Davidson County Taxes</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Lists-- 1887 Books loaned to Dr. Barnard</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Ephemera-- Train Ticket</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Visiting Card from Fred F. Rose</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="file">10</container>
+            <unittitle>Printed directions for a Moehring Argand Burner</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
