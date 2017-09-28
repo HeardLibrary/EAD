@@ -1,274 +1,276 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Lang, James J. Papers</titleproper>
-<titleproper>Finding Aid for the James J. Lang Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1981-1998</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>James J. Lang Papers</unittitle>
-<unitid>MSS.0249</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">1.26 linear feet</extent>
-</physdesc>
-<unitdate>1981-1998</unitdate>
-</did>
-<bioghist>
-<head>Biography/History</head>
-<p>James J. Lang received his B.A. degree from Canisius College in 1966. His doctoral work in sociology and demography was completed at the University of Michigan. He served as a Vista Volunteer at Southside Settlement House in Columbus, Ohio and worked as a Project Director for Crossroads Africa in Gambia, West Africa.</p>
-<p>Professor Lang held a position in Sociology and Latin American Studies at Vanderbilt University from 1974 to 2008. His research and field work has been supported by the American Council of Learned Societies, the Woodrow Wilson International Center for Scholars, the Kellogg Foundation, the Rockefeller Foundation, the International Potato Center, and Vanderbilt&#8217;s Faculty Research Council.</p>
-<p>Between 1988 and 1998, he visited nine countries for his book <emph render="italic">Notes of a Potato Watcher</emph>, College Station: Texas A &#38; M University Press, 2001. The field notes are from the following countries: Peru, Bolivia, Ecuador, Tunisia, Egypt, Kenya and Uganda, India, and Indonesia.</p>
-<p>Between 1981 and 1984, he visited thirty-four development projects in six countries: Costa Rica, Brazil, The Dominican Republic, Colombia, Paraguay, and Argentina. The field notes from the Dominican Republic, Brazil, and Colombia provided the raw materials for <emph render="italic">Inside Development in Latin America</emph>, Chapel Hill: University of North Carolina Press, 1988. These materials were received in Special Collections in 2002.</p>
-<p>In 1989 Professor Lang took a trip to Brazil, and in 1990 to Asia to meet with people from the IRRI (International Rice Research Institute). Topics discussed include research testing of rice, salt and iron tolerance in rice, weed control, and production. His field notes are contained in two bound volumes titled, <emph render="italic">Feeding a Hungry Planet</emph>.</p>
-<p>Professor Lang provided a biographical sketch and a bibliography, which is included with the finding aid.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This collection, measuring .66 linear feet, contains three series of field notes:</p>
-<p>Series I, housed in 12 acid-free file folders, relates to <emph render="italic">Notes of a Potato Watcher</emph>, covers potato crops, viruses that effect the potato, research into ways to prevent the viruses, genetic engineering of the potato, production, pests, and breeders. File folders follow the format from the table of contents. Note: An abstract written by Professor Lang is included with the finding aid.</p>
-<p>Series II, housed in six acid-free file folders, relates to <emph render="italic">Inside Development in Latin America</emph>, covers the principle problems in each country, outlining some programs that may improve conditions in education, health care, and agriculture. File folders are in alphabetical order. The following field notes are included in the collection:</p>
-<p>Series III contains two bound volumes of field notes Chapter One: Asia- <emph render="italic">Feeding a Hungry Planet</emph>, and Chapter Two: Brazil-<emph render="italic">Feeding a Hungry Planet</emph>.</p>
-</scopecontent>
-
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>SERIES I NOTES OF A POTATO WATCHER</unittitle>
-</did>
-<note>
-<p>Overview and Table of Contents</p>
-</note>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Peru</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>July 12, 1988 to July 25, 1988</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>March 11, 1996 to March 12, 1996</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>May 12, 1997 to May 15, 1997</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Bolivia</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>April 3, 1990 to April 12, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>February 28, 1996 to March 6, 1996</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Ecuador</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>April 28, 1997 to May 9, 1997</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Tunisia</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>June 28, 1996 to July 5, 1996</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Egypt</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>July 9, 1996 to July 11, 1996</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Kenya &#38; Uganda</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>December 9, 1997 to January 6, 1998</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>India</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>December 16, 1996 to January 3, 1997</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Indonesia</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>October 19, 1995 to November 17, 1995</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>SERIES II INSIDE DEVELOPMENT IN LATIN AMERICA</unittitle>
-<note>
-<p>Overview</p>
-</note>
-</did>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Brazil</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unitdate>March 2, 1982 to July 2, 1982</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unitdate>July 11, 1983 to July 22, 1983</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Colombia</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unitdate>May 7, 1983 to June 17, 1983</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Costa Rica</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unitdate>November 17, 1981 to December 10, 1981</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Dominican Republic</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unitdate>January 3, 1983 to January 12, 1983</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Series III <emph render="italic">FEEDING A HUNGRY PLANET</emph></unittitle>
-</did>
-</c01>
-</dsc>
-<bioghist>
-<head>BIOGRAPHICAL SKETCH: JAMES J. LANG</head>
-<p>Dr. James Lang grew up in Buffalo, New York, where he received his B.A. degree from Canisius College in 1966. As a college student, he spent his summers as a steel worker at the Bethlehem rolling mill in Lackawanna, New York. He did his doctoral work in sociology and demography at the University of Michigan in Ann Arbor. At Michigan, Dr. Lang was a founding member of the first Residential College. Before completing his graduate studies, he served as a Vista Volunteer at Southside Settlement House in Columbus, Ohio. He also spent a summer as a Project Director for Crossroads Africa in the Gambia, West Africa. As an advanced degree candidate, Lang held a Danforth-Kent Doctoral Fellowship.</p>
-<p>From 1974 to 2008, Dr. Lang held a position in Sociology and Latin American Studies. His research and field work has been supported by the American Council of Learned Societies, the Woodrow Wilson International Center for Scholars, the Kellogg Foundation, the Rockefeller Foundation, the International Potato Center, and Vanderbilt&#8217;s Faculty Research Council.</p>
-<p>Dr. Land participated in Vanderbilt&#8217;s Faculty-in-Residence Program and is a recipient of the Chancellor&#8217;s Cup for service to Vanderbilt students. He is fluent in both Portuguese and Spanish and is a past Director of Vanderbilt&#8217;s residential language program at Vanderbilt&#8217;s McTyeire International House.</p>
-<p>Dr. Lang&#8217;s published work has focused on comparative history and development. <emph render="underline"><emph render="bold">Conquest and Commerce: Spain and England in the Americas</emph></emph> (New York: Academic Press, 1975) compares the colonial regimes that Spain and England established in the New World. <emph render="underline"><emph render="bold">Portuguese Brazil: The King&#8217;s Plantation</emph></emph> (New York: Academic Press, 1979) examines how the formation of an export-dominated economy shaped Brazil&#8217;s development. <emph render="underline"><emph render="bold">Inside Development in Latin America</emph></emph> (Chapel Hill: University of North Carolina Press, 1988) looks at how community-focused, self-help projects are organized; examples come from the Dominican Republic, Columbia, and Brazil. <emph render="underline"><emph render="bold">Feeding a Hungry Planet</emph></emph> (Chapel Hill: University of North Carolina Press, 1996) is about how grassroots technology transformed rice production in Asia and Latin America. <emph render="underline"><emph render="bold">Notes of a Potato Watcher</emph></emph> (College Station: Texas A &#38; M University Press, 2001) describes Andean agriculture, explains how potatoes became a staple crop throughout the world, and analyzes potato production projects in Asia, Latin America, and Africa.</p>
-</bioghist>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Lang, James J. Papers</titleproper>
+        <titleproper>Finding Aid for the James J. Lang Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>James J. Lang Papers</unittitle>
+      <unitid>MSS.0249</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.26 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1981/1998" type="inclusive"></unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/History</head>
+      <p>James J. Lang received his B.A. degree from Canisius College in 1966. His doctoral work in sociology and demography was completed at the University of Michigan. He served as a Vista Volunteer at Southside Settlement House in Columbus, Ohio and
+        worked as a Project Director for Crossroads Africa in Gambia, West Africa.</p>
+      <p>Professor Lang held a position in Sociology and Latin American Studies at Vanderbilt University from 1974 to 2008. His research and field work has been supported by the American Council of Learned Societies, the Woodrow Wilson International Center
+        for Scholars, the Kellogg Foundation, the Rockefeller Foundation, the International Potato Center, and Vanderbilt&#8217;s Faculty Research Council.</p>
+      <p>Between 1988 and 1998, he visited nine countries for his book
+        <emph render="italic">Notes of a Potato Watcher</emph>, College Station: Texas A &#38; M University Press, 2001. The field notes are from the following countries: Peru, Bolivia, Ecuador, Tunisia, Egypt, Kenya and Uganda, India, and Indonesia.</p>
+      <p>Between 1981 and 1984, he visited thirty-four development projects in six countries: Costa Rica, Brazil, The Dominican Republic, Colombia, Paraguay, and Argentina. The field notes from the Dominican Republic, Brazil, and Colombia provided the raw
+        materials for
+        <emph render="italic">Inside Development in Latin America</emph>, Chapel Hill: University of North Carolina Press, 1988. These materials were received in Special Collections in 2002.</p>
+      <p>In 1989 Professor Lang took a trip to Brazil, and in 1990 to Asia to meet with people from the IRRI (International Rice Research Institute). Topics discussed include research testing of rice, salt and iron tolerance in rice, weed control, and
+        production. His field notes are contained in two bound volumes titled,
+        <emph render="italic">Feeding a Hungry Planet</emph>.</p>
+      <p></p>
+      <p>Professor Lang provided a biographical sketch and a bibliography, which is included below.</p>
+      <p><emph render="underline">
+        <emph render="bold">Biographical Sketch from Lang and Bibliography</emph>
+      </emph></p>
+      <p>Dr. James Lang grew up in Buffalo, New York, where he received his B.A. degree from Canisius College in 1966. As a college student, he spent his summers as a steel worker at the Bethlehem rolling mill in Lackawanna, New York. He did his doctoral
+        work in sociology and demography at the University of Michigan in Ann Arbor. At Michigan, Dr. Lang was a founding member of the first Residential College. Before completing his graduate studies, he served as a Vista Volunteer at Southside Settlement
+        House in Columbus, Ohio. He also spent a summer as a Project Director for Crossroads Africa in the Gambia, West Africa. As an advanced degree candidate, Lang held a Danforth-Kent Doctoral Fellowship.</p>
+      <p>From 1974 to 2008, Dr. Lang held a position in Sociology and Latin American Studies. His research and field work has been supported by the American Council of Learned Societies, the Woodrow Wilson International Center for Scholars, the Kellogg
+        Foundation, the Rockefeller Foundation, the International Potato Center, and Vanderbilt&#8217;s Faculty Research Council.</p>
+      <p>Dr. Land participated in Vanderbilt&#8217;s Faculty-in-Residence Program and is a recipient of the Chancellor&#8217;s Cup for service to Vanderbilt students. He is fluent in both Portuguese and Spanish and is a past Director of Vanderbilt&#8217;s
+        residential language program at Vanderbilt&#8217;s McTyeire International House.</p>
+      <p>Dr. Lang&#8217;s published work has focused on comparative history and development.
+        <emph render="underline">
+          <emph render="bold">Conquest and Commerce: Spain and England in the Americas</emph>
+        </emph>
+        (New York: Academic Press, 1975) compares the colonial regimes that Spain and England established in the New World.
+        <emph render="underline">
+          <emph render="bold">Portuguese Brazil: The King&#8217;s Plantation</emph>
+        </emph>
+        (New York: Academic Press, 1979) examines how the formation of an export-dominated economy shaped Brazil&#8217;s development.
+        <emph render="underline">
+          <emph render="bold">Inside Development in Latin America</emph>
+        </emph>
+        (Chapel Hill: University of North Carolina Press, 1988) looks at how community-focused, self-help projects are organized; examples come from the Dominican Republic, Columbia, and Brazil.
+        <emph render="underline">
+          <emph render="bold">Feeding a Hungry Planet</emph>
+        </emph>
+        (Chapel Hill: University of North Carolina Press, 1996) is about how grassroots technology transformed rice production in Asia and Latin America.
+        <emph render="underline">
+          <emph render="bold">Notes of a Potato Watcher</emph>
+        </emph>
+        (College Station: Texas A &#38; M University Press, 2001) describes Andean agriculture, explains how potatoes became a staple crop throughout the world, and analyzes potato production projects in Asia, Latin America, and Africa.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This collection, measuring .66 linear feet, contains three series of field notes:</p>
+      <p>Series I, housed in 12 acid-free file folders, relates to
+        <emph render="italic">Notes of a Potato Watcher</emph>, covers potato crops, viruses that effect the potato, research into ways to prevent the viruses, genetic engineering of the potato, production, pests, and breeders. File folders follow the format
+        from the table of contents. Note: An abstract written by Professor Lang is included with the finding aid.</p>
+      <p>Series II, housed in six acid-free file folders, relates to
+        <emph render="italic">Inside Development in Latin America</emph>, covers the principle problems in each country, outlining some programs that may improve conditions in education, health care, and agriculture. File folders are in alphabetical order. The following field notes are included in the collection:</p>
+      <p>Series III contains two bound volumes of field notes Chapter One: Asia-
+        <emph render="italic">Feeding a Hungry Planet</emph>, and Chapter Two: Brazil-<emph render="italic">Feeding a Hungry Planet</emph>.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Notes of a Potato Watcher</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Peru</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>July 12, 1988 to July 25, 1988</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>March 11, 1996 to March 12, 1996</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>May 12, 1997 to May 15, 1997</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Bolivia</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>April 3, 1990 to April 12, 1990</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>February 28, 1996 to March 6, 1996</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Ecuador</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>April 28, 1997 to May 9, 1997</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Tunisia</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>June 28, 1996 to July 5, 1996</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Egypt</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>July 9, 1996 to July 11, 1996</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Kenya &#38; Uganda</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>December 9, 1997 to January 6, 1998</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>India</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>December 16, 1996 to January 3, 1997</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Indonesia</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>October 19, 1995 to November 17, 1995</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series II: Inside Development in Latin America</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Brazil</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unitdate>March 2, 1982 to July 2, 1982</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unitdate>July 11, 1983 to July 22, 1983</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Colombia</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 7, 1983 to June 17, 1983</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Costa Rica</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unitdate>November 17, 1981 to December 10, 1981</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Dominican Republic</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unitdate>January 3, 1983 to January 12, 1983</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series III:
+            <emph render="italic">Feeding a Hungry Planet</emph>
+          </unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

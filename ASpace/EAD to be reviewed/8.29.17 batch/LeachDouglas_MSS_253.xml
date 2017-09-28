@@ -1,1525 +1,1685 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Leach, Douglas Edward Papers</titleproper>
-<titleproper>Finding Aid for the Douglas Edward Leach Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1950&#8217;s-1994</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Douglas Edward Leach Papers</unittitle>
-<unitid>MSS.0253</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">5.46 linear feet</extent>
-</physdesc>
-<unitdate>1950&#8217;s-1994</unitdate>
-</did>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>The Douglas Edward Leach Papers, 1950&#8217;s-1994, include correspondence, class notes and teaching materials, lectures, materials pertaining to professional organizations and activities, manuscripts of writings, and research materials. The thirteen boxes of this collection cover approximately 5.46 linear feet. Theses materials are arranged in five series and encompass the years of Dr. Leach&#8217;s professional career as a professor of history. As a group, these papers present a clear picture of a university professor&#8217;s life, including teaching, research, writing, committee work, and involvement in professional activities beyond the classroom and the university.</p>
-<p>The largest part of the collection, Series I, contained in five boxes, consists of correspondence. It is arranged alphabetically by correspondent&#8217;s last names and, following Dr. Leach&#8217;s filing pattern, letters to and from him and the letters in reply, are grouped together as they were sent or received in chronological order. Of particular interest is his correspondence with Alexander Heard and Samuel Eliot Morison.</p>
-<p>Series II, in two boxes, is a collection of Dr. Leach&#8217;s class notes, exams, and resource materials used in his classroom teaching.</p>
-<p>Series III, in one box, consists of lectures, both in outline and in manuscript from. Dr. Leach presented these lectures to professional and community groups between 1951 and 1994.</p>
-<p>Series IV, in two boxes, is a collection of materials pertaining to Dr. Leach&#8217;s involvement in professional organizations, such as the American Historical Association. It also contains materials dealing with his direction of the Vanderbilt-in-England program. Particularly interesting is his correspondence with David B. Quinn, the British historian, concerning Quinn&#8217;s honorary membership in the American Historical Association.</p>
-<p>Series V, in three boxes, is composed of the materials concerning Dr. Leach&#8217;s publications. There are manuscripts, research materials, correspondence, contracts, and reviews of his books and articles.</p>
-</scopecontent>
-<bioghist>
-<head>Biographical Sketch</head>
-<p>Douglas Edward Leach was born in Providence, Rhode Island, 27 May, 1920, the son of Arthur Edward and Saidee Raybold Leach. He graduated Phi Beta Kappa from Brown University in 1942, and from 1942 to 1946 he served as a deck officer in the U.S. Navy. Most of his sea duty was in the Pacific aboard the U.S.S. Elden. Following World War II, he earned his M.A. (1947) and Ph.D. (1952) from Harvard University. He married Brenda Mason in 1950, and the couple had two children, Carol Brenda and Bradford Raybold. Dr. Leach died July 1, 2003 in Nashville.</p>
-<p>Leach began his career as a history professor at Bates College, Lewiston, Maine, where he taught from 1950 until 1956. In 1956, he joined the faculty at Vanderbilt University where he remained until his retirement in 1986. Dr. Leach was a leading authority on 17<emph render="super">th</emph> century colonial American history. His books include <emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph>; <emph render="italic">The Northern Colonial Frontier, 1607-1763</emph>; <emph render="italic">Arms for Empire: A Military History of the British Colonies in North America, 1607-1763</emph>; and <emph render="italic">Roots of Conflict: British Armed Forces and Colonial America, 1677-1763</emph>.</p>
-<p>Among his numerous scholarly achievements were Fulbright Lectureships at the Universities of Liverpool, England and Auckland, New Zealand, and the Harvey Branscomb Distinguished Professorship in 1981-1982. He chaired Vanderbilt&#8217;s Department of History from 1979 until 1982, and directed the Vanderbilt-in-England Program at the University of Leeds in 1974-1975.</p>
-</bioghist>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Box Listing</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Series I: Correspondence</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Abbot-Ayers</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Bagwell-Bernhard</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Biblio-Card Company-Blumstein</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Bowden-Harvey Branscomb</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Breen-Byrnes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Cadle-Celona</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Chafee-Collins</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Cobb-Cowley</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Cray-Cushing</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Dactrex-Demos</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Dick-Duvall</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>Eckstein-Ewing</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Fairfield-Freshley</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Fulbright Committee</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Gale-Glasgow</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Glover-Gunderson</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Haakonssen-Hall</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Hamilton-Hazen</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Alexander Heard</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Hedstrom-Hetnal</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>Higginbotham-<emph render="italic">The Historian</emph></unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>Hobbs-Howington</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>Hubbard-Hyatt</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>Impact &#8216;65-Israel</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>Jacobs-Juricek</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Karsten-Klugman</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Knoll-Kolb</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>Kopperman-Kupperman</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>Lagemann-Laval</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Leach-Lexington</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>Litoff-Lovering-Holman</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>MacKenzie-Matthews</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>McCarley-Meyerhoff</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>Michigan Department of State-Morgan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle>Samuel Eliot Morison</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>Mork-Murdoch</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>National Geographic Society-Navy</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>Nelson-<emph render="italic">Newsweek</emph></unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>Noldde-<emph render="italic">Notable American Women</emph></unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>Obenchain-Orr</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Pang-Phillips</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>Piston-Prucha</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Purdy-Pyle</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>David Beers Quinn</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>Rao-Riley</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>Roberts-Ryan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>Salisbury-Scribner&#8217;s Sons</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>Sellers-Sittig</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>Slotkin-Spriegel</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>Starkweather-Swint</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Talbert-TeSelle</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Thelen-Turner</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>Ultec-United States Air Force</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Vanderbilt-Viall</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>Jacque Vogeli</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>Wade-Washburn</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle>Weaver-Whitehall</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>Wilby-Wisconsin</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>WJAR TV-Wyatt</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>Yantz-Zuccarello</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>Unidentified correspondents</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series II: Class Notes, Exams-School-Teaching Materials</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">1</container>
-<unittitle>Sample Footnotes and Bibliography Form Guide</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">2</container>
-<unittitle>Microfilms in JUL</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">3</container>
-<unittitle>Exams, History 271B</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">4</container>
-<unittitle>Exams, History 271B</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">5</container>
-<unittitle>Class Notes and Syllabus, History 295</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">6</container>
-<unittitle>Class Notes and Syllabus, History 295</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">7</container>
-<unittitle>Class Notes, Bibliography, History 305</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">8</container>
-<unittitle>Class Notes, History 371A</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">9</container>
-<unittitle>Class Notes, History 371B</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">10</container>
-<unittitle>Class Notes, History 371B</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">11</container>
-<unittitle>Teaching Resources-Historiography</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">12</container>
-<unittitle>Teaching Resources-American Indians</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">1</container>
-<unittitle>Teaching Resources-Exploration</unittitle>
-<unitdate>986-1504</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">2</container>
-<unittitle>Teaching Resources-Spanish and French Empires</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">3</container>
-<unittitle>Teaching Resources-English and French Exploration</unittitle>
-<unitdate>1497-1608</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">4</container>
-<unittitle>Teaching Resources-New Netherland</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">5</container>
-<unittitle>Teaching Resources-Puritan Colonies to</unittitle>
-<unitdate>1676</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">6</container>
-<unittitle>Teaching Resources-Virginia to</unittitle>
-<unitdate>1678</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">7</container>
-<unittitle>Teaching Resources-Pennsylvania</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">8</container>
-<unittitle>Teaching Resources-Westward Movement</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">9</container>
-<unittitle>Teaching Resources-Agriculture</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">10</container>
-<unittitle>Teaching Resources-Blacks</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">11</container>
-<unittitle>Teaching Resources-Militia</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">12</container>
-<unittitle>Teaching Resources-Self-Government</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">13</container>
-<unittitle>Teaching Resources-Glorious Revolution (1688)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">14</container>
-<unittitle>Teaching Resources-Mercantilism and Commerce</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">15</container>
-<unittitle>Teaching Resources-Colonial Press</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">16</container>
-<unittitle>Teaching Resources-Great Awakening</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">17</container>
-<unittitle>Teaching Resources-Great War for the Empire</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">18</container>
-<unittitle>Teaching Resources-England and America</unittitle>
-<unitdate>1760-1775</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">19</container>
-<unittitle>Teaching Resources-Greenville Crisis</unittitle>
-<unitdate>1763-1766</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">20</container>
-<unittitle>Teaching Resources-Townshend Crisis</unittitle>
-<unitdate>1767-1770</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">21</container>
-<unittitle>Teaching Resources-Approach to Revolution</unittitle>
-<unitdate>1770-1774</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">22</container>
-<unittitle>Teaching Resources-Struggle for Independence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">23</container>
-<unittitle>Teaching Resources-The United States in the 1780&#8217;s</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">24</container>
-<unittitle>Teaching Resources-Women&#8217;s Experience</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">25</container>
-<unittitle>Teaching Resources-Witchcraft</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">26</container>
-<unittitle>Teaching Resources-Immigration</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">27</container>
-<unittitle>Teaching Resources-Maps for Use in Class</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">28</container>
-<unittitle>Teaching Resources-Officer Corps</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">29</container>
-<unittitle>Teaching Resources-Historians&#8217; Biographies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">30</container>
-<unittitle>Teaching Resources-Historians&#8217; Biographies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">31</container>
-<unittitle>Teaching Resources-1936 Republican Party Materials</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series III: Lectures</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">The Growth of Religious Liberty</emph>, Bates College Chapel</unittitle>
-<unitdate>3 Dec. 1951</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">The Indian Policy of the Pilgrim Fathers</emph>, Society of Mayflower Descendants</unittitle>
-<unitdate>Fall, 1952</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">3</container>
-<unittitle><emph render="italic">The Enjoyment of History,</emph> Faculty Round Table (Bates College)</unittitle>
-<unitdate>14 Jan. 1954</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">Why History?</emph> Wranglers</unittitle>
-<unitdate>7 Nov. 1955</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">Landmarks in American History, 1783 to the Present,</emph> Bury Grammar School, England</unittitle>
-<unitdate>March 1960</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">George Washington</emph>, Nashville Senior Citizens</unittitle>
-<unitdate>22 Feb. 1962</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">King Philip-Front Page News in London</emph>, The Rhode Island Historical Society</unittitle>
-<unitdate>18 Nov. 1962 (See also Box 12, Files 7,8,9)</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">Training Day in the Colonies</emph>, Pattaquamagutt Historical Society</unittitle>
-<unitdate>17 May 1966</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Problems of Intrusive Colonization: America and New Zealand</emph>, Victoria University, New Zealand</unittitle>
-<unitdate>27 June 1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">Sermon for World Communion Sunday,</emph> New Zealand</unittitle>
-<unitdate>1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">Military Tradition and Practice in Colonial America,</emph> Phi Alpha Theta, The University of Rhode Island, 16 May 1966 and Victoria University, New Zealand</unittitle>
-<unitdate>26 June 1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">History Is Fun,</emph> West Virginia</unittitle>
-<unitdate>April 1969</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">13</container>
-<unittitle><emph render="italic">Tension, Strife, and Warfare in Early American History,</emph> Departmental Seminar</unittitle>
-<unitdate>13 Nov. 1972</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">14</container>
-<unittitle>Series of Five Lectures on American History, sponsored by the National Endowment for the Humanities, McCabe Community Center, Nashville</unittitle>
-<unitdate>Oct. and Nov. 1973</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">15</container>
-<unittitle><emph render="italic">The Declaration of Independence,</emph> Leeds, England</unittitle>
-<unitdate>Feb. 1975</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">16</container>
-<unittitle><emph render="italic">The Declaration of 1776-The Perspective of 1976,</emph> Unitarian Church</unittitle>
-<unitdate>18 July 1976</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">17</container>
-<unittitle><emph render="italic">Aspects of Anglo-American Tension Before 1762,</emph> Departmental Seminar</unittitle>
-<unitdate>26 Sept. 1977</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">18</container>
-<unittitle><emph render="italic">The Colonial Wars,</emph> Taped Lecture for <emph render="italic">The Voices of America Series,</emph> Michael Glazier Inc., 1979 (Manuscript of Tape)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">19</container>
-<unittitle><emph render="italic">The Colonial Wars,</emph> Taped Lecture for <emph render="italic">The Voices of America Series</emph>, Michael Glazier Inc., 1979 (Correspondence)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">20</container>
-<unittitle><emph render="italic">The Cartagena Expedition, 1740-42, and Anglo-American Relations,</emph> The University of Alabama, 11 Feb. 1983 (Manuscript) See also Box 13, Files 5 &#38; 6.</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">21</container>
-<unittitle><emph render="italic">The Cartagena Expedition, 1740-42, and Anglo-American Relations,</emph> The University of Alabama, 11 Feb. 1983 (Correspondence)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">22</container>
-<unittitle><emph render="italic">Composing a Naval Memoir,</emph> American Historical Society, 1983 (Manuscript)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">23</container>
-<unittitle><emph render="italic">Composing a Naval Memoir,</emph> American Historical Society, 1983 (Correspondence)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">24</container>
-<unittitle><emph render="italic">The Royal Navy in the Southern Colonies Before 1763: A Study in Anglo-American Friction,</emph> Southern Historical Association</unittitle>
-<unitdate>Nov. 1983</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">25</container>
-<unittitle><emph render="italic">The Central Pacific Remembered,</emph> Vanderbilt University NROTC</unittitle>
-<unitdate>9 Jan. 1986 and 11 Feb. 1988</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">26</container>
-<unittitle><emph render="italic">Beginnings of the American Naval Tradition,</emph> Vanderbilt University NROTC</unittitle>
-<unitdate>29 Jan. 1986</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">27</container>
-<unittitle>Untitled lecture delivered at Vine Street Christian Church</unittitle>
-<unitdate>5 Jan. 1988</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">28</container>
-<unittitle><emph render="italic">The Puritan Movement,</emph> Sunday School Remnant Class</unittitle>
-<unitdate>Dec. 1988</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">29</container>
-<unittitle>Proposal to the Organization of American Historians for <emph render="italic">The Second World War: One Man&#8217;s Perspective</emph></unittitle>
-<unitdate>1988</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">30</container>
-<unittitle><emph render="italic">World War II,</emph> Nashville Vanderbilt University Alumni Club</unittitle>
-<unitdate>27 Feb. 1992</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">31</container>
-<unittitle><emph render="italic">The Origins and Development of the Early American Officer Corps,</emph> Vanderbilt University NROTC</unittitle>
-<unitdate>9 April 1992</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">32</container>
-<unittitle><emph render="italic">The Importance of World War II in the 20<emph render="super">th</emph> Century,</emph> Kiwanis Club</unittitle>
-<unitdate>3 Sept. 1992</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">33</container>
-<unittitle><emph render="italic">The Father of His Country: Chance or Destiny?,</emph> Sons of the American Revolution</unittitle>
-<unitdate>23 Feb. 1993</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">34</container>
-<unittitle><emph render="italic">Remembering the Second World War,</emph> Mercer University</unittitle>
-<unitdate>18 April 1994 (Manuscript)</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">35</container>
-<unittitle><emph render="italic">Remembering the Second World War,</emph> Mercer University, 18 April 1994 (Correspondence)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">36</container>
-<unittitle><emph render="italic">Indian Relations in American History,</emph> n.d.</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">37</container>
-<unittitle><emph render="italic">D.S. Freeman: Virginia Historian, Friend of Washington and Lee,</emph> n.d.</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">38</container>
-<unittitle><emph render="italic">The Western Heritage of History,</emph> n.d.</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series IV: Organizations and Professional Activities</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">1</container>
-<unittitle>Vanderbilt Committee on University Government</unittitle>
-<unitdate>1964-1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">2</container>
-<unittitle>Vanderbilt Committee on University Government</unittitle>
-<unitdate>1964-1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">3</container>
-<unittitle>Vanderbilt Committee on University Government</unittitle>
-<unitdate>1964-1967</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">4</container>
-<unittitle>Plimoth Plantation-Conference</unittitle>
-<unitdate>6-8 Sept. 1968</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">5</container>
-<unittitle>Professional Honors-Fellow, Pilgrim Society</unittitle>
-<unitdate>1974-1990</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">6</container>
-<unittitle>Vanderbilt-in-England</unittitle>
-<unitdate>1974-1975</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">7</container>
-<unittitle>Vanderbilt-in-England</unittitle>
-<unitdate>1974-1975</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">8</container>
-<unittitle>New England Tour</unittitle>
-<unitdate>1981</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">9</container>
-<unittitle>Film Project- George Csicsery&#8217;s Project for a Film on King Philip&#8217;s War</unittitle>
-<unitdate>1981-1982</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">10</container>
-<unittitle>Obituary for Forrest Miller</unittitle>
-<unitdate>1983</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">1</container>
-<unittitle>Vanderbilt- Leave, Spring</unittitle>
-<unitdate>1984</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">2</container>
-<unittitle>Obituary for Herbert Weaver</unittitle>
-<unitdate>1985</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">3</container>
-<unittitle>American Historical Association-Nomination for Honorary Membership of David B. Quinn</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">4</container>
-<unittitle>American Historical Association-Nomination for Honorary Membership of David B. Quinn</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">5</container>
-<unittitle>Obituary for Harold Bradley</unittitle>
-<unitdate>1991</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series V: Publications</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph> (1958)-Research Material</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph> (1958)-Research and Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">3</container>
-<unittitle><emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph> (1958)-Correspondence with Macmillan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph> (1958)-Correspondence, General</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">The Northern Colonial Frontier, 1607-1763</emph> (1966)-Research Materials and Chapter Outlines</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">The Northern Colonial Frontier, 1607-1763</emph> (1966)- Correspondence with Holt, Rinehart and Winston</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">The Northern Colonial Frontier, 1607-1763</emph> (1966)-Correspondence with Holt, Rinehart, and Winston</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">The Northern Colonial Frontier, 1607-1763</emph> (1966)-Correspondence, General</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Arms for Empire: A Military History of the British Colonies in North America, 1607-1763</emph> (1973)-Contract and Correspondence with Macmillan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">Arms for Empire: A Military History of the British Colonies in North America, 1607-1763</emph>-Correspondence with Macmillan</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">Arms for Empire</emph>: <emph render="italic">A Military History of the British Colonies in North America, 1607-1763</emph>-Correspondence, General</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">Arms or Empire: A Military History of the British Colonies in North America, 1607-1763</emph>- Reviews</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">Roots of Conflict: British Armed Forces and Colonial Americans, 1677-1763</emph> (1986)-Correspondence with The University of North Carolina Press</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">Roots of Conflict: British Armed Forces and Colonial Americans, 1677-1763</emph> (1986)-Correspondence, General</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">3</container>
-<unittitle><emph render="italic">Roots of Conflict: British Armed Forces and Colonial Americans, 1677-1763</emph> (1986)-Reviews</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">A Rhode Islander on King Philip&#8217;s War</emph>, edited by Douglas Leach (1963)-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">A Rhode Islander on King Philip&#8217;s War,</emph> edited by Douglas Leach (1963)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">A Rhode Islander on King Philip&#8217;s War,</emph> edited by Douglas Leach (1963)-Reviews</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">Benjamin Batten and the London Gazette,</emph> New England Quarterly, Spring 1963-Manuscript (See also Box 8, File 7)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">Benjamin Batten and the London Gazette,</emph> New England Quarterly, Spring 1963-Research Materials</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Benjamin Batten and the London Gazette,</emph> New England Quarterly, Spring 1963-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">John Gordon,</emph> Monograph for the National Park Service (1959)-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">John Gorgon,</emph> Monograph for the National Park Service (1959)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">Rivalry and Warfare: England, France, and Spain</emph> (1972)-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">Rivalry and Warfare: England, France, and Spain</emph> (1972)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">3</container>
-<unittitle><emph render="italic">Miles Standish; Benjamin Church; Robert Roger; Sir William Johnson</emph>, Articles for the Dictionary of American Military Biography (1979)-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">4</container>
-<unittitle><emph render="italic">Miles Standish; Benjamin Church; Robert Roger; Sir William Johnson,</emph> Articles for the Dictionary of American Military Biography (1979)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">5</container>
-<unittitle><emph render="italic">The Cartagena Expedition,</emph> Adapting to Conditions (1986)-Manuscript (See also Box 8, Files 20 &#38; 21)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">6</container>
-<unittitle><emph render="italic">The Cartagena Expedition,</emph> Adapting to Conditions (1986)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">7</container>
-<unittitle><emph render="italic">Reflections While Moving On,</emph> William and Mary Quarterly, July 1988-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">8</container>
-<unittitle><emph render="italic">Reflections While Moving On,</emph> William and Mary Quarterly, July 1988-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">9</container>
-<unittitle><emph render="italic">Colonial Indian Wars,</emph> Handbook of North American Indians (1987)-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">Colonial Indian Wars,</emph> Handbook of North American Indians (1987)-Draft Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">Colonial Indian Wars,</emph> Handbook of North American Indians (1987)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">The British Army in America Before 1775,</emph> The Blackwell Encyclopedia of the American Revolution (1990)-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">13</container>
-<unittitle><emph render="italic">The British Army in America Before 1775,</emph> The Blackwell Encyclopedia of the American Revolution (1990)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">14</container>
-<unittitle><emph render="italic">The Colonial Period,</emph> Encyclopedia of the American Military, Scribners (1994)-Manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">15</container>
-<unittitle><emph render="italic">The Colonial Period,</emph> Encyclopedia of the American Military, Scribners (1994)-Correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">16</container>
-<unittitle><emph render="italic">The Siege of Brookfield</emph> (1958)-Unpublished manuscript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">17</container>
-<unittitle><emph render="italic">The Captivity of Mary Rowlandson</emph> (1958)-Unpublished Mansucript</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">18</container>
-<unittitle><emph render="italic">The Siege of Brookfield</emph> and <emph render="italic">The Captivity of Mary Rowlandson</emph> (1958)-Correspondence</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Leach, Douglas Edward Papers</titleproper>
+        <titleproper>Finding Aid for the Douglas Edward Leach Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Douglas Edward Leach Papers</unittitle>
+      <unitid>MSS.0253</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.46 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1950/1994" type="inclusive">1950&#8217;s-1994</unitdate>
+    </did>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The Douglas Edward Leach Papers, 1950&#8217;s-1994, include correspondence, class notes and teaching materials, lectures, materials pertaining to professional organizations and activities, manuscripts of writings, and research materials. The
+        thirteen boxes of this collection cover approximately 5.46 linear feet. Theses materials are arranged in five series and encompass the years of Dr. Leach&#8217;s professional career as a professor of history. As a group, these papers present a clear
+        picture of a university professor&#8217;s life, including teaching, research, writing, committee work, and involvement in professional activities beyond the classroom and the university.</p>
+      <p>The largest part of the collection, Series I, contained in five boxes, consists of correspondence. It is arranged alphabetically by correspondent&#8217;s last names and, following Dr. Leach&#8217;s filing pattern, letters to and from him and the
+        letters in reply, are grouped together as they were sent or received in chronological order. Of particular interest is his correspondence with Alexander Heard and Samuel Eliot Morison.</p>
+      <p>Series II, in two boxes, is a collection of Dr. Leach&#8217;s class notes, exams, and resource materials used in his classroom teaching.</p>
+      <p>Series III, in one box, consists of lectures, both in outline and in manuscript from. Dr. Leach presented these lectures to professional and community groups between 1951 and 1994.</p>
+      <p>Series IV, in two boxes, is a collection of materials pertaining to Dr. Leach&#8217;s involvement in professional organizations, such as the American Historical Association. It also contains materials dealing with his direction of the
+        Vanderbilt-in-England program. Particularly interesting is his correspondence with David B. Quinn, the British historian, concerning Quinn&#8217;s honorary membership in the American Historical Association.</p>
+      <p>Series V, in three boxes, is composed of the materials concerning Dr. Leach&#8217;s publications. There are manuscripts, research materials, correspondence, contracts, and reviews of his books and articles.</p>
+    </scopecontent>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>Douglas Edward Leach was born in Providence, Rhode Island, 27 May, 1920, the son of Arthur Edward and Saidee Raybold Leach. He graduated Phi Beta Kappa from Brown University in 1942, and from 1942 to 1946 he served as a deck officer in the U.S.
+        Navy. Most of his sea duty was in the Pacific aboard the U.S.S. Elden. Following World War II, he earned his M.A. (1947) and Ph.D. (1952) from Harvard University. He married Brenda Mason in 1950, and the couple had two children, Carol Brenda and
+        Bradford Raybold. Dr. Leach died July 1, 2003 in Nashville.</p>
+      <p>Leach began his career as a history professor at Bates College, Lewiston, Maine, where he taught from 1950 until 1956. In 1956, he joined the faculty at Vanderbilt University where he remained until his retirement in 1986. Dr. Leach was a leading
+        authority on 17<emph render="super">th</emph>
+        century colonial American history. His books include
+        <emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph>;
+        <emph render="italic">The Northern Colonial Frontier, 1607-1763</emph>;
+        <emph render="italic">Arms for Empire: A Military History of the British Colonies in North America, 1607-1763</emph>; and
+        <emph render="italic">Roots of Conflict: British Armed Forces and Colonial America, 1677-1763</emph>.</p>
+      <p>Among his numerous scholarly achievements were Fulbright Lectureships at the Universities of Liverpool, England and Auckland, New Zealand, and the Harvey Branscomb Distinguished Professorship in 1981-1982. He chaired Vanderbilt&#8217;s Department
+        of History from 1979 until 1982, and directed the Vanderbilt-in-England Program at the University of Leeds in 1974-1975.</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Abbot-Ayers</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Bagwell-Bernhard</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Biblio-Card Company-Blumstein</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Bowden-Harvey Branscomb</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Breen-Byrnes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Cadle-Celona</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Chafee-Collins</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Cobb-Cowley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Cray-Cushing</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Dactrex-Demos</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Dick-Duvall</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Eckstein-Ewing</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Fairfield-Freshley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Fulbright Committee</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Gale-Glasgow</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Glover-Gunderson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Haakonssen-Hall</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Hamilton-Hazen</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Alexander Heard</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Hedstrom-Hetnal</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Higginbotham-<emph render="italic">The Historian</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Hobbs-Howington</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Hubbard-Hyatt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Impact &#8216;65-Israel</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Jacobs-Juricek</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Karsten-Klugman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Knoll-Kolb</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Kopperman-Kupperman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Lagemann-Laval</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Leach-Lexington</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Litoff-Lovering-Holman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>MacKenzie-Matthews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>McCarley-Meyerhoff</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Michigan Department of State-Morgan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Samuel Eliot Morison</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>Mork-Murdoch</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>National Geographic Society-Navy</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Nelson-<emph render="italic">Newsweek</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Noldde-<emph render="italic">Notable American Women</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Obenchain-Orr</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Pang-Phillips</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Piston-Prucha</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Purdy-Pyle</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>David Beers Quinn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Rao-Riley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Roberts-Ryan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Salisbury-Scribner&#8217;s Sons</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Sellers-Sittig</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Slotkin-Spriegel</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Starkweather-Swint</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Talbert-TeSelle</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Thelen-Turner</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Ultec-United States Air Force</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Vanderbilt-Viall</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Jacque Vogeli</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Wade-Washburn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Weaver-Whitehall</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Wilby-Wisconsin</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>WJAR TV-Wyatt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Yantz-Zuccarello</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Unidentified correspondents</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series II: Class Notes, Exams-School-Teaching Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Sample Footnotes and Bibliography Form Guide</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Microfilms in JUL</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Exams, History 271B</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Exams, History 271B</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Class Notes and Syllabus, History 295</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Class Notes and Syllabus, History 295</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>Class Notes, Bibliography, History 305</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Class Notes, History 371A</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Class Notes, History 371B</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>Class Notes, History 371B</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Teaching Resources-Historiography</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">12</container>
+            <unittitle>Teaching Resources-American Indians</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Teaching Resources-Exploration</unittitle>
+            <unitdate>986-1504</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Teaching Resources-Spanish and French Empires</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Teaching Resources-English and French Exploration</unittitle>
+            <unitdate>1497-1608</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Teaching Resources-New Netherland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Teaching Resources-Puritan Colonies to</unittitle>
+            <unitdate>1676</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Teaching Resources-Virginia to</unittitle>
+            <unitdate>1678</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Teaching Resources-Pennsylvania</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>Teaching Resources-Westward Movement</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>Teaching Resources-Agriculture</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Teaching Resources-Blacks</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>Teaching Resources-Militia</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>Teaching Resources-Self-Government</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>Teaching Resources-Glorious Revolution (1688)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle>Teaching Resources-Mercantilism and Commerce</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle>Teaching Resources-Colonial Press</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>Teaching Resources-Great Awakening</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle>Teaching Resources-Great War for the Empire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">18</container>
+            <unittitle>Teaching Resources-England and America</unittitle>
+            <unitdate>1760-1775</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">19</container>
+            <unittitle>Teaching Resources-Greenville Crisis</unittitle>
+            <unitdate>1763-1766</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">20</container>
+            <unittitle>Teaching Resources-Townshend Crisis</unittitle>
+            <unitdate>1767-1770</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">21</container>
+            <unittitle>Teaching Resources-Approach to Revolution</unittitle>
+            <unitdate>1770-1774</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">22</container>
+            <unittitle>Teaching Resources-Struggle for Independence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">23</container>
+            <unittitle>Teaching Resources-The United States in the 1780&#8217;s</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">24</container>
+            <unittitle>Teaching Resources-Women&#8217;s Experience</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">25</container>
+            <unittitle>Teaching Resources-Witchcraft</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">26</container>
+            <unittitle>Teaching Resources-Immigration</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">27</container>
+            <unittitle>Teaching Resources-Maps for Use in Class</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">28</container>
+            <unittitle>Teaching Resources-Officer Corps</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">29</container>
+            <unittitle>Teaching Resources-Historians&#8217; Biographies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">30</container>
+            <unittitle>Teaching Resources-Historians&#8217; Biographies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">31</container>
+            <unittitle>Teaching Resources-1936 Republican Party Materials</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series III: Lectures</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">The Growth of Religious Liberty</emph>, Bates College Chapel</unittitle>
+            <unitdate>3 Dec. 1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="italic">The Indian Policy of the Pilgrim Fathers</emph>, Society of Mayflower Descendants</unittitle>
+            <unitdate>Fall, 1952</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="italic">The Enjoyment of History,</emph>
+              Faculty Round Table (Bates College)</unittitle>
+            <unitdate>14 Jan. 1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="italic">Why History?</emph>
+              Wranglers</unittitle>
+            <unitdate>7 Nov. 1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">Landmarks in American History, 1783 to the Present,</emph>
+              Bury Grammar School, England</unittitle>
+            <unitdate>March 1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="italic">George Washington</emph>, Nashville Senior Citizens</unittitle>
+            <unitdate>22 Feb. 1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="italic">King Philip-Front Page News in London</emph>, The Rhode Island Historical Society</unittitle>
+            <unitdate>18 Nov. 1962 (See also Box 12, Files 7,8,9)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="italic">Training Day in the Colonies</emph>, Pattaquamagutt Historical Society</unittitle>
+            <unitdate>17 May 1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">Problems of Intrusive Colonization: America and New Zealand</emph>, Victoria University, New Zealand</unittitle>
+            <unitdate>27 June 1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">Sermon for World Communion Sunday,</emph>
+              New Zealand</unittitle>
+            <unitdate>1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">Military Tradition and Practice in Colonial America,</emph>
+              Phi Alpha Theta, The University of Rhode Island, 16 May 1966 and Victoria University, New Zealand</unittitle>
+            <unitdate>26 June 1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="italic">History Is Fun,</emph>
+              West Virginia</unittitle>
+            <unitdate>April 1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="italic">Tension, Strife, and Warfare in Early American History,</emph>
+              Departmental Seminar</unittitle>
+            <unitdate>13 Nov. 1972</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">14</container>
+            <unittitle>Series of Five Lectures on American History, sponsored by the National Endowment for the Humanities, McCabe Community Center, Nashville</unittitle>
+            <unitdate>Oct. and Nov. 1973</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <emph render="italic">The Declaration of Independence,</emph>
+              Leeds, England</unittitle>
+            <unitdate>Feb. 1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="italic">The Declaration of 1776-The Perspective of 1976,</emph>
+              Unitarian Church</unittitle>
+            <unitdate>18 July 1976</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">17</container>
+            <unittitle>
+              <emph render="italic">Aspects of Anglo-American Tension Before 1762,</emph>
+              Departmental Seminar</unittitle>
+            <unitdate>26 Sept. 1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <emph render="italic">The Colonial Wars,</emph>
+              Taped Lecture for
+              <emph render="italic">The Voices of America Series,</emph>
+              Michael Glazier Inc., 1979 (Manuscript of Tape)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <emph render="italic">The Colonial Wars,</emph>
+              Taped Lecture for
+              <emph render="italic">The Voices of America Series</emph>, Michael Glazier Inc., 1979 (Correspondence)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">20</container>
+            <unittitle>
+              <emph render="italic">The Cartagena Expedition, 1740-42, and Anglo-American Relations,</emph>
+              The University of Alabama, 11 Feb. 1983 (Manuscript) See also Box 13, Files 5 &#38; 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <emph render="italic">The Cartagena Expedition, 1740-42, and Anglo-American Relations,</emph>
+              The University of Alabama, 11 Feb. 1983 (Correspondence)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <emph render="italic">Composing a Naval Memoir,</emph>
+              American Historical Society, 1983 (Manuscript)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <emph render="italic">Composing a Naval Memoir,</emph>
+              American Historical Society, 1983 (Correspondence)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <emph render="italic">The Royal Navy in the Southern Colonies Before 1763: A Study in Anglo-American Friction,</emph>
+              Southern Historical Association</unittitle>
+            <unitdate>Nov. 1983</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">25</container>
+            <unittitle>
+              <emph render="italic">The Central Pacific Remembered,</emph>
+              Vanderbilt University NROTC</unittitle>
+            <unitdate>9 Jan. 1986 and 11 Feb. 1988</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">26</container>
+            <unittitle>
+              <emph render="italic">Beginnings of the American Naval Tradition,</emph>
+              Vanderbilt University NROTC</unittitle>
+            <unitdate>29 Jan. 1986</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">27</container>
+            <unittitle>Untitled lecture delivered at Vine Street Christian Church</unittitle>
+            <unitdate>5 Jan. 1988</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">28</container>
+            <unittitle>
+              <emph render="italic">The Puritan Movement,</emph>
+              Sunday School Remnant Class</unittitle>
+            <unitdate>Dec. 1988</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">29</container>
+            <unittitle>Proposal to the Organization of American Historians for
+              <emph render="italic">The Second World War: One Man&#8217;s Perspective</emph>
+            </unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">30</container>
+            <unittitle>
+              <emph render="italic">World War II,</emph>
+              Nashville Vanderbilt University Alumni Club</unittitle>
+            <unitdate>27 Feb. 1992</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">31</container>
+            <unittitle>
+              <emph render="italic">The Origins and Development of the Early American Officer Corps,</emph>
+              Vanderbilt University NROTC</unittitle>
+            <unitdate>9 April 1992</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">32</container>
+            <unittitle>
+              <emph render="italic">The Importance of World War II in the 20<emph render="super">th</emph>
+                Century,</emph>
+              Kiwanis Club</unittitle>
+            <unitdate>3 Sept. 1992</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">33</container>
+            <unittitle>
+              <emph render="italic">The Father of His Country: Chance or Destiny?,</emph>
+              Sons of the American Revolution</unittitle>
+            <unitdate>23 Feb. 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">34</container>
+            <unittitle>
+              <emph render="italic">Remembering the Second World War,</emph>
+              Mercer University</unittitle>
+            <unitdate>18 April 1994 (Manuscript)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">35</container>
+            <unittitle>
+              <emph render="italic">Remembering the Second World War,</emph>
+              Mercer University, 18 April 1994 (Correspondence)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">36</container>
+            <unittitle>
+              <emph render="italic">Indian Relations in American History,</emph>
+              n.d.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">37</container>
+            <unittitle>
+              <emph render="italic">D.S. Freeman: Virginia Historian, Friend of Washington and Lee,</emph>
+              n.d.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">38</container>
+            <unittitle>
+              <emph render="italic">The Western Heritage of History,</emph>
+              n.d.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series IV: Organizations and Professional Activities</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Vanderbilt Committee on University Government</unittitle>
+            <unitdate>1964-1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Vanderbilt Committee on University Government</unittitle>
+            <unitdate>1964-1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>Vanderbilt Committee on University Government</unittitle>
+            <unitdate>1964-1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>Plimoth Plantation-Conference</unittitle>
+            <unitdate>6-8 Sept. 1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Professional Honors-Fellow, Pilgrim Society</unittitle>
+            <unitdate>1974-1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Vanderbilt-in-England</unittitle>
+            <unitdate>1974-1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Vanderbilt-in-England</unittitle>
+            <unitdate>1974-1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>New England Tour</unittitle>
+            <unitdate>1981</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">9</container>
+            <unittitle>Film Project- George Csicsery&#8217;s Project for a Film on King Philip&#8217;s War</unittitle>
+            <unitdate>1981-1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">10</container>
+            <unittitle>Obituary for Forrest Miller</unittitle>
+            <unitdate>1983</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>Vanderbilt- Leave, Spring</unittitle>
+            <unitdate>1984</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Obituary for Herbert Weaver</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>American Historical Association-Nomination for Honorary Membership of David B. Quinn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>American Historical Association-Nomination for Honorary Membership of David B. Quinn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">5</container>
+            <unittitle>Obituary for Harold Bradley</unittitle>
+            <unitdate>1991</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series V: Publications</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph>
+              (1958)-Research Material</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph>
+              (1958)-Research and Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph>
+              (1958)-Correspondence with Macmillan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="italic">Flintlock and Tomahawk: New England in King Philip&#8217;s War</emph>
+              (1958)-Correspondence, General</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">The Northern Colonial Frontier, 1607-1763</emph>
+              (1966)-Research Materials and Chapter Outlines</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="italic">The Northern Colonial Frontier, 1607-1763</emph>
+              (1966)- Correspondence with Holt, Rinehart and Winston</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="italic">The Northern Colonial Frontier, 1607-1763</emph>
+              (1966)-Correspondence with Holt, Rinehart, and Winston</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="italic">The Northern Colonial Frontier, 1607-1763</emph>
+              (1966)-Correspondence, General</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">Arms for Empire: A Military History of the British Colonies in North America, 1607-1763</emph>
+              (1973)-Contract and Correspondence with Macmillan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">Arms for Empire: A Military History of the British Colonies in North America, 1607-1763</emph>-Correspondence with Macmillan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">Arms for Empire</emph>:
+              <emph render="italic">A Military History of the British Colonies in North America, 1607-1763</emph>-Correspondence, General</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="italic">Arms or Empire: A Military History of the British Colonies in North America, 1607-1763</emph>- Reviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">Roots of Conflict: British Armed Forces and Colonial Americans, 1677-1763</emph>
+              (1986)-Correspondence with The University of North Carolina Press</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="italic">Roots of Conflict: British Armed Forces and Colonial Americans, 1677-1763</emph>
+              (1986)-Correspondence, General</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="italic">Roots of Conflict: British Armed Forces and Colonial Americans, 1677-1763</emph>
+              (1986)-Reviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="italic">A Rhode Islander on King Philip&#8217;s War</emph>, edited by Douglas Leach (1963)-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">A Rhode Islander on King Philip&#8217;s War,</emph>
+              edited by Douglas Leach (1963)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="italic">A Rhode Islander on King Philip&#8217;s War,</emph>
+              edited by Douglas Leach (1963)-Reviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="italic">Benjamin Batten and the London Gazette,</emph>
+              New England Quarterly, Spring 1963-Manuscript (See also Box 8, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="italic">Benjamin Batten and the London Gazette,</emph>
+              New England Quarterly, Spring 1963-Research Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">Benjamin Batten and the London Gazette,</emph>
+              New England Quarterly, Spring 1963-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">John Gordon,</emph>
+              Monograph for the National Park Service (1959)-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">John Gorgon,</emph>
+              Monograph for the National Park Service (1959)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">Rivalry and Warfare: England, France, and Spain</emph>
+              (1972)-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="italic">Rivalry and Warfare: England, France, and Spain</emph>
+              (1972)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="italic">Miles Standish; Benjamin Church; Robert Roger; Sir William Johnson</emph>, Articles for the Dictionary of American Military Biography (1979)-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="italic">Miles Standish; Benjamin Church; Robert Roger; Sir William Johnson,</emph>
+              Articles for the Dictionary of American Military Biography (1979)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">The Cartagena Expedition,</emph>
+              Adapting to Conditions (1986)-Manuscript (See also Box 8, Files 20 &#38; 21)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="italic">The Cartagena Expedition,</emph>
+              Adapting to Conditions (1986)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="italic">Reflections While Moving On,</emph>
+              William and Mary Quarterly, July 1988-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="italic">Reflections While Moving On,</emph>
+              William and Mary Quarterly, July 1988-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="italic">Colonial Indian Wars,</emph>
+              Handbook of North American Indians (1987)-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="italic">Colonial Indian Wars,</emph>
+              Handbook of North American Indians (1987)-Draft Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="italic">Colonial Indian Wars,</emph>
+              Handbook of North American Indians (1987)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="italic">The British Army in America Before 1775,</emph>
+              The Blackwell Encyclopedia of the American Revolution (1990)-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="italic">The British Army in America Before 1775,</emph>
+              The Blackwell Encyclopedia of the American Revolution (1990)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">14</container>
+            <unittitle>
+              <emph render="italic">The Colonial Period,</emph>
+              Encyclopedia of the American Military, Scribners (1994)-Manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <emph render="italic">The Colonial Period,</emph>
+              Encyclopedia of the American Military, Scribners (1994)-Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="italic">The Siege of Brookfield</emph>
+              (1958)-Unpublished manuscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">17</container>
+            <unittitle>
+              <emph render="italic">The Captivity of Mary Rowlandson</emph>
+              (1958)-Unpublished Mansucript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <emph render="italic">The Siege of Brookfield</emph>
+              and
+              <emph render="italic">The Captivity of Mary Rowlandson</emph>
+              (1958)-Correspondence</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
