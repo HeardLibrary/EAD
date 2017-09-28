@@ -1,223 +1,267 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Mizener, Arthur Papers</titleproper>
-<titleproper>Finding Aid for the Arthur Mizener Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Arthur Mizener Papers</unittitle>
-<unitid>MSS.0295</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">1.68 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<bioghist>
-<p>This collection is an exchange of letters between Arthur Mizener and John Crowe Ransom, Mizener and Robert Penn Warren, and Mizener and Allen Tate. It covers the years 1938 through 1974. Literature, criticism, research, publishing, and employment possibilities are the major subjects of the letters. Each of the three sets of letters is arranged in chronological order with sender and receiver identified by initial.</p>
-</bioghist>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Mizener-Ransom Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unitdate>20 Jan 1940, R to M, TLS; 22 Jan 1940, M to R, typed carbon; 26 Jan 1940, M to R, typed carbon; 27 Jan 1940, R to M, TLS; 27 Jan 1940, R to M, TLS; 31 Jan 1940, M to R, typed carbon; 28 Feb 1940, R to M, TLS; 2 Mar 1940, M to R, typed carbon; 6 Mar 1940, R to M, TLS; 8 Mar 1940, M to R, typed carbon; 21 Mar 1940, M to R, typed carbon; 23 Apr 1940, M to R, T; 26 Apr 1940, R to M, TLS with holograph note; 1 May 1940, M to R, typed carbon.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unitdate>27 May 1940, R to M, TLS; 21 Jul 1940, R to M, TLS; n.d., M to R, T copy; 10 Sep 1940, R to M, TLS; 11 Sep 1940, M to R, typed carbon; 19 Nov 1940, R to M, TLS; 4 Dec 1940, R to M, TLS; 20 Dec 1940, R to M, TLS; 21 Jan 1941, H.G. Owen to R, TLS; 25 Jan 1941, R to M, TLS; 3 Sep 1941, R to M, TLS; 22 Sep 1941, R to M, TLS; 15 Oct 1941, R to M, TLS; 15 Dec 1941, R to M, TLS; 13 April 1942, R to M, TLS with holograph note; n.d., &#8220;remittance advice&#8221; Kenyon College to M; 14 Sep 1942, R to M, TL.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unitdate>20 Sep 1943, R to M, ALS; 20 Sep 1943, R to M, ALS; 26 Sep 1943, R to M, ALS; 11 Oct 1943, R to M, TLS; 13 May 1944, R to M, ALS; 9 Jun 1944, R to M, TLS; 9 Jun 1944, R to M, T card; 23 Aug 1944, R to M, TLS; 12 Sep 1944, R to M, ALS; 23 Oct 1944, Mary A. Rahming to M, T; 25 Oct 1944, Mary A. Rahming to M, TS; 31 Oct 1944, R to M, ALS; 16 Apr 1945, R to M, TLS; 25 Apr 1945, R to M, encl. four poems by Reed Whittmore; 14 May 1945, R to M, TLS, encl. two poems; 14 May 1945, R to M, card; 25 July 1945, Eric [Bently?] to M, TLS; 11 Aug 1945, R to M, TLS; 25 Sep 1945, R to M, card; 10 Oct 1945, R to M, TLS; 11 Oct 1945, R to M, TLS; 6 Dec 1945, R to M, card; 20 Dec 1945, R to M, card.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle><emph render="underline">Kenyon Review</emph>. Vol. VI, No. 3. Galleys; 2</unittitle>
-<unitdate>Apr 1946, R to M, TLS; 15 May 1946, R to M, TLS; 24 May 1946, R to M, TLS; 22 July 1946, R to M, TLS; 6 Dec [1946?], R to M, ALS; 3 Jan 1947, R to M, ALS; 19 Jul 1947, R to M, ALS; 30 July 1947, R to M, TLS; 9 Aug 1947, R to M, ALS; 11 Sep 1947, R to M, ALS.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unitdate>8 Oct 1947, R to M, ALS; 8 Oct 1947, R to M, ALS; 27 Oct 1947, R to M, TLS; 4 Nov 1947, R to M, ALS; 11 Jul 1948, R to M, TLS; 29 Dec 1948, R to M, ALS; 14 Mar 1949, R to M, TLS; 16 March 1949, M to R, typed carbon; 2 Jun 1949, R to M, TLS; 27 Jun 1949, R to M, ALS; 7 Sep 1949, R to M, ALS; 26 Sep 1950, R to M, ALS; 4 Oct 1950, R to M, ALS; 20 Nov 1950, R to M, TLS; 15 Dec 1950, R to M, TLS; 30 Dec 1950, R to M, TLS; 8 Jan 1951, R to M, TLS; 10 Jan 1951, M to R, typed carbon; 22 Feb 1951, R to M, TLS; n.d., School of Letters 1951--Roster, with holograph note, R to M; 24 Feb 1951, M to R, typed carbon; 30 Apr 1951, R to M, ALS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unitdate>16 Sep 1952, R to M, TLS; 15 Oct 1952, R to M, ALS; 31 Oct 1952, R to M, card; 17 Nov 1952, R to M, ALS; 27 Nov 1952, R to M, ALS; 3 Feb 1953, R to M, ALS; 19 Sep 1953, R to M, ALS; 4 Nov 1953, R to M, ALS; 15 Jan 1954, R to M, ALS; 5 Feb 1954, R to M, TLS; 28 Feb 1954, R to M, ALS; 18 Mar 1954, R to M, ALS; 20 Mar 1954, R to M, ALS; 28 Apr 1954, R to M, ALS; 15 May 1954, R to M, card; 26 May 1954, R to M, ALS; 16 Jun 1955, R to M, TLS; 17 Jan 1957, R to M, TLS; 28 Feb 1957, R to M, TLS; 18 Mar 1957, R to M, TLS; 3 Apr 1957, R to M, TLS; 13 Jun 1957, R to M, TLS; 6 Jul 1957, R to M, TLS; 14 Jun 1958, R to M, TLS; 2 May 1962, R to M, TLS.</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Mizener-Warren Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unitdate>27 May 1938, W to M, TLS; 5 Jan 1939, W to M, TLS; 10 Jan 1939, W to M, TLS; 17 Jan 1939, W to M, TLS; 19 Dec 1940, W to M, TLS; 7 Jan 1941, W to M, TLS; 18 Oct 1945, M to W, typed carbon; 23 Oct 1945, W to M, TLS; 5 Nov 1945, M to W, typed carbon.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unitdate>8 Nov 1945, W to M, TLS; 13 Nov 1945, M to W, typed carbon; 9 Jan 1951, W to M, TLS; 10 Jan 1951, M to W, typed carbon; 17 Dec 1954, W to M, TLS; 6 Sep 1957, W to M, TLS; 20 Sep 1957, W to M, TLS; 15 Mar 1958, W to M, TLS; 10 Apr 1958, W to M, TLS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unitdate>25 Apr 1958, W to M, TLS; 8 Dec 1962, W to M, TLS; 13 Mar 1963, W to M, TLS; 23 Apr 1963, W to M, TLS; 14 June 1963, W to M, TLS; 26 Nov 1963, W to M, TLS; 6 Mar 1964, W to M, TLS; 13 Mar 1964, M to W, typed carbon; 23 May 1965, W to M, TLS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unitdate>31 May 1965, W to M, TLS; 8 Nov 1966, W to M, TLS; 4 Dec 1966, M to W, typed carbon; 13 Jun 1967, M to W, typed carbon, encl. &#8220;Ile de Port Cros: What Happened&#8221; by R.P. Warren.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unitdate>29 Jun 1967, W to M, TLS; [3 Jul 1967], W to M, &#8220;Internal Injuries&#8221; by R.P. Warren, T; 19 Jul 1967, M to W, typed carbon; 30 Dec 1967, W to M, TLS; 12 Jan 1968, M to W, typed carbon; 25 Jan 1968, W to M, TLS; 14 Apr 1971, W to M, TLS, encl. &#8220;Homage to Theodore Dreiser&#8221; by R.P. Warren; 4 May 1972, Eleanor Warren to Office of Undergraduate Admissions, Cornell University, xerox copy, encl. 17 May 1972, response from Assistant Director of Admissions; 14 Dec 1974, W to M, TLS.</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Mizener-Tate Correspondence</unittitle>
-</did>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Mizener, Arthur Papers</titleproper>
+        <titleproper>Finding Aid for the Arthur Mizener Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Arthur Mizener Papers</unittitle>
+      <unitid>MSS.0295</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.68 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1938/1974" type="inclusive"></unitdate>
+    </did>
+    <scopecontent>
+      <p>This collection is an exchange of letters between Arthur Mizener and John Crowe Ransom, Mizener and Robert Penn Warren, and Mizener and Allen Tate. It covers the years 1938 through 1974. Literature, criticism, research, publishing, and employment
+        possibilities are the major subjects of the letters. Each of the three sets of letters is arranged in chronological order with sender and receiver identified by initial.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Mizener-Ransom Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>20 Jan 1940, R to M, TLS; 22 Jan 1940, M to R, typed carbon; 26 Jan 1940, M to R, typed carbon; 27 Jan 1940, R to M, TLS; 27 Jan 1940, R to M, TLS; 31 Jan 1940, M to R, typed carbon; 28 Feb 1940, R to M, TLS; 2 Mar 1940, M to R, typed
+              carbon; 6 Mar 1940, R to M, TLS; 8 Mar 1940, M to R, typed carbon; 21 Mar 1940, M to R, typed carbon; 23 Apr 1940, M to R, T; 26 Apr 1940, R to M, TLS with holograph note; 1 May 1940, M to R, typed carbon.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>27 May 1940, R to M, TLS; 21 Jul 1940, R to M, TLS; n.d., M to R, T copy; 10 Sep 1940, R to M, TLS; 11 Sep 1940, M to R, typed carbon; 19 Nov 1940, R to M, TLS; 4 Dec 1940, R to M, TLS; 20 Dec 1940, R to M, TLS; 21 Jan 1941, H.G. Owen to R,
+              TLS; 25 Jan 1941, R to M, TLS; 3 Sep 1941, R to M, TLS; 22 Sep 1941, R to M, TLS; 15 Oct 1941, R to M, TLS; 15 Dec 1941, R to M, TLS; 13 April 1942, R to M, TLS with holograph note; n.d., &#8220;remittance advice&#8221; Kenyon College to M; 14 Sep
+              1942, R to M, TL.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>20 Sep 1943, R to M, ALS; 20 Sep 1943, R to M, ALS; 26 Sep 1943, R to M, ALS; 11 Oct 1943, R to M, TLS; 13 May 1944, R to M, ALS; 9 Jun 1944, R to M, TLS; 9 Jun 1944, R to M, T card; 23 Aug 1944, R to M, TLS; 12 Sep 1944, R to M, ALS; 23
+              Oct 1944, Mary A. Rahming to M, T; 25 Oct 1944, Mary A. Rahming to M, TS; 31 Oct 1944, R to M, ALS; 16 Apr 1945, R to M, TLS; 25 Apr 1945, R to M, encl. four poems by Reed Whittmore; 14 May 1945, R to M, TLS, encl. two poems; 14 May 1945, R to M,
+              card; 25 July 1945, Eric [Bently?] to M, TLS; 11 Aug 1945, R to M, TLS; 25 Sep 1945, R to M, card; 10 Oct 1945, R to M, TLS; 11 Oct 1945, R to M, TLS; 6 Dec 1945, R to M, card; 20 Dec 1945, R to M, card.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="underline">Kenyon Review</emph>. Vol. VI, No. 3. Galleys; 2 - Apr 1946, R to M, TLS; 15 May 1946, R to M, TLS; 24 May 1946, R to M, TLS; 22 July 1946, R to M, TLS; 6 Dec [1946?], R to M, ALS; 3 Jan 1947, R to M, ALS; 19 Jul 1947, R to M, ALS; 30 July 1947, R to M, TLS; 9 Aug 1947, R to M, ALS; 11 Sep
+              1947, R to M, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>8 Oct 1947, R to M, ALS; 8 Oct 1947, R to M, ALS; 27 Oct 1947, R to M, TLS; 4 Nov 1947, R to M, ALS; 11 Jul 1948, R to M, TLS; 29 Dec 1948, R to M, ALS; 14 Mar 1949, R to M, TLS; 16 March 1949, M to R, typed carbon; 2 Jun 1949, R to M, TLS;
+              27 Jun 1949, R to M, ALS; 7 Sep 1949, R to M, ALS; 26 Sep 1950, R to M, ALS; 4 Oct 1950, R to M, ALS; 20 Nov 1950, R to M, TLS; 15 Dec 1950, R to M, TLS; 30 Dec 1950, R to M, TLS; 8 Jan 1951, R to M, TLS; 10 Jan 1951, M to R, typed carbon; 22 Feb
+              1951, R to M, TLS; n.d., School of Letters 1951--Roster, with holograph note, R to M; 24 Feb 1951, M to R, typed carbon; 30 Apr 1951, R to M, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>16 Sep 1952, R to M, TLS; 15 Oct 1952, R to M, ALS; 31 Oct 1952, R to M, card; 17 Nov 1952, R to M, ALS; 27 Nov 1952, R to M, ALS; 3 Feb 1953, R to M, ALS; 19 Sep 1953, R to M, ALS; 4 Nov 1953, R to M, ALS; 15 Jan 1954, R to M, ALS; 5 Feb
+              1954, R to M, TLS; 28 Feb 1954, R to M, ALS; 18 Mar 1954, R to M, ALS; 20 Mar 1954, R to M, ALS; 28 Apr 1954, R to M, ALS; 15 May 1954, R to M, card; 26 May 1954, R to M, ALS; 16 Jun 1955, R to M, TLS; 17 Jan 1957, R to M, TLS; 28 Feb 1957, R to M,
+              TLS; 18 Mar 1957, R to M, TLS; 3 Apr 1957, R to M, TLS; 13 Jun 1957, R to M, TLS; 6 Jul 1957, R to M, TLS; 14 Jun 1958, R to M, TLS; 2 May 1962, R to M, TLS.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Mizener-Warren Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>27 May 1938, W to M, TLS; 5 Jan 1939, W to M, TLS; 10 Jan 1939, W to M, TLS; 17 Jan 1939, W to M, TLS; 19 Dec 1940, W to M, TLS; 7 Jan 1941, W to M, TLS; 18 Oct 1945, M to W, typed carbon; 23 Oct 1945, W to M, TLS; 5 Nov 1945, M to W, typed carbon.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>8 Nov 1945, W to M, TLS; 13 Nov 1945, M to W, typed carbon; 9 Jan 1951, W to M, TLS; 10 Jan 1951, M to W, typed carbon; 17 Dec 1954, W to M, TLS; 6 Sep 1957, W to M, TLS; 20 Sep 1957, W to M, TLS; 15 Mar 1958, W to M, TLS; 10 Apr 1958, W to M, TLS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>25 Apr 1958, W to M, TLS; 8 Dec 1962, W to M, TLS; 13 Mar 1963, W to M, TLS; 23 Apr 1963, W to M, TLS; 14 June 1963, W to M, TLS; 26 Nov 1963, W to M, TLS; 6 Mar 1964, W to M, TLS; 13 Mar 1964, M to W, typed carbon; 23 May 1965, W to M, TLS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>31 May 1965, W to M, TLS; 8 Nov 1966, W to M, TLS; 4 Dec 1966, M to W, typed carbon; 13 Jun 1967, M to W, typed carbon, encl. &#8220;Ile de Port Cros: What Happened&#8221; by R.P. Warren.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>29 Jun 1967, W to M, TLS; [3 Jul 1967], W to M, &#8220;Internal Injuries&#8221; by R.P. Warren, T; 19 Jul 1967, M to W, typed carbon; 30 Dec 1967, W to M, TLS; 12 Jan 1968, M to W, typed carbon; 25 Jan 1968, W to M, TLS; 14 Apr 1971, W to
+              M, TLS, encl. &#8220;Homage to Theodore Dreiser&#8221; by R.P. Warren; 4 May 1972, Eleanor Warren to Office of Undergraduate Admissions, Cornell University, xerox copy, encl. 17 May 1972, response from Assistant Director of Admissions; 14 Dec 1974, W
+              to M, TLS.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Mizener-Tate Correspondence</unittitle>
+        </did>
 
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unitdate>30 Oct 1939, T to M, ALS; 2 Nov 1939, M to T, carbon; 17 Nov 1939, T to M, TLS; 14 Jan 1940, T to M, TLS; 21 Feb 1940, M to T, carbon; 23 Feb 1940, T to M, ALS; 29 Feb 1940, Caroline Tate to Rosemary Mizener, ALS; n.d., 1940, Caroline Tate to Rosemary Mizener, TLS; 11 Apr 1940, T to M, ALS; 13 Apr 1940, <emph render="underline">Yale News</emph>; n.d., Caroline Tate to Rosemary Mizener, TLS; 16 Apr 1940, T to Rosemary Mizener, ALS; 29 Apr 1940, Caroline Tate to Rosemary Mizener, TLS; 6 Dec 1940, T to M, ALS; 10 Dec 1940, M to T, typed copy; 12 Dec 1940, T to M, ALS; 14 Dec 1940, M to T, typed copy; n.d., rough draft to President Hodges of LSU; 14 Feb 1941, T to M, TLS; 26 Feb 1941, T to M, TLS; 27 Feb 1941, Caroline Tate to Rosemary Mizener, TLS; 18 Mar 1941, T to M, TLS; 14 Sep 1941, T to M, ALS; 21 Sep 1941, T to M, ALS; 26 Sep 1941, T to M, ALS; 2 Oct 1941, T to M, ALS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unitdate>29 Oct 1941, Percy W. Long (of MLA) to T, TLS; 4 Nov 1941, T to M, TLS; 8 Nov 1941, T to M, TLS; n.d., 1941, M to T, typed copy; n.d., 1941, M to Percy W. Long, typed copy; 12 Nov 1941, Percy W. Long to M, TLS; 13 Nov 1941, T to M, TLS; 13 Nov 1941, T to Percy W. Long, typed carbon; 17 Nov 1941, T to M, T; 18 Nov 1941, Percy W. Long to T, typed carbon sent to M; 24 Nov 1941, T to M, TLS; 24 Nov 1941, T to Percy W. Long, typed copy; 25 Nov 1941, Percy W. Long to M, TLS; 25 Nov 1941, Percy W. Long to T, typed carbon; 25 Nov 1941, T to Wallace Stegner, TLS; 2 Dec 1941, T to M, telegram; 4 Dec 1941, T to M, TLS; 20 Dec 1941, T to M, TLS; 5 Jan 1942, T to M, TLS; 13 Jan 1942, T to M, TL; 16 Mar 1942, T to M, TLS; 22 Apr 1942, T to M, TLS; 19 May 1942, T to M, TLS; 5 Nov 1942, Andrew [Lytle?] to M, ALS; 10 Jan 1943, M to T, typed carbon.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unitdate>14 Jan 1943, T to M, encl. &#8220;More Sonnets at Christmas I-IV&#8221; by Allen Tate (4 pp. manuscript), ALS; 22 Jan 1943, T to M, ALS; 2 Feb 1943, M to T, typed carbon; &#8220;Jubilo&#8221; by Allen Tate, typed carbon; 5 Feb 1943, T to M, TLS; &#8220;Jubilo&#8221; (revised), typed carbon; 1 Mar 1943, T to M, TLS; 10 Mar 1943, T to M, ALS; &#8220;Seasonal Confessions&#8221; by Allen Tate (12 pp. manuscript), typed carbon; 16 Mar 1943, T to M, ALS; 25 Mar 1943, T to M, card; 2 Aug 1943, T to M, TLS; 9 Aug 1943, T to M, TLS (Joyce parody); 31 Aug 1943, T to M, TLS; 25 Mar 1944, T to M, TLS; 21 Jun 1944, T to M, ALS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unitdate>14 Jan 1943, T to M, encl. &#8220;More Sonnets at Christmas I-IV&#8221; by Allen Tate (4 pp. manuscript), ALS; 22 Jan 1943, T to M, ALS; 2 Feb 1943, M to T, typed carbon; &#8220;Jubilo&#8221; by Allen Tate, typed carbon; 5 Feb 1943, T to M, TLS; &#8220;Jubilo&#8221; (revised), typed carbon; 1 Mar 1943, T to M, TLS; 10 Mar 1943, T to M, ALS; &#8220;Seasonal Confessions&#8221; by Allen Tate (12 pp. manuscript), typed carbon; 16 Mar 1943, T to M, ALS; 25 Mar 1943, T to M, card; 2 Aug 1943, T to M, TLS; 9 Aug 1943, T to M, TLS (Joyce parody); 31 Aug 1943, T to M, TLS; 25 Mar 1944, T to M, TLS; 21 Jun 1944, T to M, ALS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unitdate>13 Dec 1945, T to M, ALS; 14 Dec 1945, T to M, TLS; 17 Dec 1945, T to M, ALS; 23 Jan 1946, T to M, TLS; 14 Feb 1946, T to M, TLS; 19 Feb 1946, T to M, TLS; 22 Feb 1946, M to T, typed carbon; 21 Nov 1946, T to Houghton Mifflin, typed carbon; 4 Dec 1946, T to M, ALS; 21 Aug 1947, T to M, ALS; 19 May 1949, T to M, TLS; 14 Oct 1949, T to M, TLS; 19 Oct 1949, T to M, form letter to <emph render="underline">Saturday Review</emph> with holograph note; 22 Oct 1949, T to M, card; 4 Nov 1949, protest to <emph render="underline">Saturday Review of Literature</emph>; 2 Dec 1949, Harrison Smith to M, encl. 2 Dec 1949, Harrison Smith to John Berryman, TLS; 6 Dec 1949, M to Harrison Smith, typed carbon; 9 Dec 1949, Harrison Smith to M, TLS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unitdate>Christmas 1950, Caroline and Allen to Mr. and Mrs. Arthur Mizener, ALS; 30 Dec 1950, T to M, TLS; 30 Dec 1950, Caroline Tate to M, (<emph render="underline">The Far Side of Paradise</emph>) TLS; 3 Jan M to T, typed carbon; 3 Jan 1951, M to Caroline Tate, typed carbon; 13 Jan 1951, T to M, TLS; 26 Jul 1951, Tate draft of protest concerning School of Letters at Indiana University, 6 pp. holograph; 12 Sep 1951, Caroline Tate to Rosemary and Arthur, TLS; 17 Nov 1951, T to M, TLS; 20 Nov 1951, Caroline Tate to Dear Rosemary, Dear Arthur, TLS; 3 Dec 1951, T to M, TLS; 12 Dec 1951, T to M, card; 14 Dec 1951, T to M, ALS; 9 Jan 1952, T to M, TLS; 19 Feb 1952, T to M, TLS; 22 Feb 1952, M to T, typed carbon; 3 May 1952, T to M, TLS; 25 Jul 1952, T to M, TLS; 1 Oct 1952, T to M, ALS; 8 Oct 1952, T to M, ALS; 30 Oct 1952, T to M, encl. &#8220;The Buried Lake&#8221; by Allen Tate, ALS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unitdate>20 Nov 1952, T to M, ALS; 28 Dec 1952, T to M, TLS; 5 Feb 1953, T to M, ALS; 13 Feb 1953, T to M, ALS; 19 Feb 1953, T to M, TLS; 10 Apr 1953, T to M, ALS; 14 Apr 1953, T to M, TLS; 2 May 1953, T to Rosemary Mizener, ALS; 16 Jan 1956, T to M, TLS; 2 Mar 1957, T to M, ALS; 5 Aug 1957, T to M, ALS; 2 Apr 1958, T to M, TLS; 14 Jan 1959, Carl Bode to T, TLS; 27 Jan 1959, T to M, ALS; 27 Mar 1959, T to M, ALS; 31 Mar 1959, T to Rosemary Mizener, ALS; n.d., 1959, T to M, note; 3 Apr 1959, T to M, note; 24 May 1959, T to M, ALS; 22 Jul 1959, T to M, TLS; 20 Aug 1959, Isabella and Allen to Mr. and Mrs. Arthur Mizener, card; 7 Sep 1959, T to Mizeners, ALS; 22 Oct 1959, T to M, TLS; 12 Apr 1960, T to M, TLS; 20 May 1960, T to M, card; 27 May 1960, T to M, TLS; 17 Aug 1960, T to M, TLS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unitdate>[Oct 1960?], Caroline Tate to M, TLS; 25 Apr 1962, T to M, ALS; 2 May 1962, T to M, card; 9 Jun 1962, T to M, TLS; 26 Nov 1962, William K. Rose to M, card; 27 Apr 1963, T to M, TLS; 13 Nov 1963, T to M, TLS; 22 Nov 1963, T to M, TLS; 4 Jan 1964, T to M, TLS; 10 Jan 1964, T to M, TLS; 14 Jan 1964, M to T, [Oct 1960?], Caroline Tate to M, TLS; 25 Apr 1962, T to M, ALS; 2 May 1962, T to M, card; 9 Jun 1962, T to M, TLS; 26 Nov 1962, William K. Rose to M, card; 27 Apr 1963, T to M, TLS; 13 Nov 1963, T to M, TLS; 22 Nov 1963, T to M, TLS; 4 Jan 1964, T to M, TLS; 10 Jan 1964, T to M, TLS; 14 Jan 1964, M to T,</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unitdate>n.d., [Mar 1968], T to Rosemary Mizener, ALS; 27 Apr 1968, T to M, card; 22 Jul 1968, T to Rosemary and Arthur, ALS; 7 Aug 1968, T to M, ALS; 12 Aug 1968, M to T, typed carbon; 17 Aug 1968, T to M, ALS; 22 Aug 1968, M to T, typed carbon; 6 Sep 1968, T to Sir and Madam, ALS; 19 Sep 1968, M to T, typed carbon; 23 Sep 1968, T to M, ALS; 3 Oct 1968, T to M, ALS; 9 Oct 1968, M to T, typed carbon; Christmas 1968, Helen, Allen and John Tate; 24 Jan 1969, M to T, typed carbon; 29 Jan 1969, T to M, ALS; 4 Feb 1969, M to T, typed carbon; 7 Feb 1969, T to M, ALS; 8 Feb 1969, T to M, ALS; 24 Feb 1969, M to T, typed carbon; 4 Jun 1969, T to M, ALS; 20 Jul 1969, M to T, typed carbon; 27 Jul 1969, T to M, ALS; 3 Aug 1969, T to M, ALS, encl. notes on Ford Madox Ford; 14 Aug 1969, T to M, ALS; 26 Aug 1969, ALS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unitdate>17 Sep 1969, T to M, ALS; Christmas 1969, Helen, Allen and John Tate; 26 Dec 1969, T to Mizeners, card; 14 Jan 1970, T to M, ALS; 19 Jun 1970, T to M, card; 3 Jul 1970, M to T, typed carbon; 30 Jul 1970, T to M, ALS; 4 Aug 1970, M to T, typed carbon; 13 Oct 1970, T to M, ALS; 11 Nov 1970, T to M, ALS; Christmas 1970, Helen, Allen, John and Benjamin Tate; 25 Jan 1971, T to M, ALS; 23 Mar 1971, T to M, card; 5 Apr 1971, T to M, card; 11 Apr 1971, T to M, Als; 15 Apr 1971, T to , ALS, encl. review of <emph render="underline">The Swimmers and Other Selected Poems</emph> by Allen Tate--<emph render="underline">Spectator</emph>, 16 Jan 1971; 25 May 1971, T to M, ALS; 15 Jun 1971, T to M, ALS.</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unitdate>17 Jul 1971, T to M, ALS; 9 Aug 1971, T to M, ALS; 11 Aug 1971, T to M, ALS; Christmas 1971, Helen, Allen, John and Ben; 1 feb 1972, T to M, ALS; 5 Sep 1972, T to M, ALS; 9 Sep 1972, M to T, typed xerox; 16 Sep 1972, T to M, ALS; 23 Sep 1972, M to T, typed carbon; 15 Nov 1972, T to M, ALS; clipping, <emph render="underline">Nashville Tennessean</emph>, 1 Nov 1972; Christmas 1972, Helen, Allen, Ben and John; n.d., Tate, &#8220;Will the University Be Honest With Us?&#8221; University of Minnesota commencement address.</unitdate>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>30 Oct 1939, T to M, ALS; 2 Nov 1939, M to T, carbon; 17 Nov 1939, T to M, TLS; 14 Jan 1940, T to M, TLS; 21 Feb 1940, M to T, carbon; 23 Feb 1940, T to M, ALS; 29 Feb 1940, Caroline Tate to Rosemary Mizener, ALS; n.d., 1940, Caroline Tate
+              to Rosemary Mizener, TLS; 11 Apr 1940, T to M, ALS; 13 Apr 1940,
+              <emph render="underline">Yale News</emph>; n.d., Caroline Tate to Rosemary Mizener, TLS; 16 Apr 1940, T to Rosemary Mizener, ALS; 29 Apr 1940, Caroline Tate to Rosemary Mizener, TLS; 6 Dec 1940, T to M, ALS; 10 Dec 1940, M to T, typed copy; 12 Dec
+              1940, T to M, ALS; 14 Dec 1940, M to T, typed copy; n.d., rough draft to President Hodges of LSU; 14 Feb 1941, T to M, TLS; 26 Feb 1941, T to M, TLS; 27 Feb 1941, Caroline Tate to Rosemary Mizener, TLS; 18 Mar 1941, T to M, TLS; 14 Sep 1941, T to M,
+              ALS; 21 Sep 1941, T to M, ALS; 26 Sep 1941, T to M, ALS; 2 Oct 1941, T to M, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>29 Oct 1941, Percy W. Long (of MLA) to T, TLS; 4 Nov 1941, T to M, TLS; 8 Nov 1941, T to M, TLS; n.d., 1941, M to T, typed copy; n.d., 1941, M to Percy W. Long, typed copy; 12 Nov 1941, Percy W. Long to M, TLS; 13 Nov 1941, T to M, TLS; 13
+              Nov 1941, T to Percy W. Long, typed carbon; 17 Nov 1941, T to M, T; 18 Nov 1941, Percy W. Long to T, typed carbon sent to M; 24 Nov 1941, T to M, TLS; 24 Nov 1941, T to Percy W. Long, typed copy; 25 Nov 1941, Percy W. Long to M, TLS; 25 Nov 1941,
+              Percy W. Long to T, typed carbon; 25 Nov 1941, T to Wallace Stegner, TLS; 2 Dec 1941, T to M, telegram; 4 Dec 1941, T to M, TLS; 20 Dec 1941, T to M, TLS; 5 Jan 1942, T to M, TLS; 13 Jan 1942, T to M, TL; 16 Mar 1942, T to M, TLS; 22 Apr 1942, T to
+              M, TLS; 19 May 1942, T to M, TLS; 5 Nov 1942, Andrew [Lytle?] to M, ALS; 10 Jan 1943, M to T, typed carbon.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>14 Jan 1943, T to M, encl. &#8220;More Sonnets at Christmas I-IV&#8221; by Allen Tate (4 pp. manuscript), ALS; 22 Jan 1943, T to M, ALS; 2 Feb 1943, M to T, typed carbon; &#8220;Jubilo&#8221; by Allen Tate, typed carbon; 5 Feb 1943, T to M,
+              TLS; &#8220;Jubilo&#8221; (revised), typed carbon; 1 Mar 1943, T to M, TLS; 10 Mar 1943, T to M, ALS; &#8220;Seasonal Confessions&#8221; by Allen Tate (12 pp. manuscript), typed carbon; 16 Mar 1943, T to M, ALS; 25 Mar 1943, T to M, card; 2 Aug 1943,
+              T to M, TLS; 9 Aug 1943, T to M, TLS (Joyce parody); 31 Aug 1943, T to M, TLS; 25 Mar 1944, T to M, TLS; 21 Jun 1944, T to M, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>14 Jan 1943, T to M, encl. &#8220;More Sonnets at Christmas I-IV&#8221; by Allen Tate (4 pp. manuscript), ALS; 22 Jan 1943, T to M, ALS; 2 Feb 1943, M to T, typed carbon; &#8220;Jubilo&#8221; by Allen Tate, typed carbon; 5 Feb 1943, T to M,
+              TLS; &#8220;Jubilo&#8221; (revised), typed carbon; 1 Mar 1943, T to M, TLS; 10 Mar 1943, T to M, ALS; &#8220;Seasonal Confessions&#8221; by Allen Tate (12 pp. manuscript), typed carbon; 16 Mar 1943, T to M, ALS; 25 Mar 1943, T to M, card; 2 Aug 1943,
+              T to M, TLS; 9 Aug 1943, T to M, TLS (Joyce parody); 31 Aug 1943, T to M, TLS; 25 Mar 1944, T to M, TLS; 21 Jun 1944, T to M, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>13 Dec 1945, T to M, ALS; 14 Dec 1945, T to M, TLS; 17 Dec 1945, T to M, ALS; 23 Jan 1946, T to M, TLS; 14 Feb 1946, T to M, TLS; 19 Feb 1946, T to M, TLS; 22 Feb 1946, M to T, typed carbon; 21 Nov 1946, T to Houghton Mifflin, typed carbon;
+              4 Dec 1946, T to M, ALS; 21 Aug 1947, T to M, ALS; 19 May 1949, T to M, TLS; 14 Oct 1949, T to M, TLS; 19 Oct 1949, T to M, form letter to
+              <emph render="underline">Saturday Review</emph>
+              with holograph note; 22 Oct 1949, T to M, card; 4 Nov 1949, protest to
+              <emph render="underline">Saturday Review of Literature</emph>; 2 Dec 1949, Harrison Smith to M, encl. 2 Dec 1949, Harrison Smith to John Berryman, TLS; 6 Dec 1949, M to Harrison Smith, typed carbon; 9 Dec 1949, Harrison Smith to M, TLS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Christmas 1950, Caroline and Allen to Mr. and Mrs. Arthur Mizener, ALS; 30 Dec 1950, T to M, TLS; 30 Dec 1950, Caroline Tate to M, (<emph render="underline">The Far Side of Paradise</emph>) TLS; 3 Jan M to T, typed carbon; 3 Jan 1951, M to
+Caroline Tate, typed carbon; 13 Jan 1951, T to M, TLS; 26 Jul 1951, Tate draft of protest concerning School of Letters at Indiana University, 6 pp. holograph; 12 Sep 1951, Caroline Tate to Rosemary and Arthur, TLS; 17 Nov 1951, T to M, TLS; 20 Nov
+1951, Caroline Tate to Dear Rosemary, Dear Arthur, TLS; 3 Dec 1951, T to M, TLS; 12 Dec 1951, T to M, card; 14 Dec 1951, T to M, ALS; 9 Jan 1952, T to M, TLS; 19 Feb 1952, T to M, TLS; 22 Feb 1952, M to T, typed carbon; 3 May 1952, T to M, TLS; 25
+Jul 1952, T to M, TLS; 1 Oct 1952, T to M, ALS; 8 Oct 1952, T to M, ALS; 30 Oct 1952, T to M, encl. &#8220;The Buried Lake&#8221; by Allen Tate, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>20 Nov 1952, T to M, ALS; 28 Dec 1952, T to M, TLS; 5 Feb 1953, T to M, ALS; 13 Feb 1953, T to M, ALS; 19 Feb 1953, T to M, TLS; 10 Apr 1953, T to M, ALS; 14 Apr 1953, T to M, TLS; 2 May 1953, T to Rosemary Mizener, ALS; 16 Jan 1956, T to
+              M, TLS; 2 Mar 1957, T to M, ALS; 5 Aug 1957, T to M, ALS; 2 Apr 1958, T to M, TLS; 14 Jan 1959, Carl Bode to T, TLS; 27 Jan 1959, T to M, ALS; 27 Mar 1959, T to M, ALS; 31 Mar 1959, T to Rosemary Mizener, ALS; n.d., 1959, T to M, note; 3 Apr 1959, T
+              to M, note; 24 May 1959, T to M, ALS; 22 Jul 1959, T to M, TLS; 20 Aug 1959, Isabella and Allen to Mr. and Mrs. Arthur Mizener, card; 7 Sep 1959, T to Mizeners, ALS; 22 Oct 1959, T to M, TLS; 12 Apr 1960, T to M, TLS; 20 May 1960, T to M, card; 27
+              May 1960, T to M, TLS; 17 Aug 1960, T to M, TLS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>[Oct 1960?], Caroline Tate to M, TLS; 25 Apr 1962, T to M, ALS; 2 May 1962, T to M, card; 9 Jun 1962, T to M, TLS; 26 Nov 1962, William K. Rose to M, card; 27 Apr 1963, T to M, TLS; 13 Nov 1963, T to M, TLS; 22 Nov 1963, T to M, TLS; 4 Jan
+              1964, T to M, TLS; 10 Jan 1964, T to M, TLS; 14 Jan 1964, M to T, [Oct 1960?], Caroline Tate to M, TLS; 25 Apr 1962, T to M, ALS; 2 May 1962, T to M, card; 9 Jun 1962, T to M, TLS; 26 Nov 1962, William K. Rose to M, card; 27 Apr 1963, T to M, TLS; 13
+              Nov 1963, T to M, TLS; 22 Nov 1963, T to M, TLS; 4 Jan 1964, T to M, TLS; 10 Jan 1964, T to M, TLS; 14 Jan 1964, M to T,</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>n.d., [Mar 1968], T to Rosemary Mizener, ALS; 27 Apr 1968, T to M, card; 22 Jul 1968, T to Rosemary and Arthur, ALS; 7 Aug 1968, T to M, ALS; 12 Aug 1968, M to T, typed carbon; 17 Aug 1968, T to M, ALS; 22 Aug 1968, M to T, typed carbon; 6
+              Sep 1968, T to Sir and Madam, ALS; 19 Sep 1968, M to T, typed carbon; 23 Sep 1968, T to M, ALS; 3 Oct 1968, T to M, ALS; 9 Oct 1968, M to T, typed carbon; Christmas 1968, Helen, Allen and John Tate; 24 Jan 1969, M to T, typed carbon; 29 Jan 1969, T
+              to M, ALS; 4 Feb 1969, M to T, typed carbon; 7 Feb 1969, T to M, ALS; 8 Feb 1969, T to M, ALS; 24 Feb 1969, M to T, typed carbon; 4 Jun 1969, T to M, ALS; 20 Jul 1969, M to T, typed carbon; 27 Jul 1969, T to M, ALS; 3 Aug 1969, T to M, ALS, encl.
+              notes on Ford Madox Ford; 14 Aug 1969, T to M, ALS; 26 Aug 1969, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>17 Sep 1969, T to M, ALS; Christmas 1969, Helen, Allen and John Tate; 26 Dec 1969, T to Mizeners, card; 14 Jan 1970, T to M, ALS; 19 Jun 1970, T to M, card; 3 Jul 1970, M to T, typed carbon; 30 Jul 1970, T to M, ALS; 4 Aug 1970, M to T,
+              typed carbon; 13 Oct 1970, T to M, ALS; 11 Nov 1970, T to M, ALS; Christmas 1970, Helen, Allen, John and Benjamin Tate; 25 Jan 1971, T to M, ALS; 23 Mar 1971, T to M, card; 5 Apr 1971, T to M, card; 11 Apr 1971, T to M, Als; 15 Apr 1971, T to , ALS,
+              encl. review of
+              <emph render="underline">The Swimmers and Other Selected Poems</emph>
+              by Allen Tate--<emph render="underline">Spectator</emph>, 16 Jan 1971; 25 May 1971, T to M, ALS; 15 Jun 1971, T to M, ALS.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>17 Jul 1971, T to M, ALS; 9 Aug 1971, T to M, ALS; 11 Aug 1971, T to M, ALS; Christmas 1971, Helen, Allen, John and Ben; 1 feb 1972, T to M, ALS; 5 Sep 1972, T to M, ALS; 9 Sep 1972, M to T, typed xerox; 16 Sep 1972, T to M, ALS; 23 Sep
+              1972, M to T, typed carbon; 15 Nov 1972, T to M, ALS; clipping,
+              <emph render="underline">Nashville Tennessean</emph>, 1 Nov 1972; Christmas 1972, Helen, Allen, Ben and John; n.d., Tate, &#8220;Will the University Be Honest With Us?&#8221; University of Minnesota commencement address.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
