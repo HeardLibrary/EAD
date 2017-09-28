@@ -1,960 +1,1227 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Vandy Goes to War &#8211; [oral history] Collection</titleproper>
-<titleproper>Finding Aid for the Vandy Goes to War: World War II Remembered Collection</titleproper>
-<author>Molly Dohrmann</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2008</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Vandy Goes to War: World War II Remembered Collection</unittitle>
-<unitid>MSS.0634</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">1.25 linear feet</extent>
-</physdesc>
-<unitdate>2008</unitdate>
-</did>
-<scopecontent>
-<head>Scope and Content and History Note</head>
-<p><emph render="italic">Vandy Goes to War: World War II Remembered an Oral History</emph> was begun in the autumn of 2006 with the intention of making a record of the various experiences of Vanderbilt and Peabody men and women during the World War II. The electronic archive, to be read and listened to is available at this link:</p>
-<p>Paper copies of the transcripts and other supporting materials donated by the participants are housed in Special Collections and University Archives. Altogether there are forty participants. The interviews are complemented by a number of digitized photographs from the personal collections of some of the contributors and include ninety pages from a World War II photograph journal of a Naval officer&#8217;s tour of duty in the South Pacific.</p>
-<p>This project records the histories and reminiscences of men and women who attended or had connections with Vanderbilt and Peabody during the war years and documents their experiences in the service and on the campus during that time and afterward when some came back to school and attended on the G.I. Bill. The interviews include eye witness accounts of soldiers fighting at the Battle of the Bulge in the winter of 1944 and early 1945, in the Far East at Okinawa, flying aerial reconnaissance in the European theatre, and medical and hospital work in North Africa and southern Italy. One soldier, a prisoner of war in a camp in Germany tells his story. Another tells of being an eighteen year old soldier liberating prisoners from Dachau Concentration camp in southern Germany. Women speak of taking leadership positions in campus life, when so many men had gone to war and of their efforts on the home front and of the realities of rationing and limited necessities.</p>
-<p>This project was begun in the fall of 2006; the final interviews were completed in the last part of 2007.</p>
-<p>Juanita Murray, Director of Special Collections and University Archives and Kathy Smith, Associate University Archivist are the co-ordinators for the project. Molly Dohrmann conducted all of the interviews for this oral history.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle><emph render="bold">Transciptions of the interviews with dates and timings and biographical data sheets</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle><emph render="bold">Anderson, Lyttleton C., Jr.</emph></unittitle>
-<unitdate>January 4, 2007; 24:52 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle><emph render="bold">Bates, Douglas T., III</emph></unittitle>
-<unitdate>April 26, 2007; 19:10 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle><emph render="bold">Bowers, Eugene</emph></unittitle>
-<unitdate>October 12, 2006; 15:13 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle><emph render="bold">Bowman, Dunklin C.</emph></unittitle>
-<unitdate>December 1, 2006; 23:58 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle><emph render="bold">Branscomb, Ben and Jane</emph></unittitle>
-<unitdate>September 29, 2006; 55:30 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle><emph render="bold">Bugel, Alice H.</emph></unittitle>
-<unitdate>June 1, 2007; 48:56 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle><emph render="bold">Durham, Walter T.</emph></unittitle>
-<unitdate>September 26, 2006; 50:48 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle><emph render="bold">Eskind, Allen S.</emph></unittitle>
-<unitdate>September 28, 2006; 1:00:15 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle><emph render="bold">George, Ted M.</emph></unittitle>
-<unitdate>January 23, 2007; 13:39 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle><emph render="bold">Healy, Robert</emph></unittitle>
-<unitdate>August 16, 2007; 16:24 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle><emph render="bold">Holcomb, George W., Jr.</emph> Biographical data form only</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle><emph render="bold">Holladay, Virginia</emph>
-<unitdate>June 27, 2007; pt. 1- 6:20; pt. 2- 2:03 minutes</unitdate>
-</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle><emph render="bold">Holroyd, Sara</emph></unittitle>
-<unitdate>October 18, 2006; 9:53 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle><emph render="bold">James, David, Jr.</emph></unittitle>
-<unitdate>January 23, 2007; 20:42 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle><emph render="bold">Jenkins, Lillian Bloodworth</emph></unittitle>
-<unitdate>December 13, 2006; 6:21 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle><emph render="bold">Jones, Wayman Morris</emph></unittitle>
-<unitdate>December 12, 2006; 11:52 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle><emph render="bold">Larsen, James and Anne</emph></unittitle>
-<unitdate>October 18, 2006; 1:18:25 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle><emph render="bold">Norman, Haywood Petrie, III</emph></unittitle>
-<unitdate>January 19, 2007; 10:18 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle><emph render="bold">Owen, Tom and Mary</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle><emph render="bold">Owen, Susan</emph></unittitle>
-<unitdate>December 26, 2006; 18:20 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle><emph render="bold">Payne, Maxwell Carr, Jr.</emph></unittitle>
-<unitdate>November 20, 2006; 21:35 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle><emph render="bold">Pearsall, Sam</emph></unittitle>
-<unitdate>October 10, 2007; pt. 1, 56:03; pt. 2, 2:00; pt. 3, 1:15; pt. 4, 5:12 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle><emph render="bold">Smith, Marion L.</emph></unittitle>
-<unitdate>December 5, 2006; 5:22 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle><emph render="bold">Stewart, John M.</emph></unittitle>
-<unitdate>October 11, 2006; 15:34 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unittitle><emph render="bold">Still, Elizabeth Blair</emph></unittitle>
-<unitdate>December 14, 2006; 8:42 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unittitle><emph render="bold">Tacker, Frank</emph></unittitle>
-<unitdate>January 18, 2007; 45:42 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">26</container>
-<unittitle><emph render="bold">Thomas, George D., Jr.</emph></unittitle>
-<unitdate>January 11, 2007; 24:44 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">27</container>
-<unittitle><emph render="bold">Thompson, Joe and Martha</emph></unittitle>
-<unitdate>December 1, 2006; pt. 1, 49:59, pt. 2, 4:40 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">28</container>
-<unittitle><emph render="bold">Tuck, James</emph></unittitle>
-<unitdate>February 21, 2007; 5:32 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">29</container>
-<unittitle><emph render="bold">Webb, James C., Jr.</emph></unittitle>
-<unitdate>August 1, 2007; 29:17 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">30</container>
-<unittitle><emph render="bold">Williams, Benjamin B.</emph></unittitle>
-<unitdate>October 18, 2007; 1:05:10 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">31</container>
-<unittitle><emph render="bold">Williams, Jack</emph></unittitle>
-<unitdate>January 9, 2007; 22:52 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">32</container>
-<unittitle><emph render="bold">Worrell, Estelle Ansley</emph></unittitle>
-<unitdate>December 5, 2006; 29:33 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">33</container>
-<unittitle><emph render="bold">Wright, Harold L.</emph></unittitle>
-<unitdate>February 14, 2007; pt. 1, 5:40; pt. 2, :00:41 minutes</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">34</container>
-<unittitle><emph render="bold">Wright, Jean A.</emph></unittitle>
-<unitdate>February 20, 2007; 29:05 minutes</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="bold">Related materials and photographs</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle><emph render="bold">Anderson, Lyttleton</emph> Photocopies of maps and other items of general interest</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle><emph render="bold">Anderson, Lyttleton</emph> Contact sheets of scanned photographs sc.mss.0634.007 - .035;Battle of the Bulge, Dec. 16, 1944 - Jan.25, 1945, personal collection with identification</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle><emph render="bold">Brammer, Harry M., Jr</emph> World War II History Book with introductory letter by Harry M. Brammer, III, M.D. <emph render="italic">The First Platoon of the 44<emph render="super">th</emph> Cavalry Reconnaissance Troop, 44<emph render="super">th</emph> Infantry Division</emph> Form TX Copyrighted U.S. Patent Office - TXU 352 580, 21 December 1988 by Harry Murray Brammer, Jr. (P.F.C. - U.S. Army) Serial No. 35091120</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle><emph render="bold">Branscomb, Ben and Jane</emph> &#8220;Ben Branscomb Reviews 60 Years of Discovery&#8221; in <emph render="italic">UABSYNOPSIS</emph>, Vol. 25, No. 18</unittitle>
-<unitdate>August 14, 2006</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle><emph render="bold">Bugel, Alice H.</emph> Transcript of oral history interview on September 13, 2002, 22 pages; photocopy of an article on the 8th Evacuation Hospital, University of Virginia with photos of Alice Bugel and her notes</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle><emph render="bold">Bugel, Alice H.</emph> <emph render="italic">Humor In Uniform; Memories of My Mother: A Remembrance of Johanna E. Moline</emph> by Anna Lisa Moline; <emph render="italic">Reminiscences: My Life and Nursing Career</emph> by Anna Lisa Moline; &#8220;She Was There: A W.W.II War Veterans Story&#8221; in <emph render="italic">The Veteran Tribune</emph></unittitle>
-<unitdate>June 2005</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle><emph render="bold">Bugel, Alice H.</emph> Contact sheets of scanned photographs sc.mss.0634. 038 - .072, personal collection of World War II photos taken in the U. S., North Africa, and Italy with identifications</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle><emph render="bold">Eskind, Allen S.</emph> Finding aid for the Allen S. Eskind World War II Papers (MSS 633) which includes the link to the 90 page photograph album of digitized images from his tour of duty in the South Pacific during the war.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle><emph render="bold">George, Ted M.</emph> <emph render="italic">A Life in the Twentieth Century</emph> - an autobiography with chapters on his World War II service and his time at Vanderbilt</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle><emph render="bold">Holladay, Virginia M.</emph> Written reminiscences of her time at Vanderbilt during the years 1942-1946.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle><emph render="bold">Holroyd, Sara</emph> Finding aid for the Sara Holroyd World War II and George Peabody for Teachers Collection (MSS 654)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle><emph render="bold">James, David H.</emph> 2 articles &#8220;A Mission in Memphis&#8221; Spring 1988, p. 40; &#8220;A Selfless Career&#8221; Fall 2002, in <emph render="italic">Vanderbilt Medicine</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle><emph render="bold">Larsen, James</emph> Contact sheets of scans mss images 0634.036 - .037 of James Larsen in uniform on the Vanderbilt Campus</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle><emph render="bold">Owen, Thomas B</emph> World War II materials - award of Bronze Star and Purple Heart; Lists of soldiers wounded in action and killed in action, Third Battalion; &#8220;On the Point of the Spear: Some Experiences of a Marine Rifleman During the Battle for the Island of Okinawa in April, May, and June of 1945&#8221; by James S. White, G Company, 3<emph render="super">rd</emph> Battalion, 29<emph render="super">th</emph> Marines, Sixth Marine Division</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle><emph render="bold">Owen, Thomas B. and Mary P.</emph></unittitle>
-<unittitle><emph render="bold">Owen, Susan</emph> Photocopies of personal and biographical materials, including &#8220;A Tribute to Coach Tommy Owen.&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle><emph render="bold">Owen, Thomas B. and Mary P.</emph> <emph render="bold">Owen, Susan</emph> Photocopies of personal and biographical materials and newspaper articles relating to his athletic and sports career at Vanderbilt University and with newspaper articles on Mary P.Owen.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle><emph render="bold">Pearsall, Sam</emph> Photocopy of a World War II Notebook - &#8220;World War II as Fought and Won by Sam Pearsall II&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle><emph render="bold">Pearsall, Sam</emph> Photocopies of a transcript of a ship&#8217;s bridge signal log of February 1944; Chapter III of Oheka Castle - the Kahn mansion; remarks made by Sam Pearsall at a banquet; the Merchant Seamen Memorial Fund; and newspaper articles</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle><emph render="bold">Stewart, John M.</emph> Brief Autobiography for the Vanderbilt Reunion of the class of</unittitle>
-<unitdate>1948</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle><emph render="bold">Tacker, James Frank, Jr</emph> &#8220;WWII Battle of the Bulge Progresses: Frank Tacker Taken Prisoner of War&#8221; December 1994; photocopy of a map of WWII Prison camps in Europe</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle><emph render="bold">Tacker, James Frank, Jr.</emph> &#8220;Bulge Bugle&#8221; official publication of Veterans of the Battle of the Bulge, February 2006, November 2006; &#8220;The Cub of the Golden Lion&#8221; veterans of the 106<emph render="super">th</emph> Infantry Division</unittitle>
-<unitdate>July-August-September 2005, October-November-December 2006</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle><emph render="bold">Thompson, Joe and Martha</emph> Photocopy of press release for his book <emph render="italic">Tiger Joe: a Photographic Diary of a World War II Aerial Reconnaissance Pilot</emph></unittitle>
-<unitdate>2006</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle><emph render="bold">Williams, Benjamin B.</emph> Photocopies of autobiography &#8220;Ben Williams in War and Peace&#8221;; &#8220;Bridge on the River Rhine&#8221; in the <emph render="italic">History Channel Magazine</emph>, June 2006; letter with memories of Vanderbilt professors</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle><emph render="bold">Worrell, Estelle A.</emph> Photocopy of newspaper clipping, Peabody Dames</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle><emph render="bold">Worrell, Estelle A. and Norman</emph> Contact sheets of scanned photographs sc.mss.0634.001 - .006, the Peabody campus in the snow; Veterans Village at Peabody, c.</unittitle>
-<unitdate>1951</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle>&#8220;Were You Here During World War II&#8221; in <emph render="bolditalic">Vanderbilt Magazine</emph>, Summer</unittitle>
-<unitdate>2006</unitdate>
-<unittitle>&#8220;Vandy Goes to War: An Oral History Project&#8221; by Lew Harris in <emph render="bolditalic">Acorn Chronicle</emph>, Summer</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle>General Patton&#8217;s Prayer during the Battle of the Bulge</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle>Web information on the Battle of the Bulge</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="bold">Individual contact and correspondence information, and other administrative materials.</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle><emph render="bold">Anderson, Lyttleton</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle><emph render="bold">Bates, Douglas T., III</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle><emph render="bold">Bowers, Eugene</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle><emph render="bold">Bowman, Dunklin, Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle><emph render="bold">Brammer, Harry M., III</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle><emph render="bold">Branscomb, Ben and Jane</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle><emph render="bold">Bugel, Alice H.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle><emph render="bold">Durham, Walter T.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle><emph render="bold">Eskind, Allen S.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle><emph render="bold">George, Ted M.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle><emph render="bold">Healy, Robert</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle><emph render="bold">Holcomb, George, Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle><emph render="bold">Holladay, Virginia</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle><emph render="bold">Holroyd, Sara</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle><emph render="bold">James, David H.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle><emph render="bold">Jenkins, Lillian Bloodworth</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unittitle><emph render="bold">Jones, Wayman Morris</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unittitle><emph render="bold">Larsen, James and Anne</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unittitle><emph render="bold">Norman, Heywood Petrie, III</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unittitle><emph render="bold">Owen, Thomas B. and Mary</emph> <emph render="bold">Susan Owen</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unittitle><emph render="bold">Payne, M. Carr, Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">22</container>
-<unittitle><emph render="bold">Pearsall, Samuet H., Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">23</container>
-<unittitle><emph render="bold">Smith, Marion L.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">24</container>
-<unittitle><emph render="bold">Stewart, John M.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">25</container>
-<unittitle><emph render="bold">Blair-Still, Elizabeth (Betty Carlisle)</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">26</container>
-<unittitle><emph render="bold">Tacker, James Frank, Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">27</container>
-<unittitle><emph render="bold">Thomas, George D., Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">28</container>
-<unittitle><emph render="bold">Thompson, Joe and Martha</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">29</container>
-<unittitle><emph render="bold">Tuck, James</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">30</container>
-<unittitle><emph render="bold">Webb, James A., Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">31</container>
-<unittitle><emph render="bold">Williams, Benjamin B.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">32</container>
-<unittitle><emph render="bold">Williams, Jack</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">33</container>
-<unittitle><emph render="bold">Worrell, Estelle</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">34</container>
-<unittitle><emph render="bold">Wright, Harold L.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">35</container>
-<unittitle><emph render="bold">Wright, Jean A.</emph></unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="bold">People who did <title render="underline">not</title> participate but were contacted for this oral history project:</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">36</container>
-<unittitle><emph render="bold">Anderson, John N.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">37</container>
-<unittitle><emph render="bold">Browning, Earl</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">38</container>
-<unittitle><emph render="bold">Burkett, B. G.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">39</container>
-<unittitle><emph render="bold">Collins, Willard</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">40</container>
-<unittitle><emph render="bold">Cowden, Miriam</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">41</container>
-<unittitle><emph render="bold">Gowen, Jesse L., Jr.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">42</container>
-<unittitle><emph render="bold">Jolly, Jean Hagy</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">43</container>
-<unittitle><emph render="bold">Kittrell, Oliver (Kit) and Carolyn</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">44</container>
-<unittitle><emph render="bold">Legler, Frank C.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">45</container>
-<unittitle><emph render="bold">Noel, Andromedia</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">46</container>
-<unittitle><emph render="bold">Schultz, Lloyd E.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">47</container>
-<unittitle><emph render="bold">Spiegel, George</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">48</container>
-<unittitle><emph render="bold">Stockell, Charles W.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">49</container>
-<unittitle><emph render="bold">Townes, Emily Manchester</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">50</container>
-<unittitle><emph render="bold">Wells, William W.</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">51</container>
-<unittitle>Signed Project Release Forms &#8211; kept in Director&#8217;s office</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">52</container>
-<unittitle>Deed of Gift form signed by Alice H. Bugel</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">53</container>
-<unittitle>Correspondence with Lew Harris, editor of the <emph render="italic">Acorn Chronicle</emph> for article</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">54</container>
-<unittitle>Index of interviewees Index of names and places for transcription service</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">55</container>
-<unittitle>General notes and correspondence on the project</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">56</container>
-<unittitle>Biographical data forms - blank</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="bold">1 &#8211; 33.</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Original transcripts with corrections</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Vandy Goes to War &#8211; [oral history] Collection</titleproper>
+        <titleproper>Finding Aid for the Vandy Goes to War: World War II Remembered Collection</titleproper>
+        <author>Molly Dohrmann</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2008</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Vandy Goes to War: World War II Remembered Collection</unittitle>
+      <unitid>MSS.0634</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.25 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <scopecontent>
+      <head>Scope and Content and History Note</head>
+      <p>
+        <emph render="italic">Vandy Goes to War: World War II Remembered an Oral History</emph>
+        was begun in the autumn of 2006 with the intention of making a record of the various experiences of Vanderbilt and Peabody men and women during the World War II. The electronic archive, to be read and listened to is available at this link:</p>
+      <p>Paper copies of the transcripts and other supporting materials donated by the participants are housed in Special Collections and University Archives. Altogether there are forty participants. The interviews are complemented by a number of digitized
+        photographs from the personal collections of some of the contributors and include ninety pages from a World War II photograph journal of a Naval officer&#8217;s tour of duty in the South Pacific.</p>
+      <p>This project records the histories and reminiscences of men and women who attended or had connections with Vanderbilt and Peabody during the war years and documents their experiences in the service and on the campus during that time and afterward
+        when some came back to school and attended on the G.I. Bill. The interviews include eye witness accounts of soldiers fighting at the Battle of the Bulge in the winter of 1944 and early 1945, in the Far East at Okinawa, flying aerial reconnaissance in
+        the European theatre, and medical and hospital work in North Africa and southern Italy. One soldier, a prisoner of war in a camp in Germany tells his story. Another tells of being an eighteen year old soldier liberating prisoners from Dachau
+        Concentration camp in southern Germany. Women speak of taking leadership positions in campus life, when so many men had gone to war and of their efforts on the home front and of the realities of rationing and limited necessities.</p>
+      <p>This project was begun in the fall of 2006; the final interviews were completed in the last part of 2007.</p>
+      <p>Juanita Murray, Director of Special Collections and University Archives and Kathy Smith, Associate University Archivist are the co-ordinators for the project. Molly Dohrmann conducted all of the interviews for this oral history.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="bold">Transciptions of the interviews with dates and timings and biographical data sheets</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="bold">Anderson, Lyttleton C., Jr.</emph>
+            </unittitle>
+            <unitdate>January 4, 2007; 24:52 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="bold">Bates, Douglas T., III</emph>
+            </unittitle>
+            <unitdate>April 26, 2007; 19:10 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="bold">Bowers, Eugene</emph>
+            </unittitle>
+            <unitdate>October 12, 2006; 15:13 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="bold">Bowman, Dunklin C.</emph>
+            </unittitle>
+            <unitdate>December 1, 2006; 23:58 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="bold">Branscomb, Ben and Jane</emph>
+            </unittitle>
+            <unitdate>September 29, 2006; 55:30 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="bold">Bugel, Alice H.</emph>
+            </unittitle>
+            <unitdate>June 1, 2007; 48:56 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="bold">Durham, Walter T.</emph>
+            </unittitle>
+            <unitdate>September 26, 2006; 50:48 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="bold">Eskind, Allen S.</emph>
+            </unittitle>
+            <unitdate>September 28, 2006; 1:00:15 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="bold">George, Ted M.</emph>
+            </unittitle>
+            <unitdate>January 23, 2007; 13:39 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="bold">Healy, Robert</emph>
+            </unittitle>
+            <unitdate>August 16, 2007; 16:24 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="bold">Holcomb, George W., Jr.</emph>
+              Biographical data form only</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="bold">Holladay, Virginia</emph>
+              <unitdate>June 27, 2007; pt. 1- 6:20; pt. 2- 2:03 minutes</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="bold">Holroyd, Sara</emph>
+            </unittitle>
+            <unitdate>October 18, 2006; 9:53 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>
+              <emph render="bold">James, David, Jr.</emph>
+            </unittitle>
+            <unitdate>January 23, 2007; 20:42 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <emph render="bold">Jenkins, Lillian Bloodworth</emph>
+            </unittitle>
+            <unitdate>December 13, 2006; 6:21 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="bold">Jones, Wayman Morris</emph>
+            </unittitle>
+            <unitdate>December 12, 2006; 11:52 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>
+              <emph render="bold">Larsen, James and Anne</emph>
+            </unittitle>
+            <unitdate>October 18, 2006; 1:18:25 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <emph render="bold">Norman, Haywood Petrie, III</emph>
+            </unittitle>
+            <unitdate>January 19, 2007; 10:18 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <emph render="bold">Owen, Tom and Mary</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <emph render="bold">Owen, Susan</emph>
+            </unittitle>
+            <unitdate>December 26, 2006; 18:20 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>
+              <emph render="bold">Payne, Maxwell Carr, Jr.</emph>
+            </unittitle>
+            <unitdate>November 20, 2006; 21:35 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <emph render="bold">Pearsall, Sam</emph>
+            </unittitle>
+            <unitdate>October 10, 2007; pt. 1, 56:03; pt. 2, 2:00; pt. 3, 1:15; pt. 4, 5:12 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <emph render="bold">Smith, Marion L.</emph>
+            </unittitle>
+            <unitdate>December 5, 2006; 5:22 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <emph render="bold">Stewart, John M.</emph>
+            </unittitle>
+            <unitdate>October 11, 2006; 15:34 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <emph render="bold">Still, Elizabeth Blair</emph>
+            </unittitle>
+            <unitdate>December 14, 2006; 8:42 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>
+              <emph render="bold">Tacker, Frank</emph>
+            </unittitle>
+            <unitdate>January 18, 2007; 45:42 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>
+              <emph render="bold">Thomas, George D., Jr.</emph>
+            </unittitle>
+            <unitdate>January 11, 2007; 24:44 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>
+              <emph render="bold">Thompson, Joe and Martha</emph>
+            </unittitle>
+            <unitdate>December 1, 2006; pt. 1, 49:59, pt. 2, 4:40 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>
+              <emph render="bold">Tuck, James</emph>
+            </unittitle>
+            <unitdate>February 21, 2007; 5:32 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>
+              <emph render="bold">Webb, James C., Jr.</emph>
+            </unittitle>
+            <unitdate>August 1, 2007; 29:17 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>
+              <emph render="bold">Williams, Benjamin B.</emph>
+            </unittitle>
+            <unitdate>October 18, 2007; 1:05:10 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>
+              <emph render="bold">Williams, Jack</emph>
+            </unittitle>
+            <unitdate>January 9, 2007; 22:52 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>
+              <emph render="bold">Worrell, Estelle Ansley</emph>
+            </unittitle>
+            <unitdate>December 5, 2006; 29:33 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle>
+              <emph render="bold">Wright, Harold L.</emph>
+            </unittitle>
+            <unitdate>February 14, 2007; pt. 1, 5:40; pt. 2, :00:41 minutes</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>
+              <emph render="bold">Wright, Jean A.</emph>
+            </unittitle>
+            <unitdate>February 20, 2007; 29:05 minutes</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="bold">Related materials and photographs</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="bold">Anderson, Lyttleton</emph>
+              Photocopies of maps and other items of general interest</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="bold">Anderson, Lyttleton</emph>
+              Contact sheets of scanned photographs sc.mss.0634.007 - .035;Battle of the Bulge, Dec. 16, 1944 - Jan.25, 1945, personal collection with identification</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="bold">Brammer, Harry M., Jr</emph>
+              World War II History Book with introductory letter by Harry M. Brammer, III, M.D.
+              <emph render="italic">The First Platoon of the 44<emph render="super">th</emph>
+                Cavalry Reconnaissance Troop, 44<emph render="super">th</emph>
+                Infantry Division</emph>
+              Form TX Copyrighted U.S. Patent Office - TXU 352 580, 21 December 1988 by Harry Murray Brammer, Jr. (P.F.C. - U.S. Army) Serial No. 35091120</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="bold">Branscomb, Ben and Jane</emph>
+              &#8220;Ben Branscomb Reviews 60 Years of Discovery&#8221; in
+              <emph render="italic">UABSYNOPSIS</emph>, Vol. 25, No. 18</unittitle>
+            <unitdate>August 14, 2006</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="bold">Bugel, Alice H.</emph>
+              Transcript of oral history interview on September 13, 2002, 22 pages; photocopy of an article on the 8th Evacuation Hospital, University of Virginia with photos of Alice Bugel and her notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="bold">Bugel, Alice H.</emph>
+              <emph render="italic">Humor In Uniform; Memories of My Mother: A Remembrance of Johanna E. Moline</emph>
+              by Anna Lisa Moline;
+              <emph render="italic">Reminiscences: My Life and Nursing Career</emph>
+              by Anna Lisa Moline; &#8220;She Was There: A W.W.II War Veterans Story&#8221; in
+              <emph render="italic">The Veteran Tribune</emph>
+            </unittitle>
+            <unitdate>June 2005</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="bold">Bugel, Alice H.</emph>
+              Contact sheets of scanned photographs sc.mss.0634. 038 - .072, personal collection of World War II photos taken in the U. S., North Africa, and Italy with identifications</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="bold">Eskind, Allen S.</emph>
+              Finding aid for the Allen S. Eskind World War II Papers (MSS 633) which includes the link to the 90 page photograph album of digitized images from his tour of duty in the South Pacific during the war.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="bold">George, Ted M.</emph>
+              <emph render="italic">A Life in the Twentieth Century</emph>
+              - an autobiography with chapters on his World War II service and his time at Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="bold">Holladay, Virginia M.</emph>
+              Written reminiscences of her time at Vanderbilt during the years 1942-1946.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="bold">Holroyd, Sara</emph>
+              Finding aid for the Sara Holroyd World War II and George Peabody for Teachers Collection (MSS 654)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="bold">James, David H.</emph>
+              2 articles &#8220;A Mission in Memphis&#8221; Spring 1988, p. 40; &#8220;A Selfless Career&#8221; Fall 2002, in
+              <emph render="italic">Vanderbilt Medicine</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="bold">Larsen, James</emph>
+              Contact sheets of scans mss images 0634.036 - .037 of James Larsen in uniform on the Vanderbilt Campus</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>
+              <emph render="bold">Owen, Thomas B</emph>
+              World War II materials - award of Bronze Star and Purple Heart; Lists of soldiers wounded in action and killed in action, Third Battalion; &#8220;On the Point of the Spear: Some Experiences of a Marine Rifleman During the Battle for the Island of
+              Okinawa in April, May, and June of 1945&#8221; by James S. White, G Company, 3<emph render="super">rd</emph>
+              Battalion, 29<emph render="super">th</emph>
+              Marines, Sixth Marine Division</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <emph render="bold">Owen, Thomas B. and Mary P.</emph>
+            </unittitle>
+            <unittitle>
+              <emph render="bold">Owen, Susan</emph>
+              Photocopies of personal and biographical materials, including &#8220;A Tribute to Coach Tommy Owen.&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="bold">Owen, Thomas B. and Mary P.</emph>
+              <emph render="bold">Owen, Susan</emph>
+              Photocopies of personal and biographical materials and newspaper articles relating to his athletic and sports career at Vanderbilt University and with newspaper articles on Mary P.Owen.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>
+              <emph render="bold">Pearsall, Sam</emph>
+              Photocopy of a World War II Notebook - &#8220;World War II as Fought and Won by Sam Pearsall II&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <emph render="bold">Pearsall, Sam</emph>
+              Photocopies of a transcript of a ship&#8217;s bridge signal log of February 1944; Chapter III of Oheka Castle - the Kahn mansion; remarks made by Sam Pearsall at a banquet; the Merchant Seamen Memorial Fund; and newspaper articles</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <emph render="bold">Stewart, John M.</emph>
+              Brief Autobiography for the Vanderbilt Reunion of the class of</unittitle>
+            <unitdate>1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>
+              <emph render="bold">Tacker, James Frank, Jr</emph>
+              &#8220;WWII Battle of the Bulge Progresses: Frank Tacker Taken Prisoner of War&#8221; December 1994; photocopy of a map of WWII Prison camps in Europe</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <emph render="bold">Tacker, James Frank, Jr.</emph>
+              &#8220;Bulge Bugle&#8221; official publication of Veterans of the Battle of the Bulge, February 2006, November 2006; &#8220;The Cub of the Golden Lion&#8221; veterans of the 106<emph render="super">th</emph>
+              Infantry Division</unittitle>
+            <unitdate>July-August-September 2005, October-November-December 2006</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <emph render="bold">Thompson, Joe and Martha</emph>
+              Photocopy of press release for his book
+              <emph render="italic">Tiger Joe: a Photographic Diary of a World War II Aerial Reconnaissance Pilot</emph>
+            </unittitle>
+            <unitdate>2006</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <emph render="bold">Williams, Benjamin B.</emph>
+              Photocopies of autobiography &#8220;Ben Williams in War and Peace&#8221;; &#8220;Bridge on the River Rhine&#8221; in the
+              <emph render="italic">History Channel Magazine</emph>, June 2006; letter with memories of Vanderbilt professors</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <emph render="bold">Worrell, Estelle A.</emph>
+              Photocopy of newspaper clipping, Peabody Dames</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>
+              <emph render="bold">Worrell, Estelle A. and Norman</emph>
+              Contact sheets of scanned photographs sc.mss.0634.001 - .006, the Peabody campus in the snow; Veterans Village at Peabody, c.</unittitle>
+            <unitdate>1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>&#8220;Were You Here During World War II&#8221; in
+              <emph render="bolditalic">Vanderbilt Magazine</emph>, Summer</unittitle>
+            <unitdate>2006</unitdate>
+            <unittitle>&#8220;Vandy Goes to War: An Oral History Project&#8221; by Lew Harris in
+              <emph render="bolditalic">Acorn Chronicle</emph>, Summer</unittitle>
+            <unitdate>2007</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>General Patton&#8217;s Prayer during the Battle of the Bulge</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>Web information on the Battle of the Bulge</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="bold">Individual contact and correspondence information, and other administrative materials.</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="bold">Anderson, Lyttleton</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <emph render="bold">Bates, Douglas T., III</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <emph render="bold">Bowers, Eugene</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <emph render="bold">Bowman, Dunklin, Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="bold">Brammer, Harry M., III</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>
+              <emph render="bold">Branscomb, Ben and Jane</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>
+              <emph render="bold">Bugel, Alice H.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>
+              <emph render="bold">Durham, Walter T.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <emph render="bold">Eskind, Allen S.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <emph render="bold">George, Ted M.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <emph render="bold">Healy, Robert</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>
+              <emph render="bold">Holcomb, George, Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>
+              <emph render="bold">Holladay, Virginia</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>
+              <emph render="bold">Holroyd, Sara</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <emph render="bold">James, David H.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>
+              <emph render="bold">Jenkins, Lillian Bloodworth</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>
+              <emph render="bold">Jones, Wayman Morris</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <emph render="bold">Larsen, James and Anne</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <emph render="bold">Norman, Heywood Petrie, III</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>
+              <emph render="bold">Owen, Thomas B. and Mary</emph>
+              <emph render="bold">Susan Owen</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <emph render="bold">Payne, M. Carr, Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <emph render="bold">Pearsall, Samuet H., Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <emph render="bold">Smith, Marion L.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <emph render="bold">Stewart, John M.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">25</container>
+            <unittitle>
+              <emph render="bold">Blair-Still, Elizabeth (Betty Carlisle)</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">26</container>
+            <unittitle>
+              <emph render="bold">Tacker, James Frank, Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">27</container>
+            <unittitle>
+              <emph render="bold">Thomas, George D., Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">28</container>
+            <unittitle>
+              <emph render="bold">Thompson, Joe and Martha</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">29</container>
+            <unittitle>
+              <emph render="bold">Tuck, James</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">30</container>
+            <unittitle>
+              <emph render="bold">Webb, James A., Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">31</container>
+            <unittitle>
+              <emph render="bold">Williams, Benjamin B.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">32</container>
+            <unittitle>
+              <emph render="bold">Williams, Jack</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">33</container>
+            <unittitle>
+              <emph render="bold">Worrell, Estelle</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">34</container>
+            <unittitle>
+              <emph render="bold">Wright, Harold L.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">35</container>
+            <unittitle>
+              <emph render="bold">Wright, Jean A.</emph>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="bold">People who did
+              <title render="underline">not</title>
+              participate but were contacted for this oral history project:</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">36</container>
+            <unittitle>
+              <emph render="bold">Anderson, John N.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">37</container>
+            <unittitle>
+              <emph render="bold">Browning, Earl</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">38</container>
+            <unittitle>
+              <emph render="bold">Burkett, B. G.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">39</container>
+            <unittitle>
+              <emph render="bold">Collins, Willard</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">40</container>
+            <unittitle>
+              <emph render="bold">Cowden, Miriam</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">41</container>
+            <unittitle>
+              <emph render="bold">Gowen, Jesse L., Jr.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">42</container>
+            <unittitle>
+              <emph render="bold">Jolly, Jean Hagy</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">43</container>
+            <unittitle>
+              <emph render="bold">Kittrell, Oliver (Kit) and Carolyn</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">44</container>
+            <unittitle>
+              <emph render="bold">Legler, Frank C.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">45</container>
+            <unittitle>
+              <emph render="bold">Noel, Andromedia</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">46</container>
+            <unittitle>
+              <emph render="bold">Schultz, Lloyd E.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">47</container>
+            <unittitle>
+              <emph render="bold">Spiegel, George</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">48</container>
+            <unittitle>
+              <emph render="bold">Stockell, Charles W.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">49</container>
+            <unittitle>
+              <emph render="bold">Townes, Emily Manchester</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">50</container>
+            <unittitle>
+              <emph render="bold">Wells, William W.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">51</container>
+            <unittitle>Signed Project Release Forms &#8211; kept in Director&#8217;s office</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">52</container>
+            <unittitle>Deed of Gift form signed by Alice H. Bugel</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">53</container>
+            <unittitle>Correspondence with Lew Harris, editor of the
+              <emph render="italic">Acorn Chronicle</emph>
+              for article</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">54</container>
+            <unittitle>Index of interviewees Index of names and places for transcription service</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">55</container>
+            <unittitle>General notes and correspondence on the project</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">56</container>
+            <unittitle>Biographical data forms - blank</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="bold">1 &#8211; 33.</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Original transcripts with corrections</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
