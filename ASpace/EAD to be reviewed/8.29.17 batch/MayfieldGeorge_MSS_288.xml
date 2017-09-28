@@ -1,1315 +1,1340 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Mayfield, George Papers</titleproper>
-<titleproper>Finding Aid for the C. George Mayfield Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1900-1966</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>George Mayfield Papers</unittitle>
-<unitid>MSS.0288</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.834 linear feet</extent>
-</physdesc>
-<unitdate>1981-1998</unitdate>
-</did>
-<bioghist>
-<head>Biographical Sketch</head>
-<p>Dr. George R. Mayfield, M.A. 1904, Ph.D. 1915 was born March 21, 1877 and died December 17,1964. Dr. Mayfield was a member of the Vanderbilt faculty from 1904 until his retirement in 1947. He was a professor and Chairman of the German Department. He was also chairman of the faculty lecture series and secretary of Phi Beta Kappa. He taught at the George Peabody College Summer School from 1914 to 1930. He was Treasurer of the College Inn Corporation, which attempted to create a College Inn building adjacent to the Vanderbilt campus in 1920. He was president of the Modern Language section of the Tennessee Teachers&#8217; Association. Dr. Mayfield was instrumental in founding the Tennessee Academy of Science, the Tennessee Conservation League, the Tennessee Historical Association, the Tennessee Ornithological Society, the Nashville Children&#8217;s Museum, and the Nashville Lions Club. He was also the editor of the Journal of the Tennessee Academy of Science. George Mayfield also served as a columnist for the Nashville Banner newspaper and wrote the &#8220;Fins, Furs, and Feathers&#8221; column from 1948 to 1958.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>The George Mayfield Papers, 1900-1966, contain correspondence, music, theatre, language, and science programs, newspaper clippings, a calendar, and personal writings that touch on the many associations and organizations in which Dr. Mayfield held membership or interest.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>George Mayfield Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">1</container>
-<unitdate>June 12, 1950</unitdate>
-<unittitle>to Dr. George R. Mayfield from Nat T. Winston</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">1</container>
-<unitdate>February 6, 1955</unitdate>
-<unittitle>to Dr. George R. Mayfield from Edwin T. Nance</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>College Inn Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>August 26, 1920</unitdate>
-<unittitle>Correspondence from Arch Trawick to A.M. Souby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>August 27, 1920</unitdate>
-<unittitle>Correspondence to Arch Trawick from A.M. Souby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>May 5, 1920</unitdate>
-<unittitle>Correspondence to George Mayfield</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>September 15, 1920</unitdate>
-<unittitle>Copy Correspondence to E.B. Craig from William Swiggart</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>September 18, 1920</unitdate>
-<unittitle>Correspondence to A.M. Souby from William Swiggart</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>September 25, 1920</unitdate>
-<unittitle>Correspondence to E.B. Craig from A.M. Souby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>September 27, 1920</unitdate>
-<unittitle>Correspondence to William Swiggart A.M. Souby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>October 29, 1920</unitdate>
-<unittitle>Correspondence to A.M. Souby from A.L. Sharber</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>November 17, 1920</unitdate>
-<unittitle>Correspondence to A.M. Souby from Harry Frahn</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>December 10, 1920</unitdate>
-<unittitle>Correspondence to Harry Frahn from A.M. Souby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>April 27, 1921</unitdate>
-<unittitle>Correspondence to A. Max Souby from Thomas Luck</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>May 3, 1921</unitdate>
-<unittitle>Correspondence to Thomas Luck from A.M. Souby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>May 23, 1921</unitdate>
-<unittitle>Correspondence to Thomas Luck</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>June 22, 1921</unitdate>
-<unittitle>Correspondence to Thomas Luck from A.M. Souby</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>April 15, 1918</unitdate>
-<unittitle>Check to Arch Trawick</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">2</container>
-<unitdate>Undated</unitdate>
-<unittitle>Notes on expenses and envelope</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Personal Ornithological Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Beauty, Song and Habits Make Cardinal Tennessee&#8217;s Favorite Bird&#8221; by George R. Mayfield</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Mayfield Misses Song of Nightingale&#8221; by George R. Mayfield</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Publicity and Education as Factors in the Growth of Tennessee Ornithological Society&#8221; by George R. Mayfield</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unitdate>Undated 1940</unitdate>
-<unittitle>&#8220;Observation On the Flocking of Certain Birds in Autumn&#8221; 1940 review of &#8220;Trail of an Artist-Naturalist: the autobiography of Ernest Thompson Seton</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unitdate>1945-1946</unitdate>
-<unittitle>&#8220;Large Bird Roost in West Nashville&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unitdate>1946-1947</unitdate>
-<unittitle>Film evaluation form</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Tennessee as Bird State&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>&#8220;An Adventure with the American Condor&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>&#8220;History of Roosts&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>Mocking Bird poem</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>Poem &#8220;A Bird&#8217;s Concert&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>Poem by Robert W. Service</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>&#8220;The Cat-Bird&#8221; by John Trotwood Moore</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>&#8220;Two Preachers&#8221; by John Trotwood Moore</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>loose book pages</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>&#8220;One Bluebird Does Not Make Spring&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>untitled article on Starlings</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>untitled article on Nesting Materials</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>page 2 of unknown article</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>poem &#8220;the Ostrich&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>article &#8220;Wishful Thinking&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>page 4 Wildlife news</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>&#8220;The Winter Status of Certain Birds in Tennessee&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">3</container>
-<unittitle>memos</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Ornithological Programs and Papers</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unitdate>October 22-25, 1934, October 22-24, 1935</unitdate>
-<unittitle>American Ornithologists&#8217; Union program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unitdate>October 26-29, 1935</unitdate>
-<unittitle>National Association of Audubon Societies program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unitdate>November 20-23, 1941</unitdate>
-<unittitle>The Wilson Ornithological Club program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unitdate>January 1954</unitdate>
-<unittitle>&#8220;Status of the Beaver and Otter in Tennessee&#8221; by Vincent Schultz from Journal of the Tennessee Academy of Science</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unitdate>April 16, 1955</unitdate>
-<unittitle>Itinerary Georgia Ornithological Society</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Undated</unittitle>
-<unittitle>Leaflet &#8220;The Egret&#8221; by T. Gilbert Pearson</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Leaflet &#8220;Water Turkey&#8221; by T. Gilbert Pearson</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Leaflet &#8220;The Bluebird&#8221; Roger T. Peterson</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Leaflet Roosevelt Bird Sanctuary</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Membership invitation to George R. Mayfield from</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Audubon Societies</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Print Group of Herons</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Bird House measurements</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Print of birds</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Large folded print of birds</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">4</container>
-<unittitle>Large envelope with handwriting</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Vanderbilt Theatre Programs</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>April 7, 1932</unitdate>
-<unittitle>Faust Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>March 7, 1933</unitdate>
-<unittitle>Auffuehrung Von Meisterschaft Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>May 4-6, 1933</unitdate>
-<unittitle>&#8220;Spring Has Come&#8221; by Vanderbilt Cap and Bells Club Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>May 12, 1933</unitdate>
-<unittitle>Alice in Wonderland by Vanderbilt Co-Eds Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>May 8, 1934</unitdate>
-<unittitle>Love of the Nations by Vanderbilt Co-Eds Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>May 10-12, 1934</unitdate>
-<unittitle>&#8220;Going Ga-Ga&#8221; by Vanderbilt Cap and Bells Club Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>April 17, 1935</unitdate>
-<unittitle>Deutsche Abteilung Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>March 4, 1937</unitdate>
-<unittitle>Les Precieuses Ridicules and Les Deux Sourds Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>April 26-29, 1950</unitdate>
-<unittitle><emph render="italic">The Mikado</emph> Vanderbilt Theatre Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unitdate>Undated</unitdate>
-<unittitle><emph render="italic">The Mikado</emph> Vanderbilt Masque Club Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">5</container>
-<unittitle><emph render="italic">Die Ferne Prinzessin and Die Kleinen Verwandten</emph> Programs</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Vanderbilt Musical Programs</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>June 15, 1913</unitdate>
-<unittitle>Annual Vesper Service Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>November 4, 1931</unitdate>
-<unittitle>Aeolian Organ Recital Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>April 12-13, 1933</unitdate>
-<unittitle>Vanderbilt Glee Club Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>May 1, 1934</unitdate>
-<unittitle>Vanderbilt Glee Club Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>November 27, 1935</unitdate>
-<unittitle>All-University Thanksgiving Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>May 10, 1938</unitdate>
-<unittitle>Vanderbilt University A Cappella Chorus Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>December 8, 1940</unitdate>
-<unittitle>Vanderbilt University A Cappella Choir Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>December 14, 1941</unitdate>
-<unittitle>Vanderbilt University A Cappella Choir Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>May 2-5, 1950</unitdate>
-<unittitle>May Music Festival Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unitdate>Undated</unitdate>
-<unittitle>Vanderbilt Glee Club Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">6</container>
-<unittitle>Flyer Vanderbilt A Capella Chorus</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Other Vanderbilt Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>June 12, 1933</unitdate>
-<unittitle>Chancellor Kirkland 40th year Celebration Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>July 1-11, 1934</unitdate>
-<unittitle>Institute of International Relations Pamphlet</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unittitle>Itinerary and application form</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>June 25-July 5, 1935</unitdate>
-<unittitle>Nashville Institute of International Relations Pamphlet</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>January 1935</unitdate>
-<unittitle>reprint &#8220;History of Medical Education at Vanderbilt University School of</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unittitle>Medicine&#8221; by James H. Kirkland from Journal of the Association of</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unittitle>American Medical Colleges</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>February 10-16, 1935</unitdate>
-<unittitle>Institute of Public Affairs Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>April 7-10, 1936</unitdate>
-<unittitle>The Vanderbilt Institute of Public Affairs Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>November 1, 1936</unitdate>
-<unittitle>Dr. Wilbur Fisk Tillett Memorial Service Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>1934, 1936, 1937</unitdate>
-<unittitle>The Cole Lectures Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>October 23, 1941</unitdate>
-<unittitle>Faculty Alumni Forum Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>December 5-6, 1941</unitdate>
-<unittitle>Joint University Library Dedication Exercises Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unitdate>Undated</unitdate>
-<unittitle>Pamphlet on Dean of Alumni Madison Sarratt</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unittitle>Living Endowment fund Alumni letter and envelope to Jerry C. Welsh</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unittitle>Invitation to tea with President and Mrs. Charles W. Eliot</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unittitle>Program itinerary</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">7</container>
-<unittitle>Admission booklet for Vanderbilt College of Arts and Science</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>George Mayfield Vanderbilt Calendar</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="file">8</container>
-<unitdate>1956</unitdate>
-<unittitle>Personal Calendar</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Language Association Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 1-2, 1933</unitdate>
-<unittitle>South Atlantic Modern Language Association Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 29, 1933</unitdate>
-<unittitle>Smoker Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 28-30, 1933</unitdate>
-<unittitle>Modern Language Association of America Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>March 2-3, 1934</unitdate>
-<unittitle>Tennessee Philological Association Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>November 30, 1934</unitdate>
-<unittitle>South Atlantic Modern Language Association Members List</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 27-29, 1934</unitdate>
-<unittitle>Modern Language Association of America Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>November 29-30, 1935</unitdate>
-<unittitle>South Atlantic Modern Language Association Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 30, 1935- January 1, 1936</unitdate>
-<unittitle>Modern Language Association of America Programs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unittitle>And Itinerary</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>March 6-7, 1936</unitdate>
-<unittitle>Tennessee Philological Association Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 29-31, 1936</unitdate>
-<unittitle>Modern Language Association of America Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>March 5-6, 1937</unitdate>
-<unittitle>Tennessee Philological Association Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>March 25-27, 1937</unitdate>
-<unittitle>Classical Association of the Middle West and South Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 28-30, 1937</unitdate>
-<unittitle>Modern Language Association of America Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>December 29, 1937</unitdate>
-<unittitle>Subscription Dinner Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unittitle>Banquet Songs Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">1</container>
-<unitdate>March 4-5, 1938</unitdate>
-<unittitle>Tennessee Philological Association Programs</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Tennessee Academy of Science Programs</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>November 27-28, 1931</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>April 28-30, 1933</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>November 30, December 1, 1934</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>November 29-30, 1935</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>November 27-28, 1936</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>May 7-8, 1937</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>May 6-7, 1938</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">2</container>
-<unitdate>November 29-30, 1940</unitdate></did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Other Organization Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">3</container>
-<unitdate>June 12-14, 1931</unitdate>
-<unittitle>Appalachian Trail Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">3</container>
-<unitdate>February 18, 1935</unitdate>
-<unittitle>George Peabody College for Teachers Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">3</container>
-<unitdate>1940-1941</unitdate>
-<unittitle>Garden Study Club of Nashville Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">3</container>
-<unitdate>October 30, 1945</unitdate>
-<unittitle>Nashville Children&#8217;s Museum Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">3</container>
-<unitdate>January 6, 1949</unitdate>
-<unittitle><emph render="italic">The Review Appeal</emph> Clipping</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">3</container>
-<unitdate>Spring 1955</unitdate>
-<unittitle><emph render="italic">New Horizons</emph> Bulletin</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Herbert Sanborn Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">4</container>
-<unitdate>September 1927</unitdate>
-<unittitle>&#8220;The Dogma of Non-Transference&#8221; reprinted from <emph render="italic">Peabody Journal of Education</emph> by Herbert Sanborn</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">4</container>
-<unitdate>1952</unitdate>
-<unittitle>&#8220;Dingler&#8217;s Methodical Philosophy&#8221; by Herbert Sanborn</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">4</container>
-<unitdate>April 1955</unitdate>
-<unittitle>&#8220;Thucydides on History as Philosophy&#8221; by Herbert Sanborn</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">4</container>
-<unitdate>July 1955</unitdate>
-<unittitle>&#8220;The Southern Philosopher&#8221; Vol. IV, no. 3 writings by Sanborn</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">4</container>
-<unitdate>Undated</unitdate>
-<unittitle>Herbert Sanborn&#8217;s Senatorial Platform</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Chancellor Heard Materials</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">5</container>
-<unitdate>October 21-23, 1900</unitdate>
-<unittitle>Program 25th Anniversary of Vanderbilt and Kissam Hall Opening</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">5</container>
-<unitdate>September 1, 1947</unitdate>
-<unittitle>State of the University report program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">5</container>
-<unitdate>May 3, 1950</unitdate>
-<unittitle>Vanderbilt Founder&#8217;s Day program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">5</container>
-<unitdate>September 26, 1952</unitdate>
-<unittitle>State of the University report program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">5</container>
-<unitdate>October 4, 1963</unitdate>
-<unittitle>Program for the Installation of George (Alexander) Heard as Chancellor</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Music Programs and Clippings</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">6</container>
-<unitdate>December 21-26, 1927</unitdate>
-<unittitle><emph render="italic">Student Prince in Heidelberg</emph> program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">6</container>
-<unitdate>Season 1945-1950</unitdate>
-<unittitle>Nashville Symphony Orchestra Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">6</container>
-<unitdate>January 8, 1950</unitdate>
-<unittitle>Hillsboro Presbyterian Church Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">6</container>
-<unitdate>April 13, 1950</unitdate>
-<unittitle>Athenians of Vanderbilt University Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">6</container>
-<unitdate>March 23, 1958</unitdate>
-<unittitle>Cathedral Singers Program</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">6</container>
-<unitdate>Undated</unitdate>
-<unittitle>Newspaper clippings Dance in-the-round concert</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">6</container>
-<unittitle>Old Harp Singers of Nashville, Tennessee programs</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Newspaper Clippings</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">7</container>
-<unitdate>November 11, 1949</unitdate>
-<unittitle>Newspaper clipping <emph render="italic">Vanderbilt Hustler</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">7</container>
-<unitdate>May 5, 1961</unitdate>
-<unittitle>Newspaper clippings <emph render="italic">Nashville Banner</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">7</container>
-<unitdate>June 3, 1961</unitdate>
-<unittitle>Newspaper clippings <emph render="italic">Nashville Banner</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">7</container>
-<unitdate>June 10, 1966</unitdate>
-<unittitle>Newspaper clipping <emph render="italic">Nashville Banner</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">7</container>
-<unitdate>June 11, 1966</unitdate>
-<unittitle>Newspaper clipping <emph render="italic">Nashville Banner</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">7</container>
-<unitdate>Undated</unitdate>
-<unittitle>Newspaper clippings</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Newspaper Clippings that were photocopied in File 7</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="file">8</container>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Mayfield, George Papers</titleproper>
+        <titleproper>Finding Aid for the C. George Mayfield Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>George Mayfield Papers</unittitle>
+      <unitid>MSS.0288</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.84 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1900/1966" type="inclusive"></unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>Dr. George R. Mayfield, M.A. 1904, Ph.D. 1915 was born March 21, 1877 and died December 17,1964. Dr. Mayfield was a member of the Vanderbilt faculty from 1904 until his retirement in 1947. He was a professor and Chairman of the German Department.
+        He was also chairman of the faculty lecture series and secretary of Phi Beta Kappa. He taught at the George Peabody College Summer School from 1914 to 1930. He was Treasurer of the College Inn Corporation, which attempted to create a College Inn
+        building adjacent to the Vanderbilt campus in 1920. He was president of the Modern Language section of the Tennessee Teachers&#8217; Association. Dr. Mayfield was instrumental in founding the Tennessee Academy of Science, the Tennessee Conservation
+        League, the Tennessee Historical Association, the Tennessee Ornithological Society, the Nashville Children&#8217;s Museum, and the Nashville Lions Club. He was also the editor of the Journal of the Tennessee Academy of Science. George Mayfield also
+        served as a columnist for the Nashville Banner newspaper and wrote the &#8220;Fins, Furs, and Feathers&#8221; column from 1948 to 1958.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The George Mayfield Papers, 1900-1966, contain correspondence, music, theatre, language, and science programs, newspaper clippings, a calendar, and personal writings that touch on the many associations and organizations in which Dr. Mayfield held
+        membership or interest.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="file">
+        <did>
+          <unittitle>George Mayfield Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unitdate>June 12, 1950</unitdate>
+            <unittitle>to Dr. George R. Mayfield from Nat T. Winston</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unitdate>February 6, 1955</unitdate>
+            <unittitle>to Dr. George R. Mayfield from Edwin T. Nance</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>College Inn Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>August 26, 1920</unitdate>
+            <unittitle>Correspondence from Arch Trawick to A.M. Souby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>August 27, 1920</unitdate>
+            <unittitle>Correspondence to Arch Trawick from A.M. Souby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>May 5, 1920</unitdate>
+            <unittitle>Correspondence to George Mayfield</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>September 15, 1920</unitdate>
+            <unittitle>Copy Correspondence to E.B. Craig from William Swiggart</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>September 18, 1920</unitdate>
+            <unittitle>Correspondence to A.M. Souby from William Swiggart</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>September 25, 1920</unitdate>
+            <unittitle>Correspondence to E.B. Craig from A.M. Souby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>September 27, 1920</unitdate>
+            <unittitle>Correspondence to William Swiggart A.M. Souby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>October 29, 1920</unitdate>
+            <unittitle>Correspondence to A.M. Souby from A.L. Sharber</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>November 17, 1920</unitdate>
+            <unittitle>Correspondence to A.M. Souby from Harry Frahn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>December 10, 1920</unitdate>
+            <unittitle>Correspondence to Harry Frahn from A.M. Souby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>April 27, 1921</unitdate>
+            <unittitle>Correspondence to A. Max Souby from Thomas Luck</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>May 3, 1921</unitdate>
+            <unittitle>Correspondence to Thomas Luck from A.M. Souby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>May 23, 1921</unitdate>
+            <unittitle>Correspondence to Thomas Luck</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>June 22, 1921</unitdate>
+            <unittitle>Correspondence to Thomas Luck from A.M. Souby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>April 15, 1918</unitdate>
+            <unittitle>Check to Arch Trawick</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Notes on expenses and envelope</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Personal Ornithological Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Beauty, Song and Habits Make Cardinal Tennessee&#8217;s Favorite Bird&#8221; by George R. Mayfield</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Mayfield Misses Song of Nightingale&#8221; by George R. Mayfield</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Publicity and Education as Factors in the Growth of Tennessee Ornithological Society&#8221; by George R. Mayfield</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>Undated 1940</unitdate>
+            <unittitle>&#8220;Observation On the Flocking of Certain Birds in Autumn&#8221; 1940 review of &#8220;Trail of an Artist-Naturalist: the autobiography of Ernest Thompson Seton</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>1945-1946</unitdate>
+            <unittitle>&#8220;Large Bird Roost in West Nashville&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>1946-1947</unitdate>
+            <unittitle>Film evaluation form</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Tennessee as Bird State&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>&#8220;An Adventure with the American Condor&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>&#8220;History of Roosts&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Mocking Bird poem</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Poem &#8220;A Bird&#8217;s Concert&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Poem by Robert W. Service</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>&#8220;The Cat-Bird&#8221; by John Trotwood Moore</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>&#8220;Two Preachers&#8221; by John Trotwood Moore</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>loose book pages</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>&#8220;One Bluebird Does Not Make Spring&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>untitled article on Starlings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>untitled article on Nesting Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>page 2 of unknown article</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>poem &#8220;the Ostrich&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>article &#8220;Wishful Thinking&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>page 4 Wildlife news</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>&#8220;The Winter Status of Certain Birds in Tennessee&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>memos</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ornithological Programs and Papers</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unitdate>October 22-25, 1934, October 22-24, 1935</unitdate>
+            <unittitle>American Ornithologists&#8217; Union program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unitdate>October 26-29, 1935</unitdate>
+            <unittitle>National Association of Audubon Societies program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unitdate>November 20-23, 1941</unitdate>
+            <unittitle>The Wilson Ornithological Club program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unitdate>January 1954</unitdate>
+            <unittitle>&#8220;Status of the Beaver and Otter in Tennessee&#8221; by Vincent Schultz from Journal of the Tennessee Academy of Science</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unitdate>April 16, 1955</unitdate>
+            <unittitle>Itinerary Georgia Ornithological Society</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Undated</unittitle>
+            <unittitle>Leaflet &#8220;The Egret&#8221; by T. Gilbert Pearson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Leaflet &#8220;Water Turkey&#8221; by T. Gilbert Pearson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Leaflet &#8220;The Bluebird&#8221; Roger T. Peterson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Leaflet Roosevelt Bird Sanctuary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Membership invitation to George R. Mayfield from</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Audubon Societies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Print Group of Herons</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Bird House measurements</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Print of birds</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Large folded print of birds</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Large envelope with handwriting</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt Theatre Programs</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>April 7, 1932</unitdate>
+            <unittitle>Faust Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>March 7, 1933</unitdate>
+            <unittitle>Auffuehrung Von Meisterschaft Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>May 4-6, 1933</unitdate>
+            <unittitle>&#8220;Spring Has Come&#8221; by Vanderbilt Cap and Bells Club Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>May 12, 1933</unitdate>
+            <unittitle>Alice in Wonderland by Vanderbilt Co-Eds Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>May 8, 1934</unitdate>
+            <unittitle>Love of the Nations by Vanderbilt Co-Eds Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>May 10-12, 1934</unitdate>
+            <unittitle>&#8220;Going Ga-Ga&#8221; by Vanderbilt Cap and Bells Club Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>April 17, 1935</unitdate>
+            <unittitle>Deutsche Abteilung Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>March 4, 1937</unitdate>
+            <unittitle>Les Precieuses Ridicules and Les Deux Sourds Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>April 26-29, 1950</unitdate>
+            <unittitle>
+              <emph render="italic">The Mikado</emph>
+              Vanderbilt Theatre Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>
+              <emph render="italic">The Mikado</emph>
+              Vanderbilt Masque Club Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>
+              <emph render="italic">Die Ferne Prinzessin and Die Kleinen Verwandten</emph>
+              Programs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt Musical Programs</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>June 15, 1913</unitdate>
+            <unittitle>Annual Vesper Service Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>November 4, 1931</unitdate>
+            <unittitle>Aeolian Organ Recital Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>April 12-13, 1933</unitdate>
+            <unittitle>Vanderbilt Glee Club Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>May 1, 1934</unitdate>
+            <unittitle>Vanderbilt Glee Club Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>November 27, 1935</unitdate>
+            <unittitle>All-University Thanksgiving Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>May 10, 1938</unitdate>
+            <unittitle>Vanderbilt University A Cappella Chorus Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>December 8, 1940</unitdate>
+            <unittitle>Vanderbilt University A Cappella Choir Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>December 14, 1941</unitdate>
+            <unittitle>Vanderbilt University A Cappella Choir Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>May 2-5, 1950</unitdate>
+            <unittitle>May Music Festival Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Vanderbilt Glee Club Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Flyer Vanderbilt A Capella Chorus</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Other Vanderbilt Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>June 12, 1933</unitdate>
+            <unittitle>Chancellor Kirkland 40th year Celebration Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>July 1-11, 1934</unitdate>
+            <unittitle>Institute of International Relations Pamphlet</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Itinerary and application form</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>June 25-July 5, 1935</unitdate>
+            <unittitle>Nashville Institute of International Relations Pamphlet</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>January 1935</unitdate>
+            <unittitle>reprint &#8220;History of Medical Education at Vanderbilt University School of</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Medicine&#8221; by James H. Kirkland from Journal of the Association of</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>American Medical Colleges</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>February 10-16, 1935</unitdate>
+            <unittitle>Institute of Public Affairs Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>April 7-10, 1936</unitdate>
+            <unittitle>The Vanderbilt Institute of Public Affairs Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>November 1, 1936</unitdate>
+            <unittitle>Dr. Wilbur Fisk Tillett Memorial Service Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>1934, 1936, 1937</unitdate>
+            <unittitle>The Cole Lectures Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>October 23, 1941</unitdate>
+            <unittitle>Faculty Alumni Forum Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>December 5-6, 1941</unitdate>
+            <unittitle>Joint University Library Dedication Exercises Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Pamphlet on Dean of Alumni Madison Sarratt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Living Endowment fund Alumni letter and envelope to Jerry C. Welsh</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Invitation to tea with President and Mrs. Charles W. Eliot</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Program itinerary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Admission booklet for Vanderbilt College of Arts and Science</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>George Mayfield Vanderbilt Calendar</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unitdate>1956</unitdate>
+            <unittitle>Personal Calendar</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Language Association Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 1-2, 1933</unitdate>
+            <unittitle>South Atlantic Modern Language Association Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 29, 1933</unitdate>
+            <unittitle>Smoker Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 28-30, 1933</unitdate>
+            <unittitle>Modern Language Association of America Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>March 2-3, 1934</unitdate>
+            <unittitle>Tennessee Philological Association Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>November 30, 1934</unitdate>
+            <unittitle>South Atlantic Modern Language Association Members List</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 27-29, 1934</unitdate>
+            <unittitle>Modern Language Association of America Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>November 29-30, 1935</unitdate>
+            <unittitle>South Atlantic Modern Language Association Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 30, 1935- January 1, 1936</unitdate>
+            <unittitle>Modern Language Association of America Programs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>And Itinerary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>March 6-7, 1936</unitdate>
+            <unittitle>Tennessee Philological Association Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 29-31, 1936</unitdate>
+            <unittitle>Modern Language Association of America Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>March 5-6, 1937</unitdate>
+            <unittitle>Tennessee Philological Association Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>March 25-27, 1937</unitdate>
+            <unittitle>Classical Association of the Middle West and South Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 28-30, 1937</unitdate>
+            <unittitle>Modern Language Association of America Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>December 29, 1937</unitdate>
+            <unittitle>Subscription Dinner Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Banquet Songs Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>March 4-5, 1938</unitdate>
+            <unittitle>Tennessee Philological Association Programs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennessee Academy of Science Programs</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>November 27-28, 1931</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>April 28-30, 1933</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>November 30, December 1, 1934</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>November 29-30, 1935</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>November 27-28, 1936</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>May 7-8, 1937</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>May 6-7, 1938</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>November 29-30, 1940</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Other Organization Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>June 12-14, 1931</unitdate>
+            <unittitle>Appalachian Trail Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>February 18, 1935</unitdate>
+            <unittitle>George Peabody College for Teachers Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>1940-1941</unitdate>
+            <unittitle>Garden Study Club of Nashville Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>October 30, 1945</unitdate>
+            <unittitle>Nashville Children&#8217;s Museum Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>January 6, 1949</unitdate>
+            <unittitle>
+              <emph render="italic">The Review Appeal</emph>
+              Clipping</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>Spring 1955</unitdate>
+            <unittitle>
+              <emph render="italic">New Horizons</emph>
+              Bulletin</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Herbert Sanborn Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unitdate>September 1927</unitdate>
+            <unittitle>&#8220;The Dogma of Non-Transference&#8221; reprinted from
+              <emph render="italic">Peabody Journal of Education</emph>
+              by Herbert Sanborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unitdate>1952</unitdate>
+            <unittitle>&#8220;Dingler&#8217;s Methodical Philosophy&#8221; by Herbert Sanborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unitdate>April 1955</unitdate>
+            <unittitle>&#8220;Thucydides on History as Philosophy&#8221; by Herbert Sanborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unitdate>July 1955</unitdate>
+            <unittitle>&#8220;The Southern Philosopher&#8221; Vol. IV, no. 3 writings by Sanborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Herbert Sanborn&#8217;s Senatorial Platform</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chancellor Heard Materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unitdate>October 21-23, 1900</unitdate>
+            <unittitle>Program 25th Anniversary of Vanderbilt and Kissam Hall Opening</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unitdate>September 1, 1947</unitdate>
+            <unittitle>State of the University report program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unitdate>May 3, 1950</unitdate>
+            <unittitle>Vanderbilt Founder&#8217;s Day program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unitdate>September 26, 1952</unitdate>
+            <unittitle>State of the University report program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unitdate>October 4, 1963</unitdate>
+            <unittitle>Program for the Installation of George (Alexander) Heard as Chancellor</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Music Programs and Clippings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>December 21-26, 1927</unitdate>
+            <unittitle>
+              <emph render="italic">Student Prince in Heidelberg</emph>
+              program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>Season 1945-1950</unitdate>
+            <unittitle>Nashville Symphony Orchestra Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>January 8, 1950</unitdate>
+            <unittitle>Hillsboro Presbyterian Church Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>April 13, 1950</unitdate>
+            <unittitle>Athenians of Vanderbilt University Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>March 23, 1958</unitdate>
+            <unittitle>Cathedral Singers Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Newspaper clippings Dance in-the-round concert</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Old Harp Singers of Nashville, Tennessee programs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Newspaper Clippings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>November 11, 1949</unitdate>
+            <unittitle>Newspaper clipping
+              <emph render="italic">Vanderbilt Hustler</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>May 5, 1961</unitdate>
+            <unittitle>Newspaper clippings
+              <emph render="italic">Nashville Banner</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>June 3, 1961</unitdate>
+            <unittitle>Newspaper clippings
+              <emph render="italic">Nashville Banner</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>June 10, 1966</unitdate>
+            <unittitle>Newspaper clipping
+              <emph render="italic">Nashville Banner</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>June 11, 1966</unitdate>
+            <unittitle>Newspaper clipping
+              <emph render="italic">Nashville Banner</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Newspaper Clippings that were photocopied in File 7</unittitle>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
