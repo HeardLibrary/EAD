@@ -1,939 +1,969 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Benedict, Anne Scales Papers</titleproper>
-<titleproper>Finding Aid for the Anne Scales Benedict Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1896-1951</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Anne Scales Benedict Papers</unittitle>
-<unitid>MSS.0039</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">1.05 Linear Feet</extent>
-</physdesc>
-<unitdate>1896-1951</unitdate>
-</did>
-<bioghist>
-<head>Biography/History</head>
-<p>See attached biography from Vanderbilt Alumnus Magazine (now Vanderbilt Magazine), Vol. 68 No.2 (Winter 1983), p. 14</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This 1.05 linear feet collection, 4 boxes, has two series: Series I contains materials related to the activities of the Vanderbilt Alumnae Council, especially their efforts to persuade the University to hire a Dean of Women, build a women&#8217;s dormitory, and to raise money toward these ends. Series II contains materials unrelated to Vanderbilt Alumnae Council and includes some personal correspondence, ephemeral items, a Bible, pamphlets, a postcard album with 155 cards plus 5 individual postcards, and a sketchbook.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle><emph render="underline">SERIES I &#8211; Box 1</emph></unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="underline">VANDERBILT ALUMNAE COUNCIL</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Correspondence &#8211; Outgoing</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Friend</unittitle>
-<unitdate>July 2, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Mr. Smith</unittitle>
-<unitdate>July 16, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Mrs. A. R. Robert</unittitle>
-<unitdate>July 23, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Annie Tillett</unittitle>
-<unitdate>August 27, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Granbery Jackson</unittitle>
-<unitdate>October 19, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Alumna</unittitle>
-<unitdate>April 4, 1926</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Mr. Ruml</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Correspondence &#8211; Incoming</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>S. M. Evans</unittitle>
-<unitdate>August 4, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Charlotte Gailor</unittitle>
-<unitdate>March 25, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Charlotte Gailor</unittitle>
-<unitdate>April 10, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Charlotte Gailor</unittitle>
-<unitdate>April 20, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Charlotte Gailor</unittitle>
-<unitdate>n.d. &#8211; (3)</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Granbery Jackson</unittitle>
-<unitdate>October 2, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>James H. Kirkland</unittitle>
-<unitdate>February 2, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>w/attachment</unittitle>
-<unitdate>April 21, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Ethel Moore</unittitle>
-<unitdate>April 30, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Mrs. J. G. Porter</unittitle>
-<unitdate>October 15, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>B. Rumel</unittitle>
-<unitdate>April 23, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Alex. H. Sands, Jr.</unittitle>
-<unitdate>May 7, 1926</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Frederick Unger</unittitle>
-<unitdate>June 24, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Elizabeth Denny Vann</unittitle>
-<unitdate>July 16, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Wolfsohn Musical Bureau</unittitle>
-<unitdate>October 25, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Wolfsohn Musical Bureau</unittitle>
-<unitdate>December 17, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Wolfsohn Musical Bureau</unittitle>
-<unitdate>December 20, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Wolfsohn Musical Bureau</unittitle>
-<unitdate>January 19, 1925</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Agreements and Contracts</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Between Madame Margaret Matzenauer (soprano) and Vanderbilt Alumnae Council</unittitle>
-<unitdate>October 14, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Between Beniamino Gigli (tenor) and Vanderbilt Alumnae Council</unittitle>
-<unitdate>December 20, 1926</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Announcements and Posters</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Announcement of Matzenauer concert</unittitle>
-<unitdate>January 1925</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Announcement of Gigli concert</unittitle>
-<unitdate>February 1927</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Poster announcing cabaret luncheon</unittitle>
-<unitdate>June 1925</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Constitution</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>December 1923</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Fund-raising Materials</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Poster for Anna Elizabeth Wade, with handwritten notes for pageant</unittitle>
-<unitdate>1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Greater Goucher Fund</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Fund-raising through sale of magazine subscriptions</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Lists</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Vanderbilt Alumnae in Nashville</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Telephone Committee</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Minutes</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Mass Meeting</unittitle>
-<unitdate>March 3, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Meeting</unittitle>
-<unitdate>April 7, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Meeting</unittitle>
-<unitdate>May 14, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Meeting</unittitle>
-<unitdate>June 18, 1923</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Newspaper Clippings</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>&#8216;Local Chapter of AAUW Has It&#8217;s May Meeting&#8217;</unittitle>
-<unitdate>May 3, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>&#8216;Plan Pageant at Vanderbilt&#8217;</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>&#8216;Margaret Matzenauer Best Woman Singer Here in Years&#8217;</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>&#8216;Gigli Display Gift of Great Artist&#8217;</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Notes</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Mrs. Benedict notes for mass meeting</unittitle>
-<unitdate>March 3, 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Charlotte Gailor notes on staging pageant</unittitle>
-<unitdate>June 1923</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Financial report on Matzenauer concert</unittitle>
-<unitdate>January 1925</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>List of names for telephone committee</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Programs</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Mme. Margaret Matzenauer</unittitle>
-<unitdate>January 30, 1925</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Alumni Cabaret Luncheon</unittitle>
-<unitdate>June 9, 1924</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Alumni Cabaret Luncheon</unittitle>
-<unitdate>June 8, 1925</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Alumni Cabaret Luncheon</unittitle>
-<unitdate>June 7, 1926</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Speeches &#8211; by Anne Scales Benedict</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Vanderbilt University and the Education of Women</emph></unittitle>
-<unitdate><emph render="italic">n.d.</emph></unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Untitled</unittitle>
-<unitdate>n.d. &#8211; (2) one handwritten</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Tickets to Vanderbilt Pageant</unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>June 12, 1923</unitdate>
-</did>
-</c04>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle><emph render="underline">SERIES II &#8211; PERSONAL</emph></unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="underline">Address</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Address to the Ladies Aid Society for Student of Vanderbilt University by Chancellor J. H. Kirkland</unittitle>
-<unitdate>October 1, 1932</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="underline">Constitutions</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Nashville Chapter of the Southern Association of College Women</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Alpha of Tennessee (Phi Beta Kappa)</unittitle>
-<unitdate>1933, 1938</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="underline">Correspondence &#8211; Incoming</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>From Jno T. Clary</unittitle>
-<unitdate>October 4, 1907</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="underline">Ephemeral Items &#8211; From Bible Pockets</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Annual Report &#8211; Women&#8217;s Home Mission Society</unittitle>
-<unitdate>1908-1909</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Bookmarks</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Church Calendar &#8211; First Baptist Church, San Diego, California</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Daily Verse Circle</unittitle>
-<unitdate>1894</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Dress Purchase</unittitle>
-<unitdate>1908</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Epworth League &#8211; Devotional Meetings</unittitle>
-<unitdate>1905, 1906</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Notes</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Prayer Cards</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Visitor&#8217;s Card of Introduction</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Women&#8217;s Foreign Missionary Society Leaflets</unittitle>
-<unitdate>1897-1898</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Women&#8217;s Home Mission Society Leaflets</unittitle>
-<unitdate>1907-1909</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Women&#8217;s Missionary Society Leaflets</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Music</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">&#8220;OLD VANDY&#8221;</emph></unittitle>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Song and Chorus</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Words by Saidee S. Luff; Music by Emma L. Ashford</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c04>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Pamphlets &#8211; Civil War</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Truth of the War Conspiracy of 1861</emph></unittitle>
-<unitdate>1921</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Jefferson Davis &#8211; A Character Sketch</emph></unittitle>
-<unitdate><emph render="italic">n.d.</emph></unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Pamphlets &#8211; Miscellaneous</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Comfort For Those Who Mourn</emph></unittitle>
-<unitdate>1930</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Forget-Me-Nots for the Bride</emph></unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">The Friendship Book</emph></unittitle>
-<unitdate>1934</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Hemlock Twigs and Balsam Sprigs</emph> By James Peele Parker, <emph render="underline">Black Mountain Printery</emph></unittitle>
-<unitdate>1922</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">His Comfort</emph></unittitle>
-<unitdate>1937</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Life&#8217;s Lovely Leaves</emph> By Margaret Prentis Ramsay, <emph render="underline">Artcraft Press</emph></unittitle>
-<unitdate>1951</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">The United Nations &#8211; Action for Peace</emph> By Marie and Louis Zocca, <emph render="underline">Rutgers University Press</emph></unittitle>
-<unitdate>1951</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Pamphlets - Nashville</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Vanderbilt, A Tower of Strength to Nashville</emph></unittitle>
-<unitdate>[1926]</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Historic Homes of the Old South</emph> by The American National Bank, Nashville</unittitle>
-<unitdate>1941</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Milestones in the History of Nashville</emph> by the American National Bank, Nashville</unittitle>
-<unitdate>1942</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Pamphlets &#8211; Travel</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">California&#8217;s Missions</emph></unittitle>
-<unitdate>1912</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">A Guide Book for Williamsburg, Virginia</emph></unittitle>
-<unitdate>1936</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Handbook for the Exhibition Buildings of Colonial Williamsburg</emph></unittitle>
-<unitdate>1936</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">London Visitor</emph></unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Rebuilding the Temple</emph> By Rev. Leslie D. Weatherhead</unittitle>
-<unitdate>1941</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Syrian Protestant College</emph> &#8211; Beirut, Syria</unittitle>
-<unitdate>1896</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Programs</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Nashville Chapter of the Southern Association of College Women</unittitle>
-<unitdate>undated</unitdate>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">The Redirection of Education for Girls</emph></unittitle>
-<unitdate>1911-1912</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">A Study of Nashville</emph></unittitle>
-<unitdate>1912-1913</unitdate>
-</did>
-</c04>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Women in Society</emph></unittitle>
-<unitdate>1914-1915</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Yearbook of City Panhellenic Association of Nashville</unittitle>
-<unitdate>undated</unitdate>
-</did>
-<c04 level="item">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="italic">Vocations for Women</emph></unittitle>
-<unitdate>1916-1917</unitdate>
-</did>
-</c04>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>American Association of University Women &#8211; Nashville Branch</unittitle>
-<unitdate>1924-1925</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>From a Japanese Garden</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle><emph render="underline">SERIES II &#8211; Box 2</emph></unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Bible &#8211; engraved</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>Ephemeral items in front/back pockets moved to Series III-Box #1</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle><emph render="underline">SERIES II &#8211; Box 3</emph></unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Postcard Album - Travel</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>155 cards</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Postcards &#8211; Individual &#8211; Travel</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>4 cards</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>1 card cover &#8211; Westminister Hotel, Chester, England</unittitle>
-<unitdate>undated</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Sketch Book &#8211; Botany Class</unittitle>
-<unitdate>1905</unitdate>
-</did>
-</c02>
-</c01>
-
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Benedict, Anne Scales Papers</titleproper>
+        <titleproper>Finding Aid for the Anne Scales Benedict Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Anne Scales Benedict Papers</unittitle>
+      <unitid>MSS.0039</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.05 linear_feet</extent>
+      </physdesc>
+      <unitdate>1896-1951</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/History</head>
+      <p>See attached biography from Vanderbilt Alumnus Magazine (now Vanderbilt Magazine), Vol. 68 No.2 (Winter 1983), p. 14</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This 1.05 linear feet collection, 4 boxes, has two series: Series I contains materials related to the activities of the Vanderbilt Alumnae Council, especially their efforts to persuade the University to hire a Dean of Women, build a women&#8217;s
+        dormitory, and to raise money toward these ends. Series II contains materials unrelated to Vanderbilt Alumnae Council and includes some personal correspondence, ephemeral items, a Bible, pamphlets, a postcard album with 155 cards plus 5 individual
+        postcards, and a sketchbook.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Vanderbilt Alumnae Council
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Correspondence &#8211; Outgoing</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Friend</unittitle>
+              <unitdate>July 2, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Mr. Smith</unittitle>
+              <unitdate>July 16, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Mrs. A. R. Robert</unittitle>
+              <unitdate>July 23, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Annie Tillett</unittitle>
+              <unitdate>August 27, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Granbery Jackson</unittitle>
+              <unitdate>October 19, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Alumna</unittitle>
+              <unitdate>April 4, 1926</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Mr. Ruml</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Correspondence &#8211; Incoming</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>S. M. Evans</unittitle>
+              <unitdate>August 4, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Charlotte Gailor</unittitle>
+              <unitdate>March 25, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Charlotte Gailor</unittitle>
+              <unitdate>April 10, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Charlotte Gailor</unittitle>
+              <unitdate>April 20, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Charlotte Gailor</unittitle>
+              <unitdate>n.d. &#8211; (3)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Granbery Jackson</unittitle>
+              <unitdate>October 2, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>James H. Kirkland</unittitle>
+              <unitdate>February 2, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>w/attachment</unittitle>
+              <unitdate>April 21, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Ethel Moore</unittitle>
+              <unitdate>April 30, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Mrs. J. G. Porter</unittitle>
+              <unitdate>October 15, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>B. Rumel</unittitle>
+              <unitdate>April 23, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Alex. H. Sands, Jr.</unittitle>
+              <unitdate>May 7, 1926</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Frederick Unger</unittitle>
+              <unitdate>June 24, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Elizabeth Denny Vann</unittitle>
+              <unitdate>July 16, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Wolfsohn Musical Bureau</unittitle>
+              <unitdate>October 25, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Wolfsohn Musical Bureau</unittitle>
+              <unitdate>December 17, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Wolfsohn Musical Bureau</unittitle>
+              <unitdate>December 20, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Wolfsohn Musical Bureau</unittitle>
+              <unitdate>January 19, 1925</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Agreements and Contracts</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Between Madame Margaret Matzenauer (soprano) and Vanderbilt Alumnae Council</unittitle>
+              <unitdate>October 14, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Between Beniamino Gigli (tenor) and Vanderbilt Alumnae Council</unittitle>
+              <unitdate>December 20, 1926</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Announcements and Posters</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Announcement of Matzenauer concert</unittitle>
+              <unitdate>January 1925</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Announcement of Gigli concert</unittitle>
+              <unitdate>February 1927</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Poster announcing cabaret luncheon</unittitle>
+              <unitdate>June 1925</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Constitution</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>December 1923</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fund-raising Materials</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Poster for Anna Elizabeth Wade, with handwritten notes for pageant</unittitle>
+              <unitdate>1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Greater Goucher Fund</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Fund-raising through sale of magazine subscriptions</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lists</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Vanderbilt Alumnae in Nashville</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Telephone Committee</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Minutes</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Mass Meeting</unittitle>
+              <unitdate>March 3, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Meeting</unittitle>
+              <unitdate>April 7, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Meeting</unittitle>
+              <unitdate>May 14, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Meeting</unittitle>
+              <unitdate>June 18, 1923</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>&#8216;Local Chapter of AAUW Has It&#8217;s May Meeting&#8217;</unittitle>
+              <unitdate>May 3, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>&#8216;Plan Pageant at Vanderbilt&#8217;</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>&#8216;Margaret Matzenauer Best Woman Singer Here in Years&#8217;</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>&#8216;Gigli Display Gift of Great Artist&#8217;</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Notes</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Mrs. Benedict notes for mass meeting</unittitle>
+              <unitdate>March 3, 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Charlotte Gailor notes on staging pageant</unittitle>
+              <unitdate>June 1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Financial report on Matzenauer concert</unittitle>
+              <unitdate>January 1925</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>List of names for telephone committee</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Programs</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Mme. Margaret Matzenauer</unittitle>
+              <unitdate>January 30, 1925</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Alumni Cabaret Luncheon</unittitle>
+              <unitdate>June 9, 1924</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Alumni Cabaret Luncheon</unittitle>
+              <unitdate>June 8, 1925</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Alumni Cabaret Luncheon</unittitle>
+              <unitdate>June 7, 1926</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Speeches &#8211; by Anne Scales Benedict</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Vanderbilt University and the Education of Women</emph>
+              </unittitle>
+              <unitdate>
+                <emph render="italic">n.d.</emph>
+              </unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Untitled</unittitle>
+              <unitdate>n.d. &#8211; (2) one handwritten</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tickets to Vanderbilt Pageant</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unitdate>June 12, 1923</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series II: Personal
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Address to the Ladies Aid Society for Student of Vanderbilt University by Chancellor J. H. Kirkland</unittitle>
+            <unitdate>October 1, 1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="underline">Constitutions</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Nashville Chapter of the Southern Association of College Women</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Alpha of Tennessee (Phi Beta Kappa)</unittitle>
+              <unitdate>1933, 1938</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="underline">Correspondence &#8211; Incoming</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>From Jno T. Clary</unittitle>
+              <unitdate>October 4, 1907</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="underline">Ephemeral Items &#8211; From Bible Pockets</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Annual Report &#8211; Women&#8217;s Home Mission Society</unittitle>
+              <unitdate>1908-1909</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Bookmarks</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Church Calendar &#8211; First Baptist Church, San Diego, California</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Daily Verse Circle</unittitle>
+              <unitdate>1894</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Dress Purchase</unittitle>
+              <unitdate>1908</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Epworth League &#8211; Devotional Meetings</unittitle>
+              <unitdate>1905, 1906</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Notes</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Prayer Cards</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Visitor&#8217;s Card of Introduction</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Women&#8217;s Foreign Missionary Society Leaflets</unittitle>
+              <unitdate>1897-1898</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Women&#8217;s Home Mission Society Leaflets</unittitle>
+              <unitdate>1907-1909</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Women&#8217;s Missionary Society Leaflets</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Music</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">&#8220;OLD VANDY&#8221;</emph>
+                - Song and Chorus (Words by Saidee S. Luff; Music by Emma L. Ashford)
+              </unittitle>
+              <unitdate>undated</unitdate>
+              <container type="box">1</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Pamphlets &#8211; Civil War</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Truth of the War Conspiracy of 1861</emph>
+              </unittitle>
+              <unitdate>1921</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Jefferson Davis &#8211; A Character Sketch</emph>
+              </unittitle>
+              <unitdate>
+                <emph render="italic">n.d.</emph>
+              </unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Pamphlets &#8211; Miscellaneous</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Comfort For Those Who Mourn</emph>
+              </unittitle>
+              <unitdate>1930</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Forget-Me-Nots for the Bride</emph>
+              </unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">The Friendship Book</emph>
+              </unittitle>
+              <unitdate>1934</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Hemlock Twigs and Balsam Sprigs</emph>
+                By James Peele Parker,
+                <emph render="underline">Black Mountain Printery</emph>
+              </unittitle>
+              <unitdate>1922</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">His Comfort</emph>
+              </unittitle>
+              <unitdate>1937</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Life&#8217;s Lovely Leaves</emph>
+                By Margaret Prentis Ramsay,
+                <emph render="underline">Artcraft Press</emph>
+              </unittitle>
+              <unitdate>1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">The United Nations &#8211; Action for Peace</emph>
+                By Marie and Louis Zocca,
+                <emph render="underline">Rutgers University Press</emph>
+              </unittitle>
+              <unitdate>1951</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Pamphlets - Nashville</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Vanderbilt, A Tower of Strength to Nashville</emph>
+              </unittitle>
+              <unitdate>[1926]</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Historic Homes of the Old South</emph>
+                by The American National Bank, Nashville</unittitle>
+              <unitdate>1941</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Milestones in the History of Nashville</emph>
+                by the American National Bank, Nashville</unittitle>
+              <unitdate>1942</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Pamphlets &#8211; Travel</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">California&#8217;s Missions</emph>
+              </unittitle>
+              <unitdate>1912</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">A Guide Book for Williamsburg, Virginia</emph>
+              </unittitle>
+              <unitdate>1936</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Handbook for the Exhibition Buildings of Colonial Williamsburg</emph>
+              </unittitle>
+              <unitdate>1936</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">London Visitor</emph>
+              </unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Rebuilding the Temple</emph>
+                By Rev. Leslie D. Weatherhead</unittitle>
+              <unitdate>1941</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>
+                <emph render="italic">Syrian Protestant College</emph>
+                &#8211; Beirut, Syria</unittitle>
+              <unitdate>1896</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Programs</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Nashville Chapter of the Southern Association of College Women</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">1</container>
+                <unittitle>
+                  <emph render="italic">The Redirection of Education for Girls</emph>
+                </unittitle>
+                <unitdate>1911-1912</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">1</container>
+                <unittitle>
+                  <emph render="italic">A Study of Nashville</emph>
+                </unittitle>
+                <unitdate>1912-1913</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">1</container>
+                <unittitle>
+                  <emph render="italic">Women in Society</emph>
+                </unittitle>
+                <unitdate>1914-1915</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>Yearbook of City Panhellenic Association of Nashville</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">1</container>
+                <unittitle>
+                  <emph render="italic">Vocations for Women</emph>
+                </unittitle>
+                <unitdate>1916-1917</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>American Association of University Women &#8211; Nashville Branch</unittitle>
+              <unitdate>1924-1925</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <unittitle>From a Japanese Garden</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <unittitle>Bible, Engraved (Ephemeral items in front/back pockets moved to Series III-Box #1)</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Postcard Album - Travel</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>155 cards</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Postcards &#8211; Individual &#8211; Travel</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>4 cards</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>1 card cover &#8211; Westminister Hotel, Chester, England</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Sketch Book &#8211; Botany Class</unittitle>
+            <unitdate>1905</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

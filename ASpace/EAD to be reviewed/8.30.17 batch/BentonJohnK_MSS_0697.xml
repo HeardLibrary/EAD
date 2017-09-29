@@ -1,948 +1,973 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Benton, John Keith Papers</titleproper>
-<titleproper>Finding Aid for the John Keith Benton Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2017</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>John Keith Benton Papers</unittitle>
-<unitid>MSS.0697</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">1.68 linear feet</extent>
-</physdesc>
-<unitdate>2017</unitdate>
-</did>
-<bioghist>
-<head>Biographical Sketch</head>
-<p>John Keith Benton was born on May 24, 1896 in Banks, Alabama to Martha Frederick and Arthur Franklin Benton. Benton joined the Army in 1917 and served as a pilot in WWI. He graduated from Birmingham Southern College with a Bachelor of Arts degree and received a Bachelor of Arts in Divinity from Yale University. Upon leaving Yale he attended Edinburgh University where he received his PhD. Benton soon took the position as professor of philosophy and psychology at Drew University in New Jersey before moving to Vanderbilt University in 1939 to become dean of the School of Religion. Over the course of his career, Benton gave numerous sermons and addresses but also published several theological articles, many of which are preserved in his collection.</p>
-<p>Benton is remembered as the presiding Dean when Vanderbilt&#8217;s Divinity School began to admit African American applicants in 1952; he is reported to have encouraged Chancellor Harvie Branscomb and other university officials to examine their University policy on race-based admissions.</p>
-<p>Benton served as Dean of Vanderbilt&#8217;s Divinity School from 1939 to 1956. While Dean, Benton spearheaded the construction of a new home for Vanderbilt&#8217;s Divinity school. Benton died on August 21, 1956 before the building was completed, prompting the University to name the building Benton Chapel in honor of his service. Benton Chapel still serves as the primary multidenominational house of worship and center of the Divinity School on the university&#8217;s campus.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>The John Keith Benton Papers are composed of 3.25 linear feet of sermons, articles, research, correspondence and photographs from his career as a pastor and Vanderbilt Dean. The dates of the collection range from the 1940s to the mid-1950s. It is divided into five series.</p>
-<list type="ordered" numeration="upperroman">
-<item><emph render="bold">Sermons</emph>&#8212;transcripts of sermons given by Benton</item>
-<item><emph render="bold">Research Notes</emph>&#8212;notes and research on potential sermons and other lectures by Benton</item>
-<item><emph render="bold">Programs</emph>&#8212;programs from Benton&#8217;s lectures and sermons as well as other church bulletins and programs</item>
-<item><emph render="bold">Writings</emph>&#8212;articles and addresses by Benton</item>
-<item><emph render="bold">Miscellaneous Documents</emph>&#8212;contains correspondence, drafts by others, as well as Benton&#8217;s Freedom Foundation Award and World War I pilot cap</item>
-</list>
-</scopecontent>
-<userestrict>
-<head>Provenance Statement</head>
-<p>The Benton Papers were donated by Ms. Lyn Lowrey Honig to Vanderbilt University Special Collections in 2008.</p>
-</userestrict>
-<userestrict>
-<head>Literary Rights Statement</head>
-<p>Permission to publish, copy, reprint, digitize, orally record for transmission over public or private airways, or use material from the John Keith Benton Papers in any and all other current or future developed methods or procedures, must be obtained in writing from the Special Collections and University Archives Division of the Vanderbilt University Libraries. All rights are reserved and retained regardless of current or future development or laws that may apply to fair use standards.</p>
-</userestrict>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle><emph render="italic">Sermons</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unitdate>1941</unitdate>
-<unittitle>&#8220;What Can I Depend On?&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unitdate>1942</unitdate>
-<unittitle>&#8220;Canons of Sermon Criticism&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unitdate>1945/1947/1955</unitdate>
-<unittitle>&#8220;Zedekiah&#8212;Ally Way to the Lord&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unitdate>1948</unitdate>
-<unittitle>&#8220;Fodderwings&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unitdate>1948</unitdate>
-<unittitle>&#8220;God&#8217;s Remembrance,&#8221; Program, Tennessee Annual Conference, Notes</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unitdate>1949/1955</unitdate>
-<unittitle>&#8220;Thanksgiving&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unitdate>1952</unitdate>
-<unittitle>&#8220;Forest Fire&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unitdate>1952</unitdate>
-<unittitle>&#8220;Heart Trouble&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unitdate>1953</unitdate>
-<unittitle>&#8220;All or None,&#8221; Notes &#38; Related Documents</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unitdate>1953/1954</unitdate>
-<unittitle>&#8220;Integrity,&#8221; Personal Notes, Worship Program, West End Methodist Church</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unitdate>1955</unitdate>
-<unittitle>&#8220;The Christian Answer&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unitdate>1955</unitdate>
-<unittitle>&#8220;So Little Interest&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unitdate>1955</unitdate>
-<unittitle>&#8220;Don&#8217;t Get In Your Own Way&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Christianity and Social Reform&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Death Steals the Show,&#8221; Notes &#38; Related Documents</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Freedom and Happiness&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;God&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;A House to Live In,&#8221; Personal Notes/Drafts</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;How Rapidly Should I Expect Evil to Overcome?&#8221; Note Cards, Sermon, Notes</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Human Rights,&#8221; &#38; Related Documents</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;The Meaning to Youth &#38; The terms of God, Christ, and Holy Spirit&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Sensitivity&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Students Coin Epigrams&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Toward A Christian Interpretation of Man&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;What Difference Does Easter Make?&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">26</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Who is a Christian?&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">27</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Vital Christian Living&#8221;</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="italic">Research Notes</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unitdate>1940</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unitdate>1944</unitdate>
-<unittitle>&#8220;Behold I Stand at the Door&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unitdate>August 1944</unitdate>
-<unittitle>&#8220;The Light of the World&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unitdate>1944</unitdate>
-<unittitle>&#8220;Fellowship of His Suffering&#8221;
-</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unitdate>January 14, 1945</unitdate>
-<unittitle>&#8220;Security&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unitdate>1945</unitdate>
-<unittitle>&#8220;The Great Decision&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unitdate>June 1947</unitdate>
-<unittitle>&#8220;Of Good Report&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unitdate>October 12, 1947</unitdate>
-<unittitle>&#8220;Growing Up in the XU Faith&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unitdate>February 1948</unitdate>
-<unittitle>&#8220;The Contributions of Judaism to Christianity&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unitdate>1948</unitdate>
-<unittitle>&#8220;Can a Modern Man be Optimistic?&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unitdate>April 16, 1949</unitdate>
-<unittitle>&#8220;Life Everlasting&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unitdate>Fall 1949</unitdate>
-<unittitle>&#8220;Notes on Christian Belief&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unitdate>Fall 1949</unitdate>
-<unittitle>&#8220;The Church as Prophet and Teacher&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unitdate>January 7, 1952</unitdate>
-<unittitle>&#8220;Centerpiece of Despair&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unitdate>1952</unitdate>
-<unittitle>&#8220;Heroes/Knights of Greater Congressional&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unitdate>August 1953</unitdate>
-<unittitle>&#8220;Disciples for Vital Christian Living&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unitdate>August 1953</unitdate>
-<unittitle>&#8220;Faith&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unitdate>1954</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unitdate>1955</unitdate>
-<unittitle>&#8220;Sensitivity&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unitdate>1940-1956</unitdate>
-<unittitle>Sermon Notes &#38; Ideas</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unitdate>Undated</unitdate>
-<unittitle>Sermon Notes I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unitdate>Undated</unitdate>
-<unittitle>Sermon Notes II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unitdate>Undated</unitdate>
-<unittitle>Sermon Notes III</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unitdate>Undated</unitdate>
-<unittitle>Potential Sermon Notes</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;What is Your Name?&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Love&#8221; &#38; &#8220;The Ties of Brotherhood&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;The Importance of Receiving God&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;The Last Word&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">29</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;The Great Recovery&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;The Great Value&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;The Gateway to Freedom&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">32</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Be Still and Know&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">33</container>
-<unitdate>Undated</unitdate>
-<unittitle>Personal Notes &#38; Newspaper Clippings</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">34</container>
-<unitdate>Undated</unitdate>
-<unittitle>&#8220;Above All Battle Lines&#8221;</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="italic">Programs</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>The Fellowship of Prayer&#8212;Lenten Seasons</unittitle>
-<unitdate>1942-1946</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>The Sanctuary, Daily Devotional Readings</unittitle>
-<unitdate>1945</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Come Before Winter</unittitle>
-<unitdate>1945</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Bulletins from Various Parishes</unittitle>
-<unitdate>1945-1950</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>Church Bulletins 1948-1956, List of Sermons Preached with Location &#38; Date</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>Bulletin from Peabody College</unittitle>
-<unitdate>July 22, 1951</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Peabody &#38; Divinity Programs</unittitle>
-<unitdate>1955-1974</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>Memorial Service Tribute Program</unittitle>
-<unitdate>November 28, 1956</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>Assortment of Religious Programs</unittitle>
-<unitdate>1976-1981</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>Original Artwork for Communion Table</unittitle>
-<unitdate>1961</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>Assortment of Religious Programs</unittitle>
-<unitdate>1939-1974</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="italic">Writings</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unitdate>Address, June 4, 1944</unitdate>
-<unittitle>&#8220;Prayers Offered at the Baccalaureate Service,&#8221; Vanderbilt</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unitdate>Notes, August 2, 1946</unitdate>
-<unittitle>Brainstorming Notes</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unitdate>Articles, September 1950</unitdate>
-<unittitle>&#8220;The Bible as the Basis of Protestantism&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unitdate>Address, December 5-7, 1950</unitdate>
-<unittitle>&#8220;Introduction for the First Annual Exchange Lectureship&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unitdate>Articles, 1952</unitdate>
-<unittitle>&#8220;I Believe in Man&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unitdate>Address, October 6, 1952</unitdate>
-<unittitle>&#8220;Washington Story&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unitdate>Address, May 17, 1955</unitdate>
-<unittitle>&#8220;Marion Institute&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unitdate>Essay, Undated</unitdate>
-<unittitle>&#8220;The First American Survey&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unitdate>Poems, Undated</unitdate>
-<unittitle>&#8220;You Tell on Yourself&#8221; &#38; &#8220;When I Have Time&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unitdate>Address, Undated</unitdate>
-<unittitle>&#8220;The Responsibility of Religion to the Individual&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">22</container>
-<unittitle>Writing Excepts, Notes&#8212;Undated</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="italic">Miscellaneous Documents/Artifacts</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>John Keith Benton&#8217;s USA Passport</unittitle>
-<unitdate>1929</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>Magazine Article by Harold W. Dodd, &#8220;Christianity &#38; Democracy,&#8221;</unittitle>
-<unitdate>1941</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>Incoming letter from Everett R. Clinchy</unittitle>
-<unitdate>December 18, 1939</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>John Keith Benton Assorted Photographs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Various Newspaper Clippings</unittitle>
-<unitdate>1943-1954</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>Incoming letter from Gerald F. Winfield</unittitle>
-<unitdate>November 27, 1939</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Incoming letter from Otto A. Piper</unittitle>
-<unitdate>September 15, 1945</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>Incoming letter from Toronto, Ontario</unittitle>
-<unitdate>December 21, 1947</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>Incoming letter from Gastonia, N.C.</unittitle>
-<unitdate>December 23, 1947</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>Undated letter from Alumni Association, Partial Newspaper clipping&#8212;<emph render="italic">New Yorker</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>Incoming greeting card,</unittitle>
-<unitdate>1947-1948</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>Personal Notes</unittitle>
-<unitdate>April 23, 1948</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>Newspaper &#38; Magazine Clippings</unittitle>
-<unitdate>1954</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>Article by William H. Whyte Jr., &#8220;The Wife Problem,&#8221;</unittitle>
-<unitdate>1954</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">15</container>
-<unittitle>Letters about Benton&#8217;s Appointment to Vanderbilt,</unittitle>
-<unitdate>1939</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">16</container>
-<unittitle>Dedication of Benton Chapel</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">17</container>
-<unittitle>Master Copy of Edwin Mims</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">18</container>
-<unittitle>Publications by other people</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">19</container>
-<unittitle>Manuscript of Dr. William B. Silverman on Spotlight Station WMAK,</unittitle>
-<unitdate>1953</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">20</container>
-<unittitle>Mary Gatewood Banks, &#8220;Lake Junaluska,&#8221;</unittitle>
-<unitdate>1950</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">21</container>
-<unittitle>Image&#8212;Benton as a young man</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">22</container>
-<unittitle>Image&#8212;Benton at Vanderbilt,</unittitle>
-<unitdate>1950s</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">23</container>
-<unittitle>Cassette Tape&#8212;Bishop Costen Harrell talks with Roy Clark re: West End Sanctuary,</unittitle>
-<unitdate>1967</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Freedom Foundation Award</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">1</container>
-<unittitle>World War I Leather Aviator Helmet</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Benton, John Keith Papers</titleproper>
+        <titleproper>Finding Aid for the John Keith Benton Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2017</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>John Keith Benton Papers</unittitle>
+      <unitid>MSS.0697</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.25 linear_feet</extent>
+      </physdesc>
+      <unitdate>1940s-1950s</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>John Keith Benton was born on May 24, 1896 in Banks, Alabama to Martha Frederick and Arthur Franklin Benton. Benton joined the Army in 1917 and served as a pilot in WWI. He graduated from Birmingham Southern College with a Bachelor of Arts degree
+        and received a Bachelor of Arts in Divinity from Yale University. Upon leaving Yale he attended Edinburgh University where he received his PhD. Benton soon took the position as professor of philosophy and psychology at Drew University in New Jersey
+        before moving to Vanderbilt University in 1939 to become dean of the School of Religion. Over the course of his career, Benton gave numerous sermons and addresses but also published several theological articles, many of which are preserved in his
+        collection.</p>
+      <p>Benton is remembered as the presiding Dean when Vanderbilt&#8217;s Divinity School began to admit African American applicants in 1952; he is reported to have encouraged Chancellor Harvie Branscomb and other university officials to examine their
+        University policy on race-based admissions.</p>
+      <p>Benton served as Dean of Vanderbilt&#8217;s Divinity School from 1939 to 1956. While Dean, Benton spearheaded the construction of a new home for Vanderbilt&#8217;s Divinity school. Benton died on August 21, 1956 before the building was completed,
+        prompting the University to name the building Benton Chapel in honor of his service. Benton Chapel still serves as the primary multidenominational house of worship and center of the Divinity School on the university&#8217;s campus.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The John Keith Benton Papers are composed of 3.25 linear feet of sermons, articles, research, correspondence and photographs from his career as a pastor and Vanderbilt Dean. The dates of the collection range from the 1940s to the mid-1950s. It is
+        divided into five series.</p>
+      <list type="ordered" numeration="upperroman">
+        <item>
+          <emph render="bold">Sermons</emph>&#8212;transcripts of sermons given by Benton</item>
+        <item>
+          <emph render="bold">Research Notes</emph>&#8212;notes and research on potential sermons and other lectures by Benton</item>
+        <item>
+          <emph render="bold">Programs</emph>&#8212;programs from Benton&#8217;s lectures and sermons as well as other church bulletins and programs</item>
+        <item>
+          <emph render="bold">Writings</emph>&#8212;articles and addresses by Benton</item>
+        <item>
+          <emph render="bold">Miscellaneous Documents</emph>&#8212;contains correspondence, drafts by others, as well as Benton&#8217;s Freedom Foundation Award and World War I pilot cap</item>
+      </list>
+    </scopecontent>
+    <acqinfo>
+      <head>Provenance Statement</head>
+      <p>The Benton Papers were donated by Ms. Lyn Lowrey Honig to Vanderbilt University Special Collections in 2008.</p>
+    </acqinfo>
+    <userestrict>
+      <head>Literary Rights Statement</head>
+      <p>Permission to publish, copy, reprint, digitize, orally record for transmission over public or private airways, or use material from the John Keith Benton Papers in any and all other current or future developed methods or procedures, must be
+        obtained in writing from the Special Collections and University Archives Division of the Vanderbilt University Libraries. All rights are reserved and retained regardless of current or future development or laws that may apply to fair use standards.</p>
+    </userestrict>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="italic">Sermons</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unitdate>1941</unitdate>
+            <unittitle>&#8220;What Can I Depend On?&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unitdate>1942</unitdate>
+            <unittitle>&#8220;Canons of Sermon Criticism&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unitdate>1945/1947/1955</unitdate>
+            <unittitle>&#8220;Zedekiah&#8212;Ally Way to the Lord&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unitdate>1948</unitdate>
+            <unittitle>&#8220;Fodderwings&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unitdate>1948</unitdate>
+            <unittitle>&#8220;God&#8217;s Remembrance,&#8221; Program, Tennessee Annual Conference, Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unitdate>1949/1955</unitdate>
+            <unittitle>&#8220;Thanksgiving&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unitdate>1952</unitdate>
+            <unittitle>&#8220;Forest Fire&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unitdate>1952</unitdate>
+            <unittitle>&#8220;Heart Trouble&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unitdate>1953</unitdate>
+            <unittitle>&#8220;All or None,&#8221; Notes &#38; Related Documents</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unitdate>1953/1954</unitdate>
+            <unittitle>&#8220;Integrity,&#8221; Personal Notes, Worship Program, West End Methodist Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unitdate>1955</unitdate>
+            <unittitle>&#8220;The Christian Answer&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unitdate>1955</unitdate>
+            <unittitle>&#8220;So Little Interest&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unitdate>1955</unitdate>
+            <unittitle>&#8220;Don&#8217;t Get In Your Own Way&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Christianity and Social Reform&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Death Steals the Show,&#8221; Notes &#38; Related Documents</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Freedom and Happiness&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;God&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;A House to Live In,&#8221; Personal Notes/Drafts</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;How Rapidly Should I Expect Evil to Overcome?&#8221; Note Cards, Sermon, Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Human Rights,&#8221; &#38; Related Documents</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;The Meaning to Youth &#38; The terms of God, Christ, and Holy Spirit&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Sensitivity&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Students Coin Epigrams&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Toward A Christian Interpretation of Man&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;What Difference Does Easter Make?&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Who is a Christian?&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Vital Christian Living&#8221;</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="italic">Research Notes</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unitdate>1940</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unitdate>1944</unitdate>
+            <unittitle>&#8220;Behold I Stand at the Door&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unitdate>August 1944</unitdate>
+            <unittitle>&#8220;The Light of the World&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unitdate>1944</unitdate>
+            <unittitle>&#8220;Fellowship of His Suffering&#8221;
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unitdate>January 14, 1945</unitdate>
+            <unittitle>&#8220;Security&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unitdate>1945</unitdate>
+            <unittitle>&#8220;The Great Decision&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unitdate>June 1947</unitdate>
+            <unittitle>&#8220;Of Good Report&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unitdate>October 12, 1947</unitdate>
+            <unittitle>&#8220;Growing Up in the XU Faith&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unitdate>February 1948</unitdate>
+            <unittitle>&#8220;The Contributions of Judaism to Christianity&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unitdate>1948</unitdate>
+            <unittitle>&#8220;Can a Modern Man be Optimistic?&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unitdate>April 16, 1949</unitdate>
+            <unittitle>&#8220;Life Everlasting&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unitdate>Fall 1949</unitdate>
+            <unittitle>&#8220;Notes on Christian Belief&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unitdate>Fall 1949</unitdate>
+            <unittitle>&#8220;The Church as Prophet and Teacher&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unitdate>January 7, 1952</unitdate>
+            <unittitle>&#8220;Centerpiece of Despair&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unitdate>1952</unitdate>
+            <unittitle>&#8220;Heroes/Knights of Greater Congressional&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unitdate>August 1953</unitdate>
+            <unittitle>&#8220;Disciples for Vital Christian Living&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unitdate>August 1953</unitdate>
+            <unittitle>&#8220;Faith&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unitdate>1955</unitdate>
+            <unittitle>&#8220;Sensitivity&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unitdate>1940-1956</unitdate>
+            <unittitle>Sermon Notes &#38; Ideas</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Sermon Notes I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Sermon Notes II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Sermon Notes III</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Potential Sermon Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;What is Your Name?&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Love&#8221; &#38; &#8220;The Ties of Brotherhood&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;The Importance of Receiving God&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;The Last Word&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;The Great Recovery&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;The Great Value&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;The Gateway to Freedom&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Be Still and Know&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>Personal Notes &#38; Newspaper Clippings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unitdate>Undated</unitdate>
+            <unittitle>&#8220;Above All Battle Lines&#8221;</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="italic">Programs</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>The Fellowship of Prayer&#8212;Lenten Seasons</unittitle>
+            <unitdate>1942-1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>The Sanctuary, Daily Devotional Readings</unittitle>
+            <unitdate>1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Come Before Winter</unittitle>
+            <unitdate>1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Bulletins from Various Parishes</unittitle>
+            <unitdate>1945-1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Church Bulletins 1948-1956, List of Sermons Preached with Location &#38; Date</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Bulletin from Peabody College</unittitle>
+            <unitdate>July 22, 1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Peabody &#38; Divinity Programs</unittitle>
+            <unitdate>1955-1974</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Memorial Service Tribute Program</unittitle>
+            <unitdate>November 28, 1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Assortment of Religious Programs</unittitle>
+            <unitdate>1976-1981</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Original Artwork for Communion Table</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Assortment of Religious Programs</unittitle>
+            <unitdate>1939-1974</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="italic">Writings</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unitdate>Address, June 4, 1944</unitdate>
+            <unittitle>&#8220;Prayers Offered at the Baccalaureate Service,&#8221; Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unitdate>Notes, August 2, 1946</unitdate>
+            <unittitle>Brainstorming Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unitdate>Articles, September 1950</unitdate>
+            <unittitle>&#8220;The Bible as the Basis of Protestantism&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unitdate>Address, December 5-7, 1950</unitdate>
+            <unittitle>&#8220;Introduction for the First Annual Exchange Lectureship&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unitdate>Articles, 1952</unitdate>
+            <unittitle>&#8220;I Believe in Man&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unitdate>Address, October 6, 1952</unitdate>
+            <unittitle>&#8220;Washington Story&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unitdate>Address, May 17, 1955</unitdate>
+            <unittitle>&#8220;Marion Institute&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unitdate>Essay, Undated</unitdate>
+            <unittitle>&#8220;The First American Survey&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unitdate>Poems, Undated</unitdate>
+            <unittitle>&#8220;You Tell on Yourself&#8221; &#38; &#8220;When I Have Time&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unitdate>Address, Undated</unitdate>
+            <unittitle>&#8220;The Responsibility of Religion to the Individual&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>Writing Excepts, Notes&#8212;Undated</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="italic">Miscellaneous Documents/Artifacts</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>John Keith Benton&#8217;s USA Passport</unittitle>
+            <unitdate>1929</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Magazine Article by Harold W. Dodd, &#8220;Christianity &#38; Democracy,&#8221;</unittitle>
+            <unitdate>1941</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Incoming letter from Everett R. Clinchy</unittitle>
+            <unitdate>December 18, 1939</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>John Keith Benton Assorted Photographs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Various Newspaper Clippings</unittitle>
+            <unitdate>1943-1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Incoming letter from Gerald F. Winfield</unittitle>
+            <unitdate>November 27, 1939</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Incoming letter from Otto A. Piper</unittitle>
+            <unitdate>September 15, 1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Incoming letter from Toronto, Ontario</unittitle>
+            <unitdate>December 21, 1947</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Incoming letter from Gastonia, N.C.</unittitle>
+            <unitdate>December 23, 1947</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Undated letter from Alumni Association, Partial Newspaper clipping&#8212;<emph render="italic">New Yorker</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Incoming greeting card,</unittitle>
+            <unitdate>1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Personal Notes</unittitle>
+            <unitdate>April 23, 1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Newspaper &#38; Magazine Clippings</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Article by William H. Whyte Jr., &#8220;The Wife Problem,&#8221;</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Letters about Benton&#8217;s Appointment to Vanderbilt,</unittitle>
+            <unitdate>1939</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Dedication of Benton Chapel</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle>Master Copy of Edwin Mims</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle>Publications by other people</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle>Manuscript of Dr. William B. Silverman on Spotlight Station WMAK,</unittitle>
+            <unitdate>1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle>Mary Gatewood Banks, &#8220;Lake Junaluska,&#8221;</unittitle>
+            <unitdate>1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle>Image&#8212;Benton as a young man</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Image&#8212;Benton at Vanderbilt,</unittitle>
+            <unitdate>1950s</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">23</container>
+            <unittitle>Cassette Tape&#8212;Bishop Costen Harrell talks with Roy Clark re: West End Sanctuary,</unittitle>
+            <unitdate>1967</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>Freedom Foundation Award</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1</container>
+          <unittitle>World War I Leather Aviator Helmet</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,1355 +1,1362 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Bennett, Sandra McMullin Papers</titleproper>
-<titleproper>Finding Aid for the Sandra McMullin Bennett Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Dorothy Bethurum Loomis Papers</unittitle>
-<unitid>MSS.0795</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">4.30 Linear Feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Bennett, Sandra McMullin Papers</titleproper>
+        <titleproper>Finding Aid for the Sandra McMullin Bennett Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Dorothy Bethurum Loomis Papers</unittitle>
+      <unitid>MSS.0795</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.30 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>Sandra McMullin Bennett was born and educated in Michigan. In 1988, she moved to Atlanta and in 1996 to Nashville. She joined the Greater Nashville Business and Professional Women/USA, serving two terms as President. During her tenure with this
+        organization, she spearheaded a grassroots campaign for the passage of the Tennessee Equal Pay Remedies and Enforcement Act which was passed after two years of hard work.</p>
+      <p>She served three terms as Vice President of Legislation for the Nashville Women&#8217;s Political Caucus, lobbying for legislation affecting women and families of Tennessee. Ms. Bennett served two terms as President of the Tennessee Women&#8217;s
+        Political Caucus and inaugurated the annual Yellow Roses Luncheon honoring women leaders in Tennessee. Beginning in 2004, she served on the Steering Committee for the Women&#8217;s Economic Summit and developed political participation workshops
+        called &#8220;Everyday Politics for Everyday Women&#8221;. In 2004, also, she was presented with Tennessee State Resolution #955 recognizing her work on behalf of the women of the state of Tennessee</p>
+      <p>In 2006, Governor Bredesen appointed Sandra Bennett to the Board of the Tennessee Economic Council on Women, where she served six years. During her term she held the position of Secretary of the organization and its sister organization, the
+        Women&#8217;s Economic Council Foundation, Inc. Sandra Bennett retired in 2008, and moved to Manchester, Tennessee, where she continues her interest in politics.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>Sandra McMullin Bennett&#8217;s papers are divided into five series, according to her work with various organizations: Business and Professional Women/ USA; Tennessee Economic Council on Women; Tennessee Women&#8217;s Political Caucus; Nashville
+        Women&#8217;s Political Caucus; and Personal Papers.</p>
+      <p>Her papers include reports, summaries of legislative actions, economic summits and political workshop materials, campaign materials, and newspaper clippings. Also included is an official Proclamation of the State of Tennessee, proclaiming August
+        26, 2010, &#8220;Women&#8217;s Equality Day.&#8221;</p>
+      <p>Ms. Bennett was very concerned with political issues affecting the welfare of women and children in Tennessee. She was a tireless leader through the Tennessee Economic Council on Women, the Tennessee Women&#8217;s Political and the Nashville
+        Women&#8217;s Political Caucus in encouraging, supporting, and lobbying for legislation favorable to women and children, such as equal pay and child support. Her papers reflect the enormous amount of volunteer effort expended by women such as Ms.
+        Bennett. They do not hold elective office but nevertheless accomplish much in the political arena.</p>
+    </scopecontent>
 
-<bioghist>
-<head>Biographical Sketch</head>
-<p>Sandra McMullin Bennett was born and educated in Michigan. In 1988, she moved to Atlanta and in 1996 to Nashville. She joined the Greater Nashville Business and Professional Women/USA, serving two terms as President. During her tenure with this organization, she spearheaded a grassroots campaign for the passage of the Tennessee Equal Pay Remedies and Enforcement Act which was passed after two years of hard work.</p>
-<p>She served three terms as Vice President of Legislation for the Nashville Women&#8217;s Political Caucus, lobbying for legislation affecting women and families of Tennessee. Ms. Bennett served two terms as President of the Tennessee Women&#8217;s Political Caucus and inaugurated the annual Yellow Roses Luncheon honoring women leaders in Tennessee. Beginning in 2004, she served on the Steering Committee for the Women&#8217;s Economic Summit and developed political participation workshops called &#8220;Everyday Politics for Everyday Women&#8221;. In 2004, also, she was presented with Tennessee State Resolution #955 recognizing her work on behalf of the women of the state of Tennessee</p>
-<p>In 2006, Governor Bredesen appointed Sandra Bennett to the Board of the Tennessee Economic Council on Women, where she served six years. During her term she held the position of Secretary of the organization and its sister organization, the Women&#8217;s Economic Council Foundation, Inc. Sandra Bennett retired in 2008, and moved to Manchester, Tennessee, where she continues her interest in politics.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>Sandra McMullin Bennett&#8217;s papers are divided into five series, according to her work with various organizations: Business and Professional Women/ USA; Tennessee Economic Council on Women; Tennessee Women&#8217;s Political Caucus; Nashville Women&#8217;s Political Caucus; and Personal Papers.</p>
-<p>Her papers include reports, summaries of legislative actions, economic summits and political workshop materials, campaign materials, and newspaper clippings. Also included is an official Proclamation of the State of Tennessee, proclaiming August 26, 2010, &#8220;Women&#8217;s Equality Day.&#8221;</p>
-<p>Ms. Bennett was very concerned with political issues affecting the welfare of women and children in Tennessee. She was a tireless leader through the Tennessee Economic Council on Women, the Tennessee Women&#8217;s Political and the Nashville Women&#8217;s Political Caucus in encouraging, supporting, and lobbying for legislation favorable to women and children, such as equal pay and child support. Her papers reflect the enormous amount of volunteer effort expended by women such as Ms. Bennett. They do not hold elective office but nevertheless accomplish much in the political arena.</p>
-</scopecontent>
+    <dsc type="othertype">
 
-<dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Business and Professional Women/USA---Membership cards</unittitle>
+          <unitdate>1999-2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Business and Professional Women/USA---Certificate of Achievement</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>Business and Professional Women/USA---Membership Recruitment and Retention</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>Business and Professional Women/USA---2002-2003 Reports, Issues, and Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>Business and Professional Women/USA---2004-2005 Reports, Issues, and Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>Business and Professional Women/USA---2006-2007 Reports, Issues, and Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>Business and Professional Women/USA---Rules of Order and Installation of Officers</unittitle>
+        </did>
+        <note>
+          <p>The remainder of Ms. Bennett&#8217;s materials pertaining to Business and Professional Women/USA are contained in scrapbook boxes Box 10 and 11 at the end of the collection.</p>
+        </note>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Best and Worst State Economies for Women&#8221;</unittitle>
+          <unitdate>2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">9</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The White House Project&#8221;</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Unmarried Women in 2006&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Tennessee Women in Elective Office-Historical Summary&#8221;</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Status of Women in Tennessee, 2004: Highlights&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Why Women Should Vote&#8221;</unittitle>
+          <unitdate>2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;A Study of Women and Political Participation&#8221;</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Wages Tied to Gender Divide&#8221;</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Lobbying 101&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Tips for Successful Legislative meetings&#8221;, 2007
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">18</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Tips for Connecting with Your Local Media&#8221;</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">19</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---Articles about communicating with elected officials</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">20</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Deb&#8217;s 15 Rules for the Road&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">21</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Need for Dialogue&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">22</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---Articles about women with disabilities, caregivers, and preventive health issues</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">23</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---Articles about women and their financial fitness</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">24</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Why Women Having a Seat at the Table Is Not Enough&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">25</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Benchmarking: How Nonprofits Are Adapting a Business Planning Tool for Enhanced Performance&#8221;</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">26</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Agency Strategic Plan, Idaho Women&#8217;s Commission&#8221;</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">27</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Advancing Women in the Boardroom, ION&#8221;</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">28</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Women&#8217;s Earnings&#8221;</unittitle>
+          <unitdate>2003</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">29</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Economic Impact of Women-Owned Businesses in the United States&#8221;</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">30</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Behind the Pay Gap&#8221;</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">31</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Ten Things about Diversity and Inclusion&#8221;, Barry Salzberg</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">32</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Why So Few?&#8221;</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">33</container>
+          <unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;What Women Want Now&#8221;, Time Magazine, Oct. 26, 2009</unittitle>
+        </did>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Business and Professional Women/USA---Membership cards</unittitle>
-<unitdate>1999-2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Business and Professional Women/USA---Certificate of Achievement</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Business and Professional Women/USA---Membership Recruitment and Retention</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Business and Professional Women/USA---2002-2003 Reports, Issues, and Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Business and Professional Women/USA---2004-2005 Reports, Issues, and Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Business and Professional Women/USA---2006-2007 Reports, Issues, and Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Business and Professional Women/USA---Rules of Order and Installation of Officers</unittitle>
-</did>
-<note><p>The remainder of Ms. Bennett&#8217;s materials pertaining to Business and Professional Women/USA are contained in scrapbook boxes Box 10 and 11 at the end of the collection.</p></note>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Best and Worst State Economies for Women&#8221;</unittitle>
-<unitdate>2006</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The White House Project&#8221;</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Unmarried Women in 2006&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Tennessee Women in Elective Office-Historical Summary&#8221;</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Status of Women in Tennessee, 2004: Highlights&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Why Women Should Vote&#8221;</unittitle>
-<unitdate>2006</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;A Study of Women and Political Participation&#8221;</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Wages Tied to Gender Divide&#8221;</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Lobbying 101&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Tips for Successful Legislative meetings&#8221;, 2007
-</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Tips for Connecting with Your Local Media&#8221;</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---Articles about communicating with elected officials</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Deb&#8217;s 15 Rules for the Road&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Need for Dialogue&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---Articles about women with disabilities, caregivers, and preventive health issues</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---Articles about women and their financial fitness</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Why Women Having a Seat at the Table Is Not Enough&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Benchmarking: How Nonprofits Are Adapting a Business Planning Tool for Enhanced Performance&#8221;</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">26</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Agency Strategic Plan, Idaho Women&#8217;s Commission&#8221;</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">27</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Advancing Women in the Boardroom, ION&#8221;</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">28</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Women&#8217;s Earnings&#8221;</unittitle>
-<unitdate>2003</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">29</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;The Economic Impact of Women-Owned Businesses in the United States&#8221;</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">30</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Behind the Pay Gap&#8221;</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">31</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Ten Things about Diversity and Inclusion&#8221;, Barry Salzberg</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">32</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;Why So Few?&#8221;</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<container type="folder">33</container>
-<unittitle>Tennessee Economic Council on Women---Research Materials---&#8220;What Women Want Now&#8221;, Time Magazine, Oct. 26, 2009</unittitle>
-</did>
-</c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Impact of Domestic Violence on the Tennessee Economy&#8221;</unittitle>
+          <unitdate>2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;Achieving an Equally Gendered Government: The Economic Impact of Women&#8217;s Political Participation in Tennessee&#8221;</unittitle>
+          <unitdate>2007 (3 Copies)</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Economic Impact of Insufficient Preventive Healthcare for Tennessee Women&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle>Tennessee Economic Council on Women---Publications--- &#8220;The Economic Status of Women in Tennessee Counties, 2012&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Elios Project: Indicators of Social and Economic Well-being for Tennessee Women&#8221;</unittitle>
+          <unitdate>2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Economic Impact of Wages and Earnings for Tennessee Women&#8221;</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Economic Impact of Women-Owned Businesses in Tennessee&#8221;</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;Third Biennial Report&#8221;</unittitle>
+          <unitdate>2000-2004</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;Fourth Biennial Report&#8221;</unittitle>
+          <unitdate>2004-2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">10</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;Fifth Biennial Report&#8221;</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">11</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;Sixth Biennial Report&#8221;</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">12</container>
+          <unittitle>Tennessee Economic Council on Women---Publications---&#8220;Seventh Biennial Report&#8221;</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Legislative Focus and Plan of Action</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">14</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Mini-Summit for Women</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">15</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Workshop Proposal</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">16</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Business and Finance Day</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">17</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Everyday Politics for Everyday Women Workshop</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">18</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">19</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
+          <unitdate>2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">20</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
+          <unitdate>2012-2013</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">2</container>
+          <unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Women&#8217;s Economic Council Foundation, Inc. Retreat, 2011</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Organization</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Staff</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operations/ Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operation/Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">7</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operation/Project</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">8</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operation/Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">9</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---By-laws, Member Reports</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">10</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Members</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">11</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operations/Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">12</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operations/Projects</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">13</container>
+          <unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Finances</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">14</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit, 2005---The Gender Wage Gap</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">15</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit, 2007---Issues, Initiatives, and Action</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">16</container>
+          <unittitle>Tennessee Economic council on Women---Economic Summit, 2008 ---Comment, Collaborate, and Celebrate</unittitle>
+        </did>
+      </c01>
 
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2008---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">2</container>
+          <unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2008---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">3</container>
+          <unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2008---Workshop Packet</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">4</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit. 2009---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">5</container>
+          <unittitle>Tennessee Economic council on Women---Economic Summit, 2009---Motivate, Appreciate, Elevate</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">6</container>
+          <unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2009---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">7</container>
+          <unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women, 2009---Workshop Packet</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">8</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit, 2010---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">9</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit, 2010---Interaction, Engagement, and Results</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">10</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit. 2011---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">11</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit, 2011---Economic Equity, Literacy, Independence, Opportunity, Stability</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">12</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit, 2012---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">13</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit, 2013---Charting the Course</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">14</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summit---Southeastern Tennessee Women&#8217;s Summit</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">15</container>
+          <unittitle>Tennessee Economic Council on Women---Women&#8217;s Economic Council Foundation, Inc.---Research Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">16</container>
+          <unittitle>Tennessee Economic Council on Women---Women&#8217;s Hall of Fame---Planning</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">17</container>
+          <unittitle>Tennessee Economic Council on Women---Women&#8217;s Hall of Fame---Event</unittitle>
+        </did>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Impact of Domestic Violence on the Tennessee Economy&#8221;</unittitle>
-<unitdate>2006</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;Achieving an Equally Gendered Government: The Economic Impact of Women&#8217;s Political Participation in Tennessee&#8221;</unittitle>
-<unitdate>2007 (3 Copies)</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Economic Impact of Insufficient Preventive Healthcare for Tennessee Women&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Tennessee Economic Council on Women---Publications--- &#8220;The Economic Status of Women in Tennessee Counties, 2012&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Elios Project: Indicators of Social and Economic Well-being for Tennessee Women&#8221;</unittitle>
-<unitdate>2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Economic Impact of Wages and Earnings for Tennessee Women&#8221;</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;The Economic Impact of Women-Owned Businesses in Tennessee&#8221;</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;Third Biennial Report&#8221;</unittitle>
-<unitdate>2000-2004</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;Fourth Biennial Report&#8221;</unittitle>
-<unitdate>2004-2006</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;Fifth Biennial Report&#8221;</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;Sixth Biennial Report&#8221;</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>Tennessee Economic Council on Women---Publications---&#8220;Seventh Biennial Report&#8221;</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Legislative Focus and Plan of Action</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Mini-Summit for Women</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Workshop Proposal</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Business and Finance Day</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Everyday Politics for Everyday Women Workshop</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
-<unitdate>2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Economic Status of Women in Tennessee</unittitle>
-<unitdate>2012-2013</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>Tennessee Economic Council on Women---Committee Reports and Activities---Women&#8217;s Economic Council Foundation, Inc. Retreat, 2011</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Organization</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Staff</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operations/ Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operation/Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operation/Project</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operation/Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---By-laws, Member Reports</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Members</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operations/Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Operations/Projects</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>Tennessee Economic Council on Women---Council Member Notebook, 2011---Finances</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit, 2005---The Gender Wage Gap</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit, 2007---Issues, Initiatives, and Action</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle>Tennessee Economic council on Women---Economic Summit, 2008 ---Comment, Collaborate, and Celebrate</unittitle>
-</did>
-</c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>Tennessee Economic Council on Women---Women&#8217;s Economic Council Foundation, Inc.--- Foundation By-laws</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2</container>
+          <unittitle>Tennessee Economic Council on Women---Women&#8217;s Economic Council Foundation, Inc.---Research Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">3</container>
+          <unittitle>Tennessee Economic Council on Women---Economic Summits---Summary of Summits</unittitle>
+          <unitdate>2004-2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">4</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Affiliation with the National Women&#8217;s Political Caucus</unittitle>
+          <unitdate>2000-2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">5</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Research Materials</unittitle>
+          <unitdate>1992-1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">6</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---By-laws</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">7</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Fund raising</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">8</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Policies and Procedures</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">9</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus--- Organization Business---Minutes, Agendas, Reports</unittitle>
+          <unitdate>2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">10</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">11</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">12</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas. Reports</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">13</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">14</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
+          <unitdate>2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">15</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports, 2012</unittitle>
+        </did>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2008---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2008---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2008---Workshop Packet</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit. 2009---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Tennessee Economic council on Women---Economic Summit, 2009---Motivate, Appreciate, Elevate</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women Workshop, 2009---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Tennessee Economic Council on Women---Everyday Politics for Everyday Women, 2009---Workshop Packet</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit, 2010---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit, 2010---Interaction, Engagement, and Results</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit. 2011---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit, 2011---Economic Equity, Literacy, Independence, Opportunity, Stability</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit, 2012---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit, 2013---Charting the Course</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summit---Southeastern Tennessee Women&#8217;s Summit</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">15</container>
-<unittitle>Tennessee Economic Council on Women---Women&#8217;s Economic Council Foundation, Inc.---Research Materials</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">16</container>
-<unittitle>Tennessee Economic Council on Women---Women&#8217;s Hall of Fame---Planning</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<container type="folder">17</container>
-<unittitle>Tennessee Economic Council on Women---Women&#8217;s Hall of Fame---Event</unittitle>
-</did>
-</c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Membership</unittitle>
+          <unitdate>2009-2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">2</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Memphis Women&#8217;s Political Caucus</unittitle>
+          <unitdate>2009-2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">3</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Nashville Women&#8217;s Political Caucus</unittitle>
+          <unitdate>2007-2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">4</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Chattanooga Women&#8217;s Political Caucus</unittitle>
+          <unitdate>2007-2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">5</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Knoxville Women&#8217;s Political Caucus</unittitle>
+          <unitdate>2008-2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">6</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Lobbyist</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">7</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Press Releases</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">8</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Website</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">9</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Restructuring</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">10</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Women&#8217;s Political Empowerment Workshop, Jackson, Tennessee</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">11</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Women&#8217;s Political Empowerment Workshop, Chattanooga, Tennessee</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">12</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">13</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">14</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
+          <unitdate>2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">15</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
+          <unitdate>2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">16</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Planning for Campaign School</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">17</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---When Women Run, Women Win-Campaign School</unittitle>
+        </did>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Tennessee Economic Council on Women---Women&#8217;s Economic Council Foundation, Inc.--- Foundation By-laws</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Tennessee Economic Council on Women---Women&#8217;s Economic Council Foundation, Inc.---Research Materials</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>Tennessee Economic Council on Women---Economic Summits---Summary of Summits</unittitle>
-<unitdate>2004-2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Affiliation with the National Women&#8217;s Political Caucus</unittitle>
-<unitdate>2000-2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Research Materials</unittitle>
-<unitdate>1992-1994</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---By-laws</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Fund raising</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Policies and Procedures</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus--- Organization Business---Minutes, Agendas, Reports</unittitle>
-<unitdate>2006</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">12</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas. Reports</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">13</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">14</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports</unittitle>
-<unitdate>2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<container type="folder">15</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Minutes, Agendas, Reports, 2012</unittitle>
-</did>
-</c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">1</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Legislation of Interest to Women---Legislative Reports</unittitle>
+          <unitdate>2003-2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">2</container>
+          <unittitle>Tennessee Women&#8217;s Political Caucus---Legislation of Interest to Women---Correspondence (e-mails)</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">3</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Research Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">4</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Issues, Updates</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">5</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Bill Information, Updates</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">6</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Petitions against the Bill</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">7</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Correspondence (e-mails)</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">8</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Women and Voting---Research Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">9</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Women and Voting---Tennessee Women and Voting</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">10</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Women and Voting---Correspondence (e-mails)</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">11</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Research Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">12</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Publicity</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">13</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Legislative Reports and Summaries</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">14</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Correspondence (e-mails)</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">15</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board Manual</unittitle>
+          <unitdate>2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">16</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board manual</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">17</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board manual, Part 1</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">18</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board Manual, Part 2</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">1</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Membership</unittitle>
-<unitdate>2009-2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">2</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Memphis Women&#8217;s Political Caucus</unittitle>
-<unitdate>2009-2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">3</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Nashville Women&#8217;s Political Caucus</unittitle>
-<unitdate>2007-2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">4</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Chattanooga Women&#8217;s Political Caucus</unittitle>
-<unitdate>2007-2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">5</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Knoxville Women&#8217;s Political Caucus</unittitle>
-<unitdate>2008-2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">6</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Lobbyist</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">7</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Press Releases</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">8</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Website</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">9</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Restructuring</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">10</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Women&#8217;s Political Empowerment Workshop, Jackson, Tennessee</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">11</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Women&#8217;s Political Empowerment Workshop, Chattanooga, Tennessee</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">12</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">13</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">14</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
-<unitdate>2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">15</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Yellow Roses Luncheon</unittitle>
-<unitdate>2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">16</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---Planning for Campaign School</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<container type="folder">17</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Organization Business---When Women Run, Women Win-Campaign School</unittitle>
-</did>
-</c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">1</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
+          <unitdate>2005</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">2</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
+          <unitdate>2006</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">3</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
+          <unitdate>2007</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">4</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
+          <unitdate>2008</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">5</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">6</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
+          <unitdate>2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">7</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Child Support Legislation</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">8</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Child Support Legislation</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">9</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Health Insurance Continuation Bill</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">10</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Pregnancy Resources Bill</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">11</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Women&#8217;s Day on the Hill</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">12</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Privacy Rights and Abortion</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">13</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Emergency Care for Rape Victims</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">14</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Pharmacist&#8217;s Bill</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">15</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Stalking</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">16</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Domestic Violence</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">17</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Rape of a Child</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">18</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Overtime</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">19</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Meth Bills</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">20</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Same Sex Marriage</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">21</container>
+          <unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Voter Election of Lieutenant Governor and Secretary of State</unittitle>
+        </did>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">1</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Legislation of Interest to Women---Legislative Reports</unittitle>
-<unitdate>2003-2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">2</container>
-<unittitle>Tennessee Women&#8217;s Political Caucus---Legislation of Interest to Women---Correspondence (e-mails)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">3</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Research Materials</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">4</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Issues, Updates</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">5</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Bill Information, Updates</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">6</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Petitions against the Bill</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">7</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Mandatory Joint Custody Legislation---Correspondence (e-mails)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">8</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Women and Voting---Research Materials</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">9</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Women and Voting---Tennessee Women and Voting</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">10</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Women and Voting---Correspondence (e-mails)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">11</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Research Materials</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">12</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Publicity</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">13</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Legislative Reports and Summaries</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">14</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Pay Equity Legislation---Correspondence (e-mails)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">15</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board Manual</unittitle>
-<unitdate>2006</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">16</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board manual</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">17</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board manual, Part 1</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">7</container>
-<container type="folder">18</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Board of Directors---Board Manual, Part 2</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">1</container>
+          <unittitle>Personal Papers---Speeches</unittitle>
+          <unitdate>2004-2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">2</container>
+          <unittitle>Personal Papers---Letters to the Editor, The Tennessean</unittitle>
+          <unitdate>2005-2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">3</container>
+          <unittitle>Personal Papers---Op-Eds, The Tennessean</unittitle>
+          <unitdate>2009-2013</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">4</container>
+          <unittitle>Personal Papers---Correspondence---Incoming, Clinton-Wood</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">5</container>
+          <unittitle>Personal Papers---Invitations</unittitle>
+          <unitdate>2008-2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">6</container>
+          <unittitle>Personal Papers---Honors</unittitle>
+          <unitdate>2003-2012</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">7</container>
+          <unittitle>Personal Papers---Athena Awards</unittitle>
+          <unitdate>2005</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">8</container>
+          <unittitle>Personal Awards---Athena Awards---2007, Sandra Bennett, a Nominee</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">9</container>
+          <unittitle>Personal Papers---Athena Awards</unittitle>
+          <unitdate>2009</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">10</container>
+          <unittitle>Personal Papers---Honors---Photos</unittitle>
+          <unitdate>1993-2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">11</container>
+          <unittitle>Personal Papers---Newspaper Clippings</unittitle>
+          <unitdate>2004-2011</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">12</container>
+          <unittitle>Personal Papers---Political Campaigns---Bumper Stickers, Brochures, etc.</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">13</container>
+          <unittitle>Personal Papers---Legislative Proclamation---State of Tennessee Proclamation of Women&#8217;s Equality Day, August 26, 2010</unittitle>
+        </did>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">1</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
-<unitdate>2005</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">2</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
-<unitdate>2006</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">3</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
-<unitdate>2007</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">4</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
-<unitdate>2008</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">5</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">6</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Reports, Summaries, Correspondence</unittitle>
-<unitdate>2010</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">7</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Child Support Legislation</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">8</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Child Support Legislation</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">9</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Health Insurance Continuation Bill</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">10</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Pregnancy Resources Bill</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">11</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Women&#8217;s Day on the Hill</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">12</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Privacy Rights and Abortion</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">13</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Emergency Care for Rape Victims</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">14</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Pharmacist&#8217;s Bill</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">15</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Stalking</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">16</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Domestic Violence</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">17</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Rape of a Child</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">18</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Overtime</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">19</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Meth Bills</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">20</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Same Sex Marriage</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">8</container>
-<container type="folder">21</container>
-<unittitle>Nashville Women&#8217;s Political Caucus---Legislative Committee---Voter Election of Lieutenant Governor and Secretary of State</unittitle>
-</did>
-</c01>
-
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">1</container>
-<unittitle>Personal Papers---Speeches</unittitle>
-<unitdate>2004-2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">2</container>
-<unittitle>Personal Papers---Letters to the Editor, The Tennessean</unittitle>
-<unitdate>2005-2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">3</container>
-<unittitle>Personal Papers---Op-Eds, The Tennessean</unittitle>
-<unitdate>2009-2013</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">4</container>
-<unittitle>Personal Papers---Correspondence---Incoming, Clinton-Wood</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">5</container>
-<unittitle>Personal Papers---Invitations</unittitle>
-<unitdate>2008-2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">6</container>
-<unittitle>Personal Papers---Honors</unittitle>
-<unitdate>2003-2012</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">7</container>
-<unittitle>Personal Papers---Athena Awards</unittitle>
-<unitdate>2005</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">8</container>
-<unittitle>Personal Awards---Athena Awards---2007, Sandra Bennett, a Nominee</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">9</container>
-<unittitle>Personal Papers---Athena Awards</unittitle>
-<unitdate>2009</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">10</container>
-<unittitle>Personal Papers---Honors---Photos</unittitle>
-<unitdate>1993-2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">11</container>
-<unittitle>Personal Papers---Newspaper Clippings</unittitle>
-<unitdate>2004-2011</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">12</container>
-<unittitle>Personal Papers---Political Campaigns---Bumper Stickers, Brochures, etc.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">9</container>
-<container type="folder">13</container>
-<unittitle>Personal Papers---Legislative Proclamation---State of Tennessee Proclamation of Women&#8217;s Equality Day, August 26, 2010</unittitle>
-</did>
-</c01>
-
-<c01 level="series">
-<did>
-<container type="box">10</container>
-<unittitle>Scrapbook, Business and Professional Women/USA</unittitle>
-<unitdate>2002-2003</unitdate>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">11</container>
-<unittitle>Scrapbook, Business and Professional Women/USA</unittitle>
-<unitdate>2003-2004</unitdate>
-</did>
-</c01>
-</dsc>
-</archdesc>
+      <c01 level="series">
+        <did>
+          <container type="box">10</container>
+          <unittitle>Scrapbook, Business and Professional Women/USA</unittitle>
+          <unitdate>2002-2003</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Scrapbook, Business and Professional Women/USA</unittitle>
+          <unitdate>2003-2004</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
