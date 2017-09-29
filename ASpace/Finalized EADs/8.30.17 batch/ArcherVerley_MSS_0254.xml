@@ -1,0 +1,5252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Archer, Verley Collection</titleproper>
+        <titleproper>Finding Aid for the Verley Archer Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Verley Archer Collection</unittitle>
+      <unitid>MSS.0254</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8.76 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1960/1989" type="inclusive">1960&#8217;s-1980&#8217;s</unitdate>
+    </did>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The Verley Archer Collection consists of materials relating to the Vanderbilt Family Reunion held in conjunction with the Centennial Celebration of Vanderbilt University, March 16-17, 1973. Ms. Archer conducted extensive research into the
+        genealogy of the Vanderbilt family and located descendants of Commodore Cornelius Vanderbilt living in 1973.</p>
+      <p>Included in the Verley Archer Collection are research notes and materials, completed questionnaires from family members, correspondence, publicity materials, and published books, all relating to the Family Reunion and Centennial Celebration.</p>
+      <p>The 21 boxes in this collection cover approximately 8.76 linear feet. The collection is arranged in 3 series: Subject Files (Series 1); Vanderbilt Centennial (series 2); and Verley Archer&#8217;s Research Materials (Series 3).</p>
+      <p>The Subject Files, Series 1, are the most extensive part of this collection. They consist of letters, completed questionnaires, and biographical information on most of the over 500 members of the Vanderbilt family living in 1973, as well as some
+        earlier family members. These are arranged alphabetically by last name. Married women descendants are cross-referenced by their maiden names.</p>
+      <p>Series 2 consists of the form letter mailings sent to his Vanderbilt relatives by William H. Vanderbilt, III and their responses. Also included are publicity articles about the Vanderbilt Family Reunion and Vanderbilt University Centennial. There
+        are lists of descendants attending the Reunion and of gifts to Vanderbilt University from the descendants. Materials related to the project administration are included as well as the printed programs commemorating the Centennial festivities. There
+        are draft copies of the genealogical charts and the genealogical book compiled by Ms Archer. There is also a copy of her book,
+        <emph render="italic">Commodore Cornelius Vanderbilt, Sophia Johnson Vanderbilt, and Their Descendants</emph>, published by Vanderbilt University in 1973 and materials relating to its publication.</p>
+      <p>Ms. Archer&#8217;s research comprises Series 3. It includes photocopies of articles about the Vanderbilt family, ranging from their arrival in America in 1650 up through their activities in the early 1970&#8217;s. There are also books and
+        newspaper articles about contemporary Vanderbilts, especially concerning their publications or publications in which they are mentioned, foundations with which they are associated, and the William K. Vanderbilt Museum in Centerport, Long, Island, New
+        York.</p>
+      <p>This collection is of special interest to those researching the Vanderbilt family and its connection with Vanderbilt University. Additionally, to quote Ms. Archer, &#8220;This has really been a study in sociology because this is such a vital,
+        vigorous family with wide-ranging interests&#8221;</p>
+    </scopecontent>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>Verley Archer was born in Springfield, Tennessee, in 1917. After graduating from high school in Hopkinsville, Kentucky, in 1937, she took a typing course and worked at a variety of jobs. At the beginning of World War II, she was recruited for
+        clerical work at Wright-Patterson Air Force Base in Ohio, but because of her intelligence and organizational skills, she was taught Chinese in six weeks by Colonel Wang, a Chinese officer assigned to Wright-Patterson, and thereafter she taught
+        technical English to Chinese Air Force trainees sent to the United States.</p>
+      <p>After the war, Ms. Archer took a journalism course at the University of Dayton and for the next several years she worked as a fund-raiser and writer for trade journals in San Francisco, Portland, Seattle, Philadelphia, and New York. In 1958, she
+        returned to Tennessee and was hired by Vanderbilt University, first working in the Economic Development Office, and two years later, transferring to the Office of Alumni and Development.</p>
+      <p>Because of her fund-raising activities for this office, Ms. Archer became interested in the Vanderbilt family. By 1968, with the support of Chancellor Alexander Heard, she had embarked upon her genealogical researches which culminated in the
+        publication in 1973 by Vanderbilt University of her
+        <emph render="italic">Commodore Cornelius Vanderbilt, Sophia Johnson Vanderbilt, and Their Descendants</emph>. While she was involved in the writing of this book and in preparations for the Vanderbilt Centennial, Ms. Archer was also enrolled at Peabody College, graduating in 1974 with a B.S. degree.</p>
+      <p>She continued to work in the Alumni and Development Office at Vanderbilt until failing health forced her to retire in 1979. Even then, she continued to work from home for Vanderbilt University as a consultant on genealogy of the Vanderbilt family.
+        Ms. Archer died December 20, 1982.</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Subject Files</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Adams, Mrs. John Payson (Muriel Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Anderson, Mrs. Lorna (Lorna McClenahan)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Auchincloss, Andrew</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Auchincloss, Blake</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Auchincloss, John</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Auchincloss, Mrs. Louis (Adele Lawrence)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Avedon, Mrs. Keith (Elizabeth Ewarts Cox)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Baker, Mrs. Francis E. (Patricia Barry)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Balding, Dawn Bakom</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Balding, Robert Matthews</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Baldwin, Anne Colby Newburg</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Baldwin, Barbara Louise</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Baldwin, Robert Scott</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Balsan, Mrs. Jacque (Consuelo Vanderbilt, formerly Duchess of Marlborough)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Bard, Mrs. John C. (Marjorie Jackson)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Barry, Lucy B. (see Robe, Mrs. Robert S., Box 10, File 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Barry, Herbert, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Barry, Mrs. Manning (Lucy Brown)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Barry, Patricia (see Baker, Mrs. Francis E., Box 1, File 8)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Berle, Adolph Augustus</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Berle, Beatrice Lila</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Berle, Mary Alice</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Berle, Mrs. Peter A.A. (Lila Sloane Wilde)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Berle, Robert Thomas</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Bilotti, Mrs. Anton (Muriel Bilotti)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Birch, Mrs. Timothy Campbell (Alexandra Brenda Russell)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>Bitting, Mrs. Jonathan K. (Elizabeth S. Safe)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>Borgfeldt, Mrs. Merton (Marian Morris)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>Bosanquet, Mrs. Charles (Barbara Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Bosanquet, Charles Jay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Bosanquet, Deborah L. (see Mott-Trille, Mrs. Frank, Box 9, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Bosanquet, Katherine (see Rossen, Mrs. Roger, Box 10, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Bostwick, Mrs. Dunbar W. (Electra Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Bostwick, Dundeen (see Catlin, Mrs. Daniel, Jr., Box 2, File 35)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Bostwick, Electra (see McDowell, Mrs. Fletcher H., Box 8, File 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Bostwick, Elliot (see Wood, Mrs. L. Phillips, Box 13, File 22)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Bradley, Mrs. Cameron (Anne Louise Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Bradley, Edith (see Perkins, Mrs. Francis, Jr., Box 9, File 37)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Bradley, Helen (see Curtis, Mrs. John, Box 4, File 1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>Bradley, Nathaniel C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>Brady, Kenneth Parsons</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle>Brady, Philip V.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>Breck, Mrs. Manley du Pont (Rachel Hammond)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>Brown, Alice O. (see Spenser, Mrs. Richard, Box 10, File 40)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle>Brown, Archibald Manning, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle>Brown, Mr. and Mrs. Archibald Manning, III (both are descendants- Laura Havemeyer Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle>Brown, Mrs. Charles Steele (Mary Jay Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle>Brown, Charles Steele, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle>Brown, Christopher</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle>Brown, Helen M. (see Dodge, Mrs. Washington, Box 4, File 21)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle>Brown, Hillary</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle>Brown, Hope (see Canfield, Mrs. Franklin, Box 2, File 26)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle>Brown, Hope (see Perlberg, Mrs. Edward B., Box 9, File 38)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle>Brown, James P.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle>Brown, Mary L. (see Cox, Mrs. Maxwell, Box 3, File 32)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">42</container>
+            <unittitle>Brown, Mrs. Newell (Alice Dodge Osborn)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">43</container>
+            <unittitle>Brown, Robert Peabody</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">44</container>
+            <unittitle>Brown, Robinson Osborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">44</container>
+            <unittitle>Brown, Rosalind (see McClellan, Mrs. John, Box 8, File 17)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">45</container>
+            <unittitle>Brown, Shepard</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">46</container>
+            <unittitle>Browne, Francis Sedgwick</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Browne, George Morgan, IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Browne, Marion L. (see Dickerman, Mrs. William C., Box 4, File 18)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Browne, Nicholas Cabot</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Bruguire, Mrs. Louis (Margaret L. Post)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Bulkelley-Johnson, Mrs. John Cecil (Cornelia Stuyvesant Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Burden, Andrew White</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Burden, Christopher</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Burden, Elise White</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Burden, Flobelle</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Burden, Florence</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Burden Hamilton Twombly</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Burden, James A., III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Burden, Margaret (see Childs, Mrs. Daniel, Box 3, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Burden, Ordway Partridge</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Burden, Robert Livingston</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Burden, Sheila (see Lawrence, Mrs. Blake, Box 7, File 22)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Burden, (Mr.) Shirley Carter, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Burden, Shirley Carter, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Burden, Shirley Carter, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Burden, Wendy</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Burden, Mrs. William A.M. (Florence Vanderbilt Twombly)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Burden, William A.M., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Burden, William A.M., III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>Burden, William A.M., IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>Burden, William Douglas (&#38; Mrs. Elizabeth C. Gammack)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>Burden, William Douglas, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>Burden, William Douglas, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>Burnes, Mrs. Kennett F. (Barbara Jackson)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>Canfield, Mrs. Franklin Olmstead (Hope Brown)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>Canfield, Hope (see Tetrault, Mrs. Jacques, Box 11, File 10)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>Carswell, Kate</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>Carswell, Mrs. Robert (Mary Kileen Wilde)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>Carswell, William Wilde</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>Carter, Alice S.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>Carter, Mr. and Mrs. Fred D. Jr. (Susan Bliss Morris)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unittitle>Carter, Fred D.,Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unittitle>Catlin, Blake Havemeyer</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unittitle>Catlin, Dan Waldron</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">35</container>
+            <unittitle>Catlin, Mrs. Daniel, Jr. (Dundeen Bostwick)</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Catlin, Todd Bostwick</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Cecil, Christopher H.A.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Cecil, George Harry Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Cecil, William Amherst Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Cecil, William Amherst Vanderbilt, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Childs, Constance C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Childs, Mrs. Daniel (Margaret Burden)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Childs, Florence T.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Childs, Frederick C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Childs, Nicholas F.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Christ, Mrs. Donald (Iris A. Smith)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Churchill, Lady Caroline Spenser- (see Waterhouse, Mrs. Charles, Box 12, File 18)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Churchill, Charles George William Collin Spenser-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>Churchill, Charles James Spenser- (The Marquess of Blandford)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>Churchill, Lady Henrietta Mary Spenser-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Churchill. Lady Ivor Spenser-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>Churchill, John Albert Edward William Spenser-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>Churchill, John George Vanderbilt Henry Spenser- (The 11th Duke of Marlborough)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>Churchill, Robert William Spenser-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>Churchill, Rosemary Spenser- (see Muir, Mrs. Robert, Box 9, File 8)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Churchill, Rupert John Harold Mark Spenser-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Churchill, Sarah C. Spenser- (see Roubanis, Mrs. Theodor, Box 10, File 8)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Clark, Edith (see Milliken, Mrs. Minot, Box 8, File 36)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>Clark, James Cameron, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>Conner, Mrs. McCauley (Gertrude Whitney Henry)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>Cook, Averill H.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">23</container>
+            <unittitle>Cook, John R., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">24</container>
+            <unittitle>Cook, Rebecca</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">25</container>
+            <unittitle>Cook, Warren</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">26</container>
+            <unittitle>Cook, Willard P.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">27</container>
+            <unittitle>Cooper, Anderson</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">28</container>
+            <unittitle>Cooper, Carter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">29</container>
+            <unittitle>Cooper, Mrs. Wyatt (Gloria Laura Morgan Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">30</container>
+            <unittitle>Costin, Mrs. Brackenridge (Serena Vanderbilt Van Ingen)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">31</container>
+            <unittitle>Coudenhove-Kalergi, Countess Hans Heinrich (Cornelia Carter Roberts)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">31</container>
+            <unittitle>Cox, Elizabeth (see Avedon, Mrs. Keith, Box 1, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">32</container>
+            <unittitle>Cox, Mrs. Maxwell (Mary L. Brown)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">33</container>
+            <unittitle>Cox, Rachel S.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">34</container>
+            <unittitle>Cox, Robert Hill</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">35</container>
+            <unittitle>Cunningham, Charles Seth</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">36</container>
+            <unittitle>Cunningham, Dudley H.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">37</container>
+            <unittitle>Cunningham, Mrs.Thomas D.,Jr. (Alice Louise Mills)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">38</container>
+            <unittitle>Cunningham, Thomas C. III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Curtis, Mrs. John A., III (Helen Bradley)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Cushing, Harry Cook, IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Daley, Sheila Bradley</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Darling, Holly Ann Havemeyer</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Darling, Mrs. Michael (Holly Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Darling, Michael, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Darling, Peter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Darling, Sean</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>David, Mrs. George A.L. (Barbara D. Osborn)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Davis, Alexandra</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Davis, Christopher William</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Davis, Elliot</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Davis, Jonathan Bostwick</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Dexter, Christopher</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Dexter, Mrs. Jack (Shirley Duckworth)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Deeter, Jenifer</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle>Deeter, Merritt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle>Dickerman, Mrs. William C. (Marion LaBau Browne)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle>Dodge, Arthur P.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle>Dodge, Cornelia Therese</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle>Dodge, Mrs. Washington (Helen Manning Brown)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Dooley, Mrs. John (Hope Williams Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Duckworth, Gillian A. (see Hunt, Mrs. Duncan, Box 6, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Duckworth, Shirley (see Dexter, Mrs. Jack, Box 4, File 15)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Duckworth, Sophia (see Schrachter, Mrs. Stanley, Box 10, File 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">23</container>
+            <unittitle>Dunn, Cassandra</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">24</container>
+            <unittitle>Dunn, Linda</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">25</container>
+            <unittitle>Dunn, Michael</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">26</container>
+            <unittitle>Dunn, Mrs. William T., Jr. (Laura M. Franklin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">27</container>
+            <unittitle>Earl, Mrs. N. Clarkson (Consuelo Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">28</container>
+            <unittitle>Earle, Frederick O.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">29</container>
+            <unittitle>Earle, Mrs. Morris (Virginia Osborn)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">30</container>
+            <unittitle>Earle, Morris, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">31</container>
+            <unittitle>Earle, Ralph Harding</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">32</container>
+            <unittitle>Earle, Walter K., II</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">33</container>
+            <unittitle>Ellsworth, Mrs. DeWelle (Margaret Laura Erickson)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">34</container>
+            <unittitle>Eltz, Mrs. Alexander (Nadine Szechenyi)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">35</container>
+            <unittitle>Eltz, Nicholas</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">36</container>
+            <unittitle>Eltz, Peter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">37</container>
+            <unittitle>Emery, Mrs. John (Adele Hammond)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">38</container>
+            <unittitle>Erickson, Aileen Osborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">38</container>
+            <unittitle>Erickson, Cecile Mary (see Mactaggart, Mrs. Sandy, Box 8, File 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">39</container>
+            <unittitle>Erickson, Josiah Macy, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">39</container>
+            <unittitle>Erickson, Margaret L. (see Ellsworth, Mrs. DeWelle, Box 4, File 33)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">40</container>
+            <unittitle>Erickson, Silvanus Osborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">41</container>
+            <unittitle>Fabbri, Mrs. Ernesto (Edith Shepard)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">41</container>
+            <unittitle>Fabbri Teresa (see McMurty, Mrs. George, Box 8, File 26)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">42</container>
+            <unittitle>Fairchild, Mrs. John Douglas (Emily S. Franklin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">42</container>
+            <unittitle>Field, Diana Sloane (see Koite, Mrs. John, Box 7, File 20)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">43</container>
+            <unittitle>Field, Frederick Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">44</container>
+            <unittitle>Field, John Osgood</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">44</container>
+            <unittitle>Field, Lila (see Jacob, Mrs. Harry, Box 6, File 22)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">44</container>
+            <unittitle>Field, Marjorie L. (see Wilde, Mrs. H. George, Box 13, File 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">44</container>
+            <unittitle>Field, Mary Augusta (see Jackson, Mrs. Henry, Box 6, File 20)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">45</container>
+            <unittitle>Field, Mrs. Michael (Alice L. Wilde)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">46</container>
+            <unittitle>Field, William Bradhurst Osgood, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">46</container>
+            <unittitle>Franklin, Emily S. (see Fairchild, Mrs. John D., Box 4, File 42)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">46</container>
+            <unittitle>Franklin, Laura M. (see Dunn, Mrs. William F., Box 4, File 26)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">47</container>
+            <unittitle>Gabaldoni, Barbara</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">48</container>
+            <unittitle>Galbadoni, Luis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">49</container>
+            <unittitle>Galbadoni, Mrs. Stephen (Dundeen Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">50</container>
+            <unittitle>Gamble, Mrs. David Samuel (Frederika Vanderbilt Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">51</container>
+            <unittitle>Gamble, David Samuel, Jr</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">52</container>
+            <unittitle>Gamble, Frederika G.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">53</container>
+            <unittitle>Goodman, Mrs. Benny (Alice Hammond)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">54</container>
+            <unittitle>Goodman, Benjie</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">55</container>
+            <unittitle>Goodman, Rachel (see Weisman, Mrs. Robert, Box 13, File 1)</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Hadik, Countess Bela (Alice Szchenyi)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Hadik, John Bela</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Hadik, Laszlo</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Hadley, Mrs. Hamilton (Emily Hammond Morris)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Hahn, Mrs. Henry (Nancy M. Wilde)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Hale, Helen (see Holmes, Mrs. Samuel, Box 5, File 53)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Hale, Herbert Dudley, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Hammond, Adele (see Emery, Mrs. John, Box 4, File 37)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Hammond, Alice (see Goodman, Mrs. Benny, Box 4, File 53)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Hamond, Jason</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Hammond, Mrs. John Henry (Emily Vanderbilt Sloane)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Hammond, John (&#38; Mrs. Esme O&#8221;Brien Sarnoff Hammond)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Hammond, John Paul</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Hammond, Rachel (see Breck, Mrs. Manley du Pont, Box 1, File 34)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Hanbury, Mrs. Evan Robert (Rosalind Jeanette Pease)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Hannon, Frances Gleason Browne</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>Hardie, Mrs. James A. (Elizabeth Lee Mills)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle>Harris, Mrs. George I.E. (Kate B. Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle>Harris, Mrs. Jones (Heidi Murray Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">16</container>
+            <unittitle>Harshman, Cecily Cooper</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle>Harshman, Edward Jay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">18</container>
+            <unittitle>Harshman, Mrs. Richard (Mary Ashley Cooper Hewitt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">19</container>
+            <unittitle>Harshman, Thomas Ringwood</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">20</container>
+            <unittitle>Hartwell, Ann Colby</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">21</container>
+            <unittitle>Hartwell, Charlotte M.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">22</container>
+            <unittitle>Hartwell, Ellen</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">23</container>
+            <unittitle>Hartwell, Mrs. Samuel A., Jr. (Anne C. Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">24</container>
+            <unittitle>Hartwell, Samuel A., III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">25</container>
+            <unittitle>Hatton, Sir Christopher Denys Stormont Finch-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">25</container>
+            <unittitle>Hatton, Cynthia Lyon Finch- (see Murphy, Mrs. Robert, Box 9, File 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">26</container>
+            <unittitle>Hatton, Robin Heneage Finch-</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">27</container>
+            <unittitle>Hayne, Mrs. Gale Chamber Lain Field</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">28</container>
+            <unittitle>Headley, Mrs. George (Barbara Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">29</container>
+            <unittitle>Heddens, Mrs. Kimber J. (Cornelia Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">30</container>
+            <unittitle>Henry, Mrs. Barbara (Barbara Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">31</container>
+            <unittitle>Henry, Billy</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">32</container>
+            <unittitle>Henry, Eric</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">32</container>
+            <unittitle>Henry, Gertrude Whitney (see Conner, Mrs. McCauley, Box 3, File 21)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">33</container>
+            <unittitle>Henry, Linda</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">34</container>
+            <unittitle>Henry, William Barklie</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">35</container>
+            <unittitle>Hewitt, Andrew</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">36</container>
+            <unittitle>Hewitt, Edward Ringwood, II</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">37</container>
+            <unittitle>Hewitt, James</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">38</container>
+            <unittitle>Hewitt, Katherine</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">39</container>
+            <unittitle>Hewitt, Louise</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">39</container>
+            <unittitle>Hewitt, Mary Ashley Cooper (see Harshman, Mrs. Richard, Box 5, File 18)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">40</container>
+            <unittitle>Hewitt, Peter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">41</container>
+            <unittitle>Higinbotham, Dr. Normal L.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">42</container>
+            <unittitle>Holmes, Mrs. Samuel (Helen Hale)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">43</container>
+            <unittitle>Hornblower, Mrs. Jonathan M. (Alexandra C. Tower)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">44</container>
+            <unittitle>Houston, Mrs. Frederic Kidder (Marie Hayes Sturges)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Houston, Thomas Rush</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Houston, Virginia Taylor</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Houston, Mrs. William</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Howat, Anne Headley</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Humes, Mrs. John Portner, Jr. (Susan Secor)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Hunt, David</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>Hunt, Mrs. Duncan (Gillian Alison Duckworth)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Hunt, James</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Hunt, Richard</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>Hurd, Victoria Marie</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Hutton, Consuelo Vanderbilt (see Seherr-Thoss, Mrs. Henry, Box 10, File 35)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Hutton, Linda F.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">12</container>
+            <unittitle>Hutton, Muriel Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">13</container>
+            <unittitle>Hutton, Mrs. William Langdon (and Mr. Hutton) (Virginia C. Smith)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">14</container>
+            <unittitle>Irving, Duncan Duer</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">15</container>
+            <unittitle>Irving, Fiona</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">16</container>
+            <unittitle>Irving, Macculloch Miller</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">17</container>
+            <unittitle>Irving, Mrs. Michael Henry (and Mr. Irving) (Flora Miller)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">18</container>
+            <unittitle>Irving, Michelle Mann</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">18</container>
+            <unittitle>Jackson, Barbara (see Burnes, Mrs. Kennett, Box 2, File 25)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">19</container>
+            <unittitle>Jackson, Frederick W.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">20</container>
+            <unittitle>Jackson, Mrs. Henry B. (Mary Augusta Field)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">20</container>
+            <unittitle>Jackson, Marjorie (see Bard, Mrs. John, Box 1, File 15)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">21</container>
+            <unittitle>Jackson, Thomas R.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">22</container>
+            <unittitle>Jacob, Mrs. Harry (Lila Field)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">23</container>
+            <unittitle>Judson, Consuelo Sarah Russell</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">24</container>
+            <unittitle>Keith, Mrs. Jonathan C. (Helen Ellis Paine)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">25</container>
+            <unittitle>Ketcham, Arthur Collins, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">26</container>
+            <unittitle>Ketcham, Arthur Collins, IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">27</container>
+            <unittitle>Ketcham, Christine Wilson</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">28</container>
+            <unittitle>Ketcham, David Dunham</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">29</container>
+            <unittitle>Ketcham, Fred Todd</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">30</container>
+            <unittitle>Ketcham, Helena Campbell</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">31</container>
+            <unittitle>Ketcham, J. Simpson Dean</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">32</container>
+            <unittitle>Ketcham, James Bonright</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">33</container>
+            <unittitle>Ketcham, Mrs. William Treadwell (Jean N. Long)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">34</container>
+            <unittitle>Ketcham, Mable Dunham</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">35</container>
+            <unittitle>Ketcham, Peter Titus</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Ketcham, Russel D.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Ketcham, Russel D., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Ketcham, Sally</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Ketcham, William Kemble</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Ketcham, William Treadwell, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Kiernan, Paul Lawrence (born Gustav Kissel Kiernan)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>King, Herbert Thorn, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>Kinnan, Alex P.W.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>Kirkland, Mrs. David (Lila Wilmerding)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>Kissel, Abbey T. (see Starr, Mrs. Louis, Box 10, File 42)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Kissel, Dorothy (see Sturges, Mrs. Edwin, Box 11, File 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Kissel, Frank A.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Kissel, Gertrude (see Marckwald, Mrs. Albert H. III, Box 8, File 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>Kissel, Gertrude F.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>Kissel, John D.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>Kissel, Louise</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle>Kissel, Michael C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle>Kissel, Peter F. F.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>Kissel, Peter F. F., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle>Kissel, W. Thorn, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">18</container>
+            <unittitle>Kissel, W. Thorn, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">19</container>
+            <unittitle>Klauber, Mrs. George Thomas (Leith Speiden)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">20</container>
+            <unittitle>Koite, Mrs. John K. (Diana Sloane Field)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">21</container>
+            <unittitle>Laughton, Mrs. Anthony (Barbara Clare Bosanquet)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">21</container>
+            <unittitle>Lawrence, Adele (see Auchincloss, Mrs. Louis, Box 1, File 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">22</container>
+            <unittitle>Lawrence, Mrs. Blake (Sheila Burden)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">22</container>
+            <unittitle>Lawrence, Susan (see Winchester, Mrs. John, Box 13, File 20)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">23</container>
+            <unittitle>LeBoutillier, John</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">24</container>
+            <unittitle>LeBoutillier, Pamela</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">25</container>
+            <unittitle>LeBoutillier, Mrs. Thomas (Pamela Tower)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">26</container>
+            <unittitle>Lehman, Mrs. Orin (Wendy Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">27</container>
+            <unittitle>Liddle, George Robert</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">28</container>
+            <unittitle>Liddle, Mrs. George Roy (Anne Elise Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">29</container>
+            <unittitle>Liddle, John Jay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">30</container>
+            <unittitle>Liddle, Marshall Bayard</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">31</container>
+            <unittitle>Liddle, Susan Elizabeth</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">32</container>
+            <unittitle>Livingston, John Morgan</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">33</container>
+            <unittitle>Loebs, Mrs. Richard G. (Edith Safe)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">33</container>
+            <unittitle>Long, Jean N. (see Ketcham, Mrs. William T., Box 6, File 33))</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">34</container>
+            <unittitle>Lowman, Mrs. Lawrence (Cathleen Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">35</container>
+            <unittitle>Lutz, Mrs. Pierre (Nancy M. Whitney)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Mackay, James Jonathan Thorn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>Mackay, Kenneth Peter Lyle (Viscount of Glenapp)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>Mackay, Lucinda Louise</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Mactaggert, Mrs. Sandy A. (Cecile Mary Erickson)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Marckwald, Mrs. Albert H., III (Gertrude F. Kissel)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Marlor, Charles</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>Marlor, Mrs. Henry S. (Mildred Ward)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>Marlor, Henry S., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>Marlor, James</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>Marlor, Linda</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">11</container>
+            <unittitle>Mauran, Mrs. Duncan Hunter (Louise K. S. Safe)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">12</container>
+            <unittitle>Mauran, Hope</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">13</container>
+            <unittitle>Mauran, Louise Safe</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">14</container>
+            <unittitle>McCain, Charles S., III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">15</container>
+            <unittitle>McCain, Claudia V.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">16</container>
+            <unittitle>McCain, H. Davis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">17</container>
+            <unittitle>McClellan, Mrs. John (Rosalind Brown)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">18</container>
+            <unittitle>McClenahan, Barbara Leith</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">19</container>
+            <unittitle>McClenahan, Douglas S.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">19</container>
+            <unittitle>McClenahan, Lorna (see Anderson, Mrs. Lorna, Box 1, File 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">20</container>
+            <unittitle>McClenahan, Richard Lee, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">21</container>
+            <unittitle>McConnell, Mrs. Neil (Serena Mary Churchill Russell)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">22</container>
+            <unittitle>McConnell, Electra Bostwick</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">23</container>
+            <unittitle>McDowell, Mrs. Fletcher H. (Electra Bostwick)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">24</container>
+            <unittitle>McDowell, Laura</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">25</container>
+            <unittitle>McDowell, Linn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">26</container>
+            <unittitle>McMurtry, Mrs. George G. (Teresa Fabbri)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">27</container>
+            <unittitle>Meades, Mrs. Harry (Gertrude Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">28</container>
+            <unittitle>Meades, Jamie</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">29</container>
+            <unittitle>Meades, Michael Henry</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">29</container>
+            <unittitle>Miller, Flora (see Irving, Mrs. Michael, Box 6, File 17)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">30</container>
+            <unittitle>Miller, Maria- Flora</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">31</container>
+            <unittitle>Miller, Mrs. George Macculloch (Flora Whitney)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">32</container>
+            <unittitle>Miller, Leverett Saltonstall</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">33</container>
+            <unittitle>Miller, Mrs. Paul L. (Adele Olyphant)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">34</container>
+            <unittitle>Miller, Paul Lukens, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">35</container>
+            <unittitle>Milliken, Christopher C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">36</container>
+            <unittitle>Milliken, Mrs. Minot K. (Edith F. Clark)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">37</container>
+            <unittitle>Milliken, Minot K., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">37</container>
+            <unittitle>Mills, Alice Louise (see Cunningham, Mrs. Thomas D., Jr., Box 3, File 37)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">38</container>
+            <unittitle>Mills, Bradford Alan</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">39</container>
+            <unittitle>Mills, Bradford</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">40</container>
+            <unittitle>Mills, Mrs. Dudley H. (Louise Morris)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">40</container>
+            <unittitle>Mills, Elizabeth Lee (see Hardie, Mrs. James, Box 5, File 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">41</container>
+            <unittitle>Mills, Gordon Lawrence</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">41</container>
+            <unittitle>Mills, Harriet L. (see Petty, Mrs. John, Box 9, File 40)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">42</container>
+            <unittitle>Minton, Mrs. Tyree (Gail Rockwell)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">43</container>
+            <unittitle>Montgomery, Mrs. Horace C. (Margery L. Osborn)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">44</container>
+            <unittitle>Morgan, Alida</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Moore, Valerie (see Shields, Mrs. James, Box 10, File 36)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Morgan, Mrs. Edward P. (Katharine B. Sohier)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Morgan, Pamela</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Morris, Alice V. (see Sturges, Mrs. Walter, Box 11, File 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>Morris, Dave Hennen, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>Morris, Dave Hennen, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>Morris, Emily Hammond (see Hadley, Mrs. Hamilton, Box 5, File 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Morris, Lawrence (and Mrs. Ruth Lawrence)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Morris, Louise (see Mills, Mrs. Dudley, Box 8, File 40)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Morris, Marian (see Borgfeldt, Mrs. Merton, Box 1, File 26)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Morris, Ralph Noel</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Morris, Susan Bliss (see Carter, Mrs. Fred, Box 2, File 31)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Mott-Trille, Mrs. Frank (Deborah Lucy Bosanquet)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>Muir, Mrs. Robert (Rosemary Spencer-Churchhill)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">9</container>
+            <unittitle>Murphy, Mrs. Robert J. (Cynthia Lyon Finch-Hatton)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">10</container>
+            <unittitle>Newburg, Mrs. Andre W. G. (Ellen F. Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">11</container>
+            <unittitle>Nordberg, Mrs. E. Wayne (Olivia L. Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">12</container>
+            <unittitle>Nuland, Mrs. James G., Jr. (Hope S. Safe)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">12</container>
+            <unittitle>Olyphant, Adele (see Miller, Mrs. Paul, Box 8, File 33)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">13</container>
+            <unittitle>Olyphant, Bevan</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">14</container>
+            <unittitle>Olyphant, David</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">15</container>
+            <unittitle>Osborn, Anne Mary</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">15</container>
+            <unittitle>Osborn, Alice Dodge (see, Brown, Mrs. Newell, Box 1, File 42)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">15</container>
+            <unittitle>Osborn, Barbara D.(see David, Mrs. George A.L., Box 4, File 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">16</container>
+            <unittitle>Osborn, Charles</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">17</container>
+            <unittitle>Osborn, Cynthia</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">18</container>
+            <unittitle>Osborn, Cynthia Sloan</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">19</container>
+            <unittitle>Osborn, Earl Dodge</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">20</container>
+            <unittitle>Osborn, Mrs. Frederick H. (Margaret L. Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">21</container>
+            <unittitle>Osborn, Frederick Henry, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">22</container>
+            <unittitle>Osborn, Frederick Henry, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">23</container>
+            <unittitle>Osborn, James Duane Pell</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">24</container>
+            <unittitle>Osborn, Joseph</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">25</container>
+            <unittitle>Osborn, Dr. John Jay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">26</container>
+            <unittitle>Osborn, John Jay, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">27</container>
+            <unittitle>Osborn, Maria LaGrange</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">27</container>
+            <unittitle>Osborn, Margery L. (see Montgomery, Mrs. Horace, Box 8, File 43)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">28</container>
+            <unittitle>Osborn, Oliver Strong</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">29</container>
+            <unittitle>Osborn, William Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">29</container>
+            <unittitle>Osborn, Virginia S. (see Earle, Mrs. Morris, Box 4, File 29)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">30</container>
+            <unittitle>Paine, Helen E. (see Keith, Mrs. Jonathan, Box 6, File 24)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">30</container>
+            <unittitle>Pate, Mrs. Wallace F. (Lucille M. Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">31</container>
+            <unittitle>Payson, Mrs. Charles S. (Joan Whitney-not a descendant)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">31</container>
+            <unittitle>Pease, Alice T. (see Roe, Mrs. Thomas, Box 10, File 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">32</container>
+            <unittitle>Pease, Carolyn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">33</container>
+            <unittitle>Pease, Derrick A.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">34</container>
+            <unittitle>Pease, Nicola</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">35</container>
+            <unittitle>Pease, Richard Peter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">36</container>
+            <unittitle>Pease, Sir Richard Thorn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">36</container>
+            <unittitle>Pease, Rosalind J. (see Hanbury, Mrs. Evan R., Box 5, File 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">37</container>
+            <unittitle>Perkins, Mrs. Francis, Jr. (Edith Bradley)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">38</container>
+            <unittitle>Perlberg, Mrs. Edward B. (Hope Brown)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">39</container>
+            <unittitle>Peterson, Mrs. A. Talbot (Gladys Szechenyi)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">40</container>
+            <unittitle>Petty, Mrs. John R. (Harriet Lee Mills)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">41</container>
+            <unittitle>Phillips, Mrs. David Gee (Mary O. Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">42</container>
+            <unittitle>Porter, Mrs. George, Jr. (Sally Ann Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">43</container>
+            <unittitle>Porter, Mrs. William S. (Susan D. Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">43</container>
+            <unittitle>Post, Margery L. (see Bruguire, Mrs. Louis, Box 2, File 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">44</container>
+            <unittitle>Powell, Mrs. Arthur G. (Barbara Jay Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">45</container>
+            <unittitle>Pulitzer, Ralph, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">46</container>
+            <unittitle>Pulitzer, Seward Webb</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>Rand, John F.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Rand, Laura M.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Robe, Mrs. Robert S. (Lucy B. Barry)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Roberts, Cornelia Carter (see Coudenhove-Kalgeri, Countess Hans</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Heinrich, Box 3, File 31)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Roberts, Gladys (see Thomas, Mrs. Landon, Box 11, File 12)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>Roberts, Eugene Bowie (widower of Cornelia Szechenyi)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">5</container>
+            <unittitle>Roberts, Eugene Bowie, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">5</container>
+            <unittitle>Rockwell, Gail (see Minton, Mrs. Tyree, Box 8, File 42)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">5</container>
+            <unittitle>Rockwell, Lynn (see Salgo, Mrs. Harvey, Box 10, File 12)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">6</container>
+            <unittitle>Roe, Mrs. Thomas (Alice Thorn Pease)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">7</container>
+            <unittitle>Rossen, Mrs. Roger (Katherine Mary Bosanquet)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">8</container>
+            <unittitle>Roubanis, Mrs. Theodor (Sarah Consuelo Spenser-Churchill)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">8</container>
+            <unittitle>Russell, Alexandra Brenda (see Birch, Mrs. Timothy, Box 1, File 24)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">9</container>
+            <unittitle>Russell, Jacqueline</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">9</container>
+            <unittitle>Russell, Serena Mary Spenser-Churchill (see McConnell, Mrs. Neil, Box 8, File 21)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">9</container>
+            <unittitle>Safe, Edith (see Loebs, Mrs. Richard, Box 7, File 33)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">10</container>
+            <unittitle>Safe, Edith</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">11</container>
+            <unittitle>Safe, Elizabeth (see Bitting, Mrs. Jonathan, Box 1, File 25)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">11</container>
+            <unittitle>Safe, Hope (see Nuland, Mrs. James, Jr., Box 9, File 12)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">11</container>
+            <unittitle>Safe, Kenneth Shaw, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">11</container>
+            <unittitle>Safe, Louise (see Mauran, Mrs. Duncan, Box 8, File 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">12</container>
+            <unittitle>Salgo, Mrs. Harvey (Lynn Rockwell)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">13</container>
+            <unittitle>Schachter, Mrs. Stanley (Sophia Duckworth)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">13</container>
+            <unittitle>Schieffelin, Anne Elise (see Liddle, Mrs. George, Box 7, File 28)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">13</container>
+            <unittitle>Schieffelin, Anne Louise (see Bradley, Mrs. Cameron, Box 1, File 30)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">13</container>
+            <unittitle>Schieffelin, Barbara (see Bosanquet, Mrs. Charles, Box 1, File 27)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">13</container>
+            <unittitle>Schieffelin, Barbara J. (see Powell, Mrs. Arthur, Box 9, File 44)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">14</container>
+            <unittitle>Schieffelin, Bayard</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">15</container>
+            <unittitle>Schieffelin, Edward Loomis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">16</container>
+            <unittitle>Schieffelin, Eleanor Jay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">17</container>
+            <unittitle>Schieffelin, Mrs. Elizabeth (divorced from Elliott F. Schieffelin)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">18</container>
+            <unittitle>Schieffelin, Elliott</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">19</container>
+            <unittitle>Schieffelin, Henry</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">19</container>
+            <unittitle>Schieffelin, Hope W. (see Dooley, Mrs. John, Box 4, File 22)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">20</container>
+            <unittitle>Schieffelin, James Ross</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">21</container>
+            <unittitle>Schieffelin, John Jay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">22</container>
+            <unittitle>Schieffelin, John Jay, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">23</container>
+            <unittitle>Schieffelin, Joseph Beggs</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">23</container>
+            <unittitle>Schieffelin, Margaret L. (see Osborn, Mrs. Frederick, Box 9, File 20)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">23</container>
+            <unittitle>Schieffelin, Mary Jay (see Brown, Mrs. Charles, Box 1, File 37)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">24</container>
+            <unittitle>Schieffelin, Nancy J.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">24</container>
+            <unittitle>Schieffelin, Olivia (see Nordberg, Mrs. E. Wayne, Box 9, File 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">25</container>
+            <unittitle>Schieffelin, Peter J.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">25</container>
+            <unittitle>Schieffelin, Sally Ann (see Porter, Mrs. George, Jr., Box 9, File 42)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">26</container>
+            <unittitle>Schieffelin, William Jay, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">27</container>
+            <unittitle>Schieffelin, William Jay, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">28</container>
+            <unittitle>Scribner, Blair Sunderland</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">29</container>
+            <unittitle>Scribner, Mrs. Charles, Jr. (Dorothy Jean Sunderland)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">30</container>
+            <unittitle>Scribner, Charles, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">31</container>
+            <unittitle>Scribner, John</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">32</container>
+            <unittitle>Secor, Elizabeth</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">33</container>
+            <unittitle>Secor, Nicholas Tower</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">33</container>
+            <unittitle>Secor, Susan (see Humes, Mrs. Portner, Jr., Box 6, File 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">34</container>
+            <unittitle>Secor, Timothy</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">35</container>
+            <unittitle>Seherr-Thoss, Mrs. Henry W. (Consuelo Vanderbilt Hutton)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">35</container>
+            <unittitle>Shepard, Edith (see Fabbri, Mrs. Ernesto, Box 4, File 41)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">36</container>
+            <unittitle>Shields, Mrs. James G. (Valerie Moore)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">37</container>
+            <unittitle>Shrady, Henry M. II</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">37</container>
+            <unittitle>Sloane, Emily Vanderbilt (see Hammond, Mrs. John Henry, Box 5, File 8)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">37</container>
+            <unittitle>Smith, Iris A. (see Christ, Mrs. Donald, Box 3, File 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">37</container>
+            <unittitle>Smith, Virginia (see Hutton, Mrs. William, Box 6, File 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">38</container>
+            <unittitle>Sohier, Elaine Denegre</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">39</container>
+            <unittitle>Sohier, Katharine Sage</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">39</container>
+            <unittitle>Sohier, Katherine Burden (see Morgan, Mrs. Edward, Box 9, File 1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">39</container>
+            <unittitle>Speiden Leith (see Klauber, Mrs. George, Box 7, File 19)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">40</container>
+            <unittitle>Spencer, Mrs. Richard (Alice Osborn Brown)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">41</container>
+            <unittitle>Starr, Dilwyn T.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">41</container>
+            <unittitle>Starr, Francis A. (see Todd, Mrs. John, II, Box 11, File 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">42</container>
+            <unittitle>Starr, Mrs. Louis (Abbey T. Kissel)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">42</container>
+            <unittitle>Stevens, Grace B. (see Sutton, Mrs. Edmond, Box 11, File 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">43</container>
+            <unittitle>Stevens, Robert L. (widower of Grace Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">44</container>
+            <unittitle>Stokowski, Christopher C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">45</container>
+            <unittitle>Stokowski, Leopold Stanislanovicz</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">46</container>
+            <unittitle>Stur, Mrs. Louis (Gail Whitney)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">47</container>
+            <unittitle>Sturges, David Morris</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">48</container>
+            <unittitle>Sturges, Lawrence Morris</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">49</container>
+            <unittitle>Sturges, Margaret Louisa</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">49</container>
+            <unittitle>Sturges, Marie Hayes (see Houston, Mrs. Frederick, Box 5, File 44)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>Sturges, Peter C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>Sturges, Thomas Rush</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>Sturges, Mrs. Walter Knight (Alice V. Morris)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>Sturges, Mrs. Edwin S.S. (Dorothy Kissel)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Sturges, Rev. Edwin S.S., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Sunderland, Dorothy J. (see Scribner, Mrs. Charles, Jr., Box 10, File 29)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">6</container>
+            <unittitle>Sutton, Mrs. Edmond H. (Grace Bayard Stevens)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">7</container>
+            <unittitle>Szapary, Countess Anthony (Sylvia Szechenyi)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">8</container>
+            <unittitle>Szapary, Gladys Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Szapary, Paul Leslie</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Szechenyi, Alice (see Hadik, Countess Bela, Box 5, File 1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Szechenyi, Gladys (see Peterson, Mrs. A. Talbot, Box 9, File 39)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Szechenyi, Nadine (see Eltz, Mrs. Alexander, Box 4, File 34)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Szechenyi, Sylvia (see Szapary, Countess Anthony, Box 11, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">10</container>
+            <unittitle>Tetrault, Mrs. Jacques (Hope Canfield)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">11</container>
+            <unittitle>Thacher, Mrs. Thomas Day, II (Frances Fell Tower)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">12</container>
+            <unittitle>Thomas Mrs. Landon, Jr. (Gladys Roberts)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">13</container>
+            <unittitle>Todd, Mrs. John R., II (Frances A. Starr)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">13</container>
+            <unittitle>Tower, Alexandra C. (see Hornblower, Mrs. Jonathan, Box 5, File 43)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">13</container>
+            <unittitle>Tower, Frances (see Thacher, Mrs. John, II, Box 11, File 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">14</container>
+            <unittitle>Tower, Harry Payne</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">14</container>
+            <unittitle>Tower, Pamela (see LeBoutillier, Mrs. Thomas, Box 7, File 25)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">15</container>
+            <unittitle>Tower, Roderick</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">16</container>
+            <unittitle>Tower, Whitney</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">17</container>
+            <unittitle>Tower, Whitney, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">17</container>
+            <unittitle>Twombly, Florence Vanderbilt (see Burden, Mrs. William A.M., Box 2, File 18)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">18</container>
+            <unittitle>Vanderbilt, Alfred Gwynne, II</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">19</container>
+            <unittitle>Vanderbilt, Alfred Gwynne, Jr. (the 3rd of this name)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">19</container>
+            <unittitle>Vanderbilt, Alice C. (see Hartwell, Mrs. Samuel, Jr., Box 5, File 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vanderbilt, Mrs. Anne (Colby)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vanderbilt, Barbara (see Headley, Mrs. George, Box 5, File 28)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vanderbilt, Cathleen (see Lowman, Mrs. Lawrence, Box 7, File 34)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vanderbilt, Consuelo (see Balsan, Mrs. Jacques, Box 1, File 14)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vanderbilt, Consuelo (see Earl, Mrs. N. Clarkson, Box 4, File 27)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vanderbilt, Cornelia S. (see Bulkelley-Johnson, Mrs. John, Box 2, File 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vanderbilt, Cornelia (see Heddens, Mrs. Kimber J., Box 5, File 29)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">21</container>
+            <unittitle>Vanderbilt, Cornelius</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">22</container>
+            <unittitle>Vanderbilt, Cornelius, IV</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">22</container>
+            <unittitle>Vanderbilt, Ellen (see Newburg, Mrs. Andre, Box 9, File 10)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">22</container>
+            <unittitle>Vanderbilt, Emily (see Wade, Mrs. Jeptha, Box 12, File 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">22</container>
+            <unittitle>Vanderbilt, Emily Thorn (see White, Mrs. Henry, Box 13, File 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">23</container>
+            <unittitle>Vanderbilt, Frederick W.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">24</container>
+            <unittitle>Vanderbilt, Mrs. George, III (Louise Mitchell)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">24</container>
+            <unittitle>Vanderbilt, Gloria Laura Morgan (see Cooper, Mrs. Wyatt, Box 3, File 29)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">25</container>
+            <unittitle>Vanderbilt, Harold Stirling (and Mrs. Gertrude Conaway Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">25</container>
+            <unittitle>Vanderbilt, Heidi Murray (see Harris, Mrs. Jones, Box 5, File 15)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">25</container>
+            <unittitle>Vanderbilt, Lucille M. (see Pate, Mrs. Wallace, Box 9, File 30)</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>Vanderbilt, Michael Daggett</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>Vanderbilt, Muriel (see Adams, Mrs. John, Box 1, File 1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Vanderbilt, Nicholas Harvey</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Vanderbilt, Victoria Emerson</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Vanderbilt, Wendy (see Lehman, Mrs. Orin, Box 7, File 26)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>Vanderbilt, William Henry (File 1 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>Vanderbilt, William Henry (File 2 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>Vanderbilt, William Henry (File 3 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>Vanderbilt, William Henry, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>Vanderbilt, William Kitman</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>Van Ingen, Herbert P.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>Van Ingen, Serena Vanderbilt (see Costin, Mrs. Brackenridge, Box 3, File 30)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">10</container>
+            <unittitle>Von Heinlein, William Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">11</container>
+            <unittitle>Wade, Mrs. Jeptha H. (Emily Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">12</container>
+            <unittitle>Wade, William Garretson</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">13</container>
+            <unittitle>Walken, Bradford H. (stepson of James A. Burden)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">14</container>
+            <unittitle>Walken, David H. (stepson of James A. Burden)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">15</container>
+            <unittitle>Wallace, Anna Marie</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">16</container>
+            <unittitle>Ward, Alexander</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">16</container>
+            <unittitle>Ward, Mildred (see Marlor, Mrs. Henry, Box 8, File 7)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">17</container>
+            <unittitle>Ward, Vanderbilt B.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">17</container>
+            <unittitle>Ward, Wendy (see Wise, Mrs. Henry, Box 13, File 21)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">18</container>
+            <unittitle>Waterhouse, Mrs. Charles (Lady Caroline Spenser-Churchill)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">19</container>
+            <unittitle>Webb, Alex S.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">20</container>
+            <unittitle>Webb, Angela</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">20</container>
+            <unittitle>Webb, Barbara (see Henry, Mrs. Barbara, Box 5, File 30)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">21</container>
+            <unittitle>Webb, Derick O.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">22</container>
+            <unittitle>Webb, Derick Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">22</container>
+            <unittitle>Webb, Dundeen (see Galbadoni, Mrs. Stephen, Box 4, File 49)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">23</container>
+            <unittitle>Webb, Edward Wheeler</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">24</container>
+            <unittitle>Webb, Electra</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">24</container>
+            <unittitle>Webb, Electra (see Bostwick, Mrs. Dunbar W. Box 1, File 29)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">25</container>
+            <unittitle>Webb, Eliza</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">26</container>
+            <unittitle>Webb, Elizabeth</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">26</container>
+            <unittitle>Webb, Frederika V. (see Gamble, Mrs. David S., Box 4, File 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">26</container>
+            <unittitle>Webb, Gertrude (see Meades, Mrs. Harry, Box 8, File 27)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">27</container>
+            <unittitle>Webb, Harry</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">27</container>
+            <unittitle>Webb, Holly (see Darling, Mrs. Michael, Box 4, File 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">28</container>
+            <unittitle>Webb, Jacob Louis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">29</container>
+            <unittitle>Webb, James Watson, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">29</container>
+            <unittitle>Webb, Kate (see Harris, Mrs. George, Box 5, File 14)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">29</container>
+            <unittitle>Webb, Lila Vanderbilt (see Wilmerding, Mrs. John, Box 13, File 18)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">29</container>
+            <unittitle>Webb, Laura Havemeyer (see Brown, Mrs. Archibald M., Box 1, File 36)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">30</container>
+            <unittitle>Webb, Marshall C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">30</container>
+            <unittitle>Webb, Mary O. (see Phillips, Mrs. David, Box 9, File 41)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">31</container>
+            <unittitle>Webb, Richard Humphrey</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">32</container>
+            <unittitle>Webb, Robert M.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">33</container>
+            <unittitle>Webb, Samuel Blatchley</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">34</container>
+            <unittitle>Webb, Samuel Blatchley, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">35</container>
+            <unittitle>Webb, Samuel Watson</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">35</container>
+            <unittitle>Webb, Susan D. (see Porter, Mrs. William, Box 9, File 43)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">36</container>
+            <unittitle>Webb, Mrs. Vanderbilt (widow of Vanderbilt H. Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">37</container>
+            <unittitle>Webb, William Gaynor</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">38</container>
+            <unittitle>Webb, William Osborn</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">39</container>
+            <unittitle>Webb, Mrs. William Seward, II (widow of William Seward Webb, II)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">40</container>
+            <unittitle>Webb, William Seward, III</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">41</container>
+            <unittitle>Webb, William Seward, IV</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">1</container>
+            <unittitle>Weisman, Mrs. Robert (Rachel Goodman)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>White, Mrs. Henry (Emily Thorn Vanderbilt)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>Whitney, C. Scollay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>Whitney, C. Searle</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">5</container>
+            <unittitle>Whitney, Cornelius Vanderbilt (File 1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>Whitney, Cornelius Vanderbilt (File 2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>Whitney, Flora (see Miller, Mrs. George, Box 8, File 31)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>Whitney, Gail (see Stur, Mrs. Louis, Box 10, File 46)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">7</container>
+            <unittitle>Whitney, Gifford C.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">8</container>
+            <unittitle>Whitney, Harry Payne, II</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">9</container>
+            <unittitle>Whitney, Heather</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">9</container>
+            <unittitle>Whitney, Joan (see Payson, Mrs. Charles, Box 9, File 31)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">10</container>
+            <unittitle>Whitney, John Hay</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">10</container>
+            <unittitle>Whitney, Nancy (see Lutz, Mrs. Pierre, Box 7, File 35)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">11</container>
+            <unittitle>Whitney, Nancy M.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">11</container>
+            <unittitle>Wilde, Alice L. (see Field, Mrs. Michael, Box 4, File 45)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">12</container>
+            <unittitle>Wilde, G. William</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">13</container>
+            <unittitle>Wilde, Mrs. H. George (Marjorie Lila Field)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">13</container>
+            <unittitle>Wilde, Lila Sloan (see Berle, Mrs. Peter A.A., Box 1, File 21)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">13</container>
+            <unittitle>Wilde, Mary Kileen (see Carswell, Mrs. Robert, Box 2, File 28)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">13</container>
+            <unittitle>Wilde, Nancy M. (see Hahn, Mrs. Henry, Box 5, File 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">14</container>
+            <unittitle>Wilde, Peter Osgood</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">15</container>
+            <unittitle>Wilde, Peter Osgood, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">16</container>
+            <unittitle>Wilde, Victoria Jean</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">17</container>
+            <unittitle>Wilmerding, James W. W.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">18</container>
+            <unittitle>Wilmerding, Mrs. John Currie (Lila Vanderbilt Webb)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">19</container>
+            <unittitle>Wilmerding, John Currie, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">19</container>
+            <unittitle>Wilmerding, Lila (see Kirkland, Mrs. David, Box 7, File 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">20</container>
+            <unittitle>Winchester, Mrs. John F. (Susan Lawrence)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">21</container>
+            <unittitle>Wise, Mrs. Henry A. III (Wendy Ward)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">22</container>
+            <unittitle>Wood, Mrs. L. Phillips (Elliot Bostwick)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">23</container>
+            <unittitle>Wood, Michael Dunbar</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">24</container>
+            <unittitle>Wood, Treva</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">25</container>
+            <unittitle>Catharine Juliette Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">26</container>
+            <unittitle>Emily Elvira Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">27</container>
+            <unittitle>Ethelinda Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">28</container>
+            <unittitle>Maria Louise Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">29</container>
+            <unittitle>Mary Alicia Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">30</container>
+            <unittitle>Phoebe Jane Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">31</container>
+            <unittitle>Sophia Johnson Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">32</container>
+            <unittitle>William Henry Vanderbilt Branch</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">33</container>
+            <unittitle>Childless Children of Commodore Cornelius Vanderbilt</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series II: Vanderbilt University Centennial</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">1</container>
+            <unittitle>Vanderbilt Family Questionnaires, A-C</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">2</container>
+            <unittitle>Vanderbilt Family Questionnaires, D-J</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">3</container>
+            <unittitle>Vanderbilt Family Questionnaires, K-M</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">4</container>
+            <unittitle>Vanderbilt Family Questionnaires, N-S</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">5</container>
+            <unittitle>Vanderbilt Family Questionnaires, T-W</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">6</container>
+            <unittitle>Address Lists Prepared for William H. Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">7</container>
+            <unittitle>Form Letters Sent to Vanderbilt Family Members</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">8</container>
+            <unittitle>Publicity and Articles about the Vanderbilt Centennial</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">9</container>
+            <unittitle>Project Administration</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Responses to William H. Vanderbilt, re: Reunion (1 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">11</container>
+            <unittitle>Responses to William H. Vanderbilt, re: Reunion (2 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">12</container>
+            <unittitle>Responses to William H. Vanderbilt, re: Reunion (3 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">13</container>
+            <unittitle>Responses to William H. Vanderbilt, re: Reunion (4 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">14</container>
+            <unittitle>Responses to William H. Vanderbilt, re: Reunion (5 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">1</container>
+            <unittitle>Associates Program Mailing List</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">2</container>
+            <unittitle>Associates Program Roster</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">3</container>
+            <unittitle>Mailing Lists of Vanderbilt Descendants (1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">4</container>
+            <unittitle>Mailing Lists of Vanderbilt Descendants (2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">5</container>
+            <unittitle>Mailing Lists of Vanderbilt Descendants (3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">6</container>
+            <unittitle>Mailing Lists of Vanderbilt Descendants (4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">7</container>
+            <unittitle>List of Descendants Attending the Centennial</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">8</container>
+            <unittitle>Gifts from Vanderbilt Descendants to</unittitle>
+            <unitdate>July, 1972</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">9</container>
+            <unittitle>Samples of Mailings to Vanderbilt Descendants (1 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">10</container>
+            <unittitle>Samples of Mailings to Vanderbilt Descendants (2 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">1</container>
+            <unittitle>Samples of Mailings to Vanderbilt Descendants (3 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">2</container>
+            <unittitle>Vanderbilt Centennial Planning Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">3</container>
+            <unittitle>Vanderbilt Descendants Book---Drafts and Charts</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">4</container>
+            <unittitle>Vanderbilt Descendants Book---Draft Copy</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">5</container>
+            <unittitle>Vanderbilt Descendants Book---Master Copy and Index</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">6</container>
+            <unittitle>Vanderbilt Descendants Book</unittitle>
+            <unitdate>1972</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">7</container>
+            <unittitle>Vanderbilt Descendants Book---Publication Information</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">8</container>
+            <unittitle>Vanderbilt Centennial---Local Arrangements for Vanderbilt Descendants</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">9</container>
+            <unittitle>Vanderbilt University---Centennial of Founding</unittitle>
+            <unitdate>March 16-17, 1973</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">10</container>
+            <unittitle>Vanderbilt University---Centennial of Opening</unittitle>
+            <unitdate>October 3, 1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">1</container>
+            <unittitle>Two metal file boxes---Current (1972) Addresses for Vanderbilt Descendants</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series III: Research Materials</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">1</container>
+            <unittitle>Verley Archer Research Materials---General Research Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">2</container>
+            <unittitle>Verley Archer Research Materials---Memos, Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">3</container>
+            <unittitle>Vanderbilt Family Obituaries, Engagement, and Marriage Announcements</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">4</container>
+            <unittitle>Articles about Vanderbilt Family Members (1 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">5</container>
+            <unittitle>Articles about Vanderbilt Family Members (2 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">6</container>
+            <unittitle>Articles about Vanderbilt Family Members (3 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">7</container>
+            <unittitle>Vanderbilt Family Houses and Mausoleum</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">8</container>
+            <unittitle>Verley Archer&#8217;s Research</unittitle>
+            <unitdate>1977-80</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">9</container>
+            <unittitle>Verley Archer&#8217;s General Correspondence</unittitle>
+            <unitdate>1983-1984</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">1</container>
+            <unittitle>Verley Archer&#8217;s Research---General</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">2</container>
+            <unittitle>Verley Archer&#8217;s Research---Vanderbilt Family</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">3</container>
+            <unittitle>Research Notes</unittitle>
+            <unitdate>Aug. 28-31, 1972</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">4</container>
+            <unittitle>Additional Research Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">5</container>
+            <unittitle>Materials for Quotation</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">6</container>
+            <unittitle>Research---Mrs. William Astor (Caroline Schermerhorn)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">7</container>
+            <unittitle>Research---<emph render="italic">Pulitzer</emph>
+              by W.A. Swanberg</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">8</container>
+            <unittitle>Publications by Descendants of the Commodore or Their Spouses</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">9</container>
+            <unittitle>Publications About or Including Vanderbilts</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">10</container>
+            <unittitle>Foundations with Which Descendants of the Commodore Are Associated</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">11</container>
+            <unittitle>William K. Vanderbilt Museum, Centerport, Long Island, New York</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">12</container>
+            <unittitle>Vanderbilts Distantly Related But Not Descendants of the Commodore</unittitle>
+          </did>
+        </c02>
+
+        <c02 level="file">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">1</container>
+            <unittitle>Vanderbilt Descendants Book---updated</unittitle>
+            <unitdate>1980</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">2</container>
+            <unittitle>Vanderbilt Descendants Book---updated</unittitle>
+            <unitdate>1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">3</container>
+            <unittitle>History of Vanderbilt University by Edwin Mims</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">3</container>
+            <unittitle>Higinbotham: An Encyclopedic Genealogy, Vols. One and Two by Norman L. Higinbotham</unittitle>
+            <unitdate>(1970)</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
