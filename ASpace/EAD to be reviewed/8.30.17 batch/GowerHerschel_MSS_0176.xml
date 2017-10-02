@@ -1,2304 +1,2440 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Gower, Herschel Papers</titleproper>
-<titleproper>Finding Aid for the Herschel Gower Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2010</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Herschel Gower Papers</unittitle>
-<unitid>MSS.0176</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">7.51 linear feet</extent>
-</physdesc>
-<unitdate>2010</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>Herschel Gower, a native of Nashville, was born in 1919. He received his B.A. from Cumberland University in Lebanon, Tennessee and his master and doctorate degrees from Vanderbilt University. He spent 1954 - 1956 at the University of Edinburgh on a Fulbright Scholarship and has maintained a lifelong interest in Scottish culture and history.</p>
-<p>He began his teaching career at Vanderbilt in 1956 in the English department and was awarded the title Professor Emeritus before his retirement from Vanderbilt in 1985. He taught courses in the ballad, the lyric, and American literature.</p>
-<p>During his academic career he was a lecturer in the Vanderbilt in France study abroad program and at the University of Leeds for the Vanderbilt in England program.</p>
-<p>Professor Gower is the author and editor of a number of books including:</p>
-<p><emph render="italic">Pen and Sword: The Life and Journals of Randal W. McGavock (1959)</emph></p>
-<p><emph render="italic">The Sense of Fiction (1966)</emph></p>
-<p><emph render="italic">The Hawk&#8217;s Done Gone and Other Stories</emph> by Mildred Haun (ed. 1968)</p>
-<p><emph render="italic">Beersheba Springs: A History and a Celebration (1983)</emph></p>
-<p><emph render="italic">Faces in a Nashville Arcade (1983)</emph></p>
-<p><emph render="italic">Jeannie Robertson: Emergent Singer, Transformative Voice (1995)</emph></p>
-<p><emph render="italic">Charles Dahlgren of Natchez: The Civil War and Dynastic Decline (2002)</emph></p>
-<p>He has contributed articles and poems to scholarly publications, magazines, and newspapers, many with a focus on Tennessee history.</p>
-<p>At present he is a free-lance writer and lectures at the Athena Foundation, a non-profit organization, started by his wife Dona. They live in Dallas, Texas and have a home in Beersheba Springs, Tennessee.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>This collection is primarily comprised of 6.05 linear feet of manuscript materials, which include drafts of an unpublished novel with its title and text changes in various versions. The papers also include manuscripts of his novel <emph render="italic">Faces in a Nashville</emph> <emph render="italic">Arcade</emph> and of his biography of Charles Dahlgren, <emph render="italic">Charles Dahlgren of Natchez: The Civil War and Dynastic Decline.</emph></p>
-<p>Professor Gower was a friend of writer Mildred Haun and her literary executor. His work as an editor of her stories is represented in these papers.</p>
-<p>In addition there are articles and research notes and materials concerning Randal McGavock and his descendants, the Howell family and their descendants, and articles and books he wrote on the historic community of Beersheba Springs, Tennessee. There are subject files for his research on folklore, the D. Shelby Williams Trial which was used as background for his unpublished novel, and materials relating to poet John Crowe Ransom and author Peter Taylor.</p>
-<p>A collection of correspondence and newspaper articles on the Yeatman and Polk families and their family ties with Gustave Eiffel, builder of the Eiffel Tower are included with these papers. There are fourteen reel to reel and cassette tape recordings, many of them songs recorded by the Scottish singer Jeannie Robertson.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Cheney, Brainard and Frances Neel</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Davidson, Donald and Theresa</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Lytle, Andrew</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Ransom, John Crowe</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Wilson, Angus</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Beatty, Richmond C.; Cornell, Katharine F.; Ford, Jesse Hill; Moore, Mrs. Merrill; Ransom, Ellene; Rice, Cole Young; Taylor, Peter</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings by Gower</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle><emph render="bold"><emph render="italic">The Confessions of a Goo Goo Eater: An Odyssey of Nashville</emph> - a novel - typescript (early version of <emph render="italic">Faces in a Nashville Arcade</emph>)</emph></unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Title page - page 48</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Pages 49 - 102</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Pages 103 - 161</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Pages 162 - 177</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Pages178 - 209</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Pages 210 - 227 and postscript</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Faces in a Nashville Arcade</emph> - novel - typescript with corrections</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Introduction and Chapter I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>Title page - page 48</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Pages 49 - 102</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Pages 103 - 161</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Pages 162 - 177</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>Pages 178 - 209</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>Pages 210 - 227 and postscript</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Faces in a Nashville Arcade</emph> - novel - typescript</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>Title page, introduction, and pages 1 - 48</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>Pages 49 - 102</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>Pages 103 - 161</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle>Pages 162 - 177</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unittitle>Pages 178 - 209</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unittitle>Pages 210 - 227 and postscript</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">Faces in a Nashville Arcade</emph> - a novel published in 1983; letter from Joe S. Ellis for book cover photograph</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Escape from Belle Meade</emph> - early drafts of a novel with corrections - holograph pages</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Pages 1 - 37</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Chapter III, pages 1 - 25 ( 2 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Chapter V (2 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Chapter VII, pages 1 - 11 (2 copies)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Chapter IX</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Chapter XI</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Chapter XV - photocopies</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Chapter XXIII - original and photocopies</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>XXV</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>XXVII</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>XXIX</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>Photocopies of letters to Sarah Estin Treadwell</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Escape from Belle Meade</emph> - early drafts of a novel with corrections - typescript</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>Chapter II, pages 4 - 10, 20 - 21</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>Chapter IV, pages 51 - 77, IB - 27B</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle>Chapter VI, pages 78 - 93, 1-B - 16 - B; Chapter VIII, pages 94 - 134, A-1 - A41</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>Chapter X, pages 135 - 142</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>Chapter XXX, pages 245 - 279</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>Pages 280 - 297, C3a - C20</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>Pages 340 - 396</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle>Pages 456 - 467</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle>Pages 468 - 488, D13 - D32</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle>Pages 489 - 494</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle>Pages 505 - 508 (holograph copies)</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Escape from Belle Meade</emph> - typescript of a novel - masters with some corrections</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>Chapter I</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>Chapter II</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Chapter III</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Chapter IV</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>Chapter V</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>Chapter VI</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>Chapter VII</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>Chapter VIII</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>Chapter IX</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>Chapters X and XI, XII, XIII</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle>Chapters XIV, XV</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle>Chapters XVI</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>Chapter XVII</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle>XVIII</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle>XIX</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Escape from Belle Meade</emph> - typescript of a novel - old version</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>Part I : <emph render="italic">Escape from Belle Meade,</emph> pages 3 - 41</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle><emph render="italic">Personae - The Treadwell Women,</emph> Chapters I - III, pages 1 - 73</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>Chapter IV - pages 74 - 99</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>Chapters V, VI, VII, pages 100 - 138</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Chapters VIII, IX, pages 139 - 176</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>Chapters X - XIII, pages 177 - 212</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Chapters XIV - XVII, pages 213 - 259</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>Chapters XVIII, XIX, pages 260 - 302</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>Chapter XX, pages 303 - 322</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>Chapter XXI, pages 1 - 22; Chapter XXIII, pages 1 - 25</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Lament for Eden</emph> - completed manuscript of a novel - version #5</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>Chapters 1 - III, pages 1 -72</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>Chapter IV, pages 73 - 98</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>Chapters V, VI, VII, pages 99 - 136</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>Chapters VIII, IX, pages 137 - 173</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">15</container>
-<unittitle>Chapters X, XI, XII, XIII, pages 174 - 207</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">16</container>
-<unittitle>Chapters XIV, XV,XVI, XVII, pages 208 - 253</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">17</container>
-<unittitle>Chapters XVIII, XIX, pages 254 - 296</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">18</container>
-<unittitle>Chapters XX - XXI, pages 297 - 338</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">19</container>
-<unittitle>Chapters XXII - XXV, pages 339 - 393</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">20</container>
-<unittitle>Chapter XXVI - XXVIII, pages 394 - 433</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Lament for Eden</emph> - completed manuscript of a novel - version #5</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Chapters XXIX, XXX, pages 434 - 465</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Chapter XXXI, pages 466 - 510</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>Chapter XXXII - XXXVI, pages 511 - 554</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Bloodlines</emph> - manuscript of a novel - version #6</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Chapters I - III, pages 1 - 72</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>Chapter IV, pages 73 - 94</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>Chapters V, VI, VII, pages 95 - 129</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle>Chapters VIII, IX, pages 130 - 165</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>Chapters X, XI, XII, XIII, pages 166 - 198</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>Chapters XIV, XVII, pages 199 - 243</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>Chapters XVIII, XIX, pages 244 - 296</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>Chapters XX - XXI, pages 297 - 324</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">12</container>
-<unittitle>Chapters XXII - XXV, pages 325 - 393</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">13</container>
-<unittitle>Chapters XXVI - XXVIII, pages 394 - 433</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">14</container>
-<unittitle>Chapters XXIX - XXX, pages 434 - 451</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Other manuscript chapters of the novel</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">15</container>
-<unittitle>Chapters II, XXII, XXIV</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">16</container>
-<unittitle>Chapters XXV, XXVI</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">17</container>
-<unittitle>Chapter XXVIII</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">18</container>
-<unittitle>Maps</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Telling Blood</emph> - manuscript of a novel</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">19</container>
-<unittitle>Bound manuscript - final version</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">The Vagaries of Valor: The Dahlgren Family in America</emph> (1996) - Original draft complete</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">1</container>
-<unittitle>Foreword, Prologue, Acknowledgements, Genealogical Charts, List of Illustrations, Chapter 1, pp. 1 - 15.</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">2</container>
-<unittitle>Chapters II, III, IV, pages 16 - 87</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">3</container>
-<unittitle>Chapter V, pages 88 - 130</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">4</container>
-<unittitle>Chapters VI, VII, pages 131 - 182</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">5</container>
-<unittitle>Chapters VIII, IX, pages 183 - 239</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">6</container>
-<unittitle>Chapters X, XI, pages 240 - 291</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">7</container>
-<unittitle>Chapters XII, XIII, pages 292 - 330</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">8</container>
-<unittitle>Chapters XIV, XV, pages 331 - 371</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">9</container>
-<unittitle>Chapter XVI, Epilogue, pages 372 - 399</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">10</container>
-<unittitle>Endnotes, Index, pages 400 - 428</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">Charles Dahlgren of Natchez</emph> - manuscript published by Brassey&#8217;s</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">11</container>
-<unittitle>Chapter VI</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">12</container>
-<unittitle>Chapter VII</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Articles by Gower</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">13</container>
-<unittitle>&#8220;A Brief History of Central Hall&#8221; (Vanderbilt University) with research notes</unittitle>
-<unitdate>1958</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">14</container>
-<unittitle>&#8220;Beersheba Springs and L. Virginia French: The Novelist as Historian&#8221; in <emph render="italic">Tennessee Historical Quarterly,</emph> Vol. XLII, no. 2, Summer 1983</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">15</container>
-<unittitle>&#8220;The Beersheba Diary of L. Virginia French, Part 1, Summer and Fall, 1863 (edited by H.G.) in <emph render="italic">East Tennessee Historical Society&#8217;s Publications,</emph> Nos. 52 and 53 ( 1981 and 1982).</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">16</container>
-<unittitle>&#8220;Getting It Straight From the Archives&#8221; paper presented to Friends of the Library, January 25, 2004 in Special Collections at Vanderbilt University</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Poems by Gower</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">17</container>
-<unittitle>&#8220;Mountain Storm&#8221; and others</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings by others, edited by Gower</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">Another Harvest of Scottish Ballads</emph></unittitle>
-<unitdate><emph render="italic">1951 - 1956</emph></unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Mildred Eunice Haun</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle><emph render="bold"><emph render="italic">The Hawk&#8217;s Done Gone and Other Stories</emph> - manuscript</emph></unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">2</container>
-<unittitle>Introduction, Prologue, the Pit of Death, pp. 1 - 53</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">3</container>
-<unittitle>Chapters 3 - 4, pp. 54 - 100</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">4</container>
-<unittitle>Chapters 5 - 6, pp. 101 - 134</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">5</container>
-<unittitle>Chapters 7 - 8, pp. 135 - 180</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">6</container>
-<unittitle>Chapters 9 - 10, pp. 181 - 228</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">7</container>
-<unittitle>Chapters 11, pp. 229 - 254</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">8</container>
-<unittitle>Chapter 12, pp. 255 - 281</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">9</container>
-<unittitle>Chapter 13, pp. 282 - 304</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">10</container>
-<unittitle><emph render="italic">Other Stories -</emph> &#8220;Shin-Bone Rocks&#8221;; &#8220;The Piece of Silver&#8221;, pp. 305 - 354</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">11</container>
-<unittitle><emph render="italic">Other Stories -</emph> &#8220;A Feeling of Pity&#8221; ; &#8220;For the Love of God and Sam Scott&#8221;, pp. 355 - 397</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">Other Stories -</emph> &#8220;The Picture Frame&#8221;; &#8220;The Turkey&#8217;s Feather&#8221;, pp. 398 - 426</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">13</container>
-<unittitle><emph render="italic">Other Stories -</emph> &#8220;For Lead&#8221;, pp. 427 - 442</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">14</container>
-<unittitle><emph render="italic">Other Stories -</emph> &#8220;The Look&#8221;, pp. 443 - 490</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">15</container>
-<unittitle><emph render="italic">Other Stories - &#8220;</emph>Dave Cocke&#8217;s Motion&#8221;, pp. 491 - 507</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Writings by Others, edited and re-written by Herschel Gower, 1968</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Mildred Eunice Haun</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Short Stories - manuscripts</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>&#8220;Runner Girl&#8221; - unpublished (192 pages)</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">1</container>
-<unittitle>manuscript, pages 1 - 45</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">2</container>
-<unittitle>manuscript, pages 46 - 90</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">3</container>
-<unittitle>manuscript, pages 91 - 130</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">4</container>
-<unittitle>manuscript, pages 131 - 160</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">5</container>
-<unittitle>manuscript, pages 161 - 192</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Short Stories - published and unpublished</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">6</container>
-<unittitle>&#8220;Dave Cocke&#8217;s Motion&#8221; - published</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">7</container>
-<unittitle>&#8220;A Feeling of Pity&#8221;; &#8220;For Lead&#8221; - published</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">8</container>
-<unittitle>&#8220;The Picture Frame&#8221; - published</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">9</container>
-<unittitle>&#8220;The Piece of Silver&#8221; - published (5 copies)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">10</container>
-<unittitle>&#8220;Joe&#8221; - unpublished</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">11</container>
-<unittitle>&#8220;The Red Flower Pot&#8221; - unpublished</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">12</container>
-<unittitle>&#8220;The Root&#8221; (3 copies) - unpublished</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">13</container>
-<unittitle>&#8220;Then the Fire Went Out&#8221; - unpublished (3 copies)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">14</container>
-<unittitle>&#8220;The Warping Bars&#8221; - unpublished</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">15</container>
-<unittitle>&#8220;When the Wind Blows&#8221; - unpublished (multiple copies)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">16</container>
-<unittitle>&#8220;Yours Sincerely&#8221; - unpublished</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">17</container>
-<unittitle>untitled fragment</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">18</container>
-<unittitle>untitled fragment</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Other writings by Mildred Haun</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">19</container>
-<unittitle>&#8220;Barshia&#8217;s Horse He Made, It Flew&#8221; in <emph render="italic">American Prefaces,</emph> Vol. 5, no. 6, March 90; &#8220;The Turkey&#8217;s Feather&#8221; reprinted from the Georgia Review, Vol. VI, no. 4, Winter 1952</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">20</container>
-<unittitle>Songs collected by Haun for Vanderbilt University thesis <emph render="italic">Cocke County Ballads and Songs</emph> under the direction of Professor Donald Davidson</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">21</container>
-<unittitle>Photograph, newspaper articles and other papers relating to Haun&#8217;s life and work.</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Writings by others</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">8</container>
-<container type="folder">22</container>
-<unittitle>Bradford, M.E. &#8220;Miss Eudora&#8217;s Picture Book&#8221; in <emph render="italic">The Mississippi Quarterly,</emph> Vol. XXVI, no. 4, Fall 1973.</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Subject and Research Files</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Folklore</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">1</container>
-<unittitle><emph render="italic">From Bishop Percy (1765) to John Jacob Niles (1974) 340 Books and Songs in the Berea College Collection</emph>, revised February 1974<emph render="italic">; Folklore and Oral History Catalogue</emph> from the University of Vermont Bailey/Howe Library</unittitle>
-<unitdate>1981</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Sadie Warner Frazer</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">2</container>
-<unittitle>Miscellaneous correspondence - includes plans for publication of her memoirs</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">3</container>
-<unittitle>&#8220;Reminiscences&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">4</container>
-<unittitle>Memoirs (1)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">5</container>
-<unittitle>Memoirs (2)</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Ed Harris</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">6</container>
-<unittitle>Parodies of famous poems presented at a party with correspondence and photograph</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Howell Family Genealogy with Texas connections</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">7</container>
-<unittitle>Genealogy charts and letters from Harriet Owsley, January 1986 and Dabney Hart</unittitle>
-<unitdate>June 1993</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Isabel Elliott Howell</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">8</container>
-<unittitle>Humorous comments; &#8220;Reflections of Miss Rebecca McLemore&#8221; (Isabel Howell); &#8220;Only Slightly Acid: Observations About Her Life and Times&#8221;; newspaper articles</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">9</container>
-<unittitle>Memorial tribute by Morton B. Howell; order of service, Downtown Presbyterian Church, Nashville; newspaper obituaries</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Randal McGavock and descendants (including Margaret Lindsley Warden)</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">10</container>
-<unittitle>Correspondence and articles</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">11</container>
-<unittitle>Correspondence with Ed Gleeson concerning re-publication of <emph render="italic">Pen and Sword</emph></unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">12</container>
-<unittitle><emph render="italic">Pen and Sword</emph> reprint - correspondence and press releases with Richland Press</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">13</container>
-<unittitle>Correspondence, articles, and photograph ( 1851)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">14</container>
-<unittitle>Materials relating to the placing of a military marker on his grave at Mt. Olivet Cemetery in Nashville, TN</unittitle>
-<unitdate>July 8, 1987</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">15</container>
-<unittitle><emph render="italic">Dixie Liberator</emph> and correspondence</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">16</container>
-<unittitle>Correspondence and research papers</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">17</container>
-<unittitle>Genealogy and Illinois McGavocks - correspondence and other papers</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">18</container>
-<unittitle>Genealogy research and correspondence with Elizabeth Larkin</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">9</container>
-<container type="folder">19</container>
-<unittitle>Margaret Lindsley Warden, great niece of Randal McGavock and owner of his journals -newspaper articles and correspondence</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Subject and Research Files</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>John Crowe Ransom</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">1</container>
-<unittitle>&#8220;All Verse is Not Poetry&#8221; in <emph render="italic">Hika Magazine</emph></unittitle>
-<unitdate>December 1941</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">2</container>
-<unittitle>&#8220;A Tribute to John Crowe Ransom on His Seventy-fifth Birthday&#8221; in <emph render="italic">Shenandoah,</emph> Vol. XIV, No. 3, Spring, 1963; &#8220;John Crowe Ransom: Gentleman, Teacher, Poet, Editor, Founder of <emph render="italic">The Kenyon Review:</emph> A Tribute from the Community of Letters&#8221; in <emph render="italic">The Kenyon Collegian,</emph> supplement to Vol. LXXXX, no. 7, 1964. Gambier, Ohio</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">3</container>
-<unittitle>Dedication of Ransom Hall, Symposium Held at Kenyon College</unittitle>
-<unitdate>April 18, 1964</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">4</container>
-<unittitle>Publications of Kenyon College</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">15</container>
-<unittitle>Magazine and newspaper articles</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">6</container>
-<unittitle>Memorial service, November 1, 1974; notes for the <emph render="italic">Vanderbilt Alumnus Magazine</emph> with correspondence</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Peter Taylor</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">7</container>
-<unittitle>Bibliography - note cards prepared by Herschel Gower</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">10</container>
-<container type="folder">8</container>
-<unittitle>Bibliography - note cards prepared by Herschel Gower</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Subject and Research Files</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>D. Shelby Williams Trial/Mary Washington Frazer Williams</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">1</container>
-<unittitle>Parts I and II</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">2</container>
-<unittitle>Parts III</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">3</container>
-<unittitle>Part IV</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Yeatman Family</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">4</container>
-<unittitle>Yeatmans - descendants of Gustave Eiffel and Thomas Yeatman, II - correspondence and articles (photocopies)</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">5</container>
-<unittitle>Yeatman - Polk and Eiffel families - newspaper articles</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">6</container>
-<unittitle>Savin Yeatman ( great great grandson of Thomas Yeatman, II and Gustave Eiffel) newspaper articles and correspondence on his visit to the U.S. in 1982</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">7</container>
-<unittitle>(Thomas Yeatman, II )&#8220;Peace and the Presidential Election of 1864&#8221; by Harriet Chappell Owsley reprinted from <emph render="italic">Tennessee Historical Quarterly,</emph> Vol. XVIII</unittitle>
-<unitdate>Number 1, March 1959</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">8</container>
-<unittitle>Ted P.Yeatman &#8220;Jesse James and Bill Ryan at Nashville&#8221; with newspaper article</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">9</container>
-<unittitle>Letters - Yeatman - Polk Collection (Tennessee State Library and Archives) (1) photocopies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">10</container>
-<unittitle>Letters - Yeatman - Polk Collection (Tennessee State Library and Archives) (2) photocopies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">11</container>
-<unittitle>Letters - Yeatman - Polk Collection (Tennessee State Library and Archives) (3) photocopies</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">12</container>
-<unittitle>Yeatman family - Book - <emph render="italic">Eiffel</emph> par Jean Prevost - Paris, M.CM. XXIX</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">13</container>
-<unittitle>Yeatman and descendants - correspondence, newspaper articles, and photographs</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">11</container>
-<container type="folder">14</container>
-<unittitle>Yeatman family - correspondence, world&#8217;s fair at Knoxville, TN 1982, photograph of Savin Yeatman, Alison Gower, M. Alain de Bel at Knoxville World&#8217;s Fair</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Reel to reel tape recordings</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">1</container>
-<unittitle>Gaelic Folk Songs &#8211; Scotland #1</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<unittitle>Folk Songs and Music of Scotland #1</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">2</container>
-<unittitle>Folk songs of Scotland Reel #2</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<unittitle>Folk Songs of Scotland Reel #3</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">3</container>
-<unittitle>Folk Songs of Scotland Reel #4</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">12</container>
-<unittitle>Folk Songs of Scotland Reel #5</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">12</container>
-<container type="folder">4</container>
-<unittitle>Note Cards With Contents of Recordings</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Reel to reel tape recordings</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">1</container>
-<unittitle>Cherry Tree Carol: Larry Austin, John Butcher, Judy Coffman, Betty McDavid, Corky McKee Med. Lyrics</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">2</container>
-<unittitle>a. Child Ballads from Several Scottish Singers.</unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">Side 1:</entry>
-<entry colname="2"></entry>
-</row>
-<row>
-<entry colname="1">Margaret Stewart</entry>
-<entry colname="2">The Knight and the Shepherd&#8217;s Daughter</entry>
-</row>
-<row>
-<entry colname="1"></entry>
-<entry colname="2">Dowie Denso Yarrow</entry>
-</row>
-<row>
-<entry colname="1"></entry>
-<entry colname="2">Sir Hugh, or the Jew&#8217;s Daughter</entry>
-</row>
-<row>
-<entry colname="1"></entry>
-<entry colname="2">Baron o&#8217; Braikley</entry>
-</row>
-<row>
-<entry colname="1">Sheila Stewart</entry>
-<entry colname="2">The Two Brothers</entry>
-</row>
-<row>
-<entry colname="1">Bella Stewart Higgins</entry>
-<entry colname="2">The Fause Knight Upon the Road</entry>
-</row>
-<row>
-<entry colname="1">Duncan McPhee</entry>
-<entry colname="2">The Fause Knight Upon the Road</entry>
-</row>
-<row>
-<entry colname="1">Nellie McGregor Higgins</entry>
-<entry colname="2">The Fause Knight Upon the Road</entry>
-</row>
-<row>
-<entry colname="1">Geordie Robertson</entry>
-<entry colname="2">The Bold Pedlar and Robin Hood</entry>
-</row>
-<row>
-<entry colname="1">John (Jack) Whyte</entry>
-<entry colname="2">The Two Sisters</entry>
-</row>
-<row>
-<entry colname="1">Margaret Stewart</entry>
-<entry colname="2">The Trooper and the Mind</entry>
-</row>
-<row>
-<entry colname="1">Jimmy Stewart</entry>
-<entry colname="2">Lord Randal</entry>
-</row>
-<row>
-<entry colname="1">Side 2:</entry>
-<entry colname="2"></entry>
-</row>
-<row>
-<entry colname="1">John Strachan</entry>
-<entry colname="2">Lang Johnny Mhor (exerpts)</entry>
-</row>
-<row>
-<entry colname="1">Jeannie Robertson</entry>
-<entry colname="2">Andrew Lammie</entry>
-</row>
-<row>
-<entry colname="1">Mrs. Elsie Morrison</entry>
-<entry colname="2">The Gardner</entry>
-</row>
-<row>
-<entry colname="1">Mrs. Jessie Murray</entry>
-<entry colname="2">Lord Thomas and Fair Ellender</entry>
-</row>
-<row>
-<entry colname="1">Jeannie Robertson</entry>
-<entry colname="2">Famous Flower of Serving Men</entry>
-</row>
-<row>
-<entry colname="1">John Strachan</entry>
-<entry colname="2">Robin Hood and Little John</entry>
-</row>
-<row>
-<entry colname="1">Willie McPhee</entry>
-<entry colname="2">The Farmer&#8217;s Curst Wife</entry>
-</row>
-<row>
-<entry colname="1">Willie Mathieson</entry>
-<entry colname="2">Capt. Wedderburn&#8217;s Courtship</entry>
-</row>
-<row>
-<entry colname="1">Mrs. Elsie Morrison</entry>
-<entry colname="2">The Laird o&#8217; Drum</entry>
-</row>
-<row>
-<entry colname="1">John Strachan</entry>
-<entry colname="2">The Laird o&#8217; Drum</entry>
-</row>
-<row>
-<entry colname="1"></entry>
-<entry colname="2">Keech in the Creel</entry>
-</row>
-<row>
-<entry colname="1"></entry>
-<entry colname="2">The Knight and the Shepherd&#8217;s Daughter</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Ballad Tape for Herschel, with all the best from the School of Scottish Studies, Fair fa&#8217; ye man!</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">3</container>
-<unittitle>a. Graduate English Club Lecture November, 17, 1961 in Old Central</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Introduction: Tom Inge</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>First Speaker: Mr. John Crowe Ransom [73]</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Second Speaker: Dr. Donald Davidson [68]</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Bettie McDavid, English 282, January 1966, &#8220;The Three Ravens&#8221; - versions from Bertrand Bronson, <title render="underline">The Traditional Tunes of the Child Ballads</title></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">4</container>
-<unittitle>a. Jeannie Robertson Copied by Jon Porter Reel 1</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Jeannie Robertson Copied by Jon Porter Reel 2</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">5</container>
-<unittitle>a. Jeannie Robertson Copied by Jon Porter Reel 3</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Jeannie Robertson Copied by Jon Porter Reel 4</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">6</container>
-<unittitle>a. Jeannie Robertson Copied by Jon Porter Reel 5</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Tribute to Jeannie</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">7</container>
-<unittitle>a. Tribute to Jeannie Robertson, Easter Sunday 1975</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Several Scottish Singers</unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">Side 1:</entry>
-<entry colname="2"></entry>
-</row>
-<row>
-<entry colname="1">Dodie Chalmers</entry>
-<entry colname="2">The Golden Vanity 286</entry>
-</row>
-<row>
-<entry colname="1">John Strachan</entry>
-<entry colname="2">Glenlogie 238</entry>
-</row>
-<row>
-<entry colname="1">Jimmy and Mrs. Miller</entry>
-<entry colname="2">Lord Randal</entry>
-</row>
-<row>
-<entry colname="1">John Strachan</entry>
-<entry colname="2">Clyde&#8217;s Water (The Mother malison) 216</entry>
-</row>
-<row>
-<entry colname="1">Willie Mathieson</entry>
-<entry colname="2">Bonnie Rantin&#8217; Laddie 240</entry>
-</row>
-<row>
-<entry colname="1">Betsy Whyte</entry>
-<entry colname="2">Sweet William&#8217;s Ghost 77</entry>
-</row>
-<row>
-<entry colname="1">Ewen McColl</entry>
-<entry colname="2">Eppie Morie 223</entry>
-</row>
-<row>
-<entry colname="1">Jimmy McBeth</entry>
-<entry colname="2">The Broom of the Cowdenknowes 217</entry>
-</row>
-<row>
-<entry colname="1">Bella Stewart Higgins</entry>
-<entry colname="2">The Lowlands o&#8217; Holland</entry>
-</row>
-<row>
-<entry colname="1">Bella Stewart Higgins</entry>
-<entry colname="2">The Douglas Tragedy</entry>
-</row>
-<row>
-<entry colname="1">Side 2:</entry>
-<entry colname="2"></entry>
-</row>
-<row>
-<entry colname="1">Jeannie Robertson</entry>
-<entry colname="2">The Butcher Boy (The Miller&#8217;s Apprentice, SA, I, 407)</entry>
-</row>
-<row>
-<entry colname="1">Jeannie Robertson</entry>
-<entry colname="2">Peggy on the Banks o&#8217; Spey (When I was new, But Sweet 16)</entry>
-</row>
-<row>
-<entry colname="1">John Strachan</entry>
-<entry colname="2">Three Jolly Butchers</entry>
-</row>
-<row>
-<entry colname="1">Bill Clark</entry>
-<entry colname="2">Ellon Feeing Market</entry>
-</row>
-<row>
-<entry colname="1">Ewing McColl</entry>
-<entry colname="2">Still Growin&#8217; (College Boy)</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">8</container>
-<unittitle>a. Selection of 21 Gaelic songs.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Gaelic Songs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">9</container>
-<unittitle>a. Pat Boone</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Gloryland Way</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Why Me</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Campin&#8217; in Canaan land</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Where Will I Shelter My Sheep</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Acres of Diamonds</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>I Feel Like Traveling On</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Way Down Deep in My Soul</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>I&#8217;ll Meet You in Church Sunday Morning</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Someone to Care</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. The Ballad, The Archetype, and Rock Music</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Allman Brothers I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Allman Brothers II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">10</container>
-<unittitle>a. Side 1</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Cornelius Watson</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Ronie Watson</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Side 2</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Ora Watson</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Arlie Watson</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Ora and Arlie Watson, and Gaither Carlton</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Cindy Hunter, Interview regarding Jeannie Robertson, Edinburgh</unittitle>
-<unitdate>June 29, 1979</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">11</container>
-<unittitle>a. Andy Hunter&#8217;s Tape singing his own songs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Banter between him, Jeannie, and others</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Andy&#8217;s comments</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Edinburgh Tape #1</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">12</container>
-<unittitle>a. Jeannie Robertson excerpts from Peter Kennedy&#8217;s Cassette &#8220;What a Voice&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Side I</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Readings by Joyce Collie and Alexander Fenton Side II</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>6 Scottish and English Folksongs collected in Scotland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">13</container>
-<unittitle>a. Interview with Jean Redpath</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. &#8220;The House Carpenter&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Joan Baez - &#8220;The Joan Baez Ballad Book&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Buffy Sainte Marie - &#8220;Little Wheel Spin and Spin&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Jean Ritchie - &#8220;British Traditional Ballads in the Southern Mountains&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Stefan Grossman - &#8220;Yazoo Basin Boogie&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">14</container>
-<unittitle>a. Scottish and English Folk Songs collected in Scotland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>b. Folktracks (cassette)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Not identified</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<unittitle>Not identified</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">13</container>
-<container type="folder">15</container>
-<unittitle>15. Miscellaneous papers relating to the recordings including a term paper &#8220;The Ballad, the Archetype, and Rock Music&#8221; by John Muench</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Gower, Herschel Papers</titleproper>
+        <titleproper>Finding Aid for the Herschel Gower Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2010</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Herschel Gower Papers</unittitle>
+      <unitid>MSS.0176</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7.51 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Herschel Gower, a native of Nashville, was born in 1919. He received his B.A. from Cumberland University in Lebanon, Tennessee and his master and doctorate degrees from Vanderbilt University. He spent 1954 - 1956 at the University of Edinburgh on
+        a Fulbright Scholarship and has maintained a lifelong interest in Scottish culture and history.</p>
+      <p>He began his teaching career at Vanderbilt in 1956 in the English department and was awarded the title Professor Emeritus before his retirement from Vanderbilt in 1985. He taught courses in the ballad, the lyric, and American literature.</p>
+      <p>During his academic career he was a lecturer in the Vanderbilt in France study abroad program and at the University of Leeds for the Vanderbilt in England program.</p>
+      <p>Professor Gower is the author and editor of a number of books including:</p>
+      <p>
+        <emph render="italic">Pen and Sword: The Life and Journals of Randal W. McGavock (1959)</emph>
+      </p>
+      <p>
+        <emph render="italic">The Sense of Fiction (1966)</emph>
+      </p>
+      <p>
+        <emph render="italic">The Hawk&#8217;s Done Gone and Other Stories</emph>
+        by Mildred Haun (ed. 1968)</p>
+      <p>
+        <emph render="italic">Beersheba Springs: A History and a Celebration (1983)</emph>
+      </p>
+      <p>
+        <emph render="italic">Faces in a Nashville Arcade (1983)</emph>
+      </p>
+      <p>
+        <emph render="italic">Jeannie Robertson: Emergent Singer, Transformative Voice (1995)</emph>
+      </p>
+      <p>
+        <emph render="italic">Charles Dahlgren of Natchez: The Civil War and Dynastic Decline (2002)</emph>
+      </p>
+      <p>He has contributed articles and poems to scholarly publications, magazines, and newspapers, many with a focus on Tennessee history.</p>
+      <p>At present he is a free-lance writer and lectures at the Athena Foundation, a non-profit organization, started by his wife Dona. They live in Dallas, Texas and have a home in Beersheba Springs, Tennessee.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>This collection is primarily comprised of 6.05 linear feet of manuscript materials, which include drafts of an unpublished novel with its title and text changes in various versions. The papers also include manuscripts of his novel
+        <emph render="italic">Faces in a Nashville</emph>
+        <emph render="italic">Arcade</emph>
+        and of his biography of Charles Dahlgren,
+        <emph render="italic">Charles Dahlgren of Natchez: The Civil War and Dynastic Decline.</emph>
+      </p>
+      <p>Professor Gower was a friend of writer Mildred Haun and her literary executor. His work as an editor of her stories is represented in these papers.</p>
+      <p>In addition there are articles and research notes and materials concerning Randal McGavock and his descendants, the Howell family and their descendants, and articles and books he wrote on the historic community of Beersheba Springs, Tennessee.
+        There are subject files for his research on folklore, the D. Shelby Williams Trial which was used as background for his unpublished novel, and materials relating to poet John Crowe Ransom and author Peter Taylor.</p>
+      <p>A collection of correspondence and newspaper articles on the Yeatman and Polk families and their family ties with Gustave Eiffel, builder of the Eiffel Tower are included with these papers. There are fourteen reel to reel and cassette tape
+        recordings, many of them songs recorded by the Scottish singer Jeannie Robertson.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Cheney, Brainard and Frances Neel</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Davidson, Donald and Theresa</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Lytle, Andrew</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Ransom, John Crowe</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Wilson, Angus</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Beatty, Richmond C.; Cornell, Katharine F.; Ford, Jesse Hill; Moore, Mrs. Merrill; Ransom, Ellene; Rice, Cole Young; Taylor, Peter</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings by Gower</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">The Confessions of a Goo Goo Eater: An Odyssey of Nashville</emph>
+                - a novel - typescript (early version of
+                <emph render="italic">Faces in a Nashville Arcade</emph>)</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Title page - page 48</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Pages 49 - 102</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Pages 103 - 161</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Pages 162 - 177</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Pages178 - 209</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Pages 210 - 227 and postscript</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <emph render="bold">
+              <emph render="italic">Faces in a Nashville Arcade</emph>
+              - novel - typescript with corrections</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Introduction and Chapter I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Title page - page 48</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Pages 49 - 102</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Pages 103 - 161</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Pages 162 - 177</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Pages 178 - 209</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Pages 210 - 227 and postscript</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <emph render="bold">
+              <emph render="italic">Faces in a Nashville Arcade</emph>
+              - novel - typescript</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Title page, introduction, and pages 1 - 48</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Pages 49 - 102</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Pages 103 - 161</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Pages 162 - 177</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Pages 178 - 209</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>Pages 210 - 227 and postscript</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">Faces in a Nashville Arcade</emph>
+              - a novel published in 1983; letter from Joe S. Ellis for book cover photograph</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="bold">
+              <emph render="italic">Escape from Belle Meade</emph>
+              - early drafts of a novel with corrections - holograph pages</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Pages 1 - 37</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Chapter III, pages 1 - 25 ( 2 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Chapter V (2 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Chapter VII, pages 1 - 11 (2 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Chapter IX</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Chapter XI</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Chapter XV - photocopies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Chapter XXIII - original and photocopies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>XXV</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>XXVII</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>XXIX</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Photocopies of letters to Sarah Estin Treadwell</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="bold">
+              <emph render="italic">Escape from Belle Meade</emph>
+              - early drafts of a novel with corrections - typescript</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Chapter II, pages 4 - 10, 20 - 21</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Chapter IV, pages 51 - 77, IB - 27B</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Chapter VI, pages 78 - 93, 1-B - 16 - B; Chapter VIII, pages 94 - 134, A-1 - A41</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Chapter X, pages 135 - 142</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Chapter XXX, pages 245 - 279</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Pages 280 - 297, C3a - C20</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Pages 340 - 396</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>Pages 456 - 467</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>Pages 468 - 488, D13 - D32</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>Pages 489 - 494</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>Pages 505 - 508 (holograph copies)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">Escape from Belle Meade</emph>
+                - typescript of a novel - masters with some corrections</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">1</container>
+              <unittitle>Chapter I</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">2</container>
+              <unittitle>Chapter II</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">3</container>
+              <unittitle>Chapter III</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">4</container>
+              <unittitle>Chapter IV</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">5</container>
+              <unittitle>Chapter V</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">6</container>
+              <unittitle>Chapter VI</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">7</container>
+              <unittitle>Chapter VII</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">8</container>
+              <unittitle>Chapter VIII</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">9</container>
+              <unittitle>Chapter IX</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">10</container>
+              <unittitle>Chapters X and XI, XII, XIII</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">11</container>
+              <unittitle>Chapters XIV, XV</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">12</container>
+              <unittitle>Chapters XVI</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">13</container>
+              <unittitle>Chapter XVII</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">14</container>
+              <unittitle>XVIII</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">15</container>
+              <unittitle>XIX</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">Escape from Belle Meade</emph>
+                - typescript of a novel - old version</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">1</container>
+              <unittitle>Part I :
+                <emph render="italic">Escape from Belle Meade,</emph>
+                pages 3 - 41</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle>
+                <emph render="italic">Personae - The Treadwell Women,</emph>
+                Chapters I - III, pages 1 - 73</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">3</container>
+              <unittitle>Chapter IV - pages 74 - 99</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">4</container>
+              <unittitle>Chapters V, VI, VII, pages 100 - 138</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">5</container>
+              <unittitle>Chapters VIII, IX, pages 139 - 176</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">6</container>
+              <unittitle>Chapters X - XIII, pages 177 - 212</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">7</container>
+              <unittitle>Chapters XIV - XVII, pages 213 - 259</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">8</container>
+              <unittitle>Chapters XVIII, XIX, pages 260 - 302</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">9</container>
+              <unittitle>Chapter XX, pages 303 - 322</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">10</container>
+              <unittitle>Chapter XXI, pages 1 - 22; Chapter XXIII, pages 1 - 25</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">Lament for Eden</emph>
+                - completed manuscript of a novel - version #5</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">11</container>
+              <unittitle>Chapters 1 - III, pages 1 -72</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">12</container>
+              <unittitle>Chapter IV, pages 73 - 98</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">13</container>
+              <unittitle>Chapters V, VI, VII, pages 99 - 136</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">14</container>
+              <unittitle>Chapters VIII, IX, pages 137 - 173</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">15</container>
+              <unittitle>Chapters X, XI, XII, XIII, pages 174 - 207</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">16</container>
+              <unittitle>Chapters XIV, XV,XVI, XVII, pages 208 - 253</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">17</container>
+              <unittitle>Chapters XVIII, XIX, pages 254 - 296</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">18</container>
+              <unittitle>Chapters XX - XXI, pages 297 - 338</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">19</container>
+              <unittitle>Chapters XXII - XXV, pages 339 - 393</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">20</container>
+              <unittitle>Chapter XXVI - XXVIII, pages 394 - 433</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">Lament for Eden</emph>
+                - completed manuscript of a novel - version #5</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>Chapters XXIX, XXX, pages 434 - 465</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle>Chapter XXXI, pages 466 - 510</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">3</container>
+              <unittitle>Chapter XXXII - XXXVI, pages 511 - 554</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">Bloodlines</emph>
+                - manuscript of a novel - version #6</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Chapters I - III, pages 1 - 72</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Chapter IV, pages 73 - 94</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Chapters V, VI, VII, pages 95 - 129</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Chapters VIII, IX, pages 130 - 165</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">8</container>
+              <unittitle>Chapters X, XI, XII, XIII, pages 166 - 198</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">9</container>
+              <unittitle>Chapters XIV, XVII, pages 199 - 243</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">10</container>
+              <unittitle>Chapters XVIII, XIX, pages 244 - 296</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">11</container>
+              <unittitle>Chapters XX - XXI, pages 297 - 324</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">12</container>
+              <unittitle>Chapters XXII - XXV, pages 325 - 393</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">13</container>
+              <unittitle>Chapters XXVI - XXVIII, pages 394 - 433</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">14</container>
+              <unittitle>Chapters XXIX - XXX, pages 434 - 451</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Other manuscript chapters of the novel</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">15</container>
+              <unittitle>Chapters II, XXII, XXIV</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">16</container>
+              <unittitle>Chapters XXV, XXVI</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">17</container>
+              <unittitle>Chapter XXVIII</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">18</container>
+              <unittitle>Maps</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">Telling Blood</emph>
+                - manuscript of a novel</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">19</container>
+              <unittitle>Bound manuscript - final version</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">The Vagaries of Valor: The Dahlgren Family in America</emph>
+                (1996) - Original draft complete</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>Foreword, Prologue, Acknowledgements, Genealogical Charts, List of Illustrations, Chapter 1, pp. 1 - 15.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>Chapters II, III, IV, pages 16 - 87</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>Chapter V, pages 88 - 130</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle>Chapters VI, VII, pages 131 - 182</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>Chapters VIII, IX, pages 183 - 239</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">6</container>
+              <unittitle>Chapters X, XI, pages 240 - 291</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">7</container>
+              <unittitle>Chapters XII, XIII, pages 292 - 330</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">8</container>
+              <unittitle>Chapters XIV, XV, pages 331 - 371</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">9</container>
+              <unittitle>Chapter XVI, Epilogue, pages 372 - 399</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">10</container>
+              <unittitle>Endnotes, Index, pages 400 - 428</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">Charles Dahlgren of Natchez</emph>
+                - manuscript published by Brassey&#8217;s</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">11</container>
+              <unittitle>Chapter VI</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">12</container>
+              <unittitle>Chapter VII</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Articles by Gower</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">13</container>
+              <unittitle>&#8220;A Brief History of Central Hall&#8221; (Vanderbilt University) with research notes</unittitle>
+              <unitdate>1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">14</container>
+              <unittitle>&#8220;Beersheba Springs and L. Virginia French: The Novelist as Historian&#8221; in
+                <emph render="italic">Tennessee Historical Quarterly,</emph>
+                Vol. XLII, no. 2, Summer 1983</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">15</container>
+              <unittitle>&#8220;The Beersheba Diary of L. Virginia French, Part 1, Summer and Fall, 1863 (edited by H.G.) in
+                <emph render="italic">East Tennessee Historical Society&#8217;s Publications,</emph>
+                Nos. 52 and 53 ( 1981 and 1982).</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">16</container>
+              <unittitle>&#8220;Getting It Straight From the Archives&#8221; paper presented to Friends of the Library, January 25, 2004 in Special Collections at Vanderbilt University</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Poems by Gower</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">17</container>
+              <unittitle>&#8220;Mountain Storm&#8221; and others</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings by others, edited by Gower</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <emph render="italic">Another Harvest of Scottish Ballads</emph>
+            </unittitle>
+            <unitdate>
+              <emph render="italic">1951 - 1956</emph>
+            </unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Mildred Eunice Haun</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="bold">
+                <emph render="italic">The Hawk&#8217;s Done Gone and Other Stories</emph>
+                - manuscript</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>Introduction, Prologue, the Pit of Death, pp. 1 - 53</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>Chapters 3 - 4, pp. 54 - 100</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>Chapters 5 - 6, pp. 101 - 134</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>Chapters 7 - 8, pp. 135 - 180</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle>Chapters 9 - 10, pp. 181 - 228</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>Chapters 11, pp. 229 - 254</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle>Chapter 12, pp. 255 - 281</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">9</container>
+              <unittitle>Chapter 13, pp. 282 - 304</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">10</container>
+              <unittitle>
+                <emph render="italic">Other Stories -</emph>
+                &#8220;Shin-Bone Rocks&#8221;; &#8220;The Piece of Silver&#8221;, pp. 305 - 354</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">11</container>
+              <unittitle>
+                <emph render="italic">Other Stories -</emph>
+                &#8220;A Feeling of Pity&#8221; ; &#8220;For the Love of God and Sam Scott&#8221;, pp. 355 - 397</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">12</container>
+              <unittitle>
+                <emph render="italic">Other Stories -</emph>
+                &#8220;The Picture Frame&#8221;; &#8220;The Turkey&#8217;s Feather&#8221;, pp. 398 - 426</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">13</container>
+              <unittitle>
+                <emph render="italic">Other Stories -</emph>
+                &#8220;For Lead&#8221;, pp. 427 - 442</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">14</container>
+              <unittitle>
+                <emph render="italic">Other Stories -</emph>
+                &#8220;The Look&#8221;, pp. 443 - 490</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">15</container>
+              <unittitle>
+                <emph render="italic">Other Stories - &#8220;</emph>Dave Cocke&#8217;s Motion&#8221;, pp. 491 - 507</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings by Others, edited and re-written by Herschel Gower, 1968</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Mildred Eunice Haun</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories - manuscripts</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>&#8220;Runner Girl&#8221; - unpublished (192 pages)</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">1</container>
+              <unittitle>manuscript, pages 1 - 45</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">2</container>
+              <unittitle>manuscript, pages 46 - 90</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">3</container>
+              <unittitle>manuscript, pages 91 - 130</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">4</container>
+              <unittitle>manuscript, pages 131 - 160</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">5</container>
+              <unittitle>manuscript, pages 161 - 192</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Short Stories - published and unpublished</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">6</container>
+              <unittitle>&#8220;Dave Cocke&#8217;s Motion&#8221; - published</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">7</container>
+              <unittitle>&#8220;A Feeling of Pity&#8221;; &#8220;For Lead&#8221; - published</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">8</container>
+              <unittitle>&#8220;The Picture Frame&#8221; - published</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">9</container>
+              <unittitle>&#8220;The Piece of Silver&#8221; - published (5 copies)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">10</container>
+              <unittitle>&#8220;Joe&#8221; - unpublished</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">11</container>
+              <unittitle>&#8220;The Red Flower Pot&#8221; - unpublished</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">12</container>
+              <unittitle>&#8220;The Root&#8221; (3 copies) - unpublished</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">13</container>
+              <unittitle>&#8220;Then the Fire Went Out&#8221; - unpublished (3 copies)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">14</container>
+              <unittitle>&#8220;The Warping Bars&#8221; - unpublished</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">15</container>
+              <unittitle>&#8220;When the Wind Blows&#8221; - unpublished (multiple copies)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">16</container>
+              <unittitle>&#8220;Yours Sincerely&#8221; - unpublished</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">17</container>
+              <unittitle>untitled fragment</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">18</container>
+              <unittitle>untitled fragment</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Other writings by Mildred Haun</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">19</container>
+              <unittitle>&#8220;Barshia&#8217;s Horse He Made, It Flew&#8221; in
+                <emph render="italic">American Prefaces,</emph>
+                Vol. 5, no. 6, March 90; &#8220;The Turkey&#8217;s Feather&#8221; reprinted from the Georgia Review, Vol. VI, no. 4, Winter 1952</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">20</container>
+              <unittitle>Songs collected by Haun for Vanderbilt University thesis
+                <emph render="italic">Cocke County Ballads and Songs</emph>
+                under the direction of Professor Donald Davidson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">21</container>
+              <unittitle>Photograph, newspaper articles and other papers relating to Haun&#8217;s life and work.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Writings by others</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">22</container>
+              <unittitle>Bradford, M.E. &#8220;Miss Eudora&#8217;s Picture Book&#8221; in
+                <emph render="italic">The Mississippi Quarterly,</emph>
+                Vol. XXVI, no. 4, Fall 1973.</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Subject and Research Files</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Folklore</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>
+                <emph render="italic">From Bishop Percy (1765) to John Jacob Niles (1974) 340 Books and Songs in the Berea College Collection</emph>, revised February 1974<emph render="italic">; Folklore and Oral History Catalogue</emph>
+                from the University of Vermont Bailey/Howe Library</unittitle>
+              <unitdate>1981</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Sadie Warner Frazer</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>Miscellaneous correspondence - includes plans for publication of her memoirs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>&#8220;Reminiscences&#8221;</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>Memoirs (1)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>Memoirs (2)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Ed Harris</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>Parodies of famous poems presented at a party with correspondence and photograph</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Howell Family Genealogy with Texas connections</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>Genealogy charts and letters from Harriet Owsley, January 1986 and Dabney Hart</unittitle>
+              <unitdate>June 1993</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Isabel Elliott Howell</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>Humorous comments; &#8220;Reflections of Miss Rebecca McLemore&#8221; (Isabel Howell); &#8220;Only Slightly Acid: Observations About Her Life and Times&#8221;; newspaper articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">9</container>
+              <unittitle>Memorial tribute by Morton B. Howell; order of service, Downtown Presbyterian Church, Nashville; newspaper obituaries</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Randal McGavock and descendants (including Margaret Lindsley Warden)</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">10</container>
+              <unittitle>Correspondence and articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">11</container>
+              <unittitle>Correspondence with Ed Gleeson concerning re-publication of
+                <emph render="italic">Pen and Sword</emph>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">12</container>
+              <unittitle>
+                <emph render="italic">Pen and Sword</emph>
+                reprint - correspondence and press releases with Richland Press</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">13</container>
+              <unittitle>Correspondence, articles, and photograph ( 1851)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">14</container>
+              <unittitle>Materials relating to the placing of a military marker on his grave at Mt. Olivet Cemetery in Nashville, TN</unittitle>
+              <unitdate>July 8, 1987</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">15</container>
+              <unittitle>
+                <emph render="italic">Dixie Liberator</emph>
+                and correspondence</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">16</container>
+              <unittitle>Correspondence and research papers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">17</container>
+              <unittitle>Genealogy and Illinois McGavocks - correspondence and other papers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">18</container>
+              <unittitle>Genealogy research and correspondence with Elizabeth Larkin</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">19</container>
+              <unittitle>Margaret Lindsley Warden, great niece of Randal McGavock and owner of his journals -newspaper articles and correspondence</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Subject and Research Files</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>John Crowe Ransom</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>&#8220;All Verse is Not Poetry&#8221; in
+                <emph render="italic">Hika Magazine</emph>
+              </unittitle>
+              <unitdate>December 1941</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>&#8220;A Tribute to John Crowe Ransom on His Seventy-fifth Birthday&#8221; in
+                <emph render="italic">Shenandoah,</emph>
+                Vol. XIV, No. 3, Spring, 1963; &#8220;John Crowe Ransom: Gentleman, Teacher, Poet, Editor, Founder of
+                <emph render="italic">The Kenyon Review:</emph>
+                A Tribute from the Community of Letters&#8221; in
+                <emph render="italic">The Kenyon Collegian,</emph>
+                supplement to Vol. LXXXX, no. 7, 1964. Gambier, Ohio</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>Dedication of Ransom Hall, Symposium Held at Kenyon College</unittitle>
+              <unitdate>April 18, 1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>Publications of Kenyon College</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">15</container>
+              <unittitle>Magazine and newspaper articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">6</container>
+              <unittitle>Memorial service, November 1, 1974; notes for the
+                <emph render="italic">Vanderbilt Alumnus Magazine</emph>
+                with correspondence</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Peter Taylor</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">7</container>
+              <unittitle>Bibliography - note cards prepared by Herschel Gower</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">8</container>
+              <unittitle>Bibliography - note cards prepared by Herschel Gower</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Subject and Research Files</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>D. Shelby Williams Trial/Mary Washington Frazer Williams</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">1</container>
+              <unittitle>Parts I and II</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>Parts III</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>Part IV</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Yeatman Family</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">4</container>
+              <unittitle>Yeatmans - descendants of Gustave Eiffel and Thomas Yeatman, II - correspondence and articles (photocopies)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">5</container>
+              <unittitle>Yeatman - Polk and Eiffel families - newspaper articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">6</container>
+              <unittitle>Savin Yeatman ( great great grandson of Thomas Yeatman, II and Gustave Eiffel) newspaper articles and correspondence on his visit to the U.S. in 1982</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">7</container>
+              <unittitle>(Thomas Yeatman, II )&#8220;Peace and the Presidential Election of 1864&#8221; by Harriet Chappell Owsley reprinted from
+                <emph render="italic">Tennessee Historical Quarterly,</emph>
+                Vol. XVIII</unittitle>
+              <unitdate>Number 1, March 1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">8</container>
+              <unittitle>Ted P.Yeatman &#8220;Jesse James and Bill Ryan at Nashville&#8221; with newspaper article</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">9</container>
+              <unittitle>Letters - Yeatman - Polk Collection (Tennessee State Library and Archives) (1) photocopies</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">10</container>
+              <unittitle>Letters - Yeatman - Polk Collection (Tennessee State Library and Archives) (2) photocopies</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">11</container>
+              <unittitle>Letters - Yeatman - Polk Collection (Tennessee State Library and Archives) (3) photocopies</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">12</container>
+              <unittitle>Yeatman family - Book -
+                <emph render="italic">Eiffel</emph>
+                par Jean Prevost - Paris, M.CM. XXIX</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">13</container>
+              <unittitle>Yeatman and descendants - correspondence, newspaper articles, and photographs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">14</container>
+              <unittitle>Yeatman family - correspondence, world&#8217;s fair at Knoxville, TN 1982, photograph of Savin Yeatman, Alison Gower, M. Alain de Bel at Knoxville World&#8217;s Fair</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Reel to reel tape recordings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>Gaelic Folk Songs &#8211; Scotland #1</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Folk Songs and Music of Scotland #1</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Folk songs of Scotland Reel #2</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Folk Songs of Scotland Reel #3</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Folk Songs of Scotland Reel #4</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Folk Songs of Scotland Reel #5</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>Note Cards With Contents of Recordings</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Reel to reel tape recordings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">1</container>
+            <unittitle>Cherry Tree Carol: Larry Austin, John Butcher, Judy Coffman, Betty McDavid, Corky McKee Med. Lyrics</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>a. Child Ballads from Several Scottish Singers.</unittitle>
+          </did>
+          <scopecontent>
+            <table frame="none">
+              <tgroup cols="2">
+                <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+                <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+                <tbody>
+                  <row>
+                    <entry colname="1">Side 1:</entry>
+                    <entry colname="2"></entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Margaret Stewart</entry>
+                    <entry colname="2">The Knight and the Shepherd&#8217;s Daughter</entry>
+                  </row>
+                  <row>
+                    <entry colname="1"></entry>
+                    <entry colname="2">Dowie Denso Yarrow</entry>
+                  </row>
+                  <row>
+                    <entry colname="1"></entry>
+                    <entry colname="2">Sir Hugh, or the Jew&#8217;s Daughter</entry>
+                  </row>
+                  <row>
+                    <entry colname="1"></entry>
+                    <entry colname="2">Baron o&#8217; Braikley</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Sheila Stewart</entry>
+                    <entry colname="2">The Two Brothers</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Bella Stewart Higgins</entry>
+                    <entry colname="2">The Fause Knight Upon the Road</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Duncan McPhee</entry>
+                    <entry colname="2">The Fause Knight Upon the Road</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Nellie McGregor Higgins</entry>
+                    <entry colname="2">The Fause Knight Upon the Road</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Geordie Robertson</entry>
+                    <entry colname="2">The Bold Pedlar and Robin Hood</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">John (Jack) Whyte</entry>
+                    <entry colname="2">The Two Sisters</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Margaret Stewart</entry>
+                    <entry colname="2">The Trooper and the Mind</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Jimmy Stewart</entry>
+                    <entry colname="2">Lord Randal</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Side 2:</entry>
+                    <entry colname="2"></entry>
+                  </row>
+                  <row>
+                    <entry colname="1">John Strachan</entry>
+                    <entry colname="2">Lang Johnny Mhor (exerpts)</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Jeannie Robertson</entry>
+                    <entry colname="2">Andrew Lammie</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Mrs. Elsie Morrison</entry>
+                    <entry colname="2">The Gardner</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Mrs. Jessie Murray</entry>
+                    <entry colname="2">Lord Thomas and Fair Ellender</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Jeannie Robertson</entry>
+                    <entry colname="2">Famous Flower of Serving Men</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">John Strachan</entry>
+                    <entry colname="2">Robin Hood and Little John</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Willie McPhee</entry>
+                    <entry colname="2">The Farmer&#8217;s Curst Wife</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Willie Mathieson</entry>
+                    <entry colname="2">Capt. Wedderburn&#8217;s Courtship</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Mrs. Elsie Morrison</entry>
+                    <entry colname="2">The Laird o&#8217; Drum</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">John Strachan</entry>
+                    <entry colname="2">The Laird o&#8217; Drum</entry>
+                  </row>
+                  <row>
+                    <entry colname="1"></entry>
+                    <entry colname="2">Keech in the Creel</entry>
+                  </row>
+                  <row>
+                    <entry colname="1"></entry>
+                    <entry colname="2">The Knight and the Shepherd&#8217;s Daughter</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </scopecontent>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Ballad Tape for Herschel, with all the best from the School of Scottish Studies, Fair fa&#8217; ye man!</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>a. Graduate English Club Lecture November, 17, 1961 in Old Central</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">13</container>
+              <unittitle>Introduction: Tom Inge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">13</container>
+              <unittitle>First Speaker: Mr. John Crowe Ransom [73]</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">13</container>
+              <unittitle>Second Speaker: Dr. Donald Davidson [68]</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">13</container>
+              <unittitle>b. Bettie McDavid, English 282, January 1966, &#8220;The Three Ravens&#8221; - versions from Bertrand Bronson,
+                <title render="underline">The Traditional Tunes of the Child Ballads</title>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>a. Jeannie Robertson Copied by Jon Porter Reel 1</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Jeannie Robertson Copied by Jon Porter Reel 2</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">5</container>
+            <unittitle>a. Jeannie Robertson Copied by Jon Porter Reel 3</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Jeannie Robertson Copied by Jon Porter Reel 4</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>a. Jeannie Robertson Copied by Jon Porter Reel 5</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Tribute to Jeannie</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">7</container>
+            <unittitle>a. Tribute to Jeannie Robertson, Easter Sunday 1975</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Several Scottish Singers</unittitle>
+          </did>
+          <scopecontent>
+            <table frame="none">
+              <tgroup cols="2">
+                <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+                <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+                <tbody>
+                  <row>
+                    <entry colname="1">Side 1:</entry>
+                    <entry colname="2"></entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Dodie Chalmers</entry>
+                    <entry colname="2">The Golden Vanity 286</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">John Strachan</entry>
+                    <entry colname="2">Glenlogie 238</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Jimmy and Mrs. Miller</entry>
+                    <entry colname="2">Lord Randal</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">John Strachan</entry>
+                    <entry colname="2">Clyde&#8217;s Water (The Mother malison) 216</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Willie Mathieson</entry>
+                    <entry colname="2">Bonnie Rantin&#8217; Laddie 240</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Betsy Whyte</entry>
+                    <entry colname="2">Sweet William&#8217;s Ghost 77</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Ewen McColl</entry>
+                    <entry colname="2">Eppie Morie 223</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Jimmy McBeth</entry>
+                    <entry colname="2">The Broom of the Cowdenknowes 217</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Bella Stewart Higgins</entry>
+                    <entry colname="2">The Lowlands o&#8217; Holland</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Bella Stewart Higgins</entry>
+                    <entry colname="2">The Douglas Tragedy</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Side 2:</entry>
+                    <entry colname="2"></entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Jeannie Robertson</entry>
+                    <entry colname="2">The Butcher Boy (The Miller&#8217;s Apprentice, SA, I, 407)</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Jeannie Robertson</entry>
+                    <entry colname="2">Peggy on the Banks o&#8217; Spey (When I was new, But Sweet 16)</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">John Strachan</entry>
+                    <entry colname="2">Three Jolly Butchers</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Bill Clark</entry>
+                    <entry colname="2">Ellon Feeing Market</entry>
+                  </row>
+                  <row>
+                    <entry colname="1">Ewing McColl</entry>
+                    <entry colname="2">Still Growin&#8217; (College Boy)</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </scopecontent>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">8</container>
+            <unittitle>a. Selection of 21 Gaelic songs.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Gaelic Songs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">9</container>
+            <unittitle>a. Pat Boone</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Gloryland Way</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Why Me</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Campin&#8217; in Canaan land</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Where Will I Shelter My Sheep</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Acres of Diamonds</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>I Feel Like Traveling On</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Way Down Deep in My Soul</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>I&#8217;ll Meet You in Church Sunday Morning</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Someone to Care</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. The Ballad, The Archetype, and Rock Music</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Allman Brothers I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Allman Brothers II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">10</container>
+            <unittitle>a. Side 1</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Cornelius Watson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Ronie Watson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Side 2</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Ora Watson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Arlie Watson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Ora and Arlie Watson, and Gaither Carlton</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Cindy Hunter, Interview regarding Jeannie Robertson, Edinburgh</unittitle>
+            <unitdate>June 29, 1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">11</container>
+            <unittitle>a. Andy Hunter&#8217;s Tape singing his own songs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Banter between him, Jeannie, and others</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Andy&#8217;s comments</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Edinburgh Tape #1</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">12</container>
+            <unittitle>a. Jeannie Robertson excerpts from Peter Kennedy&#8217;s Cassette &#8220;What a Voice&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Side I</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Readings by Joyce Collie and Alexander Fenton Side II</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>6 Scottish and English Folksongs collected in Scotland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">13</container>
+            <unittitle>a. Interview with Jean Redpath</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. &#8220;The House Carpenter&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Joan Baez - &#8220;The Joan Baez Ballad Book&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Buffy Sainte Marie - &#8220;Little Wheel Spin and Spin&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Jean Ritchie - &#8220;British Traditional Ballads in the Southern Mountains&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Stefan Grossman - &#8220;Yazoo Basin Boogie&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">14</container>
+            <unittitle>a. Scottish and English Folk Songs collected in Scotland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>b. Folktracks (cassette)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Not identified</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Not identified</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">15</container>
+            <unittitle>15. Miscellaneous papers relating to the recordings including a term paper &#8220;The Ballad, the Archetype, and Rock Music&#8221; by John Muench</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
