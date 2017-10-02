@@ -1,194 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Griffin, William J. Papers</titleproper>
-<titleproper>Finding Aid for the William J. Griffin Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>William J. Griffin Papers</unittitle>
-<unitid>MSS.0182</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">0.42 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>William J. Griffin received his undergraduate degree from Park University in 1929. He then received his master's and doctorate degree from Iowa University in 1930 and 1939 respectively. Griffin later served as a professor at Peabody College before it merged with Vanderbilt University.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>This collection is composed of one Hollinger box with thirteen folders contained within. The collection is primarily composed of research papers from Griffin&#8217;s peers in other universities, as well as research cards to said papers. Additionally, there is research on Peabody College by Griffin himself. Finally, correspondence to Griffin can also be found.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<container type="folder">1</container>
-<unittitle>Research on Peabody College</unittitle>
-</did>
-<note>
-<list type="marked" mark="&#8226;">
-<item>&#8220;The Student Faculty Ratio at Peabody&#8221; Fall, 1968 - William J. Griffin</item>
-<item>&#8220;An Analysis of Class Enrollments at George Peabody College for Teachers&#8221; Fall, 1968 - William J. Griffin</item>
-<item>&#8220;Identification of &#8216;Small Classes&#8217; at Peabody&#8221; Fall, 1968</item>
-<item>&#8220;Identification of &#8216;Large Classes&#8217; at Peabody&#8221; Fall, 1968</item>
-<item>&#8220;Classroom Teaching Loads in the College&#8221; Fall, 1968</item>
-</list>
-</note>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">2</container>
-<unittitle>Correspondence</unittitle>
-</did>
-<note>
-<list type="marked" mark="&#8226;">
-<item>Letter from Hollis Moore to Dr. William J. Griffin; March 7, 1966
-<list type="marked" mark="&#8226;">
-<item>Attached: List of states showing the number of residents attending college outside the state.</item>
-</list>
-</item>
-</list>
-</note>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Research Cards</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">4</container>
-<unittitle>Peer Research Papers (1- 5)</unittitle>
-<note>
-<list type="marked" mark="&#8226;">
-<item>1. &#8220;Development of the Prosodic Features of Infants&#8217; Vocalizing - W.C. Sheppard &#38; H. L. Lane</item>
-<item>2. &#8220;Conditional Logic and Primary Children - Robert H. Ennis, Cornell University, March 6, 1970</item>
-<item>3. &#8220;Egocentric and Socialized Communications in Grammar School Children - Charles L. Fry, University of Virginia</item>
-<item>4. &#8220;Correlations Between the Syntactic Constructions of the Child and the Adult&#8221; - Jeffrey S. Gruber, Massachusetts Institute of Technology, March 31, 1967</item>
-<item>5. &#8220;A Factor Analytic Study of Children&#8217;s Causal Reasoning&#8221; - Michael D. Berzonsky, Edinboro State College</item>
-</list>
-</note>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>Peer Research Paper (7- 8)</unittitle>
-</did>
-<note>
-<list type="marked" mark="&#8226;">
-<item>7. &#8220;Young Children&#8217;s Use of Language in Inferential Behavior&#8221; - Carolyn Stern &#38; Evan R. Keislar, University of California, Los Angeles</item>
-<item>8. &#8220;Teaching Kindergarten Children to Apply Concept-Defining Rules&#8221; - Evan R. Keislar &#38; Samuel R. Schutz, University of California, Los Angeles</item>
-</list>
-</note>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">6</container>
-<unittitle>&#8220;Evaluating Language Curricula for Preschool Disadvantaged Children&#8221; - Carolyn Stern (9)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">7</container>
-<unittitle>Peer Research Papers (10- 12)</unittitle>
-</did>
-<note>
-<list type="marked" mark="&#8226;">
-<item>10. &#8220;The Changes in Psycholinguistic Functioning of Children After One Year in an &#8216;Integrated&#8217; School&#8221; - Loren S. Barritt, Melvyn I. Semmel, &#38; Paul D. Weener, University of Michigan</item>
-<item>11. &#8220;The Immediate Memory Span of Children from &#8216; Advantaged&#8217; and &#8216; Disadvantaged&#8217; Backgrounds&#8221; - Loren S. Barritt, Melvyn I. Semmel, &#38; Paul D. Weener, University of Michigan</item>
-<item>12. &#8220;Some Effects of the Verbal System on the Nonverbal Behavior of Preschool Children&#8221; - David Birch, University of Michigan</item>
-</list>
-</note>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">8</container>
-<unittitle>Peer Research Papers (13- 16)</unittitle>
-</did>
-<note>
-<list type="marked" mark="&#8226;">
-<item>13. &#8220;Sex of Child and Social Class as Determinants of Maternal Behavior&#8221; - Janet Levine, Claire Fishman, &#38; Jerome Kagan, Harvard University</item>
-<item>14. &#8220;Children&#8217;s Conceptions of Word Boundaries as a Function of Different Linguistic Contents&#8221; - Marjorie H. Holden &#38; Walter H. MacGinitie, Columbia University</item>
-<item>15. &#8220;Measurement of Motivation to Achieve in Preschool Children&#8221; - Bonnie L. Ballif, University of Fordham, &#38; Dorothy C. Adkins, University of Hawaii</item>
-<item>16. &#8220;The Effect of Speaker Identity, Voice Inflection, Vocabulary, and Message Redundancy on Infants&#8217; Selection of Vocal Reinforcement&#8221; - Bernard Z. Friedlander, Western Reserve University</item>
-</list>
-</note>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">9</container>
-<unittitle>&#8220;Intellectual Development: Another Look&#8221; - A. Harry Passow &#38; Robert R. Leeper (17)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">10</container>
-<unittitle>Peer Research Papers (18- 21)</unittitle>
-</did>
-<note>
-<list type="marked" mark="&#8226;">
-<item>18. &#8220;Overt Verbalization and its Influence on Mediation in Children&#8221; - I. W. Silverman &#38; James G. Craig, University of Waterloo</item>
-<item>19. &#8220;Developmental Differences Among Kindergarten Children: A Study of Results on the Illinois Test of Psycholinguistic Abilities&#8221; - James M. Dunlap</item>
-<item>20. &#8220;The Reactions of Kindergarten Children to Intellectual Challenge&#8221; - Doris Prombron, Hofstra University</item>
-<item>21. &#8220;The Effects of Spontaneous and Induced Verbal Rehearsal on Children&#8217;s Recall&#8221; - Terrence J. Keeney, Samuel R. Cannizzo, &#38; John H. Flavell, University of Minnesota</item>
-</list>
-</note>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">11</container>
-<unittitle>Peer Research Paper (22- 24)</unittitle>
-</did>
-<note>
-<list type="marked" mark="&#8226;">
-<item>22. &#8220;Sociolinguistic Dimensions of Youth Culture&#8221; - Edward A. Nelsen &#38; Edward Rosenbaum, University of Wisconsin</item>
-<item>23. &#8220;Minimal Brain Dysfunction in Children&#8221; - Sam D. Clements, University of Arkansas Medical Center</item>
-<item>24. &#8220;A Study of Children&#8217;s Understanding of Modification&#8221; - Emily Betts Gregory</item>
-</list>
-</note>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">12</container>
-<unittitle>&#8220;Reading Crisis: The Problem and Suggested Solutions&#8221; (25)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">13</container>
-<unittitle>&#8220;Revised Freedom and Education&#8221;(26)</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Griffin, William J. Papers</titleproper>
+        <titleproper>Finding Aid for the William J. Griffin Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>William J. Griffin Papers</unittitle>
+      <unitid>MSS.0182</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>undated</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>William J. Griffin received his undergraduate degree from Park University in 1929. He then received his master's and doctorate degree from Iowa University in 1930 and 1939 respectively. Griffin later served as a professor at Peabody College before
+        it merged with Vanderbilt University.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>This collection is composed of one Hollinger box with thirteen folders contained within. The collection is primarily composed of research papers from Griffin&#8217;s peers in other universities, as well as research cards to said papers.
+        Additionally, there is research on Peabody College by Griffin himself. Finally, correspondence to Griffin can also be found.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="folder">1</container>
+          <unittitle>Research on Peabody College</unittitle>
+        </did>
+        <note>
+          <list type="marked" mark="&#8226;">
+            <item>&#8220;The Student Faculty Ratio at Peabody&#8221; Fall, 1968 - William J. Griffin</item>
+            <item>&#8220;An Analysis of Class Enrollments at George Peabody College for Teachers&#8221; Fall, 1968 - William J. Griffin</item>
+            <item>&#8220;Identification of &#8216;Small Classes&#8217; at Peabody&#8221; Fall, 1968</item>
+            <item>&#8220;Identification of &#8216;Large Classes&#8217; at Peabody&#8221; Fall, 1968</item>
+            <item>&#8220;Classroom Teaching Loads in the College&#8221; Fall, 1968</item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">2</container>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <note>
+          <list type="marked" mark="&#8226;">
+            <item>Letter from Hollis Moore to Dr. William J. Griffin; March 7, 1966
+              <list type="marked" mark="&#8226;">
+                <item>Attached: List of states showing the number of residents attending college outside the state.</item>
+              </list>
+            </item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">3</container>
+          <unittitle>Research Cards</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">4</container>
+          <unittitle>Peer Research Papers (1- 5)</unittitle>
+          <note>
+            <list type="marked" mark="&#8226;">
+              <item>1. &#8220;Development of the Prosodic Features of Infants&#8217; Vocalizing - W.C. Sheppard &#38; H. L. Lane</item>
+              <item>2. &#8220;Conditional Logic and Primary Children - Robert H. Ennis, Cornell University, March 6, 1970</item>
+              <item>3. &#8220;Egocentric and Socialized Communications in Grammar School Children - Charles L. Fry, University of Virginia</item>
+              <item>4. &#8220;Correlations Between the Syntactic Constructions of the Child and the Adult&#8221; - Jeffrey S. Gruber, Massachusetts Institute of Technology, March 31, 1967</item>
+              <item>5. &#8220;A Factor Analytic Study of Children&#8217;s Causal Reasoning&#8221; - Michael D. Berzonsky, Edinboro State College</item>
+            </list>
+          </note>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">5</container>
+          <unittitle>Peer Research Paper (7- 8)</unittitle>
+        </did>
+        <note>
+          <list type="marked" mark="&#8226;">
+            <item>7. &#8220;Young Children&#8217;s Use of Language in Inferential Behavior&#8221; - Carolyn Stern &#38; Evan R. Keislar, University of California, Los Angeles</item>
+            <item>8. &#8220;Teaching Kindergarten Children to Apply Concept-Defining Rules&#8221; - Evan R. Keislar &#38; Samuel R. Schutz, University of California, Los Angeles</item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">6</container>
+          <unittitle>&#8220;Evaluating Language Curricula for Preschool Disadvantaged Children&#8221; - Carolyn Stern (9)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">7</container>
+          <unittitle>Peer Research Papers (10- 12)</unittitle>
+        </did>
+        <note>
+          <list type="marked" mark="&#8226;">
+            <item>10. &#8220;The Changes in Psycholinguistic Functioning of Children After One Year in an &#8216;Integrated&#8217; School&#8221; - Loren S. Barritt, Melvyn I. Semmel, &#38; Paul D. Weener, University of Michigan</item>
+            <item>11. &#8220;The Immediate Memory Span of Children from &#8216; Advantaged&#8217; and &#8216; Disadvantaged&#8217; Backgrounds&#8221; - Loren S. Barritt, Melvyn I. Semmel, &#38; Paul D. Weener, University of Michigan</item>
+            <item>12. &#8220;Some Effects of the Verbal System on the Nonverbal Behavior of Preschool Children&#8221; - David Birch, University of Michigan</item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">8</container>
+          <unittitle>Peer Research Papers (13- 16)</unittitle>
+        </did>
+        <note>
+          <list type="marked" mark="&#8226;">
+            <item>13. &#8220;Sex of Child and Social Class as Determinants of Maternal Behavior&#8221; - Janet Levine, Claire Fishman, &#38; Jerome Kagan, Harvard University</item>
+            <item>14. &#8220;Children&#8217;s Conceptions of Word Boundaries as a Function of Different Linguistic Contents&#8221; - Marjorie H. Holden &#38; Walter H. MacGinitie, Columbia University</item>
+            <item>15. &#8220;Measurement of Motivation to Achieve in Preschool Children&#8221; - Bonnie L. Ballif, University of Fordham, &#38; Dorothy C. Adkins, University of Hawaii</item>
+            <item>16. &#8220;The Effect of Speaker Identity, Voice Inflection, Vocabulary, and Message Redundancy on Infants&#8217; Selection of Vocal Reinforcement&#8221; - Bernard Z. Friedlander, Western Reserve University</item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">9</container>
+          <unittitle>&#8220;Intellectual Development: Another Look&#8221; - A. Harry Passow &#38; Robert R. Leeper (17)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">10</container>
+          <unittitle>Peer Research Papers (18- 21)</unittitle>
+        </did>
+        <note>
+          <list type="marked" mark="&#8226;">
+            <item>18. &#8220;Overt Verbalization and its Influence on Mediation in Children&#8221; - I. W. Silverman &#38; James G. Craig, University of Waterloo</item>
+            <item>19. &#8220;Developmental Differences Among Kindergarten Children: A Study of Results on the Illinois Test of Psycholinguistic Abilities&#8221; - James M. Dunlap</item>
+            <item>20. &#8220;The Reactions of Kindergarten Children to Intellectual Challenge&#8221; - Doris Prombron, Hofstra University</item>
+            <item>21. &#8220;The Effects of Spontaneous and Induced Verbal Rehearsal on Children&#8217;s Recall&#8221; - Terrence J. Keeney, Samuel R. Cannizzo, &#38; John H. Flavell, University of Minnesota</item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">11</container>
+          <unittitle>Peer Research Paper (22- 24)</unittitle>
+        </did>
+        <note>
+          <list type="marked" mark="&#8226;">
+            <item>22. &#8220;Sociolinguistic Dimensions of Youth Culture&#8221; - Edward A. Nelsen &#38; Edward Rosenbaum, University of Wisconsin</item>
+            <item>23. &#8220;Minimal Brain Dysfunction in Children&#8221; - Sam D. Clements, University of Arkansas Medical Center</item>
+            <item>24. &#8220;A Study of Children&#8217;s Understanding of Modification&#8221; - Emily Betts Gregory</item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">12</container>
+          <unittitle>&#8220;Reading Crisis: The Problem and Suggested Solutions&#8221; (25)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">13</container>
+          <unittitle>&#8220;Revised Freedom and Education&#8221;(26)</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
