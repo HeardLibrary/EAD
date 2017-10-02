@@ -1,1861 +1,1892 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Fulton, John Collection</titleproper>
-<titleproper>Finding Aid for the John Fulton &#8220;Uncle Remus&#8221; Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1878-1928</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>John Fulton &#8220;Uncle Remus&#8221; Collection</unittitle>
-<unitid>MSS.0159</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">2.94 Linear Feet</extent>
-</physdesc>
-<unitdate>1878&#8211;1928</unitdate>
-</did>
-<bioghist>
-<head><emph render="underline">Biography/History</emph></head>
-<p>John Fulton (1837-1932} was born a slave on Andrew Jackson&#39;s Hermitage estate in Hermitage, Tennessee and died in Nashville.</p>
-<p>In 1885, he came to Vanderbilt University to serve the famous IV Club, composed of four bachelor professors who kept house together in Wesley Hall. They were: William L. Dudley, Austin H. Merrill, J. T. McGill and W. T. Magruder. James H. Kirkland destined to become chancellor, later joined the group. As members of the group married, there remained only William L. Dudley, and he became his private servant. He resided in a small room in the basement of Wesley Hall, where he entertained the students by playing his guitar, singing ancient ballads, and reading Uncle Remus stories to the students, which is how he acquired his nickname. Fulton&#39;s room was a storehouse of memories. He collected photographs from the students and literally papered all four walls with the photographs. Those that would not fit on the wall were stored in trunks. And, the amazing thing is that he could tell you the names of every student.</p>
-<p>In 1914, after Dudley&#39;s death, he became the caretaker for Mrs. R. F. Jackson. His duties kept him at that place during the day, but when night came he went back to his little room in the basement of Wesley Hall until the fire in February 1932. He died shortly after in April 1932.</p>
-<p>In 1975, the Alumni Office transferred this collection to Special Collections.</p>
-</bioghist>
-<scopecontent>
-<head><emph render="underline">Scope and Contents</emph></head>
-<p>This 2.21 linear feet collection contains two series: <emph render="bold"><emph render="underline">Series I</emph></emph> contains two postcards, an election campaign card, four guest registers, and a newspaper clipping. <emph render="bold"><emph render="underline">Series II</emph></emph> contains 400 plus photographs, some with inscriptions. All have been numbered and scanned into the photograph database. Except for some images at the end, the photographs are alphabetical by person. When known graduation year is included.</p>
-</scopecontent>
-<dsc>
-<c01 level="series">
-<did>
-<unittitle><emph render="underline">Series I &#8211; General</emph></unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Correspondence &#8211; Incoming</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>from W. R. Austin - postcard</unittitle>
-<unitdate>February 21, 1911</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>from Beverly W. Allen - postcard</unittitle>
-<unitdate>August 27, 1928</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Election Campaign Card</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>William C. Levere for State Representative</unittitle>
-<unitdate>November 6, 1906</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Guest Registers</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>1909 &#8211; 1910</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>1910 &#8211; 1913</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>1914</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>1915 [contains slips of paper with guest signatures]</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Newspaper Clipping</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Unidentified Group Photograph</unittitle>
-<unitdate>n.d.</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle><emph render="underline">Series II &#8211; Photographs</emph></unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">1</container>
-<unittitle><emph render="underline">Adams to Davidson</emph></unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="3">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">Adams, W. G.</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Akin, Grover J.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913</entry>
-</row>
-<row>
-<entry colname="1">Anderson, Stonewall</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Anthony, Walter</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1905</entry>
-</row>
-<row>
-<entry colname="1">Armistead, George Harrison, Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914-1916</entry>
-</row>
-<row>
-<entry colname="1">Arterbury, Roy L.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916-1917</entry>
-</row>
-<row>
-<entry colname="1">Arthur, Robert</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Barnett, Robinson Ira (2)</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">Baskerville, Charles Read</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1896</entry>
-</row>
-<row>
-<entry colname="1">Bates, William Hunt</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1894</entry>
-</row>
-<row>
-<entry colname="1">Battin, Samuel Jackson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Bayliss, Bronson B.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Beauchamp, William Benjamin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1893</entry>
-</row>
-<row>
-<entry colname="1">Bernard, Adolph Arthur</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Betterton, Thomas Crews</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Bettis, E. S.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1893</entry>
-</row>
-<row>
-<entry colname="1">Bishop, David Horace</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Black, McKendree M.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Blanks, Anthony Faulkner</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1850-1860</entry>
-</row>
-<row>
-<entry colname="1">Blanton, William Henson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910</entry>
-</row>
-<row>
-<entry colname="1">Blevins, Wilson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1878-1879</entry>
-</row>
-<row>
-<entry colname="1">Borner, John O&#39;Neill</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913</entry>
-</row>
-<row>
-<entry colname="1">Bowers, Paul C.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910-1913</entry>
-</row>
-<row>
-<entry colname="1">Boyd, Dallas</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Boyd, George</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Boyd, George McAdory</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Bradsford, Henry Erwin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1908</entry>
-</row>
-<row>
-<entry colname="1">Branham, Boiling Sasnett</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914</entry>
-</row>
-<row>
-<entry colname="1">Brewer, Edward Cage</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911</entry>
-</row>
-<row>
-<entry colname="1">Briley, Henry Pope</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Britt, Leon</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Britt, &#8212; and Baby</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Brown, Doswell Parrish</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899-1903</entry>
-</row>
-<row>
-<entry colname="1">Brown, Oswald Eugene</entry>
-<entry colname="2">Alumnus/Faculty</entry>
-<entry colname="3">1917</entry>
-</row>
-<row>
-<entry colname="1">Brown, W. C. Foskette</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916</entry>
-</row>
-<row>
-<entry colname="1">Bryant, &#8212; and &#8212; Decamfleolis</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Burleson, Daniel Downs</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1909</entry>
-</row>
-<row>
-<entry colname="1">Burr, Alfred Hamlin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914</entry>
-</row>
-<row>
-<entry colname="1">Cameron, Irvin Turner</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Campbell, Clyde Kenner</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1907</entry>
-</row>
-<row>
-<entry colname="1">Campbell, H. L.</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Carey, J. Franklin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Carr, Peter Herbert</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Carre, Henry Beach</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Carter, H. M.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Chenault, Frederick Raymond</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910-1912</entry>
-</row>
-<row>
-<entry colname="1">Chiles, T. H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Chilton, Cladius Lysias</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Christian, William Asbury</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Clark, Valentine Cornelius</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">Clark, Warren</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Clifton, John W.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Cobb, Robert Linah</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Coleman, Felix H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Coleman,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Comer, Harry Fulcher</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Compton,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Connell, Clarence P.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902-1906</entry>
-</row>
-<row>
-<entry colname="1">Connell, William Phillips</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Cook, Cassie Bell</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916</entry>
-</row>
-<row>
-<entry colname="1">Cook, Osgood Francis</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Cornelius, Rufus Thomas</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1907-1910</entry>
-</row>
-<row>
-<entry colname="1">Corum, Jesse Maxwell</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Cothran,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Creighton, John H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1894-1895</entry>
-</row>
-<row>
-<entry colname="1">Crockett, Edmond Irving</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1888</entry>
-</row>
-<row>
-<entry colname="1">Crowe, Fletcher Standefer</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1915</entry>
-</row>
-<row>
-<entry colname="1">Crutchfield, &#34;Babe&#34;</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Cude, Harold Eugene</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911</entry>
-</row>
-<row>
-<entry colname="1">Cuninggim, Jesse Lee</entry>
-<entry colname="2">Alumnus/Faculty</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Curlin, Zachary Henry</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914</entry>
-</row>
-<row>
-<entry colname="1">Curtiss, Lyle Raymond</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1908-1912</entry>
-</row>
-<row>
-<entry colname="1">Dailey, Henry Jackson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899-1900</entry>
-</row>
-<row>
-<entry colname="1">Daniel, John Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1920-1921</entry>
-</row>
-<row>
-<entry colname="1">Davidson, Donald</entry>
-<entry colname="2">Alumnus/Faculty</entry>
-<entry colname="3">1916</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c01>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Fulton, John Collection</titleproper>
+        <titleproper>Finding Aid for the John Fulton &#8220;Uncle Remus&#8221; Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>John Fulton &#8220;Uncle Remus&#8221; Collection</unittitle>
+      <unitid>MSS.0159</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.21 linear_feet</extent>
+      </physdesc>
+      <unitdate>1878-1928</unitdate>
+    </did>
+    <bioghist>
+      <head>
+        <emph render="underline">Biography/History</emph>
+      </head>
+      <p>John Fulton (1837-1932} was born a slave on Andrew Jackson&#39;s Hermitage estate in Hermitage, Tennessee and died in Nashville.</p>
+      <p>In 1885, he came to Vanderbilt University to serve the famous IV Club, composed of four bachelor professors who kept house together in Wesley Hall. They were: William L. Dudley, Austin H. Merrill, J. T. McGill and W. T. Magruder. James H. Kirkland
+        destined to become chancellor, later joined the group. As members of the group married, there remained only William L. Dudley, and he became his private servant. He resided in a small room in the basement of Wesley Hall, where he entertained the
+        students by playing his guitar, singing ancient ballads, and reading Uncle Remus stories to the students, which is how he acquired his nickname. Fulton&#39;s room was a storehouse of memories. He collected photographs from the students and literally
+        papered all four walls with the photographs. Those that would not fit on the wall were stored in trunks. And, the amazing thing is that he could tell you the names of every student.</p>
+      <p>In 1914, after Dudley&#39;s death, he became the caretaker for Mrs. R. F. Jackson. His duties kept him at that place during the day, but when night came he went back to his little room in the basement of Wesley Hall until the fire in February
+        1932. He died shortly after in April 1932.</p>
+      <p>In 1975, the Alumni Office transferred this collection to Special Collections.</p>
+    </bioghist>
+    <scopecontent>
+      <head>
+        <emph render="underline">Scope and Contents</emph>
+      </head>
+      <p>This 2.21 linear feet collection contains two series:
+        <emph render="bold">
+          <emph render="underline">Series I</emph>
+        </emph>
+        contains two postcards, an election campaign card, four guest registers, and a newspaper clipping.
+        <emph render="bold">
+          <emph render="underline">Series II</emph>
+        </emph>
+        contains 400 plus photographs, some with inscriptions. All have been numbered and scanned into the photograph database. Except for some images at the end, the photographs are alphabetical by person. When known graduation year is included.</p>
+    </scopecontent>
+    <dsc>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <emph render="underline">Series I &#8211; General</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence &#8211; Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>from W. R. Austin - postcard</unittitle>
+            <unitdate>February 21, 1911</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>from Beverly W. Allen - postcard</unittitle>
+            <unitdate>August 27, 1928</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Election Campaign Card</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>William C. Levere for State Representative</unittitle>
+            <unitdate>November 6, 1906</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Guest Registers</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unitdate>1909 &#8211; 1910</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unitdate>1910 &#8211; 1913</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unitdate>1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unitdate>1915 [contains slips of paper with guest signatures]</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Newspaper Clipping</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Unidentified Group Photograph</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <emph render="underline">Series II &#8211; Photographs</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <unittitle>
+            <emph render="underline">Adams to Davidson</emph>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <table frame="none">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+              <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+              <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+              <tbody>
+                <row>
+                  <entry colname="1">Adams, W. G.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Akin, Grover J.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Anderson, Stonewall</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Anthony, Walter</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Armistead, George Harrison, Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914-1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Arterbury, Roy L.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916-1917</entry>
+                </row>
+                <row>
+                  <entry colname="1">Arthur, Robert</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Barnett, Robinson Ira (2)</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Baskerville, Charles Read</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1896</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bates, William Hunt</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1894</entry>
+                </row>
+                <row>
+                  <entry colname="1">Battin, Samuel Jackson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bayliss, Bronson B.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Beauchamp, William Benjamin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bernard, Adolph Arthur</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Betterton, Thomas Crews</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bettis, E. S.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bishop, David Horace</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Black, McKendree M.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Blanks, Anthony Faulkner</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1850-1860</entry>
+                </row>
+                <row>
+                  <entry colname="1">Blanton, William Henson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Blevins, Wilson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1878-1879</entry>
+                </row>
+                <row>
+                  <entry colname="1">Borner, John O&#39;Neill</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bowers, Paul C.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910-1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Boyd, Dallas</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Boyd, George</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Boyd, George McAdory</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bradsford, Henry Erwin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1908</entry>
+                </row>
+                <row>
+                  <entry colname="1">Branham, Boiling Sasnett</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Brewer, Edward Cage</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911</entry>
+                </row>
+                <row>
+                  <entry colname="1">Briley, Henry Pope</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Britt, Leon</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Britt, &#8212; and Baby</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Brown, Doswell Parrish</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899-1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Brown, Oswald Eugene</entry>
+                  <entry colname="2">Alumnus/Faculty</entry>
+                  <entry colname="3">1917</entry>
+                </row>
+                <row>
+                  <entry colname="1">Brown, W. C. Foskette</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Bryant, &#8212; and &#8212; Decamfleolis</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Burleson, Daniel Downs</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1909</entry>
+                </row>
+                <row>
+                  <entry colname="1">Burr, Alfred Hamlin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cameron, Irvin Turner</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Campbell, Clyde Kenner</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1907</entry>
+                </row>
+                <row>
+                  <entry colname="1">Campbell, H. L.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Carey, J. Franklin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Carr, Peter Herbert</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Carre, Henry Beach</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Carter, H. M.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Chenault, Frederick Raymond</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910-1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Chiles, T. H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Chilton, Cladius Lysias</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Christian, William Asbury</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Clark, Valentine Cornelius</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Clark, Warren</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Clifton, John W.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cobb, Robert Linah</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Coleman, Felix H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Coleman,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Comer, Harry Fulcher</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Compton,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Connell, Clarence P.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902-1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Connell, William Phillips</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cook, Cassie Bell</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cook, Osgood Francis</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cornelius, Rufus Thomas</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1907-1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Corum, Jesse Maxwell</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cothran,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Creighton, John H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1894-1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Crockett, Edmond Irving</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1888</entry>
+                </row>
+                <row>
+                  <entry colname="1">Crowe, Fletcher Standefer</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Crutchfield, &#34;Babe&#34;</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cude, Harold Eugene</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cuninggim, Jesse Lee</entry>
+                  <entry colname="2">Alumnus/Faculty</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Curlin, Zachary Henry</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Curtiss, Lyle Raymond</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1908-1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dailey, Henry Jackson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899-1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Daniel, John Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1920-1921</entry>
+                </row>
+                <row>
+                  <entry colname="1">Davidson, Donald</entry>
+                  <entry colname="2">Alumnus/Faculty</entry>
+                  <entry colname="3">1916</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </scopecontent>
+      </c01>
 
-<c01 level="series">
-<did>
-<container type="box">2</container>
-<unittitle><emph render="underline">Davis to Holderness</emph></unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="3">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">Davis, James Wendel</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1890</entry>
-</row>
-<row>
-<entry colname="1">Dean, Charles Herrn on</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1905</entry>
-</row>
-<row>
-<entry colname="1">Dempsey, Elam Frank</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Dent, Wilbur Tillett</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911-1916</entry>
-</row>
-<row>
-<entry colname="1">Dent&#243;n, Guy Tresslen</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1906-1913</entry>
-</row>
-<row>
-<entry colname="1">Dickenson, M. U.</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Dickinson,-----/Berie,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Dillard, J. H.</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Dobbs, Hoyt McWhorter</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">Dortch, F. W.</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Doss, Washington LaFayette, Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1890</entry>
-</row>
-<row>
-<entry colname="1">Dowman, Charles E. Jr.</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Dozier, Howard Douglas</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1908</entry>
-</row>
-<row>
-<entry colname="1">Draper, Walter Scott, Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901</entry>
-</row>
-<row>
-<entry colname="1">Duckworth, Robert Pierce</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Dudley, William L.</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Dudley, William L./Freddie Moore</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Dye, John Sinclair</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Eakes, Marvin</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Enochs, Marvin Smith</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Evans,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Fant, Lester Glenn</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897-1899</entry>
-</row>
-<row>
-<entry colname="1">Farrell, William Elliston</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1891</entry>
-</row>
-<row>
-<entry colname="1">Fields, Robert G.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1915</entry>
-</row>
-<row>
-<entry colname="1">Fifer,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Fix, Joseph Wood</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1922</entry>
-</row>
-<row>
-<entry colname="1">Follin, Gerald Webb</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914</entry>
-</row>
-<row>
-<entry colname="1">Ford, William Vernon</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911</entry>
-</row>
-<row>
-<entry colname="1">Frantz, Frank Flavius/J. Mack Jenkins</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902-1910</entry>
-</row>
-<row>
-<entry colname="1">Frierson, John Dawson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911-1912</entry>
-</row>
-<row>
-<entry colname="1">Gamble, Foster Kirk</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1907</entry>
-</row>
-<row>
-<entry colname="1">Gannaway, Herbert/Bethel Long</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">Gannaway, Herbert</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901-1904</entry>
-</row>
-<row>
-<entry colname="1">Gantt, Nicholas J. Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901-1903</entry>
-</row>
-<row>
-<entry colname="1">Gardiner, S. Vaughn</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Gilbert,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Givens, Claude Preston</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912-1914</entry>
-</row>
-<row>
-<entry colname="1">Glasgow, Benjamin Bascom</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">Glass, Henry Iverson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1909-1914</entry>
-</row>
-<row>
-<entry colname="1">Godchaux, Frank Area</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901</entry>
-</row>
-<row>
-<entry colname="1">Granbery, John Cowper</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Gray, Charles Walter</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911</entry>
-</row>
-<row>
-<entry colname="1">Greer, C. H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Gunter, Arthur L.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912-1915</entry>
-</row>
-<row>
-<entry colname="1">Hager, Samuel E.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1893</entry>
-</row>
-<row>
-<entry colname="1">Halliburton, Wesley</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1891</entry>
-</row>
-<row>
-<entry colname="1">Harris, William Irion</entry>
-<entry colname="2"></entry>
-<entry colname="3">03-22-1898</entry>
-</row>
-<row>
-<entry colname="1">Harvey,-----</entry>
-<entry colname="2"></entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Hawk, John Crisman</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1905</entry>
-</row>
-<row>
-<entry colname="1">Hawkins, Eugene</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Heflin, John James</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1905</entry>
-</row>
-<row>
-<entry colname="1">Henry, Waights Gibbs</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Herbert, T. Grigsby</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1893</entry>
-</row>
-<row>
-<entry colname="1">Herndon, Virgil Crook</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913</entry>
-</row>
-<row>
-<entry colname="1">Hirst, Mr. and Mrs.</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Holcombe, Armstead Richardson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Holderness, James Sidney</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1905-1906</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">3</container>
-<unittitle><emph render="underline">Holland to McKenzie</emph></unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="3">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">Holland, Richard Marion</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Holman, Harvey Thomas</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Holmes, William Walter</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Hornback, James Matthew</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Hounshell, Charles Gideon</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Howard, William James</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899-1902</entry>
-</row>
-<row>
-<entry colname="1">Huffman, Chester Clinton</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1915</entry>
-</row>
-<row>
-<entry colname="1">Hughes, Urban Becker</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Hughes, William Wightman</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Hunter, James Duncan</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1907-1910</entry>
-</row>
-<row>
-<entry colname="1">Hunter, J. R.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">06-01-1893</entry>
-</row>
-<row>
-<entry colname="1">Irion, J. Witt</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">James, John Caller</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903-1905</entry>
-</row>
-<row>
-<entry colname="1">Jenkins, J. Michael Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">03-19-1904</entry>
-</row>
-<row>
-<entry colname="1">Johnston, &#8212;</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Johnston, Mercer G.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">08-01-1898</entry>
-</row>
-<row>
-<entry colname="1">Jones, Elliott H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1891</entry>
-</row>
-<row>
-<entry colname="1">Jones, Ernest Scott</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Jones, Frank</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Jones, Henry H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914</entry>
-</row>
-<row>
-<entry colname="1">Jones, Herbert V.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901</entry>
-</row>
-<row>
-<entry colname="1">Jones, Paul Mitchell</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1885</entry>
-</row>
-<row>
-<entry colname="1">Joyner, Nicholas E.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Kern, David H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Kern, Paul Bentley</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902-1905</entry>
-</row>
-<row>
-<entry colname="1">Kirkland, Charles B.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1890</entry>
-</row>
-<row>
-<entry colname="1">Lander, Frank Dunnington</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Langley, Joseph D.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Lawrence, &#8212;</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Lipscomb, Horace Swift Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901</entry>
-</row>
-<row>
-<entry colname="1">Locke, William Thomas and Edwin Mims, Albert Robins</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Logan, Will Gordon</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913</entry>
-</row>
-<row>
-<entry colname="1">Long, Lemul Rix</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Long, William Bethel Mulberry School, Principal</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899-1904</entry>
-</row>
-<row>
-<entry colname="1">Lovelace, Griffin M.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Lund, Robert Leathan</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895-1897</entry>
-</row>
-<row>
-<entry colname="1">Luter, Clark Allen</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914</entry>
-</row>
-<row>
-<entry colname="1">Lutz, Albert Simion</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Magruder, William T.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1894</entry>
-</row>
-<row>
-<entry colname="1">Mahoney, James Owen</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1894-1896</entry>
-</row>
-<row>
-<entry colname="1">Major, &#8212;</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Marshall, George G.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Matthews, William Kennon</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">McCulloch, James E.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901</entry>
-</row>
-<row>
-<entry colname="1">McGill, Elsa</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">McGill, John Thomas</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1879-1882</entry>
-</row>
-<row>
-<entry colname="1">McGlothin, Harvey Love</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913</entry>
-</row>
-<row>
-<entry colname="1">Mclntyre, Marvin H. and Olin West</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">McKellor, Idus Eugene</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">McKenzie, Edward</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">4</container>
-<unittitle><emph render="underline">McLaurin to Shannon</emph></unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="3">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">McLaurin, David E.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">McNeilly, Albert S.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Merrill, Austin H.</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1996-1900</entry>
-</row>
-<row>
-<entry colname="1">Merriman, Lucius S.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">06-1889</entry>
-</row>
-<row>
-<entry colname="1">Merritt, Daniel Tatum</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Miller, Hugh Hedges</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Miller, Samuel Marvin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902-1905</entry>
-</row>
-<row>
-<entry colname="1">Miller, Victor Irvin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Mitchell, James B.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Montgomery, Riley B.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1923</entry>
-</row>
-<row>
-<entry colname="1">Moore, Frederick W.</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1893-1911</entry>
-</row>
-<row>
-<entry colname="1">Morgan, George Allen</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">Morgan, Joseph J.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Morgan, William Henry</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913</entry>
-</row>
-<row>
-<entry colname="1">Morrison, Jesse Ray</entry>
-<entry colname="2">Alumnus/Faculty</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Nance, Walter Buckner</entry>
-<entry colname="2">Alumnus/BOT</entry>
-<entry colname="3">1893-1904</entry>
-</row>
-<row>
-<entry colname="1">Naylor, G. R.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Neblett, John Walter</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Nellums, Marrus Elmo</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Nelson, Oscar Gustaf</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911-1915</entry>
-</row>
-<row>
-<entry colname="1">Nichols, John</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">Nishikawa, Tama&#241;o Suke</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Nolen, Fendall C.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">O&#39;Connor, Myles Powers</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">O&#39;Dell, Edson Kenny</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Perry, John Wiley</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1891</entry>
-</row>
-<row>
-<entry colname="1">Perry, Prentiss M.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913-1915</entry>
-</row>
-<row>
-<entry colname="1">Perryman, Lewis and Benjamin P. Gilbert</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911</entry>
-</row>
-<row>
-<entry colname="1">Plater, Richard C.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Porter, Philip H.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Porter, Robert Edwin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Powell, Nathan</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1894</entry>
-</row>
-<row>
-<entry colname="1">Powell, Paul Shell</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910-1913</entry>
-</row>
-<row>
-<entry colname="1">Prickett, John Wiley</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Pritchett, Granville Morrison</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1896-1900</entry>
-</row>
-<row>
-<entry colname="1">Proctor, Creasy Kinnons, Lemuel Edgar Wiggins, J. Howard Books</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Purcell, Claire</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910-1916</entry>
-</row>
-<row>
-<entry colname="1">Ragsdale, Clifton A.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1915</entry>
-</row>
-<row>
-<entry colname="1">Rapp, J. Carlisle</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1907</entry>
-</row>
-<row>
-<entry colname="1">Ray, John Allen</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Rector, Giles Carroll</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1893-1897</entry>
-</row>
-<row>
-<entry colname="1">Reynolds, H. A.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Ricks, William Benjamin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1894</entry>
-</row>
-<row>
-<entry colname="1">Roberson, Horace Maxey</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903-1906</entry>
-</row>
-<row>
-<entry colname="1">Roberts, W. J.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Rodriquez, P. Alphonso</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1894</entry>
-</row>
-<row>
-<entry colname="1">Ryang, Ju Sam</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913</entry>
-</row>
-<row>
-<entry colname="1">Saner, Dorothy Lee</entry>
-<entry colname="2"></entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Saner, Robert E. Lee</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1896</entry>
-</row>
-<row>
-<entry colname="1">Sawyer, John Granberry</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913-1920</entry>
-</row>
-<row>
-<entry colname="1">Schoolfield, John Ralph</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910</entry>
-</row>
-<row>
-<entry colname="1">Scott, Earl Francis</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903-1906</entry>
-</row>
-<row>
-<entry colname="1">Self, William Dennis</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1908</entry>
-</row>
-<row>
-<entry colname="1">Seward, Douglas C.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916-1924</entry>
-</row>
-<row>
-<entry colname="1">Shackleford, John Walter</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Shannon, E. B.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">5</container>
-<unittitle><emph render="underline">Sharp to Woodard</emph></unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="3">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">Sharp, Joseph Casper</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1920</entry>
-</row>
-<row>
-<entry colname="1">Sibley, Hesse Bourbon</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1905</entry>
-</row>
-<row>
-<entry colname="1">Simmons, Walter Heinman</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901-1903</entry>
-</row>
-<row>
-<entry colname="1">Simpson, Charles Jefferson</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Singleton, Frank Edus</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Smart, Richard Davis Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Smith, Frances Osgood</entry>
-<entry colname="2"></entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Smoot</entry>
-<entry colname="2"></entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Sneed, John B. Wardlaw</entry>
-<entry colname="2"></entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Spivey, Ludd Myrl</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910</entry>
-</row>
-<row>
-<entry colname="1">Stephens and Charles Duncan</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1901-1910</entry>
-</row>
-<row>
-<entry colname="1">Stevenson, Alec Brock</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916</entry>
-</row>
-<row>
-<entry colname="1">Stevenson, Henry Munn</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Stewart, Allen D.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911</entry>
-</row>
-<row>
-<entry colname="1">Stewart, John M.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Stilz, Earl Bauer</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1914</entry>
-</row>
-<row>
-<entry colname="1">Stokes, Peter</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1891</entry>
-</row>
-<row>
-<entry colname="1">Strother, Charles Wesley</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Summers, Lemuel Chester</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916-1919</entry>
-</row>
-<row>
-<entry colname="1">Swaim, John Carlisle</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1911-1913</entry>
-</row>
-<row>
-<entry colname="1">Terry, Benjamin Taylor</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898-1900</entry>
-</row>
-<row>
-<entry colname="1">Thornburg, Charles Lewis</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1881-1884</entry>
-</row>
-<row>
-<entry colname="1">Thrift, Charles Tinley</entry>
-<entry colname="2"></entry>
-<entry colname="3">1905</entry>
-</row>
-<row>
-<entry colname="1">Tillett, Wilbur Fisk</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Tucker, Willis Newton</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1898</entry>
-</row>
-<row>
-<entry colname="1">Turner, Edward Kimbrough</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Tuttle, Robert and Joe Maytubby</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Tyler, John Paul</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1904</entry>
-</row>
-<row>
-<entry colname="1">Underwood, E. Marvin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900-1902</entry>
-</row>
-<row>
-<entry colname="1">Vaughn, &#8212;</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Vaughn, Harry S.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1894</entry>
-</row>
-<row>
-<entry colname="1">Von Staur, Baron</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1909</entry>
-</row>
-<row>
-<entry colname="1">Vreeland, Walter Q.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1891-1893</entry>
-</row>
-<row>
-<entry colname="1">Wailes, William L. C.</entry>
-<entry colname="2"></entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Warterfield, Cliff A.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Washburn, Charles Campbell</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892</entry>
-</row>
-<row>
-<entry colname="1">Waters, John R.</entry>
-<entry colname="2"></entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Watkins, &#8212;</entry>
-<entry colname="2"></entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Weatherford, Willis Duke</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899-1907</entry>
-</row>
-<row>
-<entry colname="1">Weaver, Lester</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916</entry>
-</row>
-<row>
-<entry colname="1">Weaver, Robert Angelo</entry>
-<entry colname="2"></entry>
-<entry colname="3">1920</entry>
-</row>
-<row>
-<entry colname="1">Webb, Ernest Clay</entry>
-<entry colname="2"></entry>
-<entry colname="3">1908</entry>
-</row>
-<row>
-<entry colname="1">Wendell, Jack Lunn</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Werlein, Ewing</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910</entry>
-</row>
-<row>
-<entry colname="1">Werlein, Shepard Halsey Jr.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1897</entry>
-</row>
-<row>
-<entry colname="1">West, Olin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1895-1898</entry>
-</row>
-<row>
-<entry colname="1">White, Aaron Pancoast</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1917</entry>
-</row>
-<row>
-<entry colname="1">White, Robert Hiram</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1910</entry>
-</row>
-<row>
-<entry colname="1">Williams, Clark</entry>
-<entry colname="2"></entry>
-<entry colname="3">1903</entry>
-</row>
-<row>
-<entry colname="1">Williamson, Charles Samuel</entry>
-<entry colname="2"></entry>
-<entry colname="3">1902</entry>
-</row>
-<row>
-<entry colname="1">Willis, Paul Henning</entry>
-<entry colname="2"></entry>
-<entry colname="3">1906</entry>
-</row>
-<row>
-<entry colname="1">Wilson, &#8212;</entry>
-<entry colname="2"></entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Wilson, Fred Taylor</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1908-1910</entry>
-</row>
-<row>
-<entry colname="1">Wimberly, Charles F.</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1895</entry>
-</row>
-<row>
-<entry colname="1">Wolf, E. L.</entry>
-<entry colname="2"></entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Woodall, William Marvin</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1909</entry>
-</row>
-<row>
-<entry colname="1">Woodard, Fred Connell</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">6</container>
-<unittitle><emph render="underline">Woodson to Zimmerman, Unidentified, and Misc.</emph></unittitle>
-</did>
-<scopecontent>
-<table frame="none">
-<tgroup cols="3">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">Woodson, Thomas M.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1916</entry>
-</row>
-<row>
-<entry colname="1">Wright, C. O.</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Wynn, Samuel F.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1893</entry>
-</row>
-<row>
-<entry colname="1">Yoe, John Howe</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1913-1914</entry>
-</row>
-<row>
-<entry colname="1">Yoe, Frances Cheely</entry>
-<entry colname="2"></entry>
-<entry colname="3">1915</entry>
-</row>
-<row>
-<entry colname="1">Young, Wilbur Shelby</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1915</entry>
-</row>
-<row>
-<entry colname="1">Zimmerman, Ogburn, Chapman</entry>
-<entry colname="2">Alumni</entry>
-<entry colname="3">1910</entry>
-</row>
-<row>
-<entry colname="1">Campus Scene - 1</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Glee Club - 1</entry>
-<entry colname="2"></entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Wesley Hall Group - 1</entry>
-<entry colname="2"></entry>
-<entry colname="3">1890s</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Group - 1</entry>
-<entry colname="2"></entry>
-<entry colname="3">1890s</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 4</entry>
-<entry colname="2"></entry>
-<entry colname="3">1890s</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 4</entry>
-<entry colname="2"></entry>
-<entry colname="3">1890s</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 5</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 8</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 10</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 6</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 5</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Unidentified - Portraits - 4</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Cox, Eugene A.</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1899</entry>
-</row>
-<row>
-<entry colname="1">Crutchfield, Wallace Moss</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1900</entry>
-</row>
-<row>
-<entry colname="1">Alexander, Will Winton</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1912</entry>
-</row>
-<row>
-<entry colname="1">Fulton, John [as a child]</entry>
-<entry colname="2">Staff</entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Hawley, Jim</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1892-1893</entry>
-</row>
-<row>
-<entry colname="1">Holderness, Marvin Early</entry>
-<entry colname="2">Alumnus</entry>
-<entry colname="3">1902-1906</entry>
-</row>
-<row>
-<entry colname="1">Lewis, &#8212;</entry>
-<entry colname="2"></entry>
-<entry colname="3">n.d.</entry>
-</row>
-<row>
-<entry colname="1">Merrill, Austin H.</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1886-1900</entry>
-</row>
-<row>
-<entry colname="1">Tolman, Herbert Cushing</entry>
-<entry colname="2">Faculty</entry>
-<entry colname="3">1895-1923</entry>
-</row>
-<row>
-<entry colname="1">Fulton, John</entry>
-<entry colname="2">Staff</entry>
-<entry colname="3">1914</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-</c01>
-</dsc>
-</archdesc>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <unittitle>
+            <emph render="underline">Davis to Holderness</emph>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <table frame="none">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+              <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+              <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+              <tbody>
+                <row>
+                  <entry colname="1">Davis, James Wendel</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1890</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dean, Charles Herrn on</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dempsey, Elam Frank</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dent, Wilbur Tillett</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911-1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dent&#243;n, Guy Tresslen</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1906-1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dickenson, M. U.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dickinson,-----/Berie,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dillard, J. H.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dobbs, Hoyt McWhorter</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dortch, F. W.</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Doss, Washington LaFayette, Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1890</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dowman, Charles E. Jr.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dozier, Howard Douglas</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1908</entry>
+                </row>
+                <row>
+                  <entry colname="1">Draper, Walter Scott, Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901</entry>
+                </row>
+                <row>
+                  <entry colname="1">Duckworth, Robert Pierce</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dudley, William L.</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dudley, William L./Freddie Moore</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Dye, John Sinclair</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Eakes, Marvin</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Enochs, Marvin Smith</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Evans,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Fant, Lester Glenn</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897-1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Farrell, William Elliston</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1891</entry>
+                </row>
+                <row>
+                  <entry colname="1">Fields, Robert G.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Fifer,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Fix, Joseph Wood</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1922</entry>
+                </row>
+                <row>
+                  <entry colname="1">Follin, Gerald Webb</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Ford, William Vernon</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911</entry>
+                </row>
+                <row>
+                  <entry colname="1">Frantz, Frank Flavius/J. Mack Jenkins</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902-1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Frierson, John Dawson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911-1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gamble, Foster Kirk</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1907</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gannaway, Herbert/Bethel Long</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gannaway, Herbert</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901-1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gantt, Nicholas J. Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901-1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gardiner, S. Vaughn</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gilbert,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Givens, Claude Preston</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912-1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Glasgow, Benjamin Bascom</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Glass, Henry Iverson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1909-1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Godchaux, Frank Area</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901</entry>
+                </row>
+                <row>
+                  <entry colname="1">Granbery, John Cowper</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gray, Charles Walter</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911</entry>
+                </row>
+                <row>
+                  <entry colname="1">Greer, C. H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Gunter, Arthur L.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912-1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hager, Samuel E.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Halliburton, Wesley</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1891</entry>
+                </row>
+                <row>
+                  <entry colname="1">Harris, William Irion</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">03-22-1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Harvey,-----</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hawk, John Crisman</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hawkins, Eugene</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Heflin, John James</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Henry, Waights Gibbs</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Herbert, T. Grigsby</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Herndon, Virgil Crook</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hirst, Mr. and Mrs.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Holcombe, Armstead Richardson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Holderness, James Sidney</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1905-1906</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <unittitle>
+            <emph render="underline">Holland to McKenzie</emph>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <table frame="none">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+              <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+              <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+              <tbody>
+                <row>
+                  <entry colname="1">Holland, Richard Marion</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Holman, Harvey Thomas</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Holmes, William Walter</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hornback, James Matthew</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hounshell, Charles Gideon</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Howard, William James</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899-1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Huffman, Chester Clinton</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hughes, Urban Becker</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hughes, William Wightman</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hunter, James Duncan</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1907-1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hunter, J. R.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">06-01-1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Irion, J. Witt</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">James, John Caller</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903-1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Jenkins, J. Michael Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">03-19-1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Johnston, &#8212;</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Johnston, Mercer G.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">08-01-1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Jones, Elliott H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1891</entry>
+                </row>
+                <row>
+                  <entry colname="1">Jones, Ernest Scott</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Jones, Frank</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Jones, Henry H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Jones, Herbert V.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901</entry>
+                </row>
+                <row>
+                  <entry colname="1">Jones, Paul Mitchell</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1885</entry>
+                </row>
+                <row>
+                  <entry colname="1">Joyner, Nicholas E.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Kern, David H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Kern, Paul Bentley</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902-1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Kirkland, Charles B.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1890</entry>
+                </row>
+                <row>
+                  <entry colname="1">Lander, Frank Dunnington</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Langley, Joseph D.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Lawrence, &#8212;</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Lipscomb, Horace Swift Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901</entry>
+                </row>
+                <row>
+                  <entry colname="1">Locke, William Thomas and Edwin Mims, Albert Robins</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Logan, Will Gordon</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Long, Lemul Rix</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Long, William Bethel Mulberry School, Principal</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899-1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Lovelace, Griffin M.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Lund, Robert Leathan</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895-1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Luter, Clark Allen</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Lutz, Albert Simion</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Magruder, William T.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1894</entry>
+                </row>
+                <row>
+                  <entry colname="1">Mahoney, James Owen</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1894-1896</entry>
+                </row>
+                <row>
+                  <entry colname="1">Major, &#8212;</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Marshall, George G.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Matthews, William Kennon</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">McCulloch, James E.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901</entry>
+                </row>
+                <row>
+                  <entry colname="1">McGill, Elsa</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">McGill, John Thomas</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1879-1882</entry>
+                </row>
+                <row>
+                  <entry colname="1">McGlothin, Harvey Love</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Mclntyre, Marvin H. and Olin West</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">McKellor, Idus Eugene</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">McKenzie, Edward</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <unittitle>
+            <emph render="underline">McLaurin to Shannon</emph>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <table frame="none">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+              <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+              <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+              <tbody>
+                <row>
+                  <entry colname="1">McLaurin, David E.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">McNeilly, Albert S.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Merrill, Austin H.</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1996-1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Merriman, Lucius S.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">06-1889</entry>
+                </row>
+                <row>
+                  <entry colname="1">Merritt, Daniel Tatum</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Miller, Hugh Hedges</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Miller, Samuel Marvin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902-1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Miller, Victor Irvin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Mitchell, James B.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Montgomery, Riley B.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1923</entry>
+                </row>
+                <row>
+                  <entry colname="1">Moore, Frederick W.</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1893-1911</entry>
+                </row>
+                <row>
+                  <entry colname="1">Morgan, George Allen</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Morgan, Joseph J.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Morgan, William Henry</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Morrison, Jesse Ray</entry>
+                  <entry colname="2">Alumnus/Faculty</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Nance, Walter Buckner</entry>
+                  <entry colname="2">Alumnus/BOT</entry>
+                  <entry colname="3">1893-1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Naylor, G. R.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Neblett, John Walter</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Nellums, Marrus Elmo</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Nelson, Oscar Gustaf</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911-1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Nichols, John</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Nishikawa, Tama&#241;o Suke</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Nolen, Fendall C.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">O&#39;Connor, Myles Powers</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">O&#39;Dell, Edson Kenny</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Perry, John Wiley</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1891</entry>
+                </row>
+                <row>
+                  <entry colname="1">Perry, Prentiss M.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913-1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Perryman, Lewis and Benjamin P. Gilbert</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911</entry>
+                </row>
+                <row>
+                  <entry colname="1">Plater, Richard C.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Porter, Philip H.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Porter, Robert Edwin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Powell, Nathan</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1894</entry>
+                </row>
+                <row>
+                  <entry colname="1">Powell, Paul Shell</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910-1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Prickett, John Wiley</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Pritchett, Granville Morrison</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1896-1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Proctor, Creasy Kinnons, Lemuel Edgar Wiggins, J. Howard Books</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Purcell, Claire</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910-1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Ragsdale, Clifton A.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Rapp, J. Carlisle</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1907</entry>
+                </row>
+                <row>
+                  <entry colname="1">Ray, John Allen</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Rector, Giles Carroll</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1893-1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">Reynolds, H. A.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Ricks, William Benjamin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1894</entry>
+                </row>
+                <row>
+                  <entry colname="1">Roberson, Horace Maxey</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903-1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Roberts, W. J.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Rodriquez, P. Alphonso</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1894</entry>
+                </row>
+                <row>
+                  <entry colname="1">Ryang, Ju Sam</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Saner, Dorothy Lee</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Saner, Robert E. Lee</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1896</entry>
+                </row>
+                <row>
+                  <entry colname="1">Sawyer, John Granberry</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913-1920</entry>
+                </row>
+                <row>
+                  <entry colname="1">Schoolfield, John Ralph</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Scott, Earl Francis</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903-1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Self, William Dennis</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1908</entry>
+                </row>
+                <row>
+                  <entry colname="1">Seward, Douglas C.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916-1924</entry>
+                </row>
+                <row>
+                  <entry colname="1">Shackleford, John Walter</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Shannon, E. B.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">5</container>
+          <unittitle>
+            <emph render="underline">Sharp to Woodard</emph>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <table frame="none">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+              <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+              <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+              <tbody>
+                <row>
+                  <entry colname="1">Sharp, Joseph Casper</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1920</entry>
+                </row>
+                <row>
+                  <entry colname="1">Sibley, Hesse Bourbon</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Simmons, Walter Heinman</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901-1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Simpson, Charles Jefferson</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Singleton, Frank Edus</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Smart, Richard Davis Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Smith, Frances Osgood</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Smoot</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Sneed, John B. Wardlaw</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Spivey, Ludd Myrl</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Stephens and Charles Duncan</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1901-1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Stevenson, Alec Brock</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Stevenson, Henry Munn</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Stewart, Allen D.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911</entry>
+                </row>
+                <row>
+                  <entry colname="1">Stewart, John M.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Stilz, Earl Bauer</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Stokes, Peter</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1891</entry>
+                </row>
+                <row>
+                  <entry colname="1">Strother, Charles Wesley</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Summers, Lemuel Chester</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916-1919</entry>
+                </row>
+                <row>
+                  <entry colname="1">Swaim, John Carlisle</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1911-1913</entry>
+                </row>
+                <row>
+                  <entry colname="1">Terry, Benjamin Taylor</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898-1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Thornburg, Charles Lewis</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1881-1884</entry>
+                </row>
+                <row>
+                  <entry colname="1">Thrift, Charles Tinley</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1905</entry>
+                </row>
+                <row>
+                  <entry colname="1">Tillett, Wilbur Fisk</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Tucker, Willis Newton</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">Turner, Edward Kimbrough</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Tuttle, Robert and Joe Maytubby</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Tyler, John Paul</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1904</entry>
+                </row>
+                <row>
+                  <entry colname="1">Underwood, E. Marvin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900-1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Vaughn, &#8212;</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Vaughn, Harry S.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1894</entry>
+                </row>
+                <row>
+                  <entry colname="1">Von Staur, Baron</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1909</entry>
+                </row>
+                <row>
+                  <entry colname="1">Vreeland, Walter Q.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1891-1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wailes, William L. C.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Warterfield, Cliff A.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Washburn, Charles Campbell</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892</entry>
+                </row>
+                <row>
+                  <entry colname="1">Waters, John R.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Watkins, &#8212;</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Weatherford, Willis Duke</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899-1907</entry>
+                </row>
+                <row>
+                  <entry colname="1">Weaver, Lester</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Weaver, Robert Angelo</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1920</entry>
+                </row>
+                <row>
+                  <entry colname="1">Webb, Ernest Clay</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1908</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wendell, Jack Lunn</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Werlein, Ewing</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Werlein, Shepard Halsey Jr.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1897</entry>
+                </row>
+                <row>
+                  <entry colname="1">West, Olin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1895-1898</entry>
+                </row>
+                <row>
+                  <entry colname="1">White, Aaron Pancoast</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1917</entry>
+                </row>
+                <row>
+                  <entry colname="1">White, Robert Hiram</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Williams, Clark</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1903</entry>
+                </row>
+                <row>
+                  <entry colname="1">Williamson, Charles Samuel</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1902</entry>
+                </row>
+                <row>
+                  <entry colname="1">Willis, Paul Henning</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wilson, &#8212;</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wilson, Fred Taylor</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1908-1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wimberly, Charles F.</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1895</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wolf, E. L.</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Woodall, William Marvin</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1909</entry>
+                </row>
+                <row>
+                  <entry colname="1">Woodard, Fred Connell</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <unittitle>
+            <emph render="underline">Woodson to Zimmerman, Unidentified, and Misc.</emph>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <table frame="none">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+              <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+              <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+              <tbody>
+                <row>
+                  <entry colname="1">Woodson, Thomas M.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1916</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wright, C. O.</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wynn, Samuel F.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Yoe, John Howe</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1913-1914</entry>
+                </row>
+                <row>
+                  <entry colname="1">Yoe, Frances Cheely</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Young, Wilbur Shelby</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1915</entry>
+                </row>
+                <row>
+                  <entry colname="1">Zimmerman, Ogburn, Chapman</entry>
+                  <entry colname="2">Alumni</entry>
+                  <entry colname="3">1910</entry>
+                </row>
+                <row>
+                  <entry colname="1">Campus Scene - 1</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Glee Club - 1</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Wesley Hall Group - 1</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1890s</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Group - 1</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1890s</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 4</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1890s</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 4</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">1890s</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 5</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 8</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 10</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 6</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 5</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Unidentified - Portraits - 4</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Cox, Eugene A.</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1899</entry>
+                </row>
+                <row>
+                  <entry colname="1">Crutchfield, Wallace Moss</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Alexander, Will Winton</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1912</entry>
+                </row>
+                <row>
+                  <entry colname="1">Fulton, John [as a child]</entry>
+                  <entry colname="2">Staff</entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Hawley, Jim</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1892-1893</entry>
+                </row>
+                <row>
+                  <entry colname="1">Holderness, Marvin Early</entry>
+                  <entry colname="2">Alumnus</entry>
+                  <entry colname="3">1902-1906</entry>
+                </row>
+                <row>
+                  <entry colname="1">Lewis, &#8212;</entry>
+                  <entry colname="2"></entry>
+                  <entry colname="3">n.d.</entry>
+                </row>
+                <row>
+                  <entry colname="1">Merrill, Austin H.</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1886-1900</entry>
+                </row>
+                <row>
+                  <entry colname="1">Tolman, Herbert Cushing</entry>
+                  <entry colname="2">Faculty</entry>
+                  <entry colname="3">1895-1923</entry>
+                </row>
+                <row>
+                  <entry colname="1">Fulton, John</entry>
+                  <entry colname="2">Staff</entry>
+                  <entry colname="3">1914</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

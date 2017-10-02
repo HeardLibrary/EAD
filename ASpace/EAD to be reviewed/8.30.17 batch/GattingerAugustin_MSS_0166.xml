@@ -1,165 +1,176 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Gattinger, Augustin Papers</titleproper>
-<titleproper>Finding Aid for the Augustin Gattinger Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>Undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>The Augustin Gattinger Papers</unittitle>
-<unitid>MSS.0166</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>Undated</unitdate>
-</did>
-<bioghist>
-<head>BIOGRAPHICAL SKETCH</head>
-<p>Augustin Gattinger was born on February 3, 1825 in Munich, Germany and died July 18, 1903 in Nashville, Tennessee. He was a botanist and medical doctor who, in 1901, published the first extensive catalog of the botany of his adopted state entitled <emph render="italic">Flora of Tennessee and Philosophy of Botany.</emph> This book remains his greatest contribution to the study of botany in the South.</p>
-<p>He arrived in the United States in 1849 after being dismissed from the University of Munich for participation in dissident student groups and the celebration of George Washington&#8217;s birthday. After spending some 15 years practicing medicine in Chattanooga and East Tennessee, his pro-Union sympathies forced him to flee to Nashville in 1864. He served as an assistant surgeon in the United States Army and was subsequently appointed State Librarian from 1864-1869.</p>
-<p>During his years in East and Middle Tennessee, Dr. Gattinger pursued the study of botany, using the travelling he did as a country doctor as an opportunity to amass an extensive collection of plant specimens. He began corresponding with prominent botanists from all over the country and was able to meet many of them when they convened at a meeting of the Association for the Advancement of Science in Nashville in 1877. At this gathering he was encouraged to compile his extensive knowledge of the then unexplored botany of Tennessee into a catalog. This small volume, <emph render="italic">The Flora of Tennessee, with Special Reference to the Flora of Nashville</emph>, was self-published in 1887 and paved the way for Dr. Gattinger&#8217;s subsequent work, <emph render="italic">Medicinal Plants of Tennessee,</emph> which was published in 1894 under the auspices of the State of Tennessee Department of Agriculture. <emph render="italic">Flora of Tennessee and Philosophy of Botany</emph>, his major work, was published in 1901. In 1890 he donated his extensive herbarium to the University of Tennessee where it remained until the building housing it burned to the ground in 1934 and all specimens were lost.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>The Augustin Gattinger Papers consist of one Hollinger box (0.417 linear feet).</p>
-<p>The Augustin Gattinger Papers (1825-1903) are composed primarily of correspondence with the addition of one folder containing newspaper clippings and articles along with handwritten reminiscences of Dr. Gattinger by friends and associates.</p>
-<p>The bulk of the letters in the collection consist of Dr. Gattinger&#8217;s correspondence with prominent botanists of the day including Asa Gray of Harvard, Leo Lesquereux and A.W. Chapman, the renowned collector of Southern plants. Much of the material involves the publication and distribution of Dr. Gattinger&#8217;s book, <emph render="italic">Flora of Tennessee and Philosophy of Botany</emph>. </p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>CORRESPONDENCE-OUTGOING</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Outgoing correspondence, bibliography, sketch of life</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>CORRESPONDENCE-INCOMING</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Incoming Correspondence,</unittitle>
-<unitdate>1888-1902</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Letters in German: Karl Mohr, H.E. Hasse, Henry Eggert, his mother, with translated interpretations</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Correspondence with A.W. Chapman,</unittitle>
-<unitdate>1881-1888</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Correspondence with John M. Coulter, S.B. Parrish, A.J. McWhirter and others,</unittitle>
-<unitdate>1883-1903</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Correspondence with Asa Gray with death announcement, Leo Lesquereux, Walter Deane, S.M. Meehan, M. O&#8217;Shaunessy, Ferdinand Arnold with photograph and death announcement,</unittitle>
-<unitdate>1878-1932</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Correspondence with William Trelease and George Engelmann, with death announcement,</unittitle>
-<unitdate>1879-1932</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Correspondence with Tennessee and U.S. Government Officials,</unittitle>
-<unitdate>1878-1903</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Correspondence with University of Tennessee Agricultural Experiment Station,</unittitle>
-<unitdate>1888-1901</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Correspondence re: &#8220;Flora of Tennessee,&#8221;</unittitle>
-<unitdate>1887-1903</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Correspondence re: &#8220;Flora of Tennessee&#8221; from people who received complimentary copies &#8211; see File 10 also,</unittitle>
-<unitdate>1901-1903</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>NEWSPAPER CLIPPINGS</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Newspaper clippings, articles</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Gattinger, Augustin Papers</titleproper>
+        <titleproper>Finding Aid for the Augustin Gattinger Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>The Augustin Gattinger Papers</unittitle>
+      <unitid>MSS.0166</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>1825-1903</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Sketch</head>
+      <p>Augustin Gattinger was born on February 3, 1825 in Munich, Germany and died July 18, 1903 in Nashville, Tennessee. He was a botanist and medical doctor who, in 1901, published the first extensive catalog of the botany of his adopted state entitled
+        <emph render="italic">Flora of Tennessee and Philosophy of Botany.</emph>
+        This book remains his greatest contribution to the study of botany in the South.</p>
+      <p>He arrived in the United States in 1849 after being dismissed from the University of Munich for participation in dissident student groups and the celebration of George Washington&#8217;s birthday. After spending some 15 years practicing medicine
+        in Chattanooga and East Tennessee, his pro-Union sympathies forced him to flee to Nashville in 1864. He served as an assistant surgeon in the United States Army and was subsequently appointed State Librarian from 1864-1869.</p>
+      <p>During his years in East and Middle Tennessee, Dr. Gattinger pursued the study of botany, using the travelling he did as a country doctor as an opportunity to amass an extensive collection of plant specimens. He began corresponding with prominent
+        botanists from all over the country and was able to meet many of them when they convened at a meeting of the Association for the Advancement of Science in Nashville in 1877. At this gathering he was encouraged to compile his extensive knowledge of
+        the then unexplored botany of Tennessee into a catalog. This small volume,
+        <emph render="italic">The Flora of Tennessee, with Special Reference to the Flora of Nashville</emph>, was self-published in 1887 and paved the way for Dr. Gattinger&#8217;s subsequent work,
+        <emph render="italic">Medicinal Plants of Tennessee,</emph>
+        which was published in 1894 under the auspices of the State of Tennessee Department of Agriculture.
+        <emph render="italic">Flora of Tennessee and Philosophy of Botany</emph>, his major work, was published in 1901. In 1890 he donated his extensive herbarium to the University of Tennessee where it remained until the building housing it burned to the ground in 1934 and all specimens were lost.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The Augustin Gattinger Papers consist of one Hollinger box (0.42 linear feet).</p>
+      <p>The Augustin Gattinger Papers (1825-1903) are composed primarily of correspondence with the addition of one folder containing newspaper clippings and articles along with handwritten reminiscences of Dr. Gattinger by friends and associates.</p>
+      <p>The bulk of the letters in the collection consist of Dr. Gattinger&#8217;s correspondence with prominent botanists of the day including Asa Gray of Harvard, Leo Lesquereux and A.W. Chapman, the renowned collector of Southern plants. Much of the
+        material involves the publication and distribution of Dr. Gattinger&#8217;s book,
+        <emph render="italic">Flora of Tennessee and Philosophy of Botany</emph>.
+      </p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence - Outgoing</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Outgoing correspondence, bibliography, sketch of life</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence - Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Incoming Correspondence,</unittitle>
+            <unitdate>1888-1902</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Letters in German: Karl Mohr, H.E. Hasse, Henry Eggert, his mother, with translated interpretations</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence with A.W. Chapman,</unittitle>
+            <unitdate>1881-1888</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence with John M. Coulter, S.B. Parrish, A.J. McWhirter and others,</unittitle>
+            <unitdate>1883-1903</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence with Asa Gray with death announcement, Leo Lesquereux, Walter Deane, S.M. Meehan, M. O&#8217;Shaunessy, Ferdinand Arnold with photograph and death announcement,</unittitle>
+            <unitdate>1878-1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence with William Trelease and George Engelmann, with death announcement,</unittitle>
+            <unitdate>1879-1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence with Tennessee and U.S. Government Officials,</unittitle>
+            <unitdate>1878-1903</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Correspondence with University of Tennessee Agricultural Experiment Station,</unittitle>
+            <unitdate>1888-1901</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Correspondence re: &#8220;Flora of Tennessee,&#8221;</unittitle>
+            <unitdate>1887-1903</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Correspondence re: &#8220;Flora of Tennessee&#8221; from people who received complimentary copies &#8211; see File 10 also,</unittitle>
+            <unitdate>1901-1903</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Newspaper Clippings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Newspaper clippings, articles</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
