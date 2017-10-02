@@ -1,640 +1,670 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">France, Louisa F. Collection</titleproper>
-<titleproper>Finding Aid for the Louisa F. France Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2003</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Louisa F. France Collection</unittitle>
-<unitid>MSS.0152</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>2003</unitdate>
-</did>
-<userestrict>
-<p>The Louisa F. France Collection documents over six decades of musical performances staged in the United States and Europe. Measuring 4.2 linear feet, the collection is organized chronologically and represents a wide spectrum of classical performers and musical styles. The earliest programs date back to 1920s performances by Sergey Rachmanioff (1873-1943) and Jascha Heifetz (1901-87) at the Lyric Theatre in Baltimore, Maryland. Other key performance venues in the United States represented in the collection include the Metropolitan Opera House, Lincoln Center and Carnegie Hall in New York City as well as the Kennedy Center for the Performing Arts in Washington, D.C.</p>
-<p>Of special interest to researchers are the pre-World War II programs from Vienna and Salzburg, Austria; Munich, Dresden and Bayreuth, Germany; and Paris, France in the months leading up to the Nazi occupation. There are also several post-war items from London, England; Cremona, Italy; Brussels, Belgium; Innsbrook, Austria; Gottingen and Nurnberg, Germany.</p>
-<p>In the late 1940s, Ms. France moved to Nashville with her husband, Dr. Richard France (Vanderbilt University Medical School Faculty 1948-85), where she and Dr. France patronized the local performance art scene. Items representing music programs staged at various churches in Nashville as well as those presented by George Peabody College for Teachers, Fisk University, Blair School of Music and the Nashville Symphony all are included in this collection.</p>
-<p>Also included in the collection is small cache of booklets on English and European luthiers, composers and historic sites as well as souvenir programs for the Vienna Boys Choir, Leopold Stokowski and the All-American youth Orchestra, and Robert Shaw&#8217;s Choral Ensemble. The items contained herein complement a collection of commemorative coins from Austria. Minted from 1929 &#8211; 1937, the series honors composers and artists including Franz Schubert, Wolfgang Amadeus Mozart and Franz Joseph Hayden. Although some items are seventy years old, the overall condition of the materials in the collection is stable and good.</p>
-</userestrict>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unitdate>1922 &#8211; May 1930</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Boston Symphony Orchestra</item>
-<item>Feodor Chaliapin</item>
-<item>The Chicago Opera</item>
-<item>Giuseppe DeLuca</item>
-<item>Amelita Galli-Curci</item>
-<item>The German Grand Opera Company [Baltimore, MD]</item>
-<item>Harrisburg [PA] Symphony Orchestra</item>
-<item>Jascha Heifetz</item>
-<item>Vladimir Horowitz</item>
-<item>The Johns Hopkins Orchestra</item>
-<item>Juilliard String Quartet</item>
-<item>La Argentina</item>
-<item>Hans Kindler</item>
-<item>Paul Kochanski</item>
-<item>Fritz Kreisler</item>
-<item>Kreutzbert &#38; Georgi</item>
-<item>London String Quartet</item>
-<item>Giovanni Martinelli</item>
-<item>Yehudi Menuhin</item>
-<item>Metropolitan Opera [NY]</item>
-<item>Grace Moore</item>
-<item>Mozart Festival [Harrisburg, PA]</item>
-<item>New York Philharmonic (Arturo Toscanini conducting)</item>
-<item>Ignace Jan Paderewski</item>
-<item>The Philadelphia Orchestra</item>
-<item>Rosa Ponselle</item>
-<item>Peabody Conservatory of Music [Baltimore, MD]</item>
-<item>Shanghai Municipal Orchestra</item>
-<item>Sergey Rachmaninoff</item>
-<item>Alberto Salvi</item>
-<item>Mme. Schumann-Heink</item>
-<item>John Philip Sousa</item>
-<item>Lawrence Tibbett</item>
-<item>and others</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>June 1930 &#8211; 1935</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Bach Festival [Bethlehem, PA]</item>
-<item>Baltimore Symphony Orchestra (with George Siemonn conducting)</item>
-<item>Boston Symphony Orchestra (directed by Dr. Serge Koussevitzky)</item>
-<item>Budapest String Quartet</item>
-<item>Shura Cherkassky [Constitution Hall, Washington, DC]</item>
-<item>Claire Clairbert</item>
-<item>Compinsky Trio</item>
-<item>Don Cossack Chorus</item>
-<item>D&#8217;oyly Carte Opera Company</item>
-<item>German Grand Opera Company</item>
-<item>Harrisburg [PA] Symphony Orchestra</item>
-<item>Fritz Kreisler</item>
-<item>Kreutzbert &#38; Georgi</item>
-<item>Yehudi Menuhin</item>
-<item>Mercersburg Academy [PA] Carillon Group</item>
-<item>Metropolitan Opera Company [NY]</item>
-<item>Monte Carlo Ballet Russe</item>
-<item>Musical Arts Quartet</item>
-<item>National Symphony Orchestra (conducted by Hans Kindler)</item>
-<item>New York Philharmonic [Arturo Toscanini with guest</item>
-<item>conductor Sir Thomas Beecham]</item>
-<item>Paderewski</item>
-<item>Peabody Conservatory of Music [Baltimore, MD]</item>
-<item>Philadelphia [PA] Orchestra (conducted by Leopold Stokowski with guest appearance by Vladimir Horowitz)</item>
-<item>Sergey Rachmaninoff</item>
-<item>Ruggiero Ricci</item>
-<item>Roth Quartet</item>
-<item>Carlos Salzedo</item>
-<item>San Carlo Grand Opera</item>
-<item>Ted Shawn and his Ensemble of Men Dancers</item>
-<item>Igor Stravinsky and Samuel Dushkin</item>
-<item>Joseph Szigeti</item>
-<item>and others</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1936 &#8211; 1937</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Ballet Russe of Monte Carlo</item>
-<item>Baltimore String Symphony</item>
-<item>Baltimore Symphony Orchestra (including Concert for Young People)</item>
-<item>Paul Bernard and Gardner Jencks</item>
-<item>Shura Cherkassky</item>
-<item>Coolidge Quartet</item>
-<item>Curtis String Quartet</item>
-<item>Harrisburg [PA] Symphony Orchestra</item>
-<item>Fritz Kreisler</item>
-<item>Library of Congress Festival of Chamber Music</item>
-<item>Tribute Concert to Charles Martin Loeffler (presented by the Library of Congress, Washington, DC)</item>
-<item>Marcel Maas</item>
-<item>Metropolitan Opera Company Musical Arts Quartet</item>
-<item>National Symphony</item>
-<item>The Philadelphia Orchestra</item>
-<item>Pro Arte String Quartet</item>
-<item>Savoy Company</item>
-<item>Joseph Szigeti</item>
-<item>Trio Italiano</item>
-</list>
-<p>Also included in this box are souvenir postcards and brochures from Cremona, Italy; bicentennial commemorative brochures on Antonio Stradivari; Opern Theatre, Konzerthaus-Quartett, Musica Viva Orchester, Weissgarber Quartet, Marian Anderson, Emil von Sauer, Helen Teschner Tas, Rose-Quartett; Germany.</p>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1938 &#8211; 1940</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Programs include performances at venues in Europe including:</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Opern Theater [Berlin]</item>
-<item>Gefellfchaft der Musikfreunde [Vienna]</item>
-<item>Burg Theater [Germany]</item>
-<item>Budapest [Hungary]</item>
-<item>Prague [Czechoslovakia]</item>
-<item>Paris [France]</item>
-<item>Academie Nationale de Musique et de Danse</item>
-<item>Theatre National De L&#8217;Opera Comique</item>
-<item>Festival [Igor] Stravinsky, [Paris]</item>
-<item>Salzburg [Austria] Festspiele</item>
-<item>Dresden [Germany] Opernhaus</item>
-<item>Festival Bayreuth [Munich]</item>
-<item>Orchestre de la Societe Philharmonique de Paris</item>
-<item>[Hector] Berlioz</item>
-<item>14<emph render="super">th</emph> Haslemere Festival of Ancient Music [Surrey, England]</item>
-<item>Ballet Russe de Monte Carlo with the London Symphony Orchestra and the London Philharmonic Orchestra, Royal Opera House [London]</item>
-<item>Pamphlet: <emph render="italic">The Work and Ideas of Arnold Dolmetsch - Dolmetsch and his Instruments</emph></item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>U.S. programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>All-American Youth Orchestra (conducted by Leopold Stokowski)</item>
-<item>Baltimore Civic Opera Company</item>
-<item>Belgian Piano String Quartet</item>
-<item>Berkshire Symphony Festival, Tanglewood, MA (includes special Allied Relief Fund Benefit for British Aid)</item>
-<item>Virgil Fox</item>
-<item>Harrisburg [PA] Symphony Orchestra</item>
-<item>Kolisch Quartet</item>
-<item>Library of Congress Ninth Festival of Chamber Music</item>
-<item>Metropolitan Opera Company, New York</item>
-<item>The National Symphony Orchestra at Baltimore</item>
-<item>New Jersey Symphony Orchestra</item>
-<item>Philharmonic Symphony Society of New York</item>
-<item>The Town Hall, New York (cover features a photo of the Trapp Family Choir)</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1941 &#8211; 1951</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>The American Ballad Singers</item>
-<item>The Bach Choir</item>
-<item>Bethlehem, [PA] Bach Festival</item>
-<item>Ballet Russe</item>
-<item>Baltimore Symphony Orchestra</item>
-<item>Bela Bartok and Ditta Pasztory (Mrs. Bela Bartok)</item>
-<item>Bennington [VT] Festival</item>
-<item>Berkshire Symphonic Festival [Tanglewood, MA]</item>
-<item>Budapest String Quartet</item>
-<item>Carnegie Hall Golden Anniversary commemorative program</item>
-<item>Cincinnati Symphony Orchestra</item>
-<item>Coolidge Quartet</item>
-<item>Paul Drape and Larry Adler, Ryman Auditorium, Nashville, TN</item>
-<item>Ecole Francaise de Middlebury</item>
-<item>Fisk Jubilee Singers</item>
-<item>Virgil Fox (sponsored by the Fisk University Concert Series)</item>
-<item>Joseph Fuchs</item>
-<item>George Peabody College for Teachers Concert Series (separately and with the University of the South)</item>
-<item>Harrisburg [PA] Symphony Orchestra</item>
-<item>Homewood Quartet</item>
-<item>Indianapolis Symphony Orchestra (Fabien Sevitzky, conductor)</item>
-<item>Kolisch String Quartet</item>
-<item>Kungsholm Miniature Grand Opera Theatre of Chicago commemorative program</item>
-<item>La Scala Opera Company</item>
-<item>London String Quartet</item>
-<item>Robert McDowell</item>
-<item>The Nashville Symphony (William Strickland, conductor)</item>
-<item>National Symphony Orchestra (Hans Kindler, Conductor), Washington, DC</item>
-<item>The Philadelphia Orchestra</item>
-<item>Orchestra of the New Friends of Music (conducted by Fritz Stiedry)</item>
-<item>Roth Quartet [Brigham Young University, Salt Lake City, Utah]</item>
-<item>Saint Louis Sinfonietta</item>
-<item>The Town Hall [NYC]</item>
-<item>Ward-Belmont Conservatory of Music</item>
-<item>Leonard Warren</item>
-<item>Yale Glee Club</item>
-<item>Vermont Sesquicentennial Program, 1941</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1952 &#8211; 1964</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Ballet Theatre Foundation</item>
-<item>Beaux Arts Trio of New York</item>
-<item>Mary Louise Boehm</item>
-<item>Brevard [PA] Music Center</item>
-<item>Budapest String Quartet</item>
-<item>The Cathedral Singers</item>
-<item>Chicago Symphony String Quartet</item>
-<item>Chicago Symphony Orchestra (Louis Lane, Guest Conductor)</item>
-<item>Cincinnati Symphony Orchestra</item>
-<item>Gregory Colson</item>
-<item>Danish National Orchestra</item>
-<item>Festival Quartet</item>
-<item>Don Cossack Chorus and Dancers</item>
-<item>Clifford Curzon</item>
-<item>Ernst Von Dohnanyi</item>
-<item>First Presbyterian Carillon Dedication Concert (Nashville, TN)</item>
-<item>The Fisk Jubilee Singers</item>
-<item>The Fisk University Choir</item>
-<item>Fisk University 25<emph render="super">th</emph>, 27<emph render="super">th</emph> and 34<emph render="super">th</emph> Annual Festival of Music and Art</item>
-<item>Virgil Fox</item>
-<item>Nicola Gedda</item>
-<item>Johana Harris</item>
-<item>Kees Kooper</item>
-<item>Robert McDowell</item>
-<item>Josef Marais and Miranda</item>
-<item>Nashville Symphony Orchestra (with Guy Taylor conducting)</item>
-<item>Nashville Symphony String Quartet</item>
-<item>New Music String Quartet</item>
-<item>New York String Sextet</item>
-<item>Peabody Demonstration School Recital Series</item>
-<item>Philadelphia [PA] Orchestra</item>
-<item>Pittsburgh [PA] Symphony Orchestra</item>
-<item>Michael Rabin</item>
-<item>Luisa Ribacchi and Guido Cantelli at Carnegie Hall (NYC)</item>
-<item>Rise Stevens</item>
-<item>Helen Traubel</item>
-<item>Robert Shaw Chorale and Orchestra</item>
-<item>St. Louis Municipal Opera</item>
-<item>United States Air Force Band</item>
-<item>University of the South Choir</item>
-<item>Vienna Boys Choir</item>
-<item>Walden String Quartet</item>
-<item>Bruno Walter at Carnegie Hall (NYC)</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Playbills, publications and miscellaneous items include:</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>&#8220;Singin&#8217; Billy,&#8221; 1952 and 1955 productions by Peabody College and Vanderbilt Music Dept.</item>
-<item>&#8220;St. Louis Woman,&#8221; &#8220;Cosi Fan Tutte&#8221; and &#8220;Member of the Wedding,&#8221; presented by the Circle Players</item>
-<item>&#8220;Sunny Side Up&#8221; presented by the Princeton Triangle Club</item>
-<item>&#8220;Bartleby,&#8221; presented by the Oberlin [OH] College Conservatory of Music</item>
-<item>Poetry reading of works by R. P. Warren, M. Moore, A. Tate, D. Davidson, J. C. Ransom</item>
-<item>Bravo Magazine (Vol I, No. 2; Vol. II, No. 1; Vol. II, No. 3) 95<emph render="super">th</emph> Annual Convention for Tennessee Education Association</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1965 &#8211; 1969</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Baltimore Symphony Orchestra (Brian Priestman, and Leopold Stokowski, Conductors)</item>
-<item>Beaux Arts String Quartet</item>
-<item>Beaux Arts Trio of New York</item>
-<item>Berliner Camerata Musicale</item>
-<item>Boston Symphony Orchestra [Berkshire Festival at Tanglewood, MA]</item>
-<item>Cadet Glee Club (Virginia Military Institute at Hollins College and Robert E. Lee Memorial Episcopal Church)</item>
-<item>Chamber Symphony of Philadelphia</item>
-<item>Christ Church Parish (Nashville)</item>
-<item>Eastman Quartet</item>
-<item>George Goodman (at Fisk University)</item>
-<item>Guarneri String Quartet</item>
-<item>Hampden-Sydney College Glee Club</item>
-<item>Hollins College Student Recital and &#8220;A Program of Theatre Dance&#8221; (1967 and 1968)</item>
-<item>Hungarian Quartet</item>
-<item>Julliard String Quartet</item>
-<item>Le Danseurs Africains (first U. S. performance)</item>
-<item>Lenox String Quartet</item>
-<item>Lucktenberg Duo</item>
-<item>The Little Symphony of Nashville presents &#8220;An Evening of the Avant-Garde Arts&#8221;</item>
-<item>Nashville String Quartet</item>
-<item>Nashville Symphony Orchestra (Willis Page, conductor; Thor Johnson, Music Director and Conductor)</item>
-<item>Nashville Youth Symphony</item>
-<item>New York Philharmonic (with Andre Kostelanetz conducting)</item>
-<item>New York Woodwind Quintet</item>
-<item>George Peabody College School of Music Recital Series</item>
-<item>George Peabody College for Teachers Recital Series</item>
-<item>Philadelphia Orchestra</item>
-<item>The Romeros</item>
-<item>St. George&#8217;s Episcopal Church Fourth Sunday Music Series</item>
-<item>St. Louis Orchestra</item>
-<item>Grete Sultan and Barbara Wieman (Town Hall, NYC)</item>
-<item>Charles Treger (Carnegie Hall, NYC)</item>
-<item>University of North Carolina Choir</item>
-<item>Vanderbilt University Center Choral Union and Center Orchestra</item>
-<item>Washington Square Chorus and Orchestra (NYU)</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Playbills, publications and miscellaneous items include</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>&#8220;An Evening of One-Act Plays&#8221; by Tennessee Williams and Samuel Beckett presented by Vanderbilt University Theatre</item>
-<item>&#8220;Kaleidoscope &#8217;67&#8221; presented by the Circle Players</item>
-<item>&#8220;The Threepenny Opera&#8221; presented by Peabody School of Music</item>
-<item><emph render="italic">Nashville Symphony Newsletter</emph>, Vol. XIII, No. 5; March 1968</item>
-<item>Program for the 93<emph render="super">rd</emph> Commencement Exercises of Meharry Medical College 23<emph render="super">rd</emph> Composers&#8217; Conference and Chamber Music Center at Bennington College [VT]</item>
-<item>Guide for Cheekwood&#8217;s Christmas &#8220;Trees of Many Lands&#8221; exhibit</item>
-<item>Hollins College Parents&#8217; Day [Roanoke, VA] Materials</item>
-<item>Peabody College School of Music Seminar in Piano Teaching schedule and program</item>
-<item>Signe Quale (Memphis State University, University of the South and First Unitarian Church, Nashville)</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1970 &#8211; 1975</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Avante Garde III</item>
-<item>Bamberg Symphony Orchestra</item>
-<item>Blair Academy of Music Student Recital Series</item>
-<item>Blair String Quartet</item>
-<item>Candler Choraliers</item>
-<item>Cheekwood Chamber Music Series</item>
-<item>Chicago Symphony String Quartet</item>
-<item>Christ Church Parish Concert Series (Nashville)</item>
-<item>Van Cliburn</item>
-<item>Collegiate Chorale</item>
-<item>Catherine Crozier</item>
-<item>Dvorak String Quartet</item>
-<item>Eastman Brass Quintet</item>
-<item>First Presbyterian Church</item>
-<item>The Fisk University Choir</item>
-<item>George Peabody College School of Music Series (various student performers)</item>
-<item>Guarneri String Quartet</item>
-<item>I Solisti Veneti</item>
-<item>Joint University Choir (GPC)</item>
-<item>Julliard String Quartet</item>
-<item>Mark Kaplan and Samuel Sanders</item>
-<item>King College Symphonic Choir</item>
-<item>The King&#8217;s Singers</item>
-<item>Kurrende Student Choir of Berlin (US tour 1972)</item>
-<item>London Symphony Orchestra (at Carnegie Hall with Andre Previn conducting)</item>
-<item>Marlboro Trio</item>
-<item>Morehouse College Glee Club</item>
-<item>Nashville Baroque and Classical Society Concert Series</item>
-<item>Nashville Chamber Brass Society</item>
-<item>Nashville Chamber Singers</item>
-<item>Nashville Symphony Orchestra</item>
-<item>Nashville University Center Council</item>
-<item>New London Ballet with Guest Artist [Dame] Margot Fonteyn</item>
-<item>New York Philharmonic (Lincoln Center)</item>
-<item>Jean-Pierre Rampal and Robert Veyron-Lacroix</item>
-<item>Scarritt College Chapel Choir and the Scarritt Singers</item>
-<item>St. Paul&#8217;s Evangelical Lutheran Church</item>
-<item>Trombone Ensemble of the University of Oklahoma</item>
-<item>University of Louisville Brass Quintet</item>
-<item>Warsaw String Quartet</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Playbills, publications and miscellaneous items include</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>&#8220;Die Fledermaus&#8221; performed by the Turnau Opera Players</item>
-<item>&#8220;Der Freischutz&#8221; presented by The Hartford [MD] Opera Theatre</item>
-<item>&#8220;H.M.S. Pinafore&#8221; presented by the Theatre Nashville Playhouse</item>
-<item>&#8220;Everyman&#8221; performed by Anthony Quayle and the Clarence Brown Scholar&#8217;s Troupe</item>
-<item>World of Gilbert &#38; Sullivan presented by [Nashville] Community Concert Association</item>
-<item>Tribute Concert &#38; Memorial Dinner in Recognition of John Wesley Work, III sponsored by Nashville Chapter of Links</item>
-<item>Seminar in Piano Teaching (GPC)</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">8</container>
-<unittitle>Programs and other materials from European venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item><emph render="italic">Der Widerspenstigen Zahmung</emph> Ballet nach Shakespeare von John Cranko</item>
-<item>&#8220;Carmen&#8221; at the Staatsoper</item>
-<item>&#8220;Cinderella&#8221; at Komische Oper, Berlin</item>
-<item>&#8220;Die Liebe Zu Zrei Orangen&#8221; at Komische Oper, Berlin</item>
-<item>&#8220;Hansel und Gretel,&#8221; Deutsche Staatsoper Berlin</item>
-<item>&#8220;Tosca&#8221; at the Staatsoper</item>
-<item>Berliner Barock Orchester</item>
-<item>Deutsche Oper Berlin</item>
-<item>James Galway, Amerika Haus Berlin</item>
-<item>Igor Kipnis, Amerika Haus Berlin</item>
-<item>Salzburg Mozart Festival (includes performances of &#8220;Don Giovanni,&#8221; &#8220;Die Zauberflote,&#8221; &#8220;Macbeth&#8221;)</item>
-<item>Symphonisches Orchester Berlin</item>
-<item><emph render="italic">Opern Journal</emph>, Nos. 2, 3, and 4 Oct., Nov. &#38; Dec. 1970</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1976 &#8211; 1985</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Programs include performances by and/or at the following venues</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>American String Quartet</item>
-<item>Annapolis Brass Quintet</item>
-<item>Arioso Woodwind Quintet</item>
-<item>Bach Aria Group (Fisk University Concert Series)</item>
-<item>Baltimore Symphony Orchestra</item>
-<item>Blair Academy of Music</item>
-<item>Blair Chamber Players</item>
-<item>The Centennial Club</item>
-<item>Christ Church Parish</item>
-<item>Christ Episcopal Church</item>
-<item>First Presbyterian Church</item>
-<item>Fu Shing Chinese Opera Troupe (American Tour)</item>
-<item>The Gurdjieff Movements</item>
-<item>Illinois Kabuki Theatre with Shozo Sato</item>
-<item>Kentucky Wesleyan Singers</item>
-<item>The Mozarteum Quartet Salzburg, Tennessee Performing Arts Center, Nashville</item>
-<item>Nashville Baroque and Classical Society Series</item>
-<item>Nashville Symphony Orchestra (John Nelson, Music Advisor and Michael Charry Music Director and Conductor)</item>
-<item>Jessye Norman with the New York Philharmonic, Lincoln Center</item>
-<item>Pablo Casals Trio</item>
-<item>Peabody Chamber Trio</item>
-<item>The National Symphony Orchestra at Kennedy Center, Washington, DC</item>
-<item>New Hampshire Music Festival (w/ Thomas Nee conducting)</item>
-<item>New York Philharmonic at Lincoln Center</item>
-<item>Oberlin Baroque Ensemble</item>
-<item>The Pennsylvania Ballet</item>
-<item>The Piedmont Chamber Orchestra</item>
-<item>The Philadelphia Orchestra at Jackson Hall, Tennessee Performing Arts Center, Nashville</item>
-<item>Marek Piskunov and Alexander Piskunov</item>
-<item>Zina Schiff (Fisk University Concert Series)</item>
-<item>Peter Serkin</item>
-<item>Robert Stallman and Edwin Swanborn</item>
-<item>Isaac Stern with the Nashville Symphony Orchestra</item>
-<item>Summermusik at Cheekwood</item>
-<item>Christian Teal and Enid Katahn</item>
-<item>Tel Aviv String Quartet</item>
-<item>Tokyo String Quartet (Sarratt)</item>
-<item>Vienna Philharmonic Orchestra at Carnegie Hall (with Leonard Bernstein conducting)</item>
-<item>The Vienna Quintet</item>
-<item>Ragin Wenk and Kaare Ornung</item>
-<item>Westminster (PA) College Choir</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>Playbills, publications and miscellaneous items include</unittitle>
-</did>
-<note>
-<list type="simple">
-<item><emph render="italic">Fa&#231;ade an entertainment</emph> with poems by Edith Sitwell &#38; Music by William Walton</item>
-<item>George Peabody College Seminar in Piano Teaching Recital Series</item>
-<item><emph render="italic">Premiere Magazine</emph>, Fall 1980, Winter 1980-81 (with NSO series programs)</item>
-<item>Metropolitan Opera National Council Mid-South Auditions</item>
-<item>&#8220;Washington Square&#8221; presented by the Augusta Opera Company</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">9</container>
-<unittitle>International Concerts</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Familiengottesdienst zum Sommerfest 1977 (Gottingen), Nurnberg, Innsbruck</item>
-<item>&#8220;Simon Boccanegra&#8221; at the Opera National/Theatre Royal de la Monnaie (Directeur Maurice Huisman)</item>
-<item>Societe Philharmonique de Bruxelles (Filharmonische Vereniging van Brussel)</item>
-</list>
-</note>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unitdate>1934 &#8211; 1985</unitdate>
-</did>
-<c02 level="item">
-<did>
-<container type="box">10</container>
-<unittitle>Souvenir programs and other materials:</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>25<emph render="super">th</emph> Anniversary Booklet [1935] on Neues Wiener Konservatorium</item>
-<item>Biography of Paganiniana, published by the Library of Congress, 1945 Reprint of <emph render="italic">Show</emph> Magazine, March 1964</item>
-<item>Tour Program for All American Youth Orchestra (dir. by Leopold Stokowski), 1940</item>
-<item>60<emph render="super">th</emph> Anniversary Commemorative program for the Boston Symphony, 1941</item>
-<item>Robert Shaw Choral and String Ensemble Tour Program, c. 1952</item>
-<item>NDR Symphony Orchestra of Hamburg, 1962-63 tour program</item>
-<item>Vienna Choir Boys tour program, c. early 1960s</item>
-<item><emph render="italic">A Tanglewood Dream</emph>, 25<emph render="super">th</emph> Anniversary Album, The Berkshire Music Center, 1965</item>
-<item>Booklet for Geigenbaumuseum Mittenwald-Bayern, date unknown</item>
-<item>Biography of Matthias Klotz von Mittenwald by Dr. Adolf Layer, 1970</item>
-<item>Schones Mittenwald tour booklet, likely 1970</item>
-<item>Brochure on the Pilcher Organ housed at the Cathedral of the Incarnation, Nashville, TN, date unknown</item>
-<item>The Claymont School for Continuous Education course catalog for AY 1979-80</item>
-<item>Claymont Communications Wholesale Book Catalog, 1979</item>
-<item>Duetscher Festspiesommer program, 1939 [<emph render="bold">oversized storage</emph>]</item>
-</list>
-</note>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">France, Louisa F. Collection</titleproper>
+        <titleproper>Finding Aid for the Louisa F. France Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2003</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Louisa F. France Collection</unittitle>
+      <unitid>MSS.0152</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.2 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1920/1979" type="inclusive">1920s-1970s</unitdate>
+    </did>
+    <scopecontent>
+      <p>The Louisa F. France Collection documents over six decades of musical performances staged in the United States and Europe. Measuring 4.2 linear feet, the collection is organized chronologically and represents a wide spectrum of classical
+        performers and musical styles. The earliest programs date back to 1920s performances by Sergey Rachmanioff (1873-1943) and Jascha Heifetz (1901-87) at the Lyric Theatre in Baltimore, Maryland. Other key performance venues in the United States
+        represented in the collection include the Metropolitan Opera House, Lincoln Center and Carnegie Hall in New York City as well as the Kennedy Center for the Performing Arts in Washington, D.C.</p>
+      <p>Of special interest to researchers are the pre-World War II programs from Vienna and Salzburg, Austria; Munich, Dresden and Bayreuth, Germany; and Paris, France in the months leading up to the Nazi occupation. There are also several post-war items
+        from London, England; Cremona, Italy; Brussels, Belgium; Innsbrook, Austria; Gottingen and Nurnberg, Germany.</p>
+      <p>In the late 1940s, Ms. France moved to Nashville with her husband, Dr. Richard France (Vanderbilt University Medical School Faculty 1948-85), where she and Dr. France patronized the local performance art scene. Items representing music programs
+        staged at various churches in Nashville as well as those presented by George Peabody College for Teachers, Fisk University, Blair School of Music and the Nashville Symphony all are included in this collection.</p>
+      <p>Also included in the collection is small cache of booklets on English and European luthiers, composers and historic sites as well as souvenir programs for the Vienna Boys Choir, Leopold Stokowski and the All-American youth Orchestra, and Robert
+        Shaw&#8217;s Choral Ensemble. The items contained herein complement a collection of commemorative coins from Austria. Minted from 1929 &#8211; 1937, the series honors composers and artists including Franz Schubert, Wolfgang Amadeus Mozart and Franz
+        Joseph Hayden. Although some items are seventy years old, the overall condition of the materials in the collection is stable and good.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unitdate>1922 &#8211; May 1930</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Boston Symphony Orchestra</item>
+              <item>Feodor Chaliapin</item>
+              <item>The Chicago Opera</item>
+              <item>Giuseppe DeLuca</item>
+              <item>Amelita Galli-Curci</item>
+              <item>The German Grand Opera Company [Baltimore, MD]</item>
+              <item>Harrisburg [PA] Symphony Orchestra</item>
+              <item>Jascha Heifetz</item>
+              <item>Vladimir Horowitz</item>
+              <item>The Johns Hopkins Orchestra</item>
+              <item>Juilliard String Quartet</item>
+              <item>La Argentina</item>
+              <item>Hans Kindler</item>
+              <item>Paul Kochanski</item>
+              <item>Fritz Kreisler</item>
+              <item>Kreutzbert &#38; Georgi</item>
+              <item>London String Quartet</item>
+              <item>Giovanni Martinelli</item>
+              <item>Yehudi Menuhin</item>
+              <item>Metropolitan Opera [NY]</item>
+              <item>Grace Moore</item>
+              <item>Mozart Festival [Harrisburg, PA]</item>
+              <item>New York Philharmonic (Arturo Toscanini conducting)</item>
+              <item>Ignace Jan Paderewski</item>
+              <item>The Philadelphia Orchestra</item>
+              <item>Rosa Ponselle</item>
+              <item>Peabody Conservatory of Music [Baltimore, MD]</item>
+              <item>Shanghai Municipal Orchestra</item>
+              <item>Sergey Rachmaninoff</item>
+              <item>Alberto Salvi</item>
+              <item>Mme. Schumann-Heink</item>
+              <item>John Philip Sousa</item>
+              <item>Lawrence Tibbett</item>
+              <item>and others</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>June 1930 &#8211; 1935</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Bach Festival [Bethlehem, PA]</item>
+              <item>Baltimore Symphony Orchestra (with George Siemonn conducting)</item>
+              <item>Boston Symphony Orchestra (directed by Dr. Serge Koussevitzky)</item>
+              <item>Budapest String Quartet</item>
+              <item>Shura Cherkassky [Constitution Hall, Washington, DC]</item>
+              <item>Claire Clairbert</item>
+              <item>Compinsky Trio</item>
+              <item>Don Cossack Chorus</item>
+              <item>D&#8217;oyly Carte Opera Company</item>
+              <item>German Grand Opera Company</item>
+              <item>Harrisburg [PA] Symphony Orchestra</item>
+              <item>Fritz Kreisler</item>
+              <item>Kreutzbert &#38; Georgi</item>
+              <item>Yehudi Menuhin</item>
+              <item>Mercersburg Academy [PA] Carillon Group</item>
+              <item>Metropolitan Opera Company [NY]</item>
+              <item>Monte Carlo Ballet Russe</item>
+              <item>Musical Arts Quartet</item>
+              <item>National Symphony Orchestra (conducted by Hans Kindler)</item>
+              <item>New York Philharmonic [Arturo Toscanini with guest</item>
+              <item>conductor Sir Thomas Beecham]</item>
+              <item>Paderewski</item>
+              <item>Peabody Conservatory of Music [Baltimore, MD]</item>
+              <item>Philadelphia [PA] Orchestra (conducted by Leopold Stokowski with guest appearance by Vladimir Horowitz)</item>
+              <item>Sergey Rachmaninoff</item>
+              <item>Ruggiero Ricci</item>
+              <item>Roth Quartet</item>
+              <item>Carlos Salzedo</item>
+              <item>San Carlo Grand Opera</item>
+              <item>Ted Shawn and his Ensemble of Men Dancers</item>
+              <item>Igor Stravinsky and Samuel Dushkin</item>
+              <item>Joseph Szigeti</item>
+              <item>and others</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1936 &#8211; 1937</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Ballet Russe of Monte Carlo</item>
+              <item>Baltimore String Symphony</item>
+              <item>Baltimore Symphony Orchestra (including Concert for Young People)</item>
+              <item>Paul Bernard and Gardner Jencks</item>
+              <item>Shura Cherkassky</item>
+              <item>Coolidge Quartet</item>
+              <item>Curtis String Quartet</item>
+              <item>Harrisburg [PA] Symphony Orchestra</item>
+              <item>Fritz Kreisler</item>
+              <item>Library of Congress Festival of Chamber Music</item>
+              <item>Tribute Concert to Charles Martin Loeffler (presented by the Library of Congress, Washington, DC)</item>
+              <item>Marcel Maas</item>
+              <item>Metropolitan Opera Company Musical Arts Quartet</item>
+              <item>National Symphony</item>
+              <item>The Philadelphia Orchestra</item>
+              <item>Pro Arte String Quartet</item>
+              <item>Savoy Company</item>
+              <item>Joseph Szigeti</item>
+              <item>Trio Italiano</item>
+            </list>
+            <p>Also included in this box are souvenir postcards and brochures from Cremona, Italy; bicentennial commemorative brochures on Antonio Stradivari; Opern Theatre, Konzerthaus-Quartett, Musica Viva Orchester, Weissgarber Quartet, Marian Anderson, Emil
+              von Sauer, Helen Teschner Tas, Rose-Quartett; Germany.</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1938 &#8211; 1940</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Programs include performances at venues in Europe including:</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Opern Theater [Berlin]</item>
+              <item>Gefellfchaft der Musikfreunde [Vienna]</item>
+              <item>Burg Theater [Germany]</item>
+              <item>Budapest [Hungary]</item>
+              <item>Prague [Czechoslovakia]</item>
+              <item>Paris [France]</item>
+              <item>Academie Nationale de Musique et de Danse</item>
+              <item>Theatre National De L&#8217;Opera Comique</item>
+              <item>Festival [Igor] Stravinsky, [Paris]</item>
+              <item>Salzburg [Austria] Festspiele</item>
+              <item>Dresden [Germany] Opernhaus</item>
+              <item>Festival Bayreuth [Munich]</item>
+              <item>Orchestre de la Societe Philharmonique de Paris</item>
+              <item>[Hector] Berlioz</item>
+              <item>14<emph render="super">th</emph>
+                Haslemere Festival of Ancient Music [Surrey, England]</item>
+              <item>Ballet Russe de Monte Carlo with the London Symphony Orchestra and the London Philharmonic Orchestra, Royal Opera House [London]</item>
+              <item>Pamphlet:
+                <emph render="italic">The Work and Ideas of Arnold Dolmetsch - Dolmetsch and his Instruments</emph>
+              </item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>U.S. programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>All-American Youth Orchestra (conducted by Leopold Stokowski)</item>
+              <item>Baltimore Civic Opera Company</item>
+              <item>Belgian Piano String Quartet</item>
+              <item>Berkshire Symphony Festival, Tanglewood, MA (includes special Allied Relief Fund Benefit for British Aid)</item>
+              <item>Virgil Fox</item>
+              <item>Harrisburg [PA] Symphony Orchestra</item>
+              <item>Kolisch Quartet</item>
+              <item>Library of Congress Ninth Festival of Chamber Music</item>
+              <item>Metropolitan Opera Company, New York</item>
+              <item>The National Symphony Orchestra at Baltimore</item>
+              <item>New Jersey Symphony Orchestra</item>
+              <item>Philharmonic Symphony Society of New York</item>
+              <item>The Town Hall, New York (cover features a photo of the Trapp Family Choir)</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1941 &#8211; 1951</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>The American Ballad Singers</item>
+              <item>The Bach Choir</item>
+              <item>Bethlehem, [PA] Bach Festival</item>
+              <item>Ballet Russe</item>
+              <item>Baltimore Symphony Orchestra</item>
+              <item>Bela Bartok and Ditta Pasztory (Mrs. Bela Bartok)</item>
+              <item>Bennington [VT] Festival</item>
+              <item>Berkshire Symphonic Festival [Tanglewood, MA]</item>
+              <item>Budapest String Quartet</item>
+              <item>Carnegie Hall Golden Anniversary commemorative program</item>
+              <item>Cincinnati Symphony Orchestra</item>
+              <item>Coolidge Quartet</item>
+              <item>Paul Drape and Larry Adler, Ryman Auditorium, Nashville, TN</item>
+              <item>Ecole Francaise de Middlebury</item>
+              <item>Fisk Jubilee Singers</item>
+              <item>Virgil Fox (sponsored by the Fisk University Concert Series)</item>
+              <item>Joseph Fuchs</item>
+              <item>George Peabody College for Teachers Concert Series (separately and with the University of the South)</item>
+              <item>Harrisburg [PA] Symphony Orchestra</item>
+              <item>Homewood Quartet</item>
+              <item>Indianapolis Symphony Orchestra (Fabien Sevitzky, conductor)</item>
+              <item>Kolisch String Quartet</item>
+              <item>Kungsholm Miniature Grand Opera Theatre of Chicago commemorative program</item>
+              <item>La Scala Opera Company</item>
+              <item>London String Quartet</item>
+              <item>Robert McDowell</item>
+              <item>The Nashville Symphony (William Strickland, conductor)</item>
+              <item>National Symphony Orchestra (Hans Kindler, Conductor), Washington, DC</item>
+              <item>The Philadelphia Orchestra</item>
+              <item>Orchestra of the New Friends of Music (conducted by Fritz Stiedry)</item>
+              <item>Roth Quartet [Brigham Young University, Salt Lake City, Utah]</item>
+              <item>Saint Louis Sinfonietta</item>
+              <item>The Town Hall [NYC]</item>
+              <item>Ward-Belmont Conservatory of Music</item>
+              <item>Leonard Warren</item>
+              <item>Yale Glee Club</item>
+              <item>Vermont Sesquicentennial Program, 1941</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1952 &#8211; 1964</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Ballet Theatre Foundation</item>
+              <item>Beaux Arts Trio of New York</item>
+              <item>Mary Louise Boehm</item>
+              <item>Brevard [PA] Music Center</item>
+              <item>Budapest String Quartet</item>
+              <item>The Cathedral Singers</item>
+              <item>Chicago Symphony String Quartet</item>
+              <item>Chicago Symphony Orchestra (Louis Lane, Guest Conductor)</item>
+              <item>Cincinnati Symphony Orchestra</item>
+              <item>Gregory Colson</item>
+              <item>Danish National Orchestra</item>
+              <item>Festival Quartet</item>
+              <item>Don Cossack Chorus and Dancers</item>
+              <item>Clifford Curzon</item>
+              <item>Ernst Von Dohnanyi</item>
+              <item>First Presbyterian Carillon Dedication Concert (Nashville, TN)</item>
+              <item>The Fisk Jubilee Singers</item>
+              <item>The Fisk University Choir</item>
+              <item>Fisk University 25<emph render="super">th</emph>, 27<emph render="super">th</emph>
+                and 34<emph render="super">th</emph>
+                Annual Festival of Music and Art</item>
+              <item>Virgil Fox</item>
+              <item>Nicola Gedda</item>
+              <item>Johana Harris</item>
+              <item>Kees Kooper</item>
+              <item>Robert McDowell</item>
+              <item>Josef Marais and Miranda</item>
+              <item>Nashville Symphony Orchestra (with Guy Taylor conducting)</item>
+              <item>Nashville Symphony String Quartet</item>
+              <item>New Music String Quartet</item>
+              <item>New York String Sextet</item>
+              <item>Peabody Demonstration School Recital Series</item>
+              <item>Philadelphia [PA] Orchestra</item>
+              <item>Pittsburgh [PA] Symphony Orchestra</item>
+              <item>Michael Rabin</item>
+              <item>Luisa Ribacchi and Guido Cantelli at Carnegie Hall (NYC)</item>
+              <item>Rise Stevens</item>
+              <item>Helen Traubel</item>
+              <item>Robert Shaw Chorale and Orchestra</item>
+              <item>St. Louis Municipal Opera</item>
+              <item>United States Air Force Band</item>
+              <item>University of the South Choir</item>
+              <item>Vienna Boys Choir</item>
+              <item>Walden String Quartet</item>
+              <item>Bruno Walter at Carnegie Hall (NYC)</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Playbills, publications and miscellaneous items include:</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>&#8220;Singin&#8217; Billy,&#8221; 1952 and 1955 productions by Peabody College and Vanderbilt Music Dept.</item>
+              <item>&#8220;St. Louis Woman,&#8221; &#8220;Cosi Fan Tutte&#8221; and &#8220;Member of the Wedding,&#8221; presented by the Circle Players</item>
+              <item>&#8220;Sunny Side Up&#8221; presented by the Princeton Triangle Club</item>
+              <item>&#8220;Bartleby,&#8221; presented by the Oberlin [OH] College Conservatory of Music</item>
+              <item>Poetry reading of works by R. P. Warren, M. Moore, A. Tate, D. Davidson, J. C. Ransom</item>
+              <item>Bravo Magazine (Vol I, No. 2; Vol. II, No. 1; Vol. II, No. 3) 95<emph render="super">th</emph>
+                Annual Convention for Tennessee Education Association</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1965 &#8211; 1969</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Baltimore Symphony Orchestra (Brian Priestman, and Leopold Stokowski, Conductors)</item>
+              <item>Beaux Arts String Quartet</item>
+              <item>Beaux Arts Trio of New York</item>
+              <item>Berliner Camerata Musicale</item>
+              <item>Boston Symphony Orchestra [Berkshire Festival at Tanglewood, MA]</item>
+              <item>Cadet Glee Club (Virginia Military Institute at Hollins College and Robert E. Lee Memorial Episcopal Church)</item>
+              <item>Chamber Symphony of Philadelphia</item>
+              <item>Christ Church Parish (Nashville)</item>
+              <item>Eastman Quartet</item>
+              <item>George Goodman (at Fisk University)</item>
+              <item>Guarneri String Quartet</item>
+              <item>Hampden-Sydney College Glee Club</item>
+              <item>Hollins College Student Recital and &#8220;A Program of Theatre Dance&#8221; (1967 and 1968)</item>
+              <item>Hungarian Quartet</item>
+              <item>Julliard String Quartet</item>
+              <item>Le Danseurs Africains (first U. S. performance)</item>
+              <item>Lenox String Quartet</item>
+              <item>Lucktenberg Duo</item>
+              <item>The Little Symphony of Nashville presents &#8220;An Evening of the Avant-Garde Arts&#8221;</item>
+              <item>Nashville String Quartet</item>
+              <item>Nashville Symphony Orchestra (Willis Page, conductor; Thor Johnson, Music Director and Conductor)</item>
+              <item>Nashville Youth Symphony</item>
+              <item>New York Philharmonic (with Andre Kostelanetz conducting)</item>
+              <item>New York Woodwind Quintet</item>
+              <item>George Peabody College School of Music Recital Series</item>
+              <item>George Peabody College for Teachers Recital Series</item>
+              <item>Philadelphia Orchestra</item>
+              <item>The Romeros</item>
+              <item>St. George&#8217;s Episcopal Church Fourth Sunday Music Series</item>
+              <item>St. Louis Orchestra</item>
+              <item>Grete Sultan and Barbara Wieman (Town Hall, NYC)</item>
+              <item>Charles Treger (Carnegie Hall, NYC)</item>
+              <item>University of North Carolina Choir</item>
+              <item>Vanderbilt University Center Choral Union and Center Orchestra</item>
+              <item>Washington Square Chorus and Orchestra (NYU)</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Playbills, publications and miscellaneous items include</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>&#8220;An Evening of One-Act Plays&#8221; by Tennessee Williams and Samuel Beckett presented by Vanderbilt University Theatre</item>
+              <item>&#8220;Kaleidoscope &#8217;67&#8221; presented by the Circle Players</item>
+              <item>&#8220;The Threepenny Opera&#8221; presented by Peabody School of Music</item>
+              <item>
+                <emph render="italic">Nashville Symphony Newsletter</emph>, Vol. XIII, No. 5; March 1968</item>
+              <item>Program for the 93<emph render="super">rd</emph>
+                Commencement Exercises of Meharry Medical College 23<emph render="super">rd</emph>
+                Composers&#8217; Conference and Chamber Music Center at Bennington College [VT]</item>
+              <item>Guide for Cheekwood&#8217;s Christmas &#8220;Trees of Many Lands&#8221; exhibit</item>
+              <item>Hollins College Parents&#8217; Day [Roanoke, VA] Materials</item>
+              <item>Peabody College School of Music Seminar in Piano Teaching schedule and program</item>
+              <item>Signe Quale (Memphis State University, University of the South and First Unitarian Church, Nashville)</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1970 &#8211; 1975</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Avante Garde III</item>
+              <item>Bamberg Symphony Orchestra</item>
+              <item>Blair Academy of Music Student Recital Series</item>
+              <item>Blair String Quartet</item>
+              <item>Candler Choraliers</item>
+              <item>Cheekwood Chamber Music Series</item>
+              <item>Chicago Symphony String Quartet</item>
+              <item>Christ Church Parish Concert Series (Nashville)</item>
+              <item>Van Cliburn</item>
+              <item>Collegiate Chorale</item>
+              <item>Catherine Crozier</item>
+              <item>Dvorak String Quartet</item>
+              <item>Eastman Brass Quintet</item>
+              <item>First Presbyterian Church</item>
+              <item>The Fisk University Choir</item>
+              <item>George Peabody College School of Music Series (various student performers)</item>
+              <item>Guarneri String Quartet</item>
+              <item>I Solisti Veneti</item>
+              <item>Joint University Choir (GPC)</item>
+              <item>Julliard String Quartet</item>
+              <item>Mark Kaplan and Samuel Sanders</item>
+              <item>King College Symphonic Choir</item>
+              <item>The King&#8217;s Singers</item>
+              <item>Kurrende Student Choir of Berlin (US tour 1972)</item>
+              <item>London Symphony Orchestra (at Carnegie Hall with Andre Previn conducting)</item>
+              <item>Marlboro Trio</item>
+              <item>Morehouse College Glee Club</item>
+              <item>Nashville Baroque and Classical Society Concert Series</item>
+              <item>Nashville Chamber Brass Society</item>
+              <item>Nashville Chamber Singers</item>
+              <item>Nashville Symphony Orchestra</item>
+              <item>Nashville University Center Council</item>
+              <item>New London Ballet with Guest Artist [Dame] Margot Fonteyn</item>
+              <item>New York Philharmonic (Lincoln Center)</item>
+              <item>Jean-Pierre Rampal and Robert Veyron-Lacroix</item>
+              <item>Scarritt College Chapel Choir and the Scarritt Singers</item>
+              <item>St. Paul&#8217;s Evangelical Lutheran Church</item>
+              <item>Trombone Ensemble of the University of Oklahoma</item>
+              <item>University of Louisville Brass Quintet</item>
+              <item>Warsaw String Quartet</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <unittitle>Playbills, publications and miscellaneous items include</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>&#8220;Die Fledermaus&#8221; performed by the Turnau Opera Players</item>
+              <item>&#8220;Der Freischutz&#8221; presented by The Hartford [MD] Opera Theatre</item>
+              <item>&#8220;H.M.S. Pinafore&#8221; presented by the Theatre Nashville Playhouse</item>
+              <item>&#8220;Everyman&#8221; performed by Anthony Quayle and the Clarence Brown Scholar&#8217;s Troupe</item>
+              <item>World of Gilbert &#38; Sullivan presented by [Nashville] Community Concert Association</item>
+              <item>Tribute Concert &#38; Memorial Dinner in Recognition of John Wesley Work, III sponsored by Nashville Chapter of Links</item>
+              <item>Seminar in Piano Teaching (GPC)</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <unittitle>Programs and other materials from European venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>
+                <emph render="italic">Der Widerspenstigen Zahmung</emph>
+                Ballet nach Shakespeare von John Cranko</item>
+              <item>&#8220;Carmen&#8221; at the Staatsoper</item>
+              <item>&#8220;Cinderella&#8221; at Komische Oper, Berlin</item>
+              <item>&#8220;Die Liebe Zu Zrei Orangen&#8221; at Komische Oper, Berlin</item>
+              <item>&#8220;Hansel und Gretel,&#8221; Deutsche Staatsoper Berlin</item>
+              <item>&#8220;Tosca&#8221; at the Staatsoper</item>
+              <item>Berliner Barock Orchester</item>
+              <item>Deutsche Oper Berlin</item>
+              <item>James Galway, Amerika Haus Berlin</item>
+              <item>Igor Kipnis, Amerika Haus Berlin</item>
+              <item>Salzburg Mozart Festival (includes performances of &#8220;Don Giovanni,&#8221; &#8220;Die Zauberflote,&#8221; &#8220;Macbeth&#8221;)</item>
+              <item>Symphonisches Orchester Berlin</item>
+              <item>
+                <emph render="italic">Opern Journal</emph>, Nos. 2, 3, and 4 Oct., Nov. &#38; Dec. 1970</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1976 &#8211; 1985</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>Programs include performances by and/or at the following venues</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>American String Quartet</item>
+              <item>Annapolis Brass Quintet</item>
+              <item>Arioso Woodwind Quintet</item>
+              <item>Bach Aria Group (Fisk University Concert Series)</item>
+              <item>Baltimore Symphony Orchestra</item>
+              <item>Blair Academy of Music</item>
+              <item>Blair Chamber Players</item>
+              <item>The Centennial Club</item>
+              <item>Christ Church Parish</item>
+              <item>Christ Episcopal Church</item>
+              <item>First Presbyterian Church</item>
+              <item>Fu Shing Chinese Opera Troupe (American Tour)</item>
+              <item>The Gurdjieff Movements</item>
+              <item>Illinois Kabuki Theatre with Shozo Sato</item>
+              <item>Kentucky Wesleyan Singers</item>
+              <item>The Mozarteum Quartet Salzburg, Tennessee Performing Arts Center, Nashville</item>
+              <item>Nashville Baroque and Classical Society Series</item>
+              <item>Nashville Symphony Orchestra (John Nelson, Music Advisor and Michael Charry Music Director and Conductor)</item>
+              <item>Jessye Norman with the New York Philharmonic, Lincoln Center</item>
+              <item>Pablo Casals Trio</item>
+              <item>Peabody Chamber Trio</item>
+              <item>The National Symphony Orchestra at Kennedy Center, Washington, DC</item>
+              <item>New Hampshire Music Festival (w/ Thomas Nee conducting)</item>
+              <item>New York Philharmonic at Lincoln Center</item>
+              <item>Oberlin Baroque Ensemble</item>
+              <item>The Pennsylvania Ballet</item>
+              <item>The Piedmont Chamber Orchestra</item>
+              <item>The Philadelphia Orchestra at Jackson Hall, Tennessee Performing Arts Center, Nashville</item>
+              <item>Marek Piskunov and Alexander Piskunov</item>
+              <item>Zina Schiff (Fisk University Concert Series)</item>
+              <item>Peter Serkin</item>
+              <item>Robert Stallman and Edwin Swanborn</item>
+              <item>Isaac Stern with the Nashville Symphony Orchestra</item>
+              <item>Summermusik at Cheekwood</item>
+              <item>Christian Teal and Enid Katahn</item>
+              <item>Tel Aviv String Quartet</item>
+              <item>Tokyo String Quartet (Sarratt)</item>
+              <item>Vienna Philharmonic Orchestra at Carnegie Hall (with Leonard Bernstein conducting)</item>
+              <item>The Vienna Quintet</item>
+              <item>Ragin Wenk and Kaare Ornung</item>
+              <item>Westminster (PA) College Choir</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>Playbills, publications and miscellaneous items include</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>
+                <emph render="italic">Fa&#231;ade an entertainment</emph>
+                with poems by Edith Sitwell &#38; Music by William Walton</item>
+              <item>George Peabody College Seminar in Piano Teaching Recital Series</item>
+              <item>
+                <emph render="italic">Premiere Magazine</emph>, Fall 1980, Winter 1980-81 (with NSO series programs)</item>
+              <item>Metropolitan Opera National Council Mid-South Auditions</item>
+              <item>&#8220;Washington Square&#8221; presented by the Augusta Opera Company</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>International Concerts</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Familiengottesdienst zum Sommerfest 1977 (Gottingen), Nurnberg, Innsbruck</item>
+              <item>&#8220;Simon Boccanegra&#8221; at the Opera National/Theatre Royal de la Monnaie (Directeur Maurice Huisman)</item>
+              <item>Societe Philharmonique de Bruxelles (Filharmonische Vereniging van Brussel)</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitdate>1934 &#8211; 1985</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <unittitle>Souvenir programs and other materials:</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>25<emph render="super">th</emph>
+                Anniversary Booklet [1935] on Neues Wiener Konservatorium</item>
+              <item>Biography of Paganiniana, published by the Library of Congress, 1945 Reprint of
+                <emph render="italic">Show</emph>
+                Magazine, March 1964</item>
+              <item>Tour Program for All American Youth Orchestra (dir. by Leopold Stokowski), 1940</item>
+              <item>60<emph render="super">th</emph>
+                Anniversary Commemorative program for the Boston Symphony, 1941</item>
+              <item>Robert Shaw Choral and String Ensemble Tour Program, c. 1952</item>
+              <item>NDR Symphony Orchestra of Hamburg, 1962-63 tour program</item>
+              <item>Vienna Choir Boys tour program, c. early 1960s</item>
+              <item>
+                <emph render="italic">A Tanglewood Dream</emph>, 25<emph render="super">th</emph>
+                Anniversary Album, The Berkshire Music Center, 1965</item>
+              <item>Booklet for Geigenbaumuseum Mittenwald-Bayern, date unknown</item>
+              <item>Biography of Matthias Klotz von Mittenwald by Dr. Adolf Layer, 1970</item>
+              <item>Schones Mittenwald tour booklet, likely 1970</item>
+              <item>Brochure on the Pilcher Organ housed at the Cathedral of the Incarnation, Nashville, TN, date unknown</item>
+              <item>The Claymont School for Continuous Education course catalog for AY 1979-80</item>
+              <item>Claymont Communications Wholesale Book Catalog, 1979</item>
+              <item>Duetscher Festspiesommer program, 1939 [<emph render="bold">oversized storage</emph>]</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

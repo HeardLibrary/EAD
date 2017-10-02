@@ -1,2012 +1,2346 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Fleming, Sam Illuminated Medieval Manuscript Collection</titleproper>
-<titleproper>Finding Aid for the The Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection</titleproper>
-<author>Molly Dohrmann</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2007</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>The Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection</unittitle>
-<unitid>MSS.0640</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.07 Linear Feet</extent>
-</physdesc>
-<unitdate>2007</unitdate>
-</did>
-<bioghist>
-<head>Biographical Note</head>
-<p>Sam Fleming was born on April 29, 1908 in Franklin, Tennessee. He graduated from Battle Ground Academy in 1924 and from Vanderbilt University in 1928. Fleming served in active duty with the U.S. Naval Reserve from 1942-1945. After college he worked for a time in New York and then came to Third National Bank in Nashville in 1931 and by 1950 was appointed president where he served until his retirement in 1970. He was active in many areas of business and commerce in Nashville and in committee, fundraising, and other charitable work.</p>
-<p>He served on the Board of Trust of Vanderbilt University from 1952 until 1981 and as its Chairman from 1975 to 1981 . He was Chairman of the Board of Trust at the time of the merger with George Peabody College for Teachers in 1979 and as such played an important role in bringing the two institutions together. He also was instrumental in the creation of the Owen Graduate School of Management in 1969 and for the creation of the Blair School of Music at Vanderbilt in 1981.</p>
-<p>Sam Fleming held many civic memberships and served in leadership roles as community activist and philanthropist in Nashville and nationally, and was an elder of the First Presbyterian Church.</p>
-<p>He was married to Josephine Cliffe Fleming who preceded him in death and then to Valerie Ellis Fleming. He and Josephine had two children, Joanne and Daniel. Sam Fleming died on January 21, 2000.</p>
-<p>This Collection was a gift from Mr. Fleming to the Library in 1985. He was a great patron of the Vanderbilt Library and in addition to donating a number of important Bibles from the late 16th and early 17th ( the Geneva version of the so-called &#8220;Breeches&#8221; Bible, reference to Genesis 3:7) centuries, in his will he endowed the Sam Fleming Southern Civilization Collection in Special Collections, a growing collection of books on the history, culture, literature, and biography of the South since 1865.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Content Note</head>
-<p>This Collection of Illuminated Medieval Manuscripts and Early Printed Leaves is 1.04 linear feet and is comprised of 91 vellum leaves from a Latin Manuscript Bible of the late 13<emph render="super">th</emph> century and 80 pages from a Missal printed in the first part of the 16<emph render="super">th</emph> century. The illuminated leaves from the Latin Bible have been damaged and repaired.</p>
-<p>Reproductions of six of these leaves from the Illuminated Latin Bible are framed and hang in the Divinity Library with folder numbers M10, M13, M25, M59, M72, M78.</p>
-<p>An analysis of this collection was done under the guidance of Ernest Cadman Colwell President of the School of Theology at Claremont in California in the spring of 1965.</p>
-<p>The collection is comprised of as stated two distinct areas of Collection:</p>
-<p>The Illuminated Medieval Manuscript part is made up of 91 manuscript leaves of vellum from a Latin Bible dating from 1290 to 1300 . It is believed that this copy was made in a French Carthusian monastery between 1290 and 1300 and later became the property of the monastery at Villeneuve-les-Avignon.</p>
-<p>In the fall of 1985 Bookseller Anthony Garnett gave this appraisal of these leaves:</p>
-<blockquote>
-<p><emph render="italic">they... are visually very attractive, but since they all come from incomplete works should be considered as decorative pieces rather than scholarly ones. They are none the less attractive for that and would find a ready market.</emph></p>
-<p><emph render="italic">Leaves from a manuscript Latin Bible from a French Charterhouse of the late 13th Century. These contain a number of very nice illuminated initials&#8212;but these are not the original ones, and have been neatly added into the spaces left when the original illuminations were excised. Hence all illuminated leaves are damaged and repaired&#8212;resulting in pages that are visually acceptable, but with the text on the verso destroyed. The calligraphy is excellently neat and finely decorated&#8212;even on those leaves without miniatures.</emph></p>
-<p><emph render="italic">58 leaves of Biblical text without illuminated initials, but rubricated in red and blue</emph></p>
-<p><emph render="italic">20 leaves with illuminated capitals&#8212;all damaged to some extent, with illuminations supplied from another manuscript. The quality of the initials used is good, and the resulting pages are visually excellent.</emph></p>
-<p><emph render="italic">7 leaves rubricated showing the liturgical readings for each day and 6 leaves of glossary</emph></p>
-</blockquote>
-<p>The second distinct part of this collection are the 80 printed and decorated leaves from a Missal for the Use of the Diocese of Chartres, printed in Paris by Thielman in 1529.</p>
-<p>Anthony Garnett gives this appraisal in October 1985:</p>
-<blockquote>
-<p><emph render="italic">These are finely printed and rubricated, but the paper is very fragile and often damaged. Pages have been mounted on very acid card which has helped the process of deterioration. Nonetheless, the leaves are very decorative, especially those with decorated initial letters.</emph></p>
-<p><emph render="italic">39 leaves with one or more initials</emph></p>
-<p><emph render="italic">41 leaves without initial letters</emph></p>
-</blockquote>
-<p>At the request of Sam Fleming, Ernest Tune, Library Director at the School of Theology at Claremont California made this statement about the Kerver Missal:</p>
-<blockquote>
-<p><emph render="italic">The name of Thielman Kerver is associated with the printing of some of the most beautiful liturgical books produced at Paris during the first half of the 16th century, his most notable works being various editions of &#8220;Books of Hours.&#8221; After his death in 1522, the printing house founded by Thielman in 1497 continued under the direction of his widow who specialized in reprinting Thielman&#8217;s earlier publications which were in demand. Eventually the business came under the management of Thielman&#8217;s son, Thielman the 2nd, and finally passed to the third generation, Thielman the 2nd&#8217;s son, Jacques Kerver. The style of the Kervers shows some imitation of, and is no doubt indebted to, the Paris publisher and artist Simon Vostre. Jacques Kerver is celebrated for his 1546 French edition of the Aldine Polifilo,</emph> <emph render="underline">Songe de Poliphile</emph>. <emph render="italic">It has been praised for being one of the most beautiful illustrated books of the Renaissance. The Kerver typographical mark is a shield with the letters T K upon it which stands before a tree with a unicorn rearing up on each side of the shield.</emph></p>
-</blockquote>
-<p>All of these leaves were originally donated to the Divinity Library at Vanderbilt in 1985 and were transferred to Special Collections after that.</p>
-<p>Abbreviations and notes are as follows: M==mounted; numerals in parentheses ( )=lines per page; cap=illuminated capital; ovly=overlay of extraneous material created by repairing capital on reverse side of leaf; A= recto; B=verso</p>
-</scopecontent>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Fleming, Sam Illuminated Medieval Manuscript Collection</titleproper>
+        <titleproper>Finding Aid for the The Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection</titleproper>
+        <author>Molly Dohrmann</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>The Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection</unittitle>
+      <unitid>MSS.0640</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.07 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1290/1550" type="inclusive">circa 1290-circa early 1500s</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Sam Fleming was born on April 29, 1908 in Franklin, Tennessee. He graduated from Battle Ground Academy in 1924 and from Vanderbilt University in 1928. Fleming served in active duty with the U.S. Naval Reserve from 1942-1945. After college he
+        worked for a time in New York and then came to Third National Bank in Nashville in 1931 and by 1950 was appointed president where he served until his retirement in 1970. He was active in many areas of business and commerce in Nashville and in
+        committee, fundraising, and other charitable work.</p>
+      <p>He served on the Board of Trust of Vanderbilt University from 1952 until 1981 and as its Chairman from 1975 to 1981 . He was Chairman of the Board of Trust at the time of the merger with George Peabody College for Teachers in 1979 and as such
+        played an important role in bringing the two institutions together. He also was instrumental in the creation of the Owen Graduate School of Management in 1969 and for the creation of the Blair School of Music at Vanderbilt in 1981.</p>
+      <p>Sam Fleming held many civic memberships and served in leadership roles as community activist and philanthropist in Nashville and nationally, and was an elder of the First Presbyterian Church.</p>
+      <p>He was married to Josephine Cliffe Fleming who preceded him in death and then to Valerie Ellis Fleming. He and Josephine had two children, Joanne and Daniel. Sam Fleming died on January 21, 2000.</p>
+      <p>This Collection was a gift from Mr. Fleming to the Library in 1985. He was a great patron of the Vanderbilt Library and in addition to donating a number of important Bibles from the late 16th and early 17th ( the Geneva version of the so-called
+        &#8220;Breeches&#8221; Bible, reference to Genesis 3:7) centuries, in his will he endowed the Sam Fleming Southern Civilization Collection in Special Collections, a growing collection of books on the history, culture, literature, and biography of the
+        South since 1865.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>This Collection of Illuminated Medieval Manuscripts and Early Printed Leaves is 1.04 linear feet and is comprised of 91 vellum leaves from a Latin Manuscript Bible of the late 13<emph render="super">th</emph>
+        century and 80 pages from a Missal printed in the first part of the 16<emph render="super">th</emph>
+        century. The illuminated leaves from the Latin Bible have been damaged and repaired.</p>
+      <p>Reproductions of six of these leaves from the Illuminated Latin Bible are framed and hang in the Divinity Library with folder numbers M10, M13, M25, M59, M72, M78.</p>
+      <p>An analysis of this collection was done under the guidance of Ernest Cadman Colwell President of the School of Theology at Claremont in California in the spring of 1965.</p>
+      <p>The collection is comprised of as stated two distinct areas of Collection:</p>
+      <p>The Illuminated Medieval Manuscript part is made up of 91 manuscript leaves of vellum from a Latin Bible dating from 1290 to 1300 . It is believed that this copy was made in a French Carthusian monastery between 1290 and 1300 and later became the
+        property of the monastery at Villeneuve-les-Avignon.</p>
+      <p>In the fall of 1985 Bookseller Anthony Garnett gave this appraisal of these leaves:</p>
+      <blockquote>
+        <p>
+          <emph render="italic">they... are visually very attractive, but since they all come from incomplete works should be considered as decorative pieces rather than scholarly ones. They are none the less attractive for that and would find a ready market.</emph>
+        </p>
+        <p>
+          <emph render="italic">Leaves from a manuscript Latin Bible from a French Charterhouse of the late 13th Century. These contain a number of very nice illuminated initials&#8212;but these are not the original ones, and have been neatly added into the
+            spaces left when the original illuminations were excised. Hence all illuminated leaves are damaged and repaired&#8212;resulting in pages that are visually acceptable, but with the text on the verso destroyed. The calligraphy is excellently neat and
+            finely decorated&#8212;even on those leaves without miniatures.</emph>
+        </p>
+        <p>
+          <emph render="italic">58 leaves of Biblical text without illuminated initials, but rubricated in red and blue</emph>
+        </p>
+        <p>
+          <emph render="italic">20 leaves with illuminated capitals&#8212;all damaged to some extent, with illuminations supplied from another manuscript. The quality of the initials used is good, and the resulting pages are visually excellent.</emph>
+        </p>
+        <p>
+          <emph render="italic">7 leaves rubricated showing the liturgical readings for each day and 6 leaves of glossary</emph>
+        </p>
+      </blockquote>
+      <p>The second distinct part of this collection are the 80 printed and decorated leaves from a Missal for the Use of the Diocese of Chartres, printed in Paris by Thielman in 1529.</p>
+      <p>Anthony Garnett gives this appraisal in October 1985:</p>
+      <blockquote>
+        <p>
+          <emph render="italic">These are finely printed and rubricated, but the paper is very fragile and often damaged. Pages have been mounted on very acid card which has helped the process of deterioration. Nonetheless, the leaves are very decorative,
+            especially those with decorated initial letters.</emph>
+        </p>
+        <p>
+          <emph render="italic">39 leaves with one or more initials</emph>
+        </p>
+        <p>
+          <emph render="italic">41 leaves without initial letters</emph>
+        </p>
+      </blockquote>
+      <p>At the request of Sam Fleming, Ernest Tune, Library Director at the School of Theology at Claremont California made this statement about the Kerver Missal:</p>
+      <blockquote>
+        <p>
+          <emph render="italic">The name of Thielman Kerver is associated with the printing of some of the most beautiful liturgical books produced at Paris during the first half of the 16th century, his most notable works being various editions of
+            &#8220;Books of Hours.&#8221; After his death in 1522, the printing house founded by Thielman in 1497 continued under the direction of his widow who specialized in reprinting Thielman&#8217;s earlier publications which were in demand. Eventually the
+            business came under the management of Thielman&#8217;s son, Thielman the 2nd, and finally passed to the third generation, Thielman the 2nd&#8217;s son, Jacques Kerver. The style of the Kervers shows some imitation of, and is no doubt indebted to, the
+            Paris publisher and artist Simon Vostre. Jacques Kerver is celebrated for his 1546 French edition of the Aldine Polifilo,</emph>
+          <emph render="underline">Songe de Poliphile</emph>.
+          <emph render="italic">It has been praised for being one of the most beautiful illustrated books of the Renaissance. The Kerver typographical mark is a shield with the letters T K upon it which stands before a tree with a unicorn rearing up on each side of the shield.</emph>
+        </p>
+      </blockquote>
+      <p>All of these leaves were originally donated to the Divinity Library at Vanderbilt in 1985 and were transferred to Special Collections after that.</p>
+      <p>Abbreviations and notes are as follows: M==mounted; numerals in parentheses ( )=lines per page; cap=illuminated capital; ovly=overlay of extraneous material created by repairing capital on reverse side of leaf; A= recto; B=verso</p>
+    </scopecontent>
 
-<dsc>
-<c01 level="series">
-<did>
-<unittitle>Catalog of Vellum Leaves from Latin Bible Illuminated Medieval Manuscript:</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Folder Listing:</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>M A. Jerome&#8217;s prologue to Pentateuch</unittitle>
-<physdesc><extent>(55) lines per page</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>B. Prescript; Genesis 1.1-2.7a</unittitle>
-<physdesc><extent>(55)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>A. Genesis 2.7b-4.4a</unittitle>
-<physdesc><extent>(55)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>B. Genesis 4.4b- 6.2 a</unittitle>
-<physdesc><extent>(55)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>A. Genesis 18.5b-18.13a</unittitle>
-<physdesc><extent>(55)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>B. Genesis 18.13b-22.17a</unittitle>
-<physdesc><extent>(55)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>A. Exodus 28.27b &#8211; 29.28 a</unittitle>
-<physdesc><extent>(56)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>B. Exodus 29.28b-30.32 a</unittitle>
-<physdesc><extent>(56)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>M A. Numbers 33.53b-35.19a</unittitle>
-<physdesc><extent>(56)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>B. Numbers 35.19b-end: Dt.1-1.8</unittitle>
-<physdesc><extent>(56)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>M A. Jerome&#8217;s preface to Regum</unittitle>
-<physdesc><extent>(56) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>B. Preface; I Regum 1.1-1.19a</unittitle>
-<physdesc><extent>(56) ovly</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>M A. II Regum 24.14b-24.25 (end); III Regum 1.1-1.24a</unittitle>
-<physdesc><extent>(56) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>B. III Regum. 1.24b -2.7 a</unittitle>
-<physdesc><extent>(56)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>M A. IV Regum 25.4b- end; Preface</unittitle>
-<physdesc><extent>(55) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>B. Preface; I Paralipomenon 1.1-1.22a</unittitle>
-<physdesc><extent>(55) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>A. I Maccabees 2.50b-3.25 a (Apocrypha)</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>B. I Maccabees 3.25b-3.58a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>M A. Ps 23.2b -27.2a</unittitle>
-<physdesc><extent>(55) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>B. Ps 27.26-30.25</unittitle>
-<physdesc><extent>(55)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>M A. Ps 36.36b-39.12a</unittitle>
-<physdesc><extent>(56) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>B. Ps 39.12b-43.17a</unittitle>
-<physdesc><extent>(56) ovly in Ps 39</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>M A. Ps 60.3b-65.8a</unittitle>
-<physdesc><extent>(56)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>B. Ps 65.8b -68.7a</unittitle>
-<physdesc><extent>(56) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>M A. Ecclus 51.16b-end; Prayer of Solomon, II Para.1.14ff (?); Prologue 1 cap</unittitle>
-<physdesc><extent>(50) lines</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>B. Prologue; Is 1.1-1.17a</unittitle>
-<physdesc><extent>(50) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>A. Prologue; Preface; Haggai 1.1-2.4a</unittitle>
-<physdesc><extent>(50) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>B. Haggai 2.4b-2.24 (end); Prologue to Zechariah</unittitle>
-<physdesc><extent>(50) 1cap excised</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>M A. _____(?); Jerome&#8217;s prologue to MT</unittitle>
-<physdesc><extent>(49) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>B. Prologue; Mt 1.1-1.25a</unittitle>
-<physdesc><extent>(49) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>A. Mt. 9.9b-10.9</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>B. Mt. 10.10 -11.6a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>A. Mt. 11.6b-12.14</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>B. Mt. 12.15-13.4</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>A. Mt. 13.5-13.37 a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>B. Mt. 13.37b-14.18a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>A. Mt. 14.18b-15.23a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>B. Mt 15.23-16.21a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>A. Mt. 16.21b-17.26a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>B. Mt. 17.26b-18.33</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>A. Mt.21.12b-21.44a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>B. Mt. 21.44b-22.45a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>A. Mt. 22.45b-23.39</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>B. Mt. 24.1-24.44a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle>A. Mt. 24.44b-25.36a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle>B. Mt. 25.36b-26.30a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle>A. Mt. 26.30b-26.67a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle>B. Mt. 26.67b-27.30a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle>M A. Mt. 27.30b-28.4a</unittitle>
-<physdesc><extent>(50) 1 cap ovly</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle>B. Mt. 28.4b-end; Prologue to Mark</unittitle>
-<physdesc><extent>(50) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle>A. Mk. 1.1-1.44a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle>B. Mk. 1.44b-3.6a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle>A. Mk. 6.45b-7.27a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle>B. Mk. 7.27b-8.32a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle>A. Mk. 8.32b-9.29a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle>B. Mk. 9.29b-10.19a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">29</container>
-<unittitle>A. Mk. 12.8b-13.1a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">29</container>
-<unittitle>B. Mk. 13.1b-14.3</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unittitle>A. Mk. 14.4-14.43a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unittitle>B. Mk. 14.43b-15.12a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unittitle>A. Lk. 2.8b-2.48a</unittitle>
-<physdesc><extent>(51)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unittitle>B. Lk. 2.48b-3.34a</unittitle>
-<physdesc><extent>(51)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">32</container>
-<unittitle>A. Lk. 3.34b-4.36</unittitle>
-<physdesc><extent>(51)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">32</container>
-<unittitle>B. Lk. 4.37-5.26a</unittitle>
-<physdesc><extent>(51)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">33</container>
-<unittitle>A. Lk. 5.26b-6.25a</unittitle>
-<physdesc><extent>(51)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">33</container>
-<unittitle>B. Lk. 6.25b-7.10a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">34</container>
-<unittitle>A. Lk. 7.10b-7.45</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">34</container>
-<unittitle>B. Lk. 7.45b-8.28a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">35</container>
-<unittitle>A. Lk. 12.19b-12.58 a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">35</container>
-<unittitle>B. Lk. 12.58b- 13.34a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">36</container>
-<unittitle>A. Lk. 13.34-15.1a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">36</container>
-<unittitle>B. Lk. 15.1b-16.2a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">37</container>
-<unittitle>A. Lk. 16.26 17.3</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">37</container>
-<unittitle>B. Lk. 17.4-18.9a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">38</container>
-<unittitle>A. Lk. 18.9b-19.7</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">38</container>
-<unittitle>B. Lk. 19.8-1946a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">39</container>
-<unittitle>A. Lk. 19.46b-20.36a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">39</container>
-<unittitle>B. Lk. 20.36b-21.32a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">40</container>
-<unittitle>A. Lk 20.32b-22.40a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">40</container>
-<unittitle>B. Lk. 22.40b-23.13a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">41</container>
-<unittitle>A. Lk. 23.1323.55a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">41</container>
-<unittitle>B. Lk, 23.55b-24.43a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">42</container>
-<unittitle>M A. Lk 24.43b -24.53 (end-Amen); Prologue to Jn;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">42</container>
-<unittitle>John 1.1-1.15a</unittitle>
-<physdesc><extent>(50) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">42</container>
-<unittitle>B. Jn. 1.15b-2.6a</unittitle>
-<physdesc><extent>(50) ovly in Jn 1.31</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">43</container>
-<unittitle>A. Jn. 6.86.45a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">43</container>
-<unittitle>B. Jn. 6.45b-7.17a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">44</container>
-<unittitle>A. Jn. 7.17b-8.6a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">44</container>
-<unittitle>B. Jn. 8.6b-8.43</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">45</container>
-<unittitle>A. Jn. 8.43b-9.24a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">45</container>
-<unittitle>B. Jn. 9.24b-10.25a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">46</container>
-<unittitle>A. Jn 10.25b -11.28a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">46</container>
-<unittitle>B. Jn.11.28b-12.10a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">47</container>
-<unittitle>A. Jn. 12.10b-12.50</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">47</container>
-<unittitle>B. Jn 13.1 -14.2a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">48</container>
-<unittitle>A. Jn. 14.2b-15.9a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">48</container>
-<unittitle>B. Jn. 15.9b-16.19a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">49</container>
-<unittitle>A. Jn. 18.36-19.27a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">49</container>
-<unittitle>B. Jn 19.27b-20.19a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">50</container>
-<unittitle>A. Acts 2.47b-4.12a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">50</container>
-<unittitle>B. Acts 4.12b-5.12a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">51</container>
-<unittitle>A. Acts 5.12b-6.7a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">51</container>
-<unittitle>B. Acts 6.7b-7.30a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">52</container>
-<unittitle>A. Acts 7.30b-8.10a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">52</container>
-<unittitle>B. Acts 8.10b-9.10a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">53</container>
-<unittitle>A. Acts 9.10b-10.6a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">53</container>
-<unittitle>B. Acts 10.6b-10.47a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">54</container>
-<unittitle>A. Acts 10.47b-12.10a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">54</container>
-<unittitle>B. Acts 12.10b-13.22</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">55</container>
-<unittitle>A. Acts 13.23 -14.11a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">55</container>
-<unittitle>B. Acts 14.11b-15.24a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">56</container>
-<unittitle>A. Acts 15.24b-16.23a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">56</container>
-<unittitle>B. Acts 16.23b-17.20a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">57</container>
-<unittitle>A. Acts 17.20b-18.25a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">57</container>
-<unittitle>B. Acts 18.25b-19.34a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">58</container>
-<unittitle>A. Acts 19.34b-20.35a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">58</container>
-<unittitle>B. Acts 20.35b-21.34a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">56</container>
-<unittitle>M A.&#8221;Argumentum&#8221;; Rom 1.1-2.3</unittitle>
-<physdesc><extent>(50) 2 caps</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">59</container>
-<unittitle>B. Romans 2.3b-3.27a ovly in Romans 3.1-4</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">60</container>
-<unittitle>A. Rom. 3.27b-5.18a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">60</container>
-<unittitle>B. Rom. 5.18b- 7.21a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">61</container>
-<unittitle>A. Rom. 7.21b -9.6a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">61</container>
-<unittitle>B. Rom. 9.66-10.21</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">62</container>
-<unittitle>A. Rom. 11.1-12.15a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">62</container>
-<unittitle>B. Rom. 12.15b-14.23 a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">63</container>
-<unittitle>M A. Rom. 14.23b-16.17a ovly in 16.2-4</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">63</container>
-<unittitle>B. Rom. 16.17b-16.27 (end); &#8220;Argumentum&#8221;; I Cor. 1.1.1.29a</unittitle>
-<physdesc><extent>(49) 2 caps</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">64</container>
-<unittitle>A. I Cor. 1.29b-4.5a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">64</container>
-<unittitle>B. I Cor. 4.5b-6.12a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">65</container>
-<unittitle>A. I Cor. 6.12b-7.37a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">65</container>
-<unittitle>B. I Cor. 7.37b-9.27a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">66</container>
-<unittitle>A. I Cor. 9.27b-11.20a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">66</container>
-<unittitle>B. I Cor. 11.20b-12.31</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">67</container>
-<unittitle>A. II Cor. 3.5-5.14a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">67</container>
-<unittitle>B. II Cor. 5.14b-7.13a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">68</container>
-<unittitle>A. II Cor. 7.13b -9.10a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">68</container>
-<unittitle>B. II Cor. 9.10b &#8211;11.15a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">69</container>
-<unittitle>A. Gal. 1.18b -3.15a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">69</container>
-<unittitle>B. Gal. 3.15bb&#8212;5.3a</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">70</container>
-<unittitle>70)M A. Gal. 5.3b-6.18 (end); &#8220;Argumentum&#8221;; Ephesians 1.1-1 .4a</unittitle>
-<physdesc><extent>(49) 2 caps</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">70</container>
-<unittitle>B. Eph. 1.4b=3.4a ovly in 1.19-20</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">71</container>
-<unittitle>A. Eph. 3.46-4.31a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">71</container>
-<unittitle>B. Eph. 4.31b- 6.17a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">72</container>
-<unittitle>M A. Phil 3.17b -4.23; &#8220;Argumentum&#8221;; Col 1.1-1.10a</unittitle>
-<physdesc><extent>(49) 2 caps</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">72</container>
-<unittitle>B. Col 1.10b-2.23a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">73</container>
-<unittitle>M A. Col. 2.23b -4.18; &#8220;Argumentum&#8221;&#8217; ovly 1 cap</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">73</container>
-<unittitle>B. &#8220;Argumentum&#8221;; I Thess 1.1-3.4a ovly 1 cap</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">74</container>
-<unittitle>M A. I Thess 3.46-5.23a ovly in 5.4-7</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">74</container>
-<unittitle>B. I Thess 5.23b-5.28</unittitle>
-<physdesc><extent>(end) &#8220;Argumentum&#8221;; II Thess 1.1-3.2a (49) 2 caps</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">75</container>
-<unittitle>M A. I Tim. 5.26- 6.20a</unittitle>
-<physdesc><extent>(49) 1 cap</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">75</container>
-<unittitle>B. I Tim 6.20b-6.21 (end), &#8220;Argumentum&#8221;, II Tim 1.1-2.19a</unittitle>
-<physdesc><extent>(49)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">76</container>
-<unittitle>A. Heb. 7.25b -9.20a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">76</container>
-<unittitle>B. Heb. 9.20b-10.38a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">77</container>
-<unittitle>A. Heb. 10.38b -11.40a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">77</container>
-<unittitle>B. Heb. 11.40b -13.12a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">78</container>
-<unittitle>M A. &#8220;Argumentum&#8221;; Rev. 1.1-1.5a</unittitle>
-<physdesc><extent>(50) 2 caps</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">78</container>
-<unittitle>B. Rev. 1.5b-2.22a</unittitle>
-<physdesc><extent>(50)</extent></physdesc>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">79</container>
-<unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar; vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">80</container>
-<unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">81</container>
-<unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">82</container>
-<unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">83</container>
-<unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">84</container>
-<unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">85</container>
-<unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">86</container>
-<unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aids, arranged alphabetically&#8212;proper name of the Bible &#8220;A&#8221;; vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">87</container>
-<unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper name of the Bible &#8220;B-C&#8221;; vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">88</container>
-<unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper name of the Bible &#8220;I&#8221;; vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">89</container>
-<unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper name of the Bible &#8220;I&#8221;; vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">90</container>
-<unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper names of the Bible &#8220;S&#8221;; vellum</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">91</container>
-<unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper names of the Bible &#8220;S&#8221;; vellum</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
+    <dsc>
+      <c01 level="series">
+        <did>
+          <unittitle>Catalog of Vellum Leaves from Latin Bible Illuminated Medieval Manuscript:</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>M A. Jerome&#8217;s prologue to Pentateuch</unittitle>
+            <physdesc>
+              <extent>(55) lines per page</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>B. Prescript; Genesis 1.1-2.7a</unittitle>
+            <physdesc>
+              <extent>(55)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>A. Genesis 2.7b-4.4a</unittitle>
+            <physdesc>
+              <extent>(55)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>B. Genesis 4.4b- 6.2 a</unittitle>
+            <physdesc>
+              <extent>(55)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>A. Genesis 18.5b-18.13a</unittitle>
+            <physdesc>
+              <extent>(55)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>B. Genesis 18.13b-22.17a</unittitle>
+            <physdesc>
+              <extent>(55)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>A. Exodus 28.27b &#8211; 29.28 a</unittitle>
+            <physdesc>
+              <extent>(56)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>B. Exodus 29.28b-30.32 a</unittitle>
+            <physdesc>
+              <extent>(56)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>M A. Numbers 33.53b-35.19a</unittitle>
+            <physdesc>
+              <extent>(56)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>B. Numbers 35.19b-end: Dt.1-1.8</unittitle>
+            <physdesc>
+              <extent>(56)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>M A. Jerome&#8217;s preface to Regum</unittitle>
+            <physdesc>
+              <extent>(56) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>B. Preface; I Regum 1.1-1.19a</unittitle>
+            <physdesc>
+              <extent>(56) ovly</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>M A. II Regum 24.14b-24.25 (end); III Regum 1.1-1.24a</unittitle>
+            <physdesc>
+              <extent>(56) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>B. III Regum. 1.24b -2.7 a</unittitle>
+            <physdesc>
+              <extent>(56)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>M A. IV Regum 25.4b- end; Preface</unittitle>
+            <physdesc>
+              <extent>(55) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>B. Preface; I Paralipomenon 1.1-1.22a</unittitle>
+            <physdesc>
+              <extent>(55) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>A. I Maccabees 2.50b-3.25 a (Apocrypha)</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>B. I Maccabees 3.25b-3.58a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>M A. Ps 23.2b -27.2a</unittitle>
+            <physdesc>
+              <extent>(55) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>B. Ps 27.26-30.25</unittitle>
+            <physdesc>
+              <extent>(55)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>M A. Ps 36.36b-39.12a</unittitle>
+            <physdesc>
+              <extent>(56) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>B. Ps 39.12b-43.17a</unittitle>
+            <physdesc>
+              <extent>(56) ovly in Ps 39</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>M A. Ps 60.3b-65.8a</unittitle>
+            <physdesc>
+              <extent>(56)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>B. Ps 65.8b -68.7a</unittitle>
+            <physdesc>
+              <extent>(56) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>M A. Ecclus 51.16b-end; Prayer of Solomon, II Para.1.14ff (?); Prologue 1 cap</unittitle>
+            <physdesc>
+              <extent>(50) lines</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>B. Prologue; Is 1.1-1.17a</unittitle>
+            <physdesc>
+              <extent>(50) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>A. Prologue; Preface; Haggai 1.1-2.4a</unittitle>
+            <physdesc>
+              <extent>(50) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>B. Haggai 2.4b-2.24 (end); Prologue to Zechariah</unittitle>
+            <physdesc>
+              <extent>(50) 1cap excised</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>M A. _____(?); Jerome&#8217;s prologue to MT</unittitle>
+            <physdesc>
+              <extent>(49) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>B. Prologue; Mt 1.1-1.25a</unittitle>
+            <physdesc>
+              <extent>(49) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>A. Mt. 9.9b-10.9</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>B. Mt. 10.10 -11.6a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>A. Mt. 11.6b-12.14</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>B. Mt. 12.15-13.4</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>A. Mt. 13.5-13.37 a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>B. Mt. 13.37b-14.18a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>A. Mt. 14.18b-15.23a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>B. Mt 15.23-16.21a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>A. Mt. 16.21b-17.26a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>B. Mt. 17.26b-18.33</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>A. Mt.21.12b-21.44a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>B. Mt. 21.44b-22.45a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>A. Mt. 22.45b-23.39</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>B. Mt. 24.1-24.44a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>A. Mt. 24.44b-25.36a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>B. Mt. 25.36b-26.30a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>A. Mt. 26.30b-26.67a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>B. Mt. 26.67b-27.30a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>M A. Mt. 27.30b-28.4a</unittitle>
+            <physdesc>
+              <extent>(50) 1 cap ovly</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>B. Mt. 28.4b-end; Prologue to Mark</unittitle>
+            <physdesc>
+              <extent>(50) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>A. Mk. 1.1-1.44a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>B. Mk. 1.44b-3.6a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>A. Mk. 6.45b-7.27a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>B. Mk. 7.27b-8.32a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>A. Mk. 8.32b-9.29a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>B. Mk. 9.29b-10.19a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>A. Mk. 12.8b-13.1a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>B. Mk. 13.1b-14.3</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>A. Mk. 14.4-14.43a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>B. Mk. 14.43b-15.12a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>A. Lk. 2.8b-2.48a</unittitle>
+            <physdesc>
+              <extent>(51)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>B. Lk. 2.48b-3.34a</unittitle>
+            <physdesc>
+              <extent>(51)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unittitle>A. Lk. 3.34b-4.36</unittitle>
+            <physdesc>
+              <extent>(51)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unittitle>B. Lk. 4.37-5.26a</unittitle>
+            <physdesc>
+              <extent>(51)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unittitle>A. Lk. 5.26b-6.25a</unittitle>
+            <physdesc>
+              <extent>(51)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unittitle>B. Lk. 6.25b-7.10a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unittitle>A. Lk. 7.10b-7.45</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unittitle>B. Lk. 7.45b-8.28a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">35</container>
+            <unittitle>A. Lk. 12.19b-12.58 a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">35</container>
+            <unittitle>B. Lk. 12.58b- 13.34a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">36</container>
+            <unittitle>A. Lk. 13.34-15.1a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">36</container>
+            <unittitle>B. Lk. 15.1b-16.2a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">37</container>
+            <unittitle>A. Lk. 16.26 17.3</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">37</container>
+            <unittitle>B. Lk. 17.4-18.9a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">38</container>
+            <unittitle>A. Lk. 18.9b-19.7</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">38</container>
+            <unittitle>B. Lk. 19.8-1946a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">39</container>
+            <unittitle>A. Lk. 19.46b-20.36a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">39</container>
+            <unittitle>B. Lk. 20.36b-21.32a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">40</container>
+            <unittitle>A. Lk 20.32b-22.40a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">40</container>
+            <unittitle>B. Lk. 22.40b-23.13a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">41</container>
+            <unittitle>A. Lk. 23.1323.55a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">41</container>
+            <unittitle>B. Lk, 23.55b-24.43a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">42</container>
+            <unittitle>M A. Lk 24.43b -24.53 (end-Amen); Prologue to Jn;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">42</container>
+            <unittitle>John 1.1-1.15a</unittitle>
+            <physdesc>
+              <extent>(50) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">42</container>
+            <unittitle>B. Jn. 1.15b-2.6a</unittitle>
+            <physdesc>
+              <extent>(50) ovly in Jn 1.31</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">43</container>
+            <unittitle>A. Jn. 6.86.45a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">43</container>
+            <unittitle>B. Jn. 6.45b-7.17a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">44</container>
+            <unittitle>A. Jn. 7.17b-8.6a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">44</container>
+            <unittitle>B. Jn. 8.6b-8.43</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">45</container>
+            <unittitle>A. Jn. 8.43b-9.24a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">45</container>
+            <unittitle>B. Jn. 9.24b-10.25a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">46</container>
+            <unittitle>A. Jn 10.25b -11.28a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">46</container>
+            <unittitle>B. Jn.11.28b-12.10a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">47</container>
+            <unittitle>A. Jn. 12.10b-12.50</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">47</container>
+            <unittitle>B. Jn 13.1 -14.2a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">48</container>
+            <unittitle>A. Jn. 14.2b-15.9a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">48</container>
+            <unittitle>B. Jn. 15.9b-16.19a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">49</container>
+            <unittitle>A. Jn. 18.36-19.27a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">49</container>
+            <unittitle>B. Jn 19.27b-20.19a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">50</container>
+            <unittitle>A. Acts 2.47b-4.12a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">50</container>
+            <unittitle>B. Acts 4.12b-5.12a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">51</container>
+            <unittitle>A. Acts 5.12b-6.7a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">51</container>
+            <unittitle>B. Acts 6.7b-7.30a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">52</container>
+            <unittitle>A. Acts 7.30b-8.10a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">52</container>
+            <unittitle>B. Acts 8.10b-9.10a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">53</container>
+            <unittitle>A. Acts 9.10b-10.6a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">53</container>
+            <unittitle>B. Acts 10.6b-10.47a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">54</container>
+            <unittitle>A. Acts 10.47b-12.10a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">54</container>
+            <unittitle>B. Acts 12.10b-13.22</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">55</container>
+            <unittitle>A. Acts 13.23 -14.11a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">55</container>
+            <unittitle>B. Acts 14.11b-15.24a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">56</container>
+            <unittitle>A. Acts 15.24b-16.23a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">56</container>
+            <unittitle>B. Acts 16.23b-17.20a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">57</container>
+            <unittitle>A. Acts 17.20b-18.25a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">57</container>
+            <unittitle>B. Acts 18.25b-19.34a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">58</container>
+            <unittitle>A. Acts 19.34b-20.35a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">58</container>
+            <unittitle>B. Acts 20.35b-21.34a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">56</container>
+            <unittitle>M A.&#8221;Argumentum&#8221;; Rom 1.1-2.3</unittitle>
+            <physdesc>
+              <extent>(50) 2 caps</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">59</container>
+            <unittitle>B. Romans 2.3b-3.27a ovly in Romans 3.1-4</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">60</container>
+            <unittitle>A. Rom. 3.27b-5.18a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">60</container>
+            <unittitle>B. Rom. 5.18b- 7.21a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">61</container>
+            <unittitle>A. Rom. 7.21b -9.6a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">61</container>
+            <unittitle>B. Rom. 9.66-10.21</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">62</container>
+            <unittitle>A. Rom. 11.1-12.15a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">62</container>
+            <unittitle>B. Rom. 12.15b-14.23 a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">63</container>
+            <unittitle>M A. Rom. 14.23b-16.17a ovly in 16.2-4</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">63</container>
+            <unittitle>B. Rom. 16.17b-16.27 (end); &#8220;Argumentum&#8221;; I Cor. 1.1.1.29a</unittitle>
+            <physdesc>
+              <extent>(49) 2 caps</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">64</container>
+            <unittitle>A. I Cor. 1.29b-4.5a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">64</container>
+            <unittitle>B. I Cor. 4.5b-6.12a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">65</container>
+            <unittitle>A. I Cor. 6.12b-7.37a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">65</container>
+            <unittitle>B. I Cor. 7.37b-9.27a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">66</container>
+            <unittitle>A. I Cor. 9.27b-11.20a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">66</container>
+            <unittitle>B. I Cor. 11.20b-12.31</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">67</container>
+            <unittitle>A. II Cor. 3.5-5.14a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">67</container>
+            <unittitle>B. II Cor. 5.14b-7.13a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">68</container>
+            <unittitle>A. II Cor. 7.13b -9.10a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">68</container>
+            <unittitle>B. II Cor. 9.10b &#8211;11.15a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">69</container>
+            <unittitle>A. Gal. 1.18b -3.15a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">69</container>
+            <unittitle>B. Gal. 3.15bb&#8212;5.3a</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">70</container>
+            <unittitle>70)M A. Gal. 5.3b-6.18 (end); &#8220;Argumentum&#8221;; Ephesians 1.1-1 .4a</unittitle>
+            <physdesc>
+              <extent>(49) 2 caps</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">70</container>
+            <unittitle>B. Eph. 1.4b=3.4a ovly in 1.19-20</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">71</container>
+            <unittitle>A. Eph. 3.46-4.31a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">71</container>
+            <unittitle>B. Eph. 4.31b- 6.17a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">72</container>
+            <unittitle>M A. Phil 3.17b -4.23; &#8220;Argumentum&#8221;; Col 1.1-1.10a</unittitle>
+            <physdesc>
+              <extent>(49) 2 caps</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">72</container>
+            <unittitle>B. Col 1.10b-2.23a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">73</container>
+            <unittitle>M A. Col. 2.23b -4.18; &#8220;Argumentum&#8221;&#8217; ovly 1 cap</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">73</container>
+            <unittitle>B. &#8220;Argumentum&#8221;; I Thess 1.1-3.4a ovly 1 cap</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">74</container>
+            <unittitle>M A. I Thess 3.46-5.23a ovly in 5.4-7</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">74</container>
+            <unittitle>B. I Thess 5.23b-5.28</unittitle>
+            <physdesc>
+              <extent>(end) &#8220;Argumentum&#8221;; II Thess 1.1-3.2a (49) 2 caps</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">75</container>
+            <unittitle>M A. I Tim. 5.26- 6.20a</unittitle>
+            <physdesc>
+              <extent>(49) 1 cap</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">75</container>
+            <unittitle>B. I Tim 6.20b-6.21 (end), &#8220;Argumentum&#8221;, II Tim 1.1-2.19a</unittitle>
+            <physdesc>
+              <extent>(49)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">76</container>
+            <unittitle>A. Heb. 7.25b -9.20a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">76</container>
+            <unittitle>B. Heb. 9.20b-10.38a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">77</container>
+            <unittitle>A. Heb. 10.38b -11.40a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">77</container>
+            <unittitle>B. Heb. 11.40b -13.12a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">78</container>
+            <unittitle>M A. &#8220;Argumentum&#8221;; Rev. 1.1-1.5a</unittitle>
+            <physdesc>
+              <extent>(50) 2 caps</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">78</container>
+            <unittitle>B. Rev. 1.5b-2.22a</unittitle>
+            <physdesc>
+              <extent>(50)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">79</container>
+            <unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar; vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">80</container>
+            <unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">81</container>
+            <unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">82</container>
+            <unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">83</container>
+            <unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">84</container>
+            <unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">85</container>
+            <unittitle>Manuscript Leaf from a Lectionary, Scripture lesson according to the Church Calendar, vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">86</container>
+            <unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aids, arranged alphabetically&#8212;proper name of the Bible &#8220;A&#8221;; vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">87</container>
+            <unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper name of the Bible &#8220;B-C&#8221;; vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">88</container>
+            <unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper name of the Bible &#8220;I&#8221;; vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">89</container>
+            <unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper name of the Bible &#8220;I&#8221;; vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">90</container>
+            <unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper names of the Bible &#8220;S&#8221;; vellum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">91</container>
+            <unittitle>Manuscript Leaf from a Glossary&#8212;Lexical aid, arranged alphabetically&#8212;proper names of the Bible &#8220;S&#8221;; vellum</unittitle>
+          </did>
+        </c02>
+      </c01>
 
-<c01 level="series">
-<did>
-<unittitle>80 Leaves from a Missal for the use of the Diocese of Chartres, Printed by Thielman, Paris, 1529</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Folder List:</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Decorated initial letter &#8220;A&#8221; and miniature</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Decorated initial letter &#8220;B&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>Decorated initial letter &#8220;C&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Decorated initial letter &#8220;D&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;I&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;O&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;O&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>Decorated initial letter &#8220;E&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>Decorated initial letter &#8220;E&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>Decorated initial letter &#8220;E&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">12</container>
-<unittitle>Decorated initial letter &#8220;G&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">13</container>
-<unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">14</container>
-<unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">15</container>
-<unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">16</container>
-<unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">17</container>
-<unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">18</container>
-<unittitle>Decorated initial letters &#8220;I&#8221; &#8220;L&#8221; &#8220;O&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">19</container>
-<unittitle>Decorated initial letters &#8220;I&#8221; &#8220;O&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">20</container>
-<unittitle>Decorated initial letter &#8220;K&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">21</container>
-<unittitle>Decorated initial letter &#8220;L&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">22</container>
-<unittitle>Decorated initial letter &#8220;M&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">23</container>
-<unittitle>Decorated initial letters &#8220;M&#8221; &#8220;O&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">24</container>
-<unittitle>Decorated initial letters &#8220;M&#8221; &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">25</container>
-<unittitle>Decorated initial letter &#8220;O&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">26</container>
-<unittitle>Decorated initial letter &#8220;O&#8221; and miniatures</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">27</container>
-<unittitle>Decorated initial letter &#8220;R&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">28</container>
-<unittitle>Decorated initial letters &#8220;S&#8221; &#8220;C&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">29</container>
-<unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">30</container>
-<unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">31</container>
-<unittitle>Decorated initial letters &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">32</container>
-<unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">33</container>
-<unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">34</container>
-<unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">35</container>
-<unittitle>Decorated initial letter &#8220;V&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">36</container>
-<unittitle>Decorated initial letter &#8220;V&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">37</container>
-<unittitle>Decorated initial letter &#8220;V&#8221;</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">38</container>
-<unittitle>Decorated initial letters &#8220;V&#8221; and others</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">39</container>
-<unittitle>Decorated initial letters</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">40</container>
-<unittitle>&#8220;Aprilis&#8221; Calendar</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">41</container>
-<unittitle>&#8220;Mayus&#8221; Calendar</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">42</container>
-<unittitle>&#8220;Julius&#8221; Calendar</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">43</container>
-<unittitle>&#8220;September&#8221; Calendar</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">44</container>
-<unittitle>&#8220;November&#8221; Calendar</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">45</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">46</container>
-<unittitle>Leaf without decorated initial letter, the night of the Nativity</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">47</container>
-<unittitle>Leaf without decorated initial letter, for the day of Epiphany</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">48</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">49</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">50</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">51</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">52</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">53</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">54</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">55</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">56</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">57</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">58</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">59</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">60</container>
-<unittitle>Leaf without decorated initial letter, Feria</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">61</container>
-<unittitle>Leaf without decorated initial letter, Feria</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">62</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">63</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">64</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">65</container>
-<unittitle>Leaf without decorated initial letter, Gloria in Excelsis, Credo</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">66</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">67</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">68</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">69</container>
-<unittitle>Leaf without decorated initial letter, Kyrie Eleison</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">70</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">71</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">72</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">73</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">74</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">75</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">76</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">77</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">78</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">79</container>
-<unittitle>Leaf without decorated initial letter, Evangelia de Beata Maria</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">80</container>
-<unittitle>Leaf without decorated initial letter</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
+      <c01 level="series">
+        <did>
+          <unittitle>80 Leaves from a Missal for the use of the Diocese of Chartres, Printed by Thielman, Paris, 1529</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Decorated initial letter &#8220;A&#8221; and miniature</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Decorated initial letter &#8220;B&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Decorated initial letter &#8220;C&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Decorated initial letter &#8220;D&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;I&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;O&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;O&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Decorated initial letters &#8220;D&#8221; and &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Decorated initial letter &#8220;E&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Decorated initial letter &#8220;E&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Decorated initial letter &#8220;E&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Decorated initial letter &#8220;G&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">16</container>
+            <unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle>Decorated initial letter &#8220;I&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">18</container>
+            <unittitle>Decorated initial letters &#8220;I&#8221; &#8220;L&#8221; &#8220;O&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">19</container>
+            <unittitle>Decorated initial letters &#8220;I&#8221; &#8220;O&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">20</container>
+            <unittitle>Decorated initial letter &#8220;K&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">21</container>
+            <unittitle>Decorated initial letter &#8220;L&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">22</container>
+            <unittitle>Decorated initial letter &#8220;M&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">23</container>
+            <unittitle>Decorated initial letters &#8220;M&#8221; &#8220;O&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">24</container>
+            <unittitle>Decorated initial letters &#8220;M&#8221; &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">25</container>
+            <unittitle>Decorated initial letter &#8220;O&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">26</container>
+            <unittitle>Decorated initial letter &#8220;O&#8221; and miniatures</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">27</container>
+            <unittitle>Decorated initial letter &#8220;R&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">28</container>
+            <unittitle>Decorated initial letters &#8220;S&#8221; &#8220;C&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">29</container>
+            <unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">30</container>
+            <unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">31</container>
+            <unittitle>Decorated initial letters &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">32</container>
+            <unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">33</container>
+            <unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">34</container>
+            <unittitle>Decorated initial letter &#8220;S&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">35</container>
+            <unittitle>Decorated initial letter &#8220;V&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">36</container>
+            <unittitle>Decorated initial letter &#8220;V&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">37</container>
+            <unittitle>Decorated initial letter &#8220;V&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">38</container>
+            <unittitle>Decorated initial letters &#8220;V&#8221; and others</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">39</container>
+            <unittitle>Decorated initial letters</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">40</container>
+            <unittitle>&#8220;Aprilis&#8221; Calendar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">41</container>
+            <unittitle>&#8220;Mayus&#8221; Calendar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">42</container>
+            <unittitle>&#8220;Julius&#8221; Calendar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">43</container>
+            <unittitle>&#8220;September&#8221; Calendar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">44</container>
+            <unittitle>&#8220;November&#8221; Calendar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">45</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">46</container>
+            <unittitle>Leaf without decorated initial letter, the night of the Nativity</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">47</container>
+            <unittitle>Leaf without decorated initial letter, for the day of Epiphany</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">48</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">49</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">50</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">51</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">52</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">53</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">54</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">55</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">56</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">57</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">58</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">59</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">60</container>
+            <unittitle>Leaf without decorated initial letter, Feria</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">61</container>
+            <unittitle>Leaf without decorated initial letter, Feria</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">62</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">63</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">64</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">65</container>
+            <unittitle>Leaf without decorated initial letter, Gloria in Excelsis, Credo</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">66</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">67</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">68</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">69</container>
+            <unittitle>Leaf without decorated initial letter, Kyrie Eleison</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">70</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">71</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">72</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">73</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">74</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">75</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">76</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">77</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">78</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">79</container>
+            <unittitle>Leaf without decorated initial letter, Evangelia de Beata Maria</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">80</container>
+            <unittitle>Leaf without decorated initial letter</unittitle>
+          </did>
+        </c02>
+      </c01>
 
-</dsc>
-</archdesc>
+    </dsc>
+  </archdesc>
 </ead>
-
-

@@ -1,467 +1,469 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Freolac Club Collection</titleproper>
-<titleproper>Finding Aid for the Freolac Club Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1968-2006</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Freolac Club Collection</unittitle>
-<unitid>MSS.0158</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">0.42 linear feet</extent>
-</physdesc>
-<unitdate>1968-2006</unitdate>
-</did>
-<bioghist>
-<head>Biography/History</head>
-<p>The Freolac Club was organized in 1916 to bring together men of culture, having diverse interests and professions, who were concerned with keeping alive their quest for knowledge and truth in many fields of intellectual interest. Meetings are held once a month during the months of October to December and February to June. Members present papers on a topic of interest to them. Until 1981, members attending the meeting would provide critical feedback on papers presented. After this date, this practice was discontinued.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This collection contains correspondence, meeting announcements, newspaper clippings, biographical material, program schedules, reports, rosters of members, copies of delivered speeches, lecture notes for presentations, and miscellaneous material. Dates of the material range from 1968 to 2006.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>Biographical Material</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Baker, William Robert</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Crabb, Alfred Leland</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>DeWitt, John Hibbett</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Gleaves, Edwin S.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Higgins, Thomas Aquinas</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Koch, Jeffrey M.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Miles, Roy A., Jr.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Miles, Roy A., Sr.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Shriver, Thomas A.</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Committee Reports</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Committee on Membership</unittitle>
-<unitdate>March 2, 1981</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unitdate>1969</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unitdate>1970-1979</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unitdate>1980-1988</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Financial Statements</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unitdate>1998</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Mailing Lists</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Undated list</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Meeting Announcements</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unitdate>1969</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unitdate>1970-1975</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unitdate>1976-1979</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unitdate>1980-1981</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Membership Rosters</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Club Roster</unittitle>
-<unitdate>1981-1982</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Club Roster, undated</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Miscellaneous</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Notes, undated</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Program Schedules</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unitdate>1968-2003</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Speeches and Lecture Notes</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">1</container>
-<unittitle>Adams, Dillard G. &#8220;The Story of Fort Harker.&#8221;</unittitle>
-<unitdate>May 5, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">2</container>
-<unittitle>Aden, John. &#8220;Edmund Burke and the Conservative Idea.&#8221;</unittitle>
-<unitdate>May 1, 1978. (lecture notes)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Brown, Neill S. &#8220;Reminiscing.&#8221; Undated.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">4</container>
-<unittitle>Buck, J. Orton. &#8220;Captain Joseph Brant &#8211; Mohawk Name: Thayendanegea.&#8221;</unittitle>
-<unitdate>June 3, 1985</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>Crabb, Alfred Leland. &#8220;Your Great-Grandparents Were There.&#8221;</unittitle>
-<unitdate>April 8, 1974</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">6</container>
-<unittitle>Gabhart, Herbert C. &#8220;Numerology and the Number 7.&#8221;</unittitle>
-<unitdate>February 5, 1979</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">7</container>
-<unittitle>Gabhart, Herbert C. &#8220;Useful Old Proverbs.&#8221;</unittitle>
-<unitdate>1984</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">8</container>
-<unittitle>Gleaves, Edwin S. &#8220;The Future of Books and Libraries in an Age of Hyperlinks.&#8221;</unittitle>
-<unitdate>May 7, 2001</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">9</container>
-<unittitle>Gray, David. &#8220;In-House Counsel: A Change of Perspective.&#8221;</unittitle>
-<unitdate>December 3, 1990</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">10</container>
-<unittitle>Hoobler, James A. &#8220;Yakub Beg: The Emir of Kashgaria, 1872-1878.&#8221;</unittitle>
-<unitdate>February 4, 1980. (lecture notes)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">11</container>
-<unittitle>Koch, Jeffrey M. &#8220;The Battle of Bushy Run.&#8221;</unittitle>
-<unitdate>September 2001</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">12</container>
-<unittitle>Koch, Jeffrey M. &#8220;FREOLAC: A Presentation of Our Collected History.&#8221;</unittitle>
-<unitdate>April 8, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">13</container>
-<unittitle>Koch, Jeffrey M. &#8220;Huzzah for the Whiskey Boys.&#8221;</unittitle>
-<unitdate>February 1999</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">14</container>
-<unittitle>Koch, Jeffrey M. &#8220;Meagher of the Sword: The Life of Thomas F. Meagher &#8211; Revolutionary, Lawyer, General, Governor.&#8221;</unittitle>
-<unitdate>December 1, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">15</container>
-<unittitle>Koch, Jeffrey M. &#8220;Steel Titan: The Life of Charles M. Schwab.&#8221;</unittitle>
-<unitdate>March 1977</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">16</container>
-<unittitle>Manchester, Paul. &#8220;F&#233;lix Lope de Vega y Carpio, 1562-1635.&#8221;</unittitle>
-<unitdate>December 4, 1972. (lecture notes)</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">17</container>
-<unittitle>Miles, Roy A., Jr. &#8220;Fifteen Miles from Nowhere: Lascassas, Tennessee.&#8221; Undated.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">18</container>
-<unittitle>Miles, Roy A., Jr. &#8220;A Glimpse into the Universe.&#8221;</unittitle>
-<unitdate>October 2002</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">19</container>
-<unittitle>Miles, Roy A., Jr. &#8220;The Maquis.&#8221;</unittitle>
-<unitdate>November 1993</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">20</container>
-<unittitle>Miles, Roy A., Jr. &#8220;Thoroughbreds.&#8221;</unittitle>
-<unitdate>June 3, 1991</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">21</container>
-<unittitle>Neese, Charles G. &#8220;Ana.&#8221;</unittitle>
-<unitdate>November 2, 1987</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">22</container>
-<unittitle>Rainey, Bill. [&#8220;The Affair of Spring Hill.&#8221;]</unittitle>
-<unitdate>February 2, 2004</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">23</container>
-<unittitle>Rosenberg, Fred. &#8220;Melungeons.&#8221;</unittitle>
-<unitdate>May 4, 1992</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">24</container>
-<unittitle>Rosenberg, Joseph F. &#8220;Family History.&#8221;</unittitle>
-<unitdate>April 3, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">25</container>
-<unittitle>Rosenberg, Joseph F. &#8220;The Ring.&#8221;</unittitle>
-<unitdate>October 6, 2003</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">26</container>
-<unittitle>Shriver, Thomas H. &#8220;Lift Up Your Eyes to Wonder: A Layman Looks at the Universe.&#8221;</unittitle>
-<unitdate>October 7, 1974</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">27</container>
-<unittitle>Sitton, W. B. &#8220;A Freeman&#8217;s Song.&#8221;</unittitle>
-<unitdate>(poem) Fall 2000</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Recorded Speeches on Audio Cassette</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="folder">1</container>
-<unittitle>Tape 1: Side 1</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Valentine, Andy. &#8220;Everything That Rises Must Converge: Extraordinary Delusion and the Madness of Crowds.&#8221; Delivered June 6, 2005.</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">2</container>
-<unittitle>Tape 1: Side 2</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Wade, Henry, III. &#8220;A Plague is Upon Us: The Black Plague of 1347 and Its Effects on Society.&#8221; Delivered September 6, 2005.</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Tape 2: Side 1</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Sullivan, Walter L. &#8220;William Faulkner Joins the Air Force, or Why Writers Lie.&#8221; Delivered November 7, 2005.</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">4</container>
-<unittitle>Tape 2: Side 2</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>Cantrell, Ben. &#8220;A Primer on Federal-State Relations.&#8221; Delivered February 2, 2006.</item>
-</list>
-</note>
-</c02>
-<c02 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>Tape 3:</unittitle>
-</did>
-<note>
-<list type="simple">
-<item>McClanahan, Larry. &#8220;DNA Genealogy.&#8221; Delivered March 6, 2006.</item>
-</list>
-</note>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Freolac Club Collection</titleproper>
+        <titleproper>Finding Aid for the Freolac Club Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Freolac Club Collection</unittitle>
+      <unitid>MSS.0158</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>1968-2006</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/History</head>
+      <p>The Freolac Club was organized in 1916 to bring together men of culture, having diverse interests and professions, who were concerned with keeping alive their quest for knowledge and truth in many fields of intellectual interest. Meetings are held
+        once a month during the months of October to December and February to June. Members present papers on a topic of interest to them. Until 1981, members attending the meeting would provide critical feedback on papers presented. After this date, this
+        practice was discontinued.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This collection contains correspondence, meeting announcements, newspaper clippings, biographical material, program schedules, reports, rosters of members, copies of delivered speeches, lecture notes for presentations, and miscellaneous material.
+        Dates of the material range from 1968 to 2006.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Biographical Material</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Baker, William Robert</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Crabb, Alfred Leland</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>DeWitt, John Hibbett</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gleaves, Edwin S.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Higgins, Thomas Aquinas</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Koch, Jeffrey M.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Miles, Roy A., Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Miles, Roy A., Sr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Shriver, Thomas A.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Committee Reports</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Committee on Membership</unittitle>
+            <unitdate>March 2, 1981</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>1970-1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>1980-1988</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Statements</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>1998</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Mailing Lists</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Undated list</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Meeting Announcements</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>1970-1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>1976-1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>1980-1981</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Membership Rosters</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Club Roster</unittitle>
+            <unitdate>1981-1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Club Roster, undated</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Notes, undated</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Program Schedules</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>1968-2003</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Speeches and Lecture Notes</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Adams, Dillard G. &#8220;The Story of Fort Harker.&#8221;</unittitle>
+            <unitdate>May 5, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Aden, John. &#8220;Edmund Burke and the Conservative Idea.&#8221;</unittitle>
+            <unitdate>May 1, 1978. (lecture notes)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Brown, Neill S. &#8220;Reminiscing.&#8221; Undated.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Buck, J. Orton. &#8220;Captain Joseph Brant &#8211; Mohawk Name: Thayendanegea.&#8221;</unittitle>
+            <unitdate>June 3, 1985</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Crabb, Alfred Leland. &#8220;Your Great-Grandparents Were There.&#8221;</unittitle>
+            <unitdate>April 8, 1974</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Gabhart, Herbert C. &#8220;Numerology and the Number 7.&#8221;</unittitle>
+            <unitdate>February 5, 1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">7</container>
+            <unittitle>Gabhart, Herbert C. &#8220;Useful Old Proverbs.&#8221;</unittitle>
+            <unitdate>1984</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">8</container>
+            <unittitle>Gleaves, Edwin S. &#8220;The Future of Books and Libraries in an Age of Hyperlinks.&#8221;</unittitle>
+            <unitdate>May 7, 2001</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">9</container>
+            <unittitle>Gray, David. &#8220;In-House Counsel: A Change of Perspective.&#8221;</unittitle>
+            <unitdate>December 3, 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">10</container>
+            <unittitle>Hoobler, James A. &#8220;Yakub Beg: The Emir of Kashgaria, 1872-1878.&#8221;</unittitle>
+            <unitdate>February 4, 1980. (lecture notes)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">11</container>
+            <unittitle>Koch, Jeffrey M. &#8220;The Battle of Bushy Run.&#8221;</unittitle>
+            <unitdate>September 2001</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">12</container>
+            <unittitle>Koch, Jeffrey M. &#8220;FREOLAC: A Presentation of Our Collected History.&#8221;</unittitle>
+            <unitdate>April 8, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">13</container>
+            <unittitle>Koch, Jeffrey M. &#8220;Huzzah for the Whiskey Boys.&#8221;</unittitle>
+            <unitdate>February 1999</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">14</container>
+            <unittitle>Koch, Jeffrey M. &#8220;Meagher of the Sword: The Life of Thomas F. Meagher &#8211; Revolutionary, Lawyer, General, Governor.&#8221;</unittitle>
+            <unitdate>December 1, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">15</container>
+            <unittitle>Koch, Jeffrey M. &#8220;Steel Titan: The Life of Charles M. Schwab.&#8221;</unittitle>
+            <unitdate>March 1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">16</container>
+            <unittitle>Manchester, Paul. &#8220;F&#233;lix Lope de Vega y Carpio, 1562-1635.&#8221;</unittitle>
+            <unitdate>December 4, 1972. (lecture notes)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">17</container>
+            <unittitle>Miles, Roy A., Jr. &#8220;Fifteen Miles from Nowhere: Lascassas, Tennessee.&#8221; Undated.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">18</container>
+            <unittitle>Miles, Roy A., Jr. &#8220;A Glimpse into the Universe.&#8221;</unittitle>
+            <unitdate>October 2002</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">19</container>
+            <unittitle>Miles, Roy A., Jr. &#8220;The Maquis.&#8221;</unittitle>
+            <unitdate>November 1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">20</container>
+            <unittitle>Miles, Roy A., Jr. &#8220;Thoroughbreds.&#8221;</unittitle>
+            <unitdate>June 3, 1991</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">21</container>
+            <unittitle>Neese, Charles G. &#8220;Ana.&#8221;</unittitle>
+            <unitdate>November 2, 1987</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">22</container>
+            <unittitle>Rainey, Bill. [&#8220;The Affair of Spring Hill.&#8221;]</unittitle>
+            <unitdate>February 2, 2004</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">23</container>
+            <unittitle>Rosenberg, Fred. &#8220;Melungeons.&#8221;</unittitle>
+            <unitdate>May 4, 1992</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">24</container>
+            <unittitle>Rosenberg, Joseph F. &#8220;Family History.&#8221;</unittitle>
+            <unitdate>April 3, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">25</container>
+            <unittitle>Rosenberg, Joseph F. &#8220;The Ring.&#8221;</unittitle>
+            <unitdate>October 6, 2003</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">26</container>
+            <unittitle>Shriver, Thomas H. &#8220;Lift Up Your Eyes to Wonder: A Layman Looks at the Universe.&#8221;</unittitle>
+            <unitdate>October 7, 1974</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">27</container>
+            <unittitle>Sitton, W. B. &#8220;A Freeman&#8217;s Song.&#8221;</unittitle>
+            <unitdate>(poem) Fall 2000</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Recorded Speeches on Audio Cassette</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Tape 1: Side 1</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Valentine, Andy. &#8220;Everything That Rises Must Converge: Extraordinary Delusion and the Madness of Crowds.&#8221; Delivered June 6, 2005.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Tape 1: Side 2</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Wade, Henry, III. &#8220;A Plague is Upon Us: The Black Plague of 1347 and Its Effects on Society.&#8221; Delivered September 6, 2005.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">3</container>
+            <unittitle>Tape 2: Side 1</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Sullivan, Walter L. &#8220;William Faulkner Joins the Air Force, or Why Writers Lie.&#8221; Delivered November 7, 2005.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Tape 2: Side 2</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Cantrell, Ben. &#8220;A Primer on Federal-State Relations.&#8221; Delivered February 2, 2006.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Tape 3:</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>McClanahan, Larry. &#8220;DNA Genealogy.&#8221; Delivered March 6, 2006.</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
