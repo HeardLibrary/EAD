@@ -1,794 +1,614 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Curry, Walter Clyde Papers</titleproper>
-<titleproper>Finding Aid for the Walter Clyde Curry Papers</titleproper>
-<author>Catherine Ashley Via</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2005</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Walter Clyde Curry Papers</unittitle>
-<unitid>MSS.0097</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">1.26 Linear Feet</extent>
-</physdesc>
-<unitdate>2005</unitdate>
-</did>
-
-<scopecontent>
-<head>SUMMARY</head>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="100pt"/>
-<tbody>
-<row>
-<entry colname="1">Size</entry>
-<entry colname="2">1.13 Linear Ft. and 1 oversize folder</entry>
-</row>
-<row>
-<entry colname="1">Geographic Locations</entry>
-<entry colname="2">United States</entry>
-</row>
-<row>
-<entry colname="1">Inclusive Dates</entry>
-<entry colname="2">1933-1967</entry>
-</row>
-<row>
-<entry colname="1">Bulk Dates</entry>
-<entry colname="2">1955-1963</entry>
-</row>
-<row>
-<entry colname="1">Languages</entry>
-<entry colname="2">English</entry>
-</row>
-<row>
-<entry colname="1">Summary</entry>
-<entry colname="2">The papers of Walter Clyde Curry (1887-1967) were acquired by Vanderbilt University in 1968. Curry, a long-time member of the Department of English at Vanderbilt, was a scholar of Chaucer, Shakespeare, and Milton. He was one of the initial members of the Fugitive literary movement.</entry>
-</row>
-<row>
-<entry colname="1">Access Restrictions</entry>
-<entry colname="2">No Restrictions</entry>
-</row>
-<row>
-<entry colname="1">Copyright</entry>
-<entry colname="2">Rights are retained by Special Collections, Vanderbilt University.</entry>
-</row>
-<row>
-<entry colname="1">Stack Locations</entry>
-<entry colname="2">Manuscripts</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-
-<bioghist>
-<head>BIOGRAPHICAL/HISTORICAL NOTE</head>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="100pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">1887</entry>
-<entry colname="2">Walter Clyde Curry was born on January 6<emph render="super">th</emph> in Graycourt, South Carolina.</entry>
-</row>
-<row>
-<entry colname="1">1909</entry>
-<entry colname="2">Received his B.A. degree from Wofford College.</entry>
-</row>
-<row>
-<entry colname="1">1913</entry>
-<entry colname="2">Received his M.A. degree from Stanford University.</entry>
-</row>
-<row>
-<entry colname="1">1915</entry>
-<entry colname="2">Received his Ph.D. degree from Stanford University.</entry>
-</row>
-<row>
-<entry colname="1">1915-1955</entry>
-<entry colname="2">English professor at Vanderbilt University.</entry>
-</row>
-<row>
-<entry colname="1">1927</entry>
-<entry colname="2">Married Miss Kathryn Worth.</entry>
-</row>
-<row>
-<entry colname="1">1929</entry>
-<entry colname="2">Daughter, Josephine, was born on March 29<emph render="super">th</emph>.</entry>
-</row>
-<row>
-<entry colname="1">1934</entry>
-<entry colname="2">Special editor on occultism in Webster&#8217;s International Dictionary.</entry>
-</row>
-<row>
-<entry colname="1">1952</entry>
-<entry colname="2">Awarded an honorary Litt. D. degree by Wofford College</entry>
-</row>
-<row>
-<entry colname="1">1967</entry>
-<entry colname="2">Curry dies in Nashville, Tennessee on October 2<emph render="super">nd</emph>.</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-<p>* Biographical notes taken from</p>
-<p>Nashville Banner. <emph render="italic">&#8220;Dr. Curry, Retired VU Professor, Dies.&#8221;</emph> October 3, 1967.</p>
-<p>Nashville Tennessean. <emph render="italic">&#8220;Dr. Curry Dies, Ex-Professor.&#8221;</emph> October 3, 1967.</p>
-</bioghist>
-
-<scopecontent>
-<head>SCOPE AND CONTENT NOTE</head>
-<p>In 1968, Special Collections at the Jean and Alexander Heard Library acquired the papers of Walter Clyde Curry (1887-1967). The papers were a generous donation from Curry&#8217;s wife, Kathryn Curry, and daughter, Josephine Raney. A distinguished Medieval and Renaissance scholar, Curry was a member of the Vanderbilt University English Department faculty for 40 years. He served as head of the English department and the humanities division from 1941 until his retirement in 1955. Walter Clyde Curry was also an initial member of the Fugitive literary movement.</p>
-<p>Curry&#8217;s collection contains 77 outgoing letters; 135 incoming letters; writings &#8211; published &#38; unpublished; book reviews; publishers&#8217; announcements &#38; revisions; royalty statements; research/lecture notes; budget/curriculum notes; graduate information; offprints by others; diagrams &#38; illustrations; photographs; and ephemera. Also included within this collection is 1 oversize folder.</p>
-</scopecontent>
-
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<unittitle>LIST OF SERIES AND SUBSERIES</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Series I. Correspondence</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Subseries 1. Outgoing</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 2. Incoming</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 3. Miscellaneous</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series II. Writings</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Subseries 1. Published</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 2. Unpublished</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series III. Literary Career</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Subseries 1. Book Reviews</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 2. Publisher&#8217;s Announcements &#38; Revisions</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 3. Royalty Statements</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 4. Miscellaneous</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series IV. Academic Career</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Subseries 1. Department of English</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 2. Graduate Information</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 3. Research/Lecture Notes</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 4. Diagrams/Illustrations</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 5. Offprints</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 6. Miscellaneous</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series V. Biographical</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle>Subseries 1. Business Papers</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Subseries 2. Photographs</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series V. Ephemera</unittitle>
-</did>
-</c02>
-</c01>
-
-<c01 level="series">
-<did>
-<unittitle>SERIES AND SUBSERIES DESCRIPTIONS</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<unittitle>Series I. Correspondence</unittitle>
-<unitdate>1933-1966</unitdate>
-</did>
-<note>
-<p>The Correspondence series is comprised of outgoing and incoming letters. The outgoing correspondence consists of 77 letters chronologically arranged. Letters are typewritten, carbon copies, with the exception of a few holographs. There are nine unsigned letters, and one letter has no date.</p>
-<p>The incoming correspondence consists of 135 letters, and is arranged alphabetically. The incoming letters are typewritten with the exception of a few holographs. Few letters are carbon copies; one letter is signed with only the surname. Five letters are signed without surnames, and six are signed with initials only. Four letters are without dates.</p>
-<p>There is one letter contained in the miscellaneous correspondence due to that it not addressed to or written by Walter Clyde Curry.</p>
-</note>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series II. Writings</unittitle>
-<unitdate>1923-1951</unitdate>
-</did>
-<note>
-<p>The Writings Series consists of materials that are both published and unpublished works of Walter Clyde Curry. The published articles are arranged alphabetically by title. Some published material of Curry&#8217;s work (such as &#8220;Milton&#8217;s Dual Concept,&#8221; &#8220;Milton&#8217;s Chaos And Old Night,&#8221; &#8220;The Genesis of Milton&#8217;s World,&#8221; and &#8220;Some Travels of Milton&#8217;s Satan And The Road To Hell,&#8221;) have crossed out titles with holograph additions and corrections.</p>
-<p>The unpublished material includes an essay, lectures, and speeches of Walter Clyde Curry. This material is arranged alphabetically by title. One partial typescript speech to the Vanderbilt English Department has no title or date.</p>
-</note>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series III. Literary Career</unittitle>
-<unitdate>1928-1967</unitdate>
-</did>
-<note>
-<p>This series contains documents relating to Walter Clyde Curry&#8217;s literary career. Documents relate to: book reviews, publisher&#8217;s announcements and revisions, as well as royalty statements.</p>
-<p>Book reviews of Curry&#8217;s works are chronologically arranged. The book reviews consist of material that includes mimeographed and printed leaflets and advertisements. Some reviews are typewritten, and some are magazine and photocopies of newspaper clippings.</p>
-<p>The publishers&#8217; announcements are arranged alphabetically by name of publisher. Most of them included a brief review for one of Curry&#8217;s works. A few do not mention him at all. The material also includes several typescript pages of alterations and corrections to be made in Curry&#8217;s works. An announcement from the University of Kentucky Press entitled &#8220;Author&#8217;s Alterations&#8221; and a typescript preface and dedication to the second edition of Shakespeare&#8217;s Philosophical Patterns are also included. The royalty statements are arranged alphabetically by publishing company.</p>
-</note>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series IV. Academic Career</unittitle>
-<unitdate>1949-1964</unitdate>
-</did>
-<note>
-<p>This series contains documents relating to Curry&#8217;s Academic Career while at Vanderbilt University. Documents include research/lecture notes, budget/curriculum notes for the Department of English, as well as graduate information, offprints, diagrams/illustrations, and miscellaneous material.</p>
-<p>The research and lecture notes contain material on the origin of languages. Most notes are holographs, but a few pages are typescript.</p>
-<p>The graduate information relates to the Master of Arts in teaching. The material consists of newsletters, mailing lists, and general information bulletin about the Vanderbilt-Peabody Master of Arts in teaching program. There are several lists of doctorial candidates at Vanderbilt. Also included in the material are various items of Eugene E. Slaughter.</p>
-<p>Notes for the Department of English concern both budget and curriculum. The budget information is arranged chronologically from 1949 to 1955. Material includes lists of salaries of members of the English Department. Some parts of the budget information are typescript, some are copies, and some are holographs. The curriculum notes consist mainly of charts indicating professors and classes to be taught.</p>
-<p>There are 26 different offprints arranged in alphabetical order by author. Several are autographed by the author.</p>
-<p>The diagrams and illustrations are from Milton&#8217;s Ontology. Material includes a diagram indicating Milton&#8217;s concept of total self-existent and dependent reality or beingas represented by symbolical design. The diagram is accompanied by a typewritten explanation of the symbols. Included within this series in an oversize folder containing a poster-size diagram from Milton&#8217;s Ontology.</p>
-<p>The miscellaneous material is a photocopy of a newspaper clipping of an article written by Richmond C. Beatty about Walter Clyde Curry.</p>
-</note>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series V. Biographical</unittitle>
-<unitdate>1957-1966</unitdate>
-</did>
-<note>
-<p>This series contains biographical information that relates to Walter Clyde Curry. Documents include family photographs and business papers. The business papers consist of several U.S. Post Office receipts for certified mail and insured mail. The receipts are arranged chronologically.</p>
-</note>
-</c02>
-<c02 level="subseries">
-<did>
-<unittitle>Series VI. Ephemera</unittitle>
-<unitdate>undated</unitdate>
-</did>
-<note>
-<p>This is the last series in the collection and comprise of a pipe that belonged to Walter Clyde Curry.</p>
-</note>
-</c02>
-</c01>
-
-
-<c01 level="series">
-<did>
-<unittitle>SERIES I. CORRESPONDENCE</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Nov. 3, 1937 - Apr. 6, 1951</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Feb. 27, 1952 &#8211; Apr. 7, 1952</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Feb. 15, 1953 &#8211; Apr. 20, 1953</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Apr. 27, 1953 &#8211; Jan. 14, 1955</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Jan. 15, 1955 &#8211; Jan. 31, 1955</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Apr. 28, 1955 &#8211; Sept. 26, 1956</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Nov. 11, 1956 &#8211; Apr. 23, 1957</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Apr. 24, 1957 &#8211; Mar. 6, 1959</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Apr. 7, 1959 &#8211; Aug. 4, 1959</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>Aug. 15, 1959 &#8211; May 20, 1960</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>May 20, 1960 &#8211; May 27, 1961</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>June 25, 1962 &#8211; Apr. 7, 1966</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Outgoing Correspondence:</unittitle>
-<unitdate>No Date</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>Incoming Correspondence: Aden &#8211; Cone</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Incoming Correspondence: Denbo &#8211; Ellegood</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Incoming Correspondence: Elliot, Kenneth W.</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Incoming Correspondence: Evans &#8211; Hughes</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>Incoming Correspondence: Hunter &#8211; Jones</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>Incoming Correspondence: Kellogg &#8211; Pearce</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>Incoming Correspondence: Peck &#8211; Slaughter</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>Incoming Correspondence: Smith, Samuel</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>Incoming Correspondence: Solomon &#8211; Waters</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle>Incoming Correspondence: Weaver &#8211; Zesmer</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unittitle>Miscellaneous Correspondence: Beach</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>SERIES II. WRITINGS</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unittitle>Published: Chaucer&#8217;s Science and Art; The &#8220;True&#8221; Mr. Froude</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">26</container>
-<unittitle>Published: The Consistence And Qualities Of Milton&#8217;s Chaos</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">27</container>
-<unittitle>Published: The Genesis Of Milton&#8217;s World</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">28</container>
-<unittitle>Published: Milton&#8217;s Chaos And Old Night</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">29</container>
-<unittitle>Published: Milton&#8217;s Dual Concept of God As Related To Creation</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">30</container>
-<unittitle>Published: Some Travels Of Milton&#8217;s Satan And The Road To Hell</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">31</container>
-<unittitle>Unpublished: An Objective Evaluation Of &#8220;Chaucer &#8211; A Critical Appreciation, by Paull F. Baum&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">32</container>
-<unittitle>Unpublished: Scholars And Scholarship: Illustrated</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">33</container>
-<unittitle>Unpublished: [Typescript speech on the nature of humor]</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">34</container>
-<unittitle>Unpublished: [Partial typescript speech to Vanderbilt English Department]</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>SERIES III. LITERARY CAREER</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">35</container>
-<unittitle>Book Reviews:</unittitle>
-<unitdate>1928 &#8211; Summer 1958</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">36</container>
-<unittitle>Book Reviews:</unittitle>
-<unitdate>Winter 1958 &#8211; No Date</unitdate>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">37</container>
-<unittitle>Publishers&#8217; Announcements and Revisions</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">38</container>
-<unittitle>Royalty Statements</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">1</container>
-<container type="folder">39</container>
-<unittitle>Miscellaneous</unittitle>
-</did>
-</c02>
-</c01>
-
-<c01 level="series">
-<did>
-<unittitle>SERIES IV. ACADEMIC CAREER</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-<unittitle>Department of English: budget and curriculum notes</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Graduate Information: Master of Arts in Teaching (1 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Graduate Information: Master of Arts in Teaching (2 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>Research/Lecture Notes</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>Diagrams and Illustrations in Milton&#8217;s Ontology</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>Offprints: Aden &#8211; Beach</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>Offprints: Coffin &#8211; Gates</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>Offprints: Hunter, Wm B.</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>Offprints: Jones &#8211; Joseph</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>Offprints: Kellogg &#8211; Pratt</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>Offprints: Siegal &#8211; Slaughter</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>Offprints: Stevenson &#8211; Woodhouse</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>Miscellaneous: Newspaper article (March 30, 1960)</unittitle>
-</did>
-</c02>
-</c01>
-
-<c01 level="series">
-<did>
-<unittitle>SERIES V. BIOGRAPHICAL</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>Business Papers</unittitle>
-</did>
-</c02>
-<c02 level="subseries">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>Photographs</unittitle>
-</did>
-</c02>
-</c01>
-
-<c01 level="series">
-<did>
-<unittitle>SERIES VI. EPHEMERA</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>Pipe that belonged to Walter Clyde Curry</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<unittitle>Oversize Folder 1</unittitle>
-</did>
-<c02 level="subseries">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>Poster-size diagram from Milton&#8217;s Ontology. Removed from Series IV. Academic Career, Box 2 Folder 5.</unittitle>
-</did>
-</c02>
-</c01>
-
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Curry, Walter Clyde Papers</titleproper>
+        <titleproper>Finding Aid for the Walter Clyde Curry Papers</titleproper>
+        <author>Catherine Ashley Via</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2005</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Walter Clyde Curry Papers</unittitle>
+      <unitid>MSS.0097</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.26 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1933/1967" type="inclusive">1933-1967</unitdate>
+      <unitdate normal="1955/1963" type="bulk"></unitdate>
+      <abstract>The papers of Walter Clyde Curry (1887-1967) were acquired by Vanderbilt University in 1968. Curry, a long-time member of the Department of English at Vanderbilt, was a scholar of Chaucer, Shakespeare, and Milton. He was one of the initial
+        members of the Fugitive literary movement.
+      </abstract>
+    </did>
+    <userestrict>
+      <p>Rights are retained by Special Collections, Vanderbilt University.</p>
+    </userestrict>
+    <bioghist>
+      <head>Biographical/Historical Note</head>
+      <table frame="none">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="1" align="left" colwidth="100pt"/>
+          <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+          <tbody>
+            <row>
+              <entry colname="1">1887</entry>
+              <entry colname="2">Walter Clyde Curry was born on January 6<emph render="super">th</emph>
+                in Graycourt, South Carolina.</entry>
+            </row>
+            <row>
+              <entry colname="1">1909</entry>
+              <entry colname="2">Received his B.A. degree from Wofford College.</entry>
+            </row>
+            <row>
+              <entry colname="1">1913</entry>
+              <entry colname="2">Received his M.A. degree from Stanford University.</entry>
+            </row>
+            <row>
+              <entry colname="1">1915</entry>
+              <entry colname="2">Received his Ph.D. degree from Stanford University.</entry>
+            </row>
+            <row>
+              <entry colname="1">1915-1955</entry>
+              <entry colname="2">English professor at Vanderbilt University.</entry>
+            </row>
+            <row>
+              <entry colname="1">1927</entry>
+              <entry colname="2">Married Miss Kathryn Worth.</entry>
+            </row>
+            <row>
+              <entry colname="1">1929</entry>
+              <entry colname="2">Daughter, Josephine, was born on March 29<emph render="super">th</emph>.</entry>
+            </row>
+            <row>
+              <entry colname="1">1934</entry>
+              <entry colname="2">Special editor on occultism in Webster&#8217;s International Dictionary.</entry>
+            </row>
+            <row>
+              <entry colname="1">1952</entry>
+              <entry colname="2">Awarded an honorary Litt. D. degree by Wofford College</entry>
+            </row>
+            <row>
+              <entry colname="1">1967</entry>
+              <entry colname="2">Curry dies in Nashville, Tennessee on October 2<emph render="super">nd</emph>.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>* Biographical notes taken from</p>
+      <p>Nashville Banner.
+        <emph render="italic">&#8220;Dr. Curry, Retired VU Professor, Dies.&#8221;</emph>
+        October 3, 1967.</p>
+      <p>Nashville Tennessean.
+        <emph render="italic">&#8220;Dr. Curry Dies, Ex-Professor.&#8221;</emph>
+        October 3, 1967.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>In 1968, Special Collections at the Jean and Alexander Heard Library acquired the papers of Walter Clyde Curry (1887-1967). The papers were a generous donation from Curry&#8217;s wife, Kathryn Curry, and daughter, Josephine Raney. A distinguished
+        Medieval and Renaissance scholar, Curry was a member of the Vanderbilt University English Department faculty for 40 years. He served as head of the English department and the humanities division from 1941 until his retirement in 1955. Walter Clyde
+        Curry was also an initial member of the Fugitive literary movement.</p>
+      <p>Curry&#8217;s collection contains 77 outgoing letters; 135 incoming letters; writings &#8211; published &#38; unpublished; book reviews; publishers&#8217; announcements &#38; revisions; royalty statements; research/lecture notes; budget/curriculum
+        notes; graduate information; offprints by others; diagrams &#38; illustrations; photographs; and ephemera. Also included within this collection is 1 oversize folder.</p>
+      <p>The papers consist of these series and subseries:
+        <list type="ordered" numeration="upperroman">
+          <item>Correspondence</item>
+          <item>Writings</item>
+          <item>Literary Career</item>
+          <item>Academic Career</item>
+          <item>Biographical</item>
+          <item>Ephemera and Oversize</item>
+        </list>
+      </p>
+      <p>
+        <emph render="bold">Series I: Correspondence, 1933-1966</emph>
+      </p>
+      <p>The Correspondence series is comprised of outgoing and incoming letters. The outgoing correspondence consists of 77 letters chronologically arranged. Letters are typewritten, carbon copies, with the exception of a few holographs. There are nine
+        unsigned letters, and one letter has no date.</p>
+      <p>The incoming correspondence consists of 135 letters, and is arranged alphabetically. The incoming letters are typewritten with the exception of a few holographs. Few letters are carbon copies; one letter is signed with only the surname. Five
+        letters are signed without surnames, and six are signed with initials only. Four letters are without dates.</p>
+      <p>There is one letter contained in the miscellaneous correspondence due to that it not addressed to or written by Walter Clyde Curry.</p>
+      <p>
+        <emph render="bold">Series II: Writings, 1923-1951</emph>
+      </p>
+      <p>The Writings Series consists of materials that are both published and unpublished works of Walter Clyde Curry. The published articles are arranged alphabetically by title. Some published material of Curry&#8217;s work (such as
+        &#8220;Milton&#8217;s Dual Concept,&#8221; &#8220;Milton&#8217;s Chaos And Old Night,&#8221; &#8220;The Genesis of Milton&#8217;s World,&#8221; and &#8220;Some Travels of Milton&#8217;s Satan And The Road To Hell,&#8221;) have crossed out titles with
+        holograph additions and corrections.</p>
+      <p>The unpublished material includes an essay, lectures, and speeches of Walter Clyde Curry. This material is arranged alphabetically by title. One partial typescript speech to the Vanderbilt English Department has no title or date.</p>
+      <p>
+        <emph render="bold">Series III: Literary Career, 1928-1967</emph>
+      </p>
+      <p>This series contains documents relating to Walter Clyde Curry&#8217;s literary career. Documents relate to: book reviews, publisher&#8217;s announcements and revisions, as well as royalty statements.</p>
+      <p>Book reviews of Curry&#8217;s works are chronologically arranged. The book reviews consist of material that includes mimeographed and printed leaflets and advertisements. Some reviews are typewritten, and some are magazine and photocopies of
+        newspaper clippings.</p>
+      <p>The publishers&#8217; announcements are arranged alphabetically by name of publisher. Most of them included a brief review for one of Curry&#8217;s works. A few do not mention him at all. The material also includes several typescript pages of
+        alterations and corrections to be made in Curry&#8217;s works. An announcement from the University of Kentucky Press entitled &#8220;Author&#8217;s Alterations&#8221; and a typescript preface and dedication to the second edition of
+        Shakespeare&#8217;s Philosophical Patterns are also included. The royalty statements are arranged alphabetically by publishing company.</p>
+      <p>
+        <emph render="bold">Series IV: Academic Career, 1949-1964</emph>
+      </p>
+      <p>This series contains documents relating to Curry&#8217;s Academic Career while at Vanderbilt University. Documents include research/lecture notes, budget/curriculum notes for the Department of English, as well as graduate information, offprints,
+        diagrams/illustrations, and miscellaneous material.</p>
+      <p>The research and lecture notes contain material on the origin of languages. Most notes are holographs, but a few pages are typescript.</p>
+      <p>The graduate information relates to the Master of Arts in teaching. The material consists of newsletters, mailing lists, and general information bulletin about the Vanderbilt-Peabody Master of Arts in teaching program. There are several lists of
+        doctorial candidates at Vanderbilt. Also included in the material are various items of Eugene E. Slaughter.</p>
+      <p>Notes for the Department of English concern both budget and curriculum. The budget information is arranged chronologically from 1949 to 1955. Material includes lists of salaries of members of the English Department. Some parts of the budget
+        information are typescript, some are copies, and some are holographs. The curriculum notes consist mainly of charts indicating professors and classes to be taught.</p>
+      <p>There are 26 different offprints arranged in alphabetical order by author. Several are autographed by the author.</p>
+      <p>The diagrams and illustrations are from Milton&#8217;s Ontology. Material includes a diagram indicating Milton&#8217;s concept of total self-existent and dependent reality or beingas represented by symbolical design. The diagram is accompanied by
+        a typewritten explanation of the symbols. Included within this series in an oversize folder containing a poster-size diagram from Milton&#8217;s Ontology.</p>
+      <p>The miscellaneous material is a photocopy of a newspaper clipping of an article written by Richmond C. Beatty about Walter Clyde Curry.</p>
+      <p>
+        <emph render="bold">Series V: Biographical, 1957-1966</emph>
+      </p>
+      <p>This series contains biographical information that relates to Walter Clyde Curry. Documents include family photographs and business papers. The business papers consist of several U.S. Post Office receipts for certified mail and insured mail. The
+        receipts are arranged chronologically.</p>
+      <p>
+        <emph render="bold">Series VI: Ephemera and Oversize</emph>
+      </p>
+      <p>This is the last series in the collection and comprise of a pipe that belonged to Walter Clyde Curry, as well as one oversize diagram.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Nov. 3, 1937 - Apr. 6, 1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Feb. 27, 1952 &#8211; Apr. 7, 1952</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Feb. 15, 1953 &#8211; Apr. 20, 1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Apr. 27, 1953 &#8211; Jan. 14, 1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Jan. 15, 1955 &#8211; Jan. 31, 1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Apr. 28, 1955 &#8211; Sept. 26, 1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Nov. 11, 1956 &#8211; Apr. 23, 1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Apr. 24, 1957 &#8211; Mar. 6, 1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Apr. 7, 1959 &#8211; Aug. 4, 1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>Aug. 15, 1959 &#8211; May 20, 1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>May 20, 1960 &#8211; May 27, 1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>June 25, 1962 &#8211; Apr. 7, 1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Outgoing Correspondence:</unittitle>
+            <unitdate>No Date</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Incoming Correspondence: Aden &#8211; Cone</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Incoming Correspondence: Denbo &#8211; Ellegood</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Incoming Correspondence: Elliot, Kenneth W.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Incoming Correspondence: Evans &#8211; Hughes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Incoming Correspondence: Hunter &#8211; Jones</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Incoming Correspondence: Kellogg &#8211; Pearce</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Incoming Correspondence: Peck &#8211; Slaughter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Incoming Correspondence: Smith, Samuel</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Incoming Correspondence: Solomon &#8211; Waters</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Incoming Correspondence: Weaver &#8211; Zesmer</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Miscellaneous Correspondence: Beach</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series II: Writings</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>Published: Chaucer&#8217;s Science and Art; The &#8220;True&#8221; Mr. Froude</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>Published: The Consistence And Qualities Of Milton&#8217;s Chaos</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>Published: The Genesis Of Milton&#8217;s World</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Published: Milton&#8217;s Chaos And Old Night</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Published: Milton&#8217;s Dual Concept of God As Related To Creation</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Published: Some Travels Of Milton&#8217;s Satan And The Road To Hell</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>Unpublished: An Objective Evaluation Of &#8220;Chaucer &#8211; A Critical Appreciation, by Paull F. Baum&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>Unpublished: Scholars And Scholarship: Illustrated</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle>Unpublished: [Typescript speech on the nature of humor]</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>Unpublished: [Partial typescript speech to Vanderbilt English Department]</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series III: Literary Career</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle>Book Reviews:</unittitle>
+            <unitdate>1928 &#8211; Summer 1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle>Book Reviews:</unittitle>
+            <unitdate>Winter 1958 &#8211; No Date</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle>Publishers&#8217; Announcements and Revisions</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle>Royalty Statements</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series IV: Academic Career</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Department of English: budget and curriculum notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Graduate Information: Master of Arts in Teaching (1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Graduate Information: Master of Arts in Teaching (2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Research/Lecture Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Diagrams and Illustrations in Milton&#8217;s Ontology</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Offprints: Aden &#8211; Beach</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Offprints: Coffin &#8211; Gates</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Offprints: Hunter, Wm B.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Offprints: Jones &#8211; Joseph</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Offprints: Kellogg &#8211; Pratt</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Offprints: Siegal &#8211; Slaughter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Offprints: Stevenson &#8211; Woodhouse</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Miscellaneous: Newspaper article (March 30, 1960)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series V: Biographical</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Business Papers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series VI: Ephemera and Oversize</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Pipe that belonged to Walter Clyde Curry</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="folder">Oversize folder 1</container>
+            <unittitle>Poster-size diagram from Milton&#8217;s Ontology. Removed from Series IV. Academic Career, Box 2 Folder 5.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
