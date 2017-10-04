@@ -65,6 +65,7 @@
           <container type="box">1</container>
           <container type="folder">1</container>
           <unittitle>Correspondence - Incoming - Beyer-Downing</unittitle>
+          <unitdate normal="1961/1962" type="inclusive"></unitdate>
         </did>
       </c01>
       <c01 level="file">
@@ -72,15 +73,23 @@
           <container type="folder">7</container>
           <container type="box">2</container>
           <unittitle>Newspaper Clippings</unittitle>
-          <unitdate>1950-1961</unitdate>
+          <unitdate normal="1970">May 23, 1970 through June 1, 1970</unitdate>
         </did>
       </c01>
       <c01 level="file">
         <did>
           <container type="folder">8</container>
           <container type="box">2</container>
-          <unitdate>1950</unitdate>
+          <unitdate normal="1987">1987 March 4</unitdate>
           <unittitle>Photographs - Peace Corps-Colombia Project and Unidentified</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="folder">7</container>
+          <container type="box">2</container>
+          <unittitle>Newspaper Clippings</unittitle>
+          <unitdate normal="1975/1980" type="inclusive">1975 June - 1980 August</unitdate>
         </did>
       </c01>
       <c01 level="file">
@@ -88,7 +97,7 @@
           <container type="folder">9</container>
           <container type="box">2</container>
           <unittitle>Academic Career - Vanderbilt University</unittitle>
-          <unitdate>1865</unitdate>
+          <unitdate normal="1850"></unitdate>
         </did>
       </c01>
     </dsc>
