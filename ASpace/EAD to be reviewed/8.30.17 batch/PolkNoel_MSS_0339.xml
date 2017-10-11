@@ -1,602 +1,578 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Polk, Noel Collection</titleproper>
-<titleproper>Finding Aid for the The Noel Polk/Andrew Lytle Collection</titleproper>
-<author>Catherine Ashley Via</author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2005</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>The Noel Polk/Andrew Lytle Collection</unittitle>
-<unitid>MSS.0339</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.84 linear feet</extent>
-</physdesc>
-<unitdate>2005</unitdate>
-</did>
-<scopecontent>
-<head>Summary</head>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="20pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="80pt"/>
-<tbody>
-<row>
-<entry colname="1">Size</entry>
-<entry colname="2">2 Linear Feet</entry>
-</row>
-<row>
-<entry colname="1">Geographic Locations</entry>
-<entry colname="2">United States</entry>
-</row>
-<row>
-<entry colname="1">Inclusive Dates</entry>
-<entry colname="2">1925-1971</entry>
-</row>
-<row>
-<entry colname="1">Bulk Dates</entry>
-<entry colname="2">1968-1970</entry>
-</row>
-<row>
-<entry colname="1">Languages</entry>
-<entry colname="2">English</entry>
-</row>
-<row>
-<entry colname="1">Summary</entry>
-<entry colname="2">This collection contains the working papers of Noel Polk (1943 -), a literary scholar whose areas of specializations include: American literature, Southern writers, and Bibliographies. The materials housed in this collection relate to Polk&#8217;s published work from the Fall 1970 Mississippi Quarterly titled: &#8220;Andrew Nelson Lytle: A Bibliography of His Writings.&#8221;</entry>
-</row> 
-<row>
-<entry colname="1">Access Restrictions</entry>
-<entry colname="2">No Restrictions</entry>
-</row>
-<row>
-<entry colname="1">Copyright</entry>
-<entry colname="2">Rights are retained by Special Collections, Vanderbilt University.</entry>
-</row>
-<row>
-<entry colname="1">Stack Locations</entry>
-<entry colname="2">Manuscripts</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</scopecontent>
-<bioghist>
-<head>BIOGRAPHICAL/HISTORICAL NOTE</head>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">1943</entry>
-<entry colname="2">Born in Picayune, Mississippi on February 23<title render="super">rd</title>.</entry>
-</row>
-<row>
-<entry colname="1">1965</entry>
-<entry colname="2">Received Bachelor of Arts from Mississippi College</entry>
-</row>
-<row>
-<entry colname="1">1966</entry>
-<entry colname="2">Received Masters of Arts from Mississippi College</entry>
-</row>
-<row>
-<entry colname="1">1967</entry>
-<entry colname="2"> Married on January 27<title render="super">th</title> to Patricia Parrott, they later divorced in 1990.</entry>
-</row>
-<row>
-<entry colname="1">1970</entry>
-<entry colname="2">Obtained Ph.D. from the University of South Carolina &#8211; Columbia. Published &#8220;Andrew Nelson Lytle: A Bibliography of His Writings&#8221; in Mississippi Quarterly.</entry>
-</row>
-<row>
-<entry colname="1">1970-1974</entry>
-<entry colname="2">Assistant professor of English at the University of Texas at Arlington.</entry>
-</row>
-<row>
-<entry colname="1">1974-1976</entry>
-<entry colname="2">Visiting associate research professor and bibliographer in Southern Studies Program at the University of South Carolina at Columbia.</entry>
-</row>
-<row>
-<entry colname="1">1976-1977</entry>
-<entry colname="2">Independent researcher.</entry>
-</row>
-<row>
-<entry colname="1">1977-1979</entry>
-<entry colname="2">Assistant professor of English at the University of Southern Mississippi, Hattiesburg.</entry>
-</row>
-<row>
-<entry colname="1">1979-1981</entry>
-<entry colname="2">Received grant from National Endowment for the Humanities.</entry>
-</row>
-<row>
-<entry colname="1">1979-1983</entry>
-<entry colname="2">Associate professor of English at the University of Southern Mississippi, Hattiesburg.</entry>
-</row>
-<row>
-<entry colname="1">1981-1982</entry>
-<entry colname="2">Professeur Associe. at the University of Strasbourg.</entry>
-</row>
-<row>
-<entry colname="1">1983--</entry>
-<entry colname="2">Professor of English at the University of Southern Mississippi, Hattiesburg.</entry>
-</row>
-<row>
-<entry colname="1">1986-1989</entry>
-<entry colname="2">Received grant from National Endowment for the Humanities.</entry>
-</row>
-<row>
-<entry colname="1">1991</entry>
-<entry colname="2">Received grant from National Endowment for the Humanities.</entry>
-</row>
-<row>
-<entry colname="1">1994-1995</entry>
-<entry colname="2">Received grant from National Endowment for the Humanities.</entry>
-</row>
-<row>
-<entry colname="1">2005</entry>
-<entry colname="2">Fulbright Senior Scholar at the University of Lodz, Poland.</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</bioghist>
-<scopecontent>
-<head>SCOPE AND CONTENT NOTE</head>
-<p>In 1985, Special Collections at the Jean and Alexander Heard Library acquired a collection of working papers from Noel Polk on his bibliography of Andrew Nelson Lytle. The Noel Polk/Andrew Lytle Collection was a generous donation made by Mr. Polk himself.</p>
-<p>This collection contains the working papers of Noel Polk, a literary scholar whose areas of specializations include: American literature, Southern writers, and Bibliographies. The materials housed in this collection relate to Polk&#8217;s published work from the Mississippi Quarterly titled: &#8220;Andrew Nelson Lytle: A Bibliography of His Writings.&#8221;</p>
-<p>The basis for Noel Polk&#8217;s bibliography of Andrew Lytle stemmed from the Society for the Study of Southern Literature. The Society was created in 1967 to develop research tools to aid in the study of American Southern writers. The Society commissioned the Mississippi Quarterly, the Journal of Southern Cultures, to create a Bibliography Committee that would compile an ongoing bibliography of all books and articles about and by southern writers. Polk&#8217;s work is included in the Fall 1970 issue of the Mississippi Quarterly.</p>
-<p>The Noel Polk/Andrew Lytle Collection consists of three boxes, one of which is oversize. The materials within this collection have been arranged in the following series: Correspondence, Research Materials, and Writings.</p>
-</scopecontent>
-<scopecontent>
-<head>SERIES AND SUBSERIES DESCRIPTIONS</head>
-<p>Series I. Correspondence, 1925-1971 (0.5 boxes)</p>
-<p>The Correspondence Series is made up of both incoming and outgoing letters. In order to maintain original order the incoming letters have been kept as they were, with the initial outgoing letter paper-clipped together. The correspondence has thus been arranged chronologically by the date of the initial outgoing letter. An interesting note, included within this series is a letter from the U.S. Senator Strom Thurmond that bears his signature. Most correspondence concerns Noel Polk obtaining information for his bibliography of Andrew Lytle&#8217;s works.</p>
-<p>Series II. Research Material, [1968-1971] (1 box)</p>
-<p>This series contains various materials used by Mr. Polk for his research when writing the bibliography. Included within the material are notes, correspondence, copies of Lytle&#8217;s writings, reviews of Lytle&#8217;s writings, and a notebook of notes for the bibliography. Arrangement?</p>
-<p>Series III. Writings, Undated (0.5 box and 1 oversize box)</p>
-<p>The Writings Series consists of typescripts, galley proofs, and a checklist of Polk&#8217;s &#8220;Andrew Nelson Lytle: A Bibliography of His Writings.&#8221; Some documents are marked while some have been left unmarked. This series contains oversize material.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle>Series I. Correspondence</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1925-1951</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>June 8, 1968 &#8211; Aug. 25, 1969</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>Sept. 3, 1969 &#8211; Oct. 31, 1969</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>Nov. 1, 1969 &#8211; Nov. 25, 1969</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>Dec. 1, 1969 &#8211; Dec. 22, 1969</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>Jan. 4, 1970 &#8211; Feb. 23, 1970</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>March 12, 1970 &#8211; Feb. 25, 1971</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8.</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>Notes and fragments [1968-1971]</unitdate>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Series II. Research Material</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9.</container>
-<unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;Alchemy&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10.</container>
-<unittitle>Research Material: Copies of Andrew Lytle&#8217;s Bedford Forrest and His Critter Company (1 of 3)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11.</container>
-<unittitle>Research Material: Copies of Andrew Lytle&#8217;s Bedford Forrest and His Critter Company (2 of 3)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12.</container>
-<unittitle>Research Material: Copies of Andrew Lytle&#8217;s Bedford Forrest and His Critter Company (3 of 3)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13.</container>
-<unittitle>Research Material: Copy of Andrew Lytle&#8217;s A Christian University and The Word</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14.</container>
-<unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;The Guide&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15.</container>
-<unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;Jericho, Jericho, Jericho&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16.</container>
-<unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;Mister MacGregor&#8221;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17.</container>
-<unittitle>Research Material: Notes for Lytle&#8217;s <title render="underline">A Name For Evil</title>, 1947 (1 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18.</container>
-<unittitle>Research Material: Notes for Lytle&#8217;s <title render="underline">A Name For Evil</title>, 1947 (2 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19.</container>
-<unittitle>Research Material: Copy of Andrew Lytle Letters (1936-1938)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20.</container>
-<unittitle>Research Material: Copies of Lytle&#8217;s Periodical Articles (1 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21.</container>
-<unittitle>Research Material: Copies of Lytle&#8217;s Periodical Articles (2 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22.</container>
-<unittitle>Research Material: Reviews of Andrew Lytle works</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23.</container>
-<unittitle>Research Material: Notes</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24.</container>
-<unittitle>Research Material: Notes on Andrew Lytle&#8217;s <title render="underline">Hero with the Private Parts</title> (1966)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">25.</container>
-<unittitle>Research Material: Notes &#8211; Andrew Lytle&#8217;s <title render="underline">The Long Night</title> (1936)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">26.</container>
-<unittitle>Research Material: Notes on Lytle&#8217;s <title render="underline">At The Moon&#8217;s Inn</title> (1941) (1 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">27.</container>
-<unittitle>Research Material: Notes on Lytle&#8217;s <title render="underline">At The Moon&#8217;s Inn</title> (1941) (2 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">28.</container>
-<unittitle>Research Material: Notes on Andrew Lytle&#8217;s Novel, Novella, 4 stories (1958)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">29.</container>
-<unittitle>Research Material: Notes on Lytle&#8217;s <title render="underline">The Velvet Horn</title> (1957)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1.</container>
-<unittitle>Research Material: Notes on Lytle&#8217;s unpublished poems, stories, plays, and essays</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2.</container>
-<unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 1 of 4)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3.</container>
-<unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 2 of 4)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4.</container>
-<unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 3 of 4)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5.</container>
-<unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 4 of 4)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6.</container>
-<unittitle>Research Material: Andrew Lytle Secondary Sources (1 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7.</container>
-<unittitle>Research Material: Andrew Lytle Secondary Sources (2 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8.</container>
-<unittitle>Research Material: Andrew Lytle Checklist for University of Mississippi Press Book</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9.</container>
-<unittitle>Research Material: Notebook for Andrew Lytle Bibliography</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Series III. Writings</unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (1 of 5)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (2 of 5)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (3 of 5)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (4 of 5)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (5 of 5)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15.</container>
-<unittitle>Writings: An Andrew Lytle Checklist</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16.</container>
-<unittitle>Writings: Galley proof &#8211; Andrew Nelson Lytle: A Bibliography of His Writings (1 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17.</container>
-<unittitle>Writings: Galley proof &#8211; Andrew Nelson Lytle: A Bibliography of His Writings (2 of 2)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18.</container>
-<unittitle>Writings: Andrew Lytle&#8217;s Bibliography &#8211; First corrected galleys</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Second Corrected Galley</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley Mississippi Quarterly</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley Mississippi Quarterly</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Unmarked Galley Proof</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9.</container>
-<unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley Mississippi Quarterly</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Polk, Noel Collection</titleproper>
+        <titleproper>Finding Aid for the The Noel Polk/Andrew Lytle Collection</titleproper>
+        <author>Catherine Ashley Via</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2005</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>The Noel Polk/Andrew Lytle Collection</unittitle>
+      <unitid>MSS.0339</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.84 linear_feet</extent>
+      </physdesc>
+      <unitdate>Inclusive: 1925-1971; Bulk: 1968-1970</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical/Historical Note</head>
+      <table frame="none">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+          <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+          <tbody>
+            <row>
+              <entry colname="1">1943</entry>
+              <entry colname="2">Born in Picayune, Mississippi on February 23<title render="super">rd</title>.</entry>
+            </row>
+            <row>
+              <entry colname="1">1965</entry>
+              <entry colname="2">Received Bachelor of Arts from Mississippi College</entry>
+            </row>
+            <row>
+              <entry colname="1">1966</entry>
+              <entry colname="2">Received Masters of Arts from Mississippi College</entry>
+            </row>
+            <row>
+              <entry colname="1">1967</entry>
+              <entry colname="2">
+                Married on January 27<title render="super">th</title>
+                to Patricia Parrott, they later divorced in 1990.</entry>
+            </row>
+            <row>
+              <entry colname="1">1970</entry>
+              <entry colname="2">Obtained Ph.D. from the University of South Carolina &#8211; Columbia. Published &#8220;Andrew Nelson Lytle: A Bibliography of His Writings&#8221; in Mississippi Quarterly.</entry>
+            </row>
+            <row>
+              <entry colname="1">1970-1974</entry>
+              <entry colname="2">Assistant professor of English at the University of Texas at Arlington.</entry>
+            </row>
+            <row>
+              <entry colname="1">1974-1976</entry>
+              <entry colname="2">Visiting associate research professor and bibliographer in Southern Studies Program at the University of South Carolina at Columbia.</entry>
+            </row>
+            <row>
+              <entry colname="1">1976-1977</entry>
+              <entry colname="2">Independent researcher.</entry>
+            </row>
+            <row>
+              <entry colname="1">1977-1979</entry>
+              <entry colname="2">Assistant professor of English at the University of Southern Mississippi, Hattiesburg.</entry>
+            </row>
+            <row>
+              <entry colname="1">1979-1981</entry>
+              <entry colname="2">Received grant from National Endowment for the Humanities.</entry>
+            </row>
+            <row>
+              <entry colname="1">1979-1983</entry>
+              <entry colname="2">Associate professor of English at the University of Southern Mississippi, Hattiesburg.</entry>
+            </row>
+            <row>
+              <entry colname="1">1981-1982</entry>
+              <entry colname="2">Professeur Associe. at the University of Strasbourg.</entry>
+            </row>
+            <row>
+              <entry colname="1">1983--</entry>
+              <entry colname="2">Professor of English at the University of Southern Mississippi, Hattiesburg.</entry>
+            </row>
+            <row>
+              <entry colname="1">1986-1989</entry>
+              <entry colname="2">Received grant from National Endowment for the Humanities.</entry>
+            </row>
+            <row>
+              <entry colname="1">1991</entry>
+              <entry colname="2">Received grant from National Endowment for the Humanities.</entry>
+            </row>
+            <row>
+              <entry colname="1">1994-1995</entry>
+              <entry colname="2">Received grant from National Endowment for the Humanities.</entry>
+            </row>
+            <row>
+              <entry colname="1">2005</entry>
+              <entry colname="2">Fulbright Senior Scholar at the University of Lodz, Poland.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents Note</head>
+      <p>In 1985, Special Collections at the Jean and Alexander Heard Library acquired a collection of working papers from Noel Polk on his bibliography of Andrew Nelson Lytle. The Noel Polk/Andrew Lytle Collection was a generous donation made by Mr. Polk
+        himself.</p>
+      <p>This collection contains the working papers of Noel Polk, a literary scholar whose areas of specializations include: American literature, Southern writers, and Bibliographies. The materials housed in this collection relate to Polk&#8217;s
+        published work from the Mississippi Quarterly titled: &#8220;Andrew Nelson Lytle: A Bibliography of His Writings.&#8221;</p>
+      <p>The basis for Noel Polk&#8217;s bibliography of Andrew Lytle stemmed from the Society for the Study of Southern Literature. The Society was created in 1967 to develop research tools to aid in the study of American Southern writers. The Society
+        commissioned the Mississippi Quarterly, the Journal of Southern Cultures, to create a Bibliography Committee that would compile an ongoing bibliography of all books and articles about and by southern writers. Polk&#8217;s work is included in the Fall
+        1970 issue of the Mississippi Quarterly.</p>
+      <p>The Noel Polk/Andrew Lytle Collection consists of three boxes, one of which is oversize. The materials within this collection have been arranged in the following series: Correspondence, Research Materials, and Writings.</p>
+<p></p>
+      <p>Series and Subseries Descriptions</p>
+      <p>Series I. Correspondence, 1925-1971 (0.5 boxes)</p>
+      <p>The Correspondence Series is made up of both incoming and outgoing letters. In order to maintain original order the incoming letters have been kept as they were, with the initial outgoing letter paper-clipped together. The correspondence has thus
+        been arranged chronologically by the date of the initial outgoing letter. An interesting note, included within this series is a letter from the U.S. Senator Strom Thurmond that bears his signature. Most correspondence concerns Noel Polk obtaining
+        information for his bibliography of Andrew Lytle&#8217;s works.</p>
+      <p>Series II. Research Material, [1968-1971] (1 box)</p>
+      <p>This series contains various materials used by Mr. Polk for his research when writing the bibliography. Included within the material are notes, correspondence, copies of Lytle&#8217;s writings, reviews of Lytle&#8217;s writings, and a notebook of
+        notes for the bibliography. Arrangement?</p>
+      <p>Series III. Writings, Undated (0.5 box and 1 oversize box)</p>
+      <p>The Writings Series consists of typescripts, galley proofs, and a checklist of Polk&#8217;s &#8220;Andrew Nelson Lytle: A Bibliography of His Writings.&#8221; Some documents are marked while some have been left unmarked. This series contains
+        oversize material.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>Series I. Correspondence</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>1925-1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>June 8, 1968 &#8211; Aug. 25, 1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>Sept. 3, 1969 &#8211; Oct. 31, 1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>Nov. 1, 1969 &#8211; Nov. 25, 1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>Dec. 1, 1969 &#8211; Dec. 22, 1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>Jan. 4, 1970 &#8211; Feb. 23, 1970</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>March 12, 1970 &#8211; Feb. 25, 1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8.</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate>Notes and fragments [1968-1971]</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Series II. Research Material</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9.</container>
+            <unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;Alchemy&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10.</container>
+            <unittitle>Research Material: Copies of Andrew Lytle&#8217;s Bedford Forrest and His Critter Company (1 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11.</container>
+            <unittitle>Research Material: Copies of Andrew Lytle&#8217;s Bedford Forrest and His Critter Company (2 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12.</container>
+            <unittitle>Research Material: Copies of Andrew Lytle&#8217;s Bedford Forrest and His Critter Company (3 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13.</container>
+            <unittitle>Research Material: Copy of Andrew Lytle&#8217;s A Christian University and The Word</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14.</container>
+            <unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;The Guide&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15.</container>
+            <unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;Jericho, Jericho, Jericho&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16.</container>
+            <unittitle>Research Material: Copy of Andrew Lytle&#8217;s short story &#8220;Mister MacGregor&#8221;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17.</container>
+            <unittitle>Research Material: Notes for Lytle&#8217;s
+              <title render="underline">A Name For Evil</title>, 1947 (1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18.</container>
+            <unittitle>Research Material: Notes for Lytle&#8217;s
+              <title render="underline">A Name For Evil</title>, 1947 (2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19.</container>
+            <unittitle>Research Material: Copy of Andrew Lytle Letters (1936-1938)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20.</container>
+            <unittitle>Research Material: Copies of Lytle&#8217;s Periodical Articles (1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21.</container>
+            <unittitle>Research Material: Copies of Lytle&#8217;s Periodical Articles (2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22.</container>
+            <unittitle>Research Material: Reviews of Andrew Lytle works</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23.</container>
+            <unittitle>Research Material: Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24.</container>
+            <unittitle>Research Material: Notes on Andrew Lytle&#8217;s
+              <title render="underline">Hero with the Private Parts</title>
+              (1966)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25.</container>
+            <unittitle>Research Material: Notes &#8211; Andrew Lytle&#8217;s
+              <title render="underline">The Long Night</title>
+              (1936)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26.</container>
+            <unittitle>Research Material: Notes on Lytle&#8217;s
+              <title render="underline">At The Moon&#8217;s Inn</title>
+              (1941) (1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27.</container>
+            <unittitle>Research Material: Notes on Lytle&#8217;s
+              <title render="underline">At The Moon&#8217;s Inn</title>
+              (1941) (2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28.</container>
+            <unittitle>Research Material: Notes on Andrew Lytle&#8217;s Novel, Novella, 4 stories (1958)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29.</container>
+            <unittitle>Research Material: Notes on Lytle&#8217;s
+              <title render="underline">The Velvet Horn</title>
+              (1957)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1.</container>
+            <unittitle>Research Material: Notes on Lytle&#8217;s unpublished poems, stories, plays, and essays</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2.</container>
+            <unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3.</container>
+            <unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4.</container>
+            <unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5.</container>
+            <unittitle>Research Material: Notes and copies of Lytle&#8217;s Sewanee Review articles &#8211; Hero comparisons ( 4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6.</container>
+            <unittitle>Research Material: Andrew Lytle Secondary Sources (1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7.</container>
+            <unittitle>Research Material: Andrew Lytle Secondary Sources (2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8.</container>
+            <unittitle>Research Material: Andrew Lytle Checklist for University of Mississippi Press Book</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9.</container>
+            <unittitle>Research Material: Notebook for Andrew Lytle Bibliography</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Series III. Writings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (1 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (2 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (3 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (4 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Typescript (5 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15.</container>
+            <unittitle>Writings: An Andrew Lytle Checklist</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16.</container>
+            <unittitle>Writings: Galley proof &#8211; Andrew Nelson Lytle: A Bibliography of His Writings (1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17.</container>
+            <unittitle>Writings: Galley proof &#8211; Andrew Nelson Lytle: A Bibliography of His Writings (2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18.</container>
+            <unittitle>Writings: Andrew Lytle&#8217;s Bibliography &#8211; First corrected galleys</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Second Corrected Galley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley Mississippi Quarterly</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley Mississippi Quarterly</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Unmarked Galley Proof</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9.</container>
+            <unittitle>Writings: Andrew Lytle Bibliography &#8211; Marked Galley Mississippi Quarterly</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
