@@ -1,340 +1,392 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Nashville as Historical Laboratory Collection</titleproper>
-<titleproper>Finding Aid for the Nashville as Historical Laboratory Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1977&#8211;1978</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Nashville as Historical Laboratory Collection</unittitle>
-<unitid>MSS.0311</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">.42 linear feet</extent>
-</physdesc>
-<unitdate>1977-1978</unitdate>
-</did>
-<bioghist>
-<head>Biography/History</head>
-<p>The research and subsequent manuscripts in this collection were completed by students enrolled in Vanderbilt University, History 295 (Nashville and the Urban South), in Spring Semester 1977 and Fall Semester 1978. The summary of the course and discussion of the papers, in the context of Nashville history, was written by Professor Don Harrison Doyle. The 26 student papers cover the time period of 1870-1940.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This .42 linear feet collection contains 26 file folders arranged in alphabetical order.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle>Course Summary</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Doyle, Don Harrison</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Nashville as Historical Laboratory for Teaching Undergraduates</emph></unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Manuscripts - Student</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Banker, David</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Black Ideology in Nashville</emph></unittitle>
-<unitdate>1907-1913</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Beach, Julia</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Belle Meade Country Club and Urbanization, c.</emph></unittitle>
-<unitdate>1900-1920</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Bennett, Andy D.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Rural Migration from Dickson County to Nashville</emph></unittitle>
-<unitdate>1920-1940</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Bryan, Eleanor W.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Negro in Nashville from</emph></unittitle>
-<unitdate>1900-1920</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Camacho, Lisa</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Three Case Studies of Nashville Families in Business</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Christian, Jeanne A</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Suburbanizing Nashville, 1880-1920: Familial Differentiation Within Economic Development</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Cox, Susan E.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Nashville Elite:</emph></unittitle>
-<unitdate>1896-1907</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Cramer, Cynthia</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Boosterism in Nashville</emph></unittitle>
-<unitdate>1880-1910</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Dozier, Steve R.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Prohibition and the Enforcement of the Nashville Police Department</emph></unittitle>
-<unitdate>(1905-1933)</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Everton, Glenn</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Black Business Community of Nashville</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Fisher, Earl</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Nashville Civic Elites</emph></unittitle>
-<unitdate>1870-1895</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Griffin, Neill</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Jim Crow Streetcar Boycott in Nashville</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Hoover, Hilary</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Tennessee Centennial Exposition, Nashville, Tennessee</emph></unittitle>
-<unitdate>1897</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Israel, R.D.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Donald Davidson and the Development of Agrarianism in the 1920&#8217;s</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Kelly, Paul K.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Nashville Elite</emph></unittitle>
-<unitdate>1910-1925</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>London, Kathy L.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Belmont Neighborhood 1900-1920: Prevailing Southernism</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Morgan, Ann Ward</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Black Man&#8217;s Compromise Between Booker T. Washington and W. E. B. duBois in Nashville &#8211; 1905</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Neyland, Thomas</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Development of Nashville&#8217;s Park System</emph></unittitle>
-<unitdate>1901-1935</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Powell, James</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Politicians and Public Policy in Nashville in the 1870&#8217;s and the 1920&#8217;s</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Price, Amy</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Urbanization of Nashville from 1908-1917: The Role of Commercial And Civic Clubs</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Ramirez, Mike</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Lost Cause in a New South City: Nashville</emph></unittitle>
-<unitdate>1890-1910</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Riley, Mark B.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">Edgefield: A Study of Nashville&#8217;s First Suburb*</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Steckler, David</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Death of the Brothel</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Swann, Susan E.</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Twilight of a Walking City: The Nashville Waterfront, 1880 and After</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Young, Cindy</unittitle>
-</did>
-<c03 level="item">
-<did>
-<unittitle><emph render="italic">The Growth and Development of the Richland-West End Neighborhood</emph></unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>*Revised version in Tennessee Historical Quarterly 37(1978): 133-54.</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Nashville as Historical Laboratory Collection</titleproper>
+        <titleproper>Finding Aid for the Nashville as Historical Laboratory Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Nashville as Historical Laboratory Collection</unittitle>
+      <unitid>MSS.0311</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>1977-1978</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/History</head>
+      <p>The research and subsequent manuscripts in this collection were completed by students enrolled in Vanderbilt University, History 295 (Nashville and the Urban South), in Spring Semester 1977 and Fall Semester 1978. The summary of the course and
+        discussion of the papers, in the context of Nashville history, was written by Professor Don Harrison Doyle. The 26 student papers cover the time period of 1870-1940.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This .42 linear feet collection contains 26 file folders arranged in alphabetical order.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>Course Summary</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Doyle, Don Harrison</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Nashville as Historical Laboratory for Teaching Undergraduates</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Manuscripts - Student</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Banker, David</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Black Ideology in Nashville</emph>
+              </unittitle>
+              <unitdate>1907-1913</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Beach, Julia</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Belle Meade Country Club and Urbanization, c.</emph>
+              </unittitle>
+              <unitdate>1900-1920</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bennett, Andy D.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Rural Migration from Dickson County to Nashville</emph>
+              </unittitle>
+              <unitdate>1920-1940</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bryan, Eleanor W.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Negro in Nashville from</emph>
+              </unittitle>
+              <unitdate>1900-1920</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Camacho, Lisa</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Three Case Studies of Nashville Families in Business</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Christian, Jeanne A</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Suburbanizing Nashville, 1880-1920: Familial Differentiation Within Economic Development</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cox, Susan E.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Nashville Elite:</emph>
+              </unittitle>
+              <unitdate>1896-1907</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cramer, Cynthia</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Boosterism in Nashville</emph>
+              </unittitle>
+              <unitdate>1880-1910</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dozier, Steve R.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Prohibition and the Enforcement of the Nashville Police Department</emph>
+              </unittitle>
+              <unitdate>(1905-1933)</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Everton, Glenn</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Black Business Community of Nashville</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fisher, Earl</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Nashville Civic Elites</emph>
+              </unittitle>
+              <unitdate>1870-1895</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Griffin, Neill</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Jim Crow Streetcar Boycott in Nashville</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hoover, Hilary</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Tennessee Centennial Exposition, Nashville, Tennessee</emph>
+              </unittitle>
+              <unitdate>1897</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Israel, R.D.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Donald Davidson and the Development of Agrarianism in the 1920&#8217;s</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Kelly, Paul K.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Nashville Elite</emph>
+              </unittitle>
+              <unitdate>1910-1925</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>London, Kathy L.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Belmont Neighborhood 1900-1920: Prevailing Southernism</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Morgan, Ann Ward</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Black Man&#8217;s Compromise Between Booker T. Washington and W. E. B. duBois in Nashville &#8211; 1905</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Neyland, Thomas</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Development of Nashville&#8217;s Park System</emph>
+              </unittitle>
+              <unitdate>1901-1935</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Powell, James</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Politicians and Public Policy in Nashville in the 1870&#8217;s and the 1920&#8217;s</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Price, Amy</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Urbanization of Nashville from 1908-1917: The Role of Commercial And Civic Clubs</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ramirez, Mike</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Lost Cause in a New South City: Nashville</emph>
+              </unittitle>
+              <unitdate>1890-1910</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Riley, Mark B.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">Edgefield: A Study of Nashville&#8217;s First Suburb*</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Steckler, David</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Death of the Brothel</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Swann, Susan E.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Twilight of a Walking City: The Nashville Waterfront, 1880 and After</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Young, Cindy</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Growth and Development of the Richland-West End Neighborhood</emph>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>*Revised version in Tennessee Historical Quarterly 37(1978): 133-54.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
