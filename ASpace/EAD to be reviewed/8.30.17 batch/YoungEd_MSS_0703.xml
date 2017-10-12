@@ -1,217 +1,212 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Young, Ed Collection</titleproper>
-<titleproper>Finding Aid for the Ed Young Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Ed Young Collection</unittitle>
-<unitid>MSS.0703</unitid>
-<unitdate>undated</unitdate>
-</did>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle>Autographed and framed photographs of opera personalities</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Donated in December 2008 and again in December 2009</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Three oversize flat boxes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Albanese, Licia &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Anderson, Marian &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Battle, Kathleen &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Bjorling, Jussi -</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Callas, Maria &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Carreras, Jose &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Chaliapin, Feodor &#8211;Bass</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Corelli, Franco &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Domingo, Placido &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Falgstad, Kirsten &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Horne, Marilyn &#8211;Mezzo-Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Hvorostovsky, Dimitri &#8211;Baritone</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Kanawa, Kiri te &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Kraus, Alfredo &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Levine, James &#8211;Conductor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Melchoir, Lauritz &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Milanov, Zinka &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Milnes, Sherrill &#8211;Baritone</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Morris, James &#8211;Bass</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Nilsson, Birgit &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Pavarotti, Luciano &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Pinza, Ezio &#8211;Bass</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Ponselle, Rosa &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Price, Leontyne-</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Rachaminoff, Sergei</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Scotto, Renata &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Strauss, Richard</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Sutherland, Joan &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Tebaldi, Renata &#8211;Soprano</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Tucker, Richard &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Vickers, Jon &#8211;Tenor</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Wunderlich, Fritz &#8211;Tenor</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Young, Ed Collection</titleproper>
+        <titleproper>Finding Aid for the Ed Young Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Ed Young Collection</unittitle>
+      <unitid>MSS.0703</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 linear_feet</extent>
+        <extent altrender="carrier">3 oversize flat boxes</extent>
+      </physdesc>
+      <unitdate>undated</unitdate>
+      <abstract>Autographed and framed photographs of opera personalities</abstract>
+    </did>
+    <scopecontent>
+      <p>Autographed and framed photographs of opera personalities</p>
+    </scopecontent>
+    <acqinfo>
+      <p>Donated in December 2008 and again in December 2009</p>
+    </acqinfo>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>Albanese, Licia &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Anderson, Marian &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Battle, Kathleen &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Bjorling, Jussi -</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Callas, Maria &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Carreras, Jose &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Chaliapin, Feodor &#8211;Bass</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Corelli, Franco &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Domingo, Placido &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Falgstad, Kirsten &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Horne, Marilyn &#8211;Mezzo-Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Hvorostovsky, Dimitri &#8211;Baritone</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Kanawa, Kiri te &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Kraus, Alfredo &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Levine, James &#8211;Conductor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Melchoir, Lauritz &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Milanov, Zinka &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Milnes, Sherrill &#8211;Baritone</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Morris, James &#8211;Bass</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Nilsson, Birgit &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Pavarotti, Luciano &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Pinza, Ezio &#8211;Bass</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Ponselle, Rosa &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Price, Leontyne-</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Rachaminoff, Sergei</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Scotto, Renata &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Strauss, Richard</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Sutherland, Joan &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Tebaldi, Renata &#8211;Soprano</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Tucker, Richard &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Vickers, Jon &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Wunderlich, Fritz &#8211;Tenor</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>

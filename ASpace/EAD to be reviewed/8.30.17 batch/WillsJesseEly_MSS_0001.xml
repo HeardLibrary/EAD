@@ -1,1821 +1,1904 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Wills, Jesse Ely Papers</titleproper>
-<titleproper>Finding Aid for the Jesse Ely Wills Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1912 &#8217; 1920</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Jesse Ely Wills Papers</unittitle>
-<unitid>MSS.0001</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">2.52 linear feet</extent>
-</physdesc>
-<unitdate>1912 &#8217; 1920</unitdate>
-</did> <bioghist>
-<head>Biography/Scope and Content Note</head>
-<p>Jesse Ely Wills, 1899-1977, a Nashville native, was a member of the group of poets who met in Nashville in the early 1920&#39;s to write and publish the influential literary magazine <emph render="italic">The Fugitive</emph>. He was an officer and executive of the National Life and Accident Insurance Company during his business career and was active in Vanderbilt University affairs as a member of the Board of Trust and chairman of the Board of the Joint University Libraries.</p>
-<p>This collection contains literary correspondence, poems, and manuscripts of poet and businessman Jesse Ely Wills.</p>
-</bioghist>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<container type="folder">1.</container>
-<unittitle>Correspondence - Outgoing. 1952-77. Arranged chronologically. 484 letters, the bulk of which consists of typed carbons. Folders 1-6.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">1.</container>
-<unittitle>Correspondence - Incoming. 1951-76. 492 letters, most typed, many holograph. Six postcards, three Christinas cards. Two telegrams. Arranged alphabetically according to sender. Folders 7-14.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">1.</container>
-<unittitle>Enclosures - Miscellaneous essays and reviews by Jesse E. Wills, newspaper clippings, photographs of Robert Penn Warren bust, essays by others, reprint essays of others, items showing his relationship with Allen Tate, miscellaneous papers. Folders 15-21.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">2.</container>
-<unittitle>Old Oak and Coffee House Papers 1930-1969, including drafts and later supplements to the papers. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">2.</container>
-<unittitle>Juvenilia, c. 1915-20. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">2.</container>
-<unittitle>Fugitive verse, 1922-25. Folders 3-4.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">2.</container>
-<unittitle>Economic Discussion Group, 1931-33. Folder 5.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Early and Late - Rough drafts, intermediate and final drafts, typescript (printer&#39;s &#39;copy), page proofs, business correspondence, congratulatory correspondence, reviews. Folders 1-6.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Notes, remarks on poetry readings. Folder 7.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Introduction of Jesse E. Wills on occasion of a poetry reading, 12 November 1971, by Frances Neel Cheney. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Tapes of poetry reading by Jesse E. Wills. 12 November 1971, 14 November 1973. Script of WPLN broadcast with Lin Folk, 8 April 1977. Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">3</container>
-<unittitle>Meditations on the American Indian - Drafts, typescript (printer&#39;s copy), page proofs, published copy in paper cover. Folders 10-12.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">4</container>
-<unittitle>Conversation Piece - Notes and early drafts, intermediate and final drafts, page proofs, analytical letter from Donald Davidson. Folders 1-5.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">4</container>
-<unittitle>Nashville and Other Poems - Notes and early drafts, intermediate and final drafts, typescript (printer&#39;s copy), page proofs. Folders 6-11.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>Selected Poems - Early drafts, page proofs, correspondence&#187; reviews. Folders 1-3.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>&#225;. Diversity of Interests - Draft copies, typescript, printer&#39;s copy, correspondence, essays not included in the publication, published copy in paper covers. Folders 4-9.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>Occasional verse. Folder 10.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">5</container>
-<unittitle>&#34;First Lady&#34; - Several drafts of a contemplated poem on Mrs. John F. Kennedy. Not completed. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">6</container>
-<unittitle>Vanderbilt affiliations - Correspondence and reports concerning committee work. List of Committees follows: Academic Programs Committee. Folders 1-3. Ad hoc Committee on Composition of Undergraduate Student Body. .Folder 4. Committee for Fort Flowers Wing Dedication. Folder 5. Committee on Naming Buildings. Folder 6. Committee on Strengthening Athletics. Folder 7. Educational Programs Committee. Folder 8. Ethiopian Microfilming Project. Folder 9. Fraternity Study Committee. Folder 10. Graduate School of Management. Folder 11. JUL Building Fund. Folder 12. JUL Fugitive Room. Folder 13. Lawson Case. Folder 14. Long-Range Financial Planning Committee. Folder 15.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="folder">6</container>
-<unittitle>List of Committees continued: Ponzine, Raymond E. and Huber, Donald C. - Poetry Reading at Vanderbilt. Folder 16. Resolutions on the death of Vanderbilt Associates. Folder 17. Telecast of Basketball Games. Folder 18. W.R. Wills Center for Psychiatric Treatment and Research. Folder 19.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Outgoing Correspondence Index</unittitle>
-</did> 
-<c02 level="item">
-<did>
-<unittitle>Correspondence is listed chronologically. Folder indicated by abbreviation F.</unittitle>
-</did>
-</c02>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<unitdate>1952</unitdate>
-<unittitle>26 August to Merrill Moore; 26 August to Coley Harwell; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1954</unitdate>
-<unittitle>8 November to George Mayfield; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1956</unitdate>
-<unittitle>15 June to &#34;Red&#34; (Robert Fenn Warren); F. 1-1. 31 July to William F. Orr; F. 6-14. 5 September to William 0. Batts; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1958</unitdate>
-<unittitle>30 April to Allen Tate; 9 June to Allen Tate; 9 June to . &#34;Bill&#34; (William Yandell Elliott); F. 1-1. 17 December to &#34;Lib&#34; (Mrs. R.D. Crabtree); F. 3-4.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1959</unitdate>
-<unittitle>7 January to Rob Roy Purdy; F. 3-4. 7 April to Ann Leslie Moore; 10 April to Allen Tate; 29 April to Caroline Gordon; 18 May to Ann Leslie Moore; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>1960</unittitle>
-<unittitle>10 March to Eldon Stevenson, Jr., (unsigned) ; F. 6-14. 22 April to Sally (Mrs. Lewis Barr Flinn, Jr.); F. 1-1. 2 June to Harvey Branscomb; F. 6-14. 29 December to Howard Hall; F. 6-14.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1961</unitdate>
-<unittitle>22 February to Guy Owen; 26 December to Guy Owen; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1962</unitdate>
-<unittitle>3 January to Guy Owen; 9 April to Allen Tate; 15 May to Allen Tate; 23 May to James M. Waller; 10 September to Mrs. Brainard Cheney; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1963</unitdate>
-<unittitle>7 November to Andrew Lytle; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1964</unitdate>
-<unittitle>9 January to Rob Roy Furdy; F. 6-18. 26 March to Lawrence S. Thompson; 24 December to Matt Wigginton; F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1965</unitdate>
-<unittitle>24 May to Horace Hill; 11 June to Horace Hill; 14 June to Fort Flowers; 14 June to Alexander Heard; 14 June to Alexander Heard; 1 July to Harold Vanderbilt; F. 6-12. 3 August to Reber Boult; 12 October to Rob Roy Purdy; 18 October to Frances Neel Cheney (Mrs. Brainard); F. 1-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1966</unitdate>
-<unittitle>4 January to Jud Collins; 4 January to John H. Dewitt, Jr.; F. 6-18. 4 February to David Howell Jones; 9 February to Allen Tate; 10 February to Donald Davidson; 23 February to Allen Tate; 25 February to J. Lasley Dameron; F. 1-2. 18 March to David Kaser; 18 March to Alec Stevenson; F. 6-12.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1966</unitdate>
-<unittitle>29 April to Peter J. Tharp; 22 August to Allen Tate; 4 October to Edith H. Wolfe; 24 October to Alec Stevenson; 25 October to Donald Davidson; 25 October to John Crowe Ransom; 25 October to Allen Tate; 25 October to Robert Penn Warren; 30 October to Donald Davidson; 2 November to Margaret Williams; 14 November to Allen Tate; 15 November to Robert Penn Warren; 6 December to Henry E. Niles; F. 1-2.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1967</unitdate>
-<unittitle>5 April to Ridley Wills; 18 April to Rob Roy Purdy; 18 April to Rob Roy Purdy; 24 April to Steve (Alec B. Stevenson); 9 May to Robert Penn Warren, Alec B. Stevenson; 18 May to Donald Davidson; 22 May to Edwin F. Hunt; 25 May to Alec B. Stevenson&#187; Rob Roy Purdy; 25 July to Robert Penn Warren; 4 August to Allen Tate; 11 October to Louis Farrell&#187; Jr.; 12 October to James K. Flack; 26 October to Margaret Williams; F. 1-2. 1 November to James A. Simpson, William Waller, Sr.; F. 6-17. 15 November to James K. Flack; F. 1-2. 16 November to Robert L. Garner; F. 6-13. 18 December to Floy Beaty; F. 1-2.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1968</unitdate>
-<unittitle>12 January to Elizabeth and John K. Maddin; 24 January to James K. Flack&#187; Andrew Lytle; 25 January to Allen Tate; 13 February to Allen Tate; 5 March to Greg Tucker; 18 March to Allen Tate; 8 April to Robert Penn Warren; 22 April to Robert Penn Warren, Matthew B. Wills; 24 April to William C. Pratt; 25 April to Allen Tate, Andrew Lytle; 7 May to James M. Waller; 20 May to William C. Pratt, Robert Penn Warren; 27 May to Allen Tate; F. 1-3. 28 May to David K&#228;ser; F. 6-13. 10 June to Ann Leslie Moore; 12 June to Edwin S. Gardner; 2 July to Allen Tate; 8 July to Mrs. Merrill Moore; F. 1-3. 8 July to Roy B. Basler; F. 6-13. 11 July to Ann Leslie Moore; 15 July to Allen Tate; 18 July to Robert Penn Warren; 1 August to Mr. and Mrs. Allen Tate, Andrew Lytle; 5 August to Allen Tate; 6 August to Randolph Harrison; 3 September to Ernest Choate; 11 September to May (Mrs. David F, Hall); 16 September to Allen Tate, Pete (Robert L. Naylor); 18 September to Allen Tate; 23 September to Allen Tate; F. 1-3. 30 September to Alec B. Stevenson; F. 6-17. 9 October to Frank Grisham; F. 6-13. 20 November to Thomas D. Young; F. 1-3. 5 December to Alexander Heard; F. 6-5. 5 December to John aSloan; F. 6-7. 17 December to Alec B. Stevenson, George Cate, Jr.&#187; Mrs. Albert Werthan, John Bransford; F. 6-5. 19 December to Allen Tate; 30 December to Edwin S. Gardner; F. 1-3.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1969</unitdate>
-<unittitle>2 January to Alexander Heard, Matt S. Wigginton, George Cate, Jr., Mrs. Albert Werthan, John Bransford, Alec B, Stevenson; F, 6-5. 9 January to Allen Tate, Alec B. Stevenson; 13 January to T. Daniel Young; 20 January to Allen Tate; 3 February to Allen Tate; 4 February to Allen Tate, Thomas D. Young; 5 February to Allen Tate; F. 1-3. 5 February to Alec B. Stevenson; F. 6-13. 6 February to William S. Vaughn; F. 6-1. 6 February to 1969; Frank Grisham; F. 6-5. 10 February to Edwin S. Gardner; F. 6-13. 10 February to Mrs. Merrill Moore; 11 February to Thomas Daniel Young, Allen Tate; 27 February to Themas Daniel Young; 4 March to Thomas Daniel Young, Mrs. Merrill Moore; 12 March to Allen Tate; 17 March to Frank P. Grisham; 18 March to Allen Tate; 19 March to Donald Davidson, Rob Roy Purdy; 31 March to Allen Tate, William Yandell Elliott, Robert Penn Warren; F. 1-3. 31 March to Madison S. Wigginton, Frank P. Grisham; F. 6-13. 10 April to James A. Simpson, William H. Vanderbilt; F. 6-1. 10 April to Alec B. Stevenson; 14 April to Thomas F. Heffernan; F. 1-3. 15 April to William Waller; F. 6-1. 21 April to Mrs. Betsy Wilson; 20 April to Geddes Douglas, Sr.; 29 April to. Allen Tate; 29 April to Alec B. Stevenson; 19 May to William Yandell Elliott,;Allen Tate, Robert Penn Warren; 20 May to Carolyn and William A. Mc Donnell; F. 1-3. 26 May to Matt S. Wigginton; 27 May to Robert A. McGaw; F. 6-13. 27 May to Robert Penn Warren; 28 May to Edwin S. Gardner, William Yandell Elliott; 29 May to Orrin W. Jones; F. 1-3. 2 June to Charles S. Ragland; F. 6-1. 3 June to Woodrow W. Wasson; F. 6-13. 12 June to Charles S. Ragland, James A. Simpson, Nicholas Hobbs; 16 June to Alexander Heard; F. 6-1. 16 June to Allen Tate; 17 June to William Yandell Elliott; F. 1-3. 18 June to Robert Penn Warren; F, 6-13. 18 June to Charles S. Ragland; F. 6-1. 30 June to Allen Tate, William Yandell Elliott; F. 1-3. 2 July to Rob Roy Purdy; F. 6-1. 7 July to Andrew Lytle; F. 1-3. 8 July to Nancy Manning; F. 6-1. 13 August to William Yandell Elliott; F. 1-3. 28 August to Frank Baker; F. 6-13. 8 September to Allen Tate; F. 1-3. 10 September to Members of the Trustee Committee on Academic Programs of Vanderbilt University; F. 6-1&#187; 14 September to Robert A. McGaw, Mr. and Mrs. M.S. Wigginton; 15 September to Elizabeth Wills; F. 1-3. 16 September to Rob Roy PurdjF; F. 6-13. 16 September to Thomas Daniel Young; 17 September to Ann Leslie Moore, Robert Penn Warren; 24 September to Allen Tate; 25 September to Thomas Daniel Young; 29 September to Thomas Daniel Young; F. 1-3. 30 September to Alexander Heard; F. 6-1. 20 October to William H. Vanderbilt; F. 6-1. 21 October to Robert Penn Warren; F. 1-3. 28 October to Andrew Benedict, James G. Stahlman; F. 6-17. 29 October to Members of the Trust Committee on Academic Programs of Vanderbilt University; 29 October to Nancy Jane Manning; F. 6-1. 13 December to Mrs. Mapheus Smith; F. 6-13.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1970</unitdate>
-<unittitle>13 January to Alexander Heard, William S. Vaughn; F. 6-1. 15 January to Robert McGaw; F. 6-6. 15 January to Robert McGaw, Mrs. Mapheus Smith; 19 January to GoIdle D. Hirsch; F. 6-13. 27 January to William S. Vaughn; F. 6-1. 29 January to Forrest Read; F. 1-4. 4 February to Charlie Ragland; F. 6-1. 5 February to Andrew Lytle,Robert Penn Warren; F. 1-4. 5 February to Nicholas Hobbs; 9 February to William Waller; F. 6-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1970</unitdate>
-<unittitle>9 February to Eldon Stevenson; F. 6-6. 16 February to Mrs. Albert Werthan; F. 6-1. 16 February to Mrs. Albert Werthan and Norfleet H. Rand; 19 February to Alexander Heard; F. 6-6. 19 February to William H. Vanderbilt, Charles Ragland; F. 6-1. 2 March to Allen Tate; F. 1-4. 16 March to Norfleet H. Rand; F. 6-6. 17 March to Charles S. Ragland; F. 6-1. 23 March to Allen Tate; F. 1-4. 25 March to Alexander Heard; 26 March to Alexander Heard; F. 6-6. 26 March to Members of the Trust Committee on Academic Programs of Vanderbilt University; F. 6-1. 22 April to Members of the Trustee Committee on Academic Programs &#242;f Vanderbilt University; F. 6-8. 27 April to Matt Wigginton; F. 1-4. 28 April to Robert McGaw; F. 6-6. 25 May to Mrs. Merrill Moore; 9 June to Mrs. Merrill Moore; 10 June to Allen Tate, William W. Force; F. 1-4. 6 July to William S. VaVghn; F. 6-1. 8 July to William Yandell Elliott; F. 1-4. 9 July . to Mrs. Harold S. Vanderbilt; 22 July to Merrimon Cuninggim; F. 6-1. 17 August to Maxey Jarman; 20 August to Margaret Williams; F. 1-4. 14 September to William S. Vaughn; F. 6-17. 17 September to Nicholas Hobbs, William Waller, Merrimon Cuninggim; F. 6-1. 21 October to William Waller; F. 6-17. 26 October to William Waller; F. 6-1. 11 November to Alexander Heard; F. 6-13. 12 November to Vernon Sharp; F. 1-4. 18 November to Robert L. Garner; F. 6-8. 30 November to Allen Tate, John Crowe Ransom; 14 December to Jean and Alexander Heard; 23 December to Thomas D. Young; F. 1-4.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1971</unitdate>
-<unittitle>16 January to Randolph Batson; 18 January to Robert A. McGaw; 20 January to Matthew B. Wills; 20 January to Robert Sturdivant, Aubrey Harwell; 21 January to Louise Davis; 25 January to Thomas Daniel Young, Allen Tate; 1 February to Mrs. Donald Davidson; 2 February to Jane S. Whitman; 2 March to Walter R. Courtenay; 9 March to Edgar H. Duncan; 15 March to Victor S. Johnson; 16 March to Archie Henry; F. 1-4. 17 March to Frank P. Grisham; F. 6-13. 17 March to Nicholas Hobbs; 24 March to Nicholas Hobbs, Members of the Educational Programs Committee; F. 6-8. 18 March to Thomas D. Young; F. 1-4. 7 April to Allen Tate; 27 April to Chase A. Horton; F. 1-4. 3 May to David E. Wood; F. 6-4. 5 May to Ralph R. Kirkendall; F. 1-4. 6 May to Donald L. Thistlethwaite; 18 May to Donald L. Thistlethwaite; F. 6-4. 19 May to John M. Aden; 7 June to Robert P&#233;nn Warren; 21 June to Mrs. Winston Caldwell; 22 June to Frances Neel Cheney; 30 June to Allen Tate; 15 July to Alexander Heard; 17 July to Thomas Daniel Young; 2 August to Allen Tate; 3 August to Frank P. Grisham; F. 1-4. 9 August to William S. Vaughn; F. 6-1. 29 September to T. H. Hlrschfield; F. 1-4. 30 September to William S. Vaughn; 11 October to Rob Roy Purdy; F. 6-1. 11 October to Mrs. Mapheus Smith; F. 1-4. 13 October to Rob Roy Purdy; F. 6-1. 14 October to Frank Grisham; 1 November to Thomas Daniel Young; 15 November to William Waller; F. 1-4. 15 November to Rob Roy Purdy; F. 6-7. 15 November to Barry L. Master; F. 6-4. 15 November to William S. Vaughn; F. 6-1. 16 November to Robert A. McGaw; 24 November to Frank P. Grisham; 29 November to Fannie (Mrs. Brainard) Cheney; 30 November to</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1971</unitdate>
-<unittitle>Thomas Daniel Young; 9 December to Allen Tate; 20 December to Frank P. Grisham; 21 December to Allen Tate; 31 December to Frank P. Grisham; n.d. December to Frederick J. Dockstader; F. 1-4.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1972</unitdate>
-<unittitle>24 January to Thomas Daniel Young; 25 January to Andrew Lytle; 3 February to Herschel Gower; 16 February to Mrs. Brainard Cheney, Frank P. Grisham; 21 February to Rob Roy Purdy; 28 February to David Spencer Taber; 14 March to William F. Orr; 20 March to Rob Roy Purdy, Harris D. Riley, Jr. ; 23 March to Robert E. Weaver; F. 1-5. 4 April to Nicholas Hobbs; F. 6-8. 4 April to Nicholas Hobbs; 6 April to Nicholas Hobbs; 26 April to Nicholas Hobbs; 8 May to Nicholas Hobbs; F. 6-4. 1 May to Allen Tate; 8 May to Allen Tate, Mrs. Hugh Bullock; 16 May to Thomas Daniel Young; F. 1-5. 12 June to Mrs. Richmond C. Beatty; F. 6-13. 15 June to Mrs. Richmond C.&#39; Beatty; F. 6-13. 21 June to Allen Tate, Thomas Daniel Young; 29 June to Frank K. Houston; 8 August to Thomas Daniel Young; 6 September to Thomas Daniel Young; 14 September to Robert A. McGaw; 20 September to H.L. Swint; 9 October to Robert Penn Warren; 10 October to Thomas Daniel Young; 30 October to Frank P. Grisham, Robert Penn Warren; 21 November to Robert Penn Warren; 14 December to Rob Roy Purdy; 18 December to Robert A. McGaw; F. 1-5. n.d. to Members of the Committee on Academic Programs; F. 6-1.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1973</unitdate>
-<unittitle>5 March to Allen Tate; 22 March to Andrew Lytle; 11 June to Robert A. McGaw; 7 August to Allen Tate; F. 1-5. 9 August to Frank P. Grisham; F. 6-13. 28 August to Andrew Lytle; F. 1-5. 18 September to Earvie Branscomb; 19 September to E. Bronson Ingram; 25 September to E. Bronson Ingram; F. 6-17. 26 September to Allen Tate; 1 October to Rupert E. Palmer, Jr.; 29 October to Robert Penn Warren; F. 1-5. 21 November to Walter Harrelson; F. 6-9. 3 December to William C. Pratt; 6 December to Robert Penn Warren; F. 1-5.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1974</unitdate>
-<unittitle>2 January to Walter Harrelson; F. 6-9. 2 January to Allen Tate; 3 January to Daniel T; &#34; &#8226; ~- Young; 8 January to Allen Tate; 14 January to Mrs. Eric Bell, Jr.; 15 January to Mr. and Mrs. W.A. Baker; 21 January to Frank P. Grisham, Rupert Palmer; 23 January to Allen Tate; 24 January to Allen Tate; F. 1-5. 29 January to Allen Tate; F. 5-3. 20 February to Allen Tate 4 March to William C. Pratt, Dan Young; 6 March to Allen Tate, Marice Wolfe; 25 March to John W. Poindexter; 1 April to Andrew Lytle; 3 April to Allen Tate; 6 April to Alexander Heard; 10 July to Daniel T. Young; 11 July to Robert A. McGaw; 22 July to Daniel T. Young; 24 July to Frank P. Grisham, Mrs. Alexander Heard; 29 July to Thomas Daniel Young; 31 July to Allen Tate; 1 August to Allen Tate; 14 August to Allen Zibart; 15 August to Allen Tate; 4 September to Allen Tate; 9 September to Allen Tate; 18 September to Edwin Stirling, Allen Tate; 1974: 25 September to Allen Tate; 7 October to Dr. and Mrs&#171; T.E. Brittingham; 14 October to Scott Colley; 31 October to Edwin Sterling; 6 November to Frank Grisham; 18 November to Frank Grisham, Allen Tate; 4 December to Allen Tate; 9 December to M.S. Wigginton, Andres B. Benedict, Jr.&#187; John Bransford; 16 December to Emily Bennett; F. 1-5. 17 December to Allen Tate; F. 5-3. 23 December to John E. Sloan, Jr.; F. 1-5.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1975</unitdate>
-<unittitle>6 January to lob Roy Purdy; 15 January to Allen Tate; 21 January to John Scott Colley, Frank Grisham; 23 January to Allen Tate; 9 February to Robert A. McGaw; 10 February to Robert Penn Warren; 12 February to Allen Tate; 3 April to Allen Tate; 14 April to T. Daniel Young; F. 1-6. 17 April to Rob Roy Purdy; F.. 5-3. 21 April to O.B. Emerson; F. 1-6. 2 June to Rob Roy Purdy; F. 5-3. 10 June to Robert A. McGaw; F. 1-6. 24 June to Rob Roy Purdy; F. 5-3. 26.June to Allen Tate; 7 July to Helen Tate; F. 1-6. 9 July to Rob Roy Purdy; F. 5-3. 16 July to Robert A. McGaw; F. 1-6. 9 September to Gus G. Halliburton; F. 5-3. 15 September to Robert Penn Warren; 22 September to Robert A. McGaw; F. 1-6. 6 October to Rob Roy Purdy (2), T. Daniel Young; F. 5-3. 27 October to Rob Roy Purdy, Allen Tate; 5 November to T.D. Young; 17 November to Rob Roy Purdy; 16 December to Caroline Gordon; F. 1-6.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1976</unitdate>
-<unittitle>6 January to Caroline Gordon; 13 January to John Hall Wheelock; 19 January to Lon (Brainard) Cheney; 12 February to Mrs. Buford Sanders; 16 February to Mrs. J.R. Hamblen; Mrs. Caroline Gordon Tate; 1 March to Rob Roy Purdy; 8 April to Allen Tate; 13 April to Robert A. McGaw; 3 May to Frank P. Grisham, Robert A. McGaw; 17 May to Sam M. Fleming, T. Daniel Young; 18.May to William Boozer; 1. June to Bob A. McGaw; 17 June to Robert A. McGaw; 26 July to Frank P. Grisham; 29&#39;July to Frank P. Grisham; Allen Tate; 2 September to George Core; 10 September to Marilyn W. Whiteman, Allen Tate; 20 September to Rob Roy Purdy; 27 September to Robert A. McGaw; 18 October to Alexander Heard; 4 November to Frank P. Grisham; F. 1-6.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>1977</unitdate>
-<unittitle>10 January to Robert Penn Warren; F. 1-6.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unitdate>n.d.</unitdate>
-<unittitle>Memorandum on Fugitive Room in the New Wing of the Joint University Library; F. 6-13. This is a name index of the correspondents of Jesse Ely Wills. The figure (or figures) in parentheses immediately following each name denotes the total number of letters from that person in the collection; the dates are for the time of the letters. The full name of the writer is given whenever possible. The last number given refers to the box and folder in which the correspondence may be found.</unittitle>
-</did>
-</c01>
-</dsc>
-<index id="mferd78e24834">
-<head>Index of Correspondents</head>
-<indexentry>
-<persname encodinganalog="600">Abeel, Ethel M.</persname>
-</indexentry>
-<indexentry>
-<persname>Ansoff, H. Igor, (1); 10 November 1970; F. 6-11.</persname>
-</indexentry>
-<indexentry>
-<persname>Basler, Roy P., (2); 20 June 1968; 4 December 1970; F. 6-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Batson, Randolph, (2); 11 May 1971; 30 November 1973; F. 1-6.</persname>
-</indexentry>
-<indexentry>
-<persname>Batts, William 0., (1); 30 August 1956; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Benson, Maxwell E., (1); 3 June 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Boswell, Dean (Mrs. John E.), (1) 5 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Boult, Reber, (2); 30 July 1965; F. 1-7.. 3 July 1968; F. 6-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Branscombe, Harvie, (11); 26 March 1957 (to William F. Orr); 23 January 1959 (to John Patterson); F. 6-19. 8 March 1960 (mimeographed statements and appendix I-III of 1 March through 3 March 1960); 30 May (Confidential to all Members of the Board of Trust); 13 June 1960 (A statement to the faculty of Vanderbilt University); 14 June 1960 (To all Members of the Board of Trust of Vanderbilt University); 10 January 1969 (to Alexander Heard); n.d. (To all Members of the Board of Trust); F. 6-14. 27 April 1970; 22 September 1973; F. 6-17.</persname>
-</indexentry>
-<indexentry>
-<persname>Brooks, Cleanth, (1); 3 January 1976; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Brown, Warren S., (1); 12 April 1972 (to Rob Roy Purdy); F. 6-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Buffington, Robert, (2); 3 April 1968; 3 April 1968 (to Mrs. Floy W.</persname>
-</indexentry>
-<indexentry>
-<persname>Beatty); F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Campbell, Matthew M., (1); 20 October 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>cassebeer. ~rcia (Mrs. F.W.), (1); 16 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Cheney, Brainard (Lon), (1); 1 January 1976; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Cheney, Frances Nee! (Mrs. Brainard), (4); 17 June 1971 (to EllenWills), 22 November 1971, 4 February 1972 (to Centennial</persname>
-</indexentry>
-<indexentry>
-<persname>Club's Literary Department); 17 October 1973; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Cherry, Kenneth, (1); 6 May 1974; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Cole, W.R., Jr., (1); 26 March 1960 (To each individual member of the</persname>
-</indexentry>
-<indexentry>
-<persname>Board of Trust of Vanderbilt University); F. 6-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Coppolillo, Henry P., (1); 16 March 1972; F. 1-6.</persname>
-</indexentry>
-<indexentry>
-<persname>Core, George, (1); 30 August 1976; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Courtenay, Walter R., (1); 6 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Cowan, Louise S., (1); 12 July 1976; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Crabb, A.L., (1); 23 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Crabtree, Lib (Mrs. R.D.), (2); 8 December 1958; F. 3-4.</persname>
-</indexentry>
-<indexentry>
-<persname>11 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Crocker, David, (1); 4 January 1961 (to Billie, William F. Orr); F. 6-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Cuninggim, Merrbnon, (4); 16 July 1970 (to William Vaughn); 29 July 1970; F. 6-2. 29 March 1971; F. 6-8. 13 April 1973, 15 June 1976 (by Hattie R. Lane); F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Dameron, J. Lasley, (1); 16 February 1966 (to Vanderbilt University Press); F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Davidson, Donald, (8); 20 May 1954; 8 August 1962; F. 1-7. 28 March 1965; F. 4-5. 29 September 1966; 30 September 1966; 16 October 1966; 23 May 1967; 18 June 1967 (to Ellen Wills); F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>DeWitt, John H., Jr., (7); 6 January 1964; 13 January 1964; n.d. (Memo about Westinghouse letter of 20 January 1964); 17 February 1964 (to James H. Quillen); 15 November 1965; 27 December 1965; 30 December 1965; F. 6-18.</persname>
-</indexentry>
-<indexentry>
-<persname>Dickson, William, (1); 23 November 1969; F. 6-11.</persname>
-</indexentry>
-<indexentry>
-<persname>Dockstader, Frederick J., (1); 16 December 1971; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Duncan, Edgar H., (2); 16 February 1971; 22 December 1975; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Dysart, Benjamin C., (1); 17 November 1969 (to Peter G. Hoadley); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Earthman, B~rd Douglas, (1); 23 March 1970; F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Eight Doctoral Students Who Left the GSM Program, (1); 30 September 1975; F. 6-11.</persname>
-</indexentry>
-<indexentry>
-<persname>Elliott, William Yandell, (6); 28 May 1958 (one addressed to Allen Tate); 20 February 1969 (to Allen Tate); 22 April 1969; 23 June 1969; 25 July 1969; 25 June 1970; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Eutiekin, Mrs. Ervin, (1); 4 November 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Eyster, Rebecca, (1); 1 November 1966; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Farrell, Louis, Jr., (1); 23 September 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Flack, James K., (1); 12 November 1967; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Fleming, Sam M., (1); 15 May 1970 (to Rob Roy Purdy); F. 6-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Flowers, H. Fort, (4); 21 December 1965; Christmas 1965 (card); F. 6-12. 17 January 1969 (to Madison S. Wigginton); F. 6-5. 8 October 1969 (to Alexander Heard); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Force, William W., (1); 2 June 1970; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Fowler, S. Benjamin, (1); 21 April 1960 (to William F. Orr, Jr.); F. 6-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Gardner, Edwin S., (2); 19 June 1968; F. 1-8. 22 August 1971; F. 6-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Gardner, Robert L., (3); 13 November 1967; F. 6-13. 2 November 1970; 30 November 1970; F. 6-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Geny, Charles W., (1); 5 April 1968; F. 6-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Gibbs, Homer B., Jr., (1); 9 October 1969 (to Rob Roy Purdy); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Gordon, Caroline, (2); 18 April 1959; 11 May 1959; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Gower, Herschel, (1); 21 February 1972; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Gray, William Dixon, (1); 25 May 1959;F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Grisham, Frank P., (15); 7 December 1967 (to Woodrow Wasson); 7 October 1968; 8 August 1969 (to Madison Wigginton); 27 August 1969; F. 6-13. 9 January 1969; 14 February 1969 (to Alex B. Stevenson); 17 March 1969; F. 6-5. 6 February 1970 a(to Executive Committee Board of Library Trustees; Joint</persname>
-</indexentry>
-<indexentry>
-<persname>Faculty Library Committee); 17 February 1971; F. 6-13.a 19 October 1971 (to Mrs. Mapheus Smith); 26 December 1973; 18 January 1974; 25 May 1976; 10 August 1976; 2 November 1976; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Haddock, Susan Abney, (3); 7 June 1972; 13 June 1972; F. 6-13. 3November 1972; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Hall, Howard R., (3); 13 March 1959 (to Lester Smith); 27 March 1959</persname>
-</indexentry>
-<indexentry>
-<persname>Hall, May and Dave, (1); 7 February 1960; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Hamner, Gustavus A.H., (1); 10 November 1969 (to Alexander Heard); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Harrelson, Walter, (5); 7 April 1970 (to Nicholas Hobbs); F. 6-6. 14 November 1973; 27 November 1973; 11 JanuarY 1974; 11 March 1974; F. 6-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Harrison, Charles E., Jr., (1); 10 October 1969 (to Executive</persname>
-</indexentry>
-<indexentry>
-<persname>Committee Board of Trust); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Harrison, Randolph, (2); 4 May 1959; F. 3-5. 2 August 1968; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Heard, Alexander, (23); 11 June 1965 (to Fort Flowers); 12 June 1965; 22 June 1965; 10 July 1965 (to Fort Flowers); 30 November 1965 (to Fort Flowers); 6 May 1966; F. 6-12. 20 November 1966; 29 November 1966 (to Members of the Vanderbilt Board of Trust); 30 January 1968; F. 6-7. 8 November 1968 (to Members of the Special Committee of the Board of Trust to aStudy the University~s Long-Range Financing); F &#8226; 6-15. 31 December 1968; F. 6-5. 9 January 1970; F. 6-6. 10 January 1970; 14 January 1970; 21 January 1970 (to William s. V~~hn); 22 January 1970; F. 6-2. 24 March 1970; F. 6-6- 16 May 1970 (to Dean Christman, Dean Holladay and Dean Row~, 12 May 1970); 4 July 1970 (telegram); F. 6-2. 5 November 1970; 19 November 1970; F. 6-13. 25 October 1971; F. 6-4. n.d.; F. 1-8.Heathco, Dan D., (1); 10 September 1976; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Hecht, Anthony, (1); 29 December 1975; F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Heffernan, Thomas F., (1); 9 April 1969; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Hendley, Tillie Clare (Mrs. Joseph Owen), (1); 29 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Hill, Horace G., Jr., (2); 26 May 1965; 16 June 1965; F. 6-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Hirsch, Sidney Mttron, (1); 18 April 1959; F. 3-5.Hobbs, Nicholas, (12); 24 June 1969; 1 August 1969; 16 September 1969; 24 September 1969; 3 February 1970; 10 February 1970; 18 March 1970; 22 September 1970; 21 October 1970; F. 6-2. 12 February 1971; 12 March 1971; F. 6-8. 19 November 1973; F. 6-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Holbrook, Morton, III, (1); 22 September 1969 (to Alexander Heard); F. 6-10.a</persname>
-</indexentry>
-<indexentry>
-<persname>Holter, Bob, (1); 5 January 1961 (to William F. Orr, Jr.), (telegram); F. 6-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Houston, Frank K., (1); 17 July 1967 (mimeograph report); F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Hunt, Edwin, (1); 28 April 1967; F. 1-8. Lmpastato, David J., (1); 3 January 1961 (to William F. Orr); F. 6-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Ingram, E.B., (1); 21 September 1973; F. 6-17.</persname>
-</indexentry>
-<indexentry>
-<persname>Jarman, W. Maxey, (2); 13 April 1959; F. 3-8. 12 August 1970; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Jewett, James E., (1); 23 June 1976; F. 6-11.</persname>
-</indexentry>
-<indexentry>
-<persname>Johnson; Wictor"S., Jr., (1); 11 March 1971; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Jones, David Howell, (1); 3 February 1966; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Jordan, Polly (Mrs. Robert H.), (1); 26 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Kaser, David, (10); 22 June 1965; 18 March 1966; 25 March 1966 (to Alec B. Stevenson); 27 April 1966 (to Committee on the</persname>
-</indexentry>
-<indexentry>
-<persname>Development of the Gradua"te Wing, Board o~ Trustees); F. 6-12. 23 May 1966; F. 6-13. 12 December 1967; F. 1-8. 15 July 1968 (to Andrew Lytle); 23 May 1968; 30 May 1968 (to Andrew Lytle); F. 6-13. n.d. (to Committee on the Development of a Library a Wing, Board of Trustees); F. 6-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Kellam, James R., III, (1); 29 September 1969; F. 6-10.Kirkendall, Ralph, (1); 8 April 1971 (to Donald Thist1ethwaite); F. 6-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Kolb, Lawrence C., (1); 10 January 1961 (to William F. Orr); F. 6-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Kuhlman, A. Frederick, (1); 14 October 1975; F. 6-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Light, Rudolph A., (3); 26 June 1969; 19 September 1969; 28 October 1969; F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Lipscomb, Anne C. (Mrs. A. Brant), (1); 11 November 1969 (to Committee on Undergraduate Affairs); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Lockert, C. Lacy, (1); 21 November 1958 (to Rob Roy Purdy); F. 3-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Lytle, Andrew, (1); 20 May 1959; F. 3-5. 5 October 1963; 1 February a1968; 20 February 1968; 11 July 1969; 10 April 1913; 24 August 1913; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>McAlister, Bill, (1); 3 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>McCall, Gertie (Mrs. John T.); 12 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>McDonnell, Carolyn, (1); 11 May 1969; F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>McGaw, Robert A., (9); 11 December 1958; F. 3-4. 5 June 1959 (to</persname>
-</indexentry>
-<indexentry>
-<persname>Lester Smith); F. 6-19. 26 October 1961; F &#8226;. 6-11. 15 June 1916;,8 September 1916; 10 September 1916 (Question Fo~); 11 September 1916; 21 September 1916; 23 September 1916; F. 5-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Mackenzie, Kenneth W., (1); 3 October 1969 (to Executive Committee of the Board of Trust); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Mann, Delbert, (2); 13 September 1969; 23 October 1969; F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Manning, Nancy Jane, (3); 1 July 1969 (to William Vaughn); 25 October 1969; n.d.; F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Massey, Richard, (1); 1 November 1958 (to William F. Orr); F. 6-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Master, Barry L., (1); 10 November 1911; F. 6-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Meyer, Audrey, (1); 12 March 1916 (to Jane C. Tensley); F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Moore, Adam, (1); 1 June 1968; F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Moore, Ann Leslie (Mrs. Merrill), (6); 24 April 1959; F. 3-5. 1 June 1968; 1 July 1968; 6 February 1969; 24 February 1969;28 May 1910; F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Moore, Merrill, (1)'; 20 August 1952; F. 1-9.Moriarty, Wilson P. (Pat), (1); 30 September 1969 (to Mr. Purdy); F. 6-10. Niles, Henry E., (1); 28 November 1966; F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Orr, William F., (12); 21 July 1956; 15 November 1956; 12 November 1951 a(to Seymour D. Vestermark); 23 September 1958 (to John W.</persname>
-</indexentry>
-<indexentry>
-<persname>Patterson); 1 January 1959 (to Richard Massey); 11 February 1959; 19 May 1959; 13 August 1959; 21 April 1960 (to S.a</persname>
-</indexentry>
-<indexentry>
-<persname>Benjamin Fowler); 19 November 1960 (to John W. Patterson); 16 January 1961; F. 6-19. 1 March 1912; F. 1-9. .</persname>
-</indexentry>
-<indexentry>
-<persname>Owen, Guy, (3); 1 February 1961; 11 March 1961; 23 December 1961; F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Palmer, Rupert E., (1); 16 January 1914; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Pierce, Bob, (1); n.d. (to Board of Trustees); F. 6-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Pirvics, Juris, (1); 11 September 1959 (to Vanderbilt University Press); F. 3-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Poindexter, John W., (1); 11 January 1914; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Ponder, H.M., Jr., (1); 20 October 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Ponzine, Raymond E., (1); 24 July 1915; F. 6-16.</persname>
-</indexentry>
-<indexentry>
-<persname>Pratt, William C., (3); 18 April 1968; 10 May 1968;" 21 February 1914; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Purdy, Rob Roy, (8); 14 January 1964; 25 January 1964 (to John H. DeWitt, Jr.; F. 6-18. 8 October 1965; F. 1-10. 11 November 1965 (to John DeWitt, Jr.); F. 6-18. 21 February 1961; F. 1-10. 21 August 1969 (to Charles Nord and George E. Wilkins); F. 6-10. 9 February 1910 (to Nicholas Hobbs); F. 6-2. 12 November 1911; F. 6-1.</persname>
-</indexentry>
-<indexentry>
-<persname>Ragland, Charles S., (8); 22 May 1969; 17 June 1969; 20 November 1969; 11 February 1970 (to William Dickson); 16 February 1970 (to H.T. Chandler); 24 February 1970; 24 February 1970 (to William Dickson); 16 March 1970; F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Ragland, Mary Harding (Mrs. Stuart), (1); 16 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Rand, Norfleet H., (2); 23 February 1970; 30 March 1970; F. 6-6.</persname>
-</indexentry>
-<indexentry>
-<persname>Randall, Elsie, (1); July 1967; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Randall, Harry, (1); 2 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Ransom, John Crowe, (2); 16 November 1970 (to Roy P. Basler); 24 November 1970; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Ream, Mrs. Mary Nelson, (1); 24 April 1959; F. 3-5. Sales Report, (1); 26 July 1976; F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Sanders, lone Overton, (1); Christmas 1975 (card); F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Sanderson, William F., (1); 29 September 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Shapiro, John L., (1); 29 March 1972; F. 6-7.</persname>
-</indexentry>
-<indexentry>
-<persname>SUnpkins, Irby C., Jr., (1); 14 October 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>SUnpson, James A., (6); 30 October 1967; 3 November 1967; F. 6-17. 7 February 1969 (to William S. Vaughn); 17 June 1969; 1 October 1969; 24 October 1969; F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Smith, L.H., (4); 25 February 1957 (to William F. Orr); 20 October 1958 (to John A. Preston); 17 November 1958 (to John H.</persname>
-</indexentry>
-<indexentry>
-<persname>Stambaugh); 8 December 1958 (to John H. Stambaugh); F. 6-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Smith, Mrs. Mapheus, (1); 15 December 1969; F. 6-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Smith, Willa, (1); 6 October 1971; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Stahlman, James G., (3); 5 June 1965 (to Fort Flowers); F. 6-12. 9 January 1969 (to Harvie Branscomb); F. 6-14. 13 October 1969 (to H. Fort Flowers); F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Stevenson, Alec Brock, (7); 15 October 1961; F. 1-9. 13 April 1965; 11 October 1965 (to Rob Roy Purdy); F. 1-10. 20 March 1966; F. 6-12. 12 July 1966 (to John L. Stewart); F. 1-9. 25 September 1968; F. 6-17. 20 December 1968; F. 6-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Stirling, Edwin, (1); 28 August 1974; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Stokes, Walter, (1); 10 June 1965; F. 6-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Sullivan, Walter, (1); 2 April 1968; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Swint, Henry Lee, (1); 26 September 1972; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Taber, David Spencer, (2); 22 February 1972; 20 March 1972; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Tate, Allen, (52); 1 June 1927; 4 June 1958; 6 April 1962; 8 May 1962; 18 May 1962; 21 September 1962 (to Matt Wigginton); 15 February 1966; 18 August 1966; 7 November 1966; 17 November 1966; 21 January 1968; 31 January 1968; 16 February 1968; 22 March 1968; 27 May 1968 (card); 9 June 1968 (card); 29 June 1968 (card); 7 August 1968; 10 September 1968; 17 September 1968; 22 December 1968; 12 January 1969; 7 February 1969; 8 March 1969; 19 March 1969; 11 May 1969; 26 June 1969; 16 July 1969; 10 September 1969; 26 September 1969; 18 March 1970; 7 June 1970; 7 August 1971; 3 May 1972; 1 March 1973; 9 January 1974; 21 January 1974 (card); 17 February 1974 (card); 1 April 1974 (card); 5 April 1974; 29 July 1974; 13 August 1974; 3 October 1974; 20 November 1974; 1 December 1974; 5 January 1975; 17 January 1975; 24 March 1975; 30 October 1975; 26 February 1976; 31 July 1976 (card); F. 1-11, 1-12</persname>
-</indexentry>
-<indexentry>
-<persname>Tate, Benjamin, (1); 9 April 1959; F. 1-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Tate, Caroline Gordon, (3); 19 December 1975; 26 January 1976; 7 February 1976; F. 1-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Tate, Helen (Mrs. Allen), (3); 5 January 1975; 10 November 1975; 3 January 1976; F. 1-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Tharp, Peter J., (2); 21 April 1966; 17 May 1966; F. 1-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Thist1ethwaite, Donald L., (1); 17 May 1971; F. 6-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Thomas, Alexine P., (1); 2 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Thompson, Lawrence S., (1); 19 March 1964; F. 1-12.</persname>
-</indexentry>
-<indexentry>
-<persname>Tinsley, Jane, (1); 10 December 1975; F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Trabue, Charles C., Jr., (1); 12 February 1970 (to William S. Vaughn); F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Van Antwerp, Chiles, (1); 17 December 1951; F. 1-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Vanderbilt, Harold S., (2); 28 June 1965; F. 6-12. 23 October 1967; F. 6-17. .</persname>
-</indexentry>
-<indexentry>
-<persname>Vanderbilt William H., (4); 17 April 1969; 14 October 1969; 21 February 1970; F. 6-2. 10 April 1971; F. 6-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Vaughn, William S., (15); 3 February 1969; 25 February 1969; 12 June 1969; F. 6-2. 16 October 1969; F. 6-17. 19 November 1969 (to Pace Van Devender); 16 January 1970; 5 February 1970 (to Charles C. Trabue, Jr., and Mrs. Albert Werthan)j 10 February 1970 (to Mrs. Albert Werthan); 26 June 1970; 10 July 1970 (to Merrimon Cuninggim); 10 July 1970; F. 6-2. 9 September 1970 (to William Waller); F. 6-17. 10 November 1971; 19 November 1971; 19 November 1971 (to</persname>
-</indexentry>
-<indexentry>
-<persname>John Gaventa); F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Vestermark, Seymour D., (1); 20 November 1957 (to William F. Orr); F. 6 -19 .</persname>
-</indexentry>
-<indexentry>
-<persname>Walker, Dorothy (Mrs. Marion R.), (1); 14 May 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Waller, William, (8); 2 November 1967; F. 6-17. 18 February 1969 (to</persname>
-</indexentry>
-<indexentry>
-<persname>William S. Vaughn); 21 February 1969; 14 April 1969; 25 September 1969; F. 6-2. 14 September 1970 (to William S. Vaughn); 19 October 1970; F. 6-17. 21 Oct~ber 1970; F. 6-2.</persname>
-</indexentry>
-<indexentry>
-<persname>Warren, Austin, (1); 31 January 1976; F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Warren, Robert Penn, (11); 11 May 1956; 8 November 1966; 9 April 1967; 9 June 1967; 14 April 1968; 11 May 1968; 12 June 1969; 16 October 1969; 23 September 197?; 14 October 1972; 8 September 1975;F. 1-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Waterman, Steve, (2); 28 October 1976; 19 January 1977; F. 6-11.</persname>
-</indexentry>
-<indexentry>
-<persname>Wheelock, John Hall, (1); 5 January 1976; F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Whiteman, Marilyn W., (1); 10 September 1976; F. 1-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Wigginton, Matt S., (20); 27 September 1962 (to Allen Tate); 23 December 1964; F. 1-13. 14 December 1967; 31 July 1968; F. 6-13. 7 January 1969; 14 January 1969 (to Frank P. Grisham); 14 January 1969 (to H. Fort Flowers); 21 January 1969; 21 January 1969 (to H. Fort Flowers); F. 6-5. 21 January (to Alexander Heard); F. 6-15. 29 April 1969 (to Frank Grisham); 29 April 1969 (to H. Fort Flowers); F. 6-5. 28 May 1969; 3 June 1969; 3 June 1969; 12 August 1969 (to Edwin S. Gardner); F. 6-13. 7 October 1969 (to Kenneth W. MacKenzie); F. 6-10. 24 April 1970; 30 April 1970; F. 1-13. 15 May 1972; 9 June 1972; F. 1-13. 12 October 1972; 16 August 1976; F. 6-11.</persname>
-</indexentry>
-<indexentry>
-<persname>Wilcoxon, Reba, (2); 1 August 1975; 10 October 1975; F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Williams, Fred, (1); 22 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Williams, Margaret, (3); 6 May 1959; F. 3-5. 14 November 1966; 10 August 1970; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Williamson, John A., (1); 10 November 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Wills, Elizabeth M., (2); April 1959; F. 3-5. 30 August 1969; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Wills, Judy (Mrs. Matthew B.), (2); 1 April 1959; 9 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Wills, Ridley, (1); 17 December 1976 (to Harold F. Miller, Jr.); F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Wolfe, Marice, (1); 4 March 1974; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Woolmer, J. Howard, (2); 27 October 1973 (to Frank P. Grisham); 29 August 1974 (to Frank Grisham); F. 6-13. Young, Thomas Daniel, (23); 15 May 1967; 27 November 1968; 16 January 1969; 5 March 1969; 19 September 1969; 2 October 1969; 10 February 1970; 23 February 1970; (22 December 197Q\; 14 July 1971; 26 July 1971; 19 May 1972; 19 July 1972; 30 August 1972; 13 October 1972; 3 December 1973; Christmas 1973 (card); 9 January 1974; 8 February 1974; 12 July 1974; 6 August 1974; 30 October 1975; [26 May 1976~l; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Wilcoxon, Reba, (2); 1 August 1975; 10 October 1975; F. 5-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Williams, Fred, (1); 22 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Williams, Margaret, (3); 6 May 1959; F. 3-5. 14 November 1966; 10 August 1970; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Williamson, John A., (1); 10 November 1969; F. 6-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Wills, Elizabeth M., (2); April 1959; F. 3-5. 30 August 1969; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Wills, Judy (Mrs. Matthew B.), (2); 1 April 1959; 9 April 1959; F. 3-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Wills, Ridley, (1); 17 December 1976 (to Harold F. Miller, Jr.); F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Wolfe, Marice, (1); 4 March 1974; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Woo lmer, J. Howard, (2); 27 October 1973 (to Frank P. Grisham); 29 August 1974 (to Frank Grisham); F. 6-13.</persname>
-</indexentry>
-<indexentry>
-<persname>Young, Thomas Daniel, May November 7</persname>
-</indexentry>
-<indexentry>
-<persname>January March September October 1976'-l; Incomplete signatures: Aurelia, (1); 9 April 1959; F. 3-5. Cousin Carrie, (1); 16 June 1959; F. 3-5. Fanny (to Ellen Wills), (1); 1959; F. 3-5. Julia Fay, (1); 15 April 1959; F. 3-5. No signature: (I); 4 April 1969; F. 1-14.</persname>
-</indexentry>
-<indexentry>
-<persname>Miscellaneous essays and reviews by Jesse E. Wills:</persname>
-</indexentry>
-<indexentry>
-<persname>Review. The Dream Songs by John Berryman.</persname>
-</indexentry>
-<indexentry>
-<persname>Holograph and typed carbon; 1-15.</persname>
-</indexentry>
-<indexentry>
-<persname>Review. The Eguilibrist: A Study of John Crowe Ransom's</persname>
-</indexentry>
-<indexentry>
-<persname>Poems~ 1916-1963 by Robert Buffington. typed carbon; 1-15.</persname>
-</indexentry>
-<indexentry>
-<persname>"Memoirs of Far Hills." typed carbon; 1-15.</persname>
-</indexentry>
-<indexentry>
-<persname>"For Coffee House." photocopy; 1-15.</persname>
-</indexentry>
-<indexentry>
-<persname>"Professor C.B. Wallace and Wallace School .. " typed carbon; 1-15.</persname>
-</indexentry>
-<indexentry>
-<persname>Newspaper clippings:</persname>
-</indexentry>
-<indexentry>
-<persname>Donald Davidson</persname>
-</indexentry>
-<indexentry>
-<persname>25 April 1968, Obituary Notice; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>26 April 1968, Nashville Banner: "Davidson Rites Slated; Famed Poet."; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>26 April 1968, Nashville Tennessean: "Prof. Davidson, 1 Fugitive'. Poet~ Dies at 72.": 1-16. .</persname>
-</indexentry>
-<indexentry>
-<persname>26 April 1968, Nashville Banner: "Donald Davidson," editorial; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>27 April 1968, Nashville Tennessean: "Mr. Davidson was Rare Figure," editorial; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>28 April 1968, Nashville Tennessean: "Gentle and Dear Friend" by Floy Beatty; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>21 May 1968, National Review: "Donald Davidson, RIP." ;1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>24 July 1968, Nashville Banner: IfJUL Acquires Papers of 'Fugitive' Dr. Davidson .. " ;1-16. John Crowe Ransom 6 July 1967, Nashville Tennessean: "Ransom Picked To Receive $10,000 Prize. ff ;1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>31 December 1967, Nashville Tennessean: "Ransom Study Most Thorough." Reviewed by Jesse Wills;1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>25 April 1969, Nashville Banner: "Writers Conference at Cumberland May 2."; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>26 April 1968, Nashville Tennessean: "Fugitive To Be Feted on 80th."; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>29 April 1968, Nashville Banner: "J.C. Ransom, 'Fugitive' To Be Honored."; 1-16. 14 May 1968, Vanderbilt Hustler: "Fugitive John Crowe Ransom Wins Emerson-Thoreau Medal. lf; 1-16. 4 July 1974, Tennessean: "Ransom, Fugitive Poet, Dies."; 1-16. Alec B. Stevenson</persname>
-</indexentry>
-<indexentry>
-<persname>27 May 1969, Obituary; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>27 May 1969, Nashville Banner:"Alec B. Stevenson Dies, Rites at 3 Wednesday."; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>28 May 1969, Nashville Tennessean: "Alec Stevenson Services Today.lt; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>28 May 1969, Nashville Banner: "Alec B. Stevenson," editorial; 1-16. 30 May 1969, Nashville Tennessean: "Mr. Stevenson Will Be Missed .. "; 1-16. Eldon Stevenson, Jr. 4 March 1970, Nashville Banner: "vu Names Science Center In Honor of Stevenson." Allen Tate 7August 1966, Nasbyillg Tgnnessean: "Allen Tate Marries Miss Heinz. ,. ; 1-16. 12 January 1969, : "Churches To Present U.S. Leaders" by Charles Thompson; 1-16. 1 June 1969, Nashville Tennessean: "Compleat Allen Tate," reviewed by M. Thomas Inge; 1-16. 5 October 1975, Nashville Tennessean: "Allen Tate's Latest Traces His Development" by Sara Morrow; 1-16 ..</persname>
-</indexentry>
-<indexentry>
-<persname>28 December 1975, Nashville Tennessean: "Sewanee's Tate Recipient of NY Literary Award. lf ; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>20 May 1976, Nashville Banner: "Allen Tate Awarded National Medal."; 1-16. </persname>
-</indexentry>
-<indexentry>
-<persname>n.d., Robert Penn Warren "Allen Tate To Receive Merrill Prize."; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>Robert Penn Warren</persname>
-</indexentry>
-<indexentry>
-<persname>11 April, Nashville Banner: "Three Major Writers, Critics To Speak at VU. tf ; 1-16. 19 April 1968, Nashville Banner: "Poetry Symposium Draws Heavy Crowd'at Vanderbilt," by Howell Pearre; 1-16. </persname>
-</indexentry>
-<indexentry>
-<persname>19 April 1968, Nashville Tennessean: "'Fugitive' Cites Chaos in Words at VU Talk" by Rhodes Johnston.; 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>31 July 1970, Women's Wear Daily: "Tall, Graceful Eleanor Clark is a Natural," by Brenda Badolato. (Eleanor Clark is Mrs. Robert Penn Warren.); 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>10 November 1974, The Tennessean: "Collected Poems Span Six Years." Review of nOr Else: Poem/Poems 1968-1974." Reviewed by Frances Neel Cheney. 1-16. n. d. ffRobert Penn Warren Wins aBollingen Prize In Poetry.u 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>n.d. "Warren's Poetry Honored." 1-16. Jesse Ely Wills</persname>
-</indexentry>
-<indexentry>
-<persname>11 November 1954, Nashville Banner: uPhi Beta Kappa Selection Honors Four VU Alumni." 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>17 January 1971, Nashville Tennessean: "Poet in the Money Making Bu~inessu by Louise Davis. 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>5 November 1971, Nashville Banner: "vu Trustees Elect Two New Life Members.: 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>William R. Wills n~-d. Obituary Notice. 1-16. Others 23 March 1960, Nashville Tennessean: trVU Divinity School</persname>
-</indexentry>
-<indexentry>
-<persname>Alumni Ask Lawson Reinstatementff by Edmund Willingham. 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>21 April 1968, Nashville Tennessean: "'Fugitives' Reaffirm Need for Man's Individuality.u 1-16.</persname>
-</indexentry>
-<indexentry>
-<persname>23 January 1974, The Tennessean: "Richard Wilbur Slated at Vanderbilt Tonight. 1f 1-16. aPhotographs:</persname>
-</indexentry>
-<indexentry>
-<persname>Sculptured bust of Robert Penn Warren by Joan Fitzgerald, four views; 1-17.</persname>
-</indexentry>
-<indexentry>
-<persname>Sculptured bust of Ezra Pound by Joan Fitzgerald; 1-17.</persname>
-</indexentry>
-<indexentry>
-<persname>Essays, statements by others:</persname>
-</indexentry>
-<indexentry>
-<persname>Davidson, Donald. Introduction to Peter Smith reprint of The.Fugitive. typed carbon; 1-18.</persname>
-</indexentry>
-<indexentry>
-<persname>Kaser, David. A Fugitive Collection in the Joint University Libraries. typed; 1-18.</persname>
-</indexentry>
-<indexentry>
-<persname>Moore, Merrill. On the First Presbyterian Church in Nashville, Tennessee. photocopy, negative; 1-18.a</persname>
-</indexentry>
-<indexentry>
-<persname>Taylor, Peter with William Breit, Leland Yeager. James Muir</persname>
-</indexentry>
-<indexentry>
-<persname>Waller, 1900-1971. electrostatic copy; 1-18.</persname>
-</indexentry>
-<indexentry>
-<persname>Van Antwerp, Chiles. The Old Oak Club. ,mimeograph copy; 1-18.</persname>
-</indexentry>
-<indexentry>
-<persname>Reprints, material by others:</persname>
-</indexentry>
-<indexentry>
-<persname>Aden, John M. "Student Revolt and the Humani,ties: A NonNegotiable</persname>
-</indexentry>
-<indexentry>
-<persname>Dissent." Southern Humanities Review,</persname>
-</indexentry>
-<indexentry>
-<persname>Vol. 5, Spring 1971. 1-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Jones, David Howell. Announcement of Donald Davidson: An</persname>
-</indexentry>
-<indexentry>
-<persname>Essay and ~ Bibliography. l-l~</persname>
-</indexentry>
-<indexentry>
-<persname>Tate, Allen. "A Lost Traveller's Dream." Michigan Quarterly</persname>
-</indexentry>
-<indexentry>
-<persname>Review, Autumn 1972. 1-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Warren, Robert Penn. "Who is Relevant?U Yale Alumni Magazine,</persname>
-</indexentry>
-<indexentry>
-<persname>February 1971. 1-19.</persname>
-</indexentry>
-<indexentry>
-<persname>Miscellaneous papers:</persname>
-</indexentry>
-<indexentry>
-<persname>American Committee for Cultural Freedom. Statement. 1-20.</persname>
-</indexentry>
-<indexentry>
-<persname>Mizener Papers. Bill of Sale. 1-20.</persname>
-</indexentry>
-<indexentry>
-<persname>Maxey Jarman Kitchen Cabinet. Two Membership cards. 1-20.</persname>
-</indexentry>
-<indexentry>
-<persname>SEE NEXT PAGE</persname>
-</indexentry>
-</index>
-<dsc type="othertype">
-<table frame="none">
-<tgroup cols="3">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">The Age We Live In</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1937</entry>
-</row>
-<row>
-<entry colname="1">America and the Crisis</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1941</entry>
-</row>
-<row>
-<entry colname="1">The Battle of Midway</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1950</entry>
-</row>
-<row>
-<entry colname="1">A Business Man Looks at Labor Unions</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1947</entry>
-</row>
-<row>
-<entry colname="1">Catechism on Present and Future</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1936</entry>
-</row>
-<row>
-<entry colname="1">Changes on the Weather</entry>
-<entry colname="2">Coffee House</entry>
-<entry colname="3">1957</entry>
-</row>
-<row>
-<entry colname="1"></entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1958</entry>
-</row>
-<row>
-<entry colname="1">Impressions of a Traveler Concerning Williamsburg, Virginia</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1937</entry>
-</row>
-<row>
-<entry colname="1">In the Matter of John Masefield The Problems of Air Power</entry>
-<entry colname="2">Old Oak Club Coffee House Old Oak Club</entry>
-<entry colname="3">1969 1943</entry>
-</row>
-<row>
-<entry colname="1">Prose and Poetry</entry>
-<entry colname="2">Old Oak Club Coffee House</entry>
-<entry colname="3">1961</entry>
-</row>
-<row>
-<entry colname="1">The Revolutions Around Us</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1965</entry>
-</row>
-<row>
-<entry colname="1">A Southern Christian Considers Race</entry>
-<entry colname="2">Old Oak Club</entry>
-<entry colname="3">1952</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-<c01 level="item">
-<did>
-<unittitle>The list of poems is alphabetically arranged. Those marked with an asterisk appear in the volume, Early and Late, All the 4 poems on this list are contained in Box 2, Folders&#34;&#34;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#9830;&#34;Agriochaerus&#34;. 1 typescript, 1 carbon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#9830;&#34;Arlington National Cemetary&#34;. 1 typescript, holograph note</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#9830;&#34;Aunt Minnie I, II, III&#34;. 1 typescript</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#9830;&#34;Automobile Ride&#34;. 1 typescript, 4 carbons</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Black Sheep&#34;. 1 typescript<emph render="italic">%</emph> 1 carbon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Changes&#34;. 1 typescript, holograph revisions &#9830;&#34;Consider the Heavens&#34;. 2 carbons</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Crystal Gazer&#34;. 2 carbons</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Depths&#34;. 1 typescript &#9830;&#34;Dream&#34;. 2 holograph, 2 typescript &#9830;&#34;Dust&#34;. 1 typescript, 1 carbon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Eden&#34;. 2 typescript with holograph revisions, 3 carbons, 1 holograph note</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;False Dawn&#34;. 1 typescript, 1 carbon &#9830;&#34;Fear I, II&#34;. 1 typescript entitled &#34;Egomania&#34;, 1 carbon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Felix Adair&#34;. 2 typescript, 4 carbons</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;From a Window&#34;. 2 holograph, 1 typescript &#9830;&#34;A Fundamentalist&#34;. 1 typescript, 4 carbons &#9830;&#34;Healing&#34;. 1 typescript, 1 carbon &#9830;&#34;The Hills Remember&#34;. 1 typescript, 2 carbons</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Lausanne&#34;. 1 typescript &#9830;&#34;Lightning&#39;s Blink&#34;. 1 typescript, 2 carbons &#9830;&#34;Night Windows&#34;. 2 carbons &#9830;&#34;Parable&#34;. 3 carbons &#9830;&#34;Premonition&#34;, 1 typescript, 1 carbon &#9830;&#34;Primavera&#34;, 1 typescript, 1 carbon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Proposal&#34;. 1 typescript with notes in another hand, 3 carbons &#9830;&#34;Red Even&#34;. 3 holograph, 1 carbon &#9830;&#34;Riddle&#34;. 1 holograph, 1 typescript, 2 carbons &#9830;&#34;Snow Prayers I, II, III&#34;. 1 typescript, 3 carbons &#9830;&#34;The Survivors&#34;. 1 carbon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Three Rabbits&#34;. 1 typescript &#9830;&#34;To a Tired Clerk&#34;. 2 carbons &#9830;&#34;To the Bugle Not Blown&#34;. 1 holograph &#9830;&#34;Trinity&#34;. 1 typescript, 1 carbon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#252;ntltled poem: &#34;I Tossed an Arm Out...&#34;. 1 typescript with holograph</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>revision, 1 typescript, 2 carbons. Fragments: 8 pages holograph</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Poems are listed in alphabetical order.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>Location key: J Juvenilia F Fugitive EL Early and Late CP Conversation Piece N Nashville and Other Poems</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Agriochaerus,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;And Fifty Years,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;And Will Be?&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Arlington National Cemetary,&#34; F,EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Armageddon,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Artisans,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Atom End,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Audubon,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Aunt Minnie,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Automobile Ride,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Bat Magic,&#34; EL &#34;Belleek Valentine,&#34; EL &#34;Biography,&#34; N &#34;Black Sheep,&#34; F &#34;Boy and Bird,&#34; N &#34;Bystander,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Canticle for Animals,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Cape Cod, 1960,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Casual Reference, Book Obscure,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Centuries,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Changes,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Conjunction,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Consider the Heavens,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Contrast,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Conversation Piece,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Crystal Gazer,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Deliver Us,&#34; N &#34;The Depths,&#34; F &#34;Devil&#39;s Advocate,&#34; EL &#34;Discovery,&#34; EL &#34;Domina,&#34; N &#34;Double View,&#34; J &#34;Dream,&#34; F, EL &#34;Dust,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Eden,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Estes Park, 1919,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Evening Grosbeak,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Extinction,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Ex-Wizardry,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Fall Mockery,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;False Dawn,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Fear,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Felix Adair,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Final Note,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Flesh of Flowers,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;For a Daughter,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;For My Father,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Form and Formless,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;From a Window,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Full Circle,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;A Fundamentalist,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Generations,&#34; N &#34;Gone,&#34; N &#34;Gray,&#34; CP &#34;Green,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Half Men,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Half Said,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Happenstances,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Happy Home,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Harbor Changes,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Healing,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Hermitage,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;High Moment,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Hills Remember,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;I Have Known Many,&#34; EL &#34;I Would Give Thanks,&#34; EL &#34;In the Day-Coach,&#34; J &#34;Incognito,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Last Confederate,&#34; CP &#34;Lausanne,&#34; F &#34;Less Seriously,&#34; N &#34;Libraries,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>JL JL JL %&#8217; &#8226; &#8226; *J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Lightning&#39;s Blink,&#34; F, EL &#34;The Lights Go Out,&#34; N &#34;Love&#39;s End,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Man Who Really Knew,&#34; EL &#34;Meditations of a Wasp,&#34; N &#34;The Metal from the Ore,&#34; EL &#34;Miracle,&#34; EL &#34;Misery,&#34; J &#34;Misgiving,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Nashville,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Night Windows,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;November, 1957,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Of Many Mockingbirds,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Old Leaves,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;On a Picture of Earth,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;On Hearing of the Death of a Friend,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Once,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Optimist,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Parable,&#34; F, EL &#34;Pictures Out of Frame,&#34; EL &#34;Prayer,&#34; EL &#34;Premonition,&#34; F, EL &#34;Primavera,&#34; F, EL &#34;The Proposal,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Question,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Question Mark and Elegy,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Red,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Red Even,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Rejuvenescence,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Remembrances&#8212;For D.D.,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Requiem for a Church Condemned,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Requiescat,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Revery,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Riddle,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;A Rondeau to Dreams,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;A Rondeau to Louise,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Safeguards,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Salute to T.L.T.,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Savage,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;September,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Seven Days,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Six Sonnets to the Bridge Club,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Snow Prayers,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Spring,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Survivors,&#34; F, EL &#34;The Swallows Speak,&#34; J &#34;Sword and Spirit,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Thomason the Historian,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Three Rabbits,&#34; F</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Three Sonnets to Jones,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Through the Window,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Time Worn,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;To a Portrait of Ellen,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;To a Tired Clerk,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;To the Bugle Not Blown,&#34; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Treason,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Trinity,&#39;&#8226; F, EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Two Children,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Underground,&#34; N &#34;Upside Down,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Veterans,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Warbler,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Watchers,&#34; EL</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;The Waters Above and Below,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;What Things Endure,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Whence,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;White,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Whose,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Why,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Winter Garden,&#34; CP</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Winter Rite,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Wisdom,&#34; J</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Within the Storm,&#34; N</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<unittitle>&#34;Words,&#34; EL</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Wills, Jesse Ely Papers</titleproper>
+        <titleproper>Finding Aid for the Jesse Ely Wills Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Jesse Ely Wills Papers</unittitle>
+      <unitid>MSS.0001</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.52 linear_feet</extent>
+      </physdesc>
+      <unitdate>1912 &#8217; 1920</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography/Scope and Content Note</head>
+      <p>Jesse Ely Wills, 1899-1977, a Nashville native, was a member of the group of poets who met in Nashville in the early 1920&#39;s to write and publish the influential literary magazine
+        <emph render="italic">The Fugitive</emph>. He was an officer and executive of the National Life and Accident Insurance Company during his business career and was active in Vanderbilt University affairs as a member of the Board of Trust and chairman
+        of the Board of the Joint University Libraries.</p>
+      <p>This collection contains literary correspondence, poems, and manuscripts of poet and businessman Jesse Ely Wills.</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="folder">1.</container>
+          <unittitle>Correspondence - Outgoing. 1952-77. Arranged chronologically. 484 letters, the bulk of which consists of typed carbons. Folders 1-6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">1.</container>
+          <unittitle>Correspondence - Incoming. 1951-76. 492 letters, most typed, many holograph. Six postcards, three Christinas cards. Two telegrams. Arranged alphabetically according to sender. Folders 7-14.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">1.</container>
+          <unittitle>Enclosures - Miscellaneous essays and reviews by Jesse E. Wills, newspaper clippings, photographs of Robert Penn Warren bust, essays by others, reprint essays of others, items showing his relationship with Allen Tate, miscellaneous papers.
+            Folders 15-21.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">2.</container>
+          <unittitle>Old Oak and Coffee House Papers 1930-1969, including drafts and later supplements to the papers. Folder 1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">2.</container>
+          <unittitle>Juvenilia, c. 1915-20. Folder 2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">2.</container>
+          <unittitle>Fugitive verse, 1922-25. Folders 3-4.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">2.</container>
+          <unittitle>Economic Discussion Group, 1931-33. Folder 5.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">3</container>
+          <unittitle>Early and Late - Rough drafts, intermediate and final drafts, typescript (printer&#39;s &#39;copy), page proofs, business correspondence, congratulatory correspondence, reviews. Folders 1-6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">3</container>
+          <unittitle>Notes, remarks on poetry readings. Folder 7.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">3</container>
+          <unittitle>Introduction of Jesse E. Wills on occasion of a poetry reading, 12 November 1971, by Frances Neel Cheney. Folder 8.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">3</container>
+          <unittitle>Tapes of poetry reading by Jesse E. Wills. 12 November 1971, 14 November 1973. Script of WPLN broadcast with Lin Folk, 8 April 1977. Folder 9.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">3</container>
+          <unittitle>Meditations on the American Indian - Drafts, typescript (printer&#39;s copy), page proofs, published copy in paper cover. Folders 10-12.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">4</container>
+          <unittitle>Conversation Piece - Notes and early drafts, intermediate and final drafts, page proofs, analytical letter from Donald Davidson. Folders 1-5.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">4</container>
+          <unittitle>Nashville and Other Poems - Notes and early drafts, intermediate and final drafts, typescript (printer&#39;s copy), page proofs. Folders 6-11.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">5</container>
+          <unittitle>Selected Poems - Early drafts, page proofs, correspondence&#187; reviews. Folders 1-3.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">5</container>
+          <unittitle>&#225;. Diversity of Interests - Draft copies, typescript, printer&#39;s copy, correspondence, essays not included in the publication, published copy in paper covers. Folders 4-9.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">5</container>
+          <unittitle>Occasional verse. Folder 10.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">5</container>
+          <unittitle>&#34;First Lady&#34; - Several drafts of a contemplated poem on Mrs. John F. Kennedy. Not completed. Folder 11.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">6</container>
+          <unittitle>Vanderbilt affiliations - Correspondence and reports concerning committee work. List of Committees follows: Academic Programs Committee. Folders 1-3. Ad hoc Committee on Composition of Undergraduate Student Body. .Folder 4. Committee for
+            Fort Flowers Wing Dedication. Folder 5. Committee on Naming Buildings. Folder 6. Committee on Strengthening Athletics. Folder 7. Educational Programs Committee. Folder 8. Ethiopian Microfilming Project. Folder 9. Fraternity Study Committee. Folder
+            10. Graduate School of Management. Folder 11. JUL Building Fund. Folder 12. JUL Fugitive Room. Folder 13. Lawson Case. Folder 14. Long-Range Financial Planning Committee. Folder 15.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="folder">6</container>
+          <unittitle>List of Committees continued: Ponzine, Raymond E. and Huber, Donald C. - Poetry Reading at Vanderbilt. Folder 16. Resolutions on the death of Vanderbilt Associates. Folder 17. Telecast of Basketball Games. Folder 18. W.R. Wills Center for
+            Psychiatric Treatment and Research. Folder 19.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Outgoing Correspondence Index</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Correspondence is listed chronologically. Folder indicated by abbreviation F.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <unitdate>1952</unitdate>
+          <unittitle>26 August to Merrill Moore; 26 August to Coley Harwell; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1954</unitdate>
+          <unittitle>8 November to George Mayfield; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1956</unitdate>
+          <unittitle>15 June to &#34;Red&#34; (Robert Fenn Warren); F. 1-1. 31 July to William F. Orr; F. 6-14. 5 September to William 0. Batts; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1958</unitdate>
+          <unittitle>30 April to Allen Tate; 9 June to Allen Tate; 9 June to . &#34;Bill&#34; (William Yandell Elliott); F. 1-1. 17 December to &#34;Lib&#34; (Mrs. R.D. Crabtree); F. 3-4.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1959</unitdate>
+          <unittitle>7 January to Rob Roy Purdy; F. 3-4. 7 April to Ann Leslie Moore; 10 April to Allen Tate; 29 April to Caroline Gordon; 18 May to Ann Leslie Moore; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>1960</unittitle>
+          <unittitle>10 March to Eldon Stevenson, Jr., (unsigned) ; F. 6-14. 22 April to Sally (Mrs. Lewis Barr Flinn, Jr.); F. 1-1. 2 June to Harvey Branscomb; F. 6-14. 29 December to Howard Hall; F. 6-14.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1961</unitdate>
+          <unittitle>22 February to Guy Owen; 26 December to Guy Owen; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1962</unitdate>
+          <unittitle>3 January to Guy Owen; 9 April to Allen Tate; 15 May to Allen Tate; 23 May to James M. Waller; 10 September to Mrs. Brainard Cheney; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1963</unitdate>
+          <unittitle>7 November to Andrew Lytle; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1964</unitdate>
+          <unittitle>9 January to Rob Roy Furdy; F. 6-18. 26 March to Lawrence S. Thompson; 24 December to Matt Wigginton; F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1965</unitdate>
+          <unittitle>24 May to Horace Hill; 11 June to Horace Hill; 14 June to Fort Flowers; 14 June to Alexander Heard; 14 June to Alexander Heard; 1 July to Harold Vanderbilt; F. 6-12. 3 August to Reber Boult; 12 October to Rob Roy Purdy; 18 October to
+            Frances Neel Cheney (Mrs. Brainard); F. 1-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1966</unitdate>
+          <unittitle>4 January to Jud Collins; 4 January to John H. Dewitt, Jr.; F. 6-18. 4 February to David Howell Jones; 9 February to Allen Tate; 10 February to Donald Davidson; 23 February to Allen Tate; 25 February to J. Lasley Dameron; F. 1-2. 18 March
+            to David Kaser; 18 March to Alec Stevenson; F. 6-12.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1966</unitdate>
+          <unittitle>29 April to Peter J. Tharp; 22 August to Allen Tate; 4 October to Edith H. Wolfe; 24 October to Alec Stevenson; 25 October to Donald Davidson; 25 October to John Crowe Ransom; 25 October to Allen Tate; 25 October to Robert Penn Warren; 30
+            October to Donald Davidson; 2 November to Margaret Williams; 14 November to Allen Tate; 15 November to Robert Penn Warren; 6 December to Henry E. Niles; F. 1-2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1967</unitdate>
+          <unittitle>5 April to Ridley Wills; 18 April to Rob Roy Purdy; 18 April to Rob Roy Purdy; 24 April to Steve (Alec B. Stevenson); 9 May to Robert Penn Warren, Alec B. Stevenson; 18 May to Donald Davidson; 22 May to Edwin F. Hunt; 25 May to Alec B.
+            Stevenson&#187; Rob Roy Purdy; 25 July to Robert Penn Warren; 4 August to Allen Tate; 11 October to Louis Farrell&#187; Jr.; 12 October to James K. Flack; 26 October to Margaret Williams; F. 1-2. 1 November to James A. Simpson, William Waller, Sr.;
+            F. 6-17. 15 November to James K. Flack; F. 1-2. 16 November to Robert L. Garner; F. 6-13. 18 December to Floy Beaty; F. 1-2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1968</unitdate>
+          <unittitle>12 January to Elizabeth and John K. Maddin; 24 January to James K. Flack&#187; Andrew Lytle; 25 January to Allen Tate; 13 February to Allen Tate; 5 March to Greg Tucker; 18 March to Allen Tate; 8 April to Robert Penn Warren; 22 April to
+            Robert Penn Warren, Matthew B. Wills; 24 April to William C. Pratt; 25 April to Allen Tate, Andrew Lytle; 7 May to James M. Waller; 20 May to William C. Pratt, Robert Penn Warren; 27 May to Allen Tate; F. 1-3. 28 May to David K&#228;ser; F. 6-13. 10
+            June to Ann Leslie Moore; 12 June to Edwin S. Gardner; 2 July to Allen Tate; 8 July to Mrs. Merrill Moore; F. 1-3. 8 July to Roy B. Basler; F. 6-13. 11 July to Ann Leslie Moore; 15 July to Allen Tate; 18 July to Robert Penn Warren; 1 August to Mr.
+            and Mrs. Allen Tate, Andrew Lytle; 5 August to Allen Tate; 6 August to Randolph Harrison; 3 September to Ernest Choate; 11 September to May (Mrs. David F, Hall); 16 September to Allen Tate, Pete (Robert L. Naylor); 18 September to Allen Tate; 23
+            September to Allen Tate; F. 1-3. 30 September to Alec B. Stevenson; F. 6-17. 9 October to Frank Grisham; F. 6-13. 20 November to Thomas D. Young; F. 1-3. 5 December to Alexander Heard; F. 6-5. 5 December to John aSloan; F. 6-7. 17 December to Alec B.
+            Stevenson, George Cate, Jr.&#187; Mrs. Albert Werthan, John Bransford; F. 6-5. 19 December to Allen Tate; 30 December to Edwin S. Gardner; F. 1-3.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1969</unitdate>
+          <unittitle>2 January to Alexander Heard, Matt S. Wigginton, George Cate, Jr., Mrs. Albert Werthan, John Bransford, Alec B, Stevenson; F, 6-5. 9 January to Allen Tate, Alec B. Stevenson; 13 January to T. Daniel Young; 20 January to Allen Tate; 3
+            February to Allen Tate; 4 February to Allen Tate, Thomas D. Young; 5 February to Allen Tate; F. 1-3. 5 February to Alec B. Stevenson; F. 6-13. 6 February to William S. Vaughn; F. 6-1. 6 February to 1969; Frank Grisham; F. 6-5. 10 February to Edwin S.
+            Gardner; F. 6-13. 10 February to Mrs. Merrill Moore; 11 February to Thomas Daniel Young, Allen Tate; 27 February to Themas Daniel Young; 4 March to Thomas Daniel Young, Mrs. Merrill Moore; 12 March to Allen Tate; 17 March to Frank P. Grisham; 18
+            March to Allen Tate; 19 March to Donald Davidson, Rob Roy Purdy; 31 March to Allen Tate, William Yandell Elliott, Robert Penn Warren; F. 1-3. 31 March to Madison S. Wigginton, Frank P. Grisham; F. 6-13. 10 April to James A. Simpson, William H.
+            Vanderbilt; F. 6-1. 10 April to Alec B. Stevenson; 14 April to Thomas F. Heffernan; F. 1-3. 15 April to William Waller; F. 6-1. 21 April to Mrs. Betsy Wilson; 20 April to Geddes Douglas, Sr.; 29 April to. Allen Tate; 29 April to Alec B. Stevenson; 19
+            May to William Yandell Elliott,;Allen Tate, Robert Penn Warren; 20 May to Carolyn and William A. Mc Donnell; F. 1-3. 26 May to Matt S. Wigginton; 27 May to Robert A. McGaw; F. 6-13. 27 May to Robert Penn Warren; 28 May to Edwin S. Gardner, William
+            Yandell Elliott; 29 May to Orrin W. Jones; F. 1-3. 2 June to Charles S. Ragland; F. 6-1. 3 June to Woodrow W. Wasson; F. 6-13. 12 June to Charles S. Ragland, James A. Simpson, Nicholas Hobbs; 16 June to Alexander Heard; F. 6-1. 16 June to Allen Tate;
+            17 June to William Yandell Elliott; F. 1-3. 18 June to Robert Penn Warren; F, 6-13. 18 June to Charles S. Ragland; F. 6-1. 30 June to Allen Tate, William Yandell Elliott; F. 1-3. 2 July to Rob Roy Purdy; F. 6-1. 7 July to Andrew Lytle; F. 1-3. 8 July
+            to Nancy Manning; F. 6-1. 13 August to William Yandell Elliott; F. 1-3. 28 August to Frank Baker; F. 6-13. 8 September to Allen Tate; F. 1-3. 10 September to Members of the Trustee Committee on Academic Programs of Vanderbilt University; F. 6-1&#187;
+            14 September to Robert A. McGaw, Mr. and Mrs. M.S. Wigginton; 15 September to Elizabeth Wills; F. 1-3. 16 September to Rob Roy PurdjF; F. 6-13. 16 September to Thomas Daniel Young; 17 September to Ann Leslie Moore, Robert Penn Warren; 24 September to
+            Allen Tate; 25 September to Thomas Daniel Young; 29 September to Thomas Daniel Young; F. 1-3. 30 September to Alexander Heard; F. 6-1. 20 October to William H. Vanderbilt; F. 6-1. 21 October to Robert Penn Warren; F. 1-3. 28 October to Andrew
+            Benedict, James G. Stahlman; F. 6-17. 29 October to Members of the Trust Committee on Academic Programs of Vanderbilt University; 29 October to Nancy Jane Manning; F. 6-1. 13 December to Mrs. Mapheus Smith; F. 6-13.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1970</unitdate>
+          <unittitle>13 January to Alexander Heard, William S. Vaughn; F. 6-1. 15 January to Robert McGaw; F. 6-6. 15 January to Robert McGaw, Mrs. Mapheus Smith; 19 January to GoIdle D. Hirsch; F. 6-13. 27 January to William S. Vaughn; F. 6-1. 29 January to
+            Forrest Read; F. 1-4. 4 February to Charlie Ragland; F. 6-1. 5 February to Andrew Lytle,Robert Penn Warren; F. 1-4. 5 February to Nicholas Hobbs; 9 February to William Waller; F. 6-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1970</unitdate>
+          <unittitle>9 February to Eldon Stevenson; F. 6-6. 16 February to Mrs. Albert Werthan; F. 6-1. 16 February to Mrs. Albert Werthan and Norfleet H. Rand; 19 February to Alexander Heard; F. 6-6. 19 February to William H. Vanderbilt, Charles Ragland; F.
+            6-1. 2 March to Allen Tate; F. 1-4. 16 March to Norfleet H. Rand; F. 6-6. 17 March to Charles S. Ragland; F. 6-1. 23 March to Allen Tate; F. 1-4. 25 March to Alexander Heard; 26 March to Alexander Heard; F. 6-6. 26 March to Members of the Trust
+            Committee on Academic Programs of Vanderbilt University; F. 6-1. 22 April to Members of the Trustee Committee on Academic Programs &#242;f Vanderbilt University; F. 6-8. 27 April to Matt Wigginton; F. 1-4. 28 April to Robert McGaw; F. 6-6. 25 May to
+            Mrs. Merrill Moore; 9 June to Mrs. Merrill Moore; 10 June to Allen Tate, William W. Force; F. 1-4. 6 July to William S. VaVghn; F. 6-1. 8 July to William Yandell Elliott; F. 1-4. 9 July . to Mrs. Harold S. Vanderbilt; 22 July to Merrimon Cuninggim;
+            F. 6-1. 17 August to Maxey Jarman; 20 August to Margaret Williams; F. 1-4. 14 September to William S. Vaughn; F. 6-17. 17 September to Nicholas Hobbs, William Waller, Merrimon Cuninggim; F. 6-1. 21 October to William Waller; F. 6-17. 26 October to
+            William Waller; F. 6-1. 11 November to Alexander Heard; F. 6-13. 12 November to Vernon Sharp; F. 1-4. 18 November to Robert L. Garner; F. 6-8. 30 November to Allen Tate, John Crowe Ransom; 14 December to Jean and Alexander Heard; 23 December to
+            Thomas D. Young; F. 1-4.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1971</unitdate>
+          <unittitle>16 January to Randolph Batson; 18 January to Robert A. McGaw; 20 January to Matthew B. Wills; 20 January to Robert Sturdivant, Aubrey Harwell; 21 January to Louise Davis; 25 January to Thomas Daniel Young, Allen Tate; 1 February to Mrs.
+            Donald Davidson; 2 February to Jane S. Whitman; 2 March to Walter R. Courtenay; 9 March to Edgar H. Duncan; 15 March to Victor S. Johnson; 16 March to Archie Henry; F. 1-4. 17 March to Frank P. Grisham; F. 6-13. 17 March to Nicholas Hobbs; 24 March
+            to Nicholas Hobbs, Members of the Educational Programs Committee; F. 6-8. 18 March to Thomas D. Young; F. 1-4. 7 April to Allen Tate; 27 April to Chase A. Horton; F. 1-4. 3 May to David E. Wood; F. 6-4. 5 May to Ralph R. Kirkendall; F. 1-4. 6 May to
+            Donald L. Thistlethwaite; 18 May to Donald L. Thistlethwaite; F. 6-4. 19 May to John M. Aden; 7 June to Robert P&#233;nn Warren; 21 June to Mrs. Winston Caldwell; 22 June to Frances Neel Cheney; 30 June to Allen Tate; 15 July to Alexander Heard; 17
+            July to Thomas Daniel Young; 2 August to Allen Tate; 3 August to Frank P. Grisham; F. 1-4. 9 August to William S. Vaughn; F. 6-1. 29 September to T. H. Hlrschfield; F. 1-4. 30 September to William S. Vaughn; 11 October to Rob Roy Purdy; F. 6-1. 11
+            October to Mrs. Mapheus Smith; F. 1-4. 13 October to Rob Roy Purdy; F. 6-1. 14 October to Frank Grisham; 1 November to Thomas Daniel Young; 15 November to William Waller; F. 1-4. 15 November to Rob Roy Purdy; F. 6-7. 15 November to Barry L. Master;
+            F. 6-4. 15 November to William S. Vaughn; F. 6-1. 16 November to Robert A. McGaw; 24 November to Frank P. Grisham; 29 November to Fannie (Mrs. Brainard) Cheney; 30 November to</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1971</unitdate>
+          <unittitle>Thomas Daniel Young; 9 December to Allen Tate; 20 December to Frank P. Grisham; 21 December to Allen Tate; 31 December to Frank P. Grisham; n.d. December to Frederick J. Dockstader; F. 1-4.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1972</unitdate>
+          <unittitle>24 January to Thomas Daniel Young; 25 January to Andrew Lytle; 3 February to Herschel Gower; 16 February to Mrs. Brainard Cheney, Frank P. Grisham; 21 February to Rob Roy Purdy; 28 February to David Spencer Taber; 14 March to William F.
+            Orr; 20 March to Rob Roy Purdy, Harris D. Riley, Jr. ; 23 March to Robert E. Weaver; F. 1-5. 4 April to Nicholas Hobbs; F. 6-8. 4 April to Nicholas Hobbs; 6 April to Nicholas Hobbs; 26 April to Nicholas Hobbs; 8 May to Nicholas Hobbs; F. 6-4. 1 May
+            to Allen Tate; 8 May to Allen Tate, Mrs. Hugh Bullock; 16 May to Thomas Daniel Young; F. 1-5. 12 June to Mrs. Richmond C. Beatty; F. 6-13. 15 June to Mrs. Richmond C.&#39; Beatty; F. 6-13. 21 June to Allen Tate, Thomas Daniel Young; 29 June to Frank
+            K. Houston; 8 August to Thomas Daniel Young; 6 September to Thomas Daniel Young; 14 September to Robert A. McGaw; 20 September to H.L. Swint; 9 October to Robert Penn Warren; 10 October to Thomas Daniel Young; 30 October to Frank P. Grisham, Robert
+            Penn Warren; 21 November to Robert Penn Warren; 14 December to Rob Roy Purdy; 18 December to Robert A. McGaw; F. 1-5. n.d. to Members of the Committee on Academic Programs; F. 6-1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1973</unitdate>
+          <unittitle>5 March to Allen Tate; 22 March to Andrew Lytle; 11 June to Robert A. McGaw; 7 August to Allen Tate; F. 1-5. 9 August to Frank P. Grisham; F. 6-13. 28 August to Andrew Lytle; F. 1-5. 18 September to Earvie Branscomb; 19 September to E.
+            Bronson Ingram; 25 September to E. Bronson Ingram; F. 6-17. 26 September to Allen Tate; 1 October to Rupert E. Palmer, Jr.; 29 October to Robert Penn Warren; F. 1-5. 21 November to Walter Harrelson; F. 6-9. 3 December to William C. Pratt; 6 December
+            to Robert Penn Warren; F. 1-5.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1974</unitdate>
+          <unittitle>2 January to Walter Harrelson; F. 6-9. 2 January to Allen Tate; 3 January to Daniel T; &#34; &#8226; ~- Young; 8 January to Allen Tate; 14 January to Mrs. Eric Bell, Jr.; 15 January to Mr. and Mrs. W.A. Baker; 21 January to Frank P.
+            Grisham, Rupert Palmer; 23 January to Allen Tate; 24 January to Allen Tate; F. 1-5. 29 January to Allen Tate; F. 5-3. 20 February to Allen Tate 4 March to William C. Pratt, Dan Young; 6 March to Allen Tate, Marice Wolfe; 25 March to John W.
+            Poindexter; 1 April to Andrew Lytle; 3 April to Allen Tate; 6 April to Alexander Heard; 10 July to Daniel T. Young; 11 July to Robert A. McGaw; 22 July to Daniel T. Young; 24 July to Frank P. Grisham, Mrs. Alexander Heard; 29 July to Thomas Daniel
+            Young; 31 July to Allen Tate; 1 August to Allen Tate; 14 August to Allen Zibart; 15 August to Allen Tate; 4 September to Allen Tate; 9 September to Allen Tate; 18 September to Edwin Stirling, Allen Tate; 1974: 25 September to Allen Tate; 7 October to
+            Dr. and Mrs&#171; T.E. Brittingham; 14 October to Scott Colley; 31 October to Edwin Sterling; 6 November to Frank Grisham; 18 November to Frank Grisham, Allen Tate; 4 December to Allen Tate; 9 December to M.S. Wigginton, Andres B. Benedict, Jr.&#187;
+            John Bransford; 16 December to Emily Bennett; F. 1-5. 17 December to Allen Tate; F. 5-3. 23 December to John E. Sloan, Jr.; F. 1-5.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1975</unitdate>
+          <unittitle>6 January to lob Roy Purdy; 15 January to Allen Tate; 21 January to John Scott Colley, Frank Grisham; 23 January to Allen Tate; 9 February to Robert A. McGaw; 10 February to Robert Penn Warren; 12 February to Allen Tate; 3 April to Allen
+            Tate; 14 April to T. Daniel Young; F. 1-6. 17 April to Rob Roy Purdy; F.. 5-3. 21 April to O.B. Emerson; F. 1-6. 2 June to Rob Roy Purdy; F. 5-3. 10 June to Robert A. McGaw; F. 1-6. 24 June to Rob Roy Purdy; F. 5-3. 26.June to Allen Tate; 7 July to
+            Helen Tate; F. 1-6. 9 July to Rob Roy Purdy; F. 5-3. 16 July to Robert A. McGaw; F. 1-6. 9 September to Gus G. Halliburton; F. 5-3. 15 September to Robert Penn Warren; 22 September to Robert A. McGaw; F. 1-6. 6 October to Rob Roy Purdy (2), T. Daniel
+            Young; F. 5-3. 27 October to Rob Roy Purdy, Allen Tate; 5 November to T.D. Young; 17 November to Rob Roy Purdy; 16 December to Caroline Gordon; F. 1-6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1976</unitdate>
+          <unittitle>6 January to Caroline Gordon; 13 January to John Hall Wheelock; 19 January to Lon (Brainard) Cheney; 12 February to Mrs. Buford Sanders; 16 February to Mrs. J.R. Hamblen; Mrs. Caroline Gordon Tate; 1 March to Rob Roy Purdy; 8 April to
+            Allen Tate; 13 April to Robert A. McGaw; 3 May to Frank P. Grisham, Robert A. McGaw; 17 May to Sam M. Fleming, T. Daniel Young; 18.May to William Boozer; 1. June to Bob A. McGaw; 17 June to Robert A. McGaw; 26 July to Frank P. Grisham; 29&#39;July to
+            Frank P. Grisham; Allen Tate; 2 September to George Core; 10 September to Marilyn W. Whiteman, Allen Tate; 20 September to Rob Roy Purdy; 27 September to Robert A. McGaw; 18 October to Alexander Heard; 4 November to Frank P. Grisham; F. 1-6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>1977</unitdate>
+          <unittitle>10 January to Robert Penn Warren; F. 1-6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unitdate>n.d.</unitdate>
+          <unittitle>Memorandum on Fugitive Room in the New Wing of the Joint University Library; F. 6-13. This is a name index of the correspondents of Jesse Ely Wills. The figure (or figures) in parentheses immediately following each name denotes the total
+            number of letters from that person in the collection; the dates are for the time of the letters. The full name of the writer is given whenever possible. The last number given refers to the box and folder in which the correspondence may be found.</unittitle>
+        </did>
+      </c01>
+    </dsc>
+    <index id="mferd78e24834">
+      <head>Index of Correspondents</head>
+      <indexentry>
+        <persname encodinganalog="600">Abeel, Ethel M.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ansoff, H. Igor, (1); 10 November 1970; F. 6-11.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Basler, Roy P., (2); 20 June 1968; 4 December 1970; F. 6-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Batson, Randolph, (2); 11 May 1971; 30 November 1973; F. 1-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Batts, William 0., (1); 30 August 1956; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Benson, Maxwell E., (1); 3 June 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Boswell, Dean (Mrs. John E.), (1) 5 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Boult, Reber, (2); 30 July 1965; F. 1-7.. 3 July 1968; F. 6-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Branscombe, Harvie, (11); 26 March 1957 (to William F. Orr); 23 January 1959 (to John Patterson); F. 6-19. 8 March 1960 (mimeographed statements and appendix I-III of 1 March through 3 March 1960); 30 May (Confidential to all Members of the
+          Board of Trust); 13 June 1960 (A statement to the faculty of Vanderbilt University); 14 June 1960 (To all Members of the Board of Trust of Vanderbilt University); 10 January 1969 (to Alexander Heard); n.d. (To all Members of the Board of Trust); F.
+          6-14. 27 April 1970; 22 September 1973; F. 6-17.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Brooks, Cleanth, (1); 3 January 1976; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Warren S., (1); 12 April 1972 (to Rob Roy Purdy); F. 6-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Buffington, Robert, (2); 3 April 1968; 3 April 1968 (to Mrs. Floy W.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Beatty); F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Campbell, Matthew M., (1); 20 October 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>cassebeer. ~rcia (Mrs. F.W.), (1); 16 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cheney, Brainard (Lon), (1); 1 January 1976; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cheney, Frances Nee! (Mrs. Brainard), (4); 17 June 1971 (to EllenWills), 22 November 1971, 4 February 1972 (to Centennial</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Club's Literary Department); 17 October 1973; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cherry, Kenneth, (1); 6 May 1974; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cole, W.R., Jr., (1); 26 March 1960 (To each individual member of the</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Board of Trust of Vanderbilt University); F. 6-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Coppolillo, Henry P., (1); 16 March 1972; F. 1-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Core, George, (1); 30 August 1976; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Courtenay, Walter R., (1); 6 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cowan, Louise S., (1); 12 July 1976; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Crabb, A.L., (1); 23 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Crabtree, Lib (Mrs. R.D.), (2); 8 December 1958; F. 3-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>11 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Crocker, David, (1); 4 January 1961 (to Billie, William F. Orr); F. 6-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cuninggim, Merrbnon, (4); 16 July 1970 (to William Vaughn); 29 July 1970; F. 6-2. 29 March 1971; F. 6-8. 13 April 1973, 15 June 1976 (by Hattie R. Lane); F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Dameron, J. Lasley, (1); 16 February 1966 (to Vanderbilt University Press); F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Davidson, Donald, (8); 20 May 1954; 8 August 1962; F. 1-7. 28 March 1965; F. 4-5. 29 September 1966; 30 September 1966; 16 October 1966; 23 May 1967; 18 June 1967 (to Ellen Wills); F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>DeWitt, John H., Jr., (7); 6 January 1964; 13 January 1964; n.d. (Memo about Westinghouse letter of 20 January 1964); 17 February 1964 (to James H. Quillen); 15 November 1965; 27 December 1965; 30 December 1965; F. 6-18.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Dickson, William, (1); 23 November 1969; F. 6-11.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Dockstader, Frederick J., (1); 16 December 1971; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Duncan, Edgar H., (2); 16 February 1971; 22 December 1975; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Dysart, Benjamin C., (1); 17 November 1969 (to Peter G. Hoadley); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Earthman, B~rd Douglas, (1); 23 March 1970; F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Eight Doctoral Students Who Left the GSM Program, (1); 30 September 1975; F. 6-11.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Elliott, William Yandell, (6); 28 May 1958 (one addressed to Allen Tate); 20 February 1969 (to Allen Tate); 22 April 1969; 23 June 1969; 25 July 1969; 25 June 1970; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Eutiekin, Mrs. Ervin, (1); 4 November 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Eyster, Rebecca, (1); 1 November 1966; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Farrell, Louis, Jr., (1); 23 September 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Flack, James K., (1); 12 November 1967; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Fleming, Sam M., (1); 15 May 1970 (to Rob Roy Purdy); F. 6-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Flowers, H. Fort, (4); 21 December 1965; Christmas 1965 (card); F. 6-12. 17 January 1969 (to Madison S. Wigginton); F. 6-5. 8 October 1969 (to Alexander Heard); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Force, William W., (1); 2 June 1970; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Fowler, S. Benjamin, (1); 21 April 1960 (to William F. Orr, Jr.); F. 6-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gardner, Edwin S., (2); 19 June 1968; F. 1-8. 22 August 1971; F. 6-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gardner, Robert L., (3); 13 November 1967; F. 6-13. 2 November 1970; 30 November 1970; F. 6-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Geny, Charles W., (1); 5 April 1968; F. 6-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gibbs, Homer B., Jr., (1); 9 October 1969 (to Rob Roy Purdy); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gordon, Caroline, (2); 18 April 1959; 11 May 1959; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gower, Herschel, (1); 21 February 1972; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gray, William Dixon, (1); 25 May 1959;F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Grisham, Frank P., (15); 7 December 1967 (to Woodrow Wasson); 7 October 1968; 8 August 1969 (to Madison Wigginton); 27 August 1969; F. 6-13. 9 January 1969; 14 February 1969 (to Alex B. Stevenson); 17 March 1969; F. 6-5. 6 February 1970
+          a(to Executive Committee Board of Library Trustees; Joint</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Faculty Library Committee); 17 February 1971; F. 6-13.a 19 October 1971 (to Mrs. Mapheus Smith); 26 December 1973; 18 January 1974; 25 May 1976; 10 August 1976; 2 November 1976; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Haddock, Susan Abney, (3); 7 June 1972; 13 June 1972; F. 6-13. 3November 1972; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hall, Howard R., (3); 13 March 1959 (to Lester Smith); 27 March 1959</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hall, May and Dave, (1); 7 February 1960; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hamner, Gustavus A.H., (1); 10 November 1969 (to Alexander Heard); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Harrelson, Walter, (5); 7 April 1970 (to Nicholas Hobbs); F. 6-6. 14 November 1973; 27 November 1973; 11 JanuarY 1974; 11 March 1974; F. 6-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Harrison, Charles E., Jr., (1); 10 October 1969 (to Executive</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Committee Board of Trust); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Harrison, Randolph, (2); 4 May 1959; F. 3-5. 2 August 1968; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Heard, Alexander, (23); 11 June 1965 (to Fort Flowers); 12 June 1965; 22 June 1965; 10 July 1965 (to Fort Flowers); 30 November 1965 (to Fort Flowers); 6 May 1966; F. 6-12. 20 November 1966; 29 November 1966 (to Members of the Vanderbilt
+          Board of Trust); 30 January 1968; F. 6-7. 8 November 1968 (to Members of the Special Committee of the Board of Trust to aStudy the University~s Long-Range Financing); F &#8226; 6-15. 31 December 1968; F. 6-5. 9 January 1970; F. 6-6. 10 January 1970;
+          14 January 1970; 21 January 1970 (to William s. V~~hn); 22 January 1970; F. 6-2. 24 March 1970; F. 6-6- 16 May 1970 (to Dean Christman, Dean Holladay and Dean Row~, 12 May 1970); 4 July 1970 (telegram); F. 6-2. 5 November 1970; 19 November 1970; F.
+          6-13. 25 October 1971; F. 6-4. n.d.; F. 1-8.Heathco, Dan D., (1); 10 September 1976; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hecht, Anthony, (1); 29 December 1975; F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Heffernan, Thomas F., (1); 9 April 1969; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hendley, Tillie Clare (Mrs. Joseph Owen), (1); 29 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hill, Horace G., Jr., (2); 26 May 1965; 16 June 1965; F. 6-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hirsch, Sidney Mttron, (1); 18 April 1959; F. 3-5.Hobbs, Nicholas, (12); 24 June 1969; 1 August 1969; 16 September 1969; 24 September 1969; 3 February 1970; 10 February 1970; 18 March 1970; 22 September 1970; 21 October 1970; F. 6-2. 12
+          February 1971; 12 March 1971; F. 6-8. 19 November 1973; F. 6-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Holbrook, Morton, III, (1); 22 September 1969 (to Alexander Heard); F. 6-10.a</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Holter, Bob, (1); 5 January 1961 (to William F. Orr, Jr.), (telegram); F. 6-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Houston, Frank K., (1); 17 July 1967 (mimeograph report); F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hunt, Edwin, (1); 28 April 1967; F. 1-8. Lmpastato, David J., (1); 3 January 1961 (to William F. Orr); F. 6-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ingram, E.B., (1); 21 September 1973; F. 6-17.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Jarman, W. Maxey, (2); 13 April 1959; F. 3-8. 12 August 1970; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Jewett, James E., (1); 23 June 1976; F. 6-11.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Johnson; Wictor"S., Jr., (1); 11 March 1971; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Jones, David Howell, (1); 3 February 1966; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Jordan, Polly (Mrs. Robert H.), (1); 26 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kaser, David, (10); 22 June 1965; 18 March 1966; 25 March 1966 (to Alec B. Stevenson); 27 April 1966 (to Committee on the</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Development of the Gradua"te Wing, Board o~ Trustees); F. 6-12. 23 May 1966; F. 6-13. 12 December 1967; F. 1-8. 15 July 1968 (to Andrew Lytle); 23 May 1968; 30 May 1968 (to Andrew Lytle); F. 6-13. n.d. (to Committee on the Development of a
+          Library a Wing, Board of Trustees); F. 6-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kellam, James R., III, (1); 29 September 1969; F. 6-10.Kirkendall, Ralph, (1); 8 April 1971 (to Donald Thist1ethwaite); F. 6-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kolb, Lawrence C., (1); 10 January 1961 (to William F. Orr); F. 6-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kuhlman, A. Frederick, (1); 14 October 1975; F. 6-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Light, Rudolph A., (3); 26 June 1969; 19 September 1969; 28 October 1969; F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lipscomb, Anne C. (Mrs. A. Brant), (1); 11 November 1969 (to Committee on Undergraduate Affairs); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lockert, C. Lacy, (1); 21 November 1958 (to Rob Roy Purdy); F. 3-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lytle, Andrew, (1); 20 May 1959; F. 3-5. 5 October 1963; 1 February a1968; 20 February 1968; 11 July 1969; 10 April 1913; 24 August 1913; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McAlister, Bill, (1); 3 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McCall, Gertie (Mrs. John T.); 12 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McDonnell, Carolyn, (1); 11 May 1969; F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McGaw, Robert A., (9); 11 December 1958; F. 3-4. 5 June 1959 (to</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lester Smith); F. 6-19. 26 October 1961; F &#8226;. 6-11. 15 June 1916;,8 September 1916; 10 September 1916 (Question Fo~); 11 September 1916; 21 September 1916; 23 September 1916; F. 5-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Mackenzie, Kenneth W., (1); 3 October 1969 (to Executive Committee of the Board of Trust); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Mann, Delbert, (2); 13 September 1969; 23 October 1969; F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Manning, Nancy Jane, (3); 1 July 1969 (to William Vaughn); 25 October 1969; n.d.; F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Massey, Richard, (1); 1 November 1958 (to William F. Orr); F. 6-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Master, Barry L., (1); 10 November 1911; F. 6-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Meyer, Audrey, (1); 12 March 1916 (to Jane C. Tensley); F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Moore, Adam, (1); 1 June 1968; F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Moore, Ann Leslie (Mrs. Merrill), (6); 24 April 1959; F. 3-5. 1 June 1968; 1 July 1968; 6 February 1969; 24 February 1969;28 May 1910; F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Moore, Merrill, (1)'; 20 August 1952; F. 1-9.Moriarty, Wilson P. (Pat), (1); 30 September 1969 (to Mr. Purdy); F. 6-10. Niles, Henry E., (1); 28 November 1966; F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Orr, William F., (12); 21 July 1956; 15 November 1956; 12 November 1951 a(to Seymour D. Vestermark); 23 September 1958 (to John W.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Patterson); 1 January 1959 (to Richard Massey); 11 February 1959; 19 May 1959; 13 August 1959; 21 April 1960 (to S.a</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Benjamin Fowler); 19 November 1960 (to John W. Patterson); 16 January 1961; F. 6-19. 1 March 1912; F. 1-9. .</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Owen, Guy, (3); 1 February 1961; 11 March 1961; 23 December 1961; F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Palmer, Rupert E., (1); 16 January 1914; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Pierce, Bob, (1); n.d. (to Board of Trustees); F. 6-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Pirvics, Juris, (1); 11 September 1959 (to Vanderbilt University Press); F. 3-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Poindexter, John W., (1); 11 January 1914; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ponder, H.M., Jr., (1); 20 October 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ponzine, Raymond E., (1); 24 July 1915; F. 6-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Pratt, William C., (3); 18 April 1968; 10 May 1968;" 21 February 1914; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Purdy, Rob Roy, (8); 14 January 1964; 25 January 1964 (to John H. DeWitt, Jr.; F. 6-18. 8 October 1965; F. 1-10. 11 November 1965 (to John DeWitt, Jr.); F. 6-18. 21 February 1961; F. 1-10. 21 August 1969 (to Charles Nord and George E.
+          Wilkins); F. 6-10. 9 February 1910 (to Nicholas Hobbs); F. 6-2. 12 November 1911; F. 6-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ragland, Charles S., (8); 22 May 1969; 17 June 1969; 20 November 1969; 11 February 1970 (to William Dickson); 16 February 1970 (to H.T. Chandler); 24 February 1970; 24 February 1970 (to William Dickson); 16 March 1970; F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ragland, Mary Harding (Mrs. Stuart), (1); 16 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Rand, Norfleet H., (2); 23 February 1970; 30 March 1970; F. 6-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Randall, Elsie, (1); July 1967; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Randall, Harry, (1); 2 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ransom, John Crowe, (2); 16 November 1970 (to Roy P. Basler); 24 November 1970; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ream, Mrs. Mary Nelson, (1); 24 April 1959; F. 3-5. Sales Report, (1); 26 July 1976; F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sanders, lone Overton, (1); Christmas 1975 (card); F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sanderson, William F., (1); 29 September 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Shapiro, John L., (1); 29 March 1972; F. 6-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>SUnpkins, Irby C., Jr., (1); 14 October 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>SUnpson, James A., (6); 30 October 1967; 3 November 1967; F. 6-17. 7 February 1969 (to William S. Vaughn); 17 June 1969; 1 October 1969; 24 October 1969; F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, L.H., (4); 25 February 1957 (to William F. Orr); 20 October 1958 (to John A. Preston); 17 November 1958 (to John H.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stambaugh); 8 December 1958 (to John H. Stambaugh); F. 6-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Mrs. Mapheus, (1); 15 December 1969; F. 6-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Willa, (1); 6 October 1971; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stahlman, James G., (3); 5 June 1965 (to Fort Flowers); F. 6-12. 9 January 1969 (to Harvie Branscomb); F. 6-14. 13 October 1969 (to H. Fort Flowers); F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stevenson, Alec Brock, (7); 15 October 1961; F. 1-9. 13 April 1965; 11 October 1965 (to Rob Roy Purdy); F. 1-10. 20 March 1966; F. 6-12. 12 July 1966 (to John L. Stewart); F. 1-9. 25 September 1968; F. 6-17. 20 December 1968; F. 6-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stirling, Edwin, (1); 28 August 1974; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stokes, Walter, (1); 10 June 1965; F. 6-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sullivan, Walter, (1); 2 April 1968; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Swint, Henry Lee, (1); 26 September 1972; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Taber, David Spencer, (2); 22 February 1972; 20 March 1972; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tate, Allen, (52); 1 June 1927; 4 June 1958; 6 April 1962; 8 May 1962; 18 May 1962; 21 September 1962 (to Matt Wigginton); 15 February 1966; 18 August 1966; 7 November 1966; 17 November 1966; 21 January 1968; 31 January 1968; 16 February
+          1968; 22 March 1968; 27 May 1968 (card); 9 June 1968 (card); 29 June 1968 (card); 7 August 1968; 10 September 1968; 17 September 1968; 22 December 1968; 12 January 1969; 7 February 1969; 8 March 1969; 19 March 1969; 11 May 1969; 26 June 1969; 16 July
+          1969; 10 September 1969; 26 September 1969; 18 March 1970; 7 June 1970; 7 August 1971; 3 May 1972; 1 March 1973; 9 January 1974; 21 January 1974 (card); 17 February 1974 (card); 1 April 1974 (card); 5 April 1974; 29 July 1974; 13 August 1974; 3
+          October 1974; 20 November 1974; 1 December 1974; 5 January 1975; 17 January 1975; 24 March 1975; 30 October 1975; 26 February 1976; 31 July 1976 (card); F. 1-11, 1-12</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tate, Benjamin, (1); 9 April 1959; F. 1-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tate, Caroline Gordon, (3); 19 December 1975; 26 January 1976; 7 February 1976; F. 1-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tate, Helen (Mrs. Allen), (3); 5 January 1975; 10 November 1975; 3 January 1976; F. 1-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tharp, Peter J., (2); 21 April 1966; 17 May 1966; F. 1-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Thist1ethwaite, Donald L., (1); 17 May 1971; F. 6-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Thomas, Alexine P., (1); 2 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Thompson, Lawrence S., (1); 19 March 1964; F. 1-12.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tinsley, Jane, (1); 10 December 1975; F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Trabue, Charles C., Jr., (1); 12 February 1970 (to William S. Vaughn); F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Van Antwerp, Chiles, (1); 17 December 1951; F. 1-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vanderbilt, Harold S., (2); 28 June 1965; F. 6-12. 23 October 1967; F. 6-17. .</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vanderbilt William H., (4); 17 April 1969; 14 October 1969; 21 February 1970; F. 6-2. 10 April 1971; F. 6-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vaughn, William S., (15); 3 February 1969; 25 February 1969; 12 June 1969; F. 6-2. 16 October 1969; F. 6-17. 19 November 1969 (to Pace Van Devender); 16 January 1970; 5 February 1970 (to Charles C. Trabue, Jr., and Mrs. Albert Werthan)j 10
+          February 1970 (to Mrs. Albert Werthan); 26 June 1970; 10 July 1970 (to Merrimon Cuninggim); 10 July 1970; F. 6-2. 9 September 1970 (to William Waller); F. 6-17. 10 November 1971; 19 November 1971; 19 November 1971 (to</persname>
+      </indexentry>
+      <indexentry>
+        <persname>John Gaventa); F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vestermark, Seymour D., (1); 20 November 1957 (to William F. Orr); F. 6 -19 .</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Walker, Dorothy (Mrs. Marion R.), (1); 14 May 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Waller, William, (8); 2 November 1967; F. 6-17. 18 February 1969 (to</persname>
+      </indexentry>
+      <indexentry>
+        <persname>William S. Vaughn); 21 February 1969; 14 April 1969; 25 September 1969; F. 6-2. 14 September 1970 (to William S. Vaughn); 19 October 1970; F. 6-17. 21 Oct~ber 1970; F. 6-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Warren, Austin, (1); 31 January 1976; F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Warren, Robert Penn, (11); 11 May 1956; 8 November 1966; 9 April 1967; 9 June 1967; 14 April 1968; 11 May 1968; 12 June 1969; 16 October 1969; 23 September 197?; 14 October 1972; 8 September 1975;F. 1-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Waterman, Steve, (2); 28 October 1976; 19 January 1977; F. 6-11.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wheelock, John Hall, (1); 5 January 1976; F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Whiteman, Marilyn W., (1); 10 September 1976; F. 1-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wigginton, Matt S., (20); 27 September 1962 (to Allen Tate); 23 December 1964; F. 1-13. 14 December 1967; 31 July 1968; F. 6-13. 7 January 1969; 14 January 1969 (to Frank P. Grisham); 14 January 1969 (to H. Fort Flowers); 21 January 1969;
+          21 January 1969 (to H. Fort Flowers); F. 6-5. 21 January (to Alexander Heard); F. 6-15. 29 April 1969 (to Frank Grisham); 29 April 1969 (to H. Fort Flowers); F. 6-5. 28 May 1969; 3 June 1969; 3 June 1969; 12 August 1969 (to Edwin S. Gardner); F.
+          6-13. 7 October 1969 (to Kenneth W. MacKenzie); F. 6-10. 24 April 1970; 30 April 1970; F. 1-13. 15 May 1972; 9 June 1972; F. 1-13. 12 October 1972; 16 August 1976; F. 6-11.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wilcoxon, Reba, (2); 1 August 1975; 10 October 1975; F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, Fred, (1); 22 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, Margaret, (3); 6 May 1959; F. 3-5. 14 November 1966; 10 August 1970; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Williamson, John A., (1); 10 November 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wills, Elizabeth M., (2); April 1959; F. 3-5. 30 August 1969; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wills, Judy (Mrs. Matthew B.), (2); 1 April 1959; 9 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wills, Ridley, (1); 17 December 1976 (to Harold F. Miller, Jr.); F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wolfe, Marice, (1); 4 March 1974; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Woolmer, J. Howard, (2); 27 October 1973 (to Frank P. Grisham); 29 August 1974 (to Frank Grisham); F. 6-13. Young, Thomas Daniel, (23); 15 May 1967; 27 November 1968; 16 January 1969; 5 March 1969; 19 September 1969; 2 October 1969; 10
+          February 1970; 23 February 1970; (22 December 197Q\; 14 July 1971; 26 July 1971; 19 May 1972; 19 July 1972; 30 August 1972; 13 October 1972; 3 December 1973; Christmas 1973 (card); 9 January 1974; 8 February 1974; 12 July 1974; 6 August 1974; 30
+          October 1975; [26 May 1976~l; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wilcoxon, Reba, (2); 1 August 1975; 10 October 1975; F. 5-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, Fred, (1); 22 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, Margaret, (3); 6 May 1959; F. 3-5. 14 November 1966; 10 August 1970; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Williamson, John A., (1); 10 November 1969; F. 6-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wills, Elizabeth M., (2); April 1959; F. 3-5. 30 August 1969; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wills, Judy (Mrs. Matthew B.), (2); 1 April 1959; 9 April 1959; F. 3-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wills, Ridley, (1); 17 December 1976 (to Harold F. Miller, Jr.); F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wolfe, Marice, (1); 4 March 1974; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Woo lmer, J. Howard, (2); 27 October 1973 (to Frank P. Grisham); 29 August 1974 (to Frank Grisham); F. 6-13.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Young, Thomas Daniel, May November 7</persname>
+      </indexentry>
+      <indexentry>
+        <persname>January March September October 1976'-l; Incomplete signatures: Aurelia, (1); 9 April 1959; F. 3-5. Cousin Carrie, (1); 16 June 1959; F. 3-5. Fanny (to Ellen Wills), (1); 1959; F. 3-5. Julia Fay, (1); 15 April 1959; F. 3-5. No signature:
+          (I); 4 April 1969; F. 1-14.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Miscellaneous essays and reviews by Jesse E. Wills:</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Review. The Dream Songs by John Berryman.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Holograph and typed carbon; 1-15.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Review. The Eguilibrist: A Study of John Crowe Ransom's</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Poems~ 1916-1963 by Robert Buffington. typed carbon; 1-15.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>"Memoirs of Far Hills." typed carbon; 1-15.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>"For Coffee House." photocopy; 1-15.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>"Professor C.B. Wallace and Wallace School .. " typed carbon; 1-15.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Newspaper clippings:</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Donald Davidson</persname>
+      </indexentry>
+      <indexentry>
+        <persname>25 April 1968, Obituary Notice; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>26 April 1968, Nashville Banner: "Davidson Rites Slated; Famed Poet."; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>26 April 1968, Nashville Tennessean: "Prof. Davidson, 1 Fugitive'. Poet~ Dies at 72.": 1-16. .</persname>
+      </indexentry>
+      <indexentry>
+        <persname>26 April 1968, Nashville Banner: "Donald Davidson," editorial; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>27 April 1968, Nashville Tennessean: "Mr. Davidson was Rare Figure," editorial; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>28 April 1968, Nashville Tennessean: "Gentle and Dear Friend" by Floy Beatty; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>21 May 1968, National Review: "Donald Davidson, RIP." ;1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>24 July 1968, Nashville Banner: IfJUL Acquires Papers of 'Fugitive' Dr. Davidson .. " ;1-16. John Crowe Ransom 6 July 1967, Nashville Tennessean: "Ransom Picked To Receive $10,000 Prize. ff ;1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>31 December 1967, Nashville Tennessean: "Ransom Study Most Thorough." Reviewed by Jesse Wills;1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>25 April 1969, Nashville Banner: "Writers Conference at Cumberland May 2."; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>26 April 1968, Nashville Tennessean: "Fugitive To Be Feted on 80th."; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>29 April 1968, Nashville Banner: "J.C. Ransom, 'Fugitive' To Be Honored."; 1-16. 14 May 1968, Vanderbilt Hustler: "Fugitive John Crowe Ransom Wins Emerson-Thoreau Medal. lf; 1-16. 4 July 1974, Tennessean: "Ransom, Fugitive Poet, Dies.";
+          1-16. Alec B. Stevenson</persname>
+      </indexentry>
+      <indexentry>
+        <persname>27 May 1969, Obituary; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>27 May 1969, Nashville Banner:"Alec B. Stevenson Dies, Rites at 3 Wednesday."; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>28 May 1969, Nashville Tennessean: "Alec Stevenson Services Today.lt; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>28 May 1969, Nashville Banner: "Alec B. Stevenson," editorial; 1-16. 30 May 1969, Nashville Tennessean: "Mr. Stevenson Will Be Missed .. "; 1-16. Eldon Stevenson, Jr. 4 March 1970, Nashville Banner: "vu Names Science Center In Honor of
+          Stevenson." Allen Tate 7August 1966, Nasbyillg Tgnnessean: "Allen Tate Marries Miss Heinz. ,. ; 1-16. 12 January 1969, : "Churches To Present U.S. Leaders" by Charles Thompson; 1-16. 1 June 1969, Nashville Tennessean: "Compleat Allen Tate," reviewed
+          by M. Thomas Inge; 1-16. 5 October 1975, Nashville Tennessean: "Allen Tate's Latest Traces His Development" by Sara Morrow; 1-16 ..</persname>
+      </indexentry>
+      <indexentry>
+        <persname>28 December 1975, Nashville Tennessean: "Sewanee's Tate Recipient of NY Literary Award. lf ; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>20 May 1976, Nashville Banner: "Allen Tate Awarded National Medal."; 1-16.
+        </persname>
+      </indexentry>
+      <indexentry>
+        <persname>n.d., Robert Penn Warren "Allen Tate To Receive Merrill Prize."; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Robert Penn Warren</persname>
+      </indexentry>
+      <indexentry>
+        <persname>11 April, Nashville Banner: "Three Major Writers, Critics To Speak at VU. tf ; 1-16. 19 April 1968, Nashville Banner: "Poetry Symposium Draws Heavy Crowd'at Vanderbilt," by Howell Pearre; 1-16.
+        </persname>
+      </indexentry>
+      <indexentry>
+        <persname>19 April 1968, Nashville Tennessean: "'Fugitive' Cites Chaos in Words at VU Talk" by Rhodes Johnston.; 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>31 July 1970, Women's Wear Daily: "Tall, Graceful Eleanor Clark is a Natural," by Brenda Badolato. (Eleanor Clark is Mrs. Robert Penn Warren.); 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>10 November 1974, The Tennessean: "Collected Poems Span Six Years." Review of nOr Else: Poem/Poems 1968-1974." Reviewed by Frances Neel Cheney. 1-16. n. d. ffRobert Penn Warren Wins aBollingen Prize In Poetry.u 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>n.d. "Warren's Poetry Honored." 1-16. Jesse Ely Wills</persname>
+      </indexentry>
+      <indexentry>
+        <persname>11 November 1954, Nashville Banner: uPhi Beta Kappa Selection Honors Four VU Alumni." 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>17 January 1971, Nashville Tennessean: "Poet in the Money Making Bu~inessu by Louise Davis. 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>5 November 1971, Nashville Banner: "vu Trustees Elect Two New Life Members.: 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>William R. Wills n~-d. Obituary Notice. 1-16. Others 23 March 1960, Nashville Tennessean: trVU Divinity School</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Alumni Ask Lawson Reinstatementff by Edmund Willingham. 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>21 April 1968, Nashville Tennessean: "'Fugitives' Reaffirm Need for Man's Individuality.u 1-16.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>23 January 1974, The Tennessean: "Richard Wilbur Slated at Vanderbilt Tonight. 1f 1-16. aPhotographs:</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sculptured bust of Robert Penn Warren by Joan Fitzgerald, four views; 1-17.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sculptured bust of Ezra Pound by Joan Fitzgerald; 1-17.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Essays, statements by others:</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Davidson, Donald. Introduction to Peter Smith reprint of The.Fugitive. typed carbon; 1-18.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kaser, David. A Fugitive Collection in the Joint University Libraries. typed; 1-18.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Moore, Merrill. On the First Presbyterian Church in Nashville, Tennessee. photocopy, negative; 1-18.a</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Taylor, Peter with William Breit, Leland Yeager. James Muir</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Waller, 1900-1971. electrostatic copy; 1-18.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Van Antwerp, Chiles. The Old Oak Club. ,mimeograph copy; 1-18.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Reprints, material by others:</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Aden, John M. "Student Revolt and the Humani,ties: A NonNegotiable</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Dissent." Southern Humanities Review,</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vol. 5, Spring 1971. 1-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Jones, David Howell. Announcement of Donald Davidson: An</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Essay and ~ Bibliography. l-l~</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tate, Allen. "A Lost Traveller's Dream." Michigan Quarterly</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Review, Autumn 1972. 1-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Warren, Robert Penn. "Who is Relevant?U Yale Alumni Magazine,</persname>
+      </indexentry>
+      <indexentry>
+        <persname>February 1971. 1-19.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Miscellaneous papers:</persname>
+      </indexentry>
+      <indexentry>
+        <persname>American Committee for Cultural Freedom. Statement. 1-20.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Mizener Papers. Bill of Sale. 1-20.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Maxey Jarman Kitchen Cabinet. Two Membership cards. 1-20.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>SEE NEXT PAGE</persname>
+      </indexentry>
+    </index>
+    <dsc type="othertype">
+      <table frame="none">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+          <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+          <colspec colnum="3" colname="3" align="left" colwidth="50pt"/>
+          <tbody>
+            <row>
+              <entry colname="1">The Age We Live In</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1937</entry>
+            </row>
+            <row>
+              <entry colname="1">America and the Crisis</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1941</entry>
+            </row>
+            <row>
+              <entry colname="1">The Battle of Midway</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1950</entry>
+            </row>
+            <row>
+              <entry colname="1">A Business Man Looks at Labor Unions</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1947</entry>
+            </row>
+            <row>
+              <entry colname="1">Catechism on Present and Future</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1936</entry>
+            </row>
+            <row>
+              <entry colname="1">Changes on the Weather</entry>
+              <entry colname="2">Coffee House</entry>
+              <entry colname="3">1957</entry>
+            </row>
+            <row>
+              <entry colname="1"></entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1958</entry>
+            </row>
+            <row>
+              <entry colname="1">Impressions of a Traveler Concerning Williamsburg, Virginia</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1937</entry>
+            </row>
+            <row>
+              <entry colname="1">In the Matter of John Masefield The Problems of Air Power</entry>
+              <entry colname="2">Old Oak Club Coffee House Old Oak Club</entry>
+              <entry colname="3">1969 1943</entry>
+            </row>
+            <row>
+              <entry colname="1">Prose and Poetry</entry>
+              <entry colname="2">Old Oak Club Coffee House</entry>
+              <entry colname="3">1961</entry>
+            </row>
+            <row>
+              <entry colname="1">The Revolutions Around Us</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1965</entry>
+            </row>
+            <row>
+              <entry colname="1">A Southern Christian Considers Race</entry>
+              <entry colname="2">Old Oak Club</entry>
+              <entry colname="3">1952</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <c01 level="item">
+        <did>
+          <unittitle>The list of poems is alphabetically arranged. Those marked with an asterisk appear in the volume, Early and Late, All the 4 poems on this list are contained in Box 2, Folders&#34;&#34;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#9830;&#34;Agriochaerus&#34;. 1 typescript, 1 carbon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#9830;&#34;Arlington National Cemetary&#34;. 1 typescript, holograph note</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#9830;&#34;Aunt Minnie I, II, III&#34;. 1 typescript</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#9830;&#34;Automobile Ride&#34;. 1 typescript, 4 carbons</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Black Sheep&#34;. 1 typescript<emph render="italic">%</emph>
+            1 carbon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Changes&#34;. 1 typescript, holograph revisions &#9830;&#34;Consider the Heavens&#34;. 2 carbons</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Crystal Gazer&#34;. 2 carbons</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Depths&#34;. 1 typescript &#9830;&#34;Dream&#34;. 2 holograph, 2 typescript &#9830;&#34;Dust&#34;. 1 typescript, 1 carbon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Eden&#34;. 2 typescript with holograph revisions, 3 carbons, 1 holograph note</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;False Dawn&#34;. 1 typescript, 1 carbon &#9830;&#34;Fear I, II&#34;. 1 typescript entitled &#34;Egomania&#34;, 1 carbon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Felix Adair&#34;. 2 typescript, 4 carbons</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;From a Window&#34;. 2 holograph, 1 typescript &#9830;&#34;A Fundamentalist&#34;. 1 typescript, 4 carbons &#9830;&#34;Healing&#34;. 1 typescript, 1 carbon &#9830;&#34;The Hills Remember&#34;. 1 typescript, 2 carbons</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Lausanne&#34;. 1 typescript &#9830;&#34;Lightning&#39;s Blink&#34;. 1 typescript, 2 carbons &#9830;&#34;Night Windows&#34;. 2 carbons &#9830;&#34;Parable&#34;. 3 carbons &#9830;&#34;Premonition&#34;, 1 typescript, 1 carbon
+            &#9830;&#34;Primavera&#34;, 1 typescript, 1 carbon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Proposal&#34;. 1 typescript with notes in another hand, 3 carbons &#9830;&#34;Red Even&#34;. 3 holograph, 1 carbon &#9830;&#34;Riddle&#34;. 1 holograph, 1 typescript, 2 carbons &#9830;&#34;Snow Prayers I, II, III&#34;. 1
+            typescript, 3 carbons &#9830;&#34;The Survivors&#34;. 1 carbon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Three Rabbits&#34;. 1 typescript &#9830;&#34;To a Tired Clerk&#34;. 2 carbons &#9830;&#34;To the Bugle Not Blown&#34;. 1 holograph &#9830;&#34;Trinity&#34;. 1 typescript, 1 carbon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#252;ntltled poem: &#34;I Tossed an Arm Out...&#34;. 1 typescript with holograph</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>revision, 1 typescript, 2 carbons. Fragments: 8 pages holograph</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Poems are listed in alphabetical order.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Location key: J Juvenilia F Fugitive EL Early and Late CP Conversation Piece N Nashville and Other Poems</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Agriochaerus,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;And Fifty Years,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;And Will Be?&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Arlington National Cemetary,&#34; F,EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Armageddon,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Artisans,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Atom End,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Audubon,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Aunt Minnie,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Automobile Ride,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Bat Magic,&#34; EL &#34;Belleek Valentine,&#34; EL &#34;Biography,&#34; N &#34;Black Sheep,&#34; F &#34;Boy and Bird,&#34; N &#34;Bystander,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Canticle for Animals,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Cape Cod, 1960,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Casual Reference, Book Obscure,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Centuries,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Changes,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Conjunction,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Consider the Heavens,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Contrast,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Conversation Piece,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Crystal Gazer,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Deliver Us,&#34; N &#34;The Depths,&#34; F &#34;Devil&#39;s Advocate,&#34; EL &#34;Discovery,&#34; EL &#34;Domina,&#34; N &#34;Double View,&#34; J &#34;Dream,&#34; F, EL &#34;Dust,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Eden,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Estes Park, 1919,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Evening Grosbeak,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Extinction,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Ex-Wizardry,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Fall Mockery,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;False Dawn,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Fear,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Felix Adair,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Final Note,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Flesh of Flowers,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;For a Daughter,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;For My Father,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Form and Formless,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;From a Window,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Full Circle,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;A Fundamentalist,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Generations,&#34; N &#34;Gone,&#34; N &#34;Gray,&#34; CP &#34;Green,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Half Men,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Half Said,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Happenstances,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Happy Home,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Harbor Changes,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Healing,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Hermitage,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;High Moment,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Hills Remember,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;I Have Known Many,&#34; EL &#34;I Would Give Thanks,&#34; EL &#34;In the Day-Coach,&#34; J &#34;Incognito,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Last Confederate,&#34; CP &#34;Lausanne,&#34; F &#34;Less Seriously,&#34; N &#34;Libraries,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>JL JL JL %&#8217; &#8226; &#8226; *J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Lightning&#39;s Blink,&#34; F, EL &#34;The Lights Go Out,&#34; N &#34;Love&#39;s End,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Man Who Really Knew,&#34; EL &#34;Meditations of a Wasp,&#34; N &#34;The Metal from the Ore,&#34; EL &#34;Miracle,&#34; EL &#34;Misery,&#34; J &#34;Misgiving,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Nashville,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Night Windows,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;November, 1957,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Of Many Mockingbirds,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Old Leaves,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;On a Picture of Earth,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;On Hearing of the Death of a Friend,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Once,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Optimist,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Parable,&#34; F, EL &#34;Pictures Out of Frame,&#34; EL &#34;Prayer,&#34; EL &#34;Premonition,&#34; F, EL &#34;Primavera,&#34; F, EL &#34;The Proposal,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Question,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Question Mark and Elegy,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Red,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Red Even,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Rejuvenescence,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Remembrances&#8212;For D.D.,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Requiem for a Church Condemned,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Requiescat,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Revery,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Riddle,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;A Rondeau to Dreams,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;A Rondeau to Louise,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Safeguards,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Salute to T.L.T.,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Savage,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;September,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Seven Days,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Six Sonnets to the Bridge Club,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Snow Prayers,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Spring,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Survivors,&#34; F, EL &#34;The Swallows Speak,&#34; J &#34;Sword and Spirit,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Thomason the Historian,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Three Rabbits,&#34; F</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Three Sonnets to Jones,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Through the Window,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Time Worn,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;To a Portrait of Ellen,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;To a Tired Clerk,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;To the Bugle Not Blown,&#34; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Treason,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Trinity,&#39;&#8226; F, EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Two Children,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Underground,&#34; N &#34;Upside Down,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Veterans,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Warbler,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Watchers,&#34; EL</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;The Waters Above and Below,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;What Things Endure,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Whence,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;White,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Whose,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Why,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Winter Garden,&#34; CP</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Winter Rite,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Wisdom,&#34; J</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Within the Storm,&#34; N</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>&#34;Words,&#34; EL</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
