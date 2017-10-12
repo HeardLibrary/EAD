@@ -1,574 +1,581 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Wright, Joseph E. Papers</titleproper>
-<titleproper>Finding Aid for the Joseph E. Wright Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>1853-1887</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Joseph E. Wright Papers</unittitle>
-<unitid>MSS.0532</unitid>
-<unitdate>1931-1968</unitdate>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-</physdesc>
-<unitdate>1931-1968</unitdate>
-</did>
-<bioghist>
-<head>Biography</head>
-<p>Joseph E. Wright (1918----) was born in Memphis, Tennessee. He received is B.S. from Memphis State College in 1938; his M.A. from Northwestern University in 1946; and completed additional graduate work at Columbia University. He served in the military during World War II. During his life he produced plays for highschool and college students, adults, and military personnel. Joseph Wright began his employment with Vanderbilt University in 1946 as Assistant Professor of Dramatics and Public Speaking. In addition to his teaching duties in dramatic literature, he served as Director of the Vanderbilt University Theatre. He retired in 1986.</p>
-<p>This collection was donated by Joseph E. Wright.</p>
-</bioghist>
-<scopecontent>
-<head>Scope and Contents</head>
-<p>This one linear foot collection contains five series in 38 file folders: Series I contains ephemeral items related to George Bernard Shaw; Series II contains incoming correspondence from a teacher and her class who attended a production of Hamlet; Series III contains a poem written by Donald Davidson to the cast of the first Singin Billy production; Series IV contains prompt books for plays; and Series IV contains theatre programs.</p>
-</scopecontent>
-<dsc type="othertype">
-<c01 level="series">
-<did>
-<container type="box">Series I &#8211; George Bernard Shaw</container>
-</did>
-<c02 level="series">
-<did>
-<unittitle>Correspondence &#8211; Outgoing</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unitdate>February 9, 1931</unitdate>
-<unittitle>re: Lowke Domestic Engineering Company</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unitdate>February 10, 1931</unitdate>
-<unittitle>note card</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unitdate>February 12, 1931</unitdate>
-<unittitle>re: Lowke Domestic Engineering Company</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="series">
-<did>
-<unittitle>Contracts and Deeds</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unitdate>February 10, 1931</unitdate>
-<unittitle>Deed of Arrangement between Harold Austin Bassett Lowke and his Creditors</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unitdate>September 20, 1932</unitdate>
-<unittitle>Authority signed by Creditors for Dividend</unittitle>
-</did>
-</c03>
-</c02>
-</c01>
-<c01 level="series">
-<did>
-<container type="box">Series II &#8211; Correspondence - Incoming</container>
-</did>
-<c02 level="series">
-<did>
-<unittitle>From a Teacher and her Students</unittitle>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>Lynn Hewes &#8211; teacher</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Phil Cannady</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Elaine Crockett</unittitle>
-<unitdate>March 3, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Betty Ann Cullipher</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Brenda Estes</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Anna Felts</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>Cheryl Finley</unittitle>
-<unitdate>March 3, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Mary Frye</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Marcia Fly</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Susan Futrell</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Jerald Garnett</unittitle>
-<unitdate>March 3, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Jane Hunter</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Margaret Jones</unittitle>
-<unitdate>March 3, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Carol Lyles</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Linda McCool</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Cheryl McDow</unittitle>
-<unitdate>March 5, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Pam Miller</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<unittitle>Virginia Poole</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Judy Saeger</unittitle>
-<unitdate>March 3, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Warren Schultz</unittitle>
-<unitdate>March 3, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>Paula Singleton</unittitle>
-<unitdate>March 3, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Connie Smith</unittitle>
-<unitdate>March 7, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Larry Stanley</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Timothy Walker</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>William Wall</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>Kitty White</unittitle>
-<unitdate>March 6, 1961</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="series">
-<did>
-<container type="box">Series III &#8211; Poem</container>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>To the Fair and Brave, by Donald Davidson Sent to the cast of the first Singin Billy Production, Vanderbilt Theatre, Nashville April</unittitle>
-<unitdate>23-28, 1952</unitdate>
-</did>
-</c03>
-</c02>
-<c02 level="series">
-<did>
-<container type="box">Series IV &#8211; Prompt Books</container>
-</did>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>Arsenic and Old Lace</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>The Barber of Seville</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="folder">11</container>
-<unittitle>The Conversion of Buster Drumwright</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>The Doctor in Spite of Himself</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Founders&#8217; Capers</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>The Ghosts</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>Hamlet</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>Julius Caesar</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>Juno and the Paycock</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>King Lear</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>The Love of Four Colonels</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>The Marching Song</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle>Measure for Measure</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle>The Merchant of Venice</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle>The Miser</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle>Much Ado About Nothing</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle>Much Ado About Nothing [second copy]</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">26</container>
-<unittitle>Oedipus Rex</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">27</container>
-<unittitle>Othello</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">27</container>
-<unittitle>Othello [continued]</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">28</container>
-<unittitle>Othello [continued]</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">29</container> 
-<unittitle>Playboy of the Western World</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">30</container>
-<unittitle>The Silver Cord</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">31</container>
-<unittitle>Strangers in this World</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">32</container>
-<unittitle> Strangers in this World [second copy]-copyright granted</unittitle>
-<unitdate>1952</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">33</container> 
-<unittitle>The Taming of the Shrew</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">34</container>
-<unittitle>Twelfth Night</unittitle>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">35</container>
-<unittitle> Warn Lights</unittitle>
-</did>
-</c03>
-</c02>
-<c02 level="series">
-<did>
-<container type="box">Oversized Materials</container>
-</did>
-</c02>
-<c02 level="series">
-<did>
-<container type="box">Series V &#8211; Theatre Programs &#8211; Ford&#8217;s Theatre</container>
-</did>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">36</container>
-<unittitle>John Brown&#8217;s Body</unittitle>
-<unitdate>February 12, 1968</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">37</container>
-<unittitle>The Comedy of Errors</unittitle>
-<unitdate>February 26, 1968</unitdate>
-</did>
-</c03>
-<c03 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">38</container>
-<unittitle>She Stoops To Conquer</unittitle>
-<unitdate>March 26, 1968</unitdate>
-</did>
-</c03>
-</c02>
-</c01>
-</dsc>
-</archdesc>
-</ead>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Wright, Joseph E. Papers</titleproper>
+        <titleproper>Finding Aid for the Joseph E. Wright Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Joseph E. Wright Papers</unittitle>
+      <unitid>MSS.0532</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.26 linear_feet</extent>
+      </physdesc>
+      <unitdate>1931-1968</unitdate>
+    </did>
+    <bioghist>
+      <head>Biography</head>
+      <p>Joseph E. Wright (1918-) was born in Memphis, Tennessee. He received is B.S. from Memphis State College in 1938; his M.A. from Northwestern University in 1946; and completed additional graduate work at Columbia University. He served in the
+        military during World War II. During his life he produced plays for highschool and college students, adults, and military personnel. Joseph Wright began his employment with Vanderbilt University in 1946 as Assistant Professor of Dramatics and Public
+        Speaking. In addition to his teaching duties in dramatic literature, he served as Director of the Vanderbilt University Theatre. He retired in 1986.</p>
+      <p>This collection was donated by Joseph E. Wright.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Contents</head>
+      <p>This one linear foot collection contains five series in 38 file folders:</p>
+        <p>Series I contains ephemeral items related to George Bernard Shaw</p>
+        <p>Series II contains incoming correspondence from a teacher and her class who attended a production of Hamlet</p>
+        <p>Series III contains a poem written by Donald Davidson to the cast of the first Singin Billy production</p>
+        <p>Series IV contains prompt books for plays</p>
+        <p>Series V contains theatre programs.</p>
+      </scopecontent>
+      <dsc type="othertype">
+        <c01 level="series">
+          <did>
+            <container type="box">Series I &#8211; George Bernard Shaw</container>
+          </did>
+          <c02 level="series">
+            <did>
+              <unittitle>Correspondence &#8211; Outgoing</unittitle>
+            </did>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">1</container>
+                <unitdate>February 9, 1931</unitdate>
+                <unittitle>re: Lowke Domestic Engineering Company</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">1</container>
+                <unitdate>February 10, 1931</unitdate>
+                <unittitle>note card</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">1</container>
+                <unitdate>February 12, 1931</unitdate>
+                <unittitle>re: Lowke Domestic Engineering Company</unittitle>
+              </did>
+            </c03>
+          </c02>
+          <c02 level="series">
+            <did>
+              <unittitle>Contracts and Deeds</unittitle>
+            </did>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">2</container>
+                <unitdate>February 10, 1931</unitdate>
+                <unittitle>Deed of Arrangement between Harold Austin Bassett Lowke and his Creditors</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">3</container>
+                <unitdate>September 20, 1932</unitdate>
+                <unittitle>Authority signed by Creditors for Dividend</unittitle>
+              </did>
+            </c03>
+          </c02>
+        </c01>
+        <c01 level="series">
+          <did>
+            <container type="box">Series II &#8211; Correspondence - Incoming</container>
+          </did>
+          <c02 level="series">
+            <did>
+              <unittitle>From a Teacher and her Students</unittitle>
+            </did>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">4</container>
+                <unittitle>Lynn Hewes &#8211; teacher</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">5</container>
+                <unittitle>Phil Cannady</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">5</container>
+                <unittitle>Elaine Crockett</unittitle>
+                <unitdate>March 3, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">5</container>
+                <unittitle>Betty Ann Cullipher</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">5</container>
+                <unittitle>Brenda Estes</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">5</container>
+                <unittitle>Anna Felts</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">5</container>
+                <unittitle>Cheryl Finley</unittitle>
+                <unitdate>March 3, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Mary Frye</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Marcia Fly</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Susan Futrell</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Jerald Garnett</unittitle>
+                <unitdate>March 3, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Jane Hunter</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Margaret Jones</unittitle>
+                <unitdate>March 3, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Carol Lyles</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Linda McCool</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Cheryl McDow</unittitle>
+                <unitdate>March 5, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Pam Miller</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <unittitle>Virginia Poole</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Judy Saeger</unittitle>
+                <unitdate>March 3, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Warren Schultz</unittitle>
+                <unitdate>March 3, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">6</container>
+                <unittitle>Paula Singleton</unittitle>
+                <unitdate>March 3, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">7</container>
+                <unittitle>Connie Smith</unittitle>
+                <unitdate>March 7, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">7</container>
+                <unittitle>Larry Stanley</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">7</container>
+                <unittitle>Timothy Walker</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">7</container>
+                <unittitle>William Wall</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">7</container>
+                <unittitle>Kitty White</unittitle>
+                <unitdate>March 6, 1961</unitdate>
+              </did>
+            </c03>
+          </c02>
+          <c02 level="series">
+            <did>
+              <container type="box">Series III &#8211; Poem</container>
+            </did>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">8</container>
+                <unittitle>To the Fair and Brave, by Donald Davidson Sent to the cast of the first Singin Billy Production, Vanderbilt Theatre, Nashville April</unittitle>
+                <unitdate>23-28, 1952</unitdate>
+              </did>
+            </c03>
+          </c02>
+          <c02 level="series">
+            <did>
+              <container type="box">Series IV &#8211; Prompt Books</container>
+            </did>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">9</container>
+                <unittitle>Arsenic and Old Lace</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">10</container>
+                <unittitle>The Barber of Seville</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="folder">11</container>
+                <unittitle>The Conversion of Buster Drumwright</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">12</container>
+                <unittitle>The Doctor in Spite of Himself</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">13</container>
+                <unittitle>Founders&#8217; Capers</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">14</container>
+                <unittitle>The Ghosts</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">15</container>
+                <unittitle>Hamlet</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">16</container>
+                <unittitle>Julius Caesar</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">1</container>
+                <container type="folder">17</container>
+                <unittitle>Juno and the Paycock</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">18</container>
+                <unittitle>King Lear</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">19</container>
+                <unittitle>The Love of Four Colonels</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">20</container>
+                <unittitle>The Marching Song</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">21</container>
+                <unittitle>Measure for Measure</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">22</container>
+                <unittitle>The Merchant of Venice</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">23</container>
+                <unittitle>The Miser</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">24</container>
+                <unittitle>Much Ado About Nothing</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">2</container>
+                <container type="folder">25</container>
+                <unittitle>Much Ado About Nothing [second copy]</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">26</container>
+                <unittitle>Oedipus Rex</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">27</container>
+                <unittitle>Othello</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">27</container>
+                <unittitle>Othello [continued]</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">28</container>
+                <unittitle>Othello [continued]</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">29</container>
+                <unittitle>Playboy of the Western World</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">30</container>
+                <unittitle>The Silver Cord</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">31</container>
+                <unittitle>Strangers in this World</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">32</container>
+                <unittitle>
+                  Strangers in this World [second copy]-copyright granted</unittitle>
+                <unitdate>1952</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">33</container>
+                <unittitle>The Taming of the Shrew</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">34</container>
+                <unittitle>Twelfth Night</unittitle>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">35</container>
+                <unittitle>
+                  Warn Lights</unittitle>
+              </did>
+            </c03>
+          </c02>
+          <c02 level="series">
+            <did>
+              <container type="box">Oversized Materials</container>
+            </did>
+          </c02>
+          <c02 level="series">
+            <did>
+              <container type="box">Series V &#8211; Theatre Programs &#8211; Ford&#8217;s Theatre</container>
+            </did>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">36</container>
+                <unittitle>John Brown&#8217;s Body</unittitle>
+                <unitdate>February 12, 1968</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">37</container>
+                <unittitle>The Comedy of Errors</unittitle>
+                <unitdate>February 26, 1968</unitdate>
+              </did>
+            </c03>
+            <c03 level="item">
+              <did>
+                <container type="box">3</container>
+                <container type="folder">38</container>
+                <unittitle>She Stoops To Conquer</unittitle>
+                <unitdate>March 26, 1968</unitdate>
+              </did>
+            </c03>
+          </c02>
+        </c01>
+      </dsc>
+    </archdesc>
+  </ead>
