@@ -1,2383 +1,2457 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Thomson, Robert Polk Papers</titleproper>
-<titleproper>Finding Aid for the Robert Thomson Boxes</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2012</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Robert Thomson Boxes</unittitle>
-<unitid>MSS.0700</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">4.05 Linear Feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">1</container>
-<unittitle>Holley, Mildred D. (Mississippi)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">2</container>
-<unittitle>Zachariah Cox Letter</unittitle>
-<unitdate>August 25, December 1794</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">3</container>
-<unittitle>2 Cox, R. P. Thompson</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">4</container>
-<unittitle>II</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">5</container>
-<unittitle>III</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">6</container>
-<unittitle>IV</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">7</container>
-<unittitle>V</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">8</container>
-<unittitle>VI</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">9</container>
-<unittitle>VII</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">10</container>
-<unittitle>VIII</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">11</container>
-<unittitle>Outlines and Annunciations</unittitle>
-<unitdate>1725-1763</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">12</container>
-<unittitle>II 1725-1763 Outline- The Development of Market Machinery</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>I. 1725-1763 C. The Gooch Tobacco Inspection System</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">14</container>
-<unittitle>I 1725-1763 A. Commercial Duties and Legal Proceedings</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">15</container>
-<unittitle>I 1725-1763 B. Comency Reform</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">16</container>
-<unittitle>I 1725-1763 D. The Excise of 1733</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">17</container>
-<unittitle>I 1725-1763 E. Unofficial Schemes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">18</container>
-<unittitle>II 1725-1763 B. The Development of Market Machinery</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">19</container>
-<unittitle>III 1725-1763 C. William Woodford</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">20</container>
-<unittitle>II 1725-1763 D. John Norton and John Svelson</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">21</container>
-<unittitle>II 1725-1763 E. The Bogles</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">22</container>
-<unittitle>II 1725-1763 F. Andrew Meade</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">23</container>
-<unittitle>II 1725-1763 G. Charles Stewart</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">24</container>
-<unittitle>blank</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">25</container>
-<unittitle>II 1725-1763 A. The Piedmont Expansion</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">26</container>
-<unittitle>IVC</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">27</container>
-<unittitle>American Association for State and Local History</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">28</container>
-<unittitle>Market Auditions</unittitle>
-<unitdate>1749-1759</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">29</container>
-<unittitle>IV A</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">30</container>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">31</container>
-<unittitle>IV D and IV E</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">32</container>
-<unittitle>Statistical Efforts</unittitle>
-<unitdate>1725-1763</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">33</container>
-<unittitle>Virginia Tobacco Prices</unittitle>
-<unitdate>1700-1750</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">34</container>
-<unittitle>Rate of Exchange G.B.-Virginia</unittitle>
-<unitdate>1700-1775</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">35</container>
-<unittitle>Regulation of Mercantile Activity</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">36</container>
-<unittitle>The Morality of American History notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">37</container>
-<unittitle>William and Mary College</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">38</container>
-<unittitle>Letters to and from Dr. Roberts</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">39</container>
-<unittitle>Unused Manuscript 1700-1725</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">40</container>
-<unittitle>I 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">41</container>
-<unittitle>II 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">42</container>
-<unittitle>III 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">43</container>
-<unittitle>IV 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">44</container>
-<unittitle>V 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">45</container>
-<unittitle>VI 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">46</container>
-<unittitle>VII 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">47</container>
-<unittitle>VIII 1700-1725 Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">48</container>
-<unittitle>I 1725-1763 Final Drafts</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">49</container>
-<unittitle>I 1725-1763 A-B First Draft</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">50</container>
-<unittitle>II 1725-1763 William Woodford Draft One</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">51</container>
-<unittitle>II 1725-1763 William Woodford Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">52</container>
-<unittitle>II 1725-1763 D. Svelson Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">53</container>
-<unittitle>II 1725-1763 E. Anderson Meade Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">54</container>
-<unittitle>II 1725-1763 F. Charles Stewart Notes and First Draft</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">55</container>
-<unittitle>II 1725-1763 G. Bogles Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">56</container>
-<unittitle>Pattern of Mercantile Activity in Virginia</unittitle>
-<unitdate>1763-1775</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">57</container>
-<unittitle>Correspondence</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">58</container>
-<unittitle>Notes on Note Taking: Sentence Writing</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">59</container>
-<unittitle>Winterbotham</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">60</container>
-<unittitle>Maryland Colleges in the Revolutionary Era</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">61</container>
-<unittitle>Cokesburg College- Maryland</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">62</container>
-<unittitle>Washington College- Maryland</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">63</container>
-<unittitle>St. Johns College- Maryland</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">64</container>
-<unittitle>Virginia Colleges: Liberty Hall</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">65</container>
-<unittitle>Virginia Colleges: Hampden Sydney</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">66</container>
-<unittitle>North Carolina Colleges during Revolutionary Era</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">1</container>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">2</container>
-<unittitle>Letters to and from Robert Thomson</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">3</container>
-<unittitle>Correspondence, personal</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">4</container>
-<unittitle>350 Lecture IA- <emph render="underline">Location and Exercise of Power</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">5</container>
-<unittitle>350 Lecture IB- <emph render="underline">The Voice of the Citizen</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">6</container>
-<unittitle>350 Lecture IC- <emph render="underline">Schools and Colleges in Early America</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">7</container>
-<unittitle>350 Lecture ID- <emph render="underline">Educational Spokesmen</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">8</container>
-<unittitle>350 Lecture IIA- <emph render="underline">Carriers of Culture</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">9</container>
-<unittitle>350 Lecture IIB- <emph render="underline">Classical Forms in America</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">10</container>
-<unittitle>350 Lecture IIC- <emph render="underline">American Achievements in Art and Intellect</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">11</container>
-<unittitle>350 Lecture IID- <emph render="underline">Success and Failure in Institutions of Learning</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">12</container>
-<unittitle>350 Lecture IIIA- <emph render="underline">Measures of Nationalism</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">13</container>
-<unittitle>350 Lecture IIIB- <emph render="underline">Self-Conscious Nationalism</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">14</container>
-<unittitle>350 Lecture IIIC- <emph render="underline">A Mission for America</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">15</container>
-<unittitle>350 Lecture IIID- <emph render="underline">The School as an Instrument of National Purpose</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">16</container>
-<unittitle>350 Lecture IVA- <emph render="underline">Values</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">17</container>
-<unittitle>350 Lecture IVB- <emph render="underline">Native Forms</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">18</container>
-<unittitle>350 Lecture IVC- <emph render="underline">The Response of Schools</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">19</container>
-<unittitle>History 500 Introduction</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">20</container>
-<unittitle>380 Reference Works</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">21</container>
-<unittitle>397- Writing and Style</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">22</container>
-<unittitle>397- Arendt: Understanding and Politics</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">23</container>
-<unittitle>397- Becker: Every Man His Own Historian</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">24</container>
-<unittitle>Becker, &#8220;What Are Historical Facts?&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">25</container>
-<unittitle>Berlin, &#8220;Historical Inevitability&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">26</container>
-<unittitle>Butterfield- &#8220;Memorial Judgments in History&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">27</container>
-<unittitle>397 Paul Conkin; Causation Revisited</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">28</container>
-<unittitle>Degler: History Without a Beard</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">29</container>
-<unittitle>Felix Gilbert on History</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">30</container>
-<unittitle>Hempel- &#8220;The Function of General Laws in History&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">31</container>
-<unittitle>J.H. Hester, &#8220;Fernand Braudel&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">32</container>
-<unittitle>James Hooper, <emph render="underline">Oral History</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">33</container>
-<unittitle>&#8220;The Historian and the Social Scientist&#8221; By H. Stewart Hughes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">44</container>
-<unittitle>397 Huizinga: Historical Concepts; Tutilization</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">45</container>
-<unittitle>Manual; &#8220;Use and Abuse of Psychology in History&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">46</container>
-<unittitle>397 Morrison: Faith of a Historian</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">47</container>
-<unittitle>397 Namier: avenues of History</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">48</container>
-<unittitle>397 Popper: Critiques of Classical Theories of History</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">49</container>
-<unittitle>397 Strout: Causality</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">50</container>
-<unittitle>397 Susman: History and the American Intellectual: Uses of a Useable Past</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">51</container>
-<unittitle>397 Toynbee: Can We Know the Pattern of the Past</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">52</container>
-<unittitle>397 Wise: Implicit Irony in Perry Miller&#8217;s New England Mind</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">53</container>
-<unittitle>J.H. Franklin &#8220;Century of Reconstruction History&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">54</container>
-<unittitle>Jonathan Wiener, &#8220;Class Structure and Economic Development in the Am. South</unittitle>
-<unitdate>1865-1955</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">55</container>
-<unittitle>397 Zinn <emph render="underline">The Politics of History</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">56</container>
-<unittitle>397- Philosophy of History (Non-Current)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">57</container>
-<unittitle>W&#38;M</unittitle>
-<unitdate>1760s</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">58</container>
-<unittitle>W&#38;M</unittitle>
-<unitdate>1770s</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">59</container>
-<unittitle>William and Mary College</unittitle>
-<unitdate>1750-1800</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">2</container>
-<container type="folder">60</container>
-<unittitle>Virginia Colleges of Revolutionary Era</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">1</container>
-<unittitle>South Carolina colleges in the Revolutionary Era</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">2</container>
-<unittitle>Tennessee Colleges</unittitle>
-<unitdate>1783-1800</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">3</container>
-<unittitle>Kentucky College to 1800</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">4</container>
-<unittitle>Political Theory</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">5</container>
-<unittitle>Madison Pant and Awning Company</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">6</container>
-<unittitle>Preliminary Examination for the Ph.D.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">7</container>
-<unittitle>9-13-78 Book Review- PFE, George Peabody Col. THE FUTURE OF HISTORY.Vand.Univ.Symp</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">8</container>
-<unittitle>Ammerman, David <emph render="underline">In the Common Cause</emph> book review rpt</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">9</container>
-<unittitle>BOOK REVIEWS (HISTORY) &#8217;78. The Southern Experience in the American Revolution. Jeffrey J. Crow &#38; :arru Tise</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">10</container>
-<unittitle>AERA- 1976 comments on papers</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">11</container>
-<unittitle><emph render="underline">COLONIAL GEORGIA</emph>- Review for the Journal of Southern History</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">12</container>
-<unittitle>Review of Empire of Independence 1760-1776: A British-American Dialogue on American Revolution. Phil. Quart. &#8216;76</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">13</container>
-<unittitle>Review of John H. Westerhoff, MCGUFFY AND HIS READERS: Piety, Morality and Education in 19thC.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">14</container>
-<unittitle>Review of THEIR MAJESTIES&#8217; ROYALL COLLEDGE. The Virginia Gazette 11/76</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">15</container>
-<unittitle>A Time to Decide- The Making of Loyalists- talk to International Study Club November 75 by RPT</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">16</container>
-<unittitle>Microcosm of Revolution- paper for sons of American Revolution</unittitle>
-<unitdate>June 1976</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">17</container>
-<unittitle>Notes on Signers of the Declaration of Independence</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">18</container>
-<unittitle>The Loyalties in the American Revolution- RPT lecture at MTSU</unittitle>
-<unitdate>13 April 1976</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">19</container>
-<unittitle>1978- Comments on Horne</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">20</container>
-<unittitle>ASA (1968) Doing research on the Negro</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">21</container>
-<unittitle>The Great Contours notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">22</container>
-<unittitle>James Claypoole&#8217;s Letterbooks. Reviews</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">23</container>
-<unittitle>Book Review: <emph render="underline">Affectionately Yours George Washington</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">24</container>
-<unittitle>Review of: John Harrower diary</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">25</container>
-<unittitle>Review: Colbourn <emph render="underline">The Lamp of Experience</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">26</container>
-<unittitle><emph render="underline">The Americans: The National Experience; and The Life of the Mind in America from the Reconstruction to the Civil War</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">27</container>
-<unittitle>Review of Greenled. Ferry Hill Plantation Journal</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">28</container>
-<unittitle>Book Review: Peter Magrath <emph render="underline">Yazoo: Law and Politics</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">29</container>
-<unittitle>Malone Jefferson Review</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">30</container>
-<unittitle>Review: Williamson Fitzhugh and His Chesapeake World</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">31</container>
-<unittitle>Titus, Winston Churchill review</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">32</container>
-<unittitle>Review of: The Emergence of a National Economy 1775-1815, by Nettels</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">33</container>
-<unittitle>Lynd, Class Conflict Review</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">34</container>
-<unittitle>Review of William Tatham</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">35</container>
-<unittitle>Peabody Journal of Education 6/79. REVIEW, Donald R. Warren, editor. History, Education, and Public Policy</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">36</container>
-<unittitle>Review- <emph render="underline">Lieutenant Lee of Beale Street</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">37</container>
-<unittitle>Review: <emph render="underline">Crisis in the Classroom</emph> by Charles E. Silberman</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">38</container>
-<unittitle>Review- Rouse, Parke, Jr. <emph render="underline">James Blair of Virginia</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">39</container>
-<unittitle>Review of Correspondence of James K. Polk</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">40</container>
-<unittitle>Review: George N. Rainsford <emph render="underline">Congress and Higher Education in the 19th century</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">41</container>
-<unittitle><emph render="underline">The Dawn&#8217;s Early Light</emph> Walter Word</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">42</container>
-<unittitle>Review- Films- &#8220;Cause of Liberty&#8221; and &#8220;Impossible War&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">43</container>
-<unittitle>Illich&#8217;s <emph render="underline">Deschooling Society</emph> Review</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">44</container>
-<unittitle>France and the Chesapeake by J. Price</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">45</container>
-<unittitle>The Campus as Community</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">46</container>
-<unittitle>Response- Field Teaching Essays</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">47</container>
-<unittitle><emph render="underline">A Task for The University</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">48</container>
-<unittitle>Virginia Project</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">49</container>
-<unittitle>Yearbook 1975- National Council for the Social Sciences</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">50</container>
-<unittitle>English Ed. Writing, 18th century A-D</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">51</container>
-<unittitle>English Ed. Writing, 18th century E-P</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">52</container>
-<unittitle>English Ed. Writing, 18th century R-2</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">53</container>
-<unittitle>England, 1973 Trip to</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">54</container>
-<unittitle>Impact of British on American Education</unittitle>
-<unitdate>1760-1800</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">55</container>
-<unittitle>History of American Education (On American Colleges) Winterbotham</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">56</container>
-<unittitle>S.C. Trade Regulation 18th century</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">57</container>
-<unittitle>Talk for Alexander&#8217;s course. Education 568</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">58</container>
-<unittitle>The Purpose of Teaching History</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">59</container>
-<unittitle>Am. Lite and Lecture. Order and Disorder: Social Patterns in Colonial America</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">60</container>
-<unittitle>History as a Contemporary Subject 1967 Private School Education</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">61</container>
-<unittitle>Washington Birthday Speech</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">62</container>
-<unittitle>Book of Knowledge. Colonial Life Article</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">63</container>
-<unittitle>Some Thoughts on the Education of Curriculum Makers</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">64</container>
-<unittitle>Lecture Education 545 B Social Foundations</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">65</container>
-<unittitle>World Book: General</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">66</container>
-<unittitle>OAH- 1970 Hemphill and Kay (Research and Writings)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">67</container>
-<unittitle>The Virginia Government and the Regulation of Commercial Activity</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">68</container>
-<unittitle>Pattern of Mercantile Activity in Virginia</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">69</container>
-<unittitle>Pattern of Mercantile Activity in Virginia</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">70</container>
-<unittitle>St. George Tucker</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">71</container>
-<unittitle>Book Outline</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">3</container>
-<container type="folder">72</container>
-<unittitle>I 1700-1725</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">1</container>
-<unittitle>History Course Grade Sheet</unittitle>
-<unitdate>1980-90</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">2</container>
-<unittitle>History 416, 400, 500, 529</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">3</container>
-<unittitle>History 502- Syllabus</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">4</container>
-<unittitle>Jack Greene &#8220;Uneasy Condition- Preconditions of the American Revolution&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">5</container>
-<unittitle>Bernard Bailyn, &#8220;Central Themes of the American Revolution</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">6</container>
-<unittitle>Daniel B. Smith, &#8220;The Study of the Family in Early America&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">7</container>
-<unittitle>Stephen S. Webb, extracts from book</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">8</container>
-<unittitle>Bernard Bailyn, <emph render="underline">Voyages to the West</emph> 3-49, 243-245</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">9</container>
-<unittitle>Morgan, Labor Problems at Jamestown</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">10</container>
-<unittitle>Perry Miller, &#8220;Errand into the Wilderness&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">11</container>
-<unittitle>Darrett Rutman, Minor of Puritan Authority Reading II</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">12</container>
-<unittitle>Jack Greene, <emph render="underline">Pursuit of Happiness</emph> Chapter 2, 8 pg. 28-54, 170-206</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">13</container>
-<unittitle>James Henretta, &#8220;Mentalite in Pre-Industrial America&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">14</container>
-<unittitle>Kulikoff, &#8220;Origins of Afro-American Society in Maryland and Virginia</unittitle>
-<unitdate>1700-1790</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">15</container>
-<unittitle>History 250- Readings. Bailyn: The Merchant Group at the End of the 17th Century</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">16</container>
-<unittitle>History 250- Readings. Billington: The Reinterpretation of Early American History</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">17</container>
-<unittitle>History 250- Readings. Campbell: English Emigration on the Eve of the American Revolution</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">18</container>
-<unittitle>History 250- Readings. Laslett: John Locke, The Great Recoinage, and the Origins of the Board of Trade</unittitle>
-<unitdate>1695-1698</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">19</container>
-<unittitle>History 250- Readings. Lockridge: Land, Population and the Evolution of New England Society</unittitle>
-<unitdate>1630-1790</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">20</container>
-<unittitle>History 250- Readings. Namier: Why Men Went Into Parliament</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">21</container>
-<unittitle>The Intellectual Golden Age in the Colonial Chesapeake Bay Country</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">22</container>
-<unittitle>II. A. History of Education 201. Walzer, John &#8220;A Period of Ambivalence&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">23</container>
-<unittitle>II. B. History of Education 201. Tyack, David &#8220;Forming the National Character...&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">24</container>
-<unittitle>II. B. History of Education 201. Kaestle, Carl &#8220;Common Schools Before the Common School Revival...&#8221;</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">25</container>
-<unittitle>II. B. History of Education 201. Sizer, Thoedore <emph render="underline">The Age of the Academies</emph>, 1-23</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">26</container>
-<unittitle>II. C. History of Education 201. Smith, Wilson <emph render="underline">Theories of Education in Early America</emph></unittitle>
-<unitdate><emph render="underline">1655-1819</emph></unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">27</container>
-<unittitle>Education 307- Readings. Morgan: Ezra Stiles: The Education of a Yale Man</unittitle>
-<unitdate>1742-1746</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">28</container>
-<unittitle>Education 307- Readings. Morison: The Founding of Harvard College</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">29</container>
-<unittitle>Education 307: Readings Hiner: Adolescence in the 18th Century America</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">30</container>
-<unittitle>Education 307- Readings Hiner: The Cry of Sodom Enquired into: Educational Analysis in 17th Century New England</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">31</container>
-<unittitle>Education 307- Readings. Herbst: Yale Under Clapp</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">32</container>
-<unittitle>History 250- Lecture. Liddle- Virtue and Liberty</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">33</container>
-<unittitle>History 250- Miscellaneous</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">34</container>
-<unittitle>History 250- Lecture. Great Britain and Her Colonies</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">35</container>
-<unittitle>History 250- Lecture. The Colonial Cosmology</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">36</container>
-<unittitle>History 250- Lecture. The American People</unittitle>
-<unitdate>1607-1763</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">37</container>
-<unittitle>History 201- Lecture. Learning to be Americans</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">38</container>
-<unittitle>History 250- Lecture. Colonial Society</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">39</container>
-<unittitle>History 250- Lecture. Colonial Economy</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">40</container>
-<unittitle>History 250- Lecture. Economic Development</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">41</container>
-<unittitle>History 250- Lecture. The Structure of Politics</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">42</container>
-<unittitle>History 250- Lecture. Political Issues</unittitle>
-<unitdate>1750-1760s</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">43</container>
-<unittitle>History 251- Lectures. The Coming of the American Revolution</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">44</container>
-<unittitle>Ratification of the Articles of Confederation</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">45</container>
-<unittitle>Loyalists</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">46</container>
-<unittitle>History 251- Lecture. Emergence of Political Traditions</unittitle>
-<unitdate>1789-1805</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">47</container>
-<unittitle>History 251- Lecture. The Birth of the American Levathon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">48</container>
-<unittitle>History 251- Lecture. American Culture and Society</unittitle>
-<unitdate>1790-1828</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">49</container>
-<unittitle>The Crossing of the Sea</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">50</container>
-<unittitle>Education 307- Lecture Notes and Readings</unittitle>
-<unitdate>1800-1850</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">51</container>
-<unittitle>History of American Education- Early 19th century</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">52</container>
-<unittitle>History 251- Lecture. Sectional Economics in the Age of Nationalism</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">53</container>
-<unittitle>History 251- Lecture. Political Processes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">54</container>
-<unittitle>History 251- Lecture. Jacksonian Politics</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">4</container>
-<container type="folder">55</container>
-<unittitle>History 251- Readings</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">1</container>
-<unittitle>Statistics</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">2</container>
-<unittitle>Mackencher memorial 1737 and newspaper controversy</unittitle>
-<unitdate>1738</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">3</container>
-<unittitle>Darnall affair</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">4</container>
-<unittitle>Excise Scheme</unittitle>
-<unitdate>1733</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">5</container>
-<unittitle>Gooch Inspection Act</unittitle>
-<unitdate>1730</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">6</container>
-<unittitle>Tobacco Inspection Act</unittitle>
-<unitdate>1738</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">7</container>
-<unittitle>Tobacco Inspection Acts</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">8</container>
-<unittitle>Virginia Trade with Great Britain</unittitle>
-<unitdate>1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">9</container>
-<unittitle>Rough Chronologies and Notes. Virginia Legislation</unittitle>
-<unitdate>1700-1725</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">10</container>
-<unittitle>Merchant&#8217;s Practices 1700-1725. Rough Notes and Data</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">11</container>
-<unittitle>Report to Colonial Williamsburg. Thomson</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">12</container>
-<unittitle>Sources</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">13</container>
-<unittitle>Glossary of 18th Century Virginia Terms</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">14</container>
-<unittitle>Critiques of major works on Virginia economic history</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">15</container>
-<unittitle>Tobacco prices, 1770-1775. Taken from notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">16</container>
-<unittitle>Virginia exports by district</unittitle>
-<unitdate>1772-1773</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">17</container>
-<unittitle>Population Growth</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">18</container>
-<unittitle>Governors of Virginia; Chronology</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">19</container>
-<unittitle>Population</unittitle>
-<unitdate>1700</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">20</container>
-<unittitle>Virginia Trade with Great Britain</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">5</container>
-<container type="folder">21</container>
-<unittitle>Slave Trade</unittitle>
-<unitdate>1700-1735</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">1</container>
-<unittitle>Political Science 404 Lecture/Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">2</container>
-<unittitle>Lectures Political Science 404</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">3</container>
-<unittitle>History 150 Lecture Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">4</container>
-<unittitle>History 151 Lecture Notes</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">5</container>
-<unittitle>Susskind, Jacob (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">6</container>
-<unittitle>Program of Studies</unittitle>
-<unitdate>1971-1975</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">7</container>
-<unittitle>Program of Studies</unittitle>
-<unitdate>1966-1970</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">8</container>
-<unittitle>Program of Studies</unittitle>
-<unitdate>1961-1965</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">9</container>
-<unittitle>Program of Studies</unittitle>
-<unitdate>1958-1962</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">10</container>
-<unittitle>Correspondence</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">11</container>
-<unittitle>Christ Church Vestry</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">12</container>
-<unittitle>Kathy Conlon</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">1</container>
-<container type="folder">13</container>
-<unittitle>Mashari, Ebrahim</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">14</container>
-<unittitle>Sam Otaigbe</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">15</container>
-<unittitle>Area Paper. Jack L. Seymour. Box 1003</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">16</container>
-<unittitle>Jack L. Seymour: Dissertation Proposal</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">17</container>
-<unittitle>Seymour, Jack (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">18</container>
-<unittitle>Program of Studies</unittitle>
-<unitdate>1976-1980</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">19</container>
-<unittitle>Buchannan, David J. PEY GR Summer</unittitle>
-<unitdate>1978</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">20</container>
-<unittitle>Carrell, William D. (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">21</container>
-<unittitle>Chilton, John F. (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">22</container>
-<unittitle>Casteel, James Doyle (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">23</container>
-<unittitle>Debolt, Tom (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">24</container>
-<unittitle>Hiner, Ray (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">25</container>
-<unittitle>Johnson, Tony Wayne (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">26</container>
-<unittitle>Lambkin, John (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">27</container>
-<unittitle>Myers, Charles B. (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">28</container>
-<unittitle>Schneider, Don (Ph.D.)</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">29</container>
-<unittitle>Correspondence-Personal</unittitle>
-<unitdate>1970-76</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">30</container>
-<unittitle>Episcopal Diocese Commission on Schools</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">31</container>
-<unittitle>Friends of the Library, Board of Directories &#8216;79</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">32</container>
-<unittitle>Correspondence- Personal</unittitle>
-<unitdate>1976</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">33</container>
-<unittitle><emph render="underline">GRE</emph> Guidelines to Use</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">34</container>
-<unittitle><emph render="underline">Institute of Public History</emph></unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">35</container>
-<unittitle>Public History Project</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">36</container>
-<unittitle>Peabody College- A Selected Bibliography</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">37</container>
-<unittitle>Questions Submitted by RPT. Doctorate</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">38</container>
-<unittitle>Questions Submitted by RPT. Masters</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">39</container>
-<unittitle>Recommendations</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">40</container>
-<unittitle>Reprints</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">41</container>
-<unittitle>Travel</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">42</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1969</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">43</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1968 (Fall)</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">44</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1968 (Spring)</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">45</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1967</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">46</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1966</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">47</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1965</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">48</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1964</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">49</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1963</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">50</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1962</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">51</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1961</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">6</container>
-<container type="folder">52</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1960</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">1</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1959</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">2</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1958</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">3</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1957</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">4</container>
-<unittitle>Correspondence</unittitle>
-<unitdate>1956</unitdate>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">5</container>
-<unittitle>General Education Materials</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">6</container>
-<unittitle>Job Correspondence Material</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">7</container>
-<unittitle>Termination</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">8</container>
-<unittitle>Review of So. Ed.</unittitle>
-</did>
-</c01>
-<c01 level="item">
-<did>
-<container type="box">7</container>
-<container type="folder">9</container>
-<unittitle>Demographic Implications for Peabody&#8217;s Enrollment and Curriculum Planning RPT</unittitle>
-</did>
-</c01>
-</dsc>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Thomson, Robert Polk Papers</titleproper>
+        <titleproper>Finding Aid for the Robert Thomson Boxes</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2012</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Robert Thomson Boxes</unittitle>
+      <unitid>MSS.0700</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.05 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Holley, Mildred D. (Mississippi)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Zachariah Cox Letter</unittitle>
+          <unitdate>August 25, December 1794</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>2 Cox, R. P. Thompson</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>II</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>III</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>IV</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>V</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle>VI</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">9</container>
+          <unittitle>VII</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>VIII</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>Outlines and Annunciations</unittitle>
+          <unitdate>1725-1763</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>II 1725-1763 Outline- The Development of Market Machinery</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>I. 1725-1763 C. The Gooch Tobacco Inspection System</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>I 1725-1763 A. Commercial Duties and Legal Proceedings</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>I 1725-1763 B. Comency Reform</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>I 1725-1763 D. The Excise of 1733</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>I 1725-1763 E. Unofficial Schemes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">18</container>
+          <unittitle>II 1725-1763 B. The Development of Market Machinery</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">19</container>
+          <unittitle>III 1725-1763 C. William Woodford</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">20</container>
+          <unittitle>II 1725-1763 D. John Norton and John Svelson</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">21</container>
+          <unittitle>II 1725-1763 E. The Bogles</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">22</container>
+          <unittitle>II 1725-1763 F. Andrew Meade</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">23</container>
+          <unittitle>II 1725-1763 G. Charles Stewart</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">24</container>
+          <unittitle>blank</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">25</container>
+          <unittitle>II 1725-1763 A. The Piedmont Expansion</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">26</container>
+          <unittitle>IVC</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">27</container>
+          <unittitle>American Association for State and Local History</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">28</container>
+          <unittitle>Market Auditions</unittitle>
+          <unitdate>1749-1759</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">29</container>
+          <unittitle>IV A</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">30</container>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">31</container>
+          <unittitle>IV D and IV E</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">32</container>
+          <unittitle>Statistical Efforts</unittitle>
+          <unitdate>1725-1763</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">33</container>
+          <unittitle>Virginia Tobacco Prices</unittitle>
+          <unitdate>1700-1750</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">34</container>
+          <unittitle>Rate of Exchange G.B.-Virginia</unittitle>
+          <unitdate>1700-1775</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">35</container>
+          <unittitle>Regulation of Mercantile Activity</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">36</container>
+          <unittitle>The Morality of American History notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">37</container>
+          <unittitle>William and Mary College</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">38</container>
+          <unittitle>Letters to and from Dr. Roberts</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">39</container>
+          <unittitle>Unused Manuscript 1700-1725</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">40</container>
+          <unittitle>I 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">41</container>
+          <unittitle>II 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">42</container>
+          <unittitle>III 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">43</container>
+          <unittitle>IV 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">44</container>
+          <unittitle>V 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">45</container>
+          <unittitle>VI 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">46</container>
+          <unittitle>VII 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">47</container>
+          <unittitle>VIII 1700-1725 Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">48</container>
+          <unittitle>I 1725-1763 Final Drafts</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">49</container>
+          <unittitle>I 1725-1763 A-B First Draft</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">50</container>
+          <unittitle>II 1725-1763 William Woodford Draft One</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">51</container>
+          <unittitle>II 1725-1763 William Woodford Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">52</container>
+          <unittitle>II 1725-1763 D. Svelson Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">53</container>
+          <unittitle>II 1725-1763 E. Anderson Meade Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">54</container>
+          <unittitle>II 1725-1763 F. Charles Stewart Notes and First Draft</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">55</container>
+          <unittitle>II 1725-1763 G. Bogles Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">56</container>
+          <unittitle>Pattern of Mercantile Activity in Virginia</unittitle>
+          <unitdate>1763-1775</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">57</container>
+          <unittitle>Correspondence</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">58</container>
+          <unittitle>Notes on Note Taking: Sentence Writing</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">59</container>
+          <unittitle>Winterbotham</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">60</container>
+          <unittitle>Maryland Colleges in the Revolutionary Era</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">61</container>
+          <unittitle>Cokesburg College- Maryland</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">62</container>
+          <unittitle>Washington College- Maryland</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">63</container>
+          <unittitle>St. Johns College- Maryland</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">64</container>
+          <unittitle>Virginia Colleges: Liberty Hall</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">65</container>
+          <unittitle>Virginia Colleges: Hampden Sydney</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">66</container>
+          <unittitle>North Carolina Colleges during Revolutionary Era</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle>Letters to and from Robert Thomson</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, personal</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle>350 Lecture IA-
+            <emph render="underline">Location and Exercise of Power</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle>350 Lecture IB-
+            <emph render="underline">The Voice of the Citizen</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle>350 Lecture IC-
+            <emph render="underline">Schools and Colleges in Early America</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>350 Lecture ID-
+            <emph render="underline">Educational Spokesmen</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>350 Lecture IIA-
+            <emph render="underline">Carriers of Culture</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>350 Lecture IIB-
+            <emph render="underline">Classical Forms in America</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">10</container>
+          <unittitle>350 Lecture IIC-
+            <emph render="underline">American Achievements in Art and Intellect</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">11</container>
+          <unittitle>350 Lecture IID-
+            <emph render="underline">Success and Failure in Institutions of Learning</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">12</container>
+          <unittitle>350 Lecture IIIA-
+            <emph render="underline">Measures of Nationalism</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13</container>
+          <unittitle>350 Lecture IIIB-
+            <emph render="underline">Self-Conscious Nationalism</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">14</container>
+          <unittitle>350 Lecture IIIC-
+            <emph render="underline">A Mission for America</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">15</container>
+          <unittitle>350 Lecture IIID-
+            <emph render="underline">The School as an Instrument of National Purpose</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">16</container>
+          <unittitle>350 Lecture IVA-
+            <emph render="underline">Values</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">17</container>
+          <unittitle>350 Lecture IVB-
+            <emph render="underline">Native Forms</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">18</container>
+          <unittitle>350 Lecture IVC-
+            <emph render="underline">The Response of Schools</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">19</container>
+          <unittitle>History 500 Introduction</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">20</container>
+          <unittitle>380 Reference Works</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">21</container>
+          <unittitle>397- Writing and Style</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">22</container>
+          <unittitle>397- Arendt: Understanding and Politics</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">23</container>
+          <unittitle>397- Becker: Every Man His Own Historian</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">24</container>
+          <unittitle>Becker, &#8220;What Are Historical Facts?&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">25</container>
+          <unittitle>Berlin, &#8220;Historical Inevitability&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">26</container>
+          <unittitle>Butterfield- &#8220;Memorial Judgments in History&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">27</container>
+          <unittitle>397 Paul Conkin; Causation Revisited</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">28</container>
+          <unittitle>Degler: History Without a Beard</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">29</container>
+          <unittitle>Felix Gilbert on History</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">30</container>
+          <unittitle>Hempel- &#8220;The Function of General Laws in History&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">31</container>
+          <unittitle>J.H. Hester, &#8220;Fernand Braudel&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">32</container>
+          <unittitle>James Hooper,
+            <emph render="underline">Oral History</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">33</container>
+          <unittitle>&#8220;The Historian and the Social Scientist&#8221; By H. Stewart Hughes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">44</container>
+          <unittitle>397 Huizinga: Historical Concepts; Tutilization</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">45</container>
+          <unittitle>Manual; &#8220;Use and Abuse of Psychology in History&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">46</container>
+          <unittitle>397 Morrison: Faith of a Historian</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">47</container>
+          <unittitle>397 Namier: avenues of History</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">48</container>
+          <unittitle>397 Popper: Critiques of Classical Theories of History</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">49</container>
+          <unittitle>397 Strout: Causality</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">50</container>
+          <unittitle>397 Susman: History and the American Intellectual: Uses of a Useable Past</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">51</container>
+          <unittitle>397 Toynbee: Can We Know the Pattern of the Past</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">52</container>
+          <unittitle>397 Wise: Implicit Irony in Perry Miller&#8217;s New England Mind</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">53</container>
+          <unittitle>J.H. Franklin &#8220;Century of Reconstruction History&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">54</container>
+          <unittitle>Jonathan Wiener, &#8220;Class Structure and Economic Development in the Am. South</unittitle>
+          <unitdate>1865-1955</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">55</container>
+          <unittitle>397 Zinn
+            <emph render="underline">The Politics of History</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">56</container>
+          <unittitle>397- Philosophy of History (Non-Current)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">57</container>
+          <unittitle>W&#38;M</unittitle>
+          <unitdate>1760s</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">58</container>
+          <unittitle>W&#38;M</unittitle>
+          <unitdate>1770s</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">59</container>
+          <unittitle>William and Mary College</unittitle>
+          <unitdate>1750-1800</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">60</container>
+          <unittitle>Virginia Colleges of Revolutionary Era</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1</container>
+          <unittitle>South Carolina colleges in the Revolutionary Era</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">2</container>
+          <unittitle>Tennessee Colleges</unittitle>
+          <unitdate>1783-1800</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle>Kentucky College to 1800</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle>Political Theory</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle>Madison Pant and Awning Company</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>Preliminary Examination for the Ph.D.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">7</container>
+          <unittitle>9-13-78 Book Review- PFE, George Peabody Col. THE FUTURE OF HISTORY.Vand.Univ.Symp</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">8</container>
+          <unittitle>Ammerman, David
+            <emph render="underline">In the Common Cause</emph>
+            book review rpt</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">9</container>
+          <unittitle>BOOK REVIEWS (HISTORY) &#8217;78. The Southern Experience in the American Revolution. Jeffrey J. Crow &#38; :arru Tise</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">10</container>
+          <unittitle>AERA- 1976 comments on papers</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">11</container>
+          <unittitle>
+            <emph render="underline">COLONIAL GEORGIA</emph>- Review for the Journal of Southern History</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">12</container>
+          <unittitle>Review of Empire of Independence 1760-1776: A British-American Dialogue on American Revolution. Phil. Quart. &#8216;76</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">13</container>
+          <unittitle>Review of John H. Westerhoff, MCGUFFY AND HIS READERS: Piety, Morality and Education in 19thC.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">14</container>
+          <unittitle>Review of THEIR MAJESTIES&#8217; ROYALL COLLEDGE. The Virginia Gazette 11/76</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">15</container>
+          <unittitle>A Time to Decide- The Making of Loyalists- talk to International Study Club November 75 by RPT</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">16</container>
+          <unittitle>Microcosm of Revolution- paper for sons of American Revolution</unittitle>
+          <unitdate>June 1976</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">17</container>
+          <unittitle>Notes on Signers of the Declaration of Independence</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">18</container>
+          <unittitle>The Loyalties in the American Revolution- RPT lecture at MTSU</unittitle>
+          <unitdate>13 April 1976</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">19</container>
+          <unittitle>1978- Comments on Horne</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">20</container>
+          <unittitle>ASA (1968) Doing research on the Negro</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">21</container>
+          <unittitle>The Great Contours notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">22</container>
+          <unittitle>James Claypoole&#8217;s Letterbooks. Reviews</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">23</container>
+          <unittitle>Book Review:
+            <emph render="underline">Affectionately Yours George Washington</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">24</container>
+          <unittitle>Review of: John Harrower diary</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">25</container>
+          <unittitle>Review: Colbourn
+            <emph render="underline">The Lamp of Experience</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">26</container>
+          <unittitle>
+            <emph render="underline">The Americans: The National Experience; and The Life of the Mind in America from the Reconstruction to the Civil War</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">27</container>
+          <unittitle>Review of Greenled. Ferry Hill Plantation Journal</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">28</container>
+          <unittitle>Book Review: Peter Magrath
+            <emph render="underline">Yazoo: Law and Politics</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">29</container>
+          <unittitle>Malone Jefferson Review</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">30</container>
+          <unittitle>Review: Williamson Fitzhugh and His Chesapeake World</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">31</container>
+          <unittitle>Titus, Winston Churchill review</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">32</container>
+          <unittitle>Review of: The Emergence of a National Economy 1775-1815, by Nettels</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">33</container>
+          <unittitle>Lynd, Class Conflict Review</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">34</container>
+          <unittitle>Review of William Tatham</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">35</container>
+          <unittitle>Peabody Journal of Education 6/79. REVIEW, Donald R. Warren, editor. History, Education, and Public Policy</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">36</container>
+          <unittitle>Review-
+            <emph render="underline">Lieutenant Lee of Beale Street</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">37</container>
+          <unittitle>Review:
+            <emph render="underline">Crisis in the Classroom</emph>
+            by Charles E. Silberman</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">38</container>
+          <unittitle>Review- Rouse, Parke, Jr.
+            <emph render="underline">James Blair of Virginia</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">39</container>
+          <unittitle>Review of Correspondence of James K. Polk</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">40</container>
+          <unittitle>Review: George N. Rainsford
+            <emph render="underline">Congress and Higher Education in the 19th century</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">41</container>
+          <unittitle>
+            <emph render="underline">The Dawn&#8217;s Early Light</emph>
+            Walter Word</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">42</container>
+          <unittitle>Review- Films- &#8220;Cause of Liberty&#8221; and &#8220;Impossible War&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">43</container>
+          <unittitle>Illich&#8217;s
+            <emph render="underline">Deschooling Society</emph>
+            Review</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">44</container>
+          <unittitle>France and the Chesapeake by J. Price</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">45</container>
+          <unittitle>The Campus as Community</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">46</container>
+          <unittitle>Response- Field Teaching Essays</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">47</container>
+          <unittitle>
+            <emph render="underline">A Task for The University</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">48</container>
+          <unittitle>Virginia Project</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">49</container>
+          <unittitle>Yearbook 1975- National Council for the Social Sciences</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">50</container>
+          <unittitle>English Ed. Writing, 18th century A-D</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">51</container>
+          <unittitle>English Ed. Writing, 18th century E-P</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">52</container>
+          <unittitle>English Ed. Writing, 18th century R-2</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">53</container>
+          <unittitle>England, 1973 Trip to</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">54</container>
+          <unittitle>Impact of British on American Education</unittitle>
+          <unitdate>1760-1800</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">55</container>
+          <unittitle>History of American Education (On American Colleges) Winterbotham</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">56</container>
+          <unittitle>S.C. Trade Regulation 18th century</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">57</container>
+          <unittitle>Talk for Alexander&#8217;s course. Education 568</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">58</container>
+          <unittitle>The Purpose of Teaching History</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">59</container>
+          <unittitle>Am. Lite and Lecture. Order and Disorder: Social Patterns in Colonial America</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">60</container>
+          <unittitle>History as a Contemporary Subject 1967 Private School Education</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">61</container>
+          <unittitle>Washington Birthday Speech</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">62</container>
+          <unittitle>Book of Knowledge. Colonial Life Article</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">63</container>
+          <unittitle>Some Thoughts on the Education of Curriculum Makers</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">64</container>
+          <unittitle>Lecture Education 545 B Social Foundations</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">65</container>
+          <unittitle>World Book: General</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">66</container>
+          <unittitle>OAH- 1970 Hemphill and Kay (Research and Writings)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">67</container>
+          <unittitle>The Virginia Government and the Regulation of Commercial Activity</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">68</container>
+          <unittitle>Pattern of Mercantile Activity in Virginia</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">69</container>
+          <unittitle>Pattern of Mercantile Activity in Virginia</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">70</container>
+          <unittitle>St. George Tucker</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">71</container>
+          <unittitle>Book Outline</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">72</container>
+          <unittitle>I 1700-1725</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle>History Course Grade Sheet</unittitle>
+          <unitdate>1980-90</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">2</container>
+          <unittitle>History 416, 400, 500, 529</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">3</container>
+          <unittitle>History 502- Syllabus</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">4</container>
+          <unittitle>Jack Greene &#8220;Uneasy Condition- Preconditions of the American Revolution&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">5</container>
+          <unittitle>Bernard Bailyn, &#8220;Central Themes of the American Revolution</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">6</container>
+          <unittitle>Daniel B. Smith, &#8220;The Study of the Family in Early America&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">7</container>
+          <unittitle>Stephen S. Webb, extracts from book</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">8</container>
+          <unittitle>Bernard Bailyn,
+            <emph render="underline">Voyages to the West</emph>
+            3-49, 243-245</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">9</container>
+          <unittitle>Morgan, Labor Problems at Jamestown</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">10</container>
+          <unittitle>Perry Miller, &#8220;Errand into the Wilderness&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">11</container>
+          <unittitle>Darrett Rutman, Minor of Puritan Authority Reading II</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">12</container>
+          <unittitle>Jack Greene,
+            <emph render="underline">Pursuit of Happiness</emph>
+            Chapter 2, 8 pg. 28-54, 170-206</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">13</container>
+          <unittitle>James Henretta, &#8220;Mentalite in Pre-Industrial America&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">14</container>
+          <unittitle>Kulikoff, &#8220;Origins of Afro-American Society in Maryland and Virginia</unittitle>
+          <unitdate>1700-1790</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">15</container>
+          <unittitle>History 250- Readings. Bailyn: The Merchant Group at the End of the 17th Century</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">16</container>
+          <unittitle>History 250- Readings. Billington: The Reinterpretation of Early American History</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">17</container>
+          <unittitle>History 250- Readings. Campbell: English Emigration on the Eve of the American Revolution</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">18</container>
+          <unittitle>History 250- Readings. Laslett: John Locke, The Great Recoinage, and the Origins of the Board of Trade</unittitle>
+          <unitdate>1695-1698</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">19</container>
+          <unittitle>History 250- Readings. Lockridge: Land, Population and the Evolution of New England Society</unittitle>
+          <unitdate>1630-1790</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">20</container>
+          <unittitle>History 250- Readings. Namier: Why Men Went Into Parliament</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">21</container>
+          <unittitle>The Intellectual Golden Age in the Colonial Chesapeake Bay Country</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">22</container>
+          <unittitle>II. A. History of Education 201. Walzer, John &#8220;A Period of Ambivalence&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">23</container>
+          <unittitle>II. B. History of Education 201. Tyack, David &#8220;Forming the National Character...&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">24</container>
+          <unittitle>II. B. History of Education 201. Kaestle, Carl &#8220;Common Schools Before the Common School Revival...&#8221;</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">25</container>
+          <unittitle>II. B. History of Education 201. Sizer, Thoedore
+            <emph render="underline">The Age of the Academies</emph>, 1-23</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">26</container>
+          <unittitle>II. C. History of Education 201. Smith, Wilson
+            <emph render="underline">Theories of Education in Early America</emph>
+          </unittitle>
+          <unitdate>
+            <emph render="underline">1655-1819</emph>
+          </unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">27</container>
+          <unittitle>Education 307- Readings. Morgan: Ezra Stiles: The Education of a Yale Man</unittitle>
+          <unitdate>1742-1746</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">28</container>
+          <unittitle>Education 307- Readings. Morison: The Founding of Harvard College</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">29</container>
+          <unittitle>Education 307: Readings Hiner: Adolescence in the 18th Century America</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">30</container>
+          <unittitle>Education 307- Readings Hiner: The Cry of Sodom Enquired into: Educational Analysis in 17th Century New England</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">31</container>
+          <unittitle>Education 307- Readings. Herbst: Yale Under Clapp</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">32</container>
+          <unittitle>History 250- Lecture. Liddle- Virtue and Liberty</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">33</container>
+          <unittitle>History 250- Miscellaneous</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">34</container>
+          <unittitle>History 250- Lecture. Great Britain and Her Colonies</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">35</container>
+          <unittitle>History 250- Lecture. The Colonial Cosmology</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">36</container>
+          <unittitle>History 250- Lecture. The American People</unittitle>
+          <unitdate>1607-1763</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">37</container>
+          <unittitle>History 201- Lecture. Learning to be Americans</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">38</container>
+          <unittitle>History 250- Lecture. Colonial Society</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">39</container>
+          <unittitle>History 250- Lecture. Colonial Economy</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">40</container>
+          <unittitle>History 250- Lecture. Economic Development</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">41</container>
+          <unittitle>History 250- Lecture. The Structure of Politics</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">42</container>
+          <unittitle>History 250- Lecture. Political Issues</unittitle>
+          <unitdate>1750-1760s</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">43</container>
+          <unittitle>History 251- Lectures. The Coming of the American Revolution</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">44</container>
+          <unittitle>Ratification of the Articles of Confederation</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">45</container>
+          <unittitle>Loyalists</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">46</container>
+          <unittitle>History 251- Lecture. Emergence of Political Traditions</unittitle>
+          <unitdate>1789-1805</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">47</container>
+          <unittitle>History 251- Lecture. The Birth of the American Levathon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">48</container>
+          <unittitle>History 251- Lecture. American Culture and Society</unittitle>
+          <unitdate>1790-1828</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">49</container>
+          <unittitle>The Crossing of the Sea</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">50</container>
+          <unittitle>Education 307- Lecture Notes and Readings</unittitle>
+          <unitdate>1800-1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">51</container>
+          <unittitle>History of American Education- Early 19th century</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">52</container>
+          <unittitle>History 251- Lecture. Sectional Economics in the Age of Nationalism</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">53</container>
+          <unittitle>History 251- Lecture. Political Processes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">54</container>
+          <unittitle>History 251- Lecture. Jacksonian Politics</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">55</container>
+          <unittitle>History 251- Readings</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>Statistics</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2</container>
+          <unittitle>Mackencher memorial 1737 and newspaper controversy</unittitle>
+          <unitdate>1738</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">3</container>
+          <unittitle>Darnall affair</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">4</container>
+          <unittitle>Excise Scheme</unittitle>
+          <unitdate>1733</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">5</container>
+          <unittitle>Gooch Inspection Act</unittitle>
+          <unitdate>1730</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">6</container>
+          <unittitle>Tobacco Inspection Act</unittitle>
+          <unitdate>1738</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">7</container>
+          <unittitle>Tobacco Inspection Acts</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">8</container>
+          <unittitle>Virginia Trade with Great Britain</unittitle>
+          <unitdate>1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">9</container>
+          <unittitle>Rough Chronologies and Notes. Virginia Legislation</unittitle>
+          <unitdate>1700-1725</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">10</container>
+          <unittitle>Merchant&#8217;s Practices 1700-1725. Rough Notes and Data</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">11</container>
+          <unittitle>Report to Colonial Williamsburg. Thomson</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">12</container>
+          <unittitle>Sources</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">13</container>
+          <unittitle>Glossary of 18th Century Virginia Terms</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">14</container>
+          <unittitle>Critiques of major works on Virginia economic history</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">15</container>
+          <unittitle>Tobacco prices, 1770-1775. Taken from notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">16</container>
+          <unittitle>Virginia exports by district</unittitle>
+          <unitdate>1772-1773</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">17</container>
+          <unittitle>Population Growth</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">18</container>
+          <unittitle>Governors of Virginia; Chronology</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">19</container>
+          <unittitle>Population</unittitle>
+          <unitdate>1700</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">20</container>
+          <unittitle>Virginia Trade with Great Britain</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">21</container>
+          <unittitle>Slave Trade</unittitle>
+          <unitdate>1700-1735</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1</container>
+          <unittitle>Political Science 404 Lecture/Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">2</container>
+          <unittitle>Lectures Political Science 404</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">3</container>
+          <unittitle>History 150 Lecture Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">4</container>
+          <unittitle>History 151 Lecture Notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">5</container>
+          <unittitle>Susskind, Jacob (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">6</container>
+          <unittitle>Program of Studies</unittitle>
+          <unitdate>1971-1975</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">7</container>
+          <unittitle>Program of Studies</unittitle>
+          <unitdate>1966-1970</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">8</container>
+          <unittitle>Program of Studies</unittitle>
+          <unitdate>1961-1965</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">9</container>
+          <unittitle>Program of Studies</unittitle>
+          <unitdate>1958-1962</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">11</container>
+          <unittitle>Christ Church Vestry</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">12</container>
+          <unittitle>Kathy Conlon</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>Mashari, Ebrahim</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">14</container>
+          <unittitle>Sam Otaigbe</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">15</container>
+          <unittitle>Area Paper. Jack L. Seymour. Box 1003</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">16</container>
+          <unittitle>Jack L. Seymour: Dissertation Proposal</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">17</container>
+          <unittitle>Seymour, Jack (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">18</container>
+          <unittitle>Program of Studies</unittitle>
+          <unitdate>1976-1980</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">19</container>
+          <unittitle>Buchannan, David J. PEY GR Summer</unittitle>
+          <unitdate>1978</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">20</container>
+          <unittitle>Carrell, William D. (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">21</container>
+          <unittitle>Chilton, John F. (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">22</container>
+          <unittitle>Casteel, James Doyle (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">23</container>
+          <unittitle>Debolt, Tom (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">24</container>
+          <unittitle>Hiner, Ray (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">25</container>
+          <unittitle>Johnson, Tony Wayne (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">26</container>
+          <unittitle>Lambkin, John (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">27</container>
+          <unittitle>Myers, Charles B. (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">28</container>
+          <unittitle>Schneider, Don (Ph.D.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">29</container>
+          <unittitle>Correspondence-Personal</unittitle>
+          <unitdate>1970-76</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">30</container>
+          <unittitle>Episcopal Diocese Commission on Schools</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">31</container>
+          <unittitle>Friends of the Library, Board of Directories &#8216;79</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">32</container>
+          <unittitle>Correspondence- Personal</unittitle>
+          <unitdate>1976</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">33</container>
+          <unittitle>
+            <emph render="underline">GRE</emph>
+            Guidelines to Use</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">34</container>
+          <unittitle>
+            <emph render="underline">Institute of Public History</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">35</container>
+          <unittitle>Public History Project</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">36</container>
+          <unittitle>Peabody College- A Selected Bibliography</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">37</container>
+          <unittitle>Questions Submitted by RPT. Doctorate</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">38</container>
+          <unittitle>Questions Submitted by RPT. Masters</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">39</container>
+          <unittitle>Recommendations</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">40</container>
+          <unittitle>Reprints</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">41</container>
+          <unittitle>Travel</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">42</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1969</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">43</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1968 (Fall)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">44</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1968 (Spring)</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">45</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1967</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">46</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1966</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">47</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1965</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">48</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1964</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">49</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1963</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">50</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1962</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">51</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1961</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">52</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1960</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1959</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1958</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1957</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence</unittitle>
+          <unitdate>1956</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">5</container>
+          <unittitle>General Education Materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">6</container>
+          <unittitle>Job Correspondence Material</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">7</container>
+          <unittitle>Termination</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">8</container>
+          <unittitle>Review of So. Ed.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">9</container>
+          <unittitle>Demographic Implications for Peabody&#8217;s Enrollment and Curriculum Planning RPT</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
