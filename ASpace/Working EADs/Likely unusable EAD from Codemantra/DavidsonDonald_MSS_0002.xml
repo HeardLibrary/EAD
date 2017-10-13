@@ -9995,17 +9995,17 @@
             <c03 level="item">
               <did>
                 <container type="box">34</container>
-                <container type="folder">
+                <unittitle>
                   <emph render="bold">Teachers&#8217; Critiques</emph>
-                </container>
+                </unittitle>
               </did>
             </c03>
             <c03 level="item">
               <did>
                 <container type="box">34</container>
-                <container type="folder">
+                <unittitle>
                   <emph render="bold">Miscellaneous Notes</emph>
-                </container>
+                </unittitle>
               </did>
             </c03>
             <c03 level="item">
@@ -10024,14 +10024,9 @@
             </did>
             <c03 level="item">
               <did>
-                <container type="box">34</container>
                 <unittitle>
                   <emph render="bold">Reviews (4)</emph>
                 </unittitle>
-              </did>
-            </c03>
-            <c03 level="item">
-              <did>
                 <container type="box">34</container>
                 <container type="folder">9</container>
               </did>
@@ -10454,14 +10449,9 @@
             </c03>
             <c03 level="item">
               <did>
-                <container type="box">35</container>
                 <unittitle>
                   <emph render="bold">Reviews (5)</emph>
                 </unittitle>
-              </did>
-            </c03>
-            <c03 level="item">
-              <did>
                 <container type="box">35</container>
                 <container type="folder">16</container>
               </did>
@@ -10786,6 +10776,7 @@
               <did>
                 <container type="box">36</container>
                 <container type="folder">16</container>
+                <unittitle>Articles on Fugitives and Agrarians</unittitle>
               </did>
               <note>
                 <list type="ordered" numeration="upperalpha">
