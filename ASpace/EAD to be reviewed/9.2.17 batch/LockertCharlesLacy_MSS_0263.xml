@@ -1,1753 +1,1812 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Lockert, Charles Lacy, Jr. Papers</titleproper>
-<titleproper>Finding Aid for the Lacy Jr, Charles Lockert, Papers</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>2002</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>Lockert, Charles Lacy, Jr. Papers</unittitle>
-<unitid>MSS.0263</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">5.46 linear feet</extent>
-</physdesc>
-<unitdate>2002</unitdate>
-</did>
-<scopecontent>
-<head>LOCKERT, (Charles) Lacy (Jr.) 1SSS-1974</head>
-<p><emph render="italic">PERSONAL:</emph> Born May 18. IS88. inCUrksviUe.Tcnn.; km of Charles Lacy (a druggist) and Nannie (Smith) Lockart. <emph render="italic">Education:</emph> Southwestern Presbyterian University, A.B., 1907, A.M., 1909; Princeton University, Ph.D.. 1916.</p>
-<p><emph render="italic">CAREER:</emph> Kenyon College, Gambier, Ohio, assistant professor of English. 1916-25; retired early in order to study and write. <emph render="italic">Member:</emph> Modern Language Association of America, Sierra Club.</p>
-<p><emph render="italic">WRITINGS</emph>&#8212;Translator and author of critical material, except as noted: (Author of commentary) Massinfer and Field, <emph render="italic">The Fatal Dowry.</emph> New Era Press, 1918; (contrftwtor) H. Craig, editor. <emph render="italic">Essays in Dramatic Literature: The Par- rott Presentation Volume,</emph> Princeton University Press, 1935; Dante Alighieri, <emph render="italic">The Inferno,</emph> Princeton University Press. 1936; Jean Baptiste Racine, <emph render="italic">Best Plays,</emph> Princeton University Press, 1936; Pierre Comeille, <emph render="italic">Chief Plays.</emph> Princeton University Press, 1952, 2nd edition, 1957; (editor) Orville Ernest Watson, <emph render="italic">Selected Sermons.</emph> Kenyon College, 1955; <emph render="italic">The Chief Rivals of Corneille and Racine,</emph> Vanderbilt University Press, 1956; (author) <emph render="italic">Studies in French-classical Tragedy,</emph> Vanderbilt University Press, 1958; Racine, <emph render="italic">Mid- career Tragedies,</emph> Princeton University Press, 1958; Corneille, <emph render="italic">Moot Plays.</emph> Vanderbilt University Press, 1959; <emph render="italic">More Plays by Rivals of Corneille and Racine,</emph> Vanderbilt University Press, 1968. Contributor to <emph render="italic">Sewanee Review, North American Review,</emph> and other journals.</p>
-<p><emph render="italic">AVOCATIONAL INTERESTS:</emph> Great natural scenery, and photographing it; history of American intercollegiate football; Wagnerian opera.t</p>
-</scopecontent>
-<bioghist>
-<head>Chronology</head>
-<chronlist>
-<chronitem>
-<date>1888</date>
-<event>Born in Clarksville, Tennessee; only child.</event>
-</chronitem>
-<chronitem>
-<date>1903-1909</date>
-<event>A.B. and A.M. at Southwestern Presbyterian University at Clarksville. (Now Southwestern at Memphis)</event>
-</chronitem>
-<chronitem>
-<date>1908</date>
-<event>Correspondence with Nelle Ramsay begins.</event>
-</chronitem>
-<chronitem>
-<date>1909</date>
-<event>Enters Princeton University.</event>
-</chronitem>
-<chronitem>
-<date>1912</date>
-<event>Mother dies; family home broken up and Lockerts move to Nashville, Lacy suffers nervous breakdown which interrupts his doctoral studies at Princeton; treatment was in Nashville.</event>
-</chronitem>
-<chronitem>
-<date>1915</date>
-<event>Returns to Princeton in January. Nelle Ramsay dies in California in June.</event>
-</chronitem>
-<chronitem>
-<date>1916</date>
-<event>Completes Ph.D. at Princeton. Dissertation under direction of Thomas Marc Parrott. Assistant Professor of English, Kenyon College. Meets Philip Timberlake, who was then a senior ar Kenyon.</event>
-</chronitem>
-<chronitem>
-<date>1917</date>
-<event>Exempted from military service for poor health.</event>
-</chronitem>
-<chronitem>
-<date>1918</date>
-<event>Publishes dissertation. The Fatal Dowry by Philip Massinger and Nathaniel Field by Charles Lacy Lockert, Jr.) Lancaster, Pa: The New Era Printing Company.</event>
-</chronitem>
-<chronitem>
-<date>1919</date>
-<event>Articles: &#34;Marston, Webster and the Decline of Elizabethan Drama,&#34; Sewanee Review, January. &#34;Henryk Sienkiewicz,&#34; Sewanee Review, July.</event>
-</chronitem>
-<chronitem>
-<date>1920</date>
-<event>Article: &#34;A Scene in &#39;The Fatal Dowry*,&#34; Modern Language Notes, May.</event>
-</chronitem>
-<chronitem>
-<date>1921</date>
-<event>Began Correspondence with Charte Kelsey Gaines with letter of appreciation for the novel, Gorgo, on May 12.</event>
-</chronitem>
-<chronitem>
-<date>1922</date>
-<event>Article: &#8226;&#8226;Some of Mr. Galsworthy&#39;s heroines,&#34; North American Review, February. Phi Beta Kappa Lecture at St. Lawrence University, Canton, N.Y. May 12. The Lecture, &#34;World Drama and World Dramatists,&#34; was published in pamphlet form, by Commercial Advertiser Press, Canton, N.I. Thanksgiving Visit wi,th the C.K. Gaines family.</event>
-</chronitem>
-<chronitem>
-<date>1922-1923</date>
-<event>Chairman of the Gorgo essay contest for undergraduates sponsored by Kenyon College.</event>
-</chronitem>
-<chronitem>
-<date>1925 (26?)</date>
-<event>Leaves Kenyon College and retires to write (in Nashville). Succeeded in his position at Kenyon by Philip Timberlake.</event>
-</chronitem>
-<chronitem>
-<date>1931</date>
-<event>Published first translation. The Inferno of Dante &#8226; Princeton University Press.</event>
-</chronitem>
-<chronitem>
-<date>1935</date>
-<event>Article: &#34;The Greatest of Elizabethan Melodramas,&#34; Essays in Dramatic Literature: the Parrott Presentation Volume, Princeton University Press.</event>
-</chronitem>
-<chronitem>
-<date>1935-1936</date>
-<event>Thomas Marc Parrott is visiting professor at Vanderbilt. Acquaintance renewed, probably basis for correspondence in this collection.</event>
-</chronitem>
-<chronitem>
-<date>1936</date>
-<event>Published first of French translations: The Best Plays of Racine, Princeton University Press.</event>
-</chronitem>
-<chronitem>
-<date>1938-1942</date>
-<event>Louise Allen suffers major breakdown, described sis melancholia or manic depression in Lacy&#39;s letters. Indications are that she had experienced earlier breakdown in 1916.</event>
-</chronitem>
-<chronitem>
-<date>1939</date>
-<event>Article: &#34;Racine&#39;s Berenice,&#34; Romanic Review, February.</event>
-</chronitem>
-<chronitem>
-<date>1940</date>
-<event>(4l) Charles Lacy Lockert, Sr. dies. Born December 19, 1855, died at age 85.</event>
-</chronitem>
-<chronitem>
-<date>1944</date>
-<event>Charles Kelsey Gaines dies. Correspondence with Clarence Hurd Gaines begins.</event>
-</chronitem>
-<chronitem>
-<date>1946-1947</date>
-<event>Louise Allen suffers setback; electro-shock treatments and extended hospitalization necessary.</event>
-</chronitem>
-<chronitem>
-<date>1952</date>
-<event>Publishes second book of French translations: Chief Plays of Cornellle&#171; Princeton University Press.</event>
-</chronitem>
-<chronitem>
-<date>1955</date>
-<event>Lacy Lockert edits volume of sermons of Canon Watson of Kenyon College. (Orville Ernest Watson, 1857-1951). Selected Sermons of Orville E. Watson. Gambier; Kenyon College, tPrinted by Parthenon Press, Nashville)</event>
-</chronitem>
-<chronitem>
-<date>1956</date>
-<event>Publishes third book of translations: Chief Rivals of Corncille and Racine. Vanderbilt University Press.</event>
-</chronitem>
-<chronitem>
-<date>1957</date>
-<event>Piiilip Timberlake dies.</event>
-</chronitem>
-<chronitem>
-<date>1958</date>
-<event>Pu.bliah.ea fourth book of translations and a book of criticism: Racinels Mid-Career Tragedies, Princeton University Press. Studies in French-Classical Tragedy, Vanderbilt University Press.</event>
-</chronitem>
-<chronitem>
-<date>1959</date>
-<event>Publishes fifth book of translations: Moot Plays of Corneille, Vanderbilt University Press. Purchases memorial tablet for Nelle Ramsay (1887-1915)</event>
-</chronitem>
-<chronitem>
-<date>1960</date>
-<event>Thomas Marc Parrott dies.</event>
-</chronitem>
-<chronitem>
-<date>1962</date>
-<event>Edits and publishes novel by Charles Kelsey Gaines which was originally written in 1921: Gaines, Charles Kelsey Angel&#39;s Diary, Canton, N.Y,: St. Lawrence University TPrinted for St. Lawrence at Parthenon Press, Nashville.)</event>
-</chronitem>
-<chronitem>
-<date>1968</date>
-<event>Publishes sixth book of French translations: More Plays by Rivals of Corneille and Racine, Vanderbilt University Press.</event>
-</chronitem>
-<chronitem>
-<date>1969</date>
-<event>(?) Married Annie Louise Allen 197 Died in Nashville on April 21.</event>
-</chronitem>
-</chronlist>
-</bioghist>
-<dsc type="othertype">
-<note>
-<p>All information in this chronology is based on the correspondence of Lacy Lockert and from publications of his which are either available in reprint or in the collections of JUL. Some of the information in the chronology attempts to make the correspondence more useful by listing events in the lives of people close to Lacy Lockert.</p>
-</note>
-<c01 level="series">
-<did>
-<container type="folder">1</container>
-<unittitle>Correspondence - Incoming. 1908-1970. &#8212;- 180 letters, most holograph, many typed. I Ir 13 postcards, 1 Christmas card, 2 telegrasB and 1 invitation. Arranged alphabetically according to sender. Folders 1-10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">1</container>
-<unittitle>Typescript of incoming correspondence from Nelle Ramsay, 1908-1915. All letters and postcards from this collection are included but some paragraphs sire deleted. There are also typescripts of some of Lacy Lockert*s replies and his comments on the correspondence in this typescript. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">1</container>
-<unittitle>Photographs.</unittitle>
-<note>
-<list type="simple">
-<item>a) Nelle Ramsay, c. 1910</item>
-<item>b) Lacy Lockert, boxing photo, probably taken while at Princeton.</item>
-<item>c) Charles Kelsey Gaines and Lacy Lockert, Canton, N.Y., 1922. (Two copies)</item>
-<item>d) Frank E. Miller, III, c. WW II. Folder 12</item>
-</list>
-</note>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">1</container>
-<unittitle>Draft Records WW I. Certificate of Discharge, Doctor&#39;s certificate, War Department notices, and clipping from The Nashville Tennessean, July 15, 1917. Folder 13-</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">1</container>
-<unittitle>Football Statistics and Inventions. A sampling of all-time great teams selected by the Lockert method. Folder l1*.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">1</container>
-<unittitle>Miscellaneous Clippings. Includes football clippings and articles about friends: Mrs. Charles Kelsey Gaines, Frank Miller, Jr., Philip Timberlake, and Mrs. Mebane Ramsay. Folder 15.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">1</container>
-<unittitle>Financial Papers: Miscellaneous bank state ments and receipts; stock announcements and stockholder&#39;s reports; Letter of bequest to Vanderbilt University, accepted by O.C. Car- michael, July 16, 1943 (Xerox copy); rough draft of article in Lacy Lockert&#39;s will concerning publication of Gorgo; order and receipt for memorial tablet for Nelle Ramsay, September 2, 1959* Folder 17.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>Correspondence - Outgoing. 1908-1965. 139 letters, primarily holograph, with some typescripts, especially to publishers. Carbon copies and photo copies are few. Arranged chronologically. Folders 1-7.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>Correspondence - Outgoing. 1943-1957.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>letters to Thomas Marc Parrott. All of these letters are holograph and were not dated by Lacy Lockert. Approximate dates were assigned on the basis of internal evidence. Folder 8. (Two other letters to Mr. Parrott which could not be separated from other correspondence may be found in Folders 5 and 6)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>Political opinions. Essays on Eleanor Roosevelt (Two copies, plus one fragment), Franklin Roosevelt and Harry Truman (One copy), and integration (fragment). These essays appear to be a part of the outgoing correspondence, possibly to either Mebane Ramsay or Philip Timberlake. There is also a reprint of General Douglas MacArthur&#39;s address to Congress, April 15, 1951* Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>Page Proofs of The Best Plays of Racine. Folder 10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>An Angel&#39;s Diary, Charles Kelsey Gaines. Thermofax copy of manuscript. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>An Angel&#39;s Diary, galley proofs. Folder 12.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">2</container>
-<unittitle>An Ansel&#39;s Diary, page proofs. Lacy Lockert*s introduction gives biographical material about Charles Kelsey Gaines. Folder 13.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Phi Beta Kappa Address, May 12, 1922, St. Lawrence University. Program and newspaper clippings from Canton, N.Y. area. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Gorgo Essay Contest. Clippings from April, 1922 from Canton, N.Y. area newspapers. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Gorgo vocabulary. Alphabetical study list x)f terms from Gorgo; no stated purpose for use of this list. Folder 3.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Course plans. Shakespeare 12*t, mimeographed two-page outline, Golograph of prospective seminar in French Classical Drama. Folder 4.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Spyglass, July 13, 1927. Bookpage from The Nashville Tennessean. Includes review of John Jay Chapman&#39;s Dante by Lacy Lockert. Folder 5.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Reviews:. The Best Plays of Racine. Clippings from The Nashville Banner and The Nashville Tennessean, January 10, 1937. Typescript copies of reviews appearing in Notes and Queries, Modern Language Notes, The Chattanooga News, Chattanooga Times, The Brooklyn Teacher, Vancouver Sun. Folder 6.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Reviews of other Lockert publications. April 8, 1922, America, on &#34;Some of Mr. Galsworthy&#39;s heroines.&#34;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Unidentified review of Dante&#39;s Inferno. December 1932, New Republic, The Chief Plays of Corneille. July 10, 1953, TLS, The Chief Plays of Corneille.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Summer, 1953, 17th Century News, The Chief Plays of Corneille.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>January 6, 1957, Nashville Tennessean, The Chief Rivals of Corneille and Racine. September 1959&#171; The Book Exchange, Studies in French-Classical Tragedy. Holograph copy of reviews in The Christian Century, January 7, 1953; Morning Telegraph, N.Y., August 29, 1952; TLS, September 11, 1959.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Typescript of selected quotations from reviews for brochure on The Chief Plays of Corneille. Folder 7.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Dust Wrappers, Vanderbilt University Press. Hoot Plays of Corneille, The Chief Rivals of Corneille and Racine, Studies in French-Classical Tragedy. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Publishers&#39; Memoe. Advertising flyers and letters from Princeton University Press and Vanderbilt University Press on Lockert&#39;s works. Also brochures from Richard R. Smith Publishing and Collection des Classiques Garniers. Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Reprints of Gacy Lockert Articles.</unittitle>
-<note>
-<list type="simple">
-<item>a) &#34;Marston, Webster and the Decline of Elizabethan Drama,&#34; Sewanee Review, January 1919*</item>
-<item>b) &#34;ttenryk Sienkiewicz,&#34; Sewanee Review, July 1919*</item>
-<item>c) *&#39;A Scene in &#39;The Fatal Dowry&#39;,&#34; MLN, May 1920.</item>
-<item>d) &#34;World Drama and World Dramatists,&#34; 1922. (Phi Beta Kappa Lecture at St. Lawrence)</item>
-<item>e) &#34;The Greatest of Elizabethan welodramas.&#34; Essays in Dramatic Literature; The Parrott Presentation Volume. Princeton University Press, 1935.</item>
-<item>f) &#34;Racine&#39;s Berenice,&#34; Romanic Review, February, 1939. Folder 10.</item>
-</list>
-</note>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Scholarly Reprint. Hunter Kellenberger, &#34;Voltaire&#39;s Treatment of the Miracle of Christ&#39;s Temptation in the Wilderness,&#34; MLN, January 1936. Autographed. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Ms. &#34;Mr. Galsworthy&#39;and His Unworthy Gals. Original, unabridged version. (Shortened version published as &#34;Some of Mr. Galsworthy&#39;s Geroines,&#34; North American Review, February, 1922.) Folder 12.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Notes for &#34;The Greatest of Elizabethan Melo dramas.&#34; (CT. Folder 3-10) Folder 13.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Ms. &#34;Beaumont&#39;s Hand in Four Plays in One.&#34; Folder 14</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Notes for Beaumont manuscript. Folder 15.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Ms. &#34;William Archer and Elizabethan and Modern Drama.&#34; Pencil Comments may be by Thomas Marc Parrott, who read this manuscript. Folder 16.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Ms. &#34;An Imitation by Corneille of Racine.&#34; Folder 17.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>PMLA manuscript and correspondence on the sources of Andromaque. A set of articles intended for the Comment and Criticism department in 1937-1938 but never published. Folder 18.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Ms. The Death of Hector; a transcript of Homer, Iliad XXII~ typescript and holograph. Folder 19.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Essay. Again on Translating Homer. Folder 20.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Notecards on Aeschylus translations. (Manuscript of Aeschylus translations sent to Grinceton University Press. Cf. Holograph of letter to Princeton University Press, 12 March 1953, Folder 2-M. Folder 21.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Miscellaneous notes and fragments. Notes from readings and incomplete essays on dramatic theory, translations, the historical novel and other topics. Folder 22.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Miscellaneous unpublished manuscripts.</unittitle>
-<note>
-<list type="simple">
-<item>a) Is the Poet Inspired?</item>
-<item>b) The Methods of Literary Criticism.</item>
-<item>c) A Summary of Wordsworth&#39;s Criticism of Poetry. (a,b,c, may be class lectures from Kenyon)</item>
-<item>d) Poem. &#34;Bishop Chase Leaves Gambier&#34;</item>
-<item>e) My Fling at Philosophy.</item>
-<item>f) Concerning Park Roads and Attractions. Folder 23.</item>
-</list>
-</note>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Ms. &#34;The Adventure of The Brothers Karamazov: A. Teile of Sherlock Holmes.&#34; An original short story in which Holmes solves the murder case in Dostoyevsky&#39;s novel. Folder <emph render="italic">2b,</emph></unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Fragment of unfinished historical novel on Xenophon. Folder 25.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Clamence Housman: &#34;The Werewolf&#34;. Typescript marked p.105 to conclusion. This may be a Lacy Lockert revision as it uses Allan Thorne as the hero, the same figure used in Lockert&#39;s The True End of the Ring. Folder 26.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<unittitle>Miscellaneous writings of others. (Typescripts)</unittitle>
-<note>
-<list type="simple">
-<item>a) Song from &#34;The Julius Caesar Murder Case&#34; by Will Irwin.</item>
-<item>b) From Modern Dramatists by Ashley Dukesl (London, 191lTT</item>
-<item>c) From The Fugitive Group by Louise Cowan (LSU Press, 1959). Folder 27.</item>
-</list>
-</note>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">3</container>
-<note>
-<list type="simple">
-<item>c) de Pharr. Mimeographed copies of ms.</item>
-<item>a) A Project for the Translation into English of the Entire Body of Roman Law: Preliminary Statement. 1943.</item>
-<item>b) The Final Agony of the Roman Empire in the West. (Presidential address at the Classical Association of the Middle West and South, April 6-8, 1944.) Folder 28.</item>
-</list>
-</note>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">4</container>
-<unittitle>The True End of the Ring, Fragment of the holograph manuscript. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">4</container>
-<unittitle>Tolkien. Volume III. Revision, Chapters 10-13. First Draft. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">4</container>
-<unittitle>Tolkien. Book VI. Chapters 1-9. Also re-vised chronology. First Draft. Folders 3-7.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">4</container>
-<unittitle>Tolkien. Book VI. Work Sheets. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">4</container>
-<unittitle>True End of the Ring. Lockert&#39;s revision of the Ring Trilogy in its final manuscript form, introducing his hero, Allan Thorne. Folders 9-16.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">4</container>
-<unittitle>(Cf. Five-page copy of letter to Alida Sima Malkus, 17 November 1965 (Folder 2-7) for a description of Lacy Lockert&#39;s purpose and his ideas on rewriting the end of the Ring Trilogy.)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>&#34;The Return of Allan Thorne&#34;. A separate short story involving another journey to Tolkien&#39;s fantasy world by the hero invented by Lockert. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Nelle Ramsay Manuscripts. Folders 2-10. All of these unpublished writings of Ellen (Nelle) Ramsay, 1888-1915&#187; were sent by her brother, Frank Ramsay, to Lacy Lockert after her sudden death in California. Frank Ramsay made some attempt at ordering and organizing the materials by content but no dating or editing of these materials was ever done. A brief comparison of the subject matter of these manuscripts with correspondence with members of the Ramsay family, Nelle, Frank and webane, would suggest that all of these manuscripts were written between 1909-1915. Apparently Lacy Lockert evaluated them in hopes of publishing some of them posthumously, but decided to save them for personal reasons only. A summary of the contents follows: 5 Proposed Novel: One Turn of the Wheel. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>(Nelle Ramsay manuscripts continued)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>One-Act Play: In the Blood. First Draft. Folder 3.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Poem Sequence. Folder 4.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Miscellaneous unfinished poems. Auto biographical content. Folder 5*</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Unfinished short stories. Nine fragments, most untitled. Folder 6.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Untitled short story. Part of conclusion seems missing. Subject: Edna Yarrow at Hyde Park Academy, an autobiographical parallel to one of Nelle&#39;s teaching experiences. Folder 7*</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Untitled short story. Subject: Death of Tam. Some autobiographical reference to Lacy Lockerts illness in 1912 may be source of this material. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Essays. All autobiographical and some bear the character of attempts at poemes en prose.. Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">5</container>
-<unittitle>Outgoing Correspondence. All of this undated. Correspondents include Marjory Curry, Mary Gavin, and Jean . Some of these were written under great stress and possibly were never mailed. Mary Gavin&#39;s letters, however, were sent to Frank after Nelle&#39;s death. Folder 10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">6</container>
-<unittitle>Manuscript Copy #1 of BY THE WILL OF APOLLO, by Charles Kelsey Gaines. Formerly titled In the Silence of the Gods, this manuscript has been edited and shortened by Lacy Lockert. Container also includes one file folder of pages excised from this copy.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">7</container>
-<unittitle>Manuscript copy #2 of BY THE WILL OF APOLLO, by Charles Kelsey Gaines. This version is the full-length copy sent to Lacy Lockert. Perhaps C.K. Gaines himself had attempted to shorten the work as there Eire some pages in one folder which seem to be excised pages from this version.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">8</container>
-<unittitle>Selected Sermons of Canon Orville E. Watson: Work sheets on the introduction and table of contents of this edition of sermons published by Kenyon College after Canon Watson&#39;s death. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">8</container>
-<unittitle>List of sermons for projected second volume of sermons by Canon 0. E. Watson. No evidence that &#8226;Gacy Lockert pursued very actively the publication of this second volume. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">8</container>
-<unittitle>Manuscript of Other Sermons of Canon Watson. (Unpublished edition75</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>N.B. All folders in Container 9 are manuscript materials for chapters in the following books: The Best Plays of Racine(Princeton, 1936); The Chief Plays of Corneille (Princeton, 1952); Chief Rivals of Corneille and Racine (Vanderbilt, 1956]&#34;; and The Mid-Career Tragedies of Racine ( Princeton, 195877&#34;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes and corrections for The Best Plays of Racine, 1936. Miscellaneous notes, rough drafts and lists of manuscript corrections. Folder 1. (Cf. Folder 2-10 for page proofs.)</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Drafts and revisions of Phi&#38;dre translation and introductory essay, typescript and holograph. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes, revisions and corrections for The Chief Plays of Corneille, 1952. holograph and typescript of introduction; pages of manuscript corrections, miscellaneous notes. Folder 3.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Corneille: The Cid. Folder 4.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Corneille: Horace. Folder 5.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Corneille: Cinna. Folder 6.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Corneille: Polyeucte. Folder 7.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Corneille: Njcomedes. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Title pages and dedication: The Chief Rivals of Corneille and Racine, 1956. Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Jean de Gairet: Sophonisbe. Folder. 10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes and introduction to Ia Gariamne by Tristan 1&#39;Hermite. Holograph and typescript. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes and revisions for ffgevole by Pierre Du liyer.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>olograph and typescript&#8482; Folder 12.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes and incomplete translation of Venceslas by Jean Rotrou. Holograph. Folder 13.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Incomplete holograph of translation of Laodice by &#39;J-&#39;homas Corneille. Folder <emph render="italic">Ik.</emph></unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Thomas Corneille: The Count of Essex. Folder 15.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Jean-Galbert Campistron: Andronic. Folder 16.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Typescript of translation of Antoine de la Fosse: Manlius Capitolinus. Folder 17.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Antoine de la Fosse: Manlius Capitolinus. Folder 18.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation and notes for Rhadamiste et Zenoble. Folder 19.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Holograph of translation of Voltaire: ZaSre. Folder 20.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes for Racine&#39;s Mid-Career Tragedies, 1958. Ba.jazet and Mithridate, notes and revisions. Holograph and typescript. Folder 21.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes and revisions for translation of Racine: Mithridate. Holograph and typescript. Folder 22.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Notes for Racine: Iphigenie. Holograph and typescript. Folder 23&#8226;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Miscellaneous notes on Racine. Unidentified work sheets. Holograph and typescript. Folder 2*t.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">9</container>
-<unittitle>Commentary on translations. Notes from Louise &#160; fierce oh Venceslae, Comte d&#39;Essex, and one unidentified text. Folder 25.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>N.B. All folders in Container 10 are manuscript materials for Studies in French Classical Tragedy, Vanderbilt, 1958.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>First draft and notes for Introduction to Studies in French Classical Tragedy, Holograph and typescript. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>Drafts and revisions for introduction, typescript. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;The Amazing Career of Pierre Corneille.&#34; Carbon of typescript manuscript. Folder 3&#171;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;The Amazing Career of Pierre Corneille.&#34; Notes and revisions. Folder</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>Tristan l&#39;Hermite: A French &#34;Duchess of Malfi&#34; ILa Mariane). Typescript. Folder 5&#171;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Du Ryer as a Writer of Tragedy.&#34; Typescript. Folder 6.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Du Ryer as a Writer of Tragedy&#34;: notes and revisions, Golograph and typescript. Folder 7&#171;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>HCosroea: Rotrou&#39;s Best Play.&#34; Typescript. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;The Tragedies of Thomas Corneille.&#34; Type script. Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Quinault&#39;s Astrate.&#34; Typescript. Folder 10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Quinault&#39;s Astrate.&#34; Holograph fragment of rough draft. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Apprenticeship.&#34; Typescript. Folder 12.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Andromaque.&#34; Typescript. Folder 13.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Britannicus.&#34; Typescript. Folder</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Berenice.&#34; Typescript. Folder 15.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>Notes and revisions for&#34;Racine&#39;s Berenice.&#34; Typescript. Folder 16.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Bajazet.&#34; Typescript. Folder 17.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Mithridate.&#34; Typescript. Folder 18.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>Notes on Mithridate. Holograph. Folder 19.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Iphigenie.&#34; Typescript. Folder 20.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Phedre.&#34; Typescript. Folder 21.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Racine&#39;s Athalie.&#34; Typescript. Folder 22.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;After Racine: Campistron.&#34; Typescript. Folder 22.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;After Racine: Campistron.&#34; Incomplete draft and notes. Typescript and holograph. Folder 24.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Manlius Capitolinus.&#34; typescript. Folder 25.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Neo-Classical Tragedy in the Eighteenth Century.&#34; Typescript. Folder 26.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Neo-Classical Tragedy in the Eighteenth Century.&#34; Notes and revisions..Holograph and typescript fragment. Folder 27.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>&#34;Elizabethan and French-classical Drama.&#34; Typescript. Folder 28.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">10</container>
-<unittitle>Notes for &#34;Elizabethan and French-classical Drama.&#34; Holograph and typescript. Folder 29*</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>N.B. All folders in Container 11 are manu script materials fof Moot Plays of Corneille, Vanderbilt, 1959.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Introduction to Moot Plays of Corneille. Typescript carbon. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Notes and revisions for introduction to Moot Plays of Corneille. Holograph and typescript. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Introduction to La Mort de Gompee. Typescript carbon. Folder 3.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>La Mort de Pompee. Typescript. Folder 4.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Notes for Pompee. Typescript. Folder 5.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Introduction to He radius, Gtypescript carbon. Folder 6.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>He radius. Typescript. Folder 7&#171;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Notes for Geraclius. Typescript. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Introduction to Don Sanche d&#39;Aragon. Typescript carbon. Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Don Sanche d&#39;Aragon. Typescript. Folder 10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Notes for Don Sanche d&#39;Aragon. Typescript. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Introduction to Attila. Typescript carbon. Folder l8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Attila. Typescript. Folder 19.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Notes for Attila. Typescript. Folder 20.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Introduction to Pulcherie. Typescript carbon. Folder 21.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Pulcherie. Typescript. Folder 22.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Notes for -Gulcherie. Typescript. Folder 23.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Introduction to Surenax pescript carbon. Folder 2b.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Surena. Typescript. Folder 25.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">11</container>
-<unittitle>Notes and worksheets for Surena. Typescript. Folder 26.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>N.B. All folders in Container 12 are manuscript materials for More Plays by Rivals of Corneille and Racine. Vanderbilt, 1968.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Drafts of Preface, Contents and Dedication for More Rivals. Typescript. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Alexandre Hardy: Mariamne. Xerox. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Pierre Du Ryer: Esther. Xerox. Folder 3.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Revisions from Du Ryer: Esther. Typescript and holograph. Folder</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Tristan l&#39;Hermite: La Mort de Seneque. Xerox. Folder 5.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Tristan l&#39;Hermite: Osman. Xerox. Folder 6.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Jean Rotrou: Saint Genest. Xerox. Folder 7*</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Thomas Corneille: Maximian. Xerox. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Thomas Corneille: Ariane. Xerox. Folder 9&#171;</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Claude Boyer: Oropastes. Typescript fragment. Folder 10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Philippe Quinault: Astrate. Xerox, bolder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Pechantre: Ggta. Xerox. Folder 12.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Jean-Galbert Campistron: Tiridate. Xerox. Folder 13.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>Jean-Galbert Campistron: Tiridate. Fragments of French typescript and holograph draft. Folder 14.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">12</container>
-<unittitle>La Grange-Chancel: Ino et Melicerte. Xerox. Folder 15.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>N.B. All folders in Container 13 are manuscript materials for a projected third book of translations by playwrights of the 17th and ltfth century ne6-classical theater.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Notes on projected book of translations. Type script. Folder 1.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Philippe Quin&#38;ult: Ia Mort de Cyrus. Fragment of translation, typescript. Holograph notes. Folder 2.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Jean-Galbert Campistron: Armlniua. Typescript. Also notes in holograph and typescript. Folder 3*</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Thomas Corneille: La Mort d&#39;Annibal. Typescript. Folder 4.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>La Grange-Chancel: Amaaia. Typescript. Folder 5*</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Voltaire:_Alzir&#171;. Typescript. Folder 6.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Voltaire: Alzire. Revisions; typescript. Folder 7.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Voltaire: Mahomet. Typescript. Folder 8.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Voltaire: Mahomet. First draft and notes. Typescript and holograph. Folder 9.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Voltaire: Le Fanatisae. Xerox copy from aa unidentified edition of Voltaire&#39;s plays. Possibly used as a comparative text for Mahomet translation. Folder 10.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Voltaire: erope. Typescript. Folder 11.</unittitle>
-</did>
-</c01>
-<c01 level="series">
-<did>
-<container type="folder">13</container>
-<unittitle>Voltaire: Merope. First draft and notes. Typescript and holograph. Folder 12.</unittitle>
-</did>
-<note>
-<p>This is a name index of the correspondents of Charles Lacy Lockert, Jr. The figure in parentheses immediately following each name denotes the total number of letters from that person in the collection; the dates are for the time of the letters. The full name of the writer is given whenever possible. The last number given refers to the box and folder in which the correspondence may be found.</p>
-</note>
-</c01>
-</dsc>
-<index>
-<head>Index of Incoming Correspondents</head>
-<indexentry>
-<persname>____________________Eleanor,(1); 30 June 1919; 1-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Anderson, Harriet,(l); 11 December 1952; F. 1-6.</persname>
-</indexentry>
-<indexentry>
-<persname>Allen, Louise,(2); 25 April 1956, 30 November 1956; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Applewhite, Ted,(l); k March I960; F. 1-9. (Enclosures Picture of Mt. Knauss, F. 1-16.)</persname>
-</indexentry>
-<indexentry>
-<persname>Bailey, Herbert S., Jr.,(9); 13 February 1951*, 2 April 1951*, 9 April 1954&#187; 3 May 1954, 20 May 1954, 10 Septemberl954; F. 1-6. 7 December 1956; F. 1-7. 29 January 1957, 22 November 1957; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Baldwin, T.W., (l); 8 February 1959; F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Bevan, W.L.,(l); lgf February 1922; F. l-f.</persname>
-</indexentry>
-<indexentry>
-<persname>Boylan, Marion,(l); <emph render="italic">2k</emph> June 1922; F.</persname>
-</indexentry>
-<indexentry>
-<persname>Branscomb, Harvie,(l); 23 August 1957; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Brown, J. Trevor,(l); 23 November 1956; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Bryant, William H.,(2); 15 August 1959, 26 August 1959, (3 enclosures); F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Cohane, Tin (?),(l); 11 October 1951 (to Mrs. Gilbert Troxell); F. 1-6.</persname>
-</indexentry>
-<indexentry>
-<persname>Davis, William Steams, (3); 11 December 1922, 31 December 1922; F. 1. 23 January 1925; F. 1-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Downer, Alan,(l); 16 January 1957; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Eager, Mrs. George B., (Bess),(8); May 1953; F.l-6. 2 October 1957;</persname>
-</indexentry>
-<indexentry>
-<persname>F.l-8. 19 February 1959, 6 March 1959, 11 March 1959 . 25 March 1959$ 26 March 1959; F. 1-9. 29</persname>
-</indexentry>
-<indexentry>
-<persname>December 1961; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Falk, Eugene H.,(3); 11 May 1956, 29 October 1956, 2 December 1956; F.l-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Finch, Mary A.,(l); 23 February 1922; F. 1-k.</persname>
-</indexentry>
-<indexentry>
-<persname>Gaines, Camaie Pendleton (Mrs. Charles Kelsey),(3); 2 June 1922, 25 June 1922; F.l-Jf. 23 April 1926; F. 1-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Gaines, Charles Kelsey,(22); 22 May 1921, 22 December 1921; F. 1-3. 21</persname>
-</indexentry>
-<indexentry>
-<persname>February 1922, 5 March 1922, (enclosure), 6 March 1922, 19 March 1922,(enclosure), 30 March 1922, 12 April 1922, 1 May 1922, 16 May 1922,(enclosure), 17 May 1922, 3 June 1922, l8 June 1922, 1 July 1922, 26 July 1922, August 1922, <emph render="italic">2k</emph> September 1922, 15 November 1922; F. l-Jf. 1 January 1923, 21 March 1923, 11 October 1925; F. 1-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Gaines, Chloe S. (Mrs. Clarence Hurd),(l); 3 June 1922; F. 1-k.</persname>
-</indexentry>
-<indexentry>
-<persname>Gaines, Clarence Hurd,(l9); 2 January 19Mf (telegraa), 29 October 1951, 11 July 1953;</persname>
-</indexentry>
-<indexentry>
-<persname>F. 1-6. l*t October 1955, 26 November 1955, 26 December 1955 , 22 February 1956 , 27 March 195$J F. 1-7. 16</persname>
-</indexentry>
-<indexentry>
-<persname>July 1957, 11 August 1957, 27 January 1958, 17 December 1958; F. 1-8. 18</persname>
-</indexentry>
-<indexentry>
-<persname>February 1959, 13 March 1959, 6 June 1959, 9 June 1959; F. 1-9. <emph render="italic">k</emph> January 1961, l8 January 1961, 15 March 1961; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Hall, Flem,(l); 5 January 1957 (to George Leonard); F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Halaey, Frank D.t(l); 26 November 1935i F. 1-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Hawkes, Jans,(l) 22 February 1922; F. 1-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Henry, Louise,(l); 24 January 1922; F.l-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Houston, Benjamin F.,(3); 5 December 1955&#187; H May 1956, 19 November 1956; F.l-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Kellenbfcrger, Hunter,(6); 1 January 1946, 10 February 1952, 20 April 1953, 26 September 1953, 20 April 1954; F. 1-6. 19 August 1970; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>Littell, A.J.,(l); 5 August 1953; F.l*6.</persname>
-</indexentry>
-<indexentry>
-<persname>Long, Percy V. (Modern Language Association), (2); 16 April 1937&#187; 1 December 1937; F. 3-18.</persname>
-</indexentry>
-<indexentry>
-<persname>McDavitt, Clareace G.,(3); 30 September 1952, 20 October 1953; F.l-6. 5 February 1955; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>McGrew, John B., (l); 16 February 1922; F. 1-4.</persname>
-</indexentry>
-<indexentry>
-<persname>--------Emily, (E.G.M.),(l); 30 April (1956?); F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Mabry, Mallnda,(l); 25 March 1922; F. 1-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Meltom, Catherine Parker,(2); 30 September 1957, 25 November (1957); F.l-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Miller, Frank L.,III,(l); 1 February 1958 (enclosure); F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Miller, Frank L.,Jr.,(2); 19 February 1946, 29 March 1954; F. 1-6.</persname>
-</indexentry>
-<indexentry>
-<persname>More,Paul E.,(l); 20 March 1923; F. 1-5.</persname>
-</indexentry>
-<indexentry>
-<persname>Nash, Robert C., (typist),(8); 29 November 1948, 10 Apr ii 1952, 27 October 1953, 20 December 1954; F. 1-6. 17</persname>
-</indexentry>
-<indexentry>
-<persname>January 1955. 17 February 1955, 12 January 1956; F. 1-7. 21 September 1965; F. 1-10.</persname>
-</indexentry>
-<indexentry>
-<persname>North American Review,(l); 6 January 1920; F. 1-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Parrott, Thomas Marc, (4); 13 February 1944, 27 January 1946; F. 1-6. 11 January 1956; F. 1-7. 9 January 1959 (card); F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Perria, Bernadott&#174;,(l) 30 December 1903 to Charles Kelsey Gaiaes (enclosure ia letter from Gaines, 19 March 1922); F. 1-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Pierce, Louise, (l); 8 January 1946 (enclosure); F. 1-6.</persname>
-</indexentry>
-<indexentry>
-<persname>Ramsay, Franklin,(l); 21 June 1915 (telegram); F.l-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Ramsay, Mebane,(l); 13 April 1959; F. 1-9.</persname>
-</indexentry>
-<indexentry>
-<persname>Ramsay, Nelle,(49); August 1908, 20 August 1908 (card), 23 December 1908 (Christmas card), May 1909 ( ommencement Invitation), August 1909t 6 January 1910, 16 March 1910, 26 April 1910 (card), 26 April 1910 (card), 27 April 1910, 6 June 1910 (card), 16 November 1910, 30 December 1910 (card), 31 December 1910 (card); F. 1-1.</persname>
-</indexentry>
-<indexentry>
-<persname>12 March 1911, (l?) April 1911 (card), 5 June 1911, 5 July 1911, 17 July 1911, 20 August 1911 (card), 6 September 1911* 23 December 1911 (card), 13 January 1912 (enclosures), 8 Apr ii 1912, 19 June 1912, 2 August 1912, 14 August 1912, 16 August 1912, 22 August 1912 (card), 7 September 1912, 13 September 1912, 19 September 1912, 30 September 1912, 14 October 1912, 22 December 1912, 27 December 1912; F. 1-2. 2</persname>
-</indexentry>
-<indexentry>
-<persname>June 1913&#187; 19 June 1913, 4 November 1913&#171; (one page erased), 18 December 1913, 28 January 1914, 25 March 1914, 1 June 1914, 21 July 1914, 10 December 1914, 18 January 1915; F. 1-3.</persname>
-</indexentry>
-<indexentry>
-<persname>Robinsoa, Nelsoa L.,(l); Copy, n.d. F. 1-5* Russell, Bob, (l); 2 January 1957 (to George Leonard); F. 1-8. Shafer, ,(l); 17 October 1922; F. 1-4.</persname>
-</indexentry>
-<indexentry>
-<persname>Sinnen, Jeanne,(l); 31 January 1957; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Sloaae, William,(3); 15 November 1956, 10 December 1956; F. 1-7. 7 January 1957? F. 1-8. Troxell, Janet Camp,(2); 8 October 1951 (to Clarence McDavitt); F. 1-6. 31 March 1956; F. 1-7.</persname>
-</indexentry>
-<indexentry>
-<persname>Wade, Ira 0.,(l); 23 February 1954; F. 1-6.</persname>
-</indexentry>
-<indexentry>
-<persname>Weyand, Colonel A.M.,(2) 29 December 1956; F. 1-7. 2 January 1957; F.l-8. Whaney, J.B.t (l); 2 February 1922; F. 1-i.</persname>
-</indexentry>
-<indexentry>
-<persname>Wilsoa, Robert H.,(2); 20 May 1957, 12 October 1957; F. 1-8.</persname>
-</indexentry>
-<indexentry>
-<persname>Youag, James N.,Ct); l8 September 1952, 20 April 1953; F. 1-7. 16 June 1956, 19 November 1956; F. 1-7.</persname>
-</indexentry>
-</index>
-<note>
-<p>Correspondence is listed chronologically. Folder is indicated by the abbreviation F..1908: ___August to Nelle Ramsay; F. 2-1.</p>
-</note>
-<index>
-<head>INDEX OF OUTGOING CORRESPONDENTS</head>
-<indexentry>
-<persname>1913: ___November to Nelle Ramsay; F. 2-1.</persname>
-</indexentry>
-<indexentry>
-<persname>1915: 23 June to Frank Ramsay; 2k June to Me bane Ramsay; F. 2-1.</persname>
-</indexentry>
-<indexentry>
-<persname>1921: 18 May to Charles Kelsey Gaines; 2 December to Charles K. Gaines; F. 2-1.</persname>
-</indexentry>
-<indexentry>
-<persname>1922: 12 January to Charles K. Gaines; Reply to March 30 of Charles K. Gaines; 7 December to William Stearns Davis; Reply to 11 December of William S. Davis; F. 2-1.</persname>
-</indexentry>
-<indexentry>
-<persname>1936: N.D. to Gilbert Murray (book inscription); N.D. to Gilbert Murray; F. 2-1.</persname>
-</indexentry>
-<indexentry>
-<persname>1937s 28 April to Christian Gauss; N.D. to Christian Gauss; F. 2-1.</persname>
-</indexentry>
-<indexentry>
-<persname>1938: _____January to Dr.(Percy) Long, (MLA); 9 March to Dr. Percy Long; F. 3-18.</persname>
-</indexentry>
-<indexentry>
-<persname>1943: (Fall) to Thomas Marc Parrott; F. 2-8. 5 December to Charles K. Gaines; F. 2-2.</persname>
-</indexentry>
-<indexentry>
-<persname>1944: Reply to telegram of 2 January of Clarence Hurd Gaines; N.D. to Clarence H. Gaines; N.D. to Clarence H. Gaines; N.D. to Clarence H. Gaines; N.D. to Canon Watson; F. 2-2. (15 February) to Thomas Marc Parrott; N.D. to Thomas M. Parrott; N.D. to Thomas M. Parrott (fragment); ( December) to Thomas M. Parrott; 29 November to John Heard of Poet Lore (fragment on reverse of preceding letter to Parrott); F. 2-8. c.1944-</persname>
-</indexentry>
-<indexentry>
-<persname>1945: N.D. to Clarence H. Gaines; N.D. fragment probably to Clarence H. Gaines; N.D. to Eleanor ; F. 2-2. N.D. to Thomas M. Parrott; N.D. to Thomas M. Parrott (fragment); F. 2~8.</persname>
-</indexentry>
-<indexentry>
-<persname>1945: N.D. to Grosset and Dunlap; Unidentified fragment on reverse of Grosset and Dunlap (subject: Corneille); 7 December to Mrs. (Louise) Pierce; F. 2-2. N.D. to Thomas M. Parrott; N.D. to Thomas M. Parrott; N.D. to Canon Watsoa (fragment on reverse of preceding letter to Parrott; F. 2-8. c.1945-</persname>
-</indexentry>
-<indexentry>
-<persname>1946: N.D. to Mrs. (Louise) Pierce; F. 2-2.</persname>
-</indexentry>
-<indexentry>
-<persname>1946: N.D. to Hebane Ramsay; F. 2-2. Reply to 27 January to Thomas M. Parrott; (Fall) to Thomas M. Parrott; (Fall) to Thomas M. Parrottj December to Thomas M. Parrott; F. 2-8.</persname>
-</indexentry>
-<indexentry>
-<persname>1947: January to Me bane Ramsay; F. 2-3. January to Ghoaas M. Parrott; TJanuary-February) to Thomas M. Parrott; (January-February) to Thomas M. Parrott; F. 2-8. 15 March to Gilbert Murray; F. 2-3. (March-April) to Thomas M. Parrott; (Spring) to Thomas H. Parrott; (Spring) to Frank Miller III (on reverse of (&#176;pring) letter to Parrott); August to Thomas M. Parrott; F. 2-8. November to Canon Watson; N.D. to Mrs. (Louise) Pierce (two letters on same paper); N.D. to Canon Watson; F. 2-3.</persname>
-</indexentry>
-<indexentry>
-<persname>1948: (Winter) to Thomas M. Parrott; F. 2-8. N.D. to Canon Watson; F. 2-3.</persname>
-</indexentry>
-<indexentry>
-<persname>1959: N.D. to Thomas M. Parrott; F. 2-8. 1950: (June) to Thomas M. Parrott; F. 2-8. c.1950</persname>
-</indexentry>
-<indexentry>
-<persname>1951: Unidentified correspondent; topic: Chief Plays of Corneille Ms. F. 2-3.</persname>
-</indexentry>
-<indexentry>
-<persname>1951: 10 February to Dr. Harold C. Bfadley; May to Mr. (Clarence) McDavitt; 23 July to A.G. Graham; July to Tim (Subject: Shakespeare); N.D. to Dr. (Christian) Gauss; N.D. to Dr. (Christian) Gauss; N.D. to (Clarence) McDavitt; F. 2-3. N.D. to Thomas M; Parrott; F. 2-8. N.D. to Datus C. Smith (fragment); N.D. to Dr. (J. Duncan) Spaeth; N.D. to (James) Young; F. 2-3. c.1951-</persname>
-</indexentry>
-<indexentry>
-<persname>1952: N.D. to (Clarence) McDavitt; F. 2-3.</persname>
-</indexentry>
-<indexentry>
-<persname>1952: N.D. to Mr. ______ Burkhart; Unidentified correspondent; topic: Theory of the Novel; F. 2-3.</persname>
-</indexentry>
-<indexentry>
-<persname>1953: 12 March to Princeton University Press; 21 September to President Gordon K. Chalmers; 31 October to Herbert S. Bailey; 12 November to Herbert S. Bailey; N.D. to Princeton University Press, (plus typed fragment of same); F. <emph render="italic">2-k.</emph></persname>
-</indexentry>
-<indexentry>
-<persname>1954: 8 February to Herbert S. Bailey; 13 February to Ira 0. Wade; 15 February to Herbert S. Bailey; Reply to 2.Ap*iiLiof Herbert S. Bailey; 3 December to Herbert S. Bailey; F. 2-4.</persname>
-</indexentry>
-<indexentry>
-<persname>1955: 29 September to Bob Nash; F. 2-4.</persname>
-</indexentry>
-<indexentry>
-<persname>1956: Zb January to Herbert S. Bailey; Enclosure for 3 February to Mr. (Clarence) McDavitt; l&#39;f March to Jim (James N. Young); Harch ta-Hfara. Gilbert Troxell (Janet Camp Troxell); March to Mrs. GilbertTroxell; (October-November) to H.S. Bailey; (October-November) to Mrs. Houston; Two letters N.D. attached to the Bailey and Houston notepaper above: l) Mra . Cottrell, 2) Thomas M. Parrott; 7 November to Dr. H.C. Nixon (Vanderbilt Press, two copies); 25 Govember to (William) Sloane; 8 December to Dean Taylor (Holograph original on back of 3 February McDavitt above); 12 December to (William) Sloane; 17 December to Herbert S. Bailey, typescript and holograph; December to (William) Sloane on reverses&#60;5f December Bailey holograph; _ December to Editor of the Romanic Review on reverse of 17 December Bailey holograph; N.D. to (T.W.) Baldwin (Holograph of 23 November Sloane on same notepaper); N.D. to Frank L. Miller, Jr.; N.D. to The Dante Society of America; F. 2-5*</persname>
-</indexentry>
-<indexentry>
-<persname>1957: 5 January to Herbert S. Bailey; N.D. to Editor of the Romanic Review (on same notepaper as 5 January Bailey letter); N.D. to (William) Sloane (on reverse of 5 January Bailey letter&#60;&#62;; N.D. to Mr. (Eugene H.) Falk; N.D. to Miss (Jeanne) Sinnen; 25 January to Herbert S. Bailey (Holograph and typescript); 29 January to H.C. Nixon; 4 February to (William) Sloane (holograph and typescript); February-March to (Eugene H.) Falk; February- March to Herbert S. Bailey (on same notepaper as preceding Falk letter); Reply to 20 May of Robert H. Wilson; May to Thomas M. Parrott (on reverse of preceding Wilson letter); Reply to 12 October of Robert H. Wilson; N.D. to Jane ; F. 2-6. April to Thomas M. Parrott; F. 2-8. c.1957-</persname>
-</indexentry>
-<indexentry>
-<persname>1958: N.D. to Leonard J. Wang; F. 2-7.</persname>
-</indexentry>
-<indexentry>
-<persname>1958: 21 November to Rob Roy Purdy; N.D. to Mebane Ramsay; F. 2-7.</persname>
-</indexentry>
-<indexentry>
-<persname>1959: 21 August to William H. Bryant; 31 August to Santa Barbara Cemetery Association. (Attn. W.A. Bryant); 25 November to Director of the Vanderbilt University Press; F. 2-7.</persname>
-</indexentry>
-<indexentry>
-<persname>I960: Reply to k March of Ted Applewhite; F. 2-7.</persname>
-</indexentry>
-<indexentry>
-<persname>1965: 17 November to Alida (Alida Sima Malkus); F. 2-7. Unidentified fragment. Topic: Corneille&#39;s The Cid. F. 2-7. N.D. to Miss (M.F.) Stawell. Topic: Translation of Faust. F. 2-7.</persname>
-</indexentry>
-</index>
-<note>
-<p>Printed materials removed from the Charles Lacy Lockert, Jr. papers include the following: 1).1) Thermofax copy of:</p>
-<table frame="none">
-<tgroup cols="2">
-<colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
-<colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
-<tbody>
-<row>
-<entry colname="1">1) Thermofax copy of:</entry>
-<entry colname="2">Vondel, Joost van den (1587-1679) Vondel's Lucifer, translated by onard Charles Van Nappen. N.Y.: Continental Publishing Co., 1898.</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">This vas a thermofax copy of pp. 263-438. ere were no markings on the text to indicate any relationship of this work to the writiags or translations of La.c.y Lockert.</entry>
-</row>
-<row>
-<entry colname="1">2) Newspaper clippings:</entry>
-<entry colname="2">&#160;</entry>
-</row>
-<row>
-<entry colname="1">Nashville Banner</entry>
-<entry colname="2">7 December 1936, PP. 3-6</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">9 December 1936, PP. 15-16</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">10 January 1937, PP. 7-10</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">30 September 1958, p;..lJ</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1 October 1958, P. 8</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">2 October 1958, P. 10</entry>
-</row>
-<row>
-<entry colname="1">Nashville Tenaessean</entry>
-<entry colname="2">10 January 1937</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">September 1947, PP. l-2, 11-12</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">9 September 1948, p.19</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">10 September 1948, p.23</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">13 September 1948, P.7</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">12 November 1948, P. 21</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">4 March 1949, PP. 25-26</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">4 March 1949, p. 2</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">17 July 1952, P. 15</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">5 August 1952, P. 9</entry>
-</row>
-<row>
-<entry colname="1">Des Moines Register</entry>
-<entry colname="2">4 November 1948, PP. 1-2</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">12 December 1948, PP. 1-2, 15-16.</entry>
-</row>
-<row>
-<entry colname="1">New York Sun</entry>
-<entry colname="2">28 October 1948, pp.29-301 47-48</entry>
-</row>
-<row>
-<entry colname="1">Gainee Family</entry>
-<entry colname="2">&#160;</entry>
-</row>
-<row>
-<entry colname="1">Absalom Graves Gainee</entry>
-<entry colname="2">President of St. Lawrence University, Cantoa, N.Y., 1872-1888. After that period returned to faculty as Professor of Psychology, a post he held until the early 1900's.</entry>
-</row>
-<row>
-<entry colname="1">Charles Kelsey Gaines</entry>
-<entry colname="2">1854-1944</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1875-1876 Tutor at St. Lawrence</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1876 Graduated from St. Lawrence;4ppointed acting professor of Greek</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1877 Appointed Professor of Greek</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1878 Married Cammie Pendleton Woods, five daJs after her graduatioa from St. Lawrence.</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1882 Appointed Professor of English</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1884-1893 Librari8.Jl at St. Lawrence</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1886 rote college song.</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">1892 Honorary doctorate froa Lombard..1896-1900</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">Left St. Lawrence fcrone year of travel, Greece, Egypt. Then vas Vice-resident of Bacheller Syndicate (Publishiag endeavor of I1Ving Bacheller, another St. Lawrence alumnus) and also on staff of Nev York World.</entry>
-</row>
-<row>
-<entry colname="1">&#160;</entry>
-<entry colname="2">In 1900 returned to St. Lawrence. The dates of his M.A. from St. Lawrence and an honorary L.L.D. froa St. Lawrence are not clear. Total career at St. Lawrence spaaned the yeare of 1876-1931, with the four years out from 1896-1900 noted above. Retired as Professor of Greek and English.</entry>
-</row>
-<row>
-<entry colname="1">Clarence Hurd Gaines</entry>
-<entry colname="2">Only son of Charles Kelsey Gaines. Married to Chloe s. Gaines, had one soa, Richard Hurd Gaines. Undergraduate degree from St. Lawrence, graduate study at Harvard. No dates on any of this available. Editor of Harper's Book Shelf (dates?) Wrote all revieve for North American Review from 1912-? Chai+li8.D. of the English Department, St. Lawrence University, c. 1922.</entry>
-</row>
-<row>
-<entry colname="1">All of this biographical information comes froa 118. sources ia JUL, i.e. the correspondence of Charles Kelsey Gaines (22 letters), Cammie P. Gaiaes (2 letters), Clarence Hurd Gainee (19 letters) and Chloe s. Gaines (1 letter). There is also a biographical sketch and tribute is the introduction .. to An Angel' a 1 a novel edited and seen through publicatioa by Lacy Lockert after the death of Charles K. Gainee. Undoubtedly St . . Lavrence university could furnish much information about this family if it is ever necessary in connection with the manuscripts of Charles Kelsey Gaines in the Lockert collectionl)</entry>
-<entry colname="2">&#160;</entry>
-</row>
-<row>
-<entry colname="1">1) Gorgo: Romance E.f Old Athene. Illustrated by George Variaa. Boston: Lothrop, Lee &#160; Shepard Co., 1903. (Later publication continued b.J Groeset &#38; Dunlap, Nev York after the bankruptcy of the original publishers.)</entry>
-<entry colname="2">&#160;</entry>
-</row>
-<row>
-<entry colname="1">2) Authorized Revision of Cushing's Manual., l916.</entry>
-<entry colname="2">&#160;</entry>
-</row>
-<row>
-<entry colname="1">3) Sixty Years of St. Lawrence, Canton, N.Y., .19l6.</entry>
-<entry colname="2">&#160;</entry>
-</row>
-<row>
-<entry colname="1">4) An Angel's Diary Canton, N.Y.: St. Lawrence University, 1962. Printed tor St. Lawrence by the Parthenon Press, Nashville, Tennessee from the 1921 manuscript by Lacy Lockert.)</entry>
-<entry colname="2">&#160;</entry>
-</row>
-</tbody>
-</tgroup>
-</table>
-</note>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Lockert, Charles Lacy, Jr. Papers</titleproper>
+        <titleproper>Finding Aid for the Lacy Jr, Charles Lockert, Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2002</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Lockert, Charles Lacy, Jr. Papers</unittitle>
+      <unitid>MSS.0263</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.46 linear_feet</extent>
+      </physdesc>
+      <unitdate>2002</unitdate>
+    </did>
+    <bioghist>
+      <head>Obituary - Lockert, (Charles) Lacy (Jr.) - 1888-1974</head>
+      <p>
+        <emph render="bold">Personal:</emph>
+        Born May 18. 1888 in Clarksville, Tenn.; son of Charles Lacy (a druggist) and Nannie (Smith) Lockert.
+        <emph render="bold">Education:</emph>
+        Southwestern Presbyterian University, A.B., 1907, A.M., 1909; Princeton University, Ph.D.. 1916.</p>
+      <p>
+        <emph render="bold">Career:</emph>
+        Kenyon College, Gambier, Ohio, assistant professor of English. 1916-25; retired early in order to study and write.
+        <emph render="italic">Member:</emph>
+        Modern Language Association of America, Sierra Club.</p>
+      <p>
+        <emph render="bold">Writings</emph>&#8212;Translator and author of critical material, except as noted: (Author of commentary) Massinfer and Field,
+        <emph render="italic">The Fatal Dowry.</emph>
+        New Era Press, 1918; (contrftwtor) H. Craig, editor.
+        <emph render="italic">Essays in Dramatic Literature: The Par- rott Presentation Volume,</emph>
+        Princeton University Press, 1935; Dante Alighieri,
+        <emph render="italic">The Inferno,</emph>
+        Princeton University Press. 1936; Jean Baptiste Racine,
+        <emph render="italic">Best Plays,</emph>
+        Princeton University Press, 1936; Pierre Comeille,
+        <emph render="italic">Chief Plays.</emph>
+        Princeton University Press, 1952, 2nd edition, 1957; (editor) Orville Ernest Watson,
+        <emph render="italic">Selected Sermons.</emph>
+        Kenyon College, 1955;
+        <emph render="italic">The Chief Rivals of Corneille and Racine,</emph>
+        Vanderbilt University Press, 1956; (author)
+        <emph render="italic">Studies in French-classical Tragedy,</emph>
+        Vanderbilt University Press, 1958; Racine,
+        <emph render="italic">Mid- career Tragedies,</emph>
+        Princeton University Press, 1958; Corneille,
+        <emph render="italic">Moot Plays.</emph>
+        Vanderbilt University Press, 1959;
+        <emph render="italic">More Plays by Rivals of Corneille and Racine,</emph>
+        Vanderbilt University Press, 1968. Contributor to
+        <emph render="italic">Sewanee Review, North American Review,</emph>
+        and other journals.</p>
+      <p>
+        <emph render="bold">Avocational Interests:</emph>
+        Great natural scenery, and photographing it; history of American intercollegiate football; Wagnerian opera.t</p>
+      <p><emph render="bold">Chronology</emph></p>
+      <chronlist>
+        <chronitem>
+          <date>1888</date>
+          <event>Born in Clarksville, Tennessee; only child.</event>
+        </chronitem>
+        <chronitem>
+          <date>1903-1909</date>
+          <event>A.B. and A.M. at Southwestern Presbyterian University at Clarksville. (Now Southwestern at Memphis)</event>
+        </chronitem>
+        <chronitem>
+          <date>1908</date>
+          <event>Correspondence with Nelle Ramsay begins.</event>
+        </chronitem>
+        <chronitem>
+          <date>1909</date>
+          <event>Enters Princeton University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1912</date>
+          <event>Mother dies; family home broken up and Lockerts move to Nashville, Lacy suffers nervous breakdown which interrupts his doctoral studies at Princeton; treatment was in Nashville.</event>
+        </chronitem>
+        <chronitem>
+          <date>1915</date>
+          <event>Returns to Princeton in January. Nelle Ramsay dies in California in June.</event>
+        </chronitem>
+        <chronitem>
+          <date>1916</date>
+          <event>Completes Ph.D. at Princeton. Dissertation under direction of Thomas Marc Parrott. Assistant Professor of English, Kenyon College. Meets Philip Timberlake, who was then a senior ar Kenyon.</event>
+        </chronitem>
+        <chronitem>
+          <date>1917</date>
+          <event>Exempted from military service for poor health.</event>
+        </chronitem>
+        <chronitem>
+          <date>1918</date>
+          <event>Publishes dissertation. The Fatal Dowry by Philip Massinger and Nathaniel Field by Charles Lacy Lockert, Jr.) Lancaster, Pa: The New Era Printing Company.</event>
+        </chronitem>
+        <chronitem>
+          <date>1919</date>
+          <event>Articles: &#34;Marston, Webster and the Decline of Elizabethan Drama,&#34; Sewanee Review, January. &#34;Henryk Sienkiewicz,&#34; Sewanee Review, July.</event>
+        </chronitem>
+        <chronitem>
+          <date>1920</date>
+          <event>Article: &#34;A Scene in &#39;The Fatal Dowry*,&#34; Modern Language Notes, May.</event>
+        </chronitem>
+        <chronitem>
+          <date>1921</date>
+          <event>Began Correspondence with Charte Kelsey Gaines with letter of appreciation for the novel, Gorgo, on May 12.</event>
+        </chronitem>
+        <chronitem>
+          <date>1922</date>
+          <event>Article: &#8226;&#8226;Some of Mr. Galsworthy&#39;s heroines,&#34; North American Review, February. Phi Beta Kappa Lecture at St. Lawrence University, Canton, N.Y. May 12. The Lecture, &#34;World Drama and World Dramatists,&#34; was published
+            in pamphlet form, by Commercial Advertiser Press, Canton, N.I. Thanksgiving Visit wi,th the C.K. Gaines family.</event>
+        </chronitem>
+        <chronitem>
+          <date>1922-1923</date>
+          <event>Chairman of the Gorgo essay contest for undergraduates sponsored by Kenyon College.</event>
+        </chronitem>
+        <chronitem>
+          <date>1925 (26?)</date>
+          <event>Leaves Kenyon College and retires to write (in Nashville). Succeeded in his position at Kenyon by Philip Timberlake.</event>
+        </chronitem>
+        <chronitem>
+          <date>1931</date>
+          <event>Published first translation. The Inferno of Dante &#8226; Princeton University Press.</event>
+        </chronitem>
+        <chronitem>
+          <date>1935</date>
+          <event>Article: &#34;The Greatest of Elizabethan Melodramas,&#34; Essays in Dramatic Literature: the Parrott Presentation Volume, Princeton University Press.</event>
+        </chronitem>
+        <chronitem>
+          <date>1935-1936</date>
+          <event>Thomas Marc Parrott is visiting professor at Vanderbilt. Acquaintance renewed, probably basis for correspondence in this collection.</event>
+        </chronitem>
+        <chronitem>
+          <date>1936</date>
+          <event>Published first of French translations: The Best Plays of Racine, Princeton University Press.</event>
+        </chronitem>
+        <chronitem>
+          <date>1938-1942</date>
+          <event>Louise Allen suffers major breakdown, described sis melancholia or manic depression in Lacy&#39;s letters. Indications are that she had experienced earlier breakdown in 1916.</event>
+        </chronitem>
+        <chronitem>
+          <date>1939</date>
+          <event>Article: &#34;Racine&#39;s Berenice,&#34; Romanic Review, February.</event>
+        </chronitem>
+        <chronitem>
+          <date>1940</date>
+          <event>(4l) Charles Lacy Lockert, Sr. dies. Born December 19, 1855, died at age 85.</event>
+        </chronitem>
+        <chronitem>
+          <date>1944</date>
+          <event>Charles Kelsey Gaines dies. Correspondence with Clarence Hurd Gaines begins.</event>
+        </chronitem>
+        <chronitem>
+          <date>1946-1947</date>
+          <event>Louise Allen suffers setback; electro-shock treatments and extended hospitalization necessary.</event>
+        </chronitem>
+        <chronitem>
+          <date>1952</date>
+          <event>Publishes second book of French translations: Chief Plays of Cornellle&#171; Princeton University Press.</event>
+        </chronitem>
+        <chronitem>
+          <date>1955</date>
+          <event>Lacy Lockert edits volume of sermons of Canon Watson of Kenyon College. (Orville Ernest Watson, 1857-1951). Selected Sermons of Orville E. Watson. Gambier; Kenyon College, tPrinted by Parthenon Press, Nashville)</event>
+        </chronitem>
+        <chronitem>
+          <date>1956</date>
+          <event>Publishes third book of translations: Chief Rivals of Corncille and Racine. Vanderbilt University Press.</event>
+        </chronitem>
+        <chronitem>
+          <date>1957</date>
+          <event>Piiilip Timberlake dies.</event>
+        </chronitem>
+        <chronitem>
+          <date>1958</date>
+          <event>Pu.bliah.ea fourth book of translations and a book of criticism: Racinels Mid-Career Tragedies, Princeton University Press. Studies in French-Classical Tragedy, Vanderbilt University Press.</event>
+        </chronitem>
+        <chronitem>
+          <date>1959</date>
+          <event>Publishes fifth book of translations: Moot Plays of Corneille, Vanderbilt University Press. Purchases memorial tablet for Nelle Ramsay (1887-1915)</event>
+        </chronitem>
+        <chronitem>
+          <date>1960</date>
+          <event>Thomas Marc Parrott dies.</event>
+        </chronitem>
+        <chronitem>
+          <date>1962</date>
+          <event>Edits and publishes novel by Charles Kelsey Gaines which was originally written in 1921: Gaines, Charles Kelsey Angel&#39;s Diary, Canton, N.Y,: St. Lawrence University TPrinted for St. Lawrence at Parthenon Press, Nashville.)</event>
+        </chronitem>
+        <chronitem>
+          <date>1968</date>
+          <event>Publishes sixth book of French translations: More Plays by Rivals of Corneille and Racine, Vanderbilt University Press.</event>
+        </chronitem>
+        <chronitem>
+          <date>1969</date>
+          <event>(?) Married Annie Louise Allen 197 Died in Nashville on April 21.</event>
+        </chronitem>
+      </chronlist>
+      <p>All information in this chronology is based on the correspondence of Lacy Lockert and from publications of his which are either available in reprint or in the collections of JUL. Some of the information in the chronology attempts to make the
+        correspondence more useful by listing events in the lives of people close to Lacy Lockert.</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1-10</container>
+          <unittitle>Correspondence - Incoming. 1908-1970. &#8212;- 180 letters, most holograph, many typed. I Ir 13 postcards, 1 Christmas card, 2 telegrasB and 1 invitation. Arranged alphabetically according to sender.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>Typescript of incoming correspondence from Nelle Ramsay, 1908-1915. All letters and postcards from this collection are included but some paragraphs sire deleted. There are also typescripts of some of Lacy Lockert*s replies and his comments
+            on the correspondence in this typescript.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>Photographs</unittitle>
+          <note>
+            <list type="simple">
+              <item>a) Nelle Ramsay, c. 1910</item>
+              <item>b) Lacy Lockert, boxing photo, probably taken while at Princeton.</item>
+              <item>c) Charles Kelsey Gaines and Lacy Lockert, Canton, N.Y., 1922. (Two copies)</item>
+              <item>d) Frank E. Miller, III, c. WW II.</item>
+            </list>
+          </note>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>Draft Records WW I. Certificate of Discharge, Doctor&#39;s certificate, War Department notices, and clipping from The Nashville Tennessean, July 15, 1917</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>Football Statistics and Inventions. A sampling of all-time great teams selected by the Lockert method</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>Miscellaneous Clippings. Includes football clippings and articles about friends: Mrs. Charles Kelsey Gaines, Frank Miller, Jr., Philip Timberlake, and Mrs. Mebane Ramsay</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>Travel. Photograph of Mr. Knauss; folder from Letchworth State Park, NY; information about wartime travel in Canada</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>Financial Papers: Miscellaneous bank state ments and receipts; stock announcements and stockholder&#39;s reports; Letter of bequest to Vanderbilt University, accepted by O.C. Car- michael, July 16, 1943 (Xerox copy); rough draft of article
+            in Lacy Lockert&#39;s will concerning publication of Gorgo; order and receipt for memorial tablet for Nelle Ramsay, September 2, 1959</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1-7</container>
+          <unittitle>Correspondence - Outgoing. 1908-1965. 139 letters, primarily holograph, with some typescripts, especially to publishers. Carbon copies and photo copies are few. Arranged chronologically. Folders 1-7.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence - Outgoing. 1943-1957. 24 letters to Thomas Marc Parrott. All of these letters are holograph and were not dated by Lacy Lockert. Approximate dates were assigned on the basis of internal evidence. (Two other letters to Mr. Parrott which could not be separated from other correspondence may be found in Folders 5 and 6)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>Political opinions. Essays on Eleanor Roosevelt (Two copies, plus one fragment), Franklin Roosevelt and Harry Truman (One copy), and integration (fragment). These essays appear to be a part of the outgoing correspondence, possibly to
+            either Mebane Ramsay or Philip Timberlake. There is also a reprint of General Douglas MacArthur&#39;s address to Congress, April 15, 1951</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">10</container>
+          <unittitle>Page Proofs of The Best Plays of Racine</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">11</container>
+          <unittitle>An Angel&#39;s Diary, Charles Kelsey Gaines. Thermofax copy of manuscript</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">12</container>
+          <unittitle>An Angel&#39;s Diary, galley proofs</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13</container>
+          <unittitle>An Ansel&#39;s Diary, page proofs. Lacy Lockert*s introduction gives biographical material about Charles Kelsey Gaines</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1</container>
+          <unittitle>Phi Beta Kappa Address, May 12, 1922, St. Lawrence University. Program and newspaper clippings from Canton, N.Y. area</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">2</container>
+          <unittitle>Gorgo Essay Contest. Clippings from April, 1922 from Canton, N.Y. area newspapers</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle>Gorgo vocabulary. Alphabetical study list x)f terms from Gorgo; no stated purpose for use of this list</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle>Course plans. Shakespeare 12*t, mimeographed two-page outline, Golograph of prospective seminar in French Classical Drama</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle>Spyglass, July 13, 1927. Bookpage from The Nashville Tennessean. Includes review of John Jay Chapman&#39;s Dante by Lacy Lockert</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>Reviews:. The Best Plays of Racine. Clippings from The Nashville Banner and The Nashville Tennessean, January 10, 1937. Typescript copies of reviews appearing in Notes and Queries, Modern Language Notes, The Chattanooga News, Chattanooga
+            Times, The Brooklyn Teacher, Vancouver Sun</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">7</container>
+          <unittitle>Reviews of other Lockert publications. April 8, 1922, America, on &#34;Some of Mr. Galsworthy&#39;s heroines.&#34;; Unidentified review of Dante&#39;s Inferno. December 1932, New Republic, The Chief Plays of Corneille. July 10, 1953, TLS, The Chief Plays of Corneille.; Summer, 1953, 17th Century News, The Chief Plays of Corneille.; January 6, 1957, Nashville Tennessean, The Chief Rivals of Corneille and Racine. September 1959&#171; The Book Exchange, Studies in French-Classical Tragedy. Holograph copy of reviews in The Christian Century, January 7, 1953; Morning Telegraph, N.Y., August 29, 1952; TLS, September 11, 1959.; Typescript of selected quotations from reviews for brochure on The Chief Plays of Corneille.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">8</container>
+          <unittitle>Dust Wrappers, Vanderbilt University Press. Hoot Plays of Corneille, The Chief Rivals of Corneille and Racine, Studies in French-Classical Tragedy</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">9</container>
+          <unittitle>Publishers&#39; Memoe. Advertising flyers and letters from Princeton University Press and Vanderbilt University Press on Lockert&#39;s works. Also brochures from Richard R. Smith Publishing and Collection des Classiques Garniers</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">10</container>
+          <unittitle>Reprints of Gacy Lockert Articles.</unittitle>
+          <note>
+            <list type="simple">
+              <item>a) &#34;Marston, Webster and the Decline of Elizabethan Drama,&#34; Sewanee Review, January 1919*</item>
+              <item>b) &#34;ttenryk Sienkiewicz,&#34; Sewanee Review, July 1919*</item>
+              <item>c) *&#39;A Scene in &#39;The Fatal Dowry&#39;,&#34; MLN, May 1920.</item>
+              <item>d) &#34;World Drama and World Dramatists,&#34; 1922. (Phi Beta Kappa Lecture at St. Lawrence)</item>
+              <item>e) &#34;The Greatest of Elizabethan welodramas.&#34; Essays in Dramatic Literature; The Parrott Presentation Volume. Princeton University Press, 1935.</item>
+              <item>f) &#34;Racine&#39;s Berenice,&#34; Romanic Review, February, 1939.</item>
+            </list>
+          </note>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">11</container>
+          <unittitle>Scholarly Reprint. Hunter Kellenberger, &#34;Voltaire&#39;s Treatment of the Miracle of Christ&#39;s Temptation in the Wilderness,&#34; MLN, January 1936. Autographed</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">12</container>
+          <unittitle>Ms. &#34;Mr. Galsworthy&#39;and His Unworthy Gals. Original, unabridged version. (Shortened version published as &#34;Some of Mr. Galsworthy&#39;s Geroines,&#34; North American Review, February, 1922.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">13</container>
+          <unittitle>Notes for &#34;The Greatest of Elizabethan Melo dramas.&#34; (CT. Folder 3-10)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">14</container>
+          <unittitle>Ms. &#34;Beaumont&#39;s Hand in Four Plays in One.&#34;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">15</container>
+          <unittitle>Notes for Beaumont manuscript</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">16</container>
+          <unittitle>Ms. &#34;William Archer and Elizabethan and Modern Drama.&#34; Pencil Comments may be by Thomas Marc Parrott, who read this manuscript</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">17</container>
+          <unittitle>Ms. &#34;An Imitation by Corneille of Racine.&#34;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">18</container>
+          <unittitle>PMLA manuscript and correspondence on the sources of Andromaque. A set of articles intended for the Comment and Criticism department in 1937-1938 but never published</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">19</container>
+          <unittitle>Ms. The Death of Hector; a transcript of Homer, Iliad XXII~ typescript and holograph</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">20</container>
+          <unittitle>Essay. Again on Translating Homer</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">21</container>
+          <unittitle>Notecards on Aeschylus translations. (Manuscript of Aeschylus translations sent to Grinceton University Press. Cf. Holograph of letter to Princeton University Press, 12 March 1953, Folder 2-4)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">22</container>
+          <unittitle>Miscellaneous notes and fragments. Notes from readings and incomplete essays on dramatic theory, translations, the historical novel and other topics</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">23</container>
+          <unittitle>Miscellaneous unpublished manuscripts.</unittitle>
+          <note>
+            <list type="simple">
+              <item>a) Is the Poet Inspired?</item>
+              <item>b) The Methods of Literary Criticism.</item>
+              <item>c) A Summary of Wordsworth&#39;s Criticism of Poetry. (a,b,c, may be class lectures from Kenyon)</item>
+              <item>d) Poem. &#34;Bishop Chase Leaves Gambier&#34;</item>
+              <item>e) My Fling at Philosophy.</item>
+              <item>f) Concerning Park Roads and Attractions</item>
+            </list>
+          </note>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">24</container>
+          <unittitle>Ms. &#34;The Adventure of The Brothers Karamazov: A. Teile of Sherlock Holmes.&#34; An original short story in which Holmes solves the murder case in Dostoyevsky&#39;s novel</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">25</container>
+          <unittitle>Fragment of unfinished historical novel on Xenophon</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">26</container>
+          <unittitle>Clamence Housman: &#34;The Werewolf&#34;. Typescript marked p.105 to conclusion. This may be a Lacy Lockert revision as it uses Allan Thorne as the hero, the same figure used in Lockert&#39;s The True End of the Ring</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">27</container>
+          <unittitle>Miscellaneous writings of others. (Typescripts)</unittitle>
+          <note>
+            <list type="simple">
+              <item>a) Song from &#34;The Julius Caesar Murder Case&#34; by Will Irwin.</item>
+              <item>b) From Modern Dramatists by Ashley Dukesl (London, 191lTT</item>
+              <item>c) From The Fugitive Group by Louise Cowan (LSU Press, 1959)</item>
+            </list>
+          </note>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">28</container>
+          <unittitle>Clyde Pharr. Mimeographed copies of ms.</unittitle>
+          <note>
+            <list type="simple">
+              <item>a) A Project for the Translation into English of the Entire Body of Roman Law: Preliminary Statement. 1943.</item>
+              <item>b) The Final Agony of the Roman Empire in the West. (Presidential address at the Classical Association of the Middle West and South, April 6-8, 1944.)</item>
+            </list>
+          </note>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle>The True End of the Ring, Fragment of the holograph manuscript</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">2</container>
+          <unittitle>Tolkien. Volume III. Revision, Chapters 10-13. First Draft</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">3-7</container>
+          <unittitle>Tolkien. Book VI. Chapters 1-9. Also re-vised chronology. First Draft</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">8</container>
+          <unittitle>Tolkien. Book VI. Work Sheets</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">9-16</container>
+          <unittitle>True End of the Ring. Lockert&#39;s revision of the Ring Trilogy in its final manuscript form, introducing his hero, Allan Thorne. (Cf. Five-page copy of letter to Alida Sima Malkus, 17 November 1965 (Folder 2-7) for a description of Lacy Lockert&#39;s purpose and his ideas on rewriting the end of the Ring Trilogy.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>&#34;The Return of Allan Thorne&#34;. A separate short story involving another journey to Tolkien&#39;s fantasy world by the hero invented by Lockert</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2-9</container>
+          <unittitle>Nelle Ramsay Manuscripts. Folders 2-10. All of these unpublished writings of Ellen (Nelle) Ramsay, 1888-1915&#187; were sent by her brother, Frank Ramsay, to Lacy Lockert after her sudden death in California. Frank Ramsay made some attempt
+            at ordering and organizing the materials by content but no dating or editing of these materials was ever done. A brief comparison of the subject matter of these manuscripts with correspondence with members of the Ramsay family, Nelle, Frank and
+            webane, would suggest that all of these manuscripts were written between 1909-1915. Apparently Lacy Lockert evaluated them in hopes of publishing some of them posthumously, but decided to save them for personal reasons only.</unittitle>
+            <note>
+              <list type="simple">
+                <item>Proposed Novel: One Turn of the Wheel. Folder 2.</item>
+                <item>One-Act Play: In the Blood. First Draft. Folder 3.</item>
+                <item>Poem Sequence. Folder 4.</item>
+                <item>Miscellaneous unfinished poems. Auto biographical content. Folder 5.</item>
+                <item>Unfinished short stories. Nine fragments, most untitled. Folder 6.</item>
+                <item>Untitled short story. Part of conclusion seems missing. Subject: Edna Yarrow at Hyde Park Academy, an autobiographical parallel to one of Nelle&#39;s teaching experiences. Folder 7.</item>
+                <item>Untitled short story. Subject: Death of Tam. Some autobiographical reference to Lacy Lockerts illness in 1912 may be source of this material. Folder 8.</item>
+                <item>Essays. All autobiographical and some bear the character of attempts at poemes en prose. Folder 9.</item>
+              </list>
+            </note>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">10</container>
+          <unittitle>Outgoing Correspondence. All of this undated. Correspondents include Marjory Curry, Mary Gavin, and Jean . Some of these were written under great stress and possibly were never mailed. Mary Gavin&#39;s letters, however, were sent to Frank
+            after Nelle&#39;s death</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">6</container>
+          <unittitle>Manuscript Copy #1 of BY THE WILL OF APOLLO, by Charles Kelsey Gaines. Formerly titled In the Silence of the Gods, this manuscript has been edited and shortened by Lacy Lockert. Container also includes one file folder of pages excised from this copy.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <unittitle>Manuscript copy #2 of BY THE WILL OF APOLLO, by Charles Kelsey Gaines. This version is the full-length copy sent to Lacy Lockert. Perhaps C.K. Gaines himself had attempted to shorten the work as there Eire some pages in one folder which
+            seem to be excised pages from this version.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">1</container>
+          <unittitle>Selected Sermons of Canon Orville E. Watson: Work sheets on the introduction and table of contents of this edition of sermons published by Kenyon College after Canon Watson&#39;s death</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">2</container>
+          <unittitle>List of sermons for projected second volume of sermons by Canon 0. E. Watson. No evidence that &#8226;Gacy Lockert pursued very actively the publication of this second volume</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">8</container>
+          <unittitle>Manuscript of Other Sermons of Canon Watson. (Unpublished edition)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder"></container>
+          <unittitle>N.B. All folders in Container 9 are manuscript materials for chapters in the following books: The Best Plays of Racine(Princeton, 1936); The Chief Plays of Corneille (Princeton, 1952); Chief Rivals of Corneille and Racine (Vanderbilt,
+            1956]&#34;; and The Mid-Career Tragedies of Racine ( Princeton, 195877&#34;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes and corrections for The Best Plays of Racine, 1936. Miscellaneous notes, rough drafts and lists of manuscript corrections. Folder 1. (Cf. Folder 2-10 for page proofs.)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Drafts and revisions of Phi&#38;dre translation and introductory essay, typescript and holograph. Folder 2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes, revisions and corrections for The Chief Plays of Corneille, 1952. holograph and typescript of introduction; pages of manuscript corrections, miscellaneous notes. Folder 3.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Corneille: The Cid. Folder 4.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Corneille: Horace. Folder 5.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Corneille: Cinna. Folder 6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Corneille: Polyeucte. Folder 7.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Corneille: Njcomedes. Folder 8.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Title pages and dedication: The Chief Rivals of Corneille and Racine, 1956. Folder 9.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Jean de Gairet: Sophonisbe. Folder. 10.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes and introduction to Ia Gariamne by Tristan 1&#39;Hermite. Holograph and typescript. Folder 11.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes and revisions for ffgevole by Pierre Du liyer.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>olograph and typescript&#8482; Folder 12.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes and incomplete translation of Venceslas by Jean Rotrou. Holograph. Folder 13.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Incomplete holograph of translation of Laodice by &#39;J-&#39;homas Corneille. Folder
+            <emph render="italic">Ik.</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Thomas Corneille: The Count of Essex. Folder 15.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Jean-Galbert Campistron: Andronic. Folder 16.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Typescript of translation of Antoine de la Fosse: Manlius Capitolinus. Folder 17.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Antoine de la Fosse: Manlius Capitolinus. Folder 18.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation and notes for Rhadamiste et Zenoble. Folder 19.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Holograph of translation of Voltaire: ZaSre. Folder 20.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes for Racine&#39;s Mid-Career Tragedies, 1958. Ba.jazet and Mithridate, notes and revisions. Holograph and typescript. Folder 21.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes and revisions for translation of Racine: Mithridate. Holograph and typescript. Folder 22.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Notes for Racine: Iphigenie. Holograph and typescript. Folder 23&#8226;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Miscellaneous notes on Racine. Unidentified work sheets. Holograph and typescript. Folder 2*t.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <unittitle>Commentary on translations. Notes from Louise &#160; fierce oh Venceslae, Comte d&#39;Essex, and one unidentified text. Folder 25.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>N.B. All folders in Container 10 are manuscript materials for Studies in French Classical Tragedy, Vanderbilt, 1958.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>First draft and notes for Introduction to Studies in French Classical Tragedy, Holograph and typescript. Folder 1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>Drafts and revisions for introduction, typescript. Folder 2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;The Amazing Career of Pierre Corneille.&#34; Carbon of typescript manuscript. Folder 3&#171;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;The Amazing Career of Pierre Corneille.&#34; Notes and revisions. Folder</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>Tristan l&#39;Hermite: A French &#34;Duchess of Malfi&#34; ILa Mariane). Typescript. Folder 5&#171;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Du Ryer as a Writer of Tragedy.&#34; Typescript. Folder 6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Du Ryer as a Writer of Tragedy&#34;: notes and revisions, Golograph and typescript. Folder 7&#171;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>HCosroea: Rotrou&#39;s Best Play.&#34; Typescript. Folder 8.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;The Tragedies of Thomas Corneille.&#34; Type script. Folder 9.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Quinault&#39;s Astrate.&#34; Typescript. Folder 10.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Quinault&#39;s Astrate.&#34; Holograph fragment of rough draft. Folder 11.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Apprenticeship.&#34; Typescript. Folder 12.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Andromaque.&#34; Typescript. Folder 13.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Britannicus.&#34; Typescript. Folder</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Berenice.&#34; Typescript. Folder 15.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>Notes and revisions for&#34;Racine&#39;s Berenice.&#34; Typescript. Folder 16.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Bajazet.&#34; Typescript. Folder 17.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Mithridate.&#34; Typescript. Folder 18.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>Notes on Mithridate. Holograph. Folder 19.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Iphigenie.&#34; Typescript. Folder 20.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Phedre.&#34; Typescript. Folder 21.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Racine&#39;s Athalie.&#34; Typescript. Folder 22.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;After Racine: Campistron.&#34; Typescript. Folder 22.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;After Racine: Campistron.&#34; Incomplete draft and notes. Typescript and holograph. Folder 24.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Manlius Capitolinus.&#34; typescript. Folder 25.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Neo-Classical Tragedy in the Eighteenth Century.&#34; Typescript. Folder 26.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Neo-Classical Tragedy in the Eighteenth Century.&#34; Notes and revisions..Holograph and typescript fragment. Folder 27.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>&#34;Elizabethan and French-classical Drama.&#34; Typescript. Folder 28.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <unittitle>Notes for &#34;Elizabethan and French-classical Drama.&#34; Holograph and typescript. Folder 29*</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>N.B. All folders in Container 11 are manu script materials fof Moot Plays of Corneille, Vanderbilt, 1959.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Introduction to Moot Plays of Corneille. Typescript carbon. Folder 1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Notes and revisions for introduction to Moot Plays of Corneille. Holograph and typescript. Folder 2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Introduction to La Mort de Gompee. Typescript carbon. Folder 3.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>La Mort de Pompee. Typescript. Folder 4.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Notes for Pompee. Typescript. Folder 5.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Introduction to He radius, Gtypescript carbon. Folder 6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>He radius. Typescript. Folder 7&#171;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Notes for Geraclius. Typescript. Folder 8.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Introduction to Don Sanche d&#39;Aragon. Typescript carbon. Folder 9.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Don Sanche d&#39;Aragon. Typescript. Folder 10.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Notes for Don Sanche d&#39;Aragon. Typescript. Folder 11.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Introduction to Attila. Typescript carbon. Folder l8.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Attila. Typescript. Folder 19.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Notes for Attila. Typescript. Folder 20.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Introduction to Pulcherie. Typescript carbon. Folder 21.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Pulcherie. Typescript. Folder 22.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Notes for -Gulcherie. Typescript. Folder 23.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Introduction to Surenax pescript carbon. Folder 2b.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Surena. Typescript. Folder 25.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <unittitle>Notes and worksheets for Surena. Typescript. Folder 26.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>N.B. All folders in Container 12 are manuscript materials for More Plays by Rivals of Corneille and Racine. Vanderbilt, 1968.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Drafts of Preface, Contents and Dedication for More Rivals. Typescript. Folder 1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Alexandre Hardy: Mariamne. Xerox. Folder 2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Pierre Du Ryer: Esther. Xerox. Folder 3.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Revisions from Du Ryer: Esther. Typescript and holograph. Folder</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Tristan l&#39;Hermite: La Mort de Seneque. Xerox. Folder 5.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Tristan l&#39;Hermite: Osman. Xerox. Folder 6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Jean Rotrou: Saint Genest. Xerox. Folder 7*</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Thomas Corneille: Maximian. Xerox. Folder 8.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Thomas Corneille: Ariane. Xerox. Folder 9&#171;</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Claude Boyer: Oropastes. Typescript fragment. Folder 10.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Philippe Quinault: Astrate. Xerox, bolder 11.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Pechantre: Ggta. Xerox. Folder 12.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Jean-Galbert Campistron: Tiridate. Xerox. Folder 13.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Jean-Galbert Campistron: Tiridate. Fragments of French typescript and holograph draft. Folder 14.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">12</container>
+          <unittitle>La Grange-Chancel: Ino et Melicerte. Xerox. Folder 15.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>N.B. All folders in Container 13 are manuscript materials for a projected third book of translations by playwrights of the 17th and ltfth century ne6-classical theater.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Notes on projected book of translations. Type script. Folder 1.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Philippe Quin&#38;ult: Ia Mort de Cyrus. Fragment of translation, typescript. Holograph notes. Folder 2.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Jean-Galbert Campistron: Armlniua. Typescript. Also notes in holograph and typescript. Folder 3*</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Thomas Corneille: La Mort d&#39;Annibal. Typescript. Folder 4.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>La Grange-Chancel: Amaaia. Typescript. Folder 5*</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Voltaire:_Alzir&#171;. Typescript. Folder 6.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Voltaire: Alzire. Revisions; typescript. Folder 7.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Voltaire: Mahomet. Typescript. Folder 8.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Voltaire: Mahomet. First draft and notes. Typescript and holograph. Folder 9.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Voltaire: Le Fanatisae. Xerox copy from aa unidentified edition of Voltaire&#39;s plays. Possibly used as a comparative text for Mahomet translation. Folder 10.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Voltaire: erope. Typescript. Folder 11.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">13</container>
+          <unittitle>Voltaire: Merope. First draft and notes. Typescript and holograph. Folder 12.</unittitle>
+        </did>
+        <note>
+          <p>This is a name index of the correspondents of Charles Lacy Lockert, Jr. The figure in parentheses immediately following each name denotes the total number of letters from that person in the collection; the dates are for the time of the letters.
+            The full name of the writer is given whenever possible. The last number given refers to the box and folder in which the correspondence may be found.</p>
+        </note>
+      </c01>
+    </dsc>
+    <index>
+      <head>Index of Incoming Correspondents</head>
+      <indexentry>
+        <persname>____________________Eleanor,(1); 30 June 1919; 1-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Anderson, Harriet,(l); 11 December 1952; F. 1-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Allen, Louise,(2); 25 April 1956, 30 November 1956; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Applewhite, Ted,(l); k March I960; F. 1-9. (Enclosures Picture of Mt. Knauss, F. 1-16.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bailey, Herbert S., Jr.,(9); 13 February 1951*, 2 April 1951*, 9 April 1954&#187; 3 May 1954, 20 May 1954, 10 Septemberl954; F. 1-6. 7 December 1956; F. 1-7. 29 January 1957, 22 November 1957; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Baldwin, T.W., (l); 8 February 1959; F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bevan, W.L.,(l); lgf February 1922; F. l-f.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Boylan, Marion,(l);
+          <emph render="italic">2k</emph>
+          June 1922; F.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Branscomb, Harvie,(l); 23 August 1957; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, J. Trevor,(l); 23 November 1956; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bryant, William H.,(2); 15 August 1959, 26 August 1959, (3 enclosures); F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cohane, Tin (?),(l); 11 October 1951 (to Mrs. Gilbert Troxell); F. 1-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Davis, William Steams, (3); 11 December 1922, 31 December 1922; F. 1. 23 January 1925; F. 1-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Downer, Alan,(l); 16 January 1957; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Eager, Mrs. George B., (Bess),(8); May 1953; F.l-6. 2 October 1957;</persname>
+      </indexentry>
+      <indexentry>
+        <persname>F.l-8. 19 February 1959, 6 March 1959, 11 March 1959 . 25 March 1959$ 26 March 1959; F. 1-9. 29</persname>
+      </indexentry>
+      <indexentry>
+        <persname>December 1961; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Falk, Eugene H.,(3); 11 May 1956, 29 October 1956, 2 December 1956; F.l-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Finch, Mary A.,(l); 23 February 1922; F. 1-k.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gaines, Camaie Pendleton (Mrs. Charles Kelsey),(3); 2 June 1922, 25 June 1922; F.l-Jf. 23 April 1926; F. 1-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gaines, Charles Kelsey,(22); 22 May 1921, 22 December 1921; F. 1-3. 21</persname>
+      </indexentry>
+      <indexentry>
+        <persname>February 1922, 5 March 1922, (enclosure), 6 March 1922, 19 March 1922,(enclosure), 30 March 1922, 12 April 1922, 1 May 1922, 16 May 1922,(enclosure), 17 May 1922, 3 June 1922, l8 June 1922, 1 July 1922, 26 July 1922, August 1922,
+          <emph render="italic">2k</emph>
+          September 1922, 15 November 1922; F. l-Jf. 1 January 1923, 21 March 1923, 11 October 1925; F. 1-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gaines, Chloe S. (Mrs. Clarence Hurd),(l); 3 June 1922; F. 1-k.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Gaines, Clarence Hurd,(l9); 2 January 19Mf (telegraa), 29 October 1951, 11 July 1953;</persname>
+      </indexentry>
+      <indexentry>
+        <persname>F. 1-6. l*t October 1955, 26 November 1955, 26 December 1955 , 22 February 1956 , 27 March 195$J F. 1-7. 16</persname>
+      </indexentry>
+      <indexentry>
+        <persname>July 1957, 11 August 1957, 27 January 1958, 17 December 1958; F. 1-8. 18</persname>
+      </indexentry>
+      <indexentry>
+        <persname>February 1959, 13 March 1959, 6 June 1959, 9 June 1959; F. 1-9.
+          <emph render="italic">k</emph>
+          January 1961, l8 January 1961, 15 March 1961; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hall, Flem,(l); 5 January 1957 (to George Leonard); F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Halaey, Frank D.t(l); 26 November 1935i F. 1-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hawkes, Jans,(l) 22 February 1922; F. 1-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Henry, Louise,(l); 24 January 1922; F.l-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Houston, Benjamin F.,(3); 5 December 1955&#187; H May 1956, 19 November 1956; F.l-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kellenbfcrger, Hunter,(6); 1 January 1946, 10 February 1952, 20 April 1953, 26 September 1953, 20 April 1954; F. 1-6. 19 August 1970; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Littell, A.J.,(l); 5 August 1953; F.l*6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Long, Percy V. (Modern Language Association), (2); 16 April 1937&#187; 1 December 1937; F. 3-18.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McDavitt, Clareace G.,(3); 30 September 1952, 20 October 1953; F.l-6. 5 February 1955; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McGrew, John B., (l); 16 February 1922; F. 1-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>--------Emily, (E.G.M.),(l); 30 April (1956?); F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Mabry, Mallnda,(l); 25 March 1922; F. 1-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Meltom, Catherine Parker,(2); 30 September 1957, 25 November (1957); F.l-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Miller, Frank L.,III,(l); 1 February 1958 (enclosure); F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Miller, Frank L.,Jr.,(2); 19 February 1946, 29 March 1954; F. 1-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>More,Paul E.,(l); 20 March 1923; F. 1-5.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Nash, Robert C., (typist),(8); 29 November 1948, 10 Apr ii 1952, 27 October 1953, 20 December 1954; F. 1-6. 17</persname>
+      </indexentry>
+      <indexentry>
+        <persname>January 1955. 17 February 1955, 12 January 1956; F. 1-7. 21 September 1965; F. 1-10.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>North American Review,(l); 6 January 1920; F. 1-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Parrott, Thomas Marc, (4); 13 February 1944, 27 January 1946; F. 1-6. 11 January 1956; F. 1-7. 9 January 1959 (card); F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Perria, Bernadott&#174;,(l) 30 December 1903 to Charles Kelsey Gaiaes (enclosure ia letter from Gaines, 19 March 1922); F. 1-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Pierce, Louise, (l); 8 January 1946 (enclosure); F. 1-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ramsay, Franklin,(l); 21 June 1915 (telegram); F.l-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ramsay, Mebane,(l); 13 April 1959; F. 1-9.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ramsay, Nelle,(49); August 1908, 20 August 1908 (card), 23 December 1908 (Christmas card), May 1909 ( ommencement Invitation), August 1909t 6 January 1910, 16 March 1910, 26 April 1910 (card), 26 April 1910 (card), 27 April 1910, 6 June
+          1910 (card), 16 November 1910, 30 December 1910 (card), 31 December 1910 (card); F. 1-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>12 March 1911, (l?) April 1911 (card), 5 June 1911, 5 July 1911, 17 July 1911, 20 August 1911 (card), 6 September 1911* 23 December 1911 (card), 13 January 1912 (enclosures), 8 Apr ii 1912, 19 June 1912, 2 August 1912, 14 August 1912, 16
+          August 1912, 22 August 1912 (card), 7 September 1912, 13 September 1912, 19 September 1912, 30 September 1912, 14 October 1912, 22 December 1912, 27 December 1912; F. 1-2. 2</persname>
+      </indexentry>
+      <indexentry>
+        <persname>June 1913&#187; 19 June 1913, 4 November 1913&#171; (one page erased), 18 December 1913, 28 January 1914, 25 March 1914, 1 June 1914, 21 July 1914, 10 December 1914, 18 January 1915; F. 1-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Robinsoa, Nelsoa L.,(l); Copy, n.d. F. 1-5* Russell, Bob, (l); 2 January 1957 (to George Leonard); F. 1-8. Shafer, ,(l); 17 October 1922; F. 1-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sinnen, Jeanne,(l); 31 January 1957; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sloaae, William,(3); 15 November 1956, 10 December 1956; F. 1-7. 7 January 1957? F. 1-8. Troxell, Janet Camp,(2); 8 October 1951 (to Clarence McDavitt); F. 1-6. 31 March 1956; F. 1-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wade, Ira 0.,(l); 23 February 1954; F. 1-6.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Weyand, Colonel A.M.,(2) 29 December 1956; F. 1-7. 2 January 1957; F.l-8. Whaney, J.B.t (l); 2 February 1922; F. 1-i.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wilsoa, Robert H.,(2); 20 May 1957, 12 October 1957; F. 1-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Youag, James N.,Ct); l8 September 1952, 20 April 1953; F. 1-7. 16 June 1956, 19 November 1956; F. 1-7.</persname>
+      </indexentry>
+    </index>
+    <note>
+      <p>Correspondence is listed chronologically. Folder is indicated by the abbreviation F..1908: ___August to Nelle Ramsay; F. 2-1.</p>
+    </note>
+    <index>
+      <head>INDEX OF OUTGOING CORRESPONDENTS</head>
+      <indexentry>
+        <persname>1913: ___November to Nelle Ramsay; F. 2-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1915: 23 June to Frank Ramsay; 2k June to Me bane Ramsay; F. 2-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1921: 18 May to Charles Kelsey Gaines; 2 December to Charles K. Gaines; F. 2-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1922: 12 January to Charles K. Gaines; Reply to March 30 of Charles K. Gaines; 7 December to William Stearns Davis; Reply to 11 December of William S. Davis; F. 2-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1936: N.D. to Gilbert Murray (book inscription); N.D. to Gilbert Murray; F. 2-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1937s 28 April to Christian Gauss; N.D. to Christian Gauss; F. 2-1.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1938: _____January to Dr.(Percy) Long, (MLA); 9 March to Dr. Percy Long; F. 3-18.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1943: (Fall) to Thomas Marc Parrott; F. 2-8. 5 December to Charles K. Gaines; F. 2-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1944: Reply to telegram of 2 January of Clarence Hurd Gaines; N.D. to Clarence H. Gaines; N.D. to Clarence H. Gaines; N.D. to Clarence H. Gaines; N.D. to Canon Watson; F. 2-2. (15 February) to Thomas Marc Parrott; N.D. to Thomas M. Parrott;
+          N.D. to Thomas M. Parrott (fragment); ( December) to Thomas M. Parrott; 29 November to John Heard of Poet Lore (fragment on reverse of preceding letter to Parrott); F. 2-8. c.1944-</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1945: N.D. to Clarence H. Gaines; N.D. fragment probably to Clarence H. Gaines; N.D. to Eleanor ; F. 2-2. N.D. to Thomas M. Parrott; N.D. to Thomas M. Parrott (fragment); F. 2~8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1945: N.D. to Grosset and Dunlap; Unidentified fragment on reverse of Grosset and Dunlap (subject: Corneille); 7 December to Mrs. (Louise) Pierce; F. 2-2. N.D. to Thomas M. Parrott; N.D. to Thomas M. Parrott; N.D. to Canon Watsoa (fragment
+          on reverse of preceding letter to Parrott; F. 2-8. c.1945-</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1946: N.D. to Mrs. (Louise) Pierce; F. 2-2.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1946: N.D. to Hebane Ramsay; F. 2-2. Reply to 27 January to Thomas M. Parrott; (Fall) to Thomas M. Parrott; (Fall) to Thomas M. Parrottj December to Thomas M. Parrott; F. 2-8.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1947: January to Me bane Ramsay; F. 2-3. January to Ghoaas M. Parrott; TJanuary-February) to Thomas M. Parrott; (January-February) to Thomas M. Parrott; F. 2-8. 15 March to Gilbert Murray; F. 2-3. (March-April) to Thomas M. Parrott;
+          (Spring) to Thomas H. Parrott; (Spring) to Frank Miller III (on reverse of (&#176;pring) letter to Parrott); August to Thomas M. Parrott; F. 2-8. November to Canon Watson; N.D. to Mrs. (Louise) Pierce (two letters on same paper); N.D. to Canon
+          Watson; F. 2-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1948: (Winter) to Thomas M. Parrott; F. 2-8. N.D. to Canon Watson; F. 2-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1959: N.D. to Thomas M. Parrott; F. 2-8. 1950: (June) to Thomas M. Parrott; F. 2-8. c.1950</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1951: Unidentified correspondent; topic: Chief Plays of Corneille Ms. F. 2-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1951: 10 February to Dr. Harold C. Bfadley; May to Mr. (Clarence) McDavitt; 23 July to A.G. Graham; July to Tim (Subject: Shakespeare); N.D. to Dr. (Christian) Gauss; N.D. to Dr. (Christian) Gauss; N.D. to (Clarence) McDavitt; F. 2-3. N.D.
+          to Thomas M; Parrott; F. 2-8. N.D. to Datus C. Smith (fragment); N.D. to Dr. (J. Duncan) Spaeth; N.D. to (James) Young; F. 2-3. c.1951-</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1952: N.D. to (Clarence) McDavitt; F. 2-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1952: N.D. to Mr. ______ Burkhart; Unidentified correspondent; topic: Theory of the Novel; F. 2-3.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1953: 12 March to Princeton University Press; 21 September to President Gordon K. Chalmers; 31 October to Herbert S. Bailey; 12 November to Herbert S. Bailey; N.D. to Princeton University Press, (plus typed fragment of same); F.
+          <emph render="italic">2-k.</emph>
+        </persname>
+      </indexentry>
+      <indexentry>
+        <persname>1954: 8 February to Herbert S. Bailey; 13 February to Ira 0. Wade; 15 February to Herbert S. Bailey; Reply to 2.Ap*iiLiof Herbert S. Bailey; 3 December to Herbert S. Bailey; F. 2-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1955: 29 September to Bob Nash; F. 2-4.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1956: Zb January to Herbert S. Bailey; Enclosure for 3 February to Mr. (Clarence) McDavitt; l&#39;f March to Jim (James N. Young); Harch ta-Hfara. Gilbert Troxell (Janet Camp Troxell); March to Mrs. GilbertTroxell; (October-November) to
+          H.S. Bailey; (October-November) to Mrs. Houston; Two letters N.D. attached to the Bailey and Houston notepaper above: l) Mra . Cottrell, 2) Thomas M. Parrott; 7 November to Dr. H.C. Nixon (Vanderbilt Press, two copies); 25 Govember to (William)
+          Sloane; 8 December to Dean Taylor (Holograph original on back of 3 February McDavitt above); 12 December to (William) Sloane; 17 December to Herbert S. Bailey, typescript and holograph; December to (William) Sloane on reverses&#60;5f December Bailey
+          holograph; _ December to Editor of the Romanic Review on reverse of 17 December Bailey holograph; N.D. to (T.W.) Baldwin (Holograph of 23 November Sloane on same notepaper); N.D. to Frank L. Miller, Jr.; N.D. to The Dante Society of America; F. 2-5*</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1957: 5 January to Herbert S. Bailey; N.D. to Editor of the Romanic Review (on same notepaper as 5 January Bailey letter); N.D. to (William) Sloane (on reverse of 5 January Bailey letter&#60;&#62;; N.D. to Mr. (Eugene H.) Falk; N.D. to Miss
+          (Jeanne) Sinnen; 25 January to Herbert S. Bailey (Holograph and typescript); 29 January to H.C. Nixon; 4 February to (William) Sloane (holograph and typescript); February-March to (Eugene H.) Falk; February- March to Herbert S. Bailey (on same
+          notepaper as preceding Falk letter); Reply to 20 May of Robert H. Wilson; May to Thomas M. Parrott (on reverse of preceding Wilson letter); Reply to 12 October of Robert H. Wilson; N.D. to Jane ; F. 2-6. April to Thomas M. Parrott; F. 2-8. c.1957-</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1958: N.D. to Leonard J. Wang; F. 2-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1958: 21 November to Rob Roy Purdy; N.D. to Mebane Ramsay; F. 2-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1959: 21 August to William H. Bryant; 31 August to Santa Barbara Cemetery Association. (Attn. W.A. Bryant); 25 November to Director of the Vanderbilt University Press; F. 2-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>I960: Reply to k March of Ted Applewhite; F. 2-7.</persname>
+      </indexentry>
+      <indexentry>
+        <persname>1965: 17 November to Alida (Alida Sima Malkus); F. 2-7. Unidentified fragment. Topic: Corneille&#39;s The Cid. F. 2-7. N.D. to Miss (M.F.) Stawell. Topic: Translation of Faust. F. 2-7.</persname>
+      </indexentry>
+    </index>
+    <note>
+      <p>Printed materials removed from the Charles Lacy Lockert, Jr. papers include the following: 1).1) Thermofax copy of:</p>
+      <table frame="none">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+          <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+          <tbody>
+            <row>
+              <entry colname="1">1) Thermofax copy of:</entry>
+              <entry colname="2">Vondel, Joost van den (1587-1679) Vondel's Lucifer, translated by onard Charles Van Nappen. N.Y.: Continental Publishing Co., 1898.</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">This vas a thermofax copy of pp. 263-438. ere were no markings on the text to indicate any relationship of this work to the writiags or translations of La.c.y Lockert.</entry>
+            </row>
+            <row>
+              <entry colname="1">2) Newspaper clippings:</entry>
+              <entry colname="2">&#160;</entry>
+            </row>
+            <row>
+              <entry colname="1">Nashville Banner</entry>
+              <entry colname="2">7 December 1936, PP. 3-6</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">9 December 1936, PP. 15-16</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">10 January 1937, PP. 7-10</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">30 September 1958, p;..lJ</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1 October 1958, P. 8</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">2 October 1958, P. 10</entry>
+            </row>
+            <row>
+              <entry colname="1">Nashville Tenaessean</entry>
+              <entry colname="2">10 January 1937</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">September 1947, PP. l-2, 11-12</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">9 September 1948, p.19</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">10 September 1948, p.23</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">13 September 1948, P.7</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">12 November 1948, P. 21</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">4 March 1949, PP. 25-26</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">4 March 1949, p. 2</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">17 July 1952, P. 15</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">5 August 1952, P. 9</entry>
+            </row>
+            <row>
+              <entry colname="1">Des Moines Register</entry>
+              <entry colname="2">4 November 1948, PP. 1-2</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">12 December 1948, PP. 1-2, 15-16.</entry>
+            </row>
+            <row>
+              <entry colname="1">New York Sun</entry>
+              <entry colname="2">28 October 1948, pp.29-301 47-48</entry>
+            </row>
+            <row>
+              <entry colname="1">Gainee Family</entry>
+              <entry colname="2">&#160;</entry>
+            </row>
+            <row>
+              <entry colname="1">Absalom Graves Gainee</entry>
+              <entry colname="2">President of St. Lawrence University, Cantoa, N.Y., 1872-1888. After that period returned to faculty as Professor of Psychology, a post he held until the early 1900's.</entry>
+            </row>
+            <row>
+              <entry colname="1">Charles Kelsey Gaines</entry>
+              <entry colname="2">1854-1944</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1875-1876 Tutor at St. Lawrence</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1876 Graduated from St. Lawrence;4ppointed acting professor of Greek</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1877 Appointed Professor of Greek</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1878 Married Cammie Pendleton Woods, five daJs after her graduatioa from St. Lawrence.</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1882 Appointed Professor of English</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1884-1893 Librari8.Jl at St. Lawrence</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1886 rote college song.</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">1892 Honorary doctorate froa Lombard..1896-1900</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">Left St. Lawrence fcrone year of travel, Greece, Egypt. Then vas Vice-resident of Bacheller Syndicate (Publishiag endeavor of I1Ving Bacheller, another St. Lawrence alumnus) and also on staff of Nev York World.</entry>
+            </row>
+            <row>
+              <entry colname="1">&#160;</entry>
+              <entry colname="2">In 1900 returned to St. Lawrence. The dates of his M.A. from St. Lawrence and an honorary L.L.D. froa St. Lawrence are not clear. Total career at St. Lawrence spaaned the yeare of 1876-1931, with the four years out from 1896-1900
+                noted above. Retired as Professor of Greek and English.</entry>
+            </row>
+            <row>
+              <entry colname="1">Clarence Hurd Gaines</entry>
+              <entry colname="2">Only son of Charles Kelsey Gaines. Married to Chloe s. Gaines, had one soa, Richard Hurd Gaines. Undergraduate degree from St. Lawrence, graduate study at Harvard. No dates on any of this available. Editor of Harper's Book Shelf
+                (dates?) Wrote all revieve for North American Review from 1912-? Chai+li8.D. of the English Department, St. Lawrence University, c. 1922.</entry>
+            </row>
+            <row>
+              <entry colname="1">All of this biographical information comes froa 118. sources ia JUL, i.e. the correspondence of Charles Kelsey Gaines (22 letters), Cammie P. Gaiaes (2 letters), Clarence Hurd Gainee (19 letters) and Chloe s. Gaines (1 letter).
+                There is also a biographical sketch and tribute is the introduction .. to An Angel' a 1 a novel edited and seen through publicatioa by Lacy Lockert after the death of Charles K. Gainee. Undoubtedly St . . Lavrence university could furnish much
+                information about this family if it is ever necessary in connection with the manuscripts of Charles Kelsey Gaines in the Lockert collectionl)</entry>
+              <entry colname="2">&#160;</entry>
+            </row>
+            <row>
+              <entry colname="1">1) Gorgo: Romance E.f Old Athene. Illustrated by George Variaa. Boston: Lothrop, Lee &#160; Shepard Co., 1903. (Later publication continued b.J Groeset &#38; Dunlap, Nev York after the bankruptcy of the original publishers.)</entry>
+              <entry colname="2">&#160;</entry>
+            </row>
+            <row>
+              <entry colname="1">2) Authorized Revision of Cushing's Manual., l916.</entry>
+              <entry colname="2">&#160;</entry>
+            </row>
+            <row>
+              <entry colname="1">3) Sixty Years of St. Lawrence, Canton, N.Y., .19l6.</entry>
+              <entry colname="2">&#160;</entry>
+            </row>
+            <row>
+              <entry colname="1">4) An Angel's Diary Canton, N.Y.: St. Lawrence University, 1962. Printed tor St. Lawrence by the Parthenon Press, Nashville, Tennessee from the 1921 manuscript by Lacy Lockert.)</entry>
+              <entry colname="2">&#160;</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </note>
+  </archdesc>
 </ead>
