@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">McTyeire, Holland Nimmons Sermons</titleproper>
+        <titleproper>Finding Aid for the Holland Nimmons McTyeire Sermons</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Holland Nimmons McTyeire Sermons</unittitle>
+      <unitid>MSS.0282</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
+      </physdesc>
+      <unitdate>1844-1850</unitdate>
+    </did>
+    <scopecontent>
+      <p>This collection of 163 of Bishop McTyeire&#8217;s early sermons came to the library about 1957 from John J. Tigert IV. They had been sent to his father, John J. Tigert III by J. D. Hamilton in 1894 after they were discovered, along with some
+        papers of Bishop Soule, &#8220;in the stable at Bp. McTyeire&#8217;s by Nellie the cook&#8221; (see letter in folder 36).</p>
+      <p>Most of the sermons were preached to the Methodist congregations to which McTyeire was minister; a few were preached to other groups such as Negroes and sailors; one was preached on board a riverboat. Many are annotated by McTyeire,
+        retrospectively and informally; he includes his own criticism (based on hindsight), comments by others, remarks on the circumstances under which the sermon was preached, and other incidental comments of an autobiographical nature* There are also some
+        handwritten annotations, as to date, location, etc., by John j. Tigert III and John J. Tigert IV.</p>
+      <p>Following is a key to where the sermons were preached:</p>
+      <note>
+        <p>1 - 29. Williamsburg, Va., and elsewhere in Virginia, 1844-1846.</p>
+        <p>30 - 61. Mobile, Ala., 1846-1847.</p>
+        <p>62 - 96. Demopolis, Ala., and vicinity, 1847.</p>
+        <p>97 - 107. Flynn and McTyeire Course of Lectures, Demopolis, Ala., 1847.</p>
+        <p>108 - 115. Columbus, Miss., and vicinity, 1848.</p>
+        <p>116 - 163. New Orleans, La., 1849-1850.</p>
+      </note>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">1</container>
+          <unittitle>&#8220;Coming of the Kingdom,&#8221;</unittitle>
+          <unitdate>March 1844</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">2</container>
+          <unittitle>&#8220;Confessing before Men,&#8221;</unittitle>
+          <unitdate>April 13, 1844</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">3</container>
+          <unittitle>&#8220;Besetting Sins,&#8221;</unittitle>
+          <unitdate>May 4, 1844</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">4</container>
+          <unittitle>&#8220;Be Not Deceived,&#8221;</unittitle>
+          <unitdate>May 6, 1844</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">5</container>
+          <unittitle>&#8220;Quench Not the Spirit,&#8221;</unittitle>
+          <unitdate>Sept. 14, 1844</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">6</container>
+          <unittitle>&#8220;Watch and Pray,&#8221;</unittitle>
+          <unitdate>Jan. 26, 1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">7</container>
+          <unittitle>&#8220;Restore unto me the joy of the salvation 6c uphold me with thy &#38;c,&#8221;</unittitle>
+          <unitdate>1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">8</container>
+          <unittitle>&#8220;John the Baptist,&#8221;</unittitle>
+          <unitdate>March 28, 1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">9</container>
+          <unittitle>&#8220;The Fruits of Sin,&#8221;</unittitle>
+          <unitdate>Dec. 6, 1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">10</container>
+          <unittitle>&#8220;God&#8217;s Witnesses,&#8221;</unittitle>
+          <unitdate>Dec. 9, 1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">11</container>
+          <unittitle>&#8220;Free Indeed,&#8221;</unittitle>
+          <unitdate>1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">12</container>
+          <unittitle>&#8220;The Fruits of Holiness,&#8221;</unittitle>
+          <unitdate>Dec. 21, 1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">13</container>
+          <unittitle>&#8220;Mercy vs. Judgement,&#8221;</unittitle>
+          <unitdate>1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">14</container>
+          <unittitle>&#8220;The Choice of Moses,&#8221;</unittitle>
+          <unitdate>1845</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">15</container>
+          <unittitle>&#8220;Redeeming Time,&#8221;</unittitle>
+          <unitdate>Jan. 4, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">16</container>
+          <unittitle>&#8220;My First Text,&#8221;</unittitle>
+          <unitdate>Jan. 12, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">17</container>
+          <unittitle>&#8220;Your Bodies, Temples,&#8221;</unittitle>
+          <unitdate>Jan. 22, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">18</container>
+          <unittitle>&#8220;A Change of Heart,&#8221;</unittitle>
+          <unitdate>Feb. 1, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">19</container>
+          <unittitle>&#8220;Reaping What Is Sowed,&#8221;</unittitle>
+          <unitdate>Feb. 8, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">20</container>
+          <unittitle>&#8220;Walking Surely,&#8221;</unittitle>
+          <unitdate>Feb. 15, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">21</container>
+          <unittitle>&#8220;Providence,&#8221;</unittitle>
+          <unitdate>Feb. 22, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">22</container>
+          <unittitle>&#8220;The Single Eye,&#8221;</unittitle>
+          <unitdate>March 19, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">23</container>
+          <unittitle>&#8220;The Devils and Angels,&#8221;</unittitle>
+          <unitdate>March 22, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">24</container>
+          <unittitle>&#8220;Slow to Anger,&#8221;</unittitle>
+          <unitdate>March 30, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">25</container>
+          <unittitle>&#8220;The New Creature,&#8221;</unittitle>
+          <unitdate>March 30, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">26</container>
+          <unittitle>&#8220;Drinking into One Spirit,&#8221;</unittitle>
+          <unitdate>Apr. 5, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">27</container>
+          <unittitle>&#8220;The Love of Our Neighbors,&#8221;</unittitle>
+          <unitdate>Apr. 28, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">28</container>
+          <unittitle>&#8220;Sermon on Taking Charge of the Congregation,&#8221;</unittitle>
+          <unitdate>Nov. 30, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">29</container>
+          <unittitle>&#8220;God&#8217;s Goodness Leads to Repentance,&#8221;</unittitle>
+          <unitdate>July 25, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">30</container>
+          <unittitle>&#8220;The Man of God Who Went from Bethel,&#8221;</unittitle>
+          <unitdate>1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">31</container>
+          <unittitle>&#8220;Love of God (objectively),&#8221;</unittitle>
+          <unitdate>June 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">32</container>
+          <unittitle>&#8220;A Goodly Heritage,&#8221;</unittitle>
+          <unitdate>1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">33</container>
+          <unittitle>&#8220;Wrath Revealed,&#8221;</unittitle>
+          <unitdate>July 1, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">34</container>
+          <unittitle>&#8220;Spiritual Adultery,&#8221;</unittitle>
+          <unitdate>July 9, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">35</container>
+          <unittitle>&#8220;The First Adam vs. Second Adam&#8221;</unittitle>
+          <unitdate>July 21, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">36</container>
+          <unittitle>&#8220;About Jonah,&#8221;</unittitle>
+          <unitdate>July 24, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">37</container>
+          <unittitle>&#8220;A Door Keeper&#8217;s Place,&#8221;</unittitle>
+          <unitdate>July 26, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">38</container>
+          <unittitle>&#8220;The Offense and the Free Gift,&#8221;</unittitle>
+          <unitdate>August 1, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">39</container>
+          <unittitle>&#8220;Walking by Faith,&#8221;</unittitle>
+          <unitdate>August 8, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">40</container>
+          <unittitle>&#8220;Follow Me as I Follow Christ,&#8221;</unittitle>
+          <unitdate>August 20, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">41</container>
+          <unittitle>&#8220;The Wedding Garment,&#8221;</unittitle>
+          <unitdate>Sept. 8, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">42</container>
+          <unittitle>&#8220;All Men Are Liars (The Unjust Accusation),&#8221;</unittitle>
+          <unitdate>Sept. 12, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">43</container>
+          <unittitle>&#8220;The Short Bed,&#8221;</unittitle>
+          <unitdate>Sept. 27, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">44</container>
+          <unittitle>&#8220;Full of Grace and Truth,&#8221;</unittitle>
+          <unitdate>Oct. 16, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">45</container>
+          <unittitle>&#8220;Not Every One,&#8221;</unittitle>
+          <unitdate>Oct. 26, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">46</container>
+          <unittitle>&#8220;Our Father Which Art in Heaven,&#8221;</unittitle>
+          <unitdate>Oct. 29, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">47</container>
+          <unittitle>&#8220;And Forgive Us Our Debts, as We Forgive Our Debtors,&#8221;</unittitle>
+          <unitdate>Nov. 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">48</container>
+          <unittitle>&#8220;Thanksgiving Day,&#8221;</unittitle>
+          <unitdate>Nov. 5, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">49</container>
+          <unittitle>&#8220;The Proud Heart, an Abomination,&#8221;</unittitle>
+          <unitdate>Nov. 7, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">50</container>
+          <unittitle>&#8220;Pray for the Peace of Jerusalem,&#8221;</unittitle>
+          <unitdate>Nov. 8, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">51</container>
+          <unittitle>&#8220;A little that a righteous man hath is better than the riches of many wicked,&#8221;</unittitle>
+          <unitdate>Nov. 15, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">52</container>
+          <unittitle>&#8220;God Performing His Work in Us,&#8221;</unittitle>
+          <unitdate>Nov. 15, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">53</container>
+          <unittitle>&#8220;Remember the Sabbath Day to Keep It Holy,&#8220;</unittitle>
+          <unitdate>Nov. 20, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">54</container>
+          <unittitle>&#8220;Sailor Sermon,&#8221;</unittitle>
+          <unitdate>Nov. 30, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">55</container>
+          <unittitle>&#8220;At Ease in Zion,&#8221;</unittitle>
+          <unitdate>Dec. 6, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">56</container>
+          <unittitle>&#8220;Remember the Sabbath day to keep it holy,&#8221;</unittitle>
+          <unitdate>Dec. 6, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">57</container>
+          <unittitle>&#8220;Inheritance of Saints,&#8221;</unittitle>
+          <unitdate>Dec. 10, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">58</container>
+          <unittitle>&#8220;Love,&#8221;</unittitle>
+          <unitdate>Dec. 18, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">59</container>
+          <unittitle>&#8220;The Sower and Seed,&#8221;</unittitle>
+          <unitdate>Dec. 27, 1846</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">60</container>
+          <unittitle>&#8220;The Indian&#8217;s Sermon,&#8221;</unittitle>
+          <unitdate>Jan. 17, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">61</container>
+          <unittitle>Speech at a Temperance Meeting</unittitle>
+          <unitdate>1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">62</container>
+          <unittitle>Subjects for sermons during this summer&#8217;s campaign</unittitle>
+          <unitdate>1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">63</container>
+          <unittitle>&#8220;Life More Abundantly,&#8221;</unittitle>
+          <unitdate>March 20, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">64</container>
+          <unittitle>&#8220;The Perishing Meat,&#8221;</unittitle>
+          <unitdate>March 21, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">65</container>
+          <unittitle>&#8220;Deny Thyself,&#8221;</unittitle>
+          <unitdate>March 26, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">66</container>
+          <unittitle>&#8220;Take up Thy Cross and Follow Me,&#8221;</unittitle>
+          <unitdate>March 27, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">67</container>
+          <unittitle>&#8220;Secret Faults,&#8221;</unittitle>
+          <unitdate>April 1, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">68</container>
+          <unittitle>&#8220;The Backslider in Heart,&#8221;</unittitle>
+          <unitdate>April 4, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">69</container>
+          <unittitle>&#8220;Stop That Thought!!!,&#8221;</unittitle>
+          <unitdate>April 9, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">70</container>
+          <unittitle>&#8220;In the Woods,&#8221;</unittitle>
+          <unitdate>April 15, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">71</container>
+          <unittitle>&#8220;Signs Following the Word,&#8221;</unittitle>
+          <unitdate>April 30, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">72</container>
+          <unittitle>&#8220;Leaven of Pharisees,&#8221;</unittitle>
+          <unitdate>May 2, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">73</container>
+          <unittitle>&#8220;Pulling Down - Destroying,&#8221;</unittitle>
+          <unitdate>May 8, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">74</container>
+          <unittitle>&#8220;Building Up,&#8221;</unittitle>
+          <unitdate>May 12, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">75</container>
+          <unittitle>&#8220;The Citizen of Zion,&#8221;</unittitle>
+          <unitdate>May 22, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">76</container>
+          <unittitle>&#8220;Godly Sorrow,&#8221;</unittitle>
+          <unitdate>June 1, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">77</container>
+          <unittitle>&#8220;God&#8217;s Peace Gift,&#8221;</unittitle>
+          <unitdate>June 6, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">78</container>
+          <unittitle>&#8220;Secret Faults,&#8221;</unittitle>
+          <unitdate>June 25, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">79</container>
+          <unittitle>&#8220;Forgetting God,&#8221;</unittitle>
+          <unitdate>July 18, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">80</container>
+          <unittitle>&#8220;Wretchedness of the Sinner,&#8221;</unittitle>
+          <unitdate>July 30, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">81</container>
+          <unittitle>&#8220;Grace,&#8221;</unittitle>
+          <unitdate>August 1, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">82</container>
+          <unittitle>&#8220;Parable of the Talents,&#8221;</unittitle>
+          <unitdate>August 22, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">83</container>
+          <unittitle>&#8220;God in Christ, Reconciling,&#8221;</unittitle>
+          <unitdate>Sept. 4, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">84</container>
+          <unittitle>&#8220;Infant Salvation,&#8221;</unittitle>
+          <unitdate>Sept. 12, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">85</container>
+          <unittitle>&#8220;The Affair of Aeham,&#8221;</unittitle>
+          <unitdate>Sept. 25, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">86</container>
+          <unittitle>&#8220;Solicitude for Souls,&#8221;</unittitle>
+          <unitdate>Sept. 27, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">87</container>
+          <unittitle>&#8220;The Negative Part of a Blessed Character,&#8221;</unittitle>
+          <unitdate>Oct. 3, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">88</container>
+          <unittitle>Funeral occasion: Mrs. Perkins</unittitle>
+          <unitdate>Oct. 3, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">89</container>
+          <unittitle>&#8220;Almost Persuaded,&#8221;</unittitle>
+          <unitdate>Oct. 16, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">90</container>
+          <unittitle>&#8220;The Evergreen Christian,&#8221;</unittitle>
+          <unitdate>Oct. 31, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">91</container>
+          <unittitle>&#8220;Worship God,&#8221;</unittitle>
+          <unitdate>Nov. 27, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">92</container>
+          <unittitle>&#8220;The Security of a Good Man,&#8221;</unittitle>
+          <unitdate>Nov. 27, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">93</container>
+          <unittitle>&#8220;The Praise of Men and Praise of God,&#8221;</unittitle>
+          <unitdate>Dec. 5, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">94</container>
+          <unittitle>&#8220;The Heirs of Salvation,&#8221;</unittitle>
+          <unitdate>Dec. 19, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">95</container>
+          <unittitle>&#8220;Temptation of Christ,&#8221;</unittitle>
+          <unitdate>1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">96</container>
+          <unittitle>&#8220;How can ye escape the damnation of hell?&#8221;, Fall</unittitle>
+          <unitdate>1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">97</container>
+          <unittitle>Lecture 1, &#8220;The Existence of God,&#8221;</unittitle>
+          <unitdate>April 22, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">98</container>
+          <unittitle>Lecture 3, &#8220;Spirituality of the Divine Nature,&#8221;</unittitle>
+          <unitdate>May 6, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">99</container>
+          <unittitle>Lecture 4, &#8220;Goodness of God,&#8221;</unittitle>
+          <unitdate>June 4, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">100</container>
+          <unittitle>Lecture 5, &#8220;Ye Do Err, Not Knowing the Power of God,&#8221;</unittitle>
+          <unitdate>May 20, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">101</container>
+          <unittitle>Lecture 6, &#8220;Sub love Semper Eris,&#8221;</unittitle>
+          <unitdate>May 27, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">102</container>
+          <unittitle>Lecture 7, &#8220;Holiness of God,&#8221; n.d</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">103</container>
+          <unittitle>Lecture 8, &#8220;Of Revealed Religion,&#8221;</unittitle>
+          <unitdate>August 19, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">104</container>
+          <unittitle>Lecture 9, &#8220;Authenticity of the Holy Scriptures,&#8221;</unittitle>
+          <unitdate>Sept. 8, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">105</container>
+          <unittitle>Lecture 10, &#8220;Miracles,&#8221;</unittitle>
+          <unitdate>Sept. 23, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">106</container>
+          <unittitle>Lecture 11, &#8220;Prophecy,&#8221;</unittitle>
+          <unitdate>Sept. 29, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">107</container>
+          <unittitle>Lecture 12, &#8220;Rule of Faith,&#8221;</unittitle>
+          <unitdate>Dec. 3, 1847</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">108</container>
+          <unittitle>&#8220;Notes on Mohammedism,&#8221;</unittitle>
+          <unitdate>May 9, 1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">109</container>
+          <unittitle>&#8220;Out of Seeming Evil - Still Educing Good,&#8221;</unittitle>
+          <unitdate>Feb. 29, 1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">110</container>
+          <unittitle>&#8220;The Temptation,&#8221;</unittitle>
+          <unitdate>May 1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">111</container>
+          <unittitle>&#8220;Second Sermon on the Temptation,&#8221;</unittitle>
+          <unitdate>June 1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">112</container>
+          <unittitle>&#8220;Love,&#8221;</unittitle>
+          <unitdate>July 22, 1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">113</container>
+          <unittitle>&#8220;The Daily Death to Sin,&#8221;</unittitle>
+          <unitdate>Oct. 7, 1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">114</container>
+          <unittitle>&#8220;Avenging Ourselves,&#8221;</unittitle>
+          <unitdate>1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">115</container>
+          <unittitle>&#8220;Agur&#8217;s Prayer,&#8221;</unittitle>
+          <unitdate>Oct. 1848</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">116</container>
+          <unittitle>&#8220;Destroying the Works of the Devil,&#8221; n.d</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">117</container>
+          <unittitle>&#8220;Thoughts about Prayer Meeting,&#8221;</unittitle>
+          <unitdate>March 22, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">118</container>
+          <unittitle>&#8220;Returning,&#8221;</unittitle>
+          <unitdate>April 8, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">119</container>
+          <unittitle>&#8220;A Lively Concern for the Salvation of Souls . . .,&#8221;</unittitle>
+          <unitdate>June 15, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">120</container>
+          <unittitle>&#8220;Enmity of the Carnal Mind,&#8221;</unittitle>
+          <unitdate>July 1, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">121</container>
+          <unittitle>&#8220;Death Will Benight You,&#8221;</unittitle>
+          <unitdate>July 3, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">122</container>
+          <unittitle>&#8220;Jesus made a sin-offering for us, who knew no sin,&#8221;</unittitle>
+          <unitdate>July 15, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">123</container>
+          <unittitle>&#8220;Keeping the Passover,&#8221;</unittitle>
+          <unitdate>July 31, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">124</container>
+          <unittitle>&#8220;National Fast Day,&#8221;</unittitle>
+          <unitdate>August 3, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">125</container>
+          <unittitle>&#8220;The True Grounds of Condemnation&#8212;Neglect of Salvation,&#8221;</unittitle>
+          <unitdate>August 5, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">126</container>
+          <unittitle>&#8220;Spiritual Temperance and Intemperance,&#8221;</unittitle>
+          <unitdate>August 12, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">127</container>
+          <unittitle>&#8220;The Claims of the Flesh,&#8221;</unittitle>
+          <unitdate>August 14, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">128</container>
+          <unittitle>&#8220;The Captive Maid,&#8221;</unittitle>
+          <unitdate>August 17, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">129</container>
+          <unittitle>&#8220;Entering into Covenant,&#8221; New Orleans</unittitle>
+          <unitdate>August 19, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">130</container>
+          <unittitle>&#8220;Holy Living among the Unholy,&#8221;</unittitle>
+          <unitdate>August 26, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">131</container>
+          <unittitle>&#8220;The Work of God,&#8221;</unittitle>
+          <unitdate>Sept. 2, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">132</container>
+          <unittitle>&#8220;To Overcome the World,&#8221;</unittitle>
+          <unitdate>Sept. 10, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">133</container>
+          <unittitle>&#8220;The Better Offering,&#8221;</unittitle>
+          <unitdate>Sept. 17, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">134</container>
+          <unittitle>&#8220;Jabez&#8217;s Prayer,&#8221;</unittitle>
+          <unitdate>Sept. 21, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">135</container>
+          <unittitle>&#8220;The Mustard Seed,&#8221;</unittitle>
+          <unitdate>Oct. 1, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">136</container>
+          <unittitle>&#8220;Living to Die,&#8221;</unittitle>
+          <unitdate>Oct. 11, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">137</container>
+          <unittitle>&#8220;Unprofitable Servants, After All,&#8221;</unittitle>
+          <unitdate>Oct. 26, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">138</container>
+          <unittitle>&#8220;The Nine Reasons,&#8221;</unittitle>
+          <unitdate>Nov. 4, 1849</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">139</container>
+          <unittitle>&#8220;A Converted Nobleman,&#8221;</unittitle>
+          <unitdate>Jan. 12, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">140</container>
+          <unittitle>&#8220;The Poor Spirit,&#8221;</unittitle>
+          <unitdate>March 17, 1950</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">141</container>
+          <unittitle>&#8220;Chastenings,&#8221;</unittitle>
+          <unitdate>March 31, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">142</container>
+          <unittitle>&#8220;Partakers of the Divine Nature,&#8221;</unittitle>
+          <unitdate>April 20, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">143</container>
+          <unittitle>&#8220;Christian Resignation,&#8221;</unittitle>
+          <unitdate>April 28, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">144</container>
+          <unittitle>&#8220;The Proclamation,&#8221;</unittitle>
+          <unitdate>May 10, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">145</container>
+          <unittitle>&#8220;Sheba and the Wise Woman,&#8221;</unittitle>
+          <unitdate>June 2, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">146</container>
+          <unittitle>&#8220;Are you sure you are willing? Bo you consent to be holy? Can you?&#8221;</unittitle>
+          <unitdate>June 9, 1950</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">147</container>
+          <unittitle>&#8220;The Tabernacle Put Off and the House Put On,&#8221;</unittitle>
+          <unitdate>June 23, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">148</container>
+          <unittitle>&#8220;Like Little Children,&#8221;</unittitle>
+          <unitdate>June 30, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">149</container>
+          <unittitle>&#8220;Covenanting by Sacrifice,&#8221;</unittitle>
+          <unitdate>July 7, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">150</container>
+          <unittitle>&#8220;Parable of the Talents,&#8221;</unittitle>
+          <unitdate>July 15, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">151</container>
+          <unittitle>&#8220;Walking in the Truth,&#8221;</unittitle>
+          <unitdate>July 21, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">152</container>
+          <unittitle>&#8220;Three Sermons,&#8221;</unittitle>
+          <unitdate>August 4, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">153</container>
+          <unittitle>&#8220;A Jealous God,&#8221;</unittitle>
+          <unitdate>August 17, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">154</container>
+          <unittitle>&#8220;If Our Heart Condemn Us,&#8221;</unittitle>
+          <unitdate>Sept. 1, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">155</container>
+          <unittitle>&#8220;The Redeemer&#8217;s Distinct Care and Watchfulness over the Church &#8212; the Letter to Ephesus,&#8221;</unittitle>
+          <unitdate>Sept. 28, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">156</container>
+          <unittitle>&#8220;The Middle State: or State of the Dead,&#8221;</unittitle>
+          <unitdate>Sept. 28, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">157</container>
+          <unittitle>&#8220;Christ, a High Priest,&#8221;</unittitle>
+          <unitdate>Oct. 3, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">158</container>
+          <unittitle>&#8220;Grace Received in Vain,&#8221;</unittitle>
+          <unitdate>Oct. 12, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">159</container>
+          <unittitle>&#8220;The Temptation in the Wilderness,&#8221;</unittitle>
+          <unitdate>Oct. 20, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">160</container>
+          <unittitle>&#8220;Things Seen vs. Things Not Seen,&#8221;</unittitle>
+          <unitdate>Oct. 25, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">161</container>
+          <unittitle>&#8220;The Tower, Unfinished,&#8221;</unittitle>
+          <unitdate>Nov. 17, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">162</container>
+          <unittitle>&#8220;Quickening,&#8221;</unittitle>
+          <unitdate>Nov. 24, 1850</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <container type="item">163</container>
+          <unittitle>&#8220;The Kingdom of God,&#8221;</unittitle>
+          <unitdate>Dec. 8, 1850</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

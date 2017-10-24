@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">McTyeire, Holland Nimmons and William and Janie Baskervill Papers &#8211; faculty</titleproper>
+        <titleproper>Finding Aid for the Mctyeire-Baskervill Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Mctyeire-Baskervill Papers</unittitle>
+      <unitid>MSS.0283</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.68 linear_feet</extent>
+      </physdesc>
+      <unitdate>undated</unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Correspondence: 333 items, including 113 holograph letters, 45 typed originals, 70 carbon or typed copies, 1 manuscript copy, 1 holograph note, 1 post card, and 2 telegrams. The correspondence is largely comprised of the incoming letters
+            of Holland Nimmons McTyeire, Jamie McTyeire Baskervill, and William Malone Baskervill. 73 items sire addressed to H.N.M., 82 to J.M.B., emd 72 to W.M.B. Also included is a folder of correspondence to and from Devereux Lake, concerning the
+            &#8217;&#8217;Golden Link&#8221; (their wives) between Bishop McTyeire and Commodore Vanderbilt.</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Manuscripts and personal papers of Holland Nimmons McTyeire, Janie McTyeire Baskervill and William Malone Baskervill.</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Papers of Holland Nimmons McTyeire:</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>4 newsletters addressed to and apparently published in the
+                <emph render="underline">Southern Christian Advocate</emph>, dated 6 March 1862, 12 February 1863, 26 March 1&#214;63, and 11 June 1863. The first, headed &#8217;&#8217;Reliable News from Nashville,&#8221; is signed &#8221;H. N. McTyeire.&#34; The
+                other three, headed &#34;Letter from the Country,&#8221; are signed &#34;M.P.,&#8221; and may be by someone else. (1-4)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>5 items relating to publication of H.N. McTyeire&#39;s book
+                <emph render="underline">History of Methodism</emph>
+                by Southern Methodist Publishing House. TB)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>2 lists of licenses and certificates in H.N.M&#39;s hand, and Mobile, Alabama, licence to perform weddings, dated 3 February 1848. (6)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>3 holograph wills (each with typewritten copy) of H.N.M., dated 28 June 188I, 25 August 1884, and 29 July 1885. (6-7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Vanderbilt University papers: manuscript identure between V.U. and Ward Seminary, dated 30 June 1888 (6 pages); List of Exchanges drawn upon W.H. Vanderbilt, New York, by Bishop H.N. McTyeire, n.d. (2 pages, manuscript); typed copy of V.U.
+                (i.e. Central University) Board of Trust resolution accepting gift of C. Vanderbilt, 26 March 1873J 2 typed copies, signed by secretary, of Board of Trust reorganization report, 20 June 1888; White River Annual Conference of Methodist Episcopal
+                Church South, December 1888, approval of action of V.U. Board (1 page, manuscript); V.U. Board resolution in appreciation of H.N. McTyeire, after his death, 15 February 1889 (2 pages, manuscript); 5 resolutions, written in pencil on slips of paper,
+                mostly dating from after MjtTyeire&#39;s death (n.d.). (8-9) McTyeire family history: 3 pages from McTyeire family Bible, recording births, marriages, and deaths, 17951871 (copied 1886); 4 manuscript pages recording Nimmons and McTyeire family
+                births, marriages, and deaths, 17901876; 5-page carbon copy of &#34;Notes on My Visit to Barnwell &#171; . .&#34; by John J. Tigert IV, 23 May 1935; 2-page carbon copy of &#34;Inscriptions on the graves in the family cemetery of the McTyeires at
+                Uchee . . .&#34; (n.d.); 1 ms. page Everitt-Vanderbilt family history; 1 typescript page Crawford family history; 1 ms. page Townsend family history; 1 ms. page Nimmons family history. (11-12)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>&#34;Holland Nimmons McTyeire,&#34; 8-page typescript address delivered by Rev. John J. Lafferty, 24 February 1889, with notes in pencil and ink by E.B.W. (Elizabeth Basker- vill Wall). (13)
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Manuscripts of Janie McTyeire Baskervill:</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>Family and V.U.-related manuscripts: notes for life of Holland N. McTyeire (10 assorted ms. pages); &#34;Mrs. Frank A. Vanderbilt&#34; (24K ms. pages); &#34;Amelia McTyeire Tigert. In Memoriam&#34; (9 ms. pages); &#34;Our Sister, Mary
+                Gayle McTyeire Hamilton&#34; (9 assorted ms. pages); frag, on life of William Malone Baskervill (1 ms. page); notes on life of John McTyeire (father of H.N. McTyeire) (2 ms. pages); frag, draft of letter on McTyeire-Vanderbilt connection and founding
+                of University (2 ms. pages); 3 lines of verse ofi books (quote); &#34;Inspiration of Difficulty&#34; (2 ms. pages); &#34;Kate Marian McTyeire&#34; (7 ms. pages); &#34;Founding and early history of Vanderbilt Women&#39;s Club&#34; (draft of letter, 5
+                ms. pages). (14-20)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Literary manuscripts&#8212;papers read by J.M.B. before Vanderbilt Women&#39;s Club: &#34;The Women of Shakespeare&#34; (41 ms. pages), &#34;Hamlet&#34; (42 ms. pages), &#34;Scottish Poetry&#34; (48 ms. pages). (21-33)&#39;</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Manuscripts and papers of William Mellone Baskervill:</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>&#34;Southern Literature&#34; (address)(52 ms. pages); &#34;Maurice Thompson&#34; (address)(49 ms. pages);&#34;<emph render="underline">Select Poems of Sidney Latileh</emph>&#34; (book review)(7 ms. pages); &#34;American Literature&#34; (bibliography)and notes)(11 pages, ms., in notebook); &#34;The Victorian Age&#34; (39 ms. pages in notebook); &#34;The Romantic Poets&#34; (9 ms. pages); &#34;James Russell Lowell&#34; (2 ms. pages); fragment on Georgian English literature (15 ms. pages). (34-48)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Diplomas and certificates from Randolph Macon College (5 items), universities of Leipzig and Heidelberg (7 items); other German items (4 items); Wofford College resolutions (2 items); article on W.M.B. (2-page typed carbon). (49-52)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Manuscripts by unknown authors: &#34;Charles Samuel Griffith&#34; (11 pages) and notes on Frank A. Vanderbilt (1 page). (53)</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle>Photographs: Richard Malcolm Johnston, Samuel Mintum Peck (3), Thomas Nelson Page, 1 unidentified (Amelia McTyeire? Martha Crawford?); postcard of Sidney Lanier&#8217;s birthplace; 5 small snapshots of Collingsworth Institution. (1)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Holland N. McTyeire&#39;s memorandum book for 1866. (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Clippings and other printed items:</unittitle>
+            <note>
+              <p>Articles by Holland N. McTyeire: &#34;Burying a Father,&#34; &#34;My Old Servant, &#39;Uncle Cy.&#39;&#34; (3)</p>
+              <p>Articles about Holland N. McTyeire: &#34;Bishop H.N. McTyeire. The Funeral Services,&#34; &#34;Undertones of Bishop McTyeire,&#34; &#34;MyTyeire Memorial Service,&#34; &#34;The Vanderbilt Celebration,&#34; &#34;Memorial Address&#8212;The Founders
+                and Organizers of Vanderbilt University,&#34; &#34;Bishop Holland N. McTyeire.&#34; (4) (see also folder 10)</p>
+              <p>Articles mentioning Holland N. McTyeire. (5-7)</p>
+              <p>
+                <emph render="underline">Southern Christian Advocate</emph>, Aug. 21, Sept. 4, Oct. 2, Oct 16, 18&#211;2. (8-9)</p>
+              <p>Articles by Janie McTyeire Baskervill: &#34;Bishop Holland N. McTyeire,&#34; &#34;Wailter Montgomery McTyeire,&#34; &#34;Margaret J. Preston,&#34; &#34;Edward Emerson Barnard,&#34; &#34;The Twelve World Pictures,&#34; parts 1 and 2. (10)</p>
+              <p>Articles by William Malone Baskervill: &#34;The Anglo-Saxon Version of the &#39;Epistola Alexandri ad Aristoielem&#34; (dissertation, Leipzig), &#34;Atticus Greene Haygood,&#34; &#34;Jaimes Russell Lowell,&#34; &#34;Welcome Address.&#34; (11-12)</p>
+              <p>Articles about William Malone Baskervill: &#34;William Malone Baskervill&#34; (obituary), &#34;William Malone Baskervill and His Pupils,&#34; &#34;The Personal Side of Dr. Baskervill,&#34; &#34;Doctor William Malone Baskervill,&#34; &#34;Many
+                Writers Acknowledge Literary Debt to Baskervill.&#34; (13) (see also folder for obituary by Charles Forster Smith)</p>
+              <p>W.M. Baskervill&#39;s &#34;Southern Writer&#34; series &#8212; notices and reviews. (14)</p>
+              <p>McTyeire family &#8212; obituaries: Amelia Townsend McTyeire, Kate Marianye McTyeire, Amelia McTyeire Tigert, Mary McTyeire Hamilton, Walter M. McTyeire. (15)</p>
+              <p>Townsend and Baskervill families &#8212; obituaries and articles: Jane Townsend, Dr. John T. Baskervill, Charles Read Baskervill. (16)</p>
+              <p>Vanderbilt family: &#34;In Memoria&#187; &#8212; Cornelius Vanderbilt,&#34; etc. (17)</p>
+              <p>Edward Emerson Barnard &#8212; articles not by J.M. Baskervill. (19)</p>
+              <p>Southern writers &#8212; articles not by W.M. Baskervill: articles on James Lane Allen, George W. Cable, Joel Chandler Harris, Thomas Nelson Page, Irwin Russell, Sidney Lanier, Maurice Thompson. (20-23)</p>
+              <p>Candler-Kelley controversy (1887). (24-25)</p>
+              <p>Vanderbilt University. (26-30)</p>
+              <p>Nashville. (31-32)</p>
+              <p>World War I &#8212; maps, etc. (33)</p>
+              <p>Miscellaneous. (34)</p>
+            </note>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">4</container>
+          <unittitle>A series of lists made in October 1943 by Elizabeth Baskervill Wall, daughter of William Malone and Janie McTyeire Baskervill.</unittitle>
+        </did>
+        <note>
+          <p>The lists are of manuscripts, letters and clippings saved by her mother, and include all the items in the present McTyeire- Baskervill. The lists accompanied the material which she sent to Vanderbilt University in 1943&#187; but some items are
+            listed which she did not send, sind other items have apparently been separated from the collection or misplaced since the collection has been in the Joint University Libraries.</p>
+          <p>The lists are usefill, since the material is arranged by subject and the compiler comments on the significance of vsirious items, and quotes extensively from others as an aid to identification.</p>
+          <p>The lists are as follows:</p>
+          <blockquote>
+            <p>Papers relating to Bishop McTyeire, Commodore Vanderbilt etc. (l6 pages, typed)</p>
+            <p>Papers relating to William Malone Baskervill (15 pages, typed)</p>
+            <p>Telegrams to Bishop Holland N. McTyeire (3 pages, typed)</p>
+            <p>Clippings and letters pertaining to early history of Vanderbilt University and Barnardiana (5 pages, typed).</p>
+          </blockquote>
+          <p>Envelopes removed from correspondence in box 1. Envelopes which are in themselves informative, i.e., with name of writer if not given on letter or with manuscript notes concerning letter, have been kept with the letters.</p>
+          <p>Elizabeth Baskervill&#8217;Wall&#39;s pencilled labels for envelopes in which she sent material. Since material has been rearranged, her categories are no longer pertinent, but her labels may be of interest.</p>
+        </note>
+      </c01>
+    </dsc>
+    <index>
+      <head>(Correspondence is arranged alphabetically by writer. Number of letters by each writer is given, in parentheses, after name of writer and before date of letter and name of addressee. Addressees H.N.M., J.M.B., and W.M.B. are, respectively,
+        Holland Nimmons McTyeire, Janie McTyeire Baskervill, and William Malone Baskervill. All correspondence is in box 1.)</head>
+      <indexentry>
+        <persname>Alexander, Gross (?) (l) &#8212; 9 Sept 1911 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Allen, James Lane (l) fefe n.d. (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Atkins, K.C., and E.W. Moore (l) &#8212; 3 Nov 1807 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Baird, Donna (l) &#8212; 19 Mar 1939 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Baldwin, M.J. (l) &#8212; 26 Sept 1896 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Barnard, Edward Emerson (4) &#8212; 18 Sept 1899, 3 Nov 1899, 28 Aug 1922, 12 Sept 1922 (all to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Barnard, F.A.P. (1) &#8212; 29 June 1876 (to C. Vanderbilt)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Barnard, Horace (l) &#8212; 15 May 1882 (to C. Vanderbilt)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bar|on, W.P. (2) &#8212; 8 Sept 1899 (to J.M.B.), 15 Sept 1899 (to G.B. Baskervill)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Baskervill, Janie McTyeire (17) &#8212; June 1900 (to Mr. White), 31 Mar 1933 (to Devereux Lake), 28 Mar 1935 (to Mr. Vanderbilt), 22 Nov 1938 (to Devereux Lake), 9 Jan 1939 (to Devereux Lake), 1 Mar 1939 (to Hill Turner), 14 Apr 1939 (to
+          Devereux Lake), 22 Apr 1939 (to Devereux Lake), 21 June 1939 (to Devereux Lake), 1 Aug 1939 (to Devereux Lake), 1 Sept 1939 (to Devereux Lake), 21 Nov 1939 (to Devereux Lake), 29 June 1940 (to Devereux Lake), 29 Dec 1940 (to Devereux Lake), 7 June
+          1941 (to Devereux Lake), n.d. (to Devereux Lake), n.d. (to my dear sister).</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Baskervill, William Malone (1) &#8212; 27 Nov 189O (to John Tigert)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bell, T.P., and I.J. Van Ness (l) &#8212; 17 Feb 1897 (to Sirs)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Black, M.M. (2) &#8212; 5 Sept 1899, 15 Sept 1899 (both to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bishop, Aileen (l) &#8212; 29 Nov 1950 (to Dr. Kuhlmann)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Blake, William K. (2) &#8212; 13 June 1878, 15 June 1881 (both to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bolling, W.T. (1) &#8212; 21 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Boyle, Virginia Frazer (2) &#8212; 17 Jan 1899, 15 June 1896 (both to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Bradshaw, Margaret (2) &#8212; 4 Sept 1897&#187; 12 Dec 1899 (both to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Brahham, William C. (l) &#8212; 29 Sept 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Agatha (l) &#8212; n.d. (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, O.E. (l) &#8212; 1 Nov 1930 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cable, G.W. (3) &#8212; 28 Dec 1887 (to Mr. Gilder), 2 Mar 1889 (to W.M.B.), 23 Oct 1896 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Callaway, Morgan Jr. (2) &#8212; 22 May 1895 (to W.M.B.), 17 Sept 1899 (to J.M.B.) Calvert, Mary R. (1) &#8212; l8 Feb. 1928 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Calvert, P.R. (2) &#8212; 16 Feb 1923 (to Mrs. A.M. Tigert), l6 Feb 1923 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Candler, W.A. (3) &#8212; 28 May 1917 (to J.D. Hamilton), 6 June 1917 (to J.D. Hamilton), 12 May 1932 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Carlisle, James H., David Duncan, Whitefoord Smith, W.W. Duncan, P.A. Du Pre, Charles F. Smith, and J.A. Gamewell (l) &#8212; 11 June 1878 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Carmichael (3) &#8212; 10 Aug 1939&#187; 10 July 1939, 22 Apr 1940 (all to Devereux Lake)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Chappell, James E. (2) &#8212; 12 May 1939&#187; 21 Apr 1939 (both to Devereux lake) Cheatham, H.C. (1) &#8212; 31 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Clary, J.D. (l) &#8212; 19 Nov 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Cole, Whitefoord R. Jr. (l) &#8212; 2 Dec (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Crawford, Martha (3) &#8212; n.d. (to J.M.B.), 30 Aug l8&#8212; (to H.N.M.), 2 July -- (to Mary)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Dandridge, Mrs. D. (1) &#8212; n.d. (to Sir)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Deems, Charles F. (2) &#8212; 1 Aug 1876 (to H.N.M.), 30 June 1876 (to F.A.P. Barnard) (O</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Dempsey, Elam F. (2) &#8212; 27 Aug 1941, 2 Sept 1941 (both to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Denny, Collins (2) &#8212; 1 May 1917 (to J.D. Hamilton), 30 July 1935 (to J.M.B.) Drake, E.S. (1) &#8212; 23 Oct 1896 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Duncan, W.W. (1) &#8212; 23 Nov 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Du Pre, D.A. (1) &#8212; 8 Sept 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Edwards, John E. (l) &#8212; 6 Dec 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Emerson, William C. (2) &#8212; 10 Feb 1897, 9 June 1897 (both to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Farish, Hunter. D. (9) &#8212; 11 Mar 1934, 6 Jan 1938, l4 Jan 1938 , 20 Jan 1938, 2 Feb 1938, 24 Feb 1938, 8 Mar 1938, l8 July 1938, 19 Aug 1938 (all to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Field, Nora Nimmons (2) &#8212; 1 Feb 1936, 11 Feb 1936 (both to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Fraley, C. Louise (l) &#8212; 29 Oct (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Frantz, W.A. (1) &#8212; 14 Sept 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Galloway, Charles B. (1) -- 1 Aug 1896 (to W.M.B.)(?)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Garland, J. Powell (l) &#8212; 22 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ginn, Edwin (3) &#8212; 20 Aug 1887, 17 Dec 1887, 24 Dec 1887 (all to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hamilton, J.D. (2) &#8212; 26 Apr 1917 (College of Bishops), 5 June 1917 (to Bishop Candler)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Harris, J.H. (l) &#8212; 31 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Harrison, James A. (2) &#8212; l8 Feb 1897 (to W.M.B.), 10 Sept 1899 (to J.M.B.) Haygood, A.G. (l) &#8212; 25 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hedges, S.B. (l) &#8212; 12 May 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Henneman, John B. (3) &#8212; 28 Feb 1896, 11 Feb 1897, 23 Dec 1897 (all to W.M.B.) Hodges, Louise T. (1) -- 27 Feb 1896 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hohlfeld, A.R. (1) &#8212; 2 Aug 1900 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hollahan, R. (l) &#8212; 19 Nov 1888 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hoss, E.E. (1) &#8212; 7 Apr 1905 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Hulme, William H. (l) &#8212; 10 Dec 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Humphreys, M.W. (l) &#8212; 23 May 1887 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Jackson, N. Baxter (l) &#8212; 15 May 1939 (to Devereux Lake)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Joynes, Edward S. (2) &#8212; 1 Sept 1901, 3 Jan 1904 (both to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kelley, D.C. (3) &#8212; 26 Feb 1883, 17 Feb 1886, 20 Feb 1886 (all to H.N.M.) (Kinosuki, Adachi(?)) (1) &#8212; 28 Sept 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Kirkland, J.H. (1) &#8212; 14 Sept 1898 (to J.J. Tigert)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lake, Devereux (4l) &#8212; 6 Jan 1939 (to J.M.B.), 16 Jan 1939 (to J.M.B.), l8 Jan 1939 (to J.M.B.), 2 Feb 1959 (to J.M.B.), 14 Mar 1939 (to Hill Turner), 7 Apr 1939 (to Hill Turner), 17 Apr 1939 (to Hill Turner), 19 Apr 1939 (to J.M.B.),
+          19 Apr 1939 (to James E. Chappell), 19 Apr 1939 (to Woodall Rogers, 27 Apr 1939 (to J.M.B.), 28 Apr 1939 (to James E. Chappell), 29 Apr 1939 (to Hill Turner), 1 May 1939 (to J.J. Tigert), 9 May 1939 (to Hill Turner), 10 May 1939 (55 to J.P.W. Brown,
+          James E. Chappell, Baxter Jackson, Woodall Rogers, J.J. Tigert), 11 May 1939 (to James B. Stahlman), 11 May 1939 (to Eldon Stevenson), 15 May 1939 (to J.E. Chappell), 17 May 1939 (to J.M.B.), 17 June 1939 (to O.C. Carmichael), 19 June 1939 (to
+          J.M.B.), 19 June 1939 (to W.H. Witt), 26 June 1939 &#237;to W.H. Witt), 29 June 1959 (to J.M.B.), 1 Aug 1939 (to O.C. Carmichael), 11 Aug 1939 (to Hill Turner), l6 Aug 1939 (to J.J. Tigert), 22 Aug 1939 (to J.M.B.), 23 Aug 1939 (to J.J. Tigert), 16
+          Nov 1939 (to J.M.B.), l6 Nov 1939 (to J.J. Tigert), 23 Apr 1940 (to J.J. Tigert), l4 June 1940 (to J.M.B.), 24 June 194l (to J.M.B.), 30 Dec 1942 (to J.T. McGill), 26 July 1944 (to Edwin Mims).</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lanier, Clifford (l) &#8212; n.d. (to )</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lanier, Mary D. (4) &#8212; 8 Oct 1896 (to W.M.B.), 12 Oct 1896 (to W.M.B.), 19 Oct 1896 (to.W.B.), 2 Nov 1901 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lewis, J.W. (1) &#8212; 25 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Macarthur, James (1) &#8212; 4 Nov 1898 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Mahue, R.H. (1) &#8212; 23 Nov 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Manly, Louise (l) &#8212; l8 Feb 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Mann, J.E. (l) &#8212; 1 Nov 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Marshall, C.K. (l) &#8212; 25 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McCabe, W. Gordon (l) &#8212; 5 Feb 1888 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McGill, J.T. (l) &#8212; 23 Dec 1942 (to Devereux Lake)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>McTyeire, Holland N. (l8) &#8212; 14 July 1859 (to Amelia Townsend McTyeire), 28 Apr 1866 (to Mr. Townsend), 21 May 1873 (to C. Vanderbilt), 22 May 1873 (to C. Vanderbilt), 31 July 1873 (to C. Vanderbilt), 24 Nov 1873 (to C. Vanderbilt), 9
+          Jan 1874 (to C. Vanderbilt), 31 Mar 1874 (to C. Vanderbilt), 6 Apr 1878 (to Mary A.E. Green), 15 Aug 1879 (memo), 9 May 188I (to W.M.B.), 21 May 188I (to W.M.B.), 28 May 188I (to W.M.B.) (2), 8 June 1881 (to W.M.B.), 23 Mar 1883 (to Brother Pike), 5
+          Mar 1888 (to C. Vanderbilt), l6 Apr 1888 (to E.M. Rossiter)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Meek, B.F. (1) &#8212; 19 Apr 1886 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Mims, Edwin (1) &#8212; 10 Sept 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Moody, J.A. (1) &#8212; 29 Oct 1887 (to )</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Newell, J.F. (2) &#8212; 29 May 1896, 10 Feb 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Newton, J.C. Calhoun (l) &#8212; 8 Sept 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>O&#39;Howell, D.C. (2) &#8212; 25 Oct 1887, 28 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Page, Thomas N. (l) &#8212; 22 Dec 1887 (to R.W. Gilder)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Parker, Lucy P. (1) &#8212; 5 Nov 1926 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Parker, Mary E. (2) -- 9 Oct 1885, 17 Feb 1886 (both to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Paterson, C.A. (l) &#8212; 21 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Redd, John W. (2) &#8212; 21 Dec 1901, 22 Jan 1902 (both to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Ross, Charles H. (l) &#8212; 17 Apr 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Rossiter, E.M. (1) &#8212; 13 Apr. 1888 (to H.N.f&#237;.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Russell, H.E. (l) &#8212; 6 Oct 1896 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Scales, Henry M. (1) &#8212; 17 Sept 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Scott, F.N. (1) &#8212; 10 July 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Seals, T.A. (1) &#8212; 24 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sharp, Robert (l) &#8212; 20 Mar 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Shepard, Elliott F. (2) &#8212; 14 June l878 (to H.N.M.), 10 Sept 1888 (to Mrs. Crawford)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Charles Forster (5) &#8212; 24 Nov 1896 (to W.M.B.), 11 Feb 1897 (to W.M.B.), 1 Jan 1898 (to W.M.B.), 7 Sept 1899 (to J.M.B.), 3 Jan 1902 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Eugene A. (l) &#8212; 11 Jan 1874 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stahl man, James G. (1) &#8212; 13 May 1939 (to Devereux Lake)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Steel, S.A. (2) &#8212; 2 Sept 1911, 13 Jan 1931 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stevenson, Eldon (l) &#8212;15 May 1939 (to Devereux Lake)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stewart, John H. (l) &#8212; 24 Jan 1874 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Stewart, Kate Louise Zimmerman (l) &#8212; n.d. (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sullivan, W.T.J. (l) &#8212; 21 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Sweat, Harriet T. (1) &#8212; 25 Feb 1886 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Taliaferro, Mary Scott Venable (1) &#8212; 18 Feb 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Teague, Oscar, A.H. Wilson, G.J. Nunn, James A. Chiles, and O.C. Kelley (l) &#8212; 10 Oct 1899 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Thompson, Maurice (4) &#8212; 19 Mar 1887 (to W.M.B.), 21 Dec 1887 (to Mr. Gilder) n.d. (to W.M.B.), 8 Sept 1899 (to J.J. Tigert)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tigert, Amelia McTyeire (2) &#8212; 6 July 1916 (to W.F. Tillett), 6 July 1916 (to J.H. Kirkland)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tigert, John J. (13) -- 31 Dec 1934 (to J.M.B.), 24 May 1935 (to J.M.B.), 26 Apr 1939 (to Devereux Lake), 11 May 1939 (to Devereux Lake), 22 June 1939 (to Devereux Lake), 19 Aug 1939 (to Devereux Lake), 9 Nov 1939 (to Devereux Lake), 5 Dec
+          1939 (to J.M.B.), 26 Apr 1940 (to Devereux Lake), 9 Jan 1940 (to J.M.B.), l8 Aug 1941 (to J.M.B.), 22 Nov 1950 (to Harvie Branscomb), n.d. (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Tillett, W.F. (7) &#8212; 26 June 1916 (to Amelia M. Tigert), 28 June 1916 (to J.D. Hamilton),25 July 1916 (to J.D/ Hamilton), 14 Feb 1923 (to Amelia . M. Tigert), 17 Feb 1923 (to J.M.B.), 23 May 1927 (to J.M.B.), 12 Nov. 19&#8212; (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Turnbull, William (l) &#8212; 11 Feb 1876 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Turner, Hill (7) &#8212; 21 Feb 1939 (to J.M.B.), 27 Feb 1939 (to J.M.B.) 6 Mar 1939 (to J.M.B.), 6 Mar 1939 (to Devereux Lake), 24 Apr 1939 (to J.M.B.) 24 Apr 1939 (to Devereux Lake), 6 May 1939 (to Devereux Lake)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vail, Henry H. (2) &#8212; l6 June 1897, 26 June 1897 (both to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Van Cleve, Mary (l) &#8212; 10 Oct 1926 (to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vanderbilt, Cornelius (8) &#8212; 17 Mar 1873 (to H.N.M.), 24 Mar 1874 (to D.C. Kelly), 31 Mar 1873 (to H.N.M.), 26 May 1873 (to H.N.M.), 9 June 1874 (to H.N.M.), 15 June 1874 (to H.M.M.), 13 July 1874 (to H.N.M.), 2 Dec 1875 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vanderbilt, Cornelius II (6) &#8212; 7 Aug 1877 (to H.N.M.), 4 Feb 1879 (to H. N.M.), 24 Feb 1879 (to H.N.M.), 16 May 1882 (to H.N.M.), 2 Mar 1888 (to H.N.M.), 27 Mar 1889 (to E.H. East)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vanderbilt, Frank A. (13) &#8212; 12 letters, n.d., to H.N.M.; 1 letter, n.d., to Amelia Townsend McTyeire</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vanderbilt, William H. (14 &#8212; 11 Oct 1875, 24 Feb 1877 , 7 Mar 1878, 19 Sept 1878, 13 Nov 1878, 21 Nov 1878, 23 Mar 1879, 15 July 1879, 2 Feb 188O, 22 Apr 1880, 10 Jan 188I, 20 Jan 188I, 26 Oct 188I, 26 Nov 1883 (all to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Vincent, John H. (2) &#8212; 5 Oct , 5 June 1900 (both to J.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wall, Elizabeth Baskervill (1) &#8212; 4 Oct 1943 (to Edwin Mims)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Webb, John M. (if) &#8212; 17 May 1886, 14 Feb 1897, l6 Feb 1897, 5 May 1897 (all to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Weber, W.L. (l) &#8212; 23 Oct 1897 (to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>West, Olin Jr. (l) &#8212; 26 Mar 1963 (to Alexander Heard)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, Amicus W. (l) &#8212; 25 Oct 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, A.H.D. (l) &#8212; l8 Nov IS87 (to H.N.M.) .</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, A.tf. (1) &#8212; 18 Nov 1887 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Winchell, A. (1) &#8212; 21 July 1876 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Witt, W.H. (l) &#8212; 23 June 1939 (to Devereux Lake)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Worcester, E.D. (1) &#8212; 7&#187;Dec 1883 (to H.N.M.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Illegible signature (3) &#8212; 27 Apr 1886, 6 Jan 1888, 1 May 1897 (all to W.M.B.)</persname>
+      </indexentry>
+      <indexentry>
+        <persname>Lacking signature (2) &#8212; 11 Nov 1899 (to J.M.B.), 13 July 1900 (to J.W. Sewell)</persname>
+      </indexentry>
+    </index>
+    <descgrp>
+      <userestrict>
+        <head>From
+          <emph render="underline">The Sullins Reflector</emph>, Vol. 6, No. 3 (Nov. 23. 1942):</head>
+        <p>Mrs. Janie Baskervill, &#34;Our Friend,&#34; Former Dean of Girls Dies at Sullins, November 5</p>
+        <p>Gave Generously of Her Talent; Interested in Community Affairs</p>
+        <p>&#34;Mrs. Janie McTyeire Baskervill, one of the most widely known and most dearly loved women in educational circles of the south, died in her apartment at Sullins College, Thursday, November 5, at 5:30 a.m., after an illness of eight weeks.
+          Funeral services, in charge of Dr. J. Stewart French, assisted by Dr. J.E. Hicks and Dr. H.H. Thompson, were held at the home of Dr. and Mrs. W.E. Martin on Gl&#232;nway avenue, Friday, November 6, at 10:30 a.m. Burial was made in Mount Olivet
+          cemetery, Nashville, Tennessee.</p>
+        <p>&#34;Mrs. Baskervill, daughter of the late Bishop Holland Nimmons McTyeire and Amelia Townsend McTyeire, was born April 8, 1862, in Mobile, Alabama. During her early childhood she moved to Nashville, Tennessee, where her father was president of
+          the Vanderbilt University board and senior bishop of the Methodist Church. It was he, Bishop Holland Nimmons McTyeire, who prevailed upon General Cornelius Vanderbilt, noted New York philanthropist, to establish the university.</p>
+        <p>&#34;Her husband, the late Dr. William Malone Baskervill who died in 1899, was head of the department of English University and was one of the founders of the Southern Association of Colleges.</p>
+        <p>&#34;Since coming to Bristol as dean of women at old Sullins College, she had been active in community affairs for many years. With her daughter, Mrs&#171; William E. Martin, and Dr. Martin, Mrs. Baskervill moved to Woman&#39;s College in
+          Montgomery, Alabama, and served there as dean of women. For a great many years she held the position as dean of girls and social director at Sullins College.</p>
+        <p>&#34;Mrs. Baskervill showed deep interest in women&#39;s clubs of Bristol and offered much to their organization. She was a member of the Woman&#39;s History Club, Gibbon History Club, and the Ann Carter Lee Chapter of the U.D.C. .</p>
+        <p>&#34;Mrs. Baskervill has had charge of promoting the annual Red Cross Drive at Sullins College for the past several years, and has always been very enthusiastic and highly successful with this project.</p>
+        <p>&#34;Surviving are two daughters, Mrs. William E. Martin of Bristol and Mrs. Elizabeth Baskervill Wall of Bedford, Virginia; one son, William Malone Baskervill of Baltimore; one step-son, John Adams Baskervill of Nashville; seven grandchildren,
+          Mrs. Garland Osborne and Mrs. Raymond Bailey of Bristol, Mrs. Francis Cash of Cincinnati, Ohio, William Thomas Martin of New York, N.Y., Misses Dorothy, Evelyn, and Jane Baskervill of Baltimore, Maryland; and five great-grandchildren.&#34;</p>
+      </userestrict>
+      <userestrict>
+        <head>From
+          <emph render="underline">Alumnus Magazine&#171;</emph>
+          Vol. XXVIII, No. 2 (November, 1942), p. 2:</head>
+        <p>Mrs. Baskervill Dies</p>
+        <p>&#8216;Mrs. Janie McTyeire Baskervill, one of the most widely known women in Southern educational circles, died on November 5&#187; at Sullins College, Bristol, Virginia, after an illness of eight weeks. She was buried at Mt. Olivet Cemetery,
+          Nashville.</p>
+        <p>&#34;Mrs. Baskervill, who was dean of Sullins College for many&#39;years, came to Nashville from Mobile, Ala., in her early childhood. She was the daughter of the late Bishop Holland Nimmons McTyeire, for many years President of the Vanderbilt
+          University Board of Trust and Senior Bishop of The Methodist Church. Her husband, the late Dr. William Monroe /i.e. Malone/Baskervill, who died in 1899&#187; was head of the Department of English at Vanderbilt University and was one of the founders
+          of the Southern Association of Colleges.</p>
+        <p>&#34;Going to Bristol as dean of women at old Sullins College, Mrs. Baskervill had been active in community affairs of the city for many years. With her daughter, Mrs. William E. Martin, and Dr. Martin, Mrs. Baskervill moved to Woman&#39;s College
+          in Montgomery, Ala., and served there as dean of women. For years she held the position as &#34;dean of girls&#34; at the present Sullins College &#187;</p>
+        <p>&#34;Mrs. Baskervill is survived by two daughters, Mrs. William E. Martin, A&#39;02, of Bristol and Mrs. Elizabeth Wall, Ax&#39;07, of Bedford, Va.; one son, William Malone Baskervill, Ax&#39;10, of Baltimore; one stepson, John Adams Baskervill,
+          Lx&#39;06, of Nashville; seven grandchildren and five great-grandchildren.&#34;</p>
+      </userestrict>
+    </descgrp>
+  </archdesc>
+</ead>
