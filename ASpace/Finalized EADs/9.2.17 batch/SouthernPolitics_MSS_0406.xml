@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Southern Politics Collection</titleproper>
+        <titleproper>Finding Aid for the Southern Politics Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Southern Politics Collection</unittitle>
+      <unitid>MSS.0406</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.25 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+      <abstract>The Southern Politics Collection, given by Alexander Heard in February 1982, consists of drafts and research materials for
+        <emph render="italic">Southern Politics in State and Nation</emph>
+        by V.O. Key, Jr., and
+        <emph render="italic">A Two-Party South?</emph>, by Alexander Heard, together with transcripts of interviews on Southern politics used in the preparation of both these works.</abstract>
+    </did>
+    <scopecontent>
+      <head>Scope and Contents Note</head>
+      <p>The Southern Politics Collection, given by Alexander Heard in February 1982, consists of drafts and research materials for
+        <emph render="italic">Southern Politics in State and Nation</emph>
+        by V.O. Key, Jr., and
+        <emph render="italic">A Two-Party South?</emph>, by Alexander Heard, together with transcripts of interviews on Southern politics used in the preparation of both these works.</p>
+      <p>Boxes 1-7:
+        <emph render="italic">Southern Politics in State and Nation</emph>
+        by V.O. Key, Jr.</p>
+      <p>Boxes 8-10: Interviews</p>
+      <p>Boxes 11-13:
+        <emph render="italic">A Two-Party South?</emph>, by Alexander Heard</p>
+      <p>Box 14:
+        <emph render="italic">Southern Politics in State and Nation</emph>
+        - Illustrations</p>
+      <note>
+        <p>Notes:</p>
+        <p>Southern Politics in State and Nation, written by V. O. Key, Jr., with the assistance of Alexander Heard, was the principal product of the Electoral Process Survey. It was published in 1949 by Alfred A. Knopf. A Two-Party South?, by Alexander
+          Heard, published in 1952 by the University of North Carolina Pressj and other publications, also resulted.</p>
+        <p>Some 538 persons informed about southern politics were interviewed. They provided important information, opinion and sources of interpretation. The interviews were held in 11 states over a period of approximately five weeks in each state. The
+          reports of these interviews are here bound in 11 volumes, one per state, arranged in reverse chronological order within each volume.</p>
+        <p>This volume, the first, containing the Alabama interviews, has with it an article that describes the ways in which the interviews were conducted and comments on their significance and limitations. This article, called "Interviewing Southern
+          Politicians," by Alexander Heard, appeared in the American Political Science Review in December 1950.</p>
+        <p>At the end of this volume appears a list of confidential interviews that were kept separate from the regular a file until inserted at the appropriate place in each state collection at the time of binding.</p>
+        <p>The 11 volumes are as follows:</p>
+        <table frame="none">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="1" align="left" colwidth="50pt"/>
+            <colspec colnum="2" colname="2" align="left" colwidth="50pt"/>
+            <tbody>
+              <row>
+                <entry colname="1">State</entry>
+                <entry colname="2">Interviews Conducted by</entry>
+                <entry colname="3">Approximate Dates in State</entry>
+              </row>
+              <row>
+                <entry colname="1">Alabama</entry>
+                <entry colname="2">ALexander Heard</entry>
+                <entry colname="3">Nov. 18, 1946-Jan. 15, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">Arkansas</entry>
+                <entry colname="2">Alexander Heard</entry>
+                <entry colname="3">Oct. 2-Nov. 3, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">Florida</entry>
+                <entry colname="2">Alexander Heard</entry>
+                <entry colname="3">Nov. 18-Dec. 20, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">Georgia</entry>
+                <entry colname="2">Alexander Heard</entry>
+                <entry colname="3">March 12-April 20, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">Louisiana</entry>
+                <entry colname="2">Donald S. Strong</entry>
+                <entry colname="3">Aug. 8-Sept. 9, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">Mississippi</entry>
+                <entry colname="2">Alexander Heard</entry>
+                <entry colname="3">June 16-Aug. 13, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">North Carolina</entry>
+                <entry colname="2">Alexander Heard</entry>
+                <entry colname="3">Jan. 22-Feb. 28, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">South Carolina</entry>
+                <entry colname="2">Alexander Heard</entry>
+                <entry colname="3">Jan. 15-Feb. 14, 1948</entry>
+              </row>
+              <row>
+                <entry colname="1">Tennes see</entry>
+                <entry colname="2">Alexander Heard</entry>
+                <entry colname="3">Aug. 15-Sept. 15, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">Texas</entry>
+                <entry colname="2">Donald S. Strong</entry>
+                <entry colname="3">June 17-July 30, 1947</entry>
+              </row>
+              <row>
+                <entry colname="1">Virginia</entry>
+                <entry colname="2">A1exander Heard</entry>
+                <entry colname="3">April 25-May 29, 1947</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </note>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle><emph render="italic">Southern Politics in State and Nation</emph>, by V.O. Key, Jr.</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Wordage estimates Front matter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Of the South &#8211; Draft with AH&#8217;s comments and Current draft</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Data and ideas for introduction</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>The South as a political entity</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>The one-party system</unittitle>
+          </did>
+          <note>
+            <p>Pt. I: Political leadership &#8211; one-party system in the States -- draft with AH&#8217;s comments</p>
+            <p>One-party system -- introduction, current draft</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Virginia -- the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Rough copy, "final" draft</p>
+            <p>Rough second draft</p>
+            <p>Draft with AH&#8217;s comments; earlier drafts Used material 3:16 discards</p>
+            <p>1949 gubernatorial primary</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Alabama &#8211; the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Draft with AA comments and KOT checks</p>
+            <p>Draft with AH comments</p>
+            <p>Friends and neighbors -- used material</p>
+            <p>Sectionalism -- used materials</p>
+            <p>Personal factions &#8211; earlier drafts</p>
+            <p>Personal followings &#8211; used</p>
+            <p>Avenues to the voter &#8211; earlier drafts</p>
+            <list type="simple">
+              <item>&#8211; used</item>
+            </list>
+            <p>Unused</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Tennessee -- the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Tennessee Republicanism -- used materials</p>
+            <p>Draft with AA comments and AWT checks</p>
+            <p>Rough copy; final draft</p>
+            <p>Draft with AH&#8217;s corrections</p>
+            <p>Rough second draft</p>
+            <p>Introduction -- used material</p>
+            <p>Matrix for minority rule -- used materials</p>
+            <p>Crump organization -- used</p>
+            <p>Anti-organization faction -- used materials</p>
+            <p>1948 Gubernatorial</p>
+            <p>1948 Senatorial</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Florida -- the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Copy with AA comments and KWT checks</p>
+            <p>Rough copy, final draft</p>
+            <p>Comments by AH</p>
+            <p>Rough second draft</p>
+            <p>Multiplicity of faction -- used materials</p>
+            <p>Dispersion of leadership -- used materials</p>
+            <p>Mutability and impermanence of factions &#8211; used materials</p>
+            <p>Discards and duplicates</p>
+            <p>1948 Gubernatorial campaign clippings</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Georgia &#8211; the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Draft, final, with AH&#8217;s comments</p>
+            <p>Final, rough copy</p>
+            <p>Talmadge is the issue &#8211; raw material</p>
+            <list type="simple">
+              <item>-- discards</item>
+            </list>
+            <p>Localism again -- current draft</p>
+            <list type="simple">
+              <item>&#8211; earlier drafts</item>
+            </list>
+            <p>Sectionalism and urbanism -- raw material</p>
+            <list type="simple">
+              <item>&#8211; discards</item>
+            </list>
+            <p>Rural hegemony &#8211; discards</p>
+            <list type="simple">
+              <item>-- raw material</item>
+            </list>
+            <p>The opposition -- raw material</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>South Carolina the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Draft with checks by AA and KWT</p>
+            <p>Rough second draft</p>
+            <p>Localism -- used material</p>
+            <p>Piedmont vs. low country -- used material</p>
+            <p>Latent bipartisanism -- farm bureau -- used material</p>
+            <list type="simple">
+              <item>&#8211; labor -- used and unused</item>
+              <item>-- used materials</item>
+              <item>-- the Negro &#8211; used material</item>
+            </list>
+            <p>Legislative organization of interest &#8211; current draft</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+            <p>1948 Senatorial primary</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Louisiana -- the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Draft with AH&#8217;s comments and some KWT checks</p>
+            <p>Rough second draft &#8211; KWT checks</p>
+            <p>Penultimate -- with AH&#8217;s comments</p>
+            <p>Pages retyped for final</p>
+            <p>Introduction -- earlier drafts</p>
+            <p>Foundations for dictatorship &#8211; used materials</p>
+            <p>Louisiana voters dilemma -- used materials</p>
+            <p>A disciplined factionalism -- used material</p>
+            <p>Unused materials</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Arkansas -- the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Copy with comments, AH, and checks, KWT</p>
+            <p>Final, retyped pages</p>
+            <p>Penultimate with AH&#8217;s comments</p>
+            <p>Rough second draft</p>
+            <p>Introduction &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Political consensus and factional fluidity &#8211; used material</p>
+            <p>Politics of personal organization and maneuver &#8211; used materials</p>
+            <p>GI&#8217; s and common honesty &#8211; used materials</p>
+            <p>Southern conference -- unused</p>
+            <p>Farm Bureau and union &#8211; unused</p>
+            <p>Negroes -- unused</p>
+            <p>Free Enterprise Association -- unused</p>
+            <p>Labor -- unused</p>
+            <p>1948 Gubernatorial campaign</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>North Carolina &#8211; the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Penultimate draft, AH comments</p>
+            <p>Final rough</p>
+            <p>Sectionalism and Republicans -- discards</p>
+            <list type="simple">
+              <item>&#8211; raw material</item>
+            </list>
+            <p>Effect of Republicans on Democrats -- raw material</p>
+            <p>Introduction -- raw material</p>
+            <p>A Renaissance spirit -- raw material</p>
+            <list type="simple">
+              <item>-- discards</item>
+            </list>
+            <p>Economic oligarchy -- raw material</p>
+            <list type="simple">
+              <item>-- discards</item>
+            </list>
+            <p>Black belt in revolt -- earlier drafts</p>
+            <list type="simple">
+              <item>&#8211; raw material</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Mississippi -- the one-party system</unittitle>
+          </did>
+          <note>
+            <p>MSS with AH comments</p>
+            <p>Final &#8211; retyped pages</p>
+            <p>Penultimate draft -- AH&#8217;s comments</p>
+            <p>Second draft, rough copy</p>
+            <p>Rednecks and Delta planters -- used material</p>
+            <p>Rout of the aristocracy -- used material</p>
+            <p>Structure of factionalism &#8211; used material</p>
+            <list type="simple">
+              <item>&#8211; 1947 Senate race &#8211; used</item>
+            </list>
+            <p>Unused materials</p>
+            <p>Labor -- unused</p>
+            <p>Farmers &#8211; unused</p>
+            <p>Negroes -- unused</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Texas -- the one-party system</unittitle>
+          </did>
+          <note>
+            <p>Penultimate -- AH&#8217;s comments</p>
+            <p>AH&#8217;s first draft</p>
+            <p>Pages retyped for final</p>
+            <p>Penultimate draft, rough copy</p>
+            <p>Emergence of economics -- raw material</p>
+            <p>Rural demagogues -- raw material</p>
+            <p>Mexicans and Germans -- raw material</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Republican party</unittitle>
+          </did>
+          <note>
+            <p>Mountain Republicans &#8211; used materials</p>
+            <p>Negro Republicans -- used materials</p>
+            <p>General -- unused materials</p>
+            <p>Final, rough copy</p>
+            <p>Draft with AH&#8217;s corrections</p>
+            <p>Presidential Republicans -- used material</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Nature and consequences</unittitle>
+          </did>
+          <note>
+            <p>Rough final</p>
+            <p>Penultimate draft, AH&#8217;s comments</p>
+            <p>Ideas, data for conclusions on one-party system in states</p>
+            <p>Miscellaneous -- Virginia, Alabama, Tennessee, Florida, Louisiana, Arkansas, Mississippi</p>
+            <p>Ideas for final cosmic conclusions</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>The one-party system in the Nation</unittitle>
+          </did>
+          <note>
+            <p>Political leadership &#8211; current draft</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Hoovercrats and Dixiecrats -- pages retyped for final</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- final rough</item>
+              <item>-- penultimate, AH&#8217;s comments</item>
+            </list>
+            <p>Solidarity in Presidential elections -- a total view of 1928 current draft</p>
+            <p>The South in the nation &#8211; presidential elections &#8211; used</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Senatorial solidarity</unittitle>
+          </did>
+          <note>
+            <p>Final draft, rough copy</p>
+            <p>Draft with AH&#8217;s comments</p>
+            <p>Average levels -- used materials</p>
+            <p>Extent and content -- used materials</p>
+            <p>Departures from solidarity -- current draft</p>
+            <p>SD-REP coalition -- used material</p>
+            <p>Departures from solidarity -- used material</p>
+            <p>Raw material -- general -- used</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>House solidarity</unittitle>
+          </did>
+          <note>
+            <p>Average levels used materials</p>
+            <p>Final, rough draft</p>
+            <p>AH&#8217;s comments on draft</p>
+            <p>Final, extra carbon</p>
+            <p>Introduction -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Average levels of cohesiveness -- earlier drafts</p>
+            <p>South against the nation -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- used materials</item>
+            </list>
+            <p>SD-REP coalition &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw materials</item>
+            </list>
+            <p>Clefts in solidarity -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- used material</item>
+            </list>
+            <p>South in the nation -- clefts in solidarity -- used material</p>
+            <p>South in Congress -- House -- raw material</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Party organization</unittitle>
+          </did>
+          <note>
+            <p>Party machinery &#8211;&#8217; draft with comments by AH and checks by KWT Final rough</p>
+            <p>Introduction -- current draft</p>
+            <list type="simple">
+              <item>&#8211; raw material</item>
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Framework for factions -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw materials</item>
+              <item>&#8211; discards</item>
+            </list>
+            <p>Arbiter, not advocate &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw material</item>
+            </list>
+            <p>Federation or confederacy? -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw material</item>
+              <item>&#8211; discards</item>
+            </list>
+            <p>Who governs it? -- current drafts</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw material -- legal abstracts</item>
+              <item>-- discards</item>
+            </list>
+            <p>Campaign organization -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw material</item>
+              <item>-- discards</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Nominating process</unittitle>
+          </did>
+          <note>
+            <p>Primary as the election -- raw material</p>
+            <list type="simple">
+              <item>-- discards</item>
+            </list>
+            <p>Final rough</p>
+            <p>Penultimate draft with AH comments Introduction -- earlier drafts</p>
+            <p>Primary as election &#8211; earlier draft</p>
+            <p>Pre-primary nominations &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier draft</item>
+              <item>-- raw material</item>
+            </list>
+            <p>Run-off &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Remnants of convention system &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Run-off primary &#8211; raw material</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Ensuring finality of the primary</unittitle>
+          </did>
+          <note>
+            <p>Final rough</p>
+            <p>Final with AH&#8217;s comments</p>
+            <p>The voter and party loyalty &#8211; current draft</p>
+            <p>Loyalty tests &#8211; raw material</p>
+            <list type="simple">
+              <item>-- discards</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Election administration</unittitle>
+          </did>
+          <note>
+            <p>Elections under one-party conditions &#8211; party vs. public responsibility -- raw material</p>
+            <p>Democratic control of general &#8211; used material</p>
+            <p>Absentee voting &#8211; used materials</p>
+            <p>Secrecy of ballot -- used materials</p>
+            <p>Draft with AH&#8217;s comments Final rough</p>
+            <p>Introduction &#8211; earlier drafts</p>
+            <p>Party vs. public -- earlier drafts</p>
+            <p>Public vs. private responsibility -- used materials</p>
+            <p>Democratic control of general &#8211; earlier drafts</p>
+            <p>Absentee voting &#8211; current drafts</p>
+            <list type="simple">
+              <item>&#8211; earlier drafts</item>
+            </list>
+            <p>Secrecy of the ballot -&#8211; earlier drafts</p>
+            <p>Directions of reform -&#8211; earlier drafts</p>
+            <list type="simple">
+              <item>&#8211; used materials</item>
+            </list>
+            <p>Unused, rmaterials</p>
+            <p>Unused (fraud classification)</p>
+            <p>Ballots generally</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Campaign finance</unittitle>
+          </did>
+          <note>
+            <p>Rough final</p>
+            <p>Penultimate draft -- AH&#8217;s comments</p>
+            <p>Introduction &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>What it costs to become governor &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Sources of funds -- current draft</p>
+            <p>Who gives and why &#8211; current draft</p>
+            <p>Invitation to perjury &#8211; current draft</p>
+            <list type="simple">
+              <item>&#8211; earlier drafts</item>
+            </list>
+            <p>Significance -- current draft</p>
+            <p>ACan it be democratized -- current draft</p>
+            <p>Indirect means of financing politics -- current draft</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Electoral participation &#8211; size of electorate</unittitle>
+          </did>
+          <note>
+            <p>Rough final</p>
+            <p>Southern voters &#8211; rough final</p>
+            <p>Penultimate -- AH&#8217;s comments</p>
+            <p>Governor -- earlier drafts</p>
+            <p>Senatorial voting earlier drafts</p>
+            <p>Senator raw materials</p>
+            <p>House of Representatives &#8211; earlier drafts</p>
+            <list type="simple">
+              <item>-- used material</item>
+            </list>
+            <p>Nonvoting -- extent, causes, etc. -- earlier drafts</p>
+            <list type="simple">
+              <item>-- raw material</item>
+            </list>
+            <p>Discards</p>
+            <p>Estimated size of electorate</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Electoral participation -- composition of electorate</unittitle>
+          </did>
+          <note>
+            <p>Rough final</p>
+            <p>Penultimate, AH&#8217;s comments</p>
+            <p>Introduction -- earlier drafts Urban</p>
+            <p>differentials -- current draft</p>
+            <list type="simple">
+              <item>&#8211; earlier drafts</item>
+              <item>-- used</item>
+            </list>
+            <p>Negro voting -- current drafts</p>
+            <p>Negro voting and nonvoting &#8211; earlier drafts</p>
+            <p>Negro voting -- raw material</p>
+            <p>Black belt whites &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw materials</item>
+            </list>
+            <p>Sex differentials &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw materials</item>
+            </list>
+            <p>Warmth of campaign -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw material</item>
+            </list>
+            <p>Conclusion -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- raw material</item>
+              <item>-- discards</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Southern Suffrage Restrictions &#8211; Bourbon coup d&#8217;etat</unittitle>
+          </did>
+          <note>
+            <p>Rough final</p>
+            <p>Penultimate &#8211; AH&#8217;s comments</p>
+            <p>Pt. 3: Southern Restrictions on Voting -- introduction &#8211; earlier drafts</p>
+            <p>Introduction &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Legalization of fait accompli &#8211; earlier drafts</p>
+            <list type="simple">
+              <item>-- used</item>
+            </list>
+            <p>To disenfranchise whites too? -- earlier drafts</p>
+            <p>For whites too? &#8211; used</p>
+            <p>Forces is disfranchise drive &#8211; used</p>
+            <p>Beyond the law -- current draft</p>
+            <p>Developments beyond the Constitution -- used material</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Suffrage restrictions -- present status (literacy test: form and reality) Literacy test -- rough final</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- penultimate, AH comments</item>
+              <item>-- current draft</item>
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Application of literacy tests &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+            </list>
+            <p>Literacy tests -- used raw material Miscellaneous qualifications -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- used materials</item>
+            </list>
+            <p>Registration</p>
+            <list type="simple">
+              <item>Introduction -- current draft
+                <list type="simple">
+                  <item>-- earlier drafts</item>
+                </list>
+              </item>
+              <item>Machinery -- current draft
+                <list type="simple">
+                  <item>-- earlier drafts</item>
+                  <item>-- used materials</item>
+                </list>
+              </item>
+              <item>Glimpses at practice current draft
+                <list type="simple">
+                  <item>-- used materials</item>
+                  <item>-- earlier drafts</item>
+                </list>
+              </item>
+              <item>Literacy, etc. -- current draft
+                <list type="simple">
+                  <item>-- earlier drafts</item>
+                </list>
+              </item>
+              <item>Statutory abstracts -- used</item>
+              <item>Unused material</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Poll tax: form and application</unittitle>
+          </did>
+          <note>
+            <p>Penultimate -- AH&#8217;s comments</p>
+            <p>Pagas retyped for final</p>
+            <p>Introduction -- current</p>
+            <list type="simple">
+              <item>-- earlier</item>
+            </list>
+            <p>The tax in application &#8211; drafts</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+            <p>Rates, coverages, etc. &#8211; earlier drafts</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Poll tax: disfranchising effects</unittitle>
+          </did>
+          <note>
+            <p>Penultimate -- AH&#8217;s comments</p>
+            <p>Pages retyped for final</p>
+            <p>Introduction &#8211; current draft</p>
+            <list type="simple">
+              <item>-- earlier draft</item>
+            </list>
+            <p>Tax and economic conditions &#8211; earlier drafts</p>
+            <list type="simple">
+              <item>-- used material</item>
+            </list>
+            <p>Before and after &#8211; earlier drafts</p>
+            <list type="simple">
+              <item>-- used material</item>
+            </list>
+            <p>Interstate comparison -- earlier drafts</p>
+            <p>County-by-county -- current draft</p>
+            <list type="simple">
+              <item>-- earlier drafts</item>
+              <item>-- used materials</item>
+              <item>-- unused stuff</item>
+              <item>-- raw county figures</item>
+            </list>
+            <p>Summary estimate -- current draft</p>
+            <list type="simple">
+              <item>-- earlier draft</item>
+            </list>
+            <p>Discards</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>White primary</unittitle>
+          </did>
+          <note>
+            <p>Penultimate, AH&#8217;s comments, KWT checks</p>
+            <p>Pages retyped for final</p>
+            <p>Introduction -- earlier drafts</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+            <p>Supreme court and &#8211; earlier drafts</p>
+            <p>New ways around court -- earlier drafts</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+            <p>South Carolina plan and aftermath -- used materials</p>
+            <list type="simple">
+              <item>-- discards</item>
+            </list>
+            <p>Suffrage -- present status -- Georgia -- used</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Suffrage -- ferments and fears -- crisis over the suffrage</unittitle>
+          </did>
+          <note>
+            <p>The Negro again -- current draft</p>
+            <list type="simple">
+              <item>-- used material</item>
+            </list>
+            <p>Final rough</p>
+            <p>AH&#8217;s comments</p>
+            <p>Introduction</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+            <p>The Negro again -- earlier drafts</p>
+            <p>What about the whites earlier drafts</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+            <p>A test of leadership &#8211; earlier drafts</p>
+            <list type="simple">
+              <item>-- used materials</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Final drafts of table of contents, chapters 1-30, index, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>yped carbons of various chapters</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Negatives, glass slides of illustrations</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <unittitle>Illustrations, maps, etc., for
+              <emph render="underline">Southern Politics in State and Nation</emph>
+              (see Map Case, drawer 3)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Southern Politics Interviews</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">8</container>
+            <unittitle>Alabama interviews</unittitle>
+            <unitdate>Dec. 2-9, 1946</unitdate>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- Dec. 10-19, 1946</item>
+              <item>-- Jan. 6-16, 1947</item>
+              <item>-- Interview folder number three</item>
+            </list>
+            <p>Arkansas interviews -- V.O.K.</p>
+            <list type="simple">
+              <item>-- Folder #2</item>
+            </list>
+            <p>Florida interviews --v. 1</p>
+            <list type="simple">
+              <item>-- v. 2 -- 12-8-47 plus</item>
+              <item>-- Folder #2</item>
+            </list>
+            <p>Georgia interviews -- Number one</p>
+            <list type="simple">
+              <item>-- Number two</item>
+              <item>-- Number two</item>
+              <item>-- Georgia project -- V.O. Key -- personal</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>Louisiana interviews -- V.O.K.</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- Folder #2</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>Mississippi interviews &#8211; June 16 - July 1 - index</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- July 3 plus</item>
+              <item>-- untitled</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>North Carolina interviews</unittitle>
+            <unitdate>Jan. 22, 1947 - Feb. 14, 1947</unitdate>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- Feb. 17 plus - index</item>
+              <item>-- Number four</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>South Carolina interviews -- untitled</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- Folder #2</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">10</container>
+            <unittitle>Tennessee interviews -- V.O.K.</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- untitled</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>Texas interviews</unittitle>
+            <unitdate>June 17 - July 8</unitdate>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- July 9 plus</item>
+              <item>-- Number two</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>Virginia interviews -- April 25 plus</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- May 19 plus</item>
+              <item>-- untitled</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>E.P.S. interviews -- Dr. Martin &#38; Hon. V.O. Key - personal</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">9</container>
+            <unittitle>E.P.S. confidential memoranda -- copies for state and subject files</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>
+            <emph render="italic">A Two-Party South?</emph>
+            by Alexander Heard</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <unittitle>Front papers</unittitle>
+          </did>
+          <note>
+            <p>Table of contents, list of figures, tables -- current draft Preface -- current draft</p>
+            <p>Preface &#8211; earlier drafts</p>
+            <p>Table of contents, figures, tables -- earlier drafts</p>
+            <p>General outline</p>
+            <p>Retyped pages of second draft</p>
+            <p>Tables -- work sheets</p>
+            <p>First draft</p>
+            <p>All chapters -- late raw material, not yet used Front papers</p>
+            <p>Figures &#8211; W. K. Hubbell Style book</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <unittitle>Chapter 1, introductory chapter, "The One-Party South"</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>Raw materials</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <unittitle>Chapter 2, "Paths to Competitive Politics"</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>The Dixiecrats -- raw materials</p>
+            <p>Electoral College change -- raw materials</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <unittitle>Chapter 3, present nature of Republican Party, "Southern Republicans"</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>Republican Party -- used materials: Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Texas, Virginia</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <unittitle>Chapter 4, present nature of Republican Party, "Republican Handicaps"</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts Raw materials</p>
+            <p>Southern Republicans &#8211; raw materials</p>
+            <p>Nominations -- Public-party control of the primary -- earlier drafts</p>
+            <p>Nominations -- tests for participation -- current draft</p>
+            <p>Nominations &#8211; tests for participation &#8211; earlier drafts</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <unittitle>Chapter 5, present nature of Republican Party, "Organization and Leadership"</unittitle>
+          </did>
+          <note>
+            <p>Leadership</p>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>Republican leadership &#8211; raw material</p>
+            <p>Aims of Republican leaders, state facts -- raw material</p>
+            <p>Trad, with enemy, revitalization -- raw material</p>
+            <p>Candidates, campaigns, nominations &#8211; raw material</p>
+            <p>National Republicans and one-party system &#8211; raw materials</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Chapter 6, Defections among Democrats; Dixiecratic vote analysis</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>1948 presidential returns -- raw materials</p>
+            <p>Raw materials</p>
+            <p>Arkansas: 1948 national campaign</p>
+            <p>Florida: 1948 national campaign</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Chapter 7, "Dissension among Democrats: Republican Recruits?"</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>Influences for change -- raw materials</p>
+            <p>Fissures in Democratic solidarity -- raw materials</p>
+            <p>Presidential Republicans -- raw materials</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Chapter 8, Negro Republicans, "Negro Politics -- New Style"</unittitle>
+          </did>
+          <note>
+            <p>Current drafts</p>
+            <p>Earlier drafts</p>
+            <p>New political organizations -- general &#8211; raw material</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Chapter 9, Negro Republicans, "Negro Voters and Southern Party System"</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>Historical role -- general -- raw materials</p>
+            <p>New political organizations -- raw material -- Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Texas, Virginia</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Chapter 10, conclusion and summary, "The Two-Party South"</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+            <p>Raw materials</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>End papers</unittitle>
+          </did>
+          <note>
+            <p>Current draft</p>
+            <p>Earlier drafts</p>
+          </note>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Used second draft last minute materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Second draft -- new chapter order</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>General statistical charts</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>
+              <emph render="underline">The Direct Primary in the South</emph>
+              &#8211; draft of M.A. thesis, Columbia Universi 1948 (typescript) (2 copies)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>A Two-Party South? -- 1st draft (Ph.D. thesis, Columbia University), 1950</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>-- 2nd draft, 1951 (typescript)</item>
+              <item>-- galley proofs, 1952</item>
+              <item>-- page proofs, 1952</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
