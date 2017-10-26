@@ -1,0 +1,3300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">O&#8217;Donnell, George Marion Papers</titleproper>
+        <titleproper>Finding Aid for the George Marion O&#8217;Donnell Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>George Marion O&#8217;Donnell Papers</unittitle>
+      <unitid>MSS.0316</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10 linear_feet</extent>
+      </physdesc>
+      <unitdate>Inclusive: c.1870s - 1982; Bulk: 1940s-1950s</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>George Marion O&#8217;Donnell was born January 21, 1914, on the Silver Home Plantation near Midnight, Mississippi. Upon graduating from the Belzoni, Mississippi, high school in 1932, he entered Memphis State University. In 1934, he transferred to
+        Vanderbilt University, where he was influenced by several well-known Southern literary figures, including Allen Tate, Cleanth Brooks, and Andrew Lytle. He received a Bachelor of Arts in English from Vanderbilt in 1936 and continued his graduate
+        studies there, receiving the Master of Arts in 1939.</p>
+      <p>Having completed his studies, O&#8217;Donnell embarked upon a career as a college English professor and writer. As a teacher, he specialized in modern literature and creative writing, but also taught a variety of classes ranging from freshman
+        composition to world literature, arts, and philosophy. He spent 1939-40 at Vanderbilt as a fellow in creative writing. From 1941 to 1945, he taught at Alabama Polytechnic Institute (now Auburn University), then served as a guest instructor at Harvard
+        University from 1945 to 1947. After two years as an assistant professor at Louisiana State University in Baton Rouge, O&#8217;Donnell was appointed to a professorship at Oglethorpe University near Atlanta, Georgia, where he taught from 1947 to 1957.</p>
+      <p>During his career, O&#8217;Donnell&#8217;s literary criticism, reviews, short stories, and poetry appeared in over thirty scholarly journals, popular and literary magazines, and anthologies, including
+        <title render="underline">New Yorker, Harper&#8217;s Bazaar, A Southern Vanguard</title>
+        (Prentice-Hall, 1947) and the Agrarian symposium Who Owns America? (Houghton-Mifflin, 1936). He was particularly noted for his essays on William Faulkner and for his poetry.</p>
+      <p>After spending 1957 to 1959 on leave in New Haven, Connecticut, O&#8217;Donnell resigned from Oglethorpe and made New Haven his home, ostensibly to pursue his writing full time. In reality, he suffered from manic depression and alcoholism and had
+        entered a period of decline that resulted in his death in 1962, just prior to his 48th birthday.</p>
+      <p>From approximately 1943 until his death, O&#8217;Donnell had as his companion Gordon Roysce Smith, Jr. Smith was born in Dothan, Alabama, in 1924. He was studying at Alabama Polytechnic Institute in 1942-43 when he met O&#8217;Donnell, who was on
+        the faculty at that time. After serving in the United States Navy as a quartermaster aboard a submarine from 1944-46, Smith joined O&#8217;Donnell in Baton Rouge and continued his studies at Louisiana State, although he apparently did not receive a
+        degree.</p>
+      <p>Smith spent most of his post-military career in the book trade. From 1949 to 1957, he worked at Davison-Paxson Booksellers in Atlanta as an assistant buyer. From 1957 to 1971, he managed the book department at the Yale Co-op in New Haven. In
+        1971-72, he served as Educational Project Director for the American Booksellers Association in New York City. He was subsequently appointed Executive Director of the American Booksellers Association, a post that he held until his retirement in 1984.</p>
+      <p>From the 1960s to the 1980s, Smith wrote several articles and edited a few publications in the book trade. From 1966 to 1971, he produced and moderated a television talk show, &#8220;The Opinionated Man,&#8221; in New Haven. He also served on the
+        Executive Committee of the New Haven Festival of the Arts from 1959 to 1969 and on the Board of Directors of the Starlight Music Festival from 1964 to 1971. In both Georgia and Connecticut, Smith was active on issues related to censorship.</p>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The papers of George Marion O&#8217;Donnell date from approximately the 1870s to 1982. The bulk of the collection, however, dates from the 1940s and 1950s. It includes O&#8217;Donnell&#8217;s correspondence, journals, and daybooks, which reflect
+        his interest in modern literature and the influence of several Vanderbilt and other Southern literary figures over his own work. His correspondence includes one letter each from Allen Tate, John Peale Bishop, and Harriet Owsley, and a brief scribbled
+        note from John Crowe Ransom. His journals from the 1930s and letters from friends and colleagues in the 1940s, however, often mention Tate and Ransom, along with Andrew Lytle, Cleanth Brooks, Eudora Welty, Carson McCullers, and Katherine Anne Porter.
+        Two photograph albums include numerous pictures of these literary figures, notably of Tate and Welty, but also of Porter, Robert Frost, Carl Sandburg, and William Faulkner. O&#8217;Donnell&#8217;s literary career is further documented by the
+        manuscripts and published versions of many of his poems, stories, essays, and reviews included in this collection. Lecture notes provide a glimpse into his teaching career.</p>
+      <p>The collection also includes some of the papers of Gordon Roysce Smith, Jr. His correspondence includes 173 letters received from O&#8217;Donnell during 1944-45 while Smith was in the Navy. Those letters primarily describe O&#8217;Donnell&#8217;s
+        day-to-day activities and could be categorized as &#8220;love&#8221; letters. O&#8217;Donnell&#8217;s journals from the 1930s provide a glimpse into what he called the &#8220;gay group&#8221; in Nashville, and his letters to Smith and letters from
+        LeRoy Leatherman, Edward McGehee, and John Shinn provide further insight into his homosexuality, although he appears to have rarely addressed the issue directly.</p>
+      <p>The O&#8217;Donnell Papers are divided into eleven series, as follows:</p>
+      <list type="ordered" numeration="upperroman">
+        <item>Biographical and Personal</item>
+        <item>Correspondence</item>
+        <item>Journals and daybooks</item>
+        <item>Writings</item>
+        <item>Notes</item>
+        <item>Collected writings and publications</item>
+        <item>Clippings</item>
+        <item>Miscellany</item>
+        <item>Photographs</item>
+        <item>Gordon Roysce Smith, Jr.</item>
+        <item>Oversized</item>
+      </list>
+      <p><emph render="bold">Series Descriptions</emph></p>
+      <p>
+        <title render="underline">Series I: Biographical and Personal, 1922-70, nd (.1 cu.ft.)</title>
+      </p>
+      <p>Biographical information includes articles, obituaries, resumes, lists of writings, and genealogical information regarding the Bell and Hutchens families. Also includes some financial documents regarding loans and legal documents such as deeds and
+        wills; most of the legal documents relate to the affairs of O&#8217;Donnell&#8217;s aunt (?), Fannie Hutchens Bell, whom he cared for in her later years until her death in the mid-1940s.</p>
+      <p>Arranged topically.</p>
+      <p>
+        <title render="underline">Series II: Correspondence, 1934-1962, nd (1.4 cu.ft.)</title>
+      </p>
+      <p>Includes 883 letters received from and copies of 97 letters sent to 116 individuals, not including Gordon Roysce Smith. (For letters from O&#8217;Donnell to Smith see Series X). Major subjects include the Southern literary circle of the 1930s and
+        1940s, with Cleanth Brooks, Allen Tate, Andrew Lytle, and Katherine Anne Porter as frequent topics of conversation. Correspondence with Lawrence Bass, LeRoy Leatherman, Edward McGehee, and focuses heavily on literature and the arts. Correspondence
+        with Pearl McLellan, a friend and attorney in Greenwood, Mississippi, provides insight into O&#8217;Donnell&#8217;s attitudes toward race relations and his support of desegregation in the 1950s. Arranged alphabetically and chronologically.</p>
+      <p>
+        <title render="underline">Series III: Journals and Daybooks, 1933-1961 (1.0 cu.ft.)</title>
+      </p>
+      <p>Five volumes of journals from 1933 to 1940 detail O&#8217;Donnell&#8217;s experiences while a student, from the importance of Southern literary figures on his intellectual development to his involvement in the underground homosexual community in
+        Nashville. From 1932 to 1961, O&#8217;Donnell also maintained daybooks, recording more briefly his activities and thoughts. Arranged chronologically.</p>
+      <p>
+        <title render="underline">Series IV: Writings, 1933-1961, nd (1.3 cu.ft.)</title>
+      </p>
+      <p>Includes published and unpublished articles, lectures, poetry, reviews, short stories, and one play, along with notes and sketches for two novels. Arranged first by document type and then alphabetically by title.</p>
+      <p>
+        <title render="underline">Series V: Notes, c. 1930s-1950s (.8 cu.ft.)</title>
+      </p>
+      <p>Consists primarily of O&#8217;Donnell&#8217;s notes for classes that he taught, along with some notes from classes in which he was a student and notes for an idea for a symposium on poetry and tradition that would be given by the &#8220;Southern
+        group&#8221; -- i.e., John Crowe Ransom, Allen Tate, etc. Arranged topically.</p>
+      <p>
+        <title render="underline">Series VI: Collected Writings and Publications, 1882-1959 (.4 cu.ft.)</title>
+      </p>
+      <p>Articles, several complete magazines, and two books, including the first issue of
+        <title render="underline">Time</title>
+        magazine and articles and stories by friends and colleagues with whom O&#8217;Donnell also corresponded. Arranged alphabetically by author or title.</p>
+      <p>
+        <title render="underline">Series VII: Clippings, c. 1940s-1950s (.2 cu.ft.)</title>
+      </p>
+      <p>Clippings regarding modernism in literature, the arts, and architecture, political matters, and general and human interest stories.</p>
+      <p>
+        <title render="underline">Series VIII: Miscellany, nd. (.1 cu.ft.)</title>
+      </p>
+      <p>Address book and creative and performing arts memorabilia, such as programs and advertising leaflets. Two folders.</p>
+      <p>
+        <title render="underline">Series IX: Photographs, c. 1860s-1961 (.2 cu.ft.)</title>
+      </p>
+      <p>Seventy-three photographs and ten loose album pages of O&#8217;Donnell and his family, including seven tintypes, and one folder of photograph illustrations from Sumner C. Powell&#8217;s book
+        <title render="underline">The Puritan Village</title>. Four folders.</p>
+      <p>
+        <title render="underline">Series X: Gordon Roysce Smith, Jr., 1944-1982 (1.5 cu.ft.)</title>
+      </p>
+      <p>Includes 544 letters received from and copies of 16 letters sent to 81 correspondents, including 173 letters from George Marion O&#8217;Donnell from the period of Smith&#8217;s Naval service, 1944-45. Major topics include Smith&#8217;s personal
+        relationship with O&#8217;Donnell, the book trade, and censorship in Georgia in 1953. Also includes Smith&#8217;s poetry, articles, and drawings, personal calendars for the years 1962-63, 1965-66, and 1975, collected publications, and clippings. A
+        group of sixty-eight photographs includes an 8x10 of Charles M. Schulz autographing Peanuts books and a 4x5 negative of Cleanth Brooks signing his work at a booksellers&#8217; convention. Organized by document type and/or alphabetically and
+        chronologically.</p>
+      <p>
+        <title render="underline">Series XI: Oversized materials, c. 1860s-1964 (1.0 cu.ft.)</title>
+      </p>
+      <p>From the O&#8217;Donnell papers, this series includes oversized photographs of Pearl McLellan and her historic Mississippi home, five photograph albums, and one scrapbook. Two photograph albums include pictures of Robert Frost, Andrew Lytle, Allen
+        Tate, Donald Davidson, Carl Sandburg, William Faulkner, Katherine Anne Porter, Eudora Welty, Ford Maddox Ford, and Caroline Gordon. The scrapbook consists primarily of clippings from the 1930s; O&#8217;Donnell has entitled it &#8220;Phenomena in the
+        Arts.&#8221; From the Smith papers, the series includes two sketch books, the John F. Kennedy memorial edition of
+        <title render="underline">Life</title>
+        magazine, and fifteen movie posters from the 1950s and 1960s. Organized by document type.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Biographical and Personal</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Biographical</unittitle>
+            <unitdate>c. 1938-70</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Financial</unittitle>
+            <unitdate>1922, 1940-41, 1947-50, 1960-62</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Genealogical</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Legal</unittitle>
+            <unitdate>1929, 1931, 1934-36, 1952, 1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Legal -- Fannie Bell</unittitle>
+            <unitdate>1926, 1937-45</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series II: Correspondence (one letter received unless otherwise indicated)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Abels, Cyrilly</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Abram, Morris B.,</unittitle>
+            <unitdate>1954 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Agnew, Donald C.,</unittitle>
+            <unitdate>1957-58 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Allen, Lee N.,</unittitle>
+            <unitdate>1948 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Angel, Robert M.,</unittitle>
+            <unitdate>1958 (2 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Armistead, Robert A.,</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Arnold, Norman J.,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Avery, John Hudson</unittitle>
+            <unitdate>1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Barton, Craig</unittitle>
+            <unitdate>nd, 1961 (4 rec&#8217;d and 3 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Bass, Lawrence,</unittitle>
+            <unitdate>1947, 1957-60 (16 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Beaudoin, Kenneth L.,</unittitle>
+            <unitdate>1954-55, 1957 (5)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Bishop, John Peale,</unittitle>
+            <unitdate>1939</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Brennan, Joseph Payne,</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Brown, Wendell H. and Eve,</unittitle>
+            <unitdate>1957-59, 1961 (12 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Bunting, J. Whitney,</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Burris, Betty,</unittitle>
+            <unitdate>1959-60 (3)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Buskirk, Eugene C.,</unittitle>
+            <unitdate>1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Butler, John,</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Cain, Anne,</unittitle>
+            <unitdate>1952 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Camp, John,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Carr, Jeanne,</unittitle>
+            <unitdate>1953, 1956 (4 rec&#8217;d and 3 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Cass, Bronston D.,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Chapin, Victor,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Christian, Bill,</unittitle>
+            <unitdate>1957 (1 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Cisneros, Maria Luisa,</unittitle>
+            <unitdate>1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Cook, Charlie,</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Dalton, Henry,</unittitle>
+            <unitdate>1953-54 (3 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Denney, Reuel,</unittitle>
+            <unitdate>1938</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Desegregation in Belzoni, Mississippi,</unittitle>
+            <unitdate>1954-55 (1 rec&#8217;d and 4 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Dolgoff, Ralph,</unittitle>
+            <unitdate>1952, 1954-59 (15 rec&#8217;d and 12 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Doran, James J.,</unittitle>
+            <unitdate>1956 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Downey, Harris,</unittitle>
+            <unitdate>1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Duncan, Edgar H.,</unittitle>
+            <unitdate>1952 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Duthuit, Georges,</unittitle>
+            <unitdate>1948 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>East, Charles,</unittitle>
+            <unitdate>1952, 1954 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>East and West Book Club,</unittitle>
+            <unitdate>1958 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Ehrensberger, Harold,</unittitle>
+            <unitdate>1945 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Eidson, John,</unittitle>
+            <unitdate>1953 (2 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Falck-Baranan, Marianne,</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Fisher, David,</unittitle>
+            <unitdate>1957-58 (4 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Flanders, Bert H.,</unittitle>
+            <unitdate>1957 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Fleitman, Sheldon,</unittitle>
+            <unitdate>1954 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Fouts, W.E.,</unittitle>
+            <unitdate>1954 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Fry, Beatrice,</unittitle>
+            <unitdate>1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Fryxell, Lucy and Don,</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Garoutte, Nancy,</unittitle>
+            <unitdate>1947</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Gaurmoge, Charlotte,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Giovanelli, ?,</unittitle>
+            <unitdate>1949</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Govan, Gilbert,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Gulf Oil Corp.</unittitle>
+            <unitdate>1958 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Haddock, William Charlton,</unittitle>
+            <unitdate>1957-58, 1960 (6)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Hays, Marguerite,</unittitle>
+            <unitdate>1953, 1959 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Henry, W.A.,</unittitle>
+            <unitdate>1941 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Herrington, Lillian,</unittitle>
+            <unitdate>1947-49, 1953, 1955-56 (7 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Hoepfner, Ted,</unittitle>
+            <unitdate>1941, 1954 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Hoyleman, Merle,</unittitle>
+            <unitdate>1947-49, 1951-56 (30 rec&#8217;d, 6 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Hurley, Jim,</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Jones, George,</unittitle>
+            <unitdate>1957, 1961 (4 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Kartin, Bernard L.,</unittitle>
+            <unitdate>1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Kast, Jeanne,</unittitle>
+            <unitdate>1955 (3 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Kirby, Tom,</unittitle>
+            <unitdate>1952 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Knapp, Bob,</unittitle>
+            <unitdate>1942, 1961 (3)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Lambert Transfer Company, 1958,</unittitle>
+            <unitdate>1961 (2 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Leatherman, LeRoy,</unittitle>
+            <unitdate>nd 1939-54, 1956-57, 1959 (167) (4f)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Lippman, Larry,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Lowe, Harry,</unittitle>
+            <unitdate>1961 (2 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Mabry, Tom,</unittitle>
+            <unitdate>1961 (2 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Massey, Gladys,</unittitle>
+            <unitdate>1953, 1955 (3 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>McCurtin, Peter,</unittitle>
+            <unitdate>1957 (2 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>McDonald, Louise,</unittitle>
+            <unitdate>1949 (1)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>McDowell, David,</unittitle>
+            <unitdate>1951, 1953, 1955-57 (5 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>McGehee, Edward,</unittitle>
+            <unitdate>nd 1940-49, 1951 (208 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>McGehee, Thomasine,</unittitle>
+            <unitdate>1943-44 (10)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>McLellan, Pearl,</unittitle>
+            <unitdate>1950, 1953-58 (23 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Mims, Edwin,</unittitle>
+            <unitdate>1942 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Montesi, Al,</unittitle>
+            <unitdate>1952, 1954-55, 1962 (7 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Montgomery, V. B.,</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Nash, Eugene,</unittitle>
+            <unitdate>1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>O&#8217;Donnell, George C.,</unittitle>
+            <unitdate>1935-36, 1956-58 (18 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>O&#8217;Malie, David,</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Owsley, Harriet,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Palmer, Sarah,</unittitle>
+            <unitdate>1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Parker, Jim</unittitle>
+            <unitdate>1955 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Paulk, Mr.,</unittitle>
+            <unitdate>nd (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Pease, Ann,</unittitle>
+            <unitdate>1958 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Pepinsky, Louise,</unittitle>
+            <unitdate>1949</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Porter, Barbara,</unittitle>
+            <unitdate>1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Porter, Paul,</unittitle>
+            <unitdate>1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Powell, Leslie,</unittitle>
+            <unitdate>1947</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Ransom, John Crowe [a brief note signed with the initials &#8220;JCR&#8221;],</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Ratcliff, Garrett,</unittitle>
+            <unitdate>nd 1934-38 (69 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Robert, William,</unittitle>
+            <unitdate>1952, 1956, 1958-59, 1961 (8 rec&#8217;d and 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Rose, Letitia,</unittitle>
+            <unitdate>1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Scott, Foresman and Co.,</unittitle>
+            <unitdate>1955 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Shinn, John,</unittitle>
+            <unitdate>1941-50 (35)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Smith, Maggie,</unittitle>
+            <unitdate>1958</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Southern Teachers Agency,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Stahraker, Chuck,</unittitle>
+            <unitdate>1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Stanley, Bob,</unittitle>
+            <unitdate>1952-54 (5 rec&#8217;d and 3 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Staples, Raymond F.,</unittitle>
+            <unitdate>1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Starnes, Leland,</unittitle>
+            <unitdate>1948-49 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Stennis, Mrs. John C.,</unittitle>
+            <unitdate>1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Stuart, Jesse,</unittitle>
+            <unitdate>1937</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Sutcliffe, Denham and Priscilla,</unittitle>
+            <unitdate>1947-49 (5)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Tate, Allen,</unittitle>
+            <unitdate>1940 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Topp, Mildred S.,</unittitle>
+            <unitdate>1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Tucker, Carol,</unittitle>
+            <unitdate>1957-58, 1960-61 (16 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Tyre, Nedra,</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Walker, S.,</unittitle>
+            <unitdate>1959, 1961 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Wenning, Henry W.,</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Wheatley, Elizabeth,</unittitle>
+            <unitdate>1954-55, 1957, 1959, 1961 (7 rec&#8217;d, 2 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Wigginton, Matt S.,</unittitle>
+            <unitdate>1961 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Wilbur, Lorraine,</unittitle>
+            <unitdate>1957 (1 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Wildman, John,</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Williams, Paul Wightman,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Willison, John, 1956,</unittitle>
+            <unitdate>1959-61 (4 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Woodbury, Lou,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Sender/recipient not fully identified -- nd,</unittitle>
+            <unitdate>1943, 1948, 1954-59, 1961 (18 rec&#8217;d and 7 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Sender not fully identified -- Gifford ?,</unittitle>
+            <unitdate>nd 1940 (4)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Greeting cards, announcements, and invitations,</unittitle>
+            <unitdate>nd, 1955-57, 1960-61 (46)</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series III: Journals and Daybooks</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Journals (5 volumes total)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unitdate>22 June 1933 - 9 February 1934 (3 vol)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unitdate>29 April 1938 - 10 October 1938</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unitdate>December 1939 - 1940</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Daybooks (27 volumes total)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unitdate>1932-36 -- Five-year book</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unitdate>1934</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unitdate>1937-40 (4 vol)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unitdate>1942-45 (4 vol)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Daybooks (27 volumes total) (cont&#8217;d)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unitdate>1946-61 (17 vol)</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series IV: Writings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>
+              <title render="underline">Articles</title>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Dissociation of Sensibility in the Lyric Poems of the Restoration,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Dr. Donne, Dr. Johnson, and the Moderns,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Expressionistic Drama,&#8221;
+                <title render="underline">Books Abroad</title>
+              </unittitle>
+              <unitdate>Summer 1935</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Fiction and &#8216;The Cause,&#8217;&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;John Skelton and the Lyric in English,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Keats from the Modern Point of View,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Looking Down the Cotton Row,&#8221;
+                <title render="underline">The American Review</title>,</unittitle>
+              <unitdate>April 1936</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Newest American Poets: 1947,&#8221;
+                <title render="underline">Voices</title>,</unittitle>
+              <unitdate>Summer 1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;A Note on the Mysticism of Jones Very,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Objectivity in Modern Poetry,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Parallels: Donne, Webster, Eliot,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;The Poetry of Edmund Waller,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;T.S. Eliot,&#8221;
+                <title render="underline">Harvard Advocate</title>,</unittitle>
+              <unitdate>December 1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;The Tenant Farmer in the South&#8221;
+                <title render="underline">American Review</title>,</unittitle>
+              <unitdate>April 1935</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Lectures</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Contemporary Regionalism in American Fiction,&#8221;</unittitle>
+              <unitdate>April 1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Fiction and &#8216;The Cause,&#8216;&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Seeing and Not Seeing -- Knowing and Not Knowing,&#8221;</unittitle>
+              <unitdate>20 April 1941</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Some Random Notes on the Short Story,&#8221;</unittitle>
+              <unitdate>18 February 1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Somerset Maugham,&#8221;</unittitle>
+              <unitdate>25 October 1944</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;The Teaching of Poetry,&#8221;</unittitle>
+              <unitdate>26 January 1948</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Abstract of Master&#8217;s Thesis, &#8220;Tragedy and Christopher Marlowe,&#8221;
+                <title render="underline">Bulletin of Vanderbilt University</title>
+              </unittitle>
+              <unitdate>1 August 1940</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Letter to the editor, Sewanee Review</unittitle>
+              <unitdate>31 May 1943</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Proposal for a scholarly monograph to be called &#8220;The Estate of Modern Poetry,&#8221;</unittitle>
+              <unitdate>1951</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>
+              <title render="underline">Novels (proposed)</title>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;No More My Lady,&#8221; nd (notes, partial manuscript)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <unittitle>&#8220;Refuge,&#8221; nd (notes, partial manuscript) (2f)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>
+              <title render="underline">Plays</title>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>&#8220;Backwater: A One-Act Play of the Delta Country,&#8221;</unittitle>
+              <unitdate>1933 (typescript, unpublished)</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>
+              <title render="underline">Poetry</title>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Manuscript</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>Loose sheets,</unittitle>
+                <unitdate>nd (1f)</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>Notebooks,</unittitle>
+                <unitdate>1934-43, 1939-48, 1947-49, 1957, 1960-61 (7 vol)</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Typescript (1f)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Published, Folder One:</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Ancestor,&#8221;
+                  <title render="underline">Southern Review</title>
+                </unittitle>
+                <unitdate>July 1935</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Ancestral,&#8221;
+                  <title render="underline">Poetry</title>
+                </unittitle>
+                <unitdate>January 1936</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Before Dark,&#8221;
+                  <title render="underline">Virginia Quarterly Review</title>
+                </unittitle>
+                <unitdate>Winter 1937</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Commencement Oration,&#8221;
+                  <title render="underline">Poetry</title>
+                </unittitle>
+                <unitdate>September 1936</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Descent of Leaf,&#8221;
+                  <title render="underline">Poetry</title>
+                </unittitle>
+                <unitdate>September 1936</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Divine Majority,&#8221;
+                  <title render="underline">The Observer</title>, vol. II, no. 2</unittitle>
+                <unitdate>(nd)</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Dream at Noon,&#8221;
+                  <title render="underline">Harper&#8217;s Bazaar</title>,</unittitle>
+                <unitdate>November 1941</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Elegie,&#8221;
+                  <title render="underline">Mississippi Verse</title>, Chapel Hill: University of North Carolina Press,</unittitle>
+                <unitdate>1934</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Elegy for Time,&#8221;
+                  <title render="underline">River: A Magazine in the Deep South</title>
+                </unittitle>
+                <unitdate>April 1937</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Elizabeth,&#8221;
+                  <title render="underline">Southwestern Journal</title>
+                </unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;The Hound That Hunts No More,&#8221;
+                  <title render="underline">Harper&#8217;s Bazaar</title>
+                </unittitle>
+                <unitdate>June 1940</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Inscription for the Tomb of a Musician,&#8221;
+                  <title render="underline">Oxford Magazine</title>
+                </unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Lasting Covers,&#8221;
+                  <title render="underline">Talisman 2</title>
+                </unittitle>
+                <unitdate>Winter 1952</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Lullaby for a Metaphysical Baby,&#8221;
+                  <title render="underline">Mademoiselle</title>
+                </unittitle>
+                <unitdate>July 1947</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Nocturne II&#8221;,
+                  <title render="underline">Kosmos</title>
+                </unittitle>
+                <unitdate>May-June 1934</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;On Seeing the Statue of Jefferson Davis Before the Capitol, Montgomery, Alabama,&#8221; publication unknown,</unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Plain Statement,&#8221;
+                  <title render="underline">Sewanee Review</title>
+                </unittitle>
+                <unitdate>Winter 1943</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Prothalamion,&#8221;
+                  <title render="underline">Hika</title>
+                </unittitle>
+                <unitdate>May 1940 (3 copies)</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Retraction,&#8221;
+                  <title render="underline">New Yorker</title>
+                </unittitle>
+                <unitdate>20 May 1944</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Return: In Memoriam M.B. O&#8217;D. ob. MCMXXV,&#8221;
+                  <title render="underline">Southern Review</title>
+                </unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;The Rivals of My Watch,&#8221;
+                  <title render="underline">Alcestis</title>
+                </unittitle>
+                <unitdate>April 1935</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Savage Province,&#8221;
+                  <title render="underline">Sewanee Review</title>
+                </unittitle>
+                <unitdate>Winter 1943</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Semmes in the Garden,&#8221;
+                  <title render="underline">New Yorker</title>
+                </unittitle>
+                <unitdate>16 September 1939</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Song: To Exiled Art,&#8221;
+                  <title render="underline">The Nation</title>
+                </unittitle>
+                <unitdate>10 February 1940</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>
+                  <title render="underline">Southwestern Journal</title>
+                </unittitle>
+                <unitdate>December 1934</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Such Rest in Bed&#8221;</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Bishop&#8217;s Gambit&#8221;</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>
+                  <title render="underline">Southwestern Journal</title>
+                </unittitle>
+                <unitdate>December 1934 (cont&#8217;d)</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Nor Wisdom in the Grave&#8221;</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;To a Virgin Rocking on the Veranda in Spring&#8221;</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Talk of Friends&#8221; and &#8220;In the Language of the Polished Leaves,&#8221;
+                  <title render="underline">Poetry</title>
+                </unittitle>
+                <unitdate>May 1938</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;These Fragments,&#8221;
+                  <title render="underline">Sewanee Review</title>
+                </unittitle>
+                <unitdate>April-June 1935</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Three Songs,&#8221;
+                  <title render="underline">Hika</title>
+                </unittitle>
+                <unitdate>December 1938</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Time&#8217;s Well,&#8221;
+                  <title render="underline">A Southern Vanguard</title>
+                </unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;The Treacherous Brook,&#8221;
+                  <title render="underline">Tomorrow</title>
+                </unittitle>
+                <unitdate>August 1945</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;The Wings of Plaster Angels&#8221; and &#8220;Prayer Against the Furies,&#8221;
+                  <title render="underline">Virginia Quarterly Review</title>
+                </unittitle>
+                <unitdate>Winter 1938</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Winter Meeting,&#8221;
+                  <title render="underline">Harper&#8217;s Bazaar</title>
+                </unittitle>
+                <unitdate>1 September 1941</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Reviews by George M. O&#8217;Donnell,</unittitle>
+              <unitdate>1938-40, 1947, 1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Reviews of George M. O&#8217;Donnell&#8217;s work, 1941,</unittitle>
+              <unitdate>1947-48</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Reviews -- scrapbook -- both by and about,</unittitle>
+              <unitdate>c. 1930s-50s</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Stories</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Encounter in Vicksburg,&#8221;</unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Friends in New York,&#8221;</unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;Lost Travelers,&#8221;</unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">4</container>
+                <unittitle>&#8220;The Trigger,&#8221;</unittitle>
+                <unitdate>nd</unitdate>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series V: Notes</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Notes, Courses Taken</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>English drama to 19642</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>German, history, unidentified (from one notebook)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <unittitle>Romantic Poetry</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Notes, Courses Taught</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English Aa and Ab,</unittitle>
+              <unitdate>1946</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 20</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 55/56</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 111 -- Speech and Writing</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 112 -- Speech and Writing</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 163 -- Creative Writing</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 202</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 208</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 211 -- The Greek Adjustment</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 211 -- Human Understanding</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 212 -- Art Through the Ages</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 212 -- Medieval Synthesis</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 213 -- Expression of Beauty</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 213 -- Modern Temper</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 311 -- Understanding of Man</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 314/15 -- Modern Literature</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 315 -- Modern Literature</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 316 -- Modern Literature</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <unittitle>English 317/319 -- Modern Poetry</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Notes, Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Notes, Miscellaneous -- Plans for a symposium on poetry and tradition by the Southern Group,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series VI: Collected writings/publications</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">American Spectator</title>
+            </unittitle>
+            <unitdate>July 1935</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Brown, Wendell H., &#8220;The Basic Structure of the English Language,&#8221;</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Bywater, Ingram, trans.,
+              <title render="underline">Aristotle on the Art of Poetry</title>
+            </unittitle>
+            <unitdate>1931</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Clay, Landon T., &#8220;The Immaturity of Saroyan,&#8221;</unittitle>
+            <unitdate>1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">Iconograph</title>, no. 1</unittitle>
+            <unitdate>Spring 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Jackson, Elizabeth, &#8220;Poetry and Poppycock,&#8221;</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Jevons, W. Stanley,
+              <title render="underline">Elementary Lessons in Logic</title>
+            </unittitle>
+            <unitdate>1882</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Leatherman, LeRoy, &#8220;The Sportsman,&#8221;</unittitle>
+            <unitdate>1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Matthieson, F.O., &#8220;Introduction,&#8221;
+              <title render="underline">The Oxford Book of American Verse</title>, offprint,</unittitle>
+            <unitdate>1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Merritt, Charles W., &#8220;Moral Law Portrayed by Aeschylus, Sophocles, and Euripides,&#8221;</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">New Yorker</title>
+            </unittitle>
+            <unitdate>20 May 1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">Oglethorpe Literary Magazine</title>
+            </unittitle>
+            <unitdate>1956-57</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Pfeiffer, Dagobert, &#8220;Exploring the River Banks,&#8221;</unittitle>
+            <unitdate>1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Poetry, various authors,</unittitle>
+            <unitdate>nd, 1940, 1949, 1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Porter, Katherine Anne, &#8220;Noon Wine,&#8221;
+              <title render="underline">Story</title>
+            </unittitle>
+            <unitdate>June 1937</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">Saturday Review of Literature</title>
+            </unittitle>
+            <unitdate>19 March 1949</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Stewart, Randall, &#8220;On the Meaning of Vanderbilt,&#8221;</unittitle>
+            <unitdate>1959</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">Stormy Petrel</title>
+              (Oglethorpe University),</unittitle>
+            <unitdate>24 February 1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Sutcliffe, Denham, &#8220;W-S-Ow-R-W,&#8221;</unittitle>
+            <unitdate>1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Tate, Allen -- two poems, typescript,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Thomas, Richard A., &#8220;Amiel&#8217;s Portrait of a Poet,&#8221;</unittitle>
+            <unitdate>1936</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">Time</title>
+            </unittitle>
+            <unitdate>8 August 1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <title render="underline">Yale News</title>
+            </unittitle>
+            <unitdate>23 April 1958</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series VII: Clippings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Clippings,</unittitle>
+            <unitdate>c. 1940s-50s (2f)</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series VIII: Miscellany</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Miscellany</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Miscellany -- Address book</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Miscellany -- Creative and performing arts memorabilia</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Miscellany -- Recordings (3 albums)</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>Allen Tate reading his poems &#8220;The Mediterranean&#8221; and &#8220;The Cross,&#8221;</unittitle>
+              <unitdate>1937</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>George M. O&#8217;Donnell reading &#8220;That Day&#8221; and &#8220;Her Distress,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <unittitle>George M. O&#8217;Donnell reading &#8220;Mask of Christ&#8221; and &#8220;Descent of Leaf,&#8221;</unittitle>
+              <unitdate>1941</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series IX: Photographs</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>O&#8217;Donnell, George M.,</unittitle>
+            <unitdate>c. 1914-20, 1929, 1937, 1940, 1947, 1950, 1960-61 (21 items)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Family,</unittitle>
+            <unitdate>c. 1870s-1920s (10 album pages, 45 loose photographs</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Family -- Tintypes -- c. 1860s-70s (7 items total; 3 are painted)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>from:
+              <title render="underline">Puritan Village</title>, by Sumner C. Powell,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series X: Gordon Roysce Smith, Jr.</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Biographical and personal,</unittitle>
+            <unitdate>1944, 1962-63</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>
+              <title render="underline">Correspondence:</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Alabama Polytechnic Institute (Auburn),</unittitle>
+            <unitdate>1942</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Ames, Elizabeth,</unittitle>
+            <unitdate>1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Atlanta Graphic Arts Center,</unittitle>
+            <unitdate>1949</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Barton, Craig,</unittitle>
+            <unitdate>1964, 1966-67 (4)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Berg, Norman,</unittitle>
+            <unitdate>1957, 1960 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Bewley,</unittitle>
+            <unitdate>Marcus, 1947</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Brown, Wendell and Eve,</unittitle>
+            <unitdate>1957, 1960, 1962-64 (6)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Butler, John,</unittitle>
+            <unitdate>nd, 1944, 1947 (3)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Censorship, Georgia,</unittitle>
+            <unitdate>1953 (5 rec&#8217;d and 3 sent, plus 17 other items)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Cerf, Bennett,</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Chaney, Bev, Jr.,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Cohen, Barbara,</unittitle>
+            <unitdate>1954, 1957-58 (5)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Cooper, Marie,</unittitle>
+            <unitdate>nd, 1947-48 (4)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Cox, Chap,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Crane, Vernon,</unittitle>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Crosby, Caresse,</unittitle>
+            <unitdate>1947, 1949 (2 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Crosby, Midlred,</unittitle>
+            <unitdate>1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Davidson, Martha,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>DeBoer, Bernhard,</unittitle>
+            <unitdate>1951-52, 1954 (5)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Dempsey, John,</unittitle>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>East, Charles,</unittitle>
+            <unitdate>1963, 1971 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Emory University Alumni Association,</unittitle>
+            <unitdate>1942 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Falck-Baranan, Marianne,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Fry, Beatrice,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Funeral arrangements, George M. O&#8217;Donnell,</unittitle>
+            <unitdate>1962 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Fryxell, Lucy,</unittitle>
+            <unitdate>1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Greenberg, Clem,</unittitle>
+            <unitdate>1947-50, 1952, 1954, 1960, 1962, 1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>(32 rec&#8217;d and 2 sent)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Haffenden, John,</unittitle>
+            <unitdate>1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Halpern, Maizie,</unittitle>
+            <unitdate>1954, 1956-57 (5)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Hays, Marguerite,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Herrington, Lillian N.,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Box 6 (cont&#8217;d): Series X -- Gordon Roysce Smith, Jr. (cont&#8217;d)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Correspondence (cont&#8217;d):</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Hobart, Alice Tisdale,</unittitle>
+            <unitdate>1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Hoepfner, Ted,</unittitle>
+            <unitdate>1944-45 (4)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Hoyleman, Merle,</unittitle>
+            <unitdate>1950, 1962-65, 1976 (9)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Jones, Ibbie,</unittitle>
+            <unitdate>1944-47 (14)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Kappa Sigma,</unittitle>
+            <unitdate>1944-45 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Kirby, T.A.,</unittitle>
+            <unitdate>1949</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Koch, Frederick,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Lawrence, Seymour,</unittitle>
+            <unitdate>1961-62 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Leatherman, LeRoy,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Levin, Hilda Cohen,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Logan Middie,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Lowe, Harry,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Lyons, Rebie,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>McDonough, Richard P.,</unittitle>
+            <unitdate>1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>McDowell, David,</unittitle>
+            <unitdate>1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>McGehee, Edward,</unittitle>
+            <unitdate>1945, 1947-48 (6)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>McLellan, Pearl,</unittitle>
+            <unitdate>1949, 1962-63 (6)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Montesi, Al,</unittitle>
+            <unitdate>1962 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Morgan, Elliott,</unittitle>
+            <unitdate>1947, 1949, 1959, 1963-64 (5)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>National Association of College Stores,</unittitle>
+            <unitdate>1958-59 (6)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>National Association of College Stores,</unittitle>
+            <unitdate>1965 (19 rec&#8217;d and 7 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>O&#8217;Donnell, George Marion,</unittitle>
+            <unitdate>nd, 1944-45 (173) (4f)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Correspondence (cont&#8217;d):</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Packer, Herbert,</unittitle>
+            <unitdate>1946, 1951, 1954 (14)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Palmer, Harriet Smith,</unittitle>
+            <unitdate>1946-47, 1962 (4)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Paroissien, H.F.,</unittitle>
+            <unitdate>nd, 1951-57, 1960 (15)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Phillips, A.,</unittitle>
+            <unitdate>1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Pollock, Charles,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Posters (3f)</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unitdate>nd, 1967-68 (3)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Invoices,</unittitle>
+              <unitdate>1967-68</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Brochures, Catalogues,</unittitle>
+              <unitdate>1967-68</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>
+              <title render="underline">Publisher&#8217;s Weekly</title>
+            </unittitle>
+            <unitdate>1956 (1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Rawls, June,</unittitle>
+            <unitdate>1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Scotland (Book trade),</unittitle>
+            <unitdate>1970 (3 rec&#8217;d and 19 enclosures)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Shinn, John,</unittitle>
+            <unitdate>nd, 1944-45 (3)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Correspondence (cont&#8217;d):</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Smith, Dr. and Mrs. Gordon R.,</unittitle>
+            <unitdate>1944-49, 1959-62 (12 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Smith, Mildred C.,</unittitle>
+            <unitdate>1953 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Smith, Roger,</unittitle>
+            <unitdate>1964</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Smith, Sarah T.,</unittitle>
+            <unitdate>1944</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Sorum, R.E.,</unittitle>
+            <unitdate>1946-48, 1952, 1957, 1959 (10)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Strand, Mark,</unittitle>
+            <unitdate>nd, 1964 (6)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Sullivan, Mrs.,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Sutcliffe, Priscilla,</unittitle>
+            <unitdate>1946-49, 1952, 1964 (9 rec&#8217;d and 1 sent)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>
+              <title render="underline">The Tiger&#8217;s Eye</title>
+            </unittitle>
+            <unitdate>1948 (3)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Topp, Mildred,</unittitle>
+            <unitdate>1950, 1962 (5)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Tucker, Carol,</unittitle>
+            <unitdate>1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Turner E. Smith &#38; Co.,</unittitle>
+            <unitdate>1949</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Tyre, Nedra,</unittitle>
+            <unitdate>1954 (3)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Washington University, St. Louis,</unittitle>
+            <unitdate>1971 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Weber, Olga S.,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Wildman, John,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Williams, Mrs. T.H.,</unittitle>
+            <unitdate>1945 (2)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Willison, John,</unittitle>
+            <unitdate>1962-63 (4)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Willoughby, C.L.,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Witzel, Edward J.,</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Woodbury, Lee,</unittitle>
+            <unitdate>1962</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Yerkes, Bill,</unittitle>
+            <unitdate>1945</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Zalewski, Steve,</unittitle>
+            <unitdate>1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Sender not identified,</unittitle>
+            <unitdate>nd, 1945, 1957, 1960, 1962-63, 1971 (11)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Greeting cards, announcements, invitations,</unittitle>
+            <unitdate>1944, 1958, 1962, 1965, nd (37 items)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Writings, Published or Presented</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Being Arbitrary: The Opinionated Man,&#8221;</unittitle>
+              <unitdate>1970</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Dupes for Whom?&#8221; National Association of College Stores,</unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Paperbackground,&#8221; National Association of College Stores,</unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Poetry,</unittitle>
+              <unitdate>1948-49, 1952</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Writings, Unpublished</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Poetry,</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Prose,</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Drawings,</unittitle>
+            <unitdate>nd (3f)</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Calendars,</unittitle>
+            <unitdate>1962-63, 1965-66, 1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Notes, Miscellaneous,</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Collected writings/publications</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Banks, J. Richard, various poems,</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Dembo, L.S, &#8220;Norman Holmes Pearson on H.D.: An Interview,&#8221;</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>
+                <title render="underline">Contemporary Literature Autumn</title>
+              </unittitle>
+              <unitdate>1969</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>
+                <title render="underline">The Faulkner Newsletter</title>
+              </unittitle>
+              <unitdate>1981-82 (8 issues)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Hoyleman, Merle, Letters from Christopher, excerpts,</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Nash, Ogden, &#8220;The Seven Spiritual Ages of Mrs. Marmaduke</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Moore,&#8221; copied and illustrated by G. Roysce Smith, Jr.,</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Shavzin, Alan, &#8220;A Day at the Zoo,&#8221;</unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Sutcliffe, Priscilla, &#8220;Bobby Birthdaybird&#8217;s Trip,&#8221;</unittitle>
+              <unitdate>nd</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>
+                <title render="underline">Yale News</title>
+              </unittitle>
+              <unitdate>26 May 1960</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Clippings</unittitle>
+            <unitdate>1960s</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Clippings -- Censorship in Georgia</unittitle>
+            <unitdate>1953</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Miscellany</unittitle>
+            <unitdate>nd</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Photographs -- pictures of Smith, pictures of booksellers conventions, 1 8x10 of Charles M. Schulz signing books and 1 4&#215;5 negative of Cleanth Brooks signing books (68 items total)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series XI: Oversize</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>George Marion O&#8217;Donnell</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Miscellany -- Poster announcing GMOD reading from his own work, 4/17/46, Harvard University</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Unidentified -- one white man, two white women, and one African-American woman</unittitle>
+              <unitdate>c. 1860s or 1870s</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;The Big Four,&#8221; -- two men and women</unittitle>
+              <unitdate>c. 1910s</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;A bedroom at Stronghold, Greenwood, Mississippi,&#8221;</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unitdate>12 December 1948</unitdate>
+            <unittitle>photograph by John Butler</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Pearl McLellan, mistress of Stronghold . . .&#8221;</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>12 December 1948; photograph by John Butler</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Stronghold, Greenwood, Mississippi</unittitle>
+              <unitdate>12 December 1948</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>Built in 1847. Architecture, Greek revival.&#8221;</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>Photograph by John Butler.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Albums (7 total)</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>c. 1890s-1920s, [family ?], (2 albums)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>Red cover, GMOD and friends</unittitle>
+                <unitdate>1930s</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>Green cover, GMOD and friends</unittitle>
+                <unitdate>1934-37</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>Blue cover, GMOD and friends</unittitle>
+                <unitdate>1938-39</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="box">7</container>
+                <unittitle>Blue scrapbook, mostly clippings, entitled &#8220;Phenomena in the Arts,&#8221;</unittitle>
+                <unitdate>c. 1930s</unitdate>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Gordon Roysce Smith, Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Two sketch books</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Collected writings/publications:
+              <title render="underline">Life: John F. Kennedy Memorial Edition</title>
+            </unittitle>
+            <unitdate>1963</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Miscellany</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Certificate naming Smith to Connecticut&#8217;s &#8220;Standards of Decency&#8221; commission</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Sketch by Bill Moulan</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>Movie posters</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Badman&#8217;s Gold&#8221;</unittitle>
+              <unitdate>(1951)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Blazing Six Shooters&#8221;</unittitle>
+              <unitdate>(nd)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Bury the Living&#8221;</unittitle>
+              <unitdate>(1957)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;The Disorderly Orderly&#8221;</unittitle>
+              <unitdate>(1964)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;East of Eden,&#8221; six different posters</unittitle>
+              <unitdate>(1955)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Godzilla vs. The Thing&#8221;</unittitle>
+              <unitdate>(1964)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Hercules&#8221;</unittitle>
+              <unitdate>(1959)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;Nightmare&#8221;</unittitle>
+              <unitdate>(1956)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;The Sniper&#8221;</unittitle>
+              <unitdate>(1952)</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <unittitle>&#8220;The Women of Pitcairn Island&#8221;</unittitle>
+              <unitdate>(1956)</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
