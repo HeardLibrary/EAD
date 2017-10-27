@@ -1,0 +1,3328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="EAD.xsl"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Stewart, Randall Papers</titleproper>
+        <titleproper>Finding Aid for the Randall Stewart Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Randall Stewart Papers</unittitle>
+      <unitid>MSS.0420</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.26 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Randall Stewart: A Chronology</head>
+      <chronlist>
+        <chronitem>
+          <date>1896.</date>
+          <event>Born in Fayetteville, Tennessee, July 25.</event>
+        </chronitem>
+        <chronitem>
+          <date>1898.</date>
+          <event>His family moved to Nashville where he grew up and was educated.</event>
+        </chronitem>
+        <chronitem>
+          <date>1917.</date>
+          <event>Was graduated from Vanderbilt University as Founder&#8217;s Medalist.</event>
+        </chronitem>
+        <chronitem>
+          <date>1917-1920.</date>
+          <event>Instructor of English at the University of Oklahoma.</event>
+        </chronitem>
+        <chronitem>
+          <date>1918.</date>
+          <event>Served briefly in the armed forces.</event>
+        </chronitem>
+        <chronitem>
+          <date>1920.</date>
+          <event>Married Cleone Odell in Oklahoma City.</event>
+        </chronitem>
+        <chronitem>
+          <date>1921.</date>
+          <event>Awarded master of arts degree by Harvard University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1921-1922.</date>
+          <event>Instructor, U. S. Naval Academy.</event>
+        </chronitem>
+        <chronitem>
+          <date>1922-1925.</date>
+          <event>Assistant Professor, University of Idaho.</event>
+        </chronitem>
+        <chronitem>
+          <date>1927-1931.</date>
+          <event>Instructor, Yale University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1930.</date>
+          <event>Awarded doctor of philosophy degree by Yale.</event>
+        </chronitem>
+        <chronitem>
+          <date>1931-1934.</date>
+          <event>Assistant Professor, Yale.</event>
+        </chronitem>
+        <chronitem>
+          <date>1932-1939.</date>
+          <event>Associate Editor,
+            <emph render="underline">New England Quarterly</emph>.</event>
+        </chronitem>
+        <chronitem>
+          <date>1934-1937.</date>
+          <event>Professor, Vanderbilt.</event>
+        </chronitem>
+        <chronitem>
+          <date>1937-1955.</date>
+          <event>Professor, Brown University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1943.</date>
+          <event>Guggenheim Fellow.</event>
+        </chronitem>
+        <chronitem>
+          <date>1947-1948.</date>
+          <event>Visiting Professor, Yale University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1949-1950.</date>
+          <event>Chairman, Department of English, Brown.</event>
+        </chronitem>
+        <chronitem>
+          <date>1949-1950.</date>
+          <event>Visiting Professor, Connecticut College.</event>
+        </chronitem>
+        <chronitem>
+          <date>1951.</date>
+          <event>Chairman, American Literature Group, Modern Language Association.</event>
+        </chronitem>
+        <chronitem>
+          <date>1955-1963.</date>
+          <event>Professor of English and Chairman, Department of English, Vanderbilt University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1956.</date>
+          <event>Fugitive Reunion.</event>
+        </chronitem>
+        <chronitem>
+          <date>1958.</date>
+          <event>Mrs. Harold S. Vanderbilt Literary Symposium established.</event>
+        </chronitem>
+        <chronitem>
+          <date>1963-1964.</date>
+          <event>Professor, Vanderbilt.</event>
+        </chronitem>
+        <chronitem>
+          <date>1964.</date>
+          <event>Died June 17.</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Box and Folder Listing</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1-18</container>
+            <unittitle>Correspondence-Outgoing. Letters are chronologically arranged. Nov. 23, 1955 to Oct. 1, 1959. Undated placed at end. See Index to Outgoing Correspondence.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19-48</container>
+            <unittitle>Correspondence-Incoming. Chronologically arranged. March 2, 1932 - Dec. 4, 1967. Undated. See Index to Incoming Correspondence.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">49</container>
+            <unittitle>Fugitive Reunion Arrangements - Miscellaneous.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">50</container>
+            <unittitle>Calendars of Events and Guest List, Fugitive Reunion.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">51</container>
+            <unittitle>Fugitive Finances. Vouchers, financial statements regarding the handling of finances for the Fugitive Reunion.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">52</container>
+            <unittitle>Fugitive Conference Dinner Programs enclosed in Harvie Branscomb letter,</unittitle>
+            <unitdate>May 8, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">53-55</container>
+            <unittitle>Fugitive Conference Clippings</unittitle>
+            <unitdate>Jan 2.0 to June, 1956. Undated.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">56-57</container>
+            <unittitle>Fugitive Reunion Photos Taken by Merrill Moore.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">58</container>
+            <unittitle>Book Reviews - Pertaining to R. C. Beatty&#8217;s column.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">59</container>
+            <unittitle>Stewart&#8217;s Class Roll Books</unittitle>
+            <unitdate>For years 1947, 1955, 1956, 1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">60</container>
+            <unittitle>Articles about Stewart - Two.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">61</container>
+            <unittitle>Pamphlets.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">62</container>
+            <unittitle>One photograph of Donald Davidson effigy.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">63</container>
+            <unittitle>Miscellaneous - mainly mailing lists.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>SUPPLEMENTARY DESCRIPTION</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>The following describes Randall Stewart&#8217;s papers as they were arranged by topic in Dr. Stewart&#8217;s files. Letters, both incoming and outgoing, were stapled together by subject. Arrangement was roughly chronological.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>List of Topics In Stewart Collection</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Arrangements of Fugitive Reunion, Correspondence. Covers period from</unittitle>
+            <unitdate>Oct. 21, 1955 to April 26, 1956. Undated.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fugitive Reunion Arrangements - Miscellaneous. Consisting of calendar of events, newspaper clippings, list of guests, holograph notes of Merrill Moore&#8217;s suggestions, Vanderbilt Calendar.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fugitive Finances - Consisting of vouchers, financial statements, and letters regarding the handling of finances for the Fugitive Reunion. Letters from</unittitle>
+            <unitdate>March, 1956-May, 1957. Undated.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fugitive Conference: Results - Correspondence dealing with conference.</unittitle>
+            <unitdate>1955-1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fugitive Conference: Results - Clippings.</unittitle>
+            <unitdate>April 28, 1956-May 4, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Calendar and Guest List.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Publishing Fugitive Conference (and matters related to Fugitives, Pictures, and Books) Correspondence.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fugitive Reunion Photographs - Taken by Merrill Moore.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fugitive Conference - Clippings. Arranged chronologically.</unittitle>
+            <unitdate>Undated.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart Correspondence Relating to Non-Fugitive Matters.</unittitle>
+            <unitdate>April, 1956-April, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Correspondence with Richmond C. Beatty.</unittitle>
+            <unitdate>Feb., 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Syndication of Beatty&#8217;s literary column in the
+              <emph render="underline">Nashville Tennessean</emph>. Correspondence</unittitle>
+            <unitdate>1956-1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Supplementary Description - page 2 Book reviews written by Beatty.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Allen Tate Proposal - Correspondence concerns proposal to Fugitive Memorial Professorship.</unittitle>
+            <unitdate>July-Oct., 1959.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Miscellaneous Correspondence.</unittitle>
+            <unitdate>March 2, 1932-Dec. 4, 1967.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Class Roll Books</unittitle>
+            <unitdate>Five for years 1947, 1955, 1956, 1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Articles About Stewart.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pamphlets belonging to Stewart.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Photograph of Davidson effigy.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>ALPHABETICAL LIST OF INCOMING CORRESPONDENTS RANDALL STEWART COLLECTION</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Partial names are listed at the end. Folder indicated by
+              <emph render="underline">F</emph>.</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>Adams, Dick</unittitle>
+              <unitdate>May 1, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Amacher, Anne</unittitle>
+              <unitdate>May 13, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 17, 1957. F 40.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Anderson, Charles R.</unittitle>
+              <unitdate>May 4, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Baker, Carlos</unittitle>
+              <unitdate>May 8, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Beatty, Richmond C.</unittitle>
+              <unitdate>Feb. 5, 1957. F 40.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 23, 1957. F 40.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Bethurum, Dorothy</unittitle>
+              <unitdate>March 12, 1956. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 16, 1956. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 13, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 3, 1956. F 37.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Nov. 19, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 21, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 8, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 1, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 13, 1956 to Henry Luce. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 28, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 9, 1956 to Ransom. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Blanchard, Harold H.</unittitle>
+              <unitdate>May 8, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Bradley, Sculley</unittitle>
+              <unitdate>May 22, 1956. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>May 28, 1956. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 12, 1956. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 13, 1956 to Willard Thorp. F 38</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 26, 1956 to John Marshall. F 38</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>July 10, 1956 to John Marshall. F 38</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 10, 1957. F 41.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Breis, Harvey</unittitle>
+              <unitdate>April 30, 1956. F 32.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Brooks, Cleanth</unittitle>
+              <unitdate>Nov. 10, 1955. F 21.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 16, 1956. F 24.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 18, 1956. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Brown, Francis</unittitle>
+              <unitdate>Sept. 13, 1957. F 41.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Caesar, Kathleen</unittitle>
+              <unitdate>Feb. 5, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Carmichael, Oliver C,</unittitle>
+              <unitdate>May 31, 1956. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Cheney, Fannie</unittitle>
+              <unitdate>Feb. 21, 1956. F 25.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Cobb, William C.</unittitle>
+              <unitdate>Jan. 5, 1956. F 22.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 12, 1956. F 23.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 12, 1956 to Robert McGaw. F 23.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 28, 1956. F 25.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 14, 1956. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 13, 1956. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 15, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 15, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate></unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Coffin, Charles M.</unittitle>
+              <unitdate>May 7, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Cohen, Barbara</unittitle>
+              <unitdate>April 8, 1956 to Robert McGaw. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Copeland, Edith</unittitle>
+              <unitdate>Oct. 9, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Cowan, Louise</unittitle>
+              <unitdate>Nov. 21, 1957. F 43. n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Cunningham, James V.</unittitle>
+              <unitdate>May 11, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Daley, Elizabeth Gill</unittitle>
+              <unitdate>May 30, n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Davidson, Donald</unittitle>
+              <unitdate>May 11, 1956 to Dr. A. F. Kuhlman. 2 copies. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 3, 1956 to Geoffrey Moore. F 37.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Dickey, Hervey</unittitle>
+              <unitdate>May 2, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Drewry, John E.</unittitle>
+              <unitdate>Nov. 26, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Eaton, Vincent L.</unittitle>
+              <unitdate>March 23, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 30, 1956 to Overton Williams. F 28.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Oct. 24, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Ellegood, Donald</unittitle>
+              <unitdate>March 18, 1958 to Donald Davidson. F 45.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 25, 1958. F 45.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Elliott, William Y.</unittitle>
+              <unitdate>Nov. 25, 1955. F 21.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 27, 1956. F 25.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 27, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 30, 1956. F 28.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 20, 1956. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dec. 3, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Emerson, O. B.</unittitle>
+              <unitdate>April 30, 1956. F 32.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Faulkner, Claude W.</unittitle>
+              <unitdate>May 4, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Faverty, Fred.</unittitle>
+              <unitdate>May 7, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Foster, Elizabeth</unittitle>
+              <unitdate>May 1, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Gerber, John C.</unittitle>
+              <unitdate>Jan. 2, 1962. F 47.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Graf, LeRoy P.</unittitle>
+              <unitdate>May 3, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Halpert, Violet</unittitle>
+              <unitdate>May 9, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Harwell, Coleman</unittitle>
+              <unitdate>Sept. 9, 1957. F. 41.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Sept. 18, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 20, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Hirsch, Goldie</unittitle>
+              <unitdate>Oct. 30, 1955 to Merrill Moore. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Howell, Isabel</unittitle>
+              <unitdate>Feb. 28, 1956. F 25.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Hunter, Anna C.</unittitle>
+              <unitdate>Oct. 7, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Hunting, Robert</unittitle>
+              <unitdate>May 2, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Jackson, William A.</unittitle>
+              <unitdate>April 30, 1956. F 32.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Jacobs, Robert D.</unittitle>
+              <unitdate>March 25, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Kazin, Alfred</unittitle>
+              <unitdate>May 9, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Koller, Kathrine</unittitle>
+              <unitdate>May 8, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Kuhlman, A. F.</unittitle>
+              <unitdate>April 18, 1956 to Donald Davidson-2 copies. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Luce, Henry R.</unittitle>
+              <unitdate>March 17, 1956 to President Branscomb. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Lynn, Justine</unittitle>
+              <unitdate>Feb. 3, 1956. F 24.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 1, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 11, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Lytle, Andrew</unittitle>
+              <unitdate>Nov. 4, 1955. F 21.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 20, 1956. F 25.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate></unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>MacLean, Kenneth</unittitle>
+              <unitdate>May 3, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>March 9, 1956. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 18, 1956. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 24, 1956 to Rubin. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 8, 1956. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 8, 1956. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>July 3, 1956 to Branscomb. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>July 9, 1956. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>July 10, 1956. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dec. 12, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 4, 1957. F 41.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 18, 1957. F 41.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>McGaw, Robert M.</unittitle>
+              <unitdate>Jan. 10, 1956 to William C. Cobb. F23.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 8, 1056 to Jack DeWitt. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 29, 1956 to Ransom, Tate, and Warren. F 28.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 30, 1956 to Caedmon Sales Corp. F 28.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 30, 1956 to Barbara Cohen and Marianne. F 28.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 11, 1956 to Jack DeWitt. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 25, 1956 to Barbara Cohen. F 31.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Moore, Geoffrey</unittitle>
+              <unitdate>Feb. 20, 1957. F 25.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 23, 1956 to Donald Davidson. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>Oct. 27, 1955. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Oct. 29, 1955. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dec. 5, 1955. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 11, 1956 to Harvie Branscomb. F 29</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 17, 1956. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 27, 1956. 2 letters. F 31.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 30, 1956. F 32.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 1, 1956. F 37.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 4, 1956. F 37.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 21, 1957 to Mary O. Abbott. F 40.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Sept. 10, 1957 to Harvie Branscomb. F 41</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Moore, Mrs. Merrill</unittitle>
+              <unitdate>Nov. 25, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 22, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Morison, S. E.</unittitle>
+              <unitdate>March 2, 1932. F 19.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Morrissey, Eleanor F.</unittitle>
+              <unitdate>May 9, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Nesbitt, George</unittitle>
+              <unitdate>May 4, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Owsley, Frank L.</unittitle>
+              <unitdate>March 15, 1956. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Owsley, Harriet C.</unittitle>
+              <unitdate>Nov. 24, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Pearce, Roy</unittitle>
+              <unitdate>Aug. 29, 1956. F 38.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Pearson, Norman H.</unittitle>
+              <unitdate>Jan. 29, 1953. F 19.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate></unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 17, 1956. F 24.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 8, 1956. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Phillips, Bob</unittitle>
+              <unitdate>Jan. 28, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Pomfret, Jack</unittitle>
+              <unitdate>April 26, 1956. F 31.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Purdy, Rob Roy</unittitle>
+              <unitdate>June 21, 1957 to Rubin. F 41.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Ransom, John C.</unittitle>
+              <unitdate>Oct. 29, 1955. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 7, 1956. F 24.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 18, 1956. F 24.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 2, 1956. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 1, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 26, 1956. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 27, 1957. F 40.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Oct. 18, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Nov. 19, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 25, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 3, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 1, n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Rhind, Flora M. (of Rockefeller F.)</unittitle>
+              <unitdate>Oct. 18, 1955 to Robert Spiller. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Rock, Virginia</unittitle>
+              <unitdate>April 4, 1956. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>March 22, 1955 to Huntingdon Cairns. F 19.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 27, 1955 to John Marshall. F 19.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>July 19, 1955 to John Marshall. F 19.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Oct. 10, 1955. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dec. 1, 1955. F 22.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 8, 1956. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 22, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 16, 1956. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 17, 1956. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 24, 1956. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 29, 1956. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 5, 1956. F 37.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Sept. 13, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Sept. 19, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Nov. 29, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dec. 1, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dec. 14, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 10, 1957. F. 40.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June, 6, 1957 to Rob R. Purdy. F 41.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Sept. 23, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Nov. 3, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Nov. 19, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 28, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dec. 8, 1958. F 45.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 2, 1959. F 45.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 3, 1959. F 45.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 13, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate></unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 23, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>n.d. to John Marshall. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Monday. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Spiller, Robert E. Starr, Elizabeth Stevenson, Alec B.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Spiller, Robert E.</unittitle>
+              <unitdate>March 9, 1956. F 26.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Starr, Elizabeth</unittitle>
+              <unitdate>n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Stevenson, Alec B.</unittitle>
+              <unitdate>March 28, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 1, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 9, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Dee. 23, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Stewart, John L.</unittitle>
+              <unitdate>Jan. 21, 1956. F 23.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 30, 1956. F 36.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Sept. 28, 1956. F 39.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Stowe, H. Lloyd</unittitle>
+              <unitdate>March 27, 1957. F 40.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Oct. 27, 1955. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 27, 1956. F 23.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 9, 1956. F 24.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 17, 1956. F 24.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 11, 1956 to Harvie Branscomb. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 18, 1956. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 28, 1956. F 32.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 10, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Oct. 25, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 14, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 15, 1958. F 44.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>July 30, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Aug. 11, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Aug. 29, 1959 to Henry C. Alexander and Benjamin Tate, 2 copies. F 47.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Oct. 2, 1959. F 47.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Taylor, George Rogers</unittitle>
+              <unitdate>March 19, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Taylor, Walter F.</unittitle>
+              <unitdate>May 8, 1956. F 34.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Thompson, E. B.</unittitle>
+              <unitdate>Dec. 6, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Thorp, Willard</unittitle>
+              <unitdate>Oct. 28, 1955. F 20.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Feb. 23, 1956. F 25.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>April 20, 1956. F 30.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>June 5, 1956 to Harvie Branscomb. F 37</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Nov. 18, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Vanderbilt, Harold S.</unittitle>
+              <unitdate>April 26, 1956. F 31.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Wade, John Donald</unittitle>
+              <unitdate>April 10, 1956. F 29.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Ward, John W.</unittitle>
+              <unitdate>April 28, 1956. F 32.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Warren, Robert P.</unittitle>
+              <unitdate>Nov. 19, 1955. F 21.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 27, 1956. F 23.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>March 28, 1956. F 27.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Nov. 8, 1957. F 42.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 4, 1959. F 45.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Jan. 14, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Waterfield, C. A.</unittitle>
+              <unitdate>n.d. F 48.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Weaver, Mrs. Herbert</unittitle>
+              <unitdate>May 9, 1956. F 35.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Whicher, George</unittitle>
+              <unitdate>Oct. 25, 1951. F 19.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Wills, Jesse</unittitle>
+              <unitdate>Nov. 19, 1957. F 43.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>Sept. 28, 1959. F 47.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Wriston, Marguerite</unittitle>
+              <unitdate>Sept. 25, 1958. F 45.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate>May 24, 1959. F 46.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unitdate></unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Dave</unittitle>
+              <unitdate>May 1, 1956. F 33.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Dave and Candace</unittitle>
+              <unitdate>April 30, 1956. F 32.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Ed</unittitle>
+              <unitdate>April 27, 1956. F 31.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Ellene</unittitle>
+              <unitdate>June 6, 1956. F 37.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>George</unittitle>
+              <unitdate>Dec. 4, 1967, to Mrs. Stewart. Possibly George Core. F 47.</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>SUPPLEMENTARY LIST OF CORRESPONDENTS</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>The following pages list the Stewart correspondence as it was topically grouped in Dr. Stewart&#8217;s files. Unlike the original arrangement, however, they are listed alphabetically.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>FUGITIVE REUNION ARRANGEMENTS</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Bethurum, Dorothy</unittitle>
+            <unitdate>March 12, 1956; April 16, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Branscomb, Harvie</unittitle>
+            <unitdate>March 13, 1956 to Henry Luce; March 28, 1956; April 9, 1956 to Ransom.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Brooks, Cleanth</unittitle>
+            <unitdate>Nov. 10, 1955; Feb. 16, 1956; April 18, 1956. Cheney, Fannie - Feb. 21, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cobb, William C. of Rockefeller Foundation</unittitle>
+            <unitdate>Jan. 5, 1956; Jan. 12, 1956; Feb. 28, 1956; Jan. 12, 1956 to Robert McGaw; March 14, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cowan, Louise</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Eaton, Vincent L.</unittitle>
+            <unitdate>March 23, 1956; March 30, 1956 to Overton Williams ; Elliott, William Y. - Nov. 25, 1955; Feb. 27, 1956; March 27, 1956; March 30, 1956; April 20, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hirsch, Goldie</unittitle>
+            <unittitle>Oct. 30, 1955 to Merrill Moore.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Howell, Isabel</unittitle>
+            <unitdate>Feb. 28, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Jacobs, Robert D.</unittitle>
+            <unittitle>March 25, 1956.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Luce, Henry R.</unittitle>
+            <unittitle>March 17, 1956 to President Branscomb.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lytle, Andrew</unittitle>
+            <unittitle>Nov. 4, 1955; Feb. 20, 1956; n-.d.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Marshall, John</unittitle>
+            <unittitle>March 9, 1956; April 18, 1956.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McGaw, Robert M.</unittitle>
+            <unitdate>Jan. 10, 1956 to William C. Cobb; March 29, 1956 to Ransom, Tate, and Warren; March 30, 1956 to Caedmon Sales Corp.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Merrill</unittitle>
+            <unitdate>Oct. 27, 1955; Oct. 29, 1955; n.d.; Dec. 5, 1955; April 11, 1956 to Harvie Branscomb; April 17, 1956; April 27, 1956 - 2 letters.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Owsley, Frank L.</unittitle>
+            <unitdate>March 15, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Peck, Genevieve</unittitle>
+            <unitdate>for Merrill Moore - Feb. 17, 1956; March 8, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ransom, Jchn C.</unittitle>
+            <unitdate>Oct. 29, 1955; Feb. 7, 1956; Feb. 18, 1956; April 2, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rhind, Flora M. of Rockefeller Foundation</unittitle>
+            <unitdate>Oct. 18, 1955 to Robert Spiller.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rubin, Louis D.</unittitle>
+            <unitdate>March 22, 1955 to Huntingdon Cairns; Oct. 10, 1955; March 22, 1956; April 16, 1956; April 17, 1956; April 24, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Spiller, Robert E.</unittitle>
+            <unitdate>March 9, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stevenson, Alec B.</unittitle>
+            <unitdate>May 1, 1956; March 28, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, John L.</unittitle>
+            <unitdate>Jan. 21, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>Nov. 23, 1955 with enclosure of two letters dated Oct. 25, 1955 to Jesse Wills; Jan. 25, 1956 to John C. Ransom; Jan. 25, 1956 to Robert P. Warren; Jan. 25, 1956 to Allen Tate; Jan. 30, 1956 to John L. Stewart; Feb. 14, 1956 to Tate; Feb.
+              14, 1956 to Warren; Feb. 14, 1956 to Andrew Lytle; Feb. 14, 1956 to Cleanth Brooks; Feb. 14, 1956 to Ransom; Feb. 20, 1956 to Ransom; Feb. 26, 1956 to Isabel Howell; March 6, 1956 - form letter to Fugitives and Inter&#8211;locutor-Critics; March 7,
+              1956 to William C. Cobb; March 11, 1956 to Fugitives; March 22, 1956 to Bill Elliott; memorandum to Fugitives, March 26, 1956; March 29, 1956 to Vincent L. Eaton; April 17, 1956 to Alec B. Stevenson; April 20, 1956 to Tate; April 20, 1956 to
+              Chancellor; April 20, 1956 to Ransom; April 20, 1956 to Cleanth Brooks; April 24, 1956 to Harold Vanderbilt; April 26, 1956 to Allen Tate.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tate, Allen</unittitle>
+            <unitdate>Oct. 27, 1955; Jan. 27, 1956; Feb. 9, 1956; Feb. 17, 1956; April 11, 1956 to Harvie Branscomb. April 18, 1956; April 28, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Taylor, George Rogers</unittitle>
+            <unitdate>March 19, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Thorp, Willard</unittitle>
+            <unitdate>Oct. 28, 1955; Feb. 23, 1956; April 20, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Vanderbilt, Harold S.</unittitle>
+            <unitdate>April 26, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wade, John Donald</unittitle>
+            <unitdate>April 10, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Warren, Robert P.</unittitle>
+            <unitdate>Nov. 19, 1955; Jan. 27, 1956; March 28, 1956.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>PUBLISHING FUGITIVE CONFERENCE</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Amacher, Anne</unittitle>
+            <unitdate>March 17, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bethurum, Dorothy</unittitle>
+            <unitdate>Nov. 19, 1957; May 21, 1959.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cobb, William C.</unittitle>
+            <unitdate>Jan. 15, 1958; Jan. 15, 1958. Cowan, Louise - Nov. 21, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Davidson, Donald</unittitle>
+            <unitdate>June 3, 1956 to Geoffrey Moore. Ellegood, Donald - April 25, 1958; March 18, 1958 to Donald Davidson.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Elliott, William Y.</unittitle>
+            <unitdate>Dec. 3, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Kazin, Alfred</unittitle>
+            <unitdate>May 9, 1959.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Geoffrey</unittitle>
+            <unitdate>Feb. 20, 1957; May 23, 1956 to Donald Davidson.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Merrill</unittitle>
+            <unitdate>Jan. 21, 1957 to Mary 0. Abbott; Sept. 10, 1957 to Harvie Branscomb.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Mrs. Merrill</unittitle>
+            <unitdate>Nov. 25, 1957; Jan. 22, 1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Owsley, Harriet C.</unittitle>
+            <unitdate>Nov. 24, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pearce, Roy</unittitle>
+            <unitdate>Aug. 29, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Purdy, Rob Roy</unittitle>
+            <unitdate>June 21, 1957 to Rubin.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ransom, John C.</unittitle>
+            <unitdate>Oct. 18, 1957; Nov. 19, 1957; Feb. 1, n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rubin, Louis</unittitle>
+            <unitdate>May 29, 1956; June 5, 1956; Sept. 13, 1956; Sept. 19, 1956; n.d.; Nov. 29, 1956; Dec. 10, 1956; Dec. 14, 1956; Jan. 10, 1957; June 6, 1957 to Rob Roy Purdy; Sept. 23, 1957; Nov. 3, 1957; Nov. 19, 1957; Jan. 28, 1958; Dec. 8, 1958; Jan. 2,
+              1959. Jan. 3, 1959; Jan. 13, 1959; Jan. 23, 1959.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Starr, Elizabeth</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stevenson, Alec B.</unittitle>
+            <unitdate>Dec. 23, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, John L.</unittitle>
+            <unitdate>Sept. 28, 1956; May 30, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>March 6, 1956 to Tate; Sept. 27, 1957; Oct. 24, 1957 to Warren; Oct. 24, 1957 to Tate; Nov. 13, 1957 to Participants in Fugitive Conf. - 3 copies, 2 with notes from participants. Nov. 15, 1957 to Mrs. Alfred Starr; Nov. 15, 1957 to Mrs.
+              Merrill Moore; Nov. 15, 1957 to Mrs. Frank L. Owsley, Jr.; Dec. 3, 1957 to Mrs. Merrill Moore; Dec. 9, 1957; Dec. 19, 1957 to Harvie Branscomb; Jan. 10, 1958 to Ransom; Jan. 10, 1958 to Warren; Jan. 10, 1958 to Tate; Jan. 17, 1958 to Tate; Jan. 17,
+              1958 to William C. Cobb; April 29, 1958 to Donald Ellegood; June 12, 1959 to Marguerite Wristin; Dec. 10, 1958 to Louis Rubin; Dec. 30, 1958 to Tate; Dec. 30, 1958 to Ransom; Dec. 3, 1958 to Rubin; Jan. 6, 1959 to Rubin; Feb. 1, 1958 to Rubin; Dec.
+              16, 1957 to Rubin; Nov. 5, 1957 to Rubin; Sept. 20, 1957 to Rubin; Jan. 11, 1958 to Rubin; Dec. 11, 1956 to Rubin; June 2, 1956 to Rubin - 2 copies; Sept. 18, 1956; Nov. 30, 1956 to John L. Stewart; June 2, 1956 to John L. Stewart; June 6, 1956 to
+              Rubin; Dec. 3, 1956 to Rubin.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tate, Allen</unittitle>
+            <unitdate>Oct. 25, 1957; Jan. 15, 1958; Jan. 14, 1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Thorp, Willard</unittitle>
+            <unitdate>Nov. 18, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Warren, Robert P.</unittitle>
+            <unitdate>Nov. 8, 1957; Jan. 14, 1958; Jan. 4, 1959.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wills, Jesse</unittitle>
+            <unitdate>Nov. 19, 1957; Wriston, Marguerite - Sept. 25, 1958; May 24, 1959.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>FUGITIVE CONFERENCE: RESULTS</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Adams, Dick</unittitle>
+            <unitdate>May 1, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Amacher, Anne Ward</unittitle>
+            <unitdate>May 13, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Anderson, Charles R.</unittitle>
+            <unitdate>May 4, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Baker, Carlos,</unittitle>
+            <unitdate>May 8, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bethurum, Dorothy</unittitle>
+            <unitdate>May 13, 1956. June 3, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Blanchard, Harold H.</unittitle>
+            <unitdate>May 8, 1956. Bradley, Sculley</unitdate>
+            <unitdate>May 1, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Branscomb, Harvie</unittitle>
+            <unitdate>May 8, 1956; June 13, 1956 to Willard Thorp.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Breis, Harvey</unittitle>
+            <unitdate>April 30, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cobb, William C.</unittitle>
+            <unitdate>June 13, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Coffin, Charles M.</unittitle>
+            <unitdate>May 7, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cohen, Barbara</unittitle>
+            <unitdate>April 8, 1956 to Robert McGaw.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cunningham, James V.</unittitle>
+            <unitdate>May 11, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Daley, Elizabeth Gill</unittitle>
+            <unitdate>May 30, n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dickey, Hervey</unittitle>
+            <unitdate>May 2, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Emerson, O. B.</unittitle>
+            <unitdate>April 30, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Faulkner, Claude W.</unittitle>
+            <unitdate>May 4, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Faverty, Fred</unittitle>
+            <unitdate>May 7, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Foster, Elizabeth</unittitle>
+            <unitdate>May 1, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Graf, LeRoy P.</unittitle>
+            <unitdate>May 3, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Halpert, Violet</unittitle>
+            <unitdate>May 9, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hunting, Robert</unittitle>
+            <unitdate>May 2, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Jackson, William A.</unittitle>
+            <unitdate>April 30, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Koller, Kathrine</unittitle>
+            <unitdate>May 8, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lynn, Justine</unittitle>
+            <unitdate>May 1, 1956; May 11, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>MacLean, Kenneth</unittitle>
+            <unitdate>May 3, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Marshall, John</unittitle>
+            <unitdate>June 8, 1956; May 24, 1956 to Rubin.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McGaw, Robert</unittitle>
+            <unitdate>April 25, 1956 to Barbara Cohen; April 11, 1956 to Jack DeWitt; March 30, 1956, to Barbara Cohen and Marianne Roney; March 8, 1956 to Jack DeWitt.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Merrill</unittitle>
+            <unitdate>April 30, 1956; June 1, 1956; June 4, 1956. Morrissey, Eleanor F. - May 9, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nesbitt, George</unittitle>
+            <unitdate>May 4, 1956. Pomfret, Jack - April 26, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ransom, John C.</unittitle>
+            <unitdate>May 1, ,1956; May 26, 1956; March 27, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rock, Virginia</unittitle>
+            <unitdate>April 4, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rubin, Louis</unittitle>
+            <unitdate>March 8, 1956; July 19, 1955 to John Marshall; May 27, 1955 to John Marshall; Dec. 1, 1955; &quot;Monday&quot;; n.d. to John Marshall.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stevenson, Alec B.</unittitle>
+            <unitdate>May 9, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>April 9, 1956 to Virginia Rock; May 22, 1956 to LeRoy P. Graf; May 7, 1956 to Harvie Branscomb; May 7, 1956 to Mr. and Mrs. Harold S. Vanderbilt; May 8, 1956 to Louis Rubin, original and carbon; May 9, 1956 to Ellen and Jesse Wills; May 9,
+              1956 to Fannie Cheney; May 9, 1956 to Isabel Howell; May 10, 1956 to Alec B. Stevenson; May 17, 1956 to Allen Tate; May 15, 1956 to Charles M. Coffin; May 16, 1956 to Mrs. R. E. Amacher; May 17, 1956 to Dorothy Bethurum; May 24, 1956 to Ralph
+              Morrissey; June 1, 1956 to John Marshall; April 5, 1957 to Ransom.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tate, Allen</unittitle>
+            <unitdate>May 10, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Taylor, Walter F.</unittitle>
+            <unitdate>May 8, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Thorp, Willard</unittitle>
+            <unitdate>June 5, 1956 to Harvie Branscomb.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ward, John W.</unittitle>
+            <unitdate>April 28, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Waterfield, C. A.</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Weaver, Mrs. Herbert</unittitle>
+            <unitdate>May 9, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dave</unittitle>
+            <unitdate>May 1, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dave and Candace</unittitle>
+            <unitdate>April 30, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ed</unittitle>
+            <unitdate>April 27, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ellene</unittitle>
+            <unitdate>June 6, 1956.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>FUGITIVE FINANCES</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Eaton, Vincent</unittitle>
+            <unitdate>Oct. 24, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Marshall, John</unittitle>
+            <unitdate>Dec. 12, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>March 13, 1956 to Ransom; March 13, 1956 to Tate; March 14, 1956 to Davidson; March 14, 1956 to Warren; March 14, 1956 Merrill Moore; March 14, 1956 to Cleanth Brooks; March 14, 1956 to Andrew Lytle; March 14, 1956 to Bill Elliott; March
+              14, 1956 to Willard Thorp; March 14, 1956 to Frank Owsley; March 14, 1956 to Louise Cowan; March 14, 1956 to Robert D. Jacobs; April 20, 1956 to Overton Williams; Oct. 29, 1956 to Vincent Eaton; Dec. 17, 1956 to John Marshall; April 4, 1957 to H.
+              Lloyd Stowe; April 5, 1957 to Overton Williams; March 22, 1957 to H. Lloyd Stowe; Dec. 17, 1956 to Overton Williams; May 22, 1957 to Leonard B. Beach.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stowe, H. Lloyd</unittitle>
+            <unitdate>March 27, 1957.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>STEWART CORRESPONDENCE RELATING TO NON-FUGITIVE MATTERS</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Branscomb, Harvie</unittitle>
+            <unitdate>April 10, 1997; June 12, 1956; June 26, 1956 to John Marshall; July 10, 1956 to John Marshall; May 28, 1956 to Robert P. Warren; May 22, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Carmichael, Oliver C.</unittitle>
+            <unitdate>May 31, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Davidson, Donald</unittitle>
+            <unitdate>May 11, 1956 to Dr. A. F. Kuhlman - 2 cop. Kuhlman, A. F. - April 18, 1956 to Donald Davidson - 2 cop. Marshall, John - April 18, 1957; April 4, 1957; June 8, 1956; July 3, 1956 to Branscomb; July 9, 1956; July 10, 1956.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>June 4, 1956 to John Marshall; July 5, 1956 to John Marshall; May 20, 1956 to o. C. Carmichael.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>CORRESPONDENCE WITH RICHMOND C. BEATTY</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Beatty, Richmond C.</unittitle>
+            <unitdate>Feb. 5, 1957; Feb. 23, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>Feb. 15, 1957 to Beatty; Feb. 22, 1957 to Beatty; Feb. 26, 1957 to Beatty; Feb. 26, 1957 to Joseph J. Jackson.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>SYNDICATION OF BEATTY&quot;S COLUMN (RICHMOND C.)</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Brown, Francis</unittitle>
+            <unitdate>Sept. 13, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Caesar, Kathleen</unittitle>
+            <unitdate>Feb. 5, 1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Copeland, Edith</unittitle>
+            <unitdate>Oct. 9, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Drewry, John E.</unittitle>
+            <unitdate>Nov. 26, 1957.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Harwell, Coleman</unittitle>
+            <unitdate>Sept. 9, 1957; Sept. 18, 1957; Feb. 20, 1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hunter, Anna C.</unittitle>
+            <unitdate>Oct. 7, 1957. Lynn, Justine - Feb. 3, 1956. Phillips, Bob - Jan. 28, 1958.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>Sept. 16, 1957 to Coleman Harwell; Sept. 4; 1957 to Coleman Harwell; Sept. 5, 1957 to Harvey Breit; Sept. 5, 1957 to Maurice Dolbier; Oct. 2, 1957 to Raymond Walters, Jr.; Oct. 8, 1957 to Gerald R. Ashford; Oct. 8, 1957 to Mrs. Marion H.
+              Broaddus; Oct. 8, 1957 to Al Lester; Oct. 8, 1957 to Bob Phillips; Oct. 8, 1957 to R. P. Schlabach; Oct. 8, 1957 to Charlotte Walker; Oct: 4, 1957 to Frank Harris; Oct. 3, 1957 to Truman Stacey; Oct. 3, 1957 to Daisy Tucker; Oct. 3, 1957 to Keith
+              Coulbourn; Oct. 3, 1957 to Anna C. Hunter; Oct. 3, 1957 to George A. Doss; Oct. 3, 1957 to Kenneth C. Crabbe; Oct. 3, 1957 to John Fay; Oct. 4, 1957 to B. J. Skelton; Oct. 5, 1957 to Edith Copeland; Nov. 15, 1957 to John E. Drewry; Dec. 3, 1957 to
+              McClure Newspaper Syndicate; Dec. 3, 1957 to King Features Syndicate; Dec. 3, 1957 to NEA Service; Jan. 20, 1958 to Coleman Harwell; March 3, 1958 to Elliott Trimble; n.d. - form letter.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Thompson, E. B.</unittitle>
+            <unitdate>Dec. 6, 1957.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>ALLEN TATE PROPOSAL</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Branscomb, Harvie</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ransom, John C.</unittitle>
+            <unitdate>March 3, 1959; Feb. 25, (1959).</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stewart, Randall</unittitle>
+            <unitdate>Oct. 1, 1959 to Harvie Branscomb; Sept. 27, 1959 to Tate; Aug. 3, 1959 to Tate.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tate, Allen</unittitle>
+            <unitdate>Oct. 2, 1959; August 29, 1959 to Henry C. Alexander and Benjamin E. Tate - 2 copies. Aug. 11, 1959; July 30, 1959.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>MISCELLANEOUS CORRESPONDENCE</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Gerber, John C.</unittitle>
+            <unitdate>Jan. 2, 1962.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Morison, S.E.</unittitle>
+            <unitdate>March 2, 1932.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pearson, Norman H.</unittitle>
+            <unitdate>Jan. 29, 1953.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Whicher, George</unittitle>
+            <unitdate>Oct. 25, 1951; Oct. 23, 1951 to Houghton Miff lin.:Co.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wills, Jesse</unittitle>
+            <unitdate>Sept. 28, 1959.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>George</unittitle>
+            <unitdate>Dec. 4, 1967, to Mrs. Stewart. Possibly George Core.</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>CHRONOLOGICAL LIST OF OUTGOING CORRESPONDENCE</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 23, 1955</unitdate>
+            <unittitle>to Jesse Wills with enclosures of two letters dated Oct. 25, 1955.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 25, 1956</unitdate>
+            <unittitle>Red (R. P. Warren). F 1.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 25, 1956</unitdate>
+            <unittitle>John C. Ransom. F 1.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 30, 1956</unitdate>
+            <unittitle>John L. Stewart. F 1.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 14, 1956</unitdate>
+            <unittitle>Allen Tate. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 14, 1956</unitdate>
+            <unittitle>Red (R. P. Warren). F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 14, 1956</unitdate>
+            <unittitle>Andrew Lytle. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 14, 1956</unitdate>
+            <unittitle>Cleanth Brooks. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 14, 1956</unitdate>
+            <unittitle>John C. Ransom. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 20, 1956.</unitdate>
+            <unittitle>John C. Ransom. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 26, 1956</unitdate>
+            <unittitle>Isabel Howell. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 6, 1956</unitdate>
+            <unittitle>Allen Tate. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 6, 1956</unitdate>
+            <unittitle>form letter to Fugitives and inter-locutor critics. F 2.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 7, 1956</unitdate>
+            <unittitle>Robert E. Spiller. F 3.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 11, 1956</unitdate>
+            <unittitle>form letter to Ransom, Davidson, Tate, Warren, Moore, Elliott, Brooks, Lytle. F 3.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 13, 1956</unitdate>
+            <unittitle>John C. Ransom. F 3</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 13, 1956</unitdate>
+            <unittitle>Allen Tate. F 3.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Donald Davidson. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Red (R. P. Warren). F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Merrill Moore. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Cleanth Brooks. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Andrew Lytle. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>William Y. Elliott. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Willard Thorp. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Frank Owsley. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Louise Cowan. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 14, 1956</unitdate>
+            <unittitle>Robert D. Jacobs. F 4.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 22, 1956</unitdate>
+            <unittitle>William Y. Elliott. F 5.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 26, 1956</unitdate>
+            <unittitle>Merrill Moore. F 5.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 26, 1956</unitdate>
+            <unittitle>Memorandum to Ransom, Davidson, Tate, Warren, Elliott, Wills, Stevenson, Curry, Hirsch, Starr. F 5</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 29, 1956</unitdate>
+            <unittitle>Vincent L. Eaton. F 5.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 9, 1956</unitdate>
+            <unittitle>Virginia Rock. F 5.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 17, 1956</unitdate>
+            <unittitle>Alec B. Stevenson. F 5.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 20, 1956</unitdate>
+            <unittitle>Allen Tate. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 20, 1956</unitdate>
+            <unittitle>Memorandum to the Chaneellor. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 20, 1956</unitdate>
+            <unittitle>John C. Ransom. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 20, 1956</unitdate>
+            <unittitle>Cleanth Brooks. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 20, 1956</unitdate>
+            <unittitle>Overton Williams, Bursar. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 24, 1956</unitdate>
+            <unittitle>William Y. Elliott. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 24, 1956</unitdate>
+            <unittitle>Harold S. Vanderbilt. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 26, 1956</unitdate>
+            <unittitle>Allen Tate. F 6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 1, 1956</unitdate>
+            <unittitle>Alec B. Stevenson. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 7, 1956</unitdate>
+            <unittitle>Harvie Branscomb. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 7, 1956</unitdate>
+            <unittitle>Mr. and Mrs. Harold S. Vanderbilt. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 8, 1956</unitdate>
+            <unittitle>Overton Williams. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 8, 1956</unitdate>
+            <unittitle>Louis Rubin. 2 copies, one with Rubin&#8217;s answer. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 9, 1956</unitdate>
+            <unittitle>Isabel Howell. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 9, 1956</unitdate>
+            <unittitle>Fannie Cheney. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 9, 1956</unitdate>
+            <unittitle>Ellen and Jesse Wills. F 7.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 10, 1956</unitdate>
+            <unittitle>Alec B. Stevenson. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 15, 1956</unitdate>
+            <unittitle>Charles M. Coffin. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 16, 1956</unitdate>
+            <unittitle>R. E. Amacher. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 17, 1956</unitdate>
+            <unittitle>Dorothy Bethurum. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 17, 1956</unitdate>
+            <unittitle>Allen Tate. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 20, 1956</unitdate>
+            <unittitle>Dr. O. C. Carmichael. Enclosure of 2 copies of letter from Donald Davidson to A. F. Kuhlman dated May 11, 1956. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 22, 1956</unitdate>
+            <unittitle>LeRoy P. Graf. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 24, 1956</unitdate>
+            <unittitle>Ralph Morrissey. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>June 1, 1956</unitdate>
+            <unittitle>John Marshall. F 8.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>June 2, 1956</unitdate>
+            <unittitle>John L. Stewart. F 9.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>June 2, 1956</unitdate>
+            <unittitle>Louis Rubin. F 9.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>June 2, 1956</unitdate>
+            <unittitle>Louis Rubin. F 9.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>June 4, 1956</unitdate>
+            <unittitle>John Marshall. F 9.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>June 6, 1956</unitdate>
+            <unittitle>Louis Rubin. F 9.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>July 5, 1956</unitdate>
+            <unittitle>John Marshall. F 9.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 18, 1956</unitdate>
+            <unittitle>Louis Rubin. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 29, 1956</unitdate>
+            <unittitle>Vincent L. Eaton. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 30, 1956</unitdate>
+            <unittitle>John L. Stewart. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 3, 1956</unitdate>
+            <unittitle>Louis Rubin. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 11, 1956</unitdate>
+            <unittitle>Louis Rubin. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 17, 1956</unitdate>
+            <unittitle>Louis Rubin. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 17, 1956</unitdate>
+            <unittitle>John Marshall. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 17, 1956</unitdate>
+            <unittitle>Overton Williams. F 10.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 15, 1957</unitdate>
+            <unittitle>Richmond Beatty. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 22, 1957</unitdate>
+            <unittitle>Richmond Beatty. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 26, 1957</unitdate>
+            <unittitle>Joseph. J. Jackson. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>March 22, 1957</unitdate>
+            <unittitle>H. Lloyd Stowe. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 4, 1957</unitdate>
+            <unittitle>Overton Williams. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 4, 1957</unitdate>
+            <unittitle>H. Lloyd Stowe. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 5, 1957</unitdate>
+            <unittitle>John Ransom. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>May 22 1957</unitdate>
+            <unittitle>Leonard B. Beach. F 11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 4, 1957</unitdate>
+            <unittitle>Coleman Harwell. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 5, 1957</unitdate>
+            <unittitle>Harvey Breit. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 5, 1957</unitdate>
+            <unittitle>Maurice Dolbier. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 16, 1957</unitdate>
+            <unittitle>Coleman Harwell. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 20, 1957</unitdate>
+            <unittitle>Louis Rubin. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 27, 1957</unitdate>
+            <unittitle>John C. Ransom. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 2, 1957</unitdate>
+            <unittitle>Raymond Walters, Jr. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 3, 1957</unitdate>
+            <unittitle>John Fay. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 3, 1957</unitdate>
+            <unittitle>Kenneth C. Crabbe. F 12.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 3, 1957</unitdate>
+            <unittitle>George A. Doss, Jr. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 3, 1957</unitdate>
+            <unittitle>Mrs. Anna C. Hunter. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 3, 1957</unitdate>
+            <unittitle>Keith Coulborn. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 3, 1957</unitdate>
+            <unittitle>Daisy Tucker. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 3, 1957</unitdate>
+            <unittitle>Truman Stacy. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 4, 1957</unitdate>
+            <unittitle>Frank Harris. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 4, 1957</unitdate>
+            <unittitle>A. J. Skelton. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 5, 1957</unitdate>
+            <unittitle>Edith Copeland. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 8, 1957</unitdate>
+            <unittitle>Gerald R. Ashford. F 12&#189;.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 8, 1957</unitdate>
+            <unittitle>Mrs. Marion H. Broaddus. F L3.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 8, 1957</unitdate>
+            <unittitle>Al Lester. F 13.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 8, 1957</unitdate>
+            <unittitle>Bob Phillips. F 13.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 8, 1957</unitdate>
+            <unittitle>R. P. Schlabach. F 13.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 8, 1957</unitdate>
+            <unittitle>Mrs. Charlotte Walker. F 13</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 24, 1957</unitdate>
+            <unittitle>Allen Tate. F 13.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 24, 1957</unitdate>
+            <unittitle>&quot;Red.&quot; (R. P. Warren). F 13.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 5, 1957</unitdate>
+            <unittitle>Louis Rubin. F 13.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 13, 1957</unitdate>
+            <unittitle>Participants in the Fugitive Conference.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 15, 1957</unitdate>
+            <unittitle>Participants in the Fugitive Conference. F 14. With replies from Fugitives. 2 copies. F 14.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 15, 1957</unitdate>
+            <unittitle>Mrs. Frank L. awsley, Sr. F 14.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 15, 1957</unitdate>
+            <unittitle>Mrs. Alfred Starr. F 14.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 15, 1957</unitdate>
+            <unittitle>Mrs. Merrill Moore. F 14.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Nov. 15, 1957</unitdate>
+            <unittitle>John E. Drewry. F 14.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 3, 1957</unitdate>
+            <unittitle>NEA Service, Inc. F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 3, 1957</unitdate>
+            <unittitle>King Features Syndicates. F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 3, 1957</unitdate>
+            <unittitle>McClure Newspaper Syndicate. F 15</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 3, 1957</unitdate>
+            <unittitle>Mrs. Merrill Moore. F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 9, 1957</unitdate>
+            <unittitle>William Y. Elliott. F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 16, 1957</unitdate>
+            <unittitle>Louis Rubin. Fr 16. &#8217;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 19, 1957</unitdate>
+            <unittitle>Harvie Branscomb. F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 10, 1958</unitdate>
+            <unittitle>Allen Tate. F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 10, 1958</unitdate>
+            <unittitle>&quot;Red&quot; (R. P. Warren). F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 10, 1958</unitdate>
+            <unittitle>John C. Ransom. F 15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 11, 1958</unitdate>
+            <unittitle>Louis Rubin. F 16.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 17, 1958</unitdate>
+            <unittitle>Allen Tate. F 16.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 17, 1958</unitdate>
+            <unittitle>William C. Cobb. F 16.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 20, 1958</unitdate>
+            <unittitle>Coleman Harwell. F 16.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Feb. 1, 1958</unitdate>
+            <unittitle>Louis Rubin. F 16.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>April 29, 1958</unitdate>
+            <unittitle>Donald Ellegood. F 16.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 3, 1958</unitdate>
+            <unittitle>Louis Rubin. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 10, 1958</unitdate>
+            <unittitle>Louis Rubin. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Dec. 30, 1958</unitdate>
+            <unittitle>John C. Ransom. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 6, 1959</unitdate>
+            <unittitle>Louis Rubin. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Jan. 12, 1959</unitdate>
+            <unittitle>Marguerite Wriston. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Aug. 3, 1959</unitdate>
+            <unittitle>Allen Tate. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Sept. 27, 1959</unitdate>
+            <unittitle>Allen Tate. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Oct. 1, 1959</unitdate>
+            <unittitle>Chancellor Branscomb. F 17.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>Undated</unitdate>
+            <unittitle>form letter to newspaper Editors. F 18. Holograph draft of letter to editors. F 18.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
