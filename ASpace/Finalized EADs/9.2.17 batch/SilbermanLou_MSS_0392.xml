@@ -1,0 +1,4788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Silberman, Lou H. Papers</titleproper>
+        <titleproper>Finding Aid for the Lou Hackett Silberman</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Lou Hackett Silberman Papers</unittitle>
+      <unitid>MSS.0392</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">20.56 linear_feet</extent>
+      </physdesc>
+      <unitdate>1930s-1980</unitdate>
+      <abstract>This collection contains the papers of Lou Hackett Silberman, longtime Hillel Professor of Jewish Literature and Thought at Vanderbilt University. Silberman also participated throughout his career in a variety of Hillel Foundation and other
+        B'nai B'rith activities and was especially active in lecturing to various Jewish groups as well as in interreligious dialogue.</abstract>
+    </did>
+    <arrangement>
+      <p>List of acronyms and their meaning:</p>
+      <p>
+        <abbr expan="American Academy of Religion">AAR</abbr>
+      </p>
+      <p>
+        <abbr expan="Anti-Defamation League">AOL</abbr>
+      </p>
+      <p>
+        <abbr expan="American Jewish Committee">AJC</abbr>
+      </p>
+      <p>
+        <abbr expan="Association for Jewish Studies">AJS</abbr>
+      </p>
+      <p>
+        <abbr expan="American Society for the Study of Religion">ASSR</abbr>
+      </p>
+      <p>
+        <abbr expan="American Association of Theological Schools">ATS</abbr>
+      </p>
+      <p>
+        <abbr expan="Aleph Zadik Aleph (Convention)">AZA</abbr>
+      </p>
+      <p>
+        <abbr expan="B&#39;nai B&#39;rith Youth Organization">BBYO</abbr>
+      </p>
+      <p>
+        <abbr expan="Boston Theological Institute">BTI</abbr>
+      </p>
+      <p>
+        <abbr expan="Center for Applied Research in the Apostolate">CARA</abbr>
+      </p>
+      <p>
+        <abbr expan="Central Conference of American Rabbis">CCAR</abbr>
+      </p>
+      <p>
+        <abbr expan="Council of Jewish Federations">CJF</abbr>
+      </p>
+      <p>
+        <abbr expan="Commission on Jewish Theology">CJT</abbr>
+      </p>
+      <p>
+        <abbr expan="Center for Studies in Religious Education">CSRE</abbr>
+      </p>
+      <p>
+        <abbr expan="Council of Southwestern Theological Schools">CSTS</abbr>
+      </p>
+      <p>
+        <abbr expan="Hebrew Union College">HUC</abbr>
+      </p>
+      <p>
+        <abbr expan="Institute for Jewish life">IJF</abbr>
+      </p>
+      <p>
+        <abbr expan="Institute on Reform Jewish Theology">IRJT</abbr>
+      </p>
+      <p>
+        <abbr expan="Institute of Study for Christian Preachers">ISCP</abbr>
+      </p>
+      <p>
+        <abbr expan="Institue for Theological Encounter with Science and Technology">ITESS</abbr>
+      </p>
+      <p>
+        <abbr expan="Journal of the American Academy of Religion">JAAR</abbr>
+      </p>
+      <p>
+        <abbr expan="Jewish Welfare Fund">JWF</abbr>
+      </p>
+      <p>
+        <abbr expan="Jewish University Without Walls">JUUU</abbr>
+      </p>
+      <p>
+        <abbr expan="Metro Action Commission">MAC</abbr>
+      </p>
+      <p>
+        <abbr expan="Nashville Area Jewish Community Council">NAJCC</abbr>
+      </p>
+      <p>
+        <abbr expan="National Council of Churches">NCC</abbr>
+      </p>
+      <p>
+        <abbr expan="National Community Relations Advisory Council">NCRAC</abbr>
+      </p>
+      <p>
+        <abbr expan="Nashville Community Relations Council">NCRC</abbr>
+      </p>
+      <p>
+        <abbr expan="Office of Economic Opportunity">OEC</abbr>
+      </p>
+      <p>
+        <abbr expan="Religious Education Association">REA</abbr>
+      </p>
+      <p>
+        <abbr expan="Reconstructionist Rabbinical College">RRC</abbr>
+      </p>
+      <p>
+        <abbr expan="Society of Biblical Literature">SBL</abbr>
+      </p>
+      <p>
+        <abbr expan="Studiorum Novi Testamenti Societas">SNTS</abbr>
+      </p>
+      <p>
+        <abbr expan="Seminarians Organized for Racial Justice">SORJ</abbr>
+      </p>
+      <p>
+        <abbr expan="State University of New York">SUNY</abbr>
+      </p>
+      <p>
+        <abbr expan="Tennessee Commission on Human Relations">TCHR</abbr>
+      </p>
+      <p>
+        <abbr expan="United Association of Hebrew Congregations">UAHC</abbr>
+      </p>
+      <p>
+        <abbr expan="Union Theological Seminary">UTS</abbr>
+      </p>
+      <p>
+        <abbr expan="World Council of Churches-International Jewish Committee on Interreligious Consultation">WCC-IJCIC</abbr>
+      </p>
+    </arrangement>
+    <bioghist>
+      <chronlist>
+        <chronitem>
+          <date>1914</date>
+          <event>Born June 23, 1914 to Lou Harry and Myrtle Mueller Silberman in San Francisco, California. The Silberman family lived in San Francisco and in Los Angeles, California.</event>
+        </chronitem>
+        <chronitem>
+          <date>1934</date>
+          <event>B.A., University of California, Berkeley in Philosophy.</event>
+        </chronitem>
+        <chronitem>
+          <date>1934-35</date>
+          <event>Graduate student in Philosophy at University of California, Berkeley.</event>
+        </chronitem>
+        <chronitem>
+          <date>1935-43</date>
+          <event>Student at Hebrew Union College, Cincinnati, Ohio. Silberman received the B.Heb.L. (1939), M.Heb.L. (1941), D.Heb.L. (1943). His doctoral work was on medieval Jewish apologetics and polemics. While at H.U.C., Silberman studied under the noted
+            Jewish scholars Jacob Z. Lauterbach, Samuel S. Cohon, and Julian Morgenstern.</event>
+        </chronitem>
+        <chronitem>
+          <date>1941-43</date>
+          <event>Fellow and Instructor in Medieval Exegesis, Hebrew Union College.</event>
+        </chronitem>
+        <chronitem>
+          <date>1941</date>
+          <event>Ordained a Rabbi.</event>
+        </chronitem>
+        <chronitem>
+          <date>1942</date>
+          <event>Married Helen Epstein on June 14, 1942. The Silbermans had two daughters, Syrl Augusta and Deborah Sue.</event>
+        </chronitem>
+        <chronitem>
+          <date>1943-45</date>
+          <event>Assistant Rabbi, Temple Emanu-el, Dallas Texas.</event>
+        </chronitem>
+        <chronitem>
+          <date>1945-52</date>
+          <event>Rabbi, Temple Israel, Omaha, Nebraska. Throughout his rabbinic and academic career, Silberman was involved in the affairs and institutions of Reform Judaism and he served the Central Conference of American Rabbis in a variety of capacities.</event>
+        </chronitem>
+        <chronitem>
+          <date>1952-55</date>
+          <event>Associate Professor of Jewish Literature and Thought, Vanderbilt University. Silberman replaced Samuel Sandmel in a chair partially funded through the auspices of the Hillel Foundation of B&#8217; nai B&#8217; rith. Silberman also participated
+            throughout his career in a variety of Hillel Foundation and other B&#8217; nai B&#8217; rith activities and was especially active in lecturing to various Jewish Groups as well as in interreligious dialogue.</event>
+        </chronitem>
+        <chronitem>
+          <date>1955-80</date>
+          <event>Hillel Professor of Jewish Literature and Thought, Vanderbilt University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1959</date>
+          <event>Sabbatical at the University of Basel.</event>
+        </chronitem>
+        <chronitem>
+          <date>1959-60</date>
+          <event>President, Society of Biblical Literature (Southern Section).</event>
+        </chronitem>
+        <chronitem>
+          <date>1960</date>
+          <event>James Lawson expelled from Vanderbilt Divinity School for his Civil Rights activities. Silberman was a leader in the faculty efforts to restore Lawson and he was one of the faculty members to submit resignations when the efforts of the faculty
+            failed. His social justice activities extended to the community as well where he served on the Metro Action Commission of Nashville and the Tennessee Council on Human Relations. In addition, he served for a time as Vice-Chair, National Community
+            Relations Advisory Council.</event>
+        </chronitem>
+        <chronitem>
+          <date>1960-61</date>
+          <event>Acting Chair, Graduate Department of Religion, Vanderbilt University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1960-65</date>
+          <event>Director of Graduate Studies in the Biblical Area, Graduate 1967-68 Department of Religion, Vanderbilt University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1965-66</date>
+          <event>Sabbatical, Visiting Professor, Judiastik Institut, University of Vienna.</event>
+        </chronitem>
+        <chronitem>
+          <date>1972</date>
+          <event>Visiting Professor, Carleton College (Winter).</event>
+        </chronitem>
+        <chronitem>
+          <date>1973</date>
+          <event>Visiting Professor, John Carroll University (Winter); Emory University (Spring).</event>
+        </chronitem>
+        <chronitem>
+          <date>1978</date>
+          <event>Sabbatical, Visiting Professor, University of Chicago Divinity School (Winter-Spring); Visiting Scholar, Oxford Centre for Postgraduate Hebrew Studies (Summer).</event>
+        </chronitem>
+        <chronitem>
+          <date>1979</date>
+          <event>Recipient, Thomas Jefferson Award, Vanderbilt University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1979</date>
+          <event>Death of wife, Helen Epstein Silberman, in late October.</event>
+        </chronitem>
+        <chronitem>
+          <date>1980</date>
+          <event>Hillel Professor of Jewish Literature and Thought, Emeritus, Vanderbilt University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1980</date>
+          <event>Fellow, Toronto School of Theology.</event>
+        </chronitem>
+        <chronitem>
+          <date>1981</date>
+          <event>Visiting Professor, Department of Oriental Languages, University of Arizona.</event>
+        </chronitem>
+        <chronitem>
+          <date>1982</date>
+          <event>President, Society of Biblical Literature. Silberman was actively involved throughout his career in a number of scholarly societies including the Society of Biblical Literature, the American Academy of Religion, the American Society for the
+            Study of Religion, the American Theological Society, the Association for Jewish Studies, and Studiorum Novi Testamenti Societas. In addition, he served on the Advisory Council on Theological Education of the Danforth Foundation.</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle>
+              <emph render="underline">Outgoing</emph>
+            </unittitle>
+            <unitdate>April 13, 1945 - Dec. 6, 1963</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle>
+              <emph render="underline">Outgoing</emph>
+            </unittitle>
+            <unitdate>Jan. 14, 1964 - May 29, 1970</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">3</container>
+            <unittitle>
+              <emph render="underline">Outgoing</emph>
+            </unittitle>
+            <unitdate>June 1, 1970 - March 1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">4</container>
+            <unittitle>
+              <emph render="underline">Outgoing</emph>
+            </unittitle>
+            <unitdate>April 2, 1975 - June 2, 1980, undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">5</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Aaronsohn - Broun, D.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">6</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Brown, 6. - Evans</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">7</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Facher - Grant</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">8</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Graubert - Jacobs</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">9</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Jacobson - Kushner</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">10</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Lagemann - Moran</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">11</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Morgan - Purdy</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">12</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Robinowitz - Siegel</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">13</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Siegman - Waldauer</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">14</container>
+            <unittitle>
+              <emph render="underline">Incoming</emph>, Walden - Zussman, Unidentified</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings and Speeches by Silberman</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="underline">Articles</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">1</container>
+              <unittitle>Anent the Use of Rabbinic Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">2</container>
+              <unittitle>Apocalyptic Revisited</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">3</container>
+              <unittitle>Between Chaos and Creation</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">4</container>
+              <unittitle>Between God and Man</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">5</container>
+              <unittitle>Between God and Man</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">6</container>
+              <unittitle>Class Differences - Concerning Jewish Theology: Some After-Thoughts</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">7</container>
+              <unittitle>Concerning Jewish Theology in North America: Some Notes on a Decade</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">8</container>
+              <unittitle>Death in the Hebrew Bible</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">9</container>
+              <unittitle>Ezrabucher</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">10</container>
+              <unittitle>Farewell to Confirmation</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">11</container>
+              <unittitle>Farewell to o amhn - From Civil Rights to Human Rights</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">12</container>
+              <unittitle>God and Man</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">13</container>
+              <unittitle>God and Man</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">14</container>
+              <unittitle>God and Man</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">15</container>
+              <unittitle>&#34;Habent Sua Fata...&#34;:The Role of Wandering Themes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">16</container>
+              <unittitle>The Human Deed in a Time of Despair</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">17</container>
+              <unittitle>The Interreligious Situation: A Not Entirely Bleak View</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">18</container>
+              <unittitle>The Jewish Image of God - Jubilees</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">19</container>
+              <unittitle>Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <container type="folder">20</container>
+              <unittitle>Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">1</container>
+              <unittitle>Lag Beomer</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">2</container>
+              <unittitle>Language and Structure in the Hodayot</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">3</container>
+              <unittitle>Language and Structure in the Hodayot</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">4</container>
+              <unittitle>The Making of the Old Testament Canon</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">5</container>
+              <unittitle>Manus Uelatae - Mediation</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">6</container>
+              <unittitle>A Midrash on Midrash - Original Sin</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">7</container>
+              <unittitle>The Paradoxes of Freedom and Authority</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">8</container>
+              <unittitle>Precis - Prolegomenon</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">9</container>
+              <unittitle>Prophets and Angels</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">10</container>
+              <unittitle>Queen of Sheba</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">11</container>
+              <unittitle>Religion and the Freedom of the Artist</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">12</container>
+              <unittitle>Religious Education and Style - Reprobation, Prohibition and Invalidity</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">13</container>
+              <unittitle>Revelation in Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">14</container>
+              <unittitle>The Search for Relevance</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">15</container>
+              <unittitle>Sitra Ahra</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">16</container>
+              <unittitle>Social Ethics and/or Social Action</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">17</container>
+              <unittitle>The State of the Reform Movement</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">16</container>
+              <container type="folder">18</container>
+              <unittitle>The Theologian&#39;5 Task</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">1</container>
+              <unittitle>Theology and Philosophy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">2</container>
+              <unittitle>Theology and Philosophy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">3</container>
+              <unittitle>Theology and Philosophy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">4</container>
+              <unittitle>Theology and Philosophy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">5</container>
+              <unittitle>Toward a Rhetoric of Midrash</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">6</container>
+              <unittitle>Toward a Rheotric of Midrash</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">7</container>
+              <unittitle>The Transmigration of a Tale</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">8</container>
+              <unittitle>The Union Prayer Book</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">9</container>
+              <unittitle>The University and Jewish Studies</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">10</container>
+              <unittitle>Unriddling the Riddle</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">11</container>
+              <unittitle>Unriddling the Riddle</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">12</container>
+              <unittitle>Wellhausen and Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">13</container>
+              <unittitle>Whence Siglum Q? A Conjecture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">14</container>
+              <unittitle>Miscellaneous Encyclopedia Articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">15</container>
+              <unittitle>Unidentified Notes - Unidentified Articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">16</container>
+              <unittitle>Citadel of Books (2nd draft)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">17</container>
+              <container type="folder">17</container>
+              <unittitle>Citadel of Books (Partial Oraft)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="underline">Manuscripts, Lectures, and Speeches</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">1</container>
+              <unittitle>Book Manuscript: Citadel of Books, Partial Draft</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">2</container>
+              <unittitle>Book Manuscript: Citadel of Books, Partial Draft</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">3</container>
+              <unittitle>Book Manuscript: Our Tradition, Partial Draft</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">4</container>
+              <unittitle>Book Manuscript: Our Tradition, Partial Drafts</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">5</container>
+              <unittitle>Book Manuscript: American Impact</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">6</container>
+              <unittitle>Speech re: American Jewish Community</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">7</container>
+              <unittitle>The American Jewish Community and its Values</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">8</container>
+              <unittitle>B&#39;nai B&#39;rith Yough Organization Talks</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">9</container>
+              <unittitle>Commencement Address; Educational Policy Committee Presentation</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">10</container>
+              <unittitle>For Theodore H. Gaster; Form and Faith</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">11</container>
+              <unittitle>The Future of Reform Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">12</container>
+              <unittitle>Talk re: Graduate Education; Tribute to Ualter Harrelson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">13</container>
+              <unittitle>Hillel Directors Conference Address</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">14</container>
+              <unittitle>Holocaust Lectures Introductions</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">15</container>
+              <unittitle>The Holy Community - An Anguished Appraisal</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">16</container>
+              <unittitle>I Did Not Understand; Is There a Tomorrow?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">17</container>
+              <unittitle>Jerusalem: Holy City</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">18</container>
+              <unittitle>Jewish-Christian Dialogue; The Jews in the Changing South</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">19</container>
+              <unittitle>Leaders and Leadership; Man and His Natural Heritage</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">20</container>
+              <unittitle>Method or Madness; Lecture on Parables</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">18</container>
+              <container type="folder">21</container>
+              <unittitle>Canon of Old Testament Lectures</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <emph render="underline">Lectures, Speeches Book Reviews, and Student Papers</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">1</container>
+              <unittitle>Prophets and Philosophers - The Scandal of Prophecy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">2</container>
+              <unittitle>Prayers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">3</container>
+              <unittitle>The Reestablishment of Worship; Religion and Society</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">4</container>
+              <unittitle>Remarks; Response</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">5</container>
+              <unittitle>Sermons</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">6</container>
+              <unittitle>Speech to &#39;Senate&#39; - Shamus Club</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">7</container>
+              <unittitle>A Shulkhan Arukh for Reform Judmaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">8</container>
+              <unittitle>The Situation in the Middle East; Some Variations on the Theme</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">9</container>
+              <unittitle>Talks on Tenure</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">10</container>
+              <unittitle>The Unconstrained God</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">11</container>
+              <unittitle>Book Reviews: A - H</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">12</container>
+              <unittitle>Book Reviews: I - Z</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">13</container>
+              <unittitle>Student Paper: Analytical Approach... - A Pluralistic Interpretation...</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">14</container>
+              <unittitle>Student Paper: Purpose of the Priestly Code - Religious Aspect of Philosophy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">15</container>
+              <unittitle>Student Paper: A Short Study...</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <container type="folder">16</container>
+              <unittitle>Student Paper: Some Thomistic Principles of Beauty</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Notes</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">1</container>
+            <unittitle>Academy for Jewish Studies, University Without Walls (1974) - Miscellaneous Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">2</container>
+            <unittitle>Sermon &#34;Alternatives Without a Choice&#34;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">3</container>
+            <unittitle>Lecture on &#34;The Bible and Its Background&#34; (Oct. Nov. 1950)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">4</container>
+            <unittitle>Essenes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">5</container>
+            <unittitle>Exegetical</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">6</container>
+            <unittitle>Form Criticism of Rabbinic Literature</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">7</container>
+            <unittitle>Moshe Greenberg&#39;s &#34;Theology and History in the Book of Ezekial&#34;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">8</container>
+            <unittitle>Hasmonean Period - Pharasees, Sadducees, Sectaries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">9</container>
+            <unittitle>Intermarriage, Jewish Community, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">10</container>
+            <unittitle>Intermarriage for Central Conference of American Rabbis Year Book</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">11</container>
+            <unittitle>Jewish History - Modern</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">12</container>
+            <unittitle>Lecture Outline on &#34;The Jewish Idea of God&#34;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">13</container>
+            <unittitle>Jewish Life - Contemporary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">14</container>
+            <unittitle>Jews-German Christians</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">15</container>
+            <unittitle>&#34;Judaism&#34; article in Encyclopedia Britannica</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">16</container>
+            <unittitle>&#34;annus Ualatae&#34; Article</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">17</container>
+            <unittitle>Mysticism</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">18</container>
+            <unittitle>Nature of Jewish Theology</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">19</container>
+            <unittitle>For Silherman/Mead book Our Tradition</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">20</container>
+            <unittitle>Prayer</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">21</container>
+            <unittitle>Prophets and Philosophers: The Scandal of Prophecy</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">22</container>
+            <unittitle>Queen of Sheba</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">23</container>
+            <unittitle>Queen of Sheba</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">1</container>
+            <unittitle>Qumran</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">2</container>
+            <unittitle>Qumran (IQHiii [Plate 37])</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">3</container>
+            <unittitle>Qumran</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">4</container>
+            <unittitle>Qumran</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">5</container>
+            <unittitle>Qumran</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">6</container>
+            <unittitle>Qumran</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">7</container>
+            <unittitle>Sermon Notes, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">8</container>
+            <unittitle>Sermon notes, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">9</container>
+            <unittitle>Speech given at Central Conference of American Rabbis Convention</unittitle>
+            <unitdate>1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">10</container>
+            <unittitle>Suffering Servant, Isaiah 53</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">11</container>
+            <unittitle>Sukkot Festival, Hebrew Union College</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">12</container>
+            <unittitle>Toward a Rhetoric of Midrash - Carleton College</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">13</container>
+            <unittitle>University of Chicago Religion Program</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">14</container>
+            <unittitle>Wellhausen and Judaism</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">15</container>
+            <unittitle>Worship</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">16</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">17</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">18</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">19</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">20</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>University Career</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">22</container>
+            <unittitle>Teaching Responsibilities and Class Materials</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">1</container>
+              <unittitle>Article Photocopies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">2</container>
+              <unittitle>Article Photocopies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">3</container>
+              <unittitle>Article Photocopies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">4</container>
+              <unittitle>Article Photocopies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">5</container>
+              <unittitle>Article Photocopies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">6</container>
+              <unittitle>Article Photocopies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">7</container>
+              <unittitle>Religion 101 (Introduction to Religion) - Syllabi</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">8</container>
+              <unittitle>Religion 101 (Introduction to Religion) - Syllabi</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">9</container>
+              <unittitle>Religion 101 (Introduction to Religion) - Syllabi</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">10</container>
+              <unittitle>Religion 101 (Introduction to Religion) - Syllabi</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">11</container>
+              <unittitle>Religion 101 (Introduction to Religion) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">12</container>
+              <unittitle>Religion 101 (Introduction to Religion) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">13</container>
+              <unittitle>Religion 101 (Introduction to Religion) - Reserve Lists, Exams, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">14</container>
+              <unittitle>Religion 105 (Introduction to Western Religion) - Syllabi</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">15</container>
+              <unittitle>Religion 105 (Introduction to Western Religion) - Exams, Class Tests</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">16</container>
+              <unittitle>Religion 105 (Introduction to Western Religion) -Reserve Lists, Book Orders</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">17</container>
+              <unittitle>Humanities 150-151 - Syllabi, Lecture Outlines, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">18</container>
+              <unittitle>Religion 221 (American Jewish Community) -Syllabi, Bibliographies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">19</container>
+              <unittitle>Religion 228 (American Jewish Community) - Class Rosters, Book Orders, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">20</container>
+              <unittitle>Religion 228 (American Jewish Community) - Exams</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">21</container>
+              <unittitle>Religion 289b (Jewish Mysticism) - Syllabi, Reserve Lists</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">22</container>
+              <container type="folder">22</container>
+              <unittitle>Religion 301 (Hebrew Prophets)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">22</container>
+            <unittitle>
+              <emph render="underline">Class Materials</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>Religion 321/121 (History of Jewish People) - Syllabi, Exams</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>Religion 121/321 (History of Jewish People) - Class Lists, Reserve Lists, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">3</container>
+              <unittitle>Religion 321/121 (History of Jewish People) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>Religion 321/121 (History of Jewish People) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>Religion 322 (Jewish Literature) - Syllabi, Reserve Lists, Exams</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">6</container>
+              <unittitle>Religion 322 (Jewish Literature) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">7</container>
+              <unittitle>Religion 322 (Jewish Literature) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">8</container>
+              <unittitle>Religion 322 (Jewish Literature) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">9</container>
+              <unittitle>Religion 322 (Jewish Literature) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">10</container>
+              <unittitle>Divinity 325 (Syriac) - Class Rosters, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">11</container>
+              <unittitle>Divinity 325 (Syriac) - Printed Tests</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">12</container>
+              <unittitle>Divinity 325 (Syriac) - Student Papers, Exams</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">13</container>
+              <unittitle>Divinity 325 (Syriac) - Lecture Notes, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">14</container>
+              <unittitle>Religion 504 (Psalms) - Class Rosters, Exams</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">15</container>
+              <unittitle>Religion 504/304 (Psalms) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">16</container>
+              <unittitle>Religion 504/304 (Psalms) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">17</container>
+              <unittitle>Religion 504/304 (Psalms) - Lecture Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">23</container>
+              <container type="folder">18</container>
+              <unittitle>Divinity 504/304 (Psalms) - Lecture Notes, Miscellaneous</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">24</container>
+            <unittitle>
+              <emph render="underline">Class Materials and Teaching Responsibilities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>Religion 517/31G (Judaism in New Testament Period) Syllabi, Bibliographies, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">2</container>
+              <unittitle>Religion 517/316 (Judaism in New Testament Period) Exams</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">3</container>
+              <unittitle>Emory University - Contemporary Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">4</container>
+              <unittitle>Carleton College - Modern Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">5</container>
+              <unittitle>Carleton College - Modern Judaism, Chairperson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">6</container>
+              <unittitle>Roll Books, Assorted Classes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">7</container>
+              <unittitle>Dissertation Abstracts, A-Sm</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">8</container>
+              <unittitle>Dissertation Abstracts, S-W</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">9</container>
+              <unittitle>Dissertation Proposals, A-Cra</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">10</container>
+              <unittitle>Dissertation Proposals, Cre-D</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">11</container>
+              <unittitle>Dissertation Proposals, F-H</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">12</container>
+              <unittitle>Dissertation Proposals, I-J</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">13</container>
+              <unittitle>Dissertation Proposals, K-L</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">14</container>
+              <unittitle>Dissertation Proposals, Mc-M</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">15</container>
+              <unittitle>Dissertation Proposals, N-O</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">16</container>
+              <unittitle>Dissertation Proposals, Raitt</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">17</container>
+              <unittitle>Dissertation Proposals, Re-S</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">18</container>
+              <unittitle>Dissertation Proposals, T-Wi</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">19</container>
+              <unittitle>Dissertation Proposals, Ur-?</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">20</container>
+              <unittitle>Qualifying Exams - Biblical Theology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">24</container>
+              <container type="folder">21</container>
+              <unittitle>Qualifying Exams - Church History</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">25</container>
+            <unittitle>
+              <emph render="underline">Teaching Responsibi1ities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">1</container>
+              <unittitle>Qualifying Exams - Greek</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">2</container>
+              <unittitle>Qualifying Exams - Hebrew</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">3</container>
+              <unittitle>Qualifying Exams - Hebrew</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">4</container>
+              <unittitle>Qualifying Exams - History of Religion</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">5</container>
+              <unittitle>Qualifying Exams - Judaism</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">6</container>
+              <unittitle>Qualifying Exams - New Testament</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">7</container>
+              <unittitle>Qualifying Exams - Old Testament</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">8</container>
+              <unittitle>Qualifying Exams - Theology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">9</container>
+              <unittitle>Sabbatical</unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">10</container>
+              <unittitle>Sabbatical</unittitle>
+              <unitdate>1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">11</container>
+              <unittitle>Sabbatical</unittitle>
+              <unitdate>1978</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">12</container>
+              <unittitle>Student Papers, B</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">13</container>
+              <unittitle>Student Papers, D-H</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">14</container>
+              <unittitle>Student Papers, M-N</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">15</container>
+              <unittitle>Student Papers, 0-Sen</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">16</container>
+              <unittitle>Student Papers Sm-U</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">17</container>
+              <unittitle>Student Files</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">18</container>
+              <unittitle>Notes Re: Student Schedules</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">19</container>
+              <unittitle>Talmud Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">25</container>
+              <container type="folder">20</container>
+              <unittitle>University of Chicago</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">26</container>
+            <unittitle>
+              <emph render="underline">Administrative Responsibilities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">1</container>
+              <unittitle>Afro-American Studies Program</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">2</container>
+              <unittitle>American Association of Univ. Profs.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">3</container>
+              <unittitle>Booksellers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">4</container>
+              <unittitle>Chancellor, Miscellaneous Memoranda, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">5</container>
+              <unittitle>Commencement</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">6</container>
+              <unittitle>Deptartment of Religion Studies - Personnel, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">7</container>
+              <unittitle>Deptartment of Religion Studies - Reports, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">8</container>
+              <unittitle>Divinity School - Dean&#39;s Search Committee, Memoranda, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">9</container>
+              <unittitle>Divinity School - Dean&#39;s Search Committee Minutes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">10</container>
+              <unittitle>Divinity School - Enrollment</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">11</container>
+              <unittitle>Divinity School - Faculty Colloquium</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">12</container>
+              <unittitle>Divinity School - Faculty Meeting Minutes, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">13</container>
+              <unittitle>Divinity School - Memoranda, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">14</container>
+              <unittitle>Divinity School - Personnel</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">15</container>
+              <unittitle>Divinity School - Reports, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">16</container>
+              <unittitle>Divinity School - Rules &#38; Regulations</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">17</container>
+              <unittitle>Divinity School - VDS/Black Relations</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">18</container>
+              <unittitle>Divinity School - Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">19</container>
+              <unittitle>Educational Policy Committee - Course Changes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">20</container>
+              <unittitle>Educational Policy Committee - Meeting Minutes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">21</container>
+              <unittitle>Educational Policy Committee - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">22</container>
+              <unittitle>Educational Policy Committee - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">23</container>
+              <unittitle>Educational Policy Committee - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">24</container>
+              <unittitle>Educational Policy Committee - Proposals</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">25</container>
+              <unittitle>Educational Policy Committee - Proposals</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">26</container>
+              <unittitle>Educational Policy Committee - Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">27</container>
+              <unittitle>Ethel Mae Wilson Fund</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">26</container>
+              <container type="folder">28</container>
+              <unittitle>Faculty Committee on Tenure - Drafts, Notes, etc</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">27</container>
+            <unittitle>
+              <emph render="underline">Administrative Responsibilities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">1</container>
+              <unittitle>Faculty Committee on Tenure - Drafts, Notes, etc</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">2</container>
+              <unittitle>Faculty Committee on Tenure - Drafts, Notes, etc</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">3</container>
+              <unittitle>Faculty Committee on Tenure - Drafts, Notes, etc</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">4</container>
+              <unittitle>Faculty Committee on Tenure - Drafts, Notes, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">5</container>
+              <unittitle>Faculty Committee on Tenure - Drafts, Notes, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">6</container>
+              <unittitle>Faculty Committee on Tenure - Drafts, Notes, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">7</container>
+              <unittitle>Faculty Committee on Tenure - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">8</container>
+              <unittitle>Faculty Committee on Tenure - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">9</container>
+              <unittitle>Faculty Committee on Tenure - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">10</container>
+              <unittitle>Faculty Committee on Tenure - Published Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">11</container>
+              <unittitle>Faculty Committee on Tenure - Published Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">12</container>
+              <unittitle>Faculty Committee on Tenure - Published Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">27</container>
+              <container type="folder">13</container>
+              <unittitle>Faculty Committee on Tenure - Published Materials</unittitle>
+            </did>
+            <note>
+              <p>Book: Faculty Tenure. Commission on Academic Tenure</p>
+            </note>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">28</container>
+            <unittitle>
+              <emph render="underline">Administrative Responsibilities</emph>
+            </unittitle>
+          </did>
+          <note>
+            <p>Book: The Tenure Debate. Barduell L. Smith &#38; Associates</p>
+          </note>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">1</container>
+              <unittitle>Faculty Committee on Tenure - Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">2</container>
+              <unittitle>Faculty Committee on Tenure - Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">3</container>
+              <unittitle>Faculty Committee on Tenure - Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">4</container>
+              <unittitle>Faculty Committee on Tenure - Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">5</container>
+              <unittitle>Faculty Committee on Tenure - Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">6</container>
+              <unittitle>Faculty Committee on Tenure - Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">7</container>
+              <unittitle>Faculty Council - Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">8</container>
+              <unittitle>Faculty Senate, Committee on Agenda Development &#38; Long Range Planning - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">9</container>
+              <unittitle>Faculty Senate, Committee on Agenda Development &#38; Long Range Planning - Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">10</container>
+              <unittitle>Financial</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">11</container>
+              <unittitle>Graduate Department of Religion - Enrollment</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">12</container>
+              <unittitle>Graduate Department of Religion - Faculty Meeting Minutes &#38; Agenda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">15</container>
+              <unittitle>Graduate Department of Religion - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">14</container>
+              <unittitle>Graduate Department of Religion - Ph.D. Theses in Progress</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">15</container>
+              <unittitle>Graduate Department of Religion - Programs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">16</container>
+              <unittitle>Graduate Department of Religion - Qualifying Exams Samples</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">17</container>
+              <unittitle>Graduate Department of Religion - Qualifying Exam Schedules</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">18</container>
+              <unittitle>Graduate Department of Religion - Rules &#38; Regulations; Tribal Lore</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">19</container>
+              <unittitle>Graduate Department of Religion - Rules &#38; Regulations, Torah, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">20</container>
+              <unittitle>Graduate Faculty Council - Course Changes, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">28</container>
+              <container type="folder">21</container>
+              <unittitle>Graduate Faculty Council - Course Changes, etc.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">29</container>
+            <unittitle>
+              <emph render="underline">Administrative Responsibi1ities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">1</container>
+              <unittitle>Graduate Faculty Council - Course Changes, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">2</container>
+              <unittitle>Graduate Faculty Council - Financial Aid</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">3</container>
+              <unittitle>Graduate Faculty Council - Library</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">4</container>
+              <unittitle>Graduate Faculty Council - Meeting Agendas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">5</container>
+              <unittitle>Graduate Faculty Council - Meeting Agendas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">6</container>
+              <unittitle>Graduate Faculty Council - Meeting Minutes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">7</container>
+              <unittitle>Graduate Faculty Council - Meeting Agendas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">8</container>
+              <unittitle>
+                Graduate Faculty Council - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">9</container>
+              <unittitle>Graduate Faculty Council - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">10</container>
+              <unittitle>Graduate Faculty Council - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">11</container>
+              <unittitle>Graduate Faculty Council - Minutes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">12</container>
+              <unittitle>Graduate Faculty Council - Minutes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">13</container>
+              <unittitle>Graduate Faculty Council - Minutes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">14</container>
+              <unittitle>Graduate Faculty Council, Physics Committee - Curriculum Vitae</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">15</container>
+              <unittitle>Graduate Faculty Council, Physics Committee - Curriculum vitae</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">16</container>
+              <unittitle>Graduate Faculty Council, Physics Committee - Curriculum Vitae</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">17</container>
+              <unittitle>Graduate Faculty Council, Physics Committee - Curriculum Vitae</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">18</container>
+              <unittitle>Graduate Faculty Council, Physics Committee - Curriculum Vitae</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">19</container>
+              <unittitle>Graduate Faculty Council, Physics Committee - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">20</container>
+              <unittitle>Graduate Faculty Council, Physics Committee - Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">21</container>
+              <unittitle>Graduate Faculty Council - Program Evaluation Materials, General</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">29</container>
+              <container type="folder">22</container>
+              <unittitle>Graduate Faculty Council - Program Evaluations, Anatomy</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">30</container>
+            <unittitle>
+              <emph render="underline">Administrative Responsibilities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">1</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations -Biochemistry</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">2</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Biology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">3</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Chemical Engineering</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">4</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Chemistry</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">5</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Civil Engineering</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">6</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Comparative Literature</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">7</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Economics</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">8</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Economics</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">9</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Electrical Engineering</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">10</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Electrical Engineering</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">11</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - English</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">12</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Environmental &#38; Water Resources Engineering</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">13</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - French &#38; Italian</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">14</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Geology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">15</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - German</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">16</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - History</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">17</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - History</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">18</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Mathemat ics</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">19</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Mechanical Engineering</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">30</container>
+              <container type="folder">20</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Mechanical Engineering</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">31</container>
+            <unittitle>
+              <emph render="underline">Administrative Responsibilities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">1</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Mechanical Engineering</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">2</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Microbiology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">3</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Molecular Biology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">4</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Phiolosophy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">5</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Philosophy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">6</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Political Science</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">7</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Pharmacology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">8</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Physics</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">9</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Physics</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">10</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Physiology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">11</container>
+              <unittitle>
+                Graduate Faculty Council, Program Evaluations - Psychology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">12</container>
+              <unittitle>
+                Graduate Faculty Council, Program Evaluations - Religion</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">13</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Religion</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">14</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Soc iology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">15</container>
+              <unittitle>Graduate Faculty Council, Program Evaluations - Spanish/Portuguese</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">16</container>
+              <unittitle>Graduate Faculty Council - Reports, Proposals, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">17</container>
+              <unittitle>Graduate Faculty Council - Reports, Proposals, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">18</container>
+              <unittitle>Graduate Fund - Jewish Students</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">19</container>
+              <unittitle>Grant 8, Fellowship Materials - ACLS</unittitle>
+              <unitdate>1964-1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">31</container>
+              <container type="folder">20</container>
+              <unittitle>Grant 8. Fellowship Materials -ACLS</unittitle>
+              <unitdate>1971</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">32</container>
+            <unittitle>
+              <emph render="underline">Administrative Responsibilities</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">1</container>
+              <unittitle>Grant &#38; Fellowship Materials - Fulbright</unittitle>
+              <unitdate>1956-1957</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">2</container>
+              <unittitle>Grant &#38; Fellowship Materials - Fulbright</unittitle>
+              <unitdate>1965-1966</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">3</container>
+              <unittitle>Grant &#38; Fellowship Materials -University Research Council</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">4</container>
+              <unittitle>Grant &#38; Fellowship Materials - Uanderbilt</unittitle>
+              <unitdate>1951-1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">5</container>
+              <unittitle>Grant &#38; Fellowship Materials, Others - Batey, Guenther</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">6</container>
+              <unittitle>Grant &#38; Fellowship Materials, Others - Harrelson, Hauer</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">7</container>
+              <unittitle>Grant &#38; Fellowship Materials, Others - Kaufman, Schachter, vanderbilt</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">8</container>
+              <unittitle>Humanities Committee</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">9</container>
+              <unittitle>
+                Library - Judaica Collection</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">10</container>
+              <unittitle>Library - Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">11</container>
+              <unittitle>Miscellaneous Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">12</container>
+              <unittitle>Miscellaneous Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">13</container>
+              <unittitle>Miscellaneous Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">14</container>
+              <unittitle>Miscellaneous Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">15</container>
+              <unittitle>Miscellaneous Reports</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">16</container>
+              <unittitle>Navy Chaplain&#39;s Seminars</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">17</container>
+              <unittitle>Provost - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">18</container>
+              <unittitle>Provost - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">19</container>
+              <unittitle>Provost - Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">20</container>
+              <unittitle>Provost - University Chaplain</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">21</container>
+              <unittitle>Publishers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">22</container>
+              <unittitle>Senate Committee on Student Affairs - Meeting Minutes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">23</container>
+              <unittitle>Senate Committee on Student Affairs - Memoranda</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">24</container>
+              <unittitle>Senate Committee on Student Affairs - Reports, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">25</container>
+              <unittitle>University Rules &#38; Regulations, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">26</container>
+              <unittitle>University Committee on Faculty Responsibility</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">32</container>
+              <container type="folder">27</container>
+              <unittitle>Walburga von Raffler Engel</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scholarly Associations and Meetings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">1</container>
+            <unittitle>American Academy of Religion (AAR) - Annual Meetings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">2</container>
+            <unittitle>AAR - Journal of the American Academy of Religion (JAAR)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">3</container>
+            <unittitle>AAR - Theolgy Committee</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">4</container>
+            <unittitle>AAR - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">5</container>
+            <unittitle>AAR - Paper Precis</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">6</container>
+            <unittitle>Association for Jewish Studies (AJS) - Annual Meetings, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">7</container>
+            <unittitle>AJS - Board of Directors Memoranda</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">8</container>
+            <unittitle>AJS - Board of Directors, Minutes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">9</container>
+            <unittitle>AJS - Curriculum Development</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">10</container>
+            <unittitle>AJS - Hebrew University Institute of Contemporary Jewry</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">11</container>
+            <unittitle>AJS - Membership &#38; Placement</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">12</container>
+            <unittitle>AJS - Newsletter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">13</container>
+            <unittitle>AJS - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">14</container>
+            <unittitle>American Society for the Study of Religion (ASSR) - Annual Business Meetings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">15</container>
+            <unittitle>ASSR - Annual Meetings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">16</container>
+            <unittitle>ASSR - Membership Lists, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">17</container>
+            <unittitle>ASSR - Minutes of Executive Council</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">18</container>
+            <unittitle>ASSR - Newsletters</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">19</container>
+            <unittitle>ASSR - Newsletters</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">20</container>
+            <unittitle>ASSR - Newsletters</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">21</container>
+            <unittitle>ASSR - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">22</container>
+            <unittitle>American Theological Society - Annual Meetings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">23</container>
+            <unittitle>American Theological Society - Membership Lists, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">33</container>
+            <container type="folder">24</container>
+            <unittitle>American Theological Society - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">1</container>
+            <unittitle>Council on the Study of Religion</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">2</container>
+            <unittitle>Religious Studies Review</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">3</container>
+            <unittitle>Society of Biblical Literature (SBL) - Annual Meetings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">4</container>
+            <unittitle>SBL - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">5</container>
+            <unittitle>SBL - Publications (Journal of Biblical Literature etc.)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">6</container>
+            <unittitle>SBL - Seminars</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">7</container>
+            <unittitle>Studiorum Novi Testamenti Societas (SNTS ) - General Meet ings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">8</container>
+            <unittitle>SNTS - Membership</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">9</container>
+            <unittitle>SNTS - Midrash Seminar</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">10</container>
+            <unittitle>SNTS - Subscriptions</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">11</container>
+            <unittitle>SNTS - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">12</container>
+            <unittitle>American Jewish Committee (AJC) - Fisk Consultation</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">13</container>
+            <unittitle>Atlanta Symposium of the Albert Schweitzer Centenary</unittitle>
+            <unitdate>1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">14</container>
+            <unittitle>Biblical Studies Symposium - Carlton College</unittitle>
+            <unitdate>Oct. 25-27, 1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">15</container>
+            <unittitle>Colloquey on the Relationship Among the Gospels - Trinity Univ.</unittitle>
+            <unitdate>May 26-29, 1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">16</container>
+            <unittitle>Colloquium on Jewish Studies - History &#38; Perspectives, Brandeis</unittitle>
+            <unitdate>1972</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">17</container>
+            <unittitle>Colloquium on Judaism &#38; Christianity - Harvard Divinity School</unittitle>
+            <unitdate>Oct. 17-20, 1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">18</container>
+            <unittitle>Conference on the Jewish Religious Tradition -University of Chicago</unittitle>
+            <unitdate>April 17-20, 1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">19</container>
+            <unittitle>Judaism Colloquium - Brandeis</unittitle>
+            <unitdate>1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">20</container>
+            <unittitle>Merton Festival</unittitle>
+            <unitdate>1972</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">21</container>
+            <unittitle>Notre Dame Qumran Seminar</unittitle>
+            <unitdate>1972</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">22</container>
+            <unittitle>Schleiermacher Consultation, Vanderbilt University</unittitle>
+            <unitdate>Feb. 28-March 2, 1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">23</container>
+            <unittitle>Summer Institute on Judaism &#38; Contemporary Thought</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">34</container>
+            <container type="folder">24</container>
+            <unittitle>Tuohy Symposium - Jan. 8-17, 1973 2.5 vanderbilt Institute on Judaism</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Consulting</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">1</container>
+            <unittitle>Canada Council</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">2</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc.; American Association of Theological Schools (ATS) - American Bapt ist</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">3</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">4</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Boston Theological Institute</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">5</container>
+            <unittitle>Danforth Foundation: Grant Proposals - Center for Applied Research in the Apostolate</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">6</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Catholic University of America</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">7</container>
+            <unittitle>Danforth Foundation: Grant Proposlas, etc. - Center for Studies in Religious Education</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">8</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Claremont College</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">9</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Colgate-Rochester Divinity School</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">10</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Council of Southwestern Theological Schools</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">11</container>
+            <unittitle>Danforth Foundation : Grant Proposals, etc. - Crozer Theological Seminary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">12</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Dubuque Seminary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">13</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Ecumenical Institute: Chicago</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">14</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc, - Eden Theological Seminary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">15</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Esalen Institute</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">16</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Graduate Theological Union</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">17</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Havurat Shalom</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">18</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Institute of Religion</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">19</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Institute of Study for Christian Preachers</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">20</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Inst, for Theological Encounter with Science &#38; Technology</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">21</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Nt1. Council of Churches</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">22</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Program for Inter-Professional Initiation</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">23</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Reconstructionist Rabbinical College</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">24</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Seminarians Organized for Racial Justice</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">25</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Twin Cities Seminarians</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">26</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Union Theological Seminary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">27</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Univ. of Oklahoma</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">28</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Vanderbilt University</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">29</container>
+            <unittitle>Danforth Foundation: Grant Proposals, etc. - Yale University</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">30</container>
+            <unittitle>Danforth Foundation: Interview Records</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">31</container>
+            <unittitle>Danforth Foundation: Meeting Minutes &#38; Agendas</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">32</container>
+            <unittitle>Danforth Foundation: Memoranda, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">35</container>
+            <container type="folder">33</container>
+            <unittitle>Danforth Foundation: Reports, Working Papers, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">1</container>
+            <unittitle>Danforth Foundation&#34;. Reports, Working Papers, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">2</container>
+            <unittitle>Danforth Foundation: Reports, Working Papers, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">3</container>
+            <unittitle>Danforth Foundation: Miscellaneous Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">4</container>
+            <unittitle>Danforth Foundation: Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">5</container>
+            <unittitle>Religious Education Association</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">6</container>
+            <unittitle>State University of New York (SUNY): Memoranda, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">7</container>
+            <unittitle>SUNY: Minutes, Agendas, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">8</container>
+            <unittitle>SUNY: Notes, Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">9</container>
+            <unittitle>SUNY: Proposals, Working Papers, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">10</container>
+            <unittitle>SUNY: Proposals, Working Papers, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">36</container>
+            <container type="folder">11</container>
+            <unittitle>SUNY: Publications</unittitle>
+          </did>
+          <note>
+            <p>Book: Report: State University of Neui York Planning Committee for ReliQious Studies</p>
+            <p>Book: Religious Studies in State University of Neui York</p>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Community Involvement</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">1</container>
+            <unittitle>Community Improvement Association</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">2</container>
+            <unittitle>Goodwill Industries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">3</container>
+            <unittitle>Metro Action Commission - Budget Material</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">4</container>
+            <unittitle>Metro Action Commission - Bylaws, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">5</container>
+            <unittitle>Metro Action Commission - Meeting Minutes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">6</container>
+            <unittitle>Metro Action Commission - Memoranda, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">7</container>
+            <unittitle>Metro Action Commission - Office of Economic Opportunity Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">8</container>
+            <unittitle>Metro Action Commission - Office of Economic Opportunity Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">9</container>
+            <unittitle>Metro Action Commission - Proposals</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">10</container>
+            <unittitle>Metro Action Commission - Proposals</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">11</container>
+            <unittitle>Metro Action Commission - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">12</container>
+            <unittitle>Nashville Community Relations Council</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">13</container>
+            <unittitle>Tennessee Commission for Human Development</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">14</container>
+            <unittitle>Tennessee Council on Human Relations - Memoranda, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">15</container>
+            <unittitle>Tennessee Council on Human Relations - Minutes, Reports, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">16</container>
+            <unittitle>Tennessee Council on Human Relations - Newsletters</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">17</container>
+            <unittitle>Tennessee Council on Human Relations - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">37</container>
+            <container type="folder">18</container>
+            <unittitle>Miscellaneous Pamphlets</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Jewish Involvement</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">1</container>
+            <unittitle>American Professors for Peace in the Middle East</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">2</container>
+            <unittitle>B&#39;nai B&#39;rith - Anti Defamation League</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">3</container>
+            <unittitle>B&#39;nai B&#39;rith - England</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">4</container>
+            <unittitle>B&#39;nai B&#39;rith Hillel Chair - Vanderbilt University</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">5</container>
+            <unittitle>B&#39;nai B&#39;rith Hillel Foundation - Institute for Race &#38; Religion</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">6</container>
+            <unittitle>B&#39;nai B&#39;rith Hillel Foundation - Summer Institute</unittitle>
+            <unitdate>1954</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">7</container>
+            <unittitle>B&#39;nai B&#39;rith Hillel Foundation - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">8</container>
+            <unittitle>B&#39;nai B&#39;rith Institute of Judaism</unittitle>
+            <unitdate>1960</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">9</container>
+            <unittitle>B&#39;nai B&#39;rith Youth Organization - Aleph Zadik Aleph Convention</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">10</container>
+            <unittitle>B&#39;nai B&#39;rith Youth Organization - Girls Convention</unittitle>
+            <unitdate>1956</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">11</container>
+            <unittitle>B&#39;nai B&#39;rith Youth Organization - Summer Institute on Judaism; Materials on the Teaching of Judaism</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">12</container>
+            <unittitle>B&#39;nai B&#39;rith Youth Organization - Summer Institute on Judaism; Materials on the Teaching fo Judaism</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">13</container>
+            <unittitle>B&#39;nai B&#39;rith Youth Organization - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">14</container>
+            <unittitle>Central Conference of American Rabbis - Annual Convention Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">15</container>
+            <unittitle>Central Conference of American Rabbis - Commission on Jewish Theology</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">16</container>
+            <unittitle>Central Conference of American Rabbis - Committee on Unaffi1iated</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">17</container>
+            <unittitle>Central Conference of American Rabbis - Institute on Reform Jewish Theology</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">18</container>
+            <unittitle>Central Conference of American Rabbis - Newsletters</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">19</container>
+            <unittitle>Clippings - Magazines</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">20</container>
+            <unittitle>Clippings - Newspapers</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">21</container>
+            <unittitle>Council of Jewish Federations &#38; Welfare Funds</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">22</container>
+            <unittitle>Hebrew Union College</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">23</container>
+            <unittitle>Havurat Shalom</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">38</container>
+            <container type="folder">24</container>
+            <unittitle>Havurat Shalom</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">1</container>
+            <unittitle>Institute for Jewish Life - Memoranda</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">2</container>
+            <unittitle>Institute for Jewish Life - Meeting Minutes, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">3</container>
+            <unittitle>Institute for Jewish Life - Reports, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">4</container>
+            <unittitle>Institute for Jewish Life - Reports, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">5</container>
+            <unittitle>Institute for Jewish Life - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">6</container>
+            <unittitle>Interreligious Dialogue: Catholic-Jewish Consultation (Nemi)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">7</container>
+            <unittitle>Interreligious Dialogue: Chicago Summer Biblical Institutes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">8</container>
+            <unittitle>Interreligious Dialogue: Jewish-Baptist Scholars Conference</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">9</container>
+            <unittitle>Interrel igious Dialogue: Memphis</unittitle>
+            <unitdate>1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">10</container>
+            <unittitle>Interreligious Dialogue: Houston</unittitle>
+            <unitdate>1980</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">11</container>
+            <unittitle>Interreligious Dialogue: World Council of Churches-International Jewish Committee on Interreligious Consultation Geneva Meeting</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">12</container>
+            <unittitle>Israel, State of</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">13</container>
+            <unittitle>Jewish Federation of Nashville &#38; Middle Tennessee</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">14</container>
+            <unittitle>Jewish University Without Walls</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">15</container>
+            <unittitle>Jewish Welfare Fund</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">16</container>
+            <unittitle>Wolli Kaelter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">17</container>
+            <unittitle>Nashville Area Jewish Community Council</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">18</container>
+            <unittitle>National Community Relations Advisory Council - Gideon Bible Distributors</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">19</container>
+            <unittitle>National Community Relations Advisory Council - Meeting Minutes, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">20</container>
+            <unittitle>National Community Relations Advisory Council - Memoranda, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">21</container>
+            <unittitle>National Community Relations Advisory Council - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">22</container>
+            <unittitle>Printed Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">23</container>
+            <unittitle>Zalman Schachter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">24</container>
+            <unittitle>Sh&#39;ma</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">25</container>
+            <unittitle>Norman Roth</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">26</container>
+            <unittitle>United Assn. of Hebrew Congregations</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">27</container>
+            <unittitle>Zipporah Films</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">39</container>
+            <container type="folder">28</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">1</container>
+            <unittitle>Awards</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">2</container>
+            <unittitle>Children</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">3</container>
+            <unittitle>Clippings - Newspapers &#38; Magazines</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">4</container>
+            <unittitle>Curriculum Vitae</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">5</container>
+            <unittitle>Financial - American Express</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">6</container>
+            <unittitle>Financial - Auto Europe</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">7</container>
+            <unittitle>Financial - Insurance</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">8</container>
+            <unittitle>Financial - Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">9</container>
+            <unittitle>Financial - University Salary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">10</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Writings/Speeches By Others</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">11</container>
+            <unittitle>ATS Presidential Address</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">12</container>
+            <unittitle>ATS Papers</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">13</container>
+            <unittitle>Adams - Arent</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">14</container>
+            <unittitle>Baum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">15</container>
+            <unittitle>Beck</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">16</container>
+            <unittitle>Bernstein - Blenkinsopp</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">17</container>
+            <unittitle>Borowitz</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">18</container>
+            <unittitle>Borowitz</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">19</container>
+            <unittitle>Bovon - Burghart</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">20</container>
+            <unittitle>Carpenter - Cox</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">40</container>
+            <container type="folder">21</container>
+            <unittitle>Crites - Crossan</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">1</container>
+            <unittitle>Curran</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">2</container>
+            <unittitle>Delorme - Ebeling</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">3</container>
+            <unittitle>Ebeling</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">4</container>
+            <unittitle>Ebeling</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">5</container>
+            <unittitle>Ebeling</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">6</container>
+            <unittitle>Ebeling</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">7</container>
+            <unittitle>Eckardt - Ellis</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">8</container>
+            <unittitle>Fackre - Fischel</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">9</container>
+            <unittitle>Forstman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">10</container>
+            <unittitle>Francis</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">11</container>
+            <unittitle>Friedman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">12</container>
+            <unittitle>Friedman - Friedrich</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">13</container>
+            <unittitle>Gadamer - Gaster</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">41</container>
+            <container type="folder">14</container>
+            <unittitle>Gershfield - Grech</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">1</container>
+            <unittitle>Harrelson - Heard</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">2</container>
+            <unittitle>Hendricks - Hendry</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">3</container>
+            <unittitle>Herzog - Hill</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">4</container>
+            <unittitle>Jenson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">5</container>
+            <unittitle>Johann - Jones</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">6</container>
+            <unittitle>Kaufman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">7</container>
+            <unittitle>Kimelman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">8</container>
+            <unittitle>Konvitz - Kopald</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">9</container>
+            <unittitle>Lamm - Lelyveld</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">10</container>
+            <unittitle>Liskofsky</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">11</container>
+            <unittitle>McGill</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">12</container>
+            <unittitle>McKnight - Macquarrie</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">13</container>
+            <unittitle>Mansoor - Meyer</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">14</container>
+            <unittitle>Mims - Miskotte</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">15</container>
+            <unittitle>Neirynck - Nelson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">16</container>
+            <unittitle>Neusner</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">17</container>
+            <unittitle>Neville</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">42</container>
+            <container type="folder">18</container>
+            <unittitle>Ogden</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">1</container>
+            <unittitle>Pannenberg</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">2</container>
+            <unittitle>Patte - Rengstorff</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">3</container>
+            <unittitle>Reynolds - Reuther</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">4</container>
+            <unittitle>Rivkin - Ryback</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">5</container>
+            <unittitle>Sabar - Sanders</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">6</container>
+            <unittitle>Schachter</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">7</container>
+            <unittitle>Schmidt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">8</container>
+            <unittitle>Shemen</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">9</container>
+            <unittitle>Shemen</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">10</container>
+            <unittitle>Shemen</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">11</container>
+            <unittitle>Shinn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">12</container>
+            <unittitle>Sibinga - Smith</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">13</container>
+            <unittitle>Spiegler - Stendahl</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">14</container>
+            <unittitle>Tal - Tanenbaum</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">15</container>
+            <unittitle>Thomas - Tolen</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">16</container>
+            <unittitle>Towner - Tracy</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">17</container>
+            <unittitle>Vogel</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">18</container>
+            <unittitle>Weinberg - Wilson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">43</container>
+            <container type="folder">19</container>
+            <unittitle>Unidentified</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
