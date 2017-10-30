@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Tillett, Wilbur Fisk Papers</titleproper>
+        <titleproper>Finding Aid for the Wilbur Fisk Tillett Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Wilbur Fisk Tillett Papers</unittitle>
+      <unitid>MSS.0457</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.1 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>A Chronology</head>
+      <chronlist>
+        <chronitem>
+          <date>Born: August 25, 1854</date>
+          <event>in Hendersonville, North Carolina, to John Tillett and Elizabeth Jenkins Wyche Tillett.</event>
+        </chronitem>
+        <chronitem>
+          <date>1871</date>
+          <event>Enrolled at Trinity College, now Duke University</event>
+        </chronitem>
+        <chronitem>
+          <date>1873</date>
+          <event>Transferred to Randolph-Macon</event>
+        </chronitem>
+        <chronitem>
+          <date>1876-77</date>
+          <event>Instructor in English and Mathematics at Randolph-Macon</event>
+        </chronitem>
+        <chronitem>
+          <date>1877</date>
+          <event>Entered Princeton Theological Seminary</event>
+        </chronitem>
+        <chronitem>
+          <date>1879</date>
+          <event>Master of Arts from Princeton</event>
+        </chronitem>
+        <chronitem>
+          <date>1880</date>
+          <event>Received into Virginia Conference of Methodist Episcopal Church, South and appointed pastor of Lynn Street Church, Danville, Virginia</event>
+        </chronitem>
+        <chronitem>
+          <date>1882</date>
+          <event>Began teaching career at Vanderbilt through influence of Bishop Holland N. McTyeire. First Chaplain of the university as well as teacher of Systematic Theology.</event>
+        </chronitem>
+        <chronitem>
+          <date>1883</date>
+          <event>Adjunct professor of Systematic Theology</event>
+        </chronitem>
+        <chronitem>
+          <date>1884</date>
+          <event>Full professor of Systematic Theology 1886-1919 Dean of the Biblical Dept. and Vice-chancellor</event>
+        </chronitem>
+        <chronitem>
+          <date>1888</date>
+          <event>Married Kate Schoolfield, who died in 1889.</event>
+        </chronitem>
+        <chronitem>
+          <date>1889</date>
+          <event>Member of committee compiling the
+            <emph render="underline">Hymn Book of the Methodist Episcopal Church, South</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1894</date>
+          <event>Married Laura Elizabeth McCloud</event>
+        </chronitem>
+        <chronitem>
+          <date>1899-1930</date>
+          <event>Member of Board of Education of Tennessee Conference of M.E. Church, South</event>
+        </chronitem>
+        <chronitem>
+          <date>1902</date>
+          <event>Published
+            <emph render="underline">Personal Salvation: Studies in Christian Doctrine Pertaining to the Spiritual Life</emph>
+            - one of his most widely read books</event>
+        </chronitem>
+        <chronitem>
+          <date>1905</date>
+          <event>Member of Commission preparing the
+            <emph render="underline">Methodist Hymnal</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1910-1914</date>
+          <event>Member of General Board of Education of M.E. Church, South</event>
+        </chronitem>
+        <chronitem>
+          <date>1912</date>
+          <event>Member of the Executive Committee of Federal Council of the Churches of Christ in America</event>
+        </chronitem>
+        <chronitem>
+          <date>1919-1936</date>
+          <event>Dean Emeritus of Vanderbilt Biblical Department</event>
+        </chronitem>
+        <chronitem>
+          <date>1936</date>
+          <event>Died</event>
+        </chronitem>
+      </chronlist>
+      <p>Source: Lester H. Colloms.
+        <emph render="underline">Wilbur Fisk Tillett</emph>. Louisville The Cloister Press, 1949.</p>
+      <p>Diplomas and Certificates:</p>
+      <p>W. F. Tillett</p>
+      <p>Doctor of Sacred Theology - Northwestern University.</p>
+      <p>Doctor of Sacred Theology - Wesleyan University.</p>
+      <p>Laura E. McCloud</p>
+      <p>Mistress of Arts and Science - Ashville Female College</p>
+      <p>Kate S. Tillett (daughter)</p>
+      <p>Certificate of Proficiency - Ward Seminary for Young Ladies.</p>
+      <p>Special Certificate - Ward Seminary for Young Ladies.</p>
+      <p>B. A.-Randolph-Macon College</p>
+      <p>M. A. - Vanderbilt University</p>
+      <p>M. A. - University of Wisconsin</p>
+      <p>Pi Gamma Mu Membership</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1-5</container>
+          <unittitle>Correspondence - Outgoing - Consisting of 24 letters, mostly carbon copies. Arranged chronologically. Two letters are undated and are placed at the end.</unittitle>
+          <note>
+            <p>Consisting of 24 letters, mostly carbon copies. Arranged chronologically. Two letters are undated and are placed at the end.</p>
+          </note>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6-16</container>
+          <unittitle>Correspondence - Incoming</unittitle>
+          <note>
+            <p>Total of 84 letters. Three postcards. Majority in typescript.</p>
+          </note>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>Printed New Year Greeting Cards signed by Dr. Tillett</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">18</container>
+          <unittitle>Pocket Calendars (5)</unittitle>
+          <unitdate>1898, 1900, 1901, 1902, 1903</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">19</container>
+          <unittitle>Pocket-size notebook containing sermon material</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">20</container>
+          <unittitle>Personal notes on various subjects - holograph</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">21-24</container>
+          <unittitle>Notes relating to hymn studies and book on annotated hymns. MSS of chapters</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">25-32</container>
+          <unittitle>Ms Material for Published Work on Hymns</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">25-32</container>
+          <unittitle>Ms Material for Published Work on Hymns</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">33</container>
+          <unittitle>Poems. 13 pieces. Arranged alphabetically by title</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">34</container>
+          <unittitle>Songs - Two songs for which Dr. Tillett wrote the words. &#x201C;My Father Knows&#x201D; - 2 copies; &#x201C;O Vanderbilt: Dear Vanderbilt!&#x201D; - 3 copies</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">35-39</container>
+          <unittitle>Publication by Dr. Tillett - 25 pamphlets; 1 book</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">40</container>
+          <unittitle>Bibles. Two New Testaments</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">41</container>
+          <unittitle>The Methodist Hymnal - leather bound</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">42</container>
+          <unittitle>Reviews of Dr. Tillett&#x2019;s Books. &#x201C;A Book That Will Live&#x201D;; &#x201C;Hymns and Hymn Writers of the Church&#x201D;; &#x201C;A Statement of the Faith of World-Wide Methodism - 2 copies</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">42</container>
+          <unittitle>Business Papers</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">43</container>
+          <unittitle>Tillett&#x2019;s Obituary - Ms.</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">44-45</container>
+          <unittitle>Publications and Articles by Other Authors. 7 pamphlets; 2 typescript articles. Arranged alphabetically by title</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">46</container>
+          <unittitle>Miscellaneous. 14 items. Including Vanderbilt Commencement program, 2 pamphlets, one photograph, announcements, one typed anecdote, one copy of partial charter of Emory University, etc.</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">47-67</container>
+          <unittitle>Newspaper and Magazine Clippings - Alphabetically arranged according to subject</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">68</container>
+          <unittitle>Small Scrapbook of Dr. Tillett. Large Scrapbook placed separately with Ms boxes</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">69</container>
+          <unittitle>Volume of Letters of Appreciation on Occasion of Dr. Tillett&#x2019;s Retirement</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">70</container>
+          <unittitle>Galliard&#x2019;s
+            <emph render="underline">Hymn of Adam and Eve</emph>, out of Fifth Book of Milton&#x2019;s
+            <emph render="underline">Paradise Lost</emph>
+            (1728)</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">4</container>
+          <unittitle>Nine Diplomas and Certificates placed separately in red tubed container next to Ms boxes</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>List of Incoming Correspondents</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Atkinson, J. C</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 30, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bartlett, S</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>July 20, 1911. postcard</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bastick, J. A</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 16, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Beeue, Dow B</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Sept. 3, 1910</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bingham, J. R</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>postmarked April 21, 1914. postcard</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Blackwell, R. E</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 21, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Brooks, Cleanth</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 17, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Chao, T. C</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Sept. 16, 1926</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cram, w. G., et. al</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Aug. 2, 1928</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Creel, E. K</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 18, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Crowe, H. P</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 18, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Curry, J. T</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 24, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Day, F. L</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 23, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Duke, B. N</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Sept. 11, 1926</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dumville, Samuel L</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>n.d</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Elliott, George</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>March 6, 1925</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Evans, M. O</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Nov. 2, 1910</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fisher, Sterling</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 20, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fitzhugh, G. T. and Biggs, Albert W</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Feb. 12, 1913</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Foster, R. N</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Dec. 21, 1903</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Game, Jonah? B</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 18, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Garrison, W. E</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 9, 1927</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Green, S. D</unittitle>
+            <physdesc>
+              <extent>2</extent>
+            </physdesc>
+            <unitdate>Jan. 29, 1925; Feb. 23, 1925</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Grogan, Jas. D</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 18, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hamill, H. M</unittitle>
+            <physdesc>
+              <extent>3</extent>
+            </physdesc>
+            <unitdate>May 25, 1912; June 9, 1912; April 22, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hoss, E. E</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Feb. 27, 1912</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Howard, A. T</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Nov. 3, 1926</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hughes, Edwin H</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>June 1, 1927</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Kern, Paul B</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 17, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Key, D. M</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 6, 1927</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Kimmel, G. B</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Nov. 22, 1926</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Kirkland, J. H</unittitle>
+            <physdesc>
+              <extent>6</extent>
+            </physdesc>
+            <unitdate>April 26, 1935; March 25, 1935; Jan. 6, 1936; Feb. 4, 1936 - enclosure. Feb 24, 1936; June 18, 1936 - enclosure</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lanneau, A. W</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 21, 1903</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lanius, Carol V</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 25, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lee, James W</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>? 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McClain, R. P</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 21, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McConnell</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>March 27, 1923</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Miley, Jno</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Nov. 16, 1886</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moose, William L</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 21, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Morgan, J. B</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>June 15, 1909 to Maj. F. P. McWhirter</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mullins, E. G</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Aug. 30, 1910</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mullowney, John J</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Aug. 20, 1926</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nuelson, John L</unittitle>
+            <physdesc>
+              <extent>5</extent>
+            </physdesc>
+            <unitdate>Jan. 6, 1910; Feb. 14, 1910; March 17, 1910 March 24, 1910; Aug. 3, 1910</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nutter, C. S</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Jan. 2, 1912</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Page, Walter H</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Jan. 3, 1918</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Paine, Silas H</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Dec. 14, 1891</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Perry, Mrs. J. W</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>June 15, 1931</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pettyjohn, John P. &amp; Co.,</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 20, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pollitt, F. S</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 22, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pope, R. B</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>March 31, 1895</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Powell, Nathan</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 18, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Price, Carl F</unittitle>
+            <physdesc>
+              <extent>2</extent>
+            </physdesc>
+            <unitdate>May 29, 1911; July 11, 1911</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rockefeller, John D., Jr</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Nov. 24, 1926</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Romine, W. B</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 26, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Scales, James R</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>July 16, 1912</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Seay, Frank</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 24, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sessions, T. F</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 19, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sipple, B. D</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 25, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smith, A. Frank</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>June 5, 1930</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stamey, E. L</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 20, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stevens, George Barker</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>May 1, 1902</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stoves, George</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Oct. 27, 1933</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Telford, John</unittitle>
+            <physdesc>
+              <extent>2</extent>
+            </physdesc>
+            <unitdate>May 1, 1911; Feb. 21, 1912</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tillett, Charles</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Aug. 30, 1926</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tillett, H. A. (Gus)</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>Oct. 23, 1928</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tucker, J. Woffard</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>June 18, 1889</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wasson, S. E</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 17, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Weaver, Lester</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 16, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Webb, W. R</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 23, 1927</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>White, Allene</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 23, 1927</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Whiteside, Warren T</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 18, 1914</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Young, Jesse Bowman</unittitle>
+            <physdesc>
+              <extent>1</extent>
+            </physdesc>
+            <unitdate>April 18, 1914</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Titles of Poems</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;A Faith That Cannot Know Defeat&#x201D;</unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;The Best is Yet to Be&#x201D;</unittitle>
+            <physdesc>
+              <extent>(also editorial included on p. 37 of paper)</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;But Her Heart Can See&#x201D;</unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;For Friends Like You&#x201D;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;The Incarnation&#x201D;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;O Vanderbilt! Dear Vanderbilt!&#x201D;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;Some Things God Might Have Done But Didn&#x2019;t</unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;A Sermon in Song&#x201D;</unittitle>
+            <physdesc>
+              <extent>3 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;A Vane Sermon&#x201D;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;We Do Out Part&#x201D;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;Heaven Holiest Song of Love&#x201D;</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Titles of Publications</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">A Call to Preach</emph>
+            </unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Conditions of Church Membership</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Creed and Character</emph>
+            </unittitle>
+            <physdesc>
+              <extent>3 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Date and Authorship of the Book of Daniel</emph>
+            </unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Future of the Biblical Department of Vanderbilt University</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Hand of God in American History</emph>
+            </unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Passion for Righteousness</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Rights and Duties of the Methodist Episcopal Church, South in Vanderbilt University</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Seed Corn for the World</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The South&#x2019;s Greatest Teacher of Boys</emph>
+            </unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">A Statement of the Faith of World-Wide Methodism</emph>
+            </unittitle>
+            <physdesc>
+              <extent>3 copies</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Theological Seminaries and Teacher Training</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Vanderbilt Biblical Institute</emph>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Pamphlets and Articles by Other Authors</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Biographical Index of the Authors of the Hymns</emph>
+              - no author given</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Essentials of Vocational Information</emph>
+            </unittitle>
+            <physdesc>
+              <extent>2 copies</extent>
+            </physdesc>
+            <note>
+              <p>Kate S. Tillett</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Hymn Festival Programs</emph>
+            </unittitle>
+            <note>
+              <p>Carl F. Price</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>&#x201C;Jesus the World Soul&#x201D;</unittitle>
+            <note>
+              <p>V. M. Collins</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Old &#x2018;Sawney&#x2019;</emph>
+            </unittitle>
+            <note>
+              <p>Ida Clyde Clarke</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Praise of the Virgin in Early Latin Hymns</emph>
+            </unittitle>
+            <note>
+              <p>Ruth Ellis Messenger</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Religious Value of Hymns</emph>
+            </unittitle>
+            <note>
+              <p>William P. Merrill</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">The Significance of the Old French Psalter</emph>
+            </unittitle>
+            <note>
+              <p>Waldo Selden Pratt</p>
+            </note>
+            <note>
+              <p>Last three pamphlets and
+                <emph render="underline">Hymn Festival Programs</emph>
+                are part of a series edited by Carl F. Price, The Papers of the Hymn Society.</p>
+            </note>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Categories of Clippings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Andrew Jackson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Articles by Tillett</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Articles About Tillet</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Book Reviews of Tillett&#x2019;s Books</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Book Reviews Of Other Books</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Drinking and Prohibition</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Education</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>History</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Methodist Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Missions</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Music</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Obituaries</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Religious Doctrines</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Doctrine of Sanctification</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sunday Observance</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Vanderbilt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <index>
+      <head>List of Correspondents in Volume of Letters of Appreciation</head>
+      <indexentry>
+        <name>Abney, O. M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ader, O. P.</name>
+      </indexentry>
+      <indexentry>
+        <name>Akin, J. G.</name>
+      </indexentry>
+      <indexentry>
+        <name>Alexander, Will W.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ashida, Keiji</name>
+      </indexentry>
+      <indexentry>
+        <name>Baker, W. L.</name>
+      </indexentry>
+      <indexentry>
+        <name>Baker, Ward McKim</name>
+      </indexentry>
+      <indexentry>
+        <name>Beale, George L.</name>
+      </indexentry>
+      <indexentry>
+        <name>Beauchamp, W. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Bourne, William R.</name>
+      </indexentry>
+      <indexentry>
+        <name>Bowen, C. A.</name>
+      </indexentry>
+      <indexentry>
+        <name>Briuson, Summers</name>
+      </indexentry>
+      <indexentry>
+        <name>Brooks, Joseph H.</name>
+      </indexentry>
+      <indexentry>
+        <name>Browne, O. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Buyers, Paul E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Campbell, C. K.</name>
+      </indexentry>
+      <indexentry>
+        <name>Campbell, H. U.</name>
+      </indexentry>
+      <indexentry>
+        <name>Campbell, Will B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Candler, B. T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Canter, H. M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Carre, Henry Beach</name>
+      </indexentry>
+      <indexentry>
+        <name>Carter, Cullen T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Chambers, Herbert O.</name>
+      </indexentry>
+      <indexentry>
+        <name>Chao, T. C.</name>
+      </indexentry>
+      <indexentry>
+        <name>Christian, W. Asbury</name>
+      </indexentry>
+      <indexentry>
+        <name>Clark, Blmer T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Clement, A. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Cook, Edmund F.</name>
+      </indexentry>
+      <indexentry>
+        <name>Cook, Osgood F.</name>
+      </indexentry>
+      <indexentry>
+        <name>Cooper, G. F.</name>
+      </indexentry>
+      <indexentry>
+        <name>Cooper, Oscar T.</name>
+      </indexentry>
+      <indexentry>
+        <name>C-?, Theodore</name>
+      </indexentry>
+      <indexentry>
+        <name>Corder, W. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Cowan, H.</name>
+      </indexentry>
+      <indexentry>
+        <name>Grady Craig, R. J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Crowe, C. R.</name>
+      </indexentry>
+      <indexentry>
+        <name>Crowe, Fletcher S.</name>
+      </indexentry>
+      <indexentry>
+        <name>Cuninggins, J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Curtis, W. M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Davis, W. A.</name>
+      </indexentry>
+      <indexentry>
+        <name>Day, Frank C. L.</name>
+      </indexentry>
+      <indexentry>
+        <name>Demaree, T. W. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Dempsey, Elam F.</name>
+      </indexentry>
+      <indexentry>
+        <name>Dixon, J. W.</name>
+      </indexentry>
+      <indexentry>
+        <name>Dowd, O. W.</name>
+      </indexentry>
+      <indexentry>
+        <name>Duncan, Berry Jackson</name>
+      </indexentry>
+      <indexentry>
+        <name>Dunkle, William F.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ellison, R. R.</name>
+      </indexentry>
+      <indexentry>
+        <name>Evans, George J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Flinn, Glenn</name>
+      </indexentry>
+      <indexentry>
+        <name>Gamble, Foster K.</name>
+      </indexentry>
+      <indexentry>
+        <name>Givens, Claude P.</name>
+      </indexentry>
+      <indexentry>
+        <name>Glasgow, B. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Glass, H. I.</name>
+      </indexentry>
+      <indexentry>
+        <name>Greene, C. J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Gunter, A. L.</name>
+      </indexentry>
+      <indexentry>
+        <name>H-?, Thos.</name>
+      </indexentry>
+      <indexentry>
+        <name>Hagler, J. A.</name>
+      </indexentry>
+      <indexentry>
+        <name>Hall, W. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Hargis, Geo. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Hawlains, R. M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Hornbach, J. M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Hounshell, C. G.</name>
+      </indexentry>
+      <indexentry>
+        <name>Hutchinson, Forney</name>
+      </indexentry>
+      <indexentry>
+        <name>Irion, J. W.</name>
+      </indexentry>
+      <indexentry>
+        <name>Joyner, N. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Kern, Paul B.</name>
+      </indexentry>
+      <indexentry>
+        <name>King W. P.</name>
+      </indexentry>
+      <indexentry>
+        <name>Klyer, W. H.</name>
+      </indexentry>
+      <indexentry>
+        <name>Kubota, G.</name>
+      </indexentry>
+      <indexentry>
+        <name>Lanius, Carol V.</name>
+      </indexentry>
+      <indexentry>
+        <name>Lewis, E. D.</name>
+      </indexentry>
+      <indexentry>
+        <name>Lewis, J. D.</name>
+      </indexentry>
+      <indexentry>
+        <name>Li, Tien Chuch</name>
+      </indexentry>
+      <indexentry>
+        <name>Long, Lem R.</name>
+      </indexentry>
+      <indexentry>
+        <name>Lowe, L. D.</name>
+      </indexentry>
+      <indexentry>
+        <name>Lowrey, P. O.</name>
+      </indexentry>
+      <indexentry>
+        <name>Luton, J. P.</name>
+      </indexentry>
+      <indexentry>
+        <name>Matsumoto, M.</name>
+      </indexentry>
+      <indexentry>
+        <name>May, John Albert</name>
+      </indexentry>
+      <indexentry>
+        <name>Menard, W. T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Moore, E. G.</name>
+      </indexentry>
+      <indexentry>
+        <name>Moore, Leland</name>
+      </indexentry>
+      <indexentry>
+        <name>Moore, Roy</name>
+      </indexentry>
+      <indexentry>
+        <name>Morgan, George A.</name>
+      </indexentry>
+      <indexentry>
+        <name>Morgan, J. J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Muraoka, Buichi</name>
+      </indexentry>
+      <indexentry>
+        <name>Murata, T.</name>
+      </indexentry>
+      <indexentry>
+        <name>McCullock, J. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Mcculloch, J. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>McGeehee, Chas. D.</name>
+      </indexentry>
+      <indexentry>
+        <name>McLeod, N. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Nakamura, Kinzi</name>
+      </indexentry>
+      <indexentry>
+        <name>Naylor, George D.</name>
+      </indexentry>
+      <indexentry>
+        <name>Nelson, Jno. R.</name>
+      </indexentry>
+      <indexentry>
+        <name>Nelson, J. W.</name>
+      </indexentry>
+      <indexentry>
+        <name>Odell, Edson K.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ormond, J. M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Owens, H. Bascowe</name>
+      </indexentry>
+      <indexentry>
+        <name>Oxford, J. S.</name>
+      </indexentry>
+      <indexentry>
+        <name>Parsons, J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Robert Pennington, B. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Perry, Louis C.</name>
+      </indexentry>
+      <indexentry>
+        <name>Phaup, LeRoy J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Pipkin, Charles W.</name>
+      </indexentry>
+      <indexentry>
+        <name>Powell, Paul S.</name>
+      </indexentry>
+      <indexentry>
+        <name>Purcell, Clare</name>
+      </indexentry>
+      <indexentry>
+        <name>Ragsdale, T. C.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ratledge, A. P.</name>
+      </indexentry>
+      <indexentry>
+        <name>Rawlings, E. H.</name>
+      </indexentry>
+      <indexentry>
+        <name>Rector, G. C.</name>
+      </indexentry>
+      <indexentry>
+        <name>Reves, Claude M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ricks, Wm. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ruff, Robert H.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ruyle, C. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ryang, J. S.</name>
+      </indexentry>
+      <indexentry>
+        <name>Seay, Frank</name>
+      </indexentry>
+      <indexentry>
+        <name>Senchker, James Seehorn</name>
+      </indexentry>
+      <indexentry>
+        <name>Simpson, Claude M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Shackford, John W.</name>
+      </indexentry>
+      <indexentry>
+        <name>Slaton, S. T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Smith, G. F.</name>
+      </indexentry>
+      <indexentry>
+        <name>Smith, Wesley M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Stevenson, Henry M.</name>
+      </indexentry>
+      <indexentry>
+        <name>Stevenson, R. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Stodghill, T. Whitt</name>
+      </indexentry>
+      <indexentry>
+        <name>Stokes, Henry</name>
+      </indexentry>
+      <indexentry>
+        <name>Stowe, J. J.</name>
+      </indexentry>
+      <indexentry>
+        <name>Tally, Charles T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Tanaka, Y.</name>
+      </indexentry>
+      <indexentry>
+        <name>Taylor, J. F.</name>
+      </indexentry>
+      <indexentry>
+        <name>Touchstone, C.</name>
+      </indexentry>
+      <indexentry>
+        <name>Towson, Willard E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Turrentine, S. B.</name>
+      </indexentry>
+      <indexentry>
+        <name>Tylen, Frank A.</name>
+      </indexentry>
+      <indexentry>
+        <name>Waiter, Bennett T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Ware, W. R.</name>
+      </indexentry>
+      <indexentry>
+        <name>Waterfield, Clough A.</name>
+      </indexentry>
+      <indexentry>
+        <name>Weaver, Lester</name>
+      </indexentry>
+      <indexentry>
+        <name>Welburn, William D.</name>
+      </indexentry>
+      <indexentry>
+        <name>Wells, Frank L.</name>
+      </indexentry>
+      <indexentry>
+        <name>Wiggins, C. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Willcoxon, J. T.</name>
+      </indexentry>
+      <indexentry>
+        <name>Wilson, M. E.</name>
+      </indexentry>
+      <indexentry>
+        <name>Wilson, N. H. D.</name>
+      </indexentry>
+      <indexentry>
+        <name>Wynn, R. H.</name>
+      </indexentry>
+    </index>
+  </archdesc>
+</ead>
