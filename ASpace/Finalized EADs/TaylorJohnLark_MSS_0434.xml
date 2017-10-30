@@ -1,0 +1,2938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="EAD.xsl"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Taylor, John Lark Papers</titleproper>
+        <titleproper>Finding Aid for the John Lark Taylor Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p><date>2010</date></p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>John Lark Taylor Papers</unittitle>
+      <unitid>MSS.0434</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.04 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1879/1944" type="inclusive"></unitdate>
+      <abstract>The John Lark Taylor Papers contain correspondence, plays and original music by Taylor, photographs, promptbooks, playbills, radio scripts, and other stage and radio memorabilia spanning 1879 to 1944.</abstract>
+    </did>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>The John Lark Taylor Papers contain correspondence, plays and original music by Taylor, photographs, promptbooks, playbills, radio scripts, and other stage and radio memorabilia spanning 1879 to 1944. The collection includes an autobiography by
+        Taylor and an account of his season playing in
+        <emph render="italic">Hamlet</emph>
+        with John Barrymore.</p>
+    </scopecontent>
+    <acqinfo>
+      <p>John Lark Taylor bequeathed his collection of personal papers jointly to Peabody College and Vanderbilt University in 1946.</p>
+    </acqinfo>
+    <bioghist>
+      <head>Biography</head>
+      <p>John Lark Taylor was born in Nashville, Tennessee in 1881. He attended Tarbox School and Fall Business College in Nashville before turning his attention to the stage.</p>
+      <p>As a teen, he played piano to accompany silent films in Nashville's first movie house. His first professional job was a $5/week vaudeville stint in St. Louis when he was 17 years old. The following year, he moved to New York and joined the
+        Augustin Daly Stock Company. His first Broadway play was the Daly production of
+        <emph render="italic">Taming of the Shrew</emph>
+        with Tyrone Power, Sr. After Daly died in 1899, Taylor played with other stock companies in California and Nashville before returning to New York.</p>
+      <p>By 1906, Lark Taylor had joined the Sothern-Marlowe Company, and he played in theater productions for the company for the next 10 years. In 1922-1923, he played a part in the Arthur Hopkins' production of
+        <emph render="italic">Hamlet</emph>
+        with John Barrymore.</p>
+      <p>In 1924, Taylor sold his New York residence and moved back to Nashville with his mother. He started a Little Theater and began performing plays in a movie house near the Belcourt Theatre in Hillsboro Village. In 1933 he began doing radio programs
+        for WSM, announcing broadcasts and performing in radio dramas. He continued his radio career until his retirement in 1942.</p>
+      <p>John Lark Taylor died on March 27, 1946 after a long illness.</p>
+    </bioghist>
+    <processinfo>
+      <p>All correspondence is arranged alphabetically. The figure in parentheses immediately following each name denotes the total number of letters from that person in the collection; the dates are for the time of the letters. The full name of the writer
+        of the letter is given whenever possible.</p>
+    </processinfo>
+    <dsc type="othertype">
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1-3</container>
+          <unittitle>Biographical material; holograph autobiography; typescript autobiography</unittitle>
+          <unitdate normal="1944"></unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>&quot;My Season With John Barrymore in
+            <emph render="underline">Hamlet</emph>
+          </unittitle>
+          <unitdate normal="1923"></unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5-6</container>
+          <unittitle>Correspondence - Incoming</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Baggett, John F. (to WSM Radio) (1)</unittitle>
+            <unitdate>14 January 1935</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Barton, S. W. (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bircham, Lily (1)</unittitle>
+            <unitdate>6 November 1903</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Blossom, E. C. (1)</unittitle>
+            <unitdate>6 May 1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Brown, Gilmore (1)</unittitle>
+            <unitdate>19 March 1939</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Burrus, Jefferson (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Clark, James E. (to WSM Radio) (1)</unittitle>
+            <unitdate>9 January 1935</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Colyar, Mrs. George (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cross, Amy (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dave, E. H. (1)</unittitle>
+            <unitdate>10 August 1930</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Davis, Mrs. Katie (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>DePew, Marion (1)</unittitle>
+            <unitdate>28 October 1931</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Elliott, Mrs. Annie Mary (1)</unittitle>
+            <unitdate>16 February 1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gerstenberg, Alice Erya (3)</unittitle>
+            <unitdate>20 January 1932, 28 January 1932, 30 January 1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gilbert, Rev. W. A. Harris, Sybil Jewett, Mrs. Henry Jones, Rebecca E. Kendall, Lucy May (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Kuhn, Casper B. Kyle, Howard (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McCloud, J. F. (to Mrs. Emma Taylor) (2)</unittitle>
+            <unitdate>30 June 1930, 19 November 1930 (1) 26 April 1930</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Miller, Henry (3)</unittitle>
+            <unitdate>12 October 1934, 17 October 1934, 29 October 1934</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Palmer, K. O. A. (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pattison, Mrs. Leona (2)</unittitle>
+            <unitdate>n.d., 28 March 1932 (1) 22 December 1931 (1) 8 December 1924</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Riehl, Mildred (1)</unittitle>
+            <unitdate>23 February 1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Short, George (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smith, Mrs. Gilbert (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Snyder, Mary R. (&quot;Carlotta&quot;) (3)</unittitle>
+            <unitdate>n.d., 27 October 7, 4 March 1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wiggs, George W.</unittitle>
+            <unitdate>(1) 17 May 1932</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Williams, Mrs. Bessie (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Williams, Claude (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>
+              <emph render="underline">Incomplete Signatures</emph>
+            </unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>Bert (1)</unittitle>
+              <unitdate>6 May 1932</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Julie (1)</unittitle>
+              <unitdate>21 April 1932</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Ned (1)</unittitle>
+              <unitdate>13 January 1932</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Phillip K. (1)</unittitle>
+              <unitdate>3 February 1932</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Illegible (1)</unittitle>
+              <unitdate>10 January 1908</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>&#8220; (to Mrs. Quin) (1)</unittitle>
+              <unitdate>18 November ?</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence - Outgoing</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Taylor to unknown recipient</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>Bills, contract</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1-12</container>
+          <unittitle>Plays and stories by Taylor</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13; Box: 3, Folder: 1-2</container>
+          <unittitle>Music by Taylor</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Dance of the Birds</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Darlene</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fairy's Song</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Good Morning Ladies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hilo Somebody</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Honey</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Hoodoo Gal</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>How Beautiful Upon the Mountains I'm A' Goin' Away In Thy Love Again I Live Jesus Only</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Joy O' Living! from
+              <emph render="underline">Sylvelia</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>King Hakow</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Love the Conqueror - Fairy Chorus</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Love's Coronation</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Lover Bold</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lullaby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mignonette</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>My Ever Lovin' Baby</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>My Rosieline - words by Marie LeRoy</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Water Babies</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Old Songs of Long Ago - a medley written for the Vanderbilt Glee Club</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The One I Adore and The Moon Path (by Adams &amp; Beach)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Page's Song - from
+              <emph render="underline">Charlemagne</emph>
+              (arrangements for various instruments)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ragtime Romeo Sally Brown</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sometimes and A White Rose</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Song of the Road - words from poem by James Whitcomb Riley</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Song of Summer - words by Will Allen Dromgoole</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Thou Art the Theme Tinker Belle</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Twinkle and Blinky - from
+              <emph render="underline">Star Children Stories</emph>
+              by Serita MacLeary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wild Goose Shanty</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1-2</container>
+          <unittitle>Music by Taylor</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <unittitle>Workbooks, scrapbooks, notebooks</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle>Miscellaneous holograph notes</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle>Holograph worknotes</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle>Programs of plays in which Taylor appeared</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>Photographs - Taylor</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle>Photographs - Taylor</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">2-6</container>
+          <unittitle>Photographs - Theatre and stage personalities</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Adams, Maude (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Allan, Maud (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Anderson, Mary (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Anglin, Margaret (4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Barry, Eleanor (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Barrymore, Eleanor (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Barrymore, John (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Barrymore, John, Jr. (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Bates, Blanche (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Bellew, Kyrie (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Benson, F. R. (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Bernhardt, Sarah (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Blimm, Holbrook (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Campbell, Mrs. Pat (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Cayvan, Miss (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Cheatham, Kitty (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Clayburgh, ? (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Coburn, Charles (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Coghlan, Rose (3) 1 autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Daly, Arnold (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Davenport, Fanny (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Del Rio, Dolores (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Douglas, Charles E. (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Duncan, Jean (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Edeson, Robert (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Elliott, Maxime (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Farnum, Dustin (1) %</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Favershara, William (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Fiske, Mrs. (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Frederick, Pauline (7) 3 autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Garitza, Marie (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Gillette, William (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>GilIman, Mabel (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Gorden, Mary (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Gresham, Herbert (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Griffith, David (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Haramill, Hugh (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Hammond, Virginia (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Hickman, Bessie (Mrs. Howard) (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Hickman, Howard (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Hitchcock, Raymond (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Irving, Henry (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Irwin, May (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Jewett, Henry (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Keenan, Frank (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Langtry, Lily (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Laurener, Edmund (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Lewis, Iva (2) 1 autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Loftus, Cecilia (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>MacDonaId, Christie (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>MacDowell, George J. (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Mamillus, Grenvilie (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Mansfield, Richard (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Mantel, Robert (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Marlowe, Julia (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Mart inde 1, Ed &amp; Jane (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Miller, Henry (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Modjeska, Madame (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Morris, Lucy B. (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Naz imova (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Nesbit, Evelyn (5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Nethersole, Olga (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Nijinsky (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>O'Neil, Nance (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Patterson, Elizabeth (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Pavlova (6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Perugini, Signor (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Powers, Eugene (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Rehan, Ada (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Reicher, Hedwig (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Ritchie, Adele (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Roshanara (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Russell, Lillian (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Salvini (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Scheff, Fritzi (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Schoolar, Norma (2) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Sherer, Norma (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Sothern, E. H. (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Starling, Lynn (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Stone, Florence (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Sunderland, Pet (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Talioferro, Mabel (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Taylor, Laurette (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Tellefen, Lou (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Terry, Ellen (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Terry, Phyllis Nelson (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Valentino, Rudolph (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Vuray, Ruth (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Wallace-Hopper, Edna (2) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Warfield, David (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Washburns, Charles C. (1) autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Wilson, Francis (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Wilson, Katherine (4) 3 autographed</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Woodruff, Henry (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Yergin, Sonja (1) autographed</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>Promptbooks - Icebound</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2</container>
+          <unittitle>Promptbooks - Shakespeare (4)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">3-21</container>
+          <unittitle>Play scripts by others</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">22-25</container>
+          <unittitle>Radio scripts</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1-7</container>
+          <unittitle>Radio scripts</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">8-9</container>
+          <unittitle>&quot;Poems and Songs&quot;, WSM Radio show materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>All Through the Night Asthore</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Blow, Blow, Thou Winter's Wind</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>By the Bend of the River</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Down in the Forest</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Dreams</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Forgotten</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Good to Forgive</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Hark! Hark! the Lark</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>The Harp that Once Through Tara's Halls The Herb Forgetfulness Hindoo Song</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>I'll Sing Thee Songs of Araby In Bygone Days Kashmiri Song Largo</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Less than the Dust</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Loch Lomond</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>No Night There</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Oh Fair, Oh Sweet and Holy</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>The Road to Yesterday</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>The Song of Songs (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Three-part solo with contralto, bass, and tenor parts</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Till I Wake</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Unmindful of the Roses</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Who is Sylvia? (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>All in the April Evening</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Beloved, It Is Morn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>For the Beauty of the Earth</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Jean</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>The Lord's Prayer The Lost Chord</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>My Moonlight Madonna</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Near the Cross Her Vigil Keeping</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Still, Still With Thee</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Summer Longings</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Take My Life and Let It Be</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Where My Caravan Has Rested</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">1-7</container>
+          <unittitle>&quot;Poems and Songs,&quot; WSM Radio show materials</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>As My Dear Old Mother (3) A Banjo Song (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Believe Me, If All Those Endearing Young Charms (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Blessed Are the Pure in Heart</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Blue Are Her Eyes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Clouds (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Dedication (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>For You Alone</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Home on the Range</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Home, Sweet Home (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Just A-Wearyin' for You</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Kathleen Mavourneen (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Massa's in the Cold Ground (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>None But the Lonely Heart (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>A Plantation Hymn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Serenade (Keeping Watch O'er My Maiden)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Serenade (Softly Through the Night)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Serenade (Thro' the Leaves)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>The Star (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Steal Away (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Trees (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Annie Laurie</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>At Dawning</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Beaten Biscuit</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Blue are Her Eyes</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The Brooklet</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Calm as the Night (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Do You Remember?</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Drink to Me Only with Thine Eyes Duna</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Estrellita</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Evening Fair</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Flow Gently S t Afton</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>For All Eternity</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Forgotten</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Four Leaf Clover (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>From the Land of the Sky-Blue Water</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Goin' Home</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The Gypsy Trail</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Hear Mel Ye Winds and Waves!</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The Hills of Home</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>I Love Thee</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>If</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>If I Can Live</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>In the Gloaming</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>In the Luxembourg Gardens</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>In a Persian Garden</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>In the Time of Roses</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Into the Woods</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The Last Hour</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Last Night</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Lead Kindly Light</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Lingering, Lonely Rose</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Little Lady of the Moon</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Little Man</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>My Desire</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>My Old Kentucky Home, Good Night</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>O Dry Those Tears!</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>O Irraingard!</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Old Black Joe</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The Old Road</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>One Fleeting Hour</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>A Red, Red Rose</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Roilin' Home</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Sence You Went Away</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The Silver Ring</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Smilin' Through</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>A Spirit Flower</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Sunset</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Sylvia</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Tears of God</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The Temple Bells</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>There is a Land</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Till I Wake</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Twilight on the Trail</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Where Cross the Crowded Ways of Life</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Where'er You Walk (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>While My Heart is Singing to You</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>The World is Waiting for the Sunrise</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Brotherhood</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>The Good Green Acres of Home</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>In the County of Davidson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Jesus Christ</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>May Day Carol</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>The Mystery of Song</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Responses</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>A Thought Like Music</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Danny Dever Dearest Believe</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Do Not Go, My Love Elegy
+              <emph render="bold">(2)</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>An Evening Prayer (3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>The Heart Bowed Down</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>The Hills of Home</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>It Singeth Low in Every Heart</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Jeanie with the Light Brown Hair</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Long, Long Ago
+              <emph render="bold">(2)</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Mah Lindy Lou
+              <emph render="bold">(2)</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Passing By</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Watchman Tell Us of the Night</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Above the Hills</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>A Brown Bird Singing (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Carry Me Back to the Lone Prairie</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>The Christian Life</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Down in the Forest</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Flow Gently, Sweet Afton</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Home to My Blue Hills</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Little Grey Home in the West</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>The Lord's Prayer</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>A Perfect Day</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>A Plantation Hymn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Saviour, Hear Us, We Pray</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>A Spirit Flower</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Sweet Hour of Prayer</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>A Thought Like Music</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Absent</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Beneath the Cross of Jesus</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Bird Songs at Eventide</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>The Blind Ploughman</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Do Not Go, My Love</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Home on the Range</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>I Love Life</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Iris</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>The Lonesome Road</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>The Monotone</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>The Ninety and Nine
+              <emph render="bold">(2)</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>None But the Lonely Heart</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>The Old Road</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Think Love of Me</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Uncle Rome
+              <emph render="bold">(2)</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Friend 0' Mine</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>I Am Fate!</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>The Last Hour</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Massa's in the Cold Ground</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Nobody Knows the Trouble I See</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>The Pauper's Drive</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Pilgrim's Song</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Santa Lucia</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">8</container>
+          <unittitle>Poems by others</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">9</container>
+          <unittitle>Miscellaneous music by others</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">10</container>
+          <unittitle>John Barrymore note to wardrobe mistress</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">11</container>
+          <unittitle>Newspaper clippings - Taylor</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">12</container>
+          <unittitle>Newspaper clippings - Nashville</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">13-14</container>
+          <unittitle>Newspaper clippings - Barrymores</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">15-16</container>
+          <unittitle>Newspaper clippings - Theatre and stage</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">1-3</container>
+          <unittitle>Newspaper clippings - Miscellaneous</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">4-13</container>
+          <unittitle>Playbills and Programs</unittitle>
+          <unitdate normal="1879/1919" type="inclusive"></unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">1-14</container>
+          <unittitle>Playbills and Programs</unittitle>
+          <unitdate normal="1921/1924" type="inclusive"></unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">15</container>
+          <unittitle>Playbills and Programs</unittitle>
+          <unitdate>undated</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">16</container>
+          <unittitle>Printed Materials - Drama and Theatre</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">17</container>
+          <unittitle>Printed Materials -
+            <emph render="underline">Lead Kindly Light</emph>
+            by Cardinal Newman</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">18</container>
+          <unittitle>Printed Materials - Menus, German marks</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">1</container>
+          <unittitle>Printed Materials - Miscellaneous</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">2</container>
+          <unittitle>Printed Materials - Nashville</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">3</container>
+          <unittitle>Printed Materials -
+            <emph render="underline">The 1915 Mode</emph>
+            and speeches by Robert L. Taylor</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">4</container>
+          <unittitle>Printed Materials - Shakespeare materials</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">5</container>
+          <unittitle>Printed Materials -
+            <emph render="underline">The Thespian Preceptor</emph>
+            published by J. Roach</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">6</container>
+          <unittitle>Printed Materials -
+            <emph render="underline">World's Columbian Exposition, 1892</emph>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">12</container>
+          <unittitle>Oversize - Photographs and Miscellaneous</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Pencil Drawing - unidentified (1)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Photographs - Hand-tinted - unidentified (2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Photographs - Identified</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Armstrong, Will&#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Barrymore, John &#8211; autographed</unittitle>
+              <unitdate>1922</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Barrymore, John &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Bori, Lucretia &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Burrus, Jefferson D. &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Carter, Mrs. Leslie</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Caruso</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>D'Auvrieyies</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Doyle, Miriam &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Ellsler, Effie</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Fairbanks, Douglas</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Faversham, William</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Fox, Della</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Fuller, Rosalind &#8211; autographed</unittitle>
+              <unitdate>1923</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Gilbert, William &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Goodrich, Edna</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Goodrich, Edna</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Gould, Rita &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Gould, Rita &#8211; autographed</unittitle>
+              <unitdate>1928</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Hall, Laura Nelson &#8211; autographed</unittitle>
+              <unitdate>1899</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Hamilton, Alice &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Hughie, Margarite</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Illington, Margaret</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Jode', Fran &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Jonani, Irene &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Keene, Doris &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Kern, Cecil &#8211; autographed</unittitle>
+              <unitdate>1918</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>LaVarre, Marie &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>LaVerne, Lucille &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Lawlor, Andrew J. Jr &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Lewis, Charlotte &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Lewis, Ida &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Lo-Ve' &#38; Wilber &#8211; autographed</unittitle>
+              <unitdate>1918</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>MacDowell, Irene &#8211; autographed</unittitle>
+              <unitdate>1907</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>MacDowell, Melbourne &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Martinnice, Edward B &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>McDonald, Christie</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Moore, Grace &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Nijinsky, Waslav</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>O'Neil, Nance &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>O'Neil, Nance - autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>O'Neil, Nance &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>O'Toole, Gwendolen &#8211; autographed</unittitle>
+              <unitdate>1918</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Patten, Henry W. &#8211; autographed</unittitle>
+              <unitdate>1913</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Pavlova, Anna</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Power, Tyrone &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Power, Tyrone</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Rich, Irene &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Russell, Lillian &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Simmons, Ernest R. &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Sothern, E. H</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Sothern, E. H. &#38; Julia Marlowe</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Sothern, E. H. &#38; Julia Marlowe</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Stephens, Emily</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Stove, Ren &#8211; autographed</unittitle>
+              <unitdate>1909</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Teel, Olive &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Vesey, Minnie Crudup &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Vesey, Minnie Crudup</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Warburton, John &#8211; autographed</unittitle>
+              <unitdate>1929</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Warren, Bessie &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>Waters, Hadley &#8211; autographed</unittitle>
+              <unitdate>1919</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>West, Mae &#8211; autographed</unittitle>
+              <unitdate>n.d.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Photographs - unidentified (11)</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
