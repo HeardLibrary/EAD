@@ -1,1253 +1,1985 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-<eadid countrycode="US"></eadid>
-<filedesc>
-<titlestmt>
-<titleproper type="filing">Tigert, John James IV, Collection</titleproper>
-<titleproper>Finding Aid for the John James Tigert IV, Collection</titleproper>
-<author></author>
-</titlestmt>
-<publicationstmt>
-<publisher>Special Collections Manuscripts and Rare Books</publisher>
-<p><date>undated</date></p>
-<address>
-<addressline>419 21st Avenue South</addressline>
-<addressline>Nashville, TN 37203-2427</addressline>
-<addressline>specialcollections@vanderbilt.edu</addressline>
-<addressline>URL:
-<extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
-</address>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<langmaterial>
-<language langcode="eng">English</language>
-</langmaterial>
-<repository>
-<corpname>Special Collections Manuscripts and Rare Books</corpname>
-</repository>
-<unittitle>George Peabody College Photograph Collection</unittitle>
-<unitid>MSS.0455</unitid>
-<physdesc altrender="whole">
-<extent altrender="materialtype spaceoccupied">8.75 linear feet</extent>
-</physdesc>
-<unitdate>undated</unitdate>
-</did>
-<bioghist>
-<head>Biographical:</head>
-<p>John J. Tigert, IV, Feb. 11, 1882.-. Jan. 21, 1965</p>
-<p>Psychology, Education, A.B., Vanderbilt University; B.A., Oxford University; M.A., University of Minnesota; LL.D., University of Kentucky; President of University of Florida, 1928-47; Served on White House Conference of Child Health and Protection; Advisory Council, Institute of Pacific Relations; Professor of Philosophy, University of Kentucky, 1911-17; Trustee, Vanderbilt University. Book published: Bishop Holland Nimmons McTyeire.</p>
-</bioghist>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle><emph render="underline">Container Nos. Series</emph></unittitle>
-</did>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Biographical-chronological table of his life and work. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Important dates in his life (from paper of Richard Herbert Moorman). Chronology of events and dates (from letters written to Amelia Townsend McTyeire). 1 container</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Correspondence-Outgoing.</unittitle>
-<unitdate>Feb. 15, 1847-0ct. 17, 1888</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">1</container>
-<unittitle>Outgoing correspondence of 234 letters, 1 card. Chronologically arranged by days and Jnths. Letters are holograph and carbon copies. 1 container. (Microfilmed letters from McTyeire to Garland and letters from Cornelius Vanderbilt to McTyeire.)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>Correspondence-Incoming. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">2</container>
-<unittitle>Incoming correspondence of 207 letters, 1 telegram. Alphabetically arranged. Letters are holograph and carbon copies.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Sermon outlines. 1844-1852. Chronologically arranged by years. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Sermon manuscripts. 1 container. Alphabetically arranged by title:</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Beauty of Holiness: The Choice of Moses: The Eleventh Hour: Fearing Always: Following the Multitude: God Is Not Slack: Insecurity of Life: Life More Abundantly: The Love of Our Neighbor: National Fast Day; Those Two Sons: The Truth of God: Waiting Patiently upon the Lord.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Addresses and lectures. Chronologically arranged. 1840-1887. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>My First Speech: Should Emigration be Restricted by Law? Affirmative; Agriculture; Speech at Temperance Meeting in Mobile: Twelve lectures delivered at Demopolis, Alabama: The Flynn-McTyeire Lecture Series; Duties of Christian Masters to Servants: Ministry of Little Children: Address at Foundation of Martin Female College in 1870 (holograph); My Old Servant,11 Uncle Cy11 : Reminiscences of Cokesbury, South Carolina; Address at Re-internment of Bishops McKendree and Soule on Vanderbilt Campus; Debate between H. N. McTyeire and A. M. Shipp.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">3</container>
-<unittitle>Newspaper clippings of articles by him.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Last words before leaving: last will and testament.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Material relating to the Methodist Episcopal Church</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Books published.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Master and Servant (essay) from Duties of Masters to Servants published 1851 by Southern Baptist Publication Society, Charleston, South carolina: A History of Methodism, published by Southern Methodist Publishing House, Nashville, Tennessee in 1870. These books are cataloged and are in our Special Collections Department.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Miscellaneous materials. 1 container. Materials about McTyeire and others alphabetically arranged by author.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Syllabus-Holland Nimmons McTyeire, Pioneer and Builder: Material from scrapbook of Jane McTyeire Baskerville: H. N. McTyeire, by Hoyt Dobbs: Eminent Methodists by 0. P. Fitzgerald and c. B. Galloway; McTyeire as an Editor; Recollections of McTyeire by Richard Irby; Biography by Thomas McAdory; The Bishop, Holland Nimmons McTyeire, {1824-1889) by Richard Herbert Moorman; Cokesbury School and Conversion by C. E. Peele; South Carolina Conference-Methodist Church, Clemson, South Carolina by John J. Tigert, IV; Recollections (incomplete) by W. A. Teague, student; Tear sheets from Southern Christian Advocate and the Vanderbilt Alumnus.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Memorials, alphabetically arranged. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Jane McTyeire Baskerville Scrapbook; Chancellor&#8217;s Report; Board of Trust Resolutions; The Christian Advocate; Newspaper references to his death; Tigert Scrapboek; Reminiscences of c. B. Wallace.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Family History. 1 container. Chronologically arranged, principally genealogy.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The McTyeire Family: the Nimmons Family; the children of John and Elizabeth McTyeire; brothers and sisters of Holland Nimmons McTyeire; Births, marriages and deaths; Leaves from the family bible; History of Everitt and Townsend families; John J. Tigert, IV&#8217;s visit to family seat at Barnwell, South Carolina; Inscriptions on graves in McTyeire Family cemetery at Uchee, Russell County, Alapama; the history of Opelika, Alabama, involving the McTyeire Famil!y; the will of William Nimmons.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Tributes. Tributes to members of McTyeire family and others, alphabetically arranged. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Tribute to Mary McTyeire Hamilton by Jane McTyeire Baskerville; tribute to Amelia Townsend McTyeire in Christian Advocate; substance of Bishop Fitzgerald&#8217;s remarks at her funeral; resolutions by Vanderbilt Board of Trust honoring Amelia Townsend McTyeire; Time magazine&#8217;s coverage of war activities of Holland McTyeire (Howlin Mad) Smith; tribute to Frank Crawford Vanderbilt; the Robert Crawford Scholarship Fund for Boys and Girls from Mobile, Alabama;</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>The Soong Family. Printed matter.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Legal Documents. Sale of property.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Documents relating to appointment of Negro bishop.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Material from scrapbook of Jane McTyeire Baskerville, principally memorials.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">4</container>
-<unittitle>Photographs</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Documents and papers relating to the founding of Vanderbilt University. Holograph and printed. Chronologically arranged.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">5</container>
-<unittitle>Charter of the Central University 1872; Central University of The Methodist Episcopal Church, South, exparte July 1873; Proceedings of the Board of Trust 1873; Resolution accepting gift of $500, 000.00 from Cornelius Vanderbilt, March 26, 1873; Statement of lands of University, May 22, 1873; Synopsis of plans and specifications for new University approved by Cornelius Vanderbilt, Aug. 25, 1873; Dedication of Vanderbilt University, Oct. 3, 1875; Commencement program, June 21, 1876; Receipt for bonds from Cornelius Vanderbilt for $300,000.00, Dec. 8, 1876; Lease of 11 Rokeby': 1880 Program for laying of cornerstone of Wesley Hall, May 4, 1880; Dedication of Wesley Hall, May 8, 1881; Vanderbilt University Commencement Program, May 31, 1882; Information to Theological students; Pamphlet on Biblical Department, 1885-1886; Receipt of $900,000.00 in Lake Shore and Micqigan Southern railway bonds, Feb. 12, 1886; Vanderbilt University versus Whithorne, 1886; Deposition of Holland N. McTyeire in case of Hurt vs Hamilton, Jan. 5, 1887; Statement of case; statement of receipts and disbursement of certain accounts for Vanderbilt University from Sept. 1, 1887-Mar. 12, 1888: Propositions discussed between Nashville College for Young Ladies and the Vanderbilt University Minutes, Vanderbilt Univers ty Board of Trust, Jan. 26, 1872 May 28, 1883: Receipts, contracts, leases involved in building Vanderbilt University: Agreements for the management of Wesley Hall: Early map of campus; eopper plate, Vanderbilt University 1880.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Biographical</unittitle>
-<unitdate>1856-1906</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Correspondence-Outgoing</unittitle>
-<unitdate>June 3, 1891-Jan. 6, 1900</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Outgoing correspondence of 12 letters. Chronologically arranged. All are holograph.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Correspondence-Incoming.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Incoming correspondence of 14 letters. Alphabetically arranged. Mostly holograph.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Newspaper articles, printed in 1874, with an index.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Printed articles: The Junior Catechism: God in History:</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>The Original Status of the Methodist Episcopal Church, South. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Manuscripts. Alphabetically arranged by title. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Andrew Jackson: Ethics, the Science of Duty: The Liberty of Woman: Original Status of Methodist Episcopal. Church, South: Outlines of Christian Doctrine: he Semitic Tongues: The Theory of Knowledge: Was the Christmas Conference a General Conference?</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Lecture Notes. 1 container.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Two books of lecture notes, dated Sept. 3, 1878 and Jan. 26, 1888. Chronologically arranged. Holograph.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Minutes and Lectures.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Secretary&#8217;s Book, Band of Brothers, Broadway Methodist Episcopal Church, Louisville, Kentucky</unittitle>
-<unitdate>July 1, 1872</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Sermons 1 book of sermons (holograph) delivered at Louisville, June 23, 1877.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">6</container>
-<unittitle>Books: Life After Death by Fechner: Russell County in Retrospect by Ann Kennedy Walker. These books are cataloged and are in our Special Collections Department.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Correspondence-Outgoing</unittitle>
-<unitdate>May 6, 1929-Jan. 28, 1957</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Outgoing correspondence of 114 letters, 1 telegram, 1 card, undated. Chronologically arranged by days and months. Letters are typewritten, carbon copies.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Correspondence-Incoming.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Incoming correspondence of 219 letters, alphabetically arranged. Holograph and typescript carbon copies.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Introduction to Passing hrough Gates and Other Sermons. Vanderbilt University V Book, Class 1951.</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>Other Correspondence (by persons other than to or from McTyeire, Tigert, Tigert, IV:)</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<container type="box">7</container>
-<unittitle>54 letters. Arranged alphabetically by correspondent. Holograph and typescript.</unittitle>
-</did>
-</c02>
-</c01>
-</dsc>
-<index>
-<head>INDEX</head>
-<p>This is the name index of the correspondence of the John James Tigert, IV, Collection. The figure (or figures) in parenthesis immediately following each name denotes the total number of letters from that person in the collection; the dates are for the time of the letters. The full name of the writer is given whenever possible; when not given, indicate it. The last number given refers to the box in which the correspondence may be found.</p>
-<p>A</p>
-<indexentry>
-<name>Acklen, William H.,</name> <ref>(1); <date>Nov. 10, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Adams, S. D.,</name> <ref>(1); <date>July 15, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Allen, Young J.,</name> <ref>(6); <date>Aug. 21, 1885, Dec. 23, 1885, Dec. 29, 1885; Jan. 12, 1886, Feb. 18, 1886, 1 undated; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Andrew, James 0.,</name> <ref>(3); <date>June 9, 1866, Aug. 27, 1866, Dec. 1868; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Atkinson, W. B.,</name> <ref>(1); <date>Sept. 4, 1943; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Austin, William G., (and other signatures,)</name> <ref>(1); <date>Dec. 21, 1888; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>B</head>
-<indexentry>
-<name>Baer, Dr. H. to Professor Charles Frank Smith,</name> <ref>(1); <date>Feb. 15, 1892</date></ref>
-</indexentry>
-<indexentry>
-<name>Barnard, A. P., to Cornelius Vanderbilt (copy);</name> <ref><date>June 29, 1876; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Bar ard, E. E.,</name> <ref>(2); <date>Sept. 8, 1887, 1 undated; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Baskerville, Jane McTyeire,</name> <ref>(13); <date>2 undated, July 24, 1924, Feb. 24, 1932, May 8, 1932, Oct. 5, 1932, Nov. 2, 1933, Jan. 7, 1934, Apr. 7, 1934, June 3, 1934, Feb. 11, 1936, Jan. 3, 1940, Aug. 12, 1941; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Baskerville, Jane McTyeire to Sarah Ward Conley,</name> <ref>(l); <date>Feb. 3, 1938; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Bell, C. C.,</name> <ref>(1}; <date>Jan. 9, 1959; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Benton, John Keith,</name> <ref>(1); <date>Feb. 4, 1956; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Betts, Albert D.,</name> <ref>(1}; <date>Feb. 20, 1956; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Bigham, Truman C.,</name> <ref>(1); <date>June 15, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Branscomb, Harvie,</name> <ref>(2}; <date>Nov. 27, 1950, July 2, 1956; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Brockman, Fletcher S.,</name> <ref>(1); <date>Apr. 14, 1944;7</date></ref>
-</indexentry>
-<indexentry>
-<name>Brooks, Arthur H.,</name> <ref>(3); <date>June 20, 1955, June 30, 1955, July 13, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Brooks--</name> <ref>(1); <date>Mar. 14, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Brooks, Leslie E.,</name> <ref>(1); <date>Apr. 14, 1882; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Brown, swan J.,</name> <ref>(1}; <date>Sept. 2, 1874; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Bruce, J. H.,</name> <ref>(1); <date>July 7, 1887; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Brundage, Albert H., to L.C. Garland,</name> <ref>(1); <date>Apr. 25, 1888; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Bruner, Daniel M.</name> <ref>(2); <date>Mar.3, 1886, Mar. 26, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Buchanan, C.H.,'to Jane Baskerville,</name> <ref>(1); <date>July 24, 1921; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Bumpas, c. R., to Josua W. Jordan,</name> <ref>(2); <date>Nov. 28, 1883, Jan. 27, 1885; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Burnett, J. R.,</name> <ref>(2); <date>July 11, 1874, Mar. 25, 1879; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>C</head>
-<indexentry>
-<name>Callaghan, Cornelius,</name> <ref>(1); <date>Apr. 13, 1881; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Callaway, Julia,</name> <ref>(2) <date>June 21, 1955, June 24, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Cammerer, Henry,</name> <ref>(1); <date>July 14, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Campbell, D. S.,</name> <ref>(1); <date>Apr. 22, 1941; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>candler, Warren,</name> <ref>(8); <date>May 4, 1932, May 12, 1932, Oct. 2, 1933, Oct. 8, 1933, Oct. 17, 1933, Oct. 20, 1933, Oct. 25, 1933,0ct. 30, 1933; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Carmichael, Olivr Cromwell to Devereux Lake,</name> <ref>(4); <date>Apr. 10, 1939, Apr. 22, 1940, to Elizabeth Baskerville Wall, Nov. 11, 1943, Jan. 15, 1944;: 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Clark, Blanche, Henry,</name> <ref>(1) ; <date>card Oct. 2, 1940; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Cole, E. W.,</name> <ref>(l); <date>Sept 10, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Cooper,&#38; Co.,</name> <ref>(1); <date>July 17, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Corbitt, Duvon C.,</name> <ref>(1); <date>Oct. 17, 1956; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Cothule, Joseph B.,</name> <ref>(1); <date>July 11, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Cox, Harvey W.,</name> <ref>(1); <date>May 4, 1940; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Coxe, Sam,</name> <ref>(1); <date>July 2, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Crawford, Martha to Amelia McTyeire,</name> <ref>(1); <date>undated;</date></ref>
-</indexentry>
-<indexentry>
-<name>Crawford, R. L.,</name> <ref>(2); <date>Aug. 25, 1886, Sept. 15, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Cresap, Ida Keeling,</name> <ref>(1); <date>July 19, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Crow, John M.,</name> <ref>(1); <date>Aug. 27, 1888; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>D</head>
-<indexentry>
-<name>Dameron, William H., (and others),</name> <ref>(1); <date>June 14, 1858; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Deems, Charles F.,</name> <ref>(1); <date>June 21, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Deems, Charles F., to Cornelius Vanderbilt,</name> <ref>(1); <date>June 19, 1886; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Deering, Waller,</name> <ref>(4); <date>Feb. 25, 1885, Nov. 26, 1886, May 27, 1887, Sept. 27, 1888; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Derrick, s. M.,</name> <ref>(1); <date>July 14, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Dietz, August III,</name> <ref>(2); <date>June 21, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Dobbs, Hoyt M.,</name> <ref>(20); <date>Apr. 16, 1943, Nov. 7, 1951, Jan. 28, 1952, Feb. 4, 1952, Feb. 11, 1952, Feb. 22, 1952, March 21, 1952, Sept. 9, 1952, Jan. 22, 1953, Mar. 21, 1953, May 28, 1953, June 1, 1953, Dec. 15, 1953, Jan. 21, 1954, Apr. 4, 1954, Oct. 11, 1954, 3 undated; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Dodd, T. J. to W. C. Johnson,</name> <ref><date>June, 25, 1885; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Douglas, Hamilton,</name> <ref>(3);<date> Dec. 20, 1950, Jan. 22, 1952, Apr. 13, 1954; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Dubose, Hampden C.,</name> <ref>(1); <date>Jan. 20, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Dubose, H. c., toW. A. Candler,</name> <ref>(1); <date>Oct. 19, 1933; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Dudley, William L. to L. c. Garland,</name> <ref>(2); <date>Oct. 24, 1885, June 22, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Duff, James,.</name> <ref>(1); <date>Feb. 17, 1957; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Dugdale, Mrs. Emily,</name> <ref>(1); <date>June 27, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Duggett, J. M.,</name> <ref>(2); <date>June 25, 1878, July 27, 1878; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Duncan, William,</name> <ref>(3); <date>July 7, 1885, June 22, 1888, Oct. 16, 1888; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Duren, W. L.,</name> <ref>(17); <date>Nov. 28, 1934, May 26, 1944, Aug. 20, 1952, Feb. 7, 1953, Mar. 2, 1953, Mar. 12, 1953, Mar. 19, 1953, Mar. 30, 1953, May 11, 1953, May 18, 1953, May 20, 1953, June 2, 1953, Sept. 23, 1953, Nov. 18, 1953, Mar. 18, 1954, Mar. 26, 1954, Mar. 30, 1954; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Dutton, E. P. &#38; Co., (Roberta Smith),</name> <ref>(1); <date>June 28, 1955; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>E</head>
-<indexentry>
-<name>East, Edward H.,</name> <ref>(1); <date>July 8, 1888; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Easterby, J. H.,</name> <ref>(1); <date>Oct. 10, 1951; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Edwards, Arthur,</name> <ref>(1); <date>Oct. 29, 1888; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Eidson, John 0.,</name> <ref>(1); <date>June 24, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Ellis, Ira, to Nicholas Ellis,</name> <ref>(1); <date>Feb. 12, 1836; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Evans, Augusta, to Mrs. Cornelius Vanderbilt,</name> <ref>(2); <date>Feb. 13, --1 undated; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Evans, Henry,</name> <ref>(1); <date>Jan. 23, 1885; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>F</head>
-<indexentry>
-<name>Ferguson, George 0.,</name> <ref>(1);<date> Aug. 15, 1951; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Ferrell, H. A.,</name> <ref>(2); <date>Jan. 17, 1952, Mar. 7, 1952; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Field, Nora Nimmons,</name> <ref>(3); <date>Aug. 23, 1935, Nov. 1, 1935, Feb. 6, 1952; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Fite, Thomas D.,</name> <ref>(1); <date>Jan. 30, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Flewellen, A. c.,</name> <ref>(1); <date>Jan. 27, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Floyd, W. L.,</name> <ref>(1); <date>Jan. 24, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Foster, Thomas C., (and others),</name> <ref>(1); <date>Dec. 21, 1858; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>G</head>
-<indexentry>
-<name>Galloway to Bishop?,</name> <ref>(1); <date>Feb. 4, 1888; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Gardner, Edwin S.,</name> <ref>(1); <date>Oct. 18, 1954; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Garland, L.C.,</name> <ref>(28); <date>Apr. 2, 1873, June 16, 1873,rDec. 23, 1873, Dec. 31, 1873, Jan. 12, 1874, Jan. 21; 1874, Feb. 3, 1874, Feb. 2, 1874, Feb. 16, 1874, Feb. 26, 1874, Apr. 4, 1874, Apr. 8, 1874, Apr. 15, 7q . l, 1874, Dec. 22, 1874, Apr. 19, 1874, Apr. 22, 1875, may 9 1875, June 20, 1875, Sept. 2, 1875, Sept. 4, 1875, Jan. 31, 1876, Feb. 3, 1876, Apr. 25, 1876, Apr. 26, 1876, Apr. 27, 1876, July 11, 1876, July 7, 1887, Sept. 28, 1888; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Garrison, E. K.,</name> <ref>(4); <date>Mar. 22, 1935, Mar. 26, 1935, Mar. 30, 1935, Apr. 30, 1935; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Golson, JohnS.,</name> <ref>(2); <date>May 30, 1939, June 27, 1939; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Gordon, Harry,</name> <ref>(1); <date>May 23, 1938; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Granberry, J.C.,</name> <ref>(4); <date>June 14, 1875, Jan.,28, 1886, Mar. 1, 1886, Oct. 22, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Gray, R. A.,</name> <ref>(1); <date>Dec. 4, 1958; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>H</head>
-<indexentry>
-<name>Hamilton, Alfred P.,</name> <ref>(3); <date>June 2, 1967, June 13, 1967, July 12, 1967; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Hamilton, I, to Amelia Townsend,</name> <ref>(2); <date>March 31, 1847, Apr. 20, 1847; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Hamilton, J. D.,</name> <ref>(1); <date>Apr. 20, 1893; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Hamilton, J.D., to Bishop Galloway,</name> <ref>(1); <date>Sept. 18, 1891; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Hamilton, J. P.,</name> <ref>(1); <date>March 23, 1.894; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Harmon, Nolan B., Jr.,</name> <ref>(1); <date>June 1, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Harrell, Costen J.,</name> <ref>(3); <date>Apr. 1, 1939, Apr. 6, 1939, June 13, 1939; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Harris, J. N.,</name> <ref>(1); <date>July 10, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Harrison, W. P.,</name> <ref>(2); <date>July 6, 1886, May 25, 1892; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Harrison, W. P.,</name> <ref>(1); <date>May 25, 1892; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Hartzog, L.A.,</name> <ref>(7); <date>May 13, 1935, May .18, 1935, May 28, 1935, Oct. 12, 1938, May 25, 1944, Oct. 28, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Harvey, Julia Smith,</name> <ref>(1}; <date>Feb. 4, 1956; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Hearn, Thomas J.,</name> <ref>(1); <date>Jan. 13, 1897; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Hendrix, E. R.,</name> <ref>(2); <date>Oct. 3, 1884; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Hendrix, E. R., to Mrs. E. R. Galloway,</name> <ref><date>Oct. 10, 1911; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Henley, John C.,</name> <ref>(1); <date>undated; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Henry, RobertS.,</name> <ref>(2); <date>Feb. 15, 1945, March 12, 1945; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Hering, J. W., to L. c. Garland,</name> <ref><date>May 28, 1886; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Hoover, Albert c.,</name> <ref>(1); <date>undated; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Howard, Maey P.,</name> <ref>(1); <date>June 30, 1955; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>J</head>
-<indexentry>
-<name>Jackson, Green P.,</name> <ref>(1); <date>Jan. 5, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Jackson, James,</name> <ref>(1); <date>undated; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Jemison, Margaret,</name> <ref>(1); <date>May 9, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>John, I. G.,</name> <ref>(1); <date>Aug. 25, 1887; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Johnson, W. C., to L. C. Dodd,</name> <ref><date>July 2, 1885; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Johnson, W. C.,</name> <ref>(2); <date>June 25, 1885, Dec. 25, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Jung, R.W.,</name> <ref>(1); <date>June 21, 1886; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>K</head>
-<indexentry>
-<name>Kelley, D. C.,</name> <ref>(3); <date>May 17, 1887, May 25, 1887, June 17, 1887;2</date></ref>
-</indexentry>
-<indexentry>
-<name>Kelley, William V.,</name> <ref>(4); <date>Dec. 9, 1903, Jan. 26, 1904, July 9, 1904, Jan. 25, 1905; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Keener, J. C.,</name> <ref>(1); <date>Mar. 28, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Key, JosephS.,</name> <ref>(3); <date>June 29, 1885, Aug. 5, 1885, June 10, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Kirkland, J. H.,</name> <ref>(5); <date>Feb. 24, 1932, Mar. 2, 1932, Oct. 4, 1933, Mar. 25, 1937, Oct. 28, 1937; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Klinger, Isabella C.,</name> <ref>(1); <date>Jan. 25, 1956; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Kokendoffer,</name> <ref>(1); <date>May 28, 1894; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Kuhlman, A. F., (3); to Elizabeth Baskerville Wall,</name> <ref><date>July 30, 1943, Feb. 17, 1944, May 26, 1944; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>L</head>
-<indexentry>
-<name>Lafferty, John J.,</name> <ref>(2); <date>June 22, 1885, Feb. 2, 1887; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Lake, Devereux,</name> <ref>(15); <date>Aug. 1, 1939, Aug. 11, 1939, Aug. 16, 1939, Aug. 23, 1939, Apr. 13, 1940, Apr. 23, 1940, Nov. 1, 1946,</date></ref>
-</indexentry>
-<indexentry>
-<name>Lake, Devereux (cont&#8217;d)</name> <ref><date>Nov. 16, 1949, Feb. 20, 1952, Mar. 3, 1952, Mar. 12, 1952, Apr. 7, 1952, May 28, 1952, June 14, 1952, Aug. 1, 1952; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Lambuth, J. W.,</name> <ref>(2) <date>Feb. 11, 1886, Feb. 23, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Lambuth, M. I.,</name> <ref>(1) <date>Feb. 11, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Lamplugh, B. C.,</name> <ref>(1) <date>May 12, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Landruth, Olin H.,</name> <ref>(4) <date>Aug. 14, 1886, Nov. 22, 1886, May 18, l887; 2 May 2, 1887; to L. c. Garland,; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Lewis, J. A.,</name> <ref>(1); <date>Aug. 15, 1904; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Lipscomb, Snow H.,</name> <ref>(1) <date>Dec, 10, 1873; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Lowman, J. W., to Bishop Galloway,</name> <ref>(1);, <date>June 12, 1890; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Lowry, Robert,</name> <ref>(1); <date>Apr. 6, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Lupton, N.T.,</name> <ref>(1); <date>Jan. 6, 1874; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>M</head>
-<indexentry>
-<name>Mabry, W. A.,</name> <ref>(1) <date>Dec. 1, 1952; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Maddin, Percy, to J.D. Hamilton,</name> <ref>(1); <date>Apr. 30, 1914; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Mahon, R. H.,</name> <ref>(1) <date>June 30, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Mangrum, A. W.,</name> <ref>(1); <date>July 1, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Martin, Amelia,</name> <ref>(6); <date>Feb. 4, 1944, Mar. 8, 1944, Mar. 23, 1944, Aug. 26, 1951, Mar. 2, 1952, Oct. 15, 1954; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Matthews, T. E.,</name> <ref>(1); <date>June 23, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>McCarroll, Joe,</name> <ref>(1); <date>June 26, 1888; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>McCarthy, Catherine,</name> <ref>(1) <date>June 22, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>McGill, J. J.,</name> <ref>(1) <date>Apr. 21, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>McMillan, James,</name> <ref>(1); <date>undated 7</date></ref>
-</indexentry>
-<indexentry>
-<name>McTyeire, Elizabeth,</name> <ref>(2); <date>Mar. 15, 1842, Feb. 13, 1844; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>McTyeire, John,</name> <ref>(3); <date>May 14, 1840, Oct. 15, 1842, Apr. 2, 1844; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>McTyeire, John T.,</name> <ref>(1); <date>Apr. 4, 1898; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>McTyeire, J. F.,</name> <ref>(1); <date>Sept. 5, 1929; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>McTyeire, W. W., Jr.,</name> <ref>(1); <date>Mar. 11, 1945; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>McTyeire, Holland Nimmons to Frank Vanderbilt,</name> <ref>(1); <date>Aug. 1, 1881; 1</date></ref>
-</indexentry>
-<indexentry>
-<name>McTyeire, Elizabeth to Amelia McTyeire,</name> <ref>(1); <date>May 18, 1860; 1</date></ref>
-</indexentry>
-<indexentry>
-<name>Merres, Caroline,</name> <ref>(1); <date>Jan. 5, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Merrill, Austin, H.,</name> <ref>(2); <date>Jan. 5, 1886;2 to L. C. Garland, Feb. 1, 1886; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Middleton, Hugh C.,</name> <ref>(3); <date>Dec. 12, 1922; 6 to Jane M. Baskerville, Dec. 18, 1922; 7 to Hamilton Douglas, Mar. 17, 1930; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Miles, John W., to Mrs. M. E. Crawford</name> <ref><date>Sept. 16, 1892; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Mims, Edwin,</name> <ref>(7); <date>Jan. 24, 1944, Feb. 5, 1944, Jan. 9, 1947, Dec. 2, 1951, Mar. 2, 1952, to Devereux Lake, undated, to Elizabeth</date></ref>
-</indexentry>
-<indexentry>
-<name>Baskerville,</name> <ref><date>Nov. 6, 1943;7.</date></ref>
-</indexentry>
-<indexentry>
-<name>Mitchell, A. H., to J. C. Chandler,</name> <ref><date>Dec. 26, 1896; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Moreland, J. Earl,</name> <ref>(3); <date>Jan. 29, 1940, May 22, 1952, Apr. 22, 1959; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Morgan, R. J.,</name> <ref>(1); <date>June 15, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Mormon, R. H.,</name> <ref>(1); <date>Oct. 31, 1937; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Morrison, H. C.</name> <ref>(1); <date>March 16, 1892; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Morton, David,</name> <ref>(1); <date>July 6, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Moss, B. H.,</name> <ref>(1); <date>May 1882; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Muckenfuss, Margaret G.,</name> <ref>(2); <date>May 11, 1944, Nov. 17, 1944; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>N</head>
-<indexentry>
-<name>Nance, w. B.,</name> <ref>(1); <date>Dec. 6, 1954; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>O</head>
-<indexentry>
-<name>o&#8217;Rear, Edward C.,</name> <ref>(1); <date>Sept. 6, 1906; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Owen, Flaira Reed,</name> <ref>(1); <date>to J. Earl Moreland, May 20, 1952; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>P</head>
-<indexentry>
-<name>Paine, R.,</name> <ref>(1); <date>Dec. 18, 1876; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Parkinson, B. L.,</name> <ref>(1); <date>May 26, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Patterson, J. A.,</name> <ref>(1); <date>Dec. 8, 1939; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Patterson, W. M.,</name> <ref>(6); <date>July 4, 1887, July 8, 1887, J ly 9, 1887, July 14, 1887, Aug. 6, 1887, Aug. 11, 1887; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Patton, Mary,</name> <ref>(3); <date>July 6, 1939, July 19, 1939, July 25, 1939; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Peele, c. E.,</name> <ref>(1); <date>Mar. 16, 1934; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Perlberg, AnnaN.,</name> <ref>(1); <date>June 24, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Phillips and Buttorf,</name> <ref>(1); <date>July 9, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Philpott, H. V.,</name> <ref>(1); <date>July 31, 1896; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Pickett, W. M.,</name> <ref>(1); <date>Feb. 17, 1954; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Pike, John M.,</name> <ref>(1); <date>Oct. 26, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Pillsbury, Parker,</name> <ref>(2); <date>July 21, 1885, July 28, 1885; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>R</head>
-<indexentry>
-<name>Reppard, R. B., to 0. P. Fitzgerald,</name> <ref>(1); <date>Aug. 2, 1890; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Rhea, William D.,</name> <ref>(1); <date>June 2, 1912; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Rice, Herbert W.,</name> <ref>(1); <date>May 30, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Robinson, Louise,</name> <ref>(1); <date>Dec. 14, 1954; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Royall, W. W.,</name> <ref>(3); <date>Jan. 30, 1886, 1 incomplete and undated,; 2 1 to Brother Bogle; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>S</head>
-<indexentry>
-<name>Safford, James M.,</name> <ref>(1); <date>Apr. 7, 1875; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Salley, A. s.,</name> <ref>(1); <date>July 21, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Scribner&#8217;s, Charles and Sons,</name> <ref>(1); <date>undated;7</date></ref>
-</indexentry>
-<indexentry>
-<name>Sessuens, Carrie Meek,</name> <ref>(1); <date>July 11, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Shaw, Albert,</name> <ref>(7); <date>Dec. 26, 1943, Jan. 3, 1944, Jan. 14, 1944, Jan. 26, 1944, ,Jan. 31, 1944, Mar. 17, 1944, Mar. 22, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Shell, R. C.</name> <ref>(1); <date>May 2, 1894; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Shepherd, Henry E. to Merrill,</name> <ref><date>April 27, 1883; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Shepard, Elliott F.,</name> <ref>(2); <date>Jan. 17, 1882, Aug. 1, 1882; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Simon and Shuster,</name> <ref>(1); <date>undated,; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Smith, Eugene A.,</name> <ref>(3); <date>Oct. 27, 1873, Dec. 9, 1873; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Sm1th, Frances H.,</name> <ref>(1); <date>Feb. 16, 1889; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Smith, Mrs. G. W. L.,</name> <ref>(4); <date>Oct. 8, 1944, Nov. 2, 1944, Aug. 11, 1946 Feb. 20, 1947; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Smith, George G.,</name> <ref>(1); <date>Aug. 14, undated; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Smith, H. M.,</name> <ref>(6); <date>Sept. 27, 1944, Aug. 19, 1946, Jan. 9, 1952, Jan. 31, 1952, Feb. 12, 1952, Oct. 30, 1953; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Snyder, H. N.,</name> <ref>(2); <date>Mar. 27, 1935, Apr. 1, 1935; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Snyder, Mrs. H. N.,</name> <ref>(1); <date>June 27, 1955; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Steiner, R. E.,</name> <ref>(3); <date>July 24, 1939, Oct. 16, 1939, Oct. 23, 1939; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Stevenson, George John,</name> <ref>(1); <date>Dec. 12, 1884; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Stewart, Oman,</name> <ref>(1); <date>Mar. 31, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Stidman, G. W.,</name> <ref>(1); <date>Apr. 17, 1883; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Stoves, George,</name> <ref>(1); <date>Sept. 28, 1933; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Swan, P.,</name> <ref>(1); <date>Mar. 31, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Sweat, HarrietT.,</name> <ref>(1); <date>Feb. 26, 1886; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>T</head>
-<indexentry>
-<name>Tanksley, B. F. and Brother,</name> <ref>(1); <date>July 15, 1880; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Tanner, John A.,</name> <ref>(1); <date>Oct. 29, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Taylor, W. F.,</name> <ref>(1); <date>May 20, 1887; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Thornburg, C. L., to L. C. Garland,</name> <ref><date>Dec. 5, 1887; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Tigert, Holland McTyeire,</name> <ref>(1); <date>Nov. 9, 1942; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Tillett, Wilbur F.,</name> <ref>(5); <date>Apr. 30, 1929, Apr. 21, 1931, Sept. 13, 1933, June 6, 1934, Jan. 31 undated; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Tucker, J. Wofford,</name> <ref>(1); <date>July 2, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Turner, H. M.,</name> <ref>(1); <date>Nov. 15, 1884; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>V</head>
-<indexentry>
-<name>Vanderbilt, Cornelius,</name> <ref>(36); <date>Mar. 17, 1873, Mar. 31, 1873, May 26, 1873, Aug. 20, 1873, Nov. 28, 1873, Jan. 14, 1874, Mar. 24, 1874, June 9, 1874, June 9, 1874, June 15, 1874, July 13, 1874, Sept. 17, 1874, June 6, 1875, Dec. 2, 1875, May 27, 1876, May 30, 1876, May 30, 1876, June 6, 1876, June 13, 1876, June 19, 1876, June 20, 1876, June 21, 1876, June 29, 1876, July 4, 1876, July 15, 1876, July 19, 1876, Aug. 7, 1876, Aug. 13, 1876, Aug. 16, 1876, Jan. 4, 1877, Jan. 4, 1877, Jan. 4, 1877, Apr. 2, 1877, Aug. 1877, Aug. 14, 1877, June 29, 1883; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Vanderbilt, Harold S.,</name> <ref>(1); <date>Dec. 23, 1955; 7</date></ref>
-</indexentry>
-</index>
-<index>
-<head>W</head>
-<indexentry>
-<name>Walker, Anne Kendrick,</name> <ref>(1); <date>undated; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Waller, D. J.,</name> <ref>(1); <date>to Galloway, Aug. 13, 1907; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Watson, N. M. to L. C. Garland,</name> <ref><date>Dec. 10, 1187; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Webb, W. N.,</name> <ref>(1); <date>Mar. 28, 1898; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Weir, William,</name> <ref>(1); <date>Apr. 15, 1881; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Welburn,</name> <ref>(1); <date>undated; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Wells, M. H.,</name> <ref>(1); <date>June 30, 1886; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>West, Susan,</name> <ref>(1); <date>July 3, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Whitaker, R. F.,</name> <ref>(1); <date>Jan. 19, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>White, H. H.,</name> <ref>(2); <date>May 15, 1944, July 24,31, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>White, T. B.,</name> <ref>(1); <date>to Bishop Fitzgerald, Aug. 4, 1890; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Whitmore, B. A.,</name> <ref>(1); <date>Sept. 1, 1944; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Wilkins, H. R.,</name> <ref>(1); <date>Jan. 20, 1883; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Williams and Jones,</name> <ref>(1); <date>Aug. 21, 1897; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Williams, George W. and Co.,</name> <ref>(1); <date>June 18, 1885; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Williams, Wils,</name> <ref>(1); <date>Dec. 9, 1887; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Williams and Glennon Real Estate,</name> <ref>(4); <date>Apr. 5, 1882, Apr. 18, 1882, May 26, 1882, June 10, 1882; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Winship, A. E.,</name> <ref>(1); <date>L. R. Alderman, Sept. 16, 1932; 7</date></ref>
-</indexentry>
-<indexentry>
-<name>Wood, Jesse,</name> <ref>(1); <date>Aug. 11, 1897; 6</date></ref>
-</indexentry>
-<indexentry>
-<name>Woodard, R. F.,</name> <ref>(1); <date>Sept. 10, 1897; 2</date></ref>
-</indexentry>
-<indexentry>
-<name>Worcester, E. D.,</name> <ref>(1); <date>July 14, 1888; 2</date></ref>
-</indexentry>
-</index>
-<index>
-<head>Z</head>
-<indexentry>
-<name>Ziegner, Herman,</name> <ref>(1); <date>June 28, 1955; 7</date></ref>
-</indexentry>
-</index>
-<dsc type="othertype">
-<c01 level="item">
-<did>
-<unittitle>Subject Entries</unittitle>
-</did>
-<c02 level="item">
-<did>
-<unittitle>Tigert, John James</unittitle>
-<unitdate>1856-1906</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Sermons</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Methodist Episcopal Church, South</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Vanderbilt University, Nashville, Tennessee</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Addresses</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Lectures</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Cokesbury, South Carolina</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>McKendree, William, bp.</unittitle>
-<unitdate>1757-1835</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Soule, Joshua, bp.</unittitle>
-<unitdate>1781-1867</unitdate>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Clemson, South Carolina</unittitle>
-</did>
-</c02>
-<c02 level="item">
-<did>
-<unittitle>Nimmons, William</unittitle>
-</did>
-</c02>
-</c01>
- </dsc>
-<bioghist>
-<head>Chronological Entries</head>
-<chronlist>
-<chronitem>
-<date>1840 - 1849</date>
-<event/>
-</chronitem>
-<chronitem>
-<date>1850 - 1859</date>
-<event/>
-</chronitem>
-<chronitem>
-<date>1860 - 1869</date>
-<event/>
-</chronitem>
-<chronitem>
-<date>1870 - 1879</date>
-<event/>
-</chronitem>
-<chronitem>
-<date>1880 - 1889</date>
-<event/>
-</chronitem>
-</chronlist>
-</bioghist>
-<note>
-<p>For name entries; see Index of Incoming Correspondence in the Register.</p>
-</note>
-</archdesc>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Tigert, John James IV, Collection</titleproper>
+        <titleproper>Finding Aid for the John James Tigert IV, Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>George Peabody College Photograph Collection</unittitle>
+      <unitid>MSS.0455</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8.75 linear feet</extent>
+      </physdesc>
+      <unitdate>undated</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical:</head>
+      <p>John J. Tigert, IV, Feb. 11, 1882.-. Jan. 21, 1965</p>
+      <p>Psychology, Education, A.B., Vanderbilt University; B.A., Oxford University; M.A., University of Minnesota; LL.D., University of Kentucky; President of University of Florida, 1928-47; Served on White House Conference of Child Health and
+        Protection; Advisory Council, Institute of Pacific Relations; Professor of Philosophy, University of Kentucky, 1911-17; Trustee, Vanderbilt University. Book published: Bishop Holland Nimmons McTyeire.</p>
+    </bioghist>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>
+            <emph render="underline">Container Nos. Series</emph>
+          </unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Biographical-chronological table of his life and work. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Important dates in his life (from paper of Richard Herbert Moorman). Chronology of events and dates (from letters written to Amelia Townsend McTyeire). 1 container</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Correspondence-Outgoing.</unittitle>
+            <unitdate>Feb. 15, 1847-0ct. 17, 1888</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Outgoing correspondence of 234 letters, 1 card. Chronologically arranged by days and Jnths. Letters are holograph and carbon copies. 1 container. (Microfilmed letters from McTyeire to Garland and letters from Cornelius Vanderbilt to McTyeire.)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Correspondence-Incoming. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Incoming correspondence of 207 letters, 1 telegram. Alphabetically arranged. Letters are holograph and carbon copies.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Sermon outlines. 1844-1852. Chronologically arranged by years. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Sermon manuscripts. 1 container. Alphabetically arranged by title:</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Beauty of Holiness: The Choice of Moses: The Eleventh Hour: Fearing Always: Following the Multitude: God Is Not Slack: Insecurity of Life: Life More Abundantly: The Love of Our Neighbor: National Fast Day; Those Two Sons: The Truth of God:
+              Waiting Patiently upon the Lord.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Addresses and lectures. Chronologically arranged. 1840-1887. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>My First Speech: Should Emigration be Restricted by Law? Affirmative; Agriculture; Speech at Temperance Meeting in Mobile: Twelve lectures delivered at Demopolis, Alabama: The Flynn-McTyeire Lecture Series; Duties of Christian Masters to
+              Servants: Ministry of Little Children: Address at Foundation of Martin Female College in 1870 (holograph); My Old Servant,11 Uncle Cy11 : Reminiscences of Cokesbury, South Carolina; Address at Re-internment of Bishops McKendree and Soule on
+              Vanderbilt Campus; Debate between H. N. McTyeire and A. M. Shipp.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Newspaper clippings of articles by him.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Last words before leaving: last will and testament.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Material relating to the Methodist Episcopal Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Books published.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Master and Servant (essay) from Duties of Masters to Servants published 1851 by Southern Baptist Publication Society, Charleston, South carolina: A History of Methodism, published by Southern Methodist Publishing House, Nashville,
+              Tennessee in 1870. These books are cataloged and are in our Special Collections Department.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Miscellaneous materials. 1 container. Materials about McTyeire and others alphabetically arranged by author.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Syllabus-Holland Nimmons McTyeire, Pioneer and Builder: Material from scrapbook of Jane McTyeire Baskerville: H. N. McTyeire, by Hoyt Dobbs: Eminent Methodists by 0. P. Fitzgerald and c. B. Galloway; McTyeire as an Editor; Recollections of
+              McTyeire by Richard Irby; Biography by Thomas McAdory; The Bishop, Holland Nimmons McTyeire, {1824-1889) by Richard Herbert Moorman; Cokesbury School and Conversion by C. E. Peele; South Carolina Conference-Methodist Church, Clemson, South Carolina
+              by John J. Tigert, IV; Recollections (incomplete) by W. A. Teague, student; Tear sheets from Southern Christian Advocate and the Vanderbilt Alumnus.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Memorials, alphabetically arranged. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Jane McTyeire Baskerville Scrapbook; Chancellor&#8217;s Report; Board of Trust Resolutions; The Christian Advocate; Newspaper references to his death; Tigert Scrapboek; Reminiscences of c. B. Wallace.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Family History. 1 container. Chronologically arranged, principally genealogy.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>The McTyeire Family: the Nimmons Family; the children of John and Elizabeth McTyeire; brothers and sisters of Holland Nimmons McTyeire; Births, marriages and deaths; Leaves from the family bible; History of Everitt and Townsend families;
+              John J. Tigert, IV&#8217;s visit to family seat at Barnwell, South Carolina; Inscriptions on graves in McTyeire Family cemetery at Uchee, Russell County, Alapama; the history of Opelika, Alabama, involving the McTyeire Famil!y; the will of William
+              Nimmons.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Tributes. Tributes to members of McTyeire family and others, alphabetically arranged. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Tribute to Mary McTyeire Hamilton by Jane McTyeire Baskerville; tribute to Amelia Townsend McTyeire in Christian Advocate; substance of Bishop Fitzgerald&#8217;s remarks at her funeral; resolutions by Vanderbilt Board of Trust honoring
+              Amelia Townsend McTyeire; Time magazine&#8217;s coverage of war activities of Holland McTyeire (Howlin Mad) Smith; tribute to Frank Crawford Vanderbilt; the Robert Crawford Scholarship Fund for Boys and Girls from Mobile, Alabama;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>The Soong Family. Printed matter.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Legal Documents. Sale of property.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Documents relating to appointment of Negro bishop.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Material from scrapbook of Jane McTyeire Baskerville, principally memorials.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Documents and papers relating to the founding of Vanderbilt University. Holograph and printed. Chronologically arranged.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">5</container>
+            <unittitle>Charter of the Central University 1872; Central University of The Methodist Episcopal Church, South, exparte July 1873; Proceedings of the Board of Trust 1873; Resolution accepting gift of $500, 000.00 from Cornelius Vanderbilt, March 26,
+              1873; Statement of lands of University, May 22, 1873; Synopsis of plans and specifications for new University approved by Cornelius Vanderbilt, Aug. 25, 1873; Dedication of Vanderbilt University, Oct. 3, 1875; Commencement program, June 21, 1876;
+              Receipt for bonds from Cornelius Vanderbilt for $300,000.00, Dec. 8, 1876; Lease of 11 Rokeby': 1880 Program for laying of cornerstone of Wesley Hall, May 4, 1880; Dedication of Wesley Hall, May 8, 1881; Vanderbilt University Commencement Program,
+              May 31, 1882; Information to Theological students; Pamphlet on Biblical Department, 1885-1886; Receipt of $900,000.00 in Lake Shore and Micqigan Southern railway bonds, Feb. 12, 1886; Vanderbilt University versus Whithorne, 1886; Deposition of
+              Holland N. McTyeire in case of Hurt vs Hamilton, Jan. 5, 1887; Statement of case; statement of receipts and disbursement of certain accounts for Vanderbilt University from Sept. 1, 1887-Mar. 12, 1888: Propositions discussed between Nashville College
+              for Young Ladies and the Vanderbilt University Minutes, Vanderbilt Univers ty Board of Trust, Jan. 26, 1872 May 28, 1883: Receipts, contracts, leases involved in building Vanderbilt University: Agreements for the management of Wesley Hall: Early map
+              of campus; eopper plate, Vanderbilt University 1880.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Biographical</unittitle>
+            <unitdate>1856-1906</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Correspondence-Outgoing</unittitle>
+            <unitdate>June 3, 1891-Jan. 6, 1900</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Outgoing correspondence of 12 letters. Chronologically arranged. All are holograph.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Correspondence-Incoming.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Incoming correspondence of 14 letters. Alphabetically arranged. Mostly holograph.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Newspaper articles, printed in 1874, with an index.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Printed articles: The Junior Catechism: God in History:</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>The Original Status of the Methodist Episcopal Church, South. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Manuscripts. Alphabetically arranged by title. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Andrew Jackson: Ethics, the Science of Duty: The Liberty of Woman: Original Status of Methodist Episcopal. Church, South: Outlines of Christian Doctrine: he Semitic Tongues: The Theory of Knowledge: Was the Christmas Conference a General Conference?</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Lecture Notes. 1 container.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Two books of lecture notes, dated Sept. 3, 1878 and Jan. 26, 1888. Chronologically arranged. Holograph.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Minutes and Lectures.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Secretary&#8217;s Book, Band of Brothers, Broadway Methodist Episcopal Church, Louisville, Kentucky</unittitle>
+            <unitdate>July 1, 1872</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Sermons 1 book of sermons (holograph) delivered at Louisville, June 23, 1877.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">6</container>
+            <unittitle>Books: Life After Death by Fechner: Russell County in Retrospect by Ann Kennedy Walker. These books are cataloged and are in our Special Collections Department.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Correspondence-Outgoing</unittitle>
+            <unitdate>May 6, 1929-Jan. 28, 1957</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Outgoing correspondence of 114 letters, 1 telegram, 1 card, undated. Chronologically arranged by days and months. Letters are typewritten, carbon copies.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Correspondence-Incoming.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Incoming correspondence of 219 letters, alphabetically arranged. Holograph and typescript carbon copies.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Introduction to Passing hrough Gates and Other Sermons. Vanderbilt University V Book, Class 1951.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Other Correspondence (by persons other than to or from McTyeire, Tigert, Tigert, IV:)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">7</container>
+            <unittitle>54 letters. Arranged alphabetically by correspondent. Holograph and typescript.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <index>
+      <head>INDEX</head>
+      <p>This is the name index of the correspondence of the John James Tigert, IV, Collection. The figure (or figures) in parenthesis immediately following each name denotes the total number of letters from that person in the collection; the dates are for
+        the time of the letters. The full name of the writer is given whenever possible; when not given, indicate it. The last number given refers to the box in which the correspondence may be found.</p>
+      <p>A</p>
+      <indexentry>
+        <name>Acklen, William H.,</name>
+        <ref>(1);
+          <date>Nov. 10, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Adams, S. D.,</name>
+        <ref>(1);
+          <date>July 15, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Allen, Young J.,</name>
+        <ref>(6);
+          <date>Aug. 21, 1885, Dec. 23, 1885, Dec. 29, 1885; Jan. 12, 1886, Feb. 18, 1886, 1 undated; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Andrew, James 0.,</name>
+        <ref>(3);
+          <date>June 9, 1866, Aug. 27, 1866, Dec. 1868; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Atkinson, W. B.,</name>
+        <ref>(1);
+          <date>Sept. 4, 1943; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Austin, William G., (and other signatures,)</name>
+        <ref>(1);
+          <date>Dec. 21, 1888; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>B</head>
+      <indexentry>
+        <name>Baer, Dr. H. to Professor Charles Frank Smith,</name>
+        <ref>(1);
+          <date>Feb. 15, 1892</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Barnard, A. P., to Cornelius Vanderbilt (copy);</name>
+        <ref>
+          <date>June 29, 1876; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Bar ard, E. E.,</name>
+        <ref>(2);
+          <date>Sept. 8, 1887, 1 undated; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Baskerville, Jane McTyeire,</name>
+        <ref>(13);
+          <date>2 undated, July 24, 1924, Feb. 24, 1932, May 8, 1932, Oct. 5, 1932, Nov. 2, 1933, Jan. 7, 1934, Apr. 7, 1934, June 3, 1934, Feb. 11, 1936, Jan. 3, 1940, Aug. 12, 1941; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Baskerville, Jane McTyeire to Sarah Ward Conley,</name>
+        <ref>(l);
+          <date>Feb. 3, 1938; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Bell, C. C.,</name>
+        <ref>(1};
+          <date>Jan. 9, 1959; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Benton, John Keith,</name>
+        <ref>(1);
+          <date>Feb. 4, 1956; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Betts, Albert D.,</name>
+        <ref>(1};
+          <date>Feb. 20, 1956; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Bigham, Truman C.,</name>
+        <ref>(1);
+          <date>June 15, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Branscomb, Harvie,</name>
+        <ref>(2};
+          <date>Nov. 27, 1950, July 2, 1956; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Brockman, Fletcher S.,</name>
+        <ref>(1);
+          <date>Apr. 14, 1944;7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Brooks, Arthur H.,</name>
+        <ref>(3);
+          <date>June 20, 1955, June 30, 1955, July 13, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Brooks--</name>
+        <ref>(1);
+          <date>Mar. 14, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Brooks, Leslie E.,</name>
+        <ref>(1);
+          <date>Apr. 14, 1882; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Brown, swan J.,</name>
+        <ref>(1};
+          <date>Sept. 2, 1874; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Bruce, J. H.,</name>
+        <ref>(1);
+          <date>July 7, 1887; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Brundage, Albert H., to L.C. Garland,</name>
+        <ref>(1);
+          <date>Apr. 25, 1888; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Bruner, Daniel M.</name>
+        <ref>(2);
+          <date>Mar.3, 1886, Mar. 26, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Buchanan, C.H.,'to Jane Baskerville,</name>
+        <ref>(1);
+          <date>July 24, 1921; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Bumpas, c. R., to Josua W. Jordan,</name>
+        <ref>(2);
+          <date>Nov. 28, 1883, Jan. 27, 1885; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Burnett, J. R.,</name>
+        <ref>(2);
+          <date>July 11, 1874, Mar. 25, 1879; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>C</head>
+      <indexentry>
+        <name>Callaghan, Cornelius,</name>
+        <ref>(1);
+          <date>Apr. 13, 1881; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Callaway, Julia,</name>
+        <ref>(2)
+          <date>June 21, 1955, June 24, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Cammerer, Henry,</name>
+        <ref>(1);
+          <date>July 14, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Campbell, D. S.,</name>
+        <ref>(1);
+          <date>Apr. 22, 1941; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>candler, Warren,</name>
+        <ref>(8);
+          <date>May 4, 1932, May 12, 1932, Oct. 2, 1933, Oct. 8, 1933, Oct. 17, 1933, Oct. 20, 1933, Oct. 25, 1933,0ct. 30, 1933; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Carmichael, Olivr Cromwell to Devereux Lake,</name>
+        <ref>(4);
+          <date>Apr. 10, 1939, Apr. 22, 1940, to Elizabeth Baskerville Wall, Nov. 11, 1943, Jan. 15, 1944;: 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Clark, Blanche, Henry,</name>
+        <ref>(1) ;
+          <date>card Oct. 2, 1940; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Cole, E. W.,</name>
+        <ref>(l);
+          <date>Sept 10, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Cooper,&#38; Co.,</name>
+        <ref>(1);
+          <date>July 17, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Corbitt, Duvon C.,</name>
+        <ref>(1);
+          <date>Oct. 17, 1956; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Cothule, Joseph B.,</name>
+        <ref>(1);
+          <date>July 11, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Cox, Harvey W.,</name>
+        <ref>(1);
+          <date>May 4, 1940; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Coxe, Sam,</name>
+        <ref>(1);
+          <date>July 2, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Crawford, Martha to Amelia McTyeire,</name>
+        <ref>(1);
+          <date>undated;</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Crawford, R. L.,</name>
+        <ref>(2);
+          <date>Aug. 25, 1886, Sept. 15, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Cresap, Ida Keeling,</name>
+        <ref>(1);
+          <date>July 19, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Crow, John M.,</name>
+        <ref>(1);
+          <date>Aug. 27, 1888; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>D</head>
+      <indexentry>
+        <name>Dameron, William H., (and others),</name>
+        <ref>(1);
+          <date>June 14, 1858; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Deems, Charles F.,</name>
+        <ref>(1);
+          <date>June 21, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Deems, Charles F., to Cornelius Vanderbilt,</name>
+        <ref>(1);
+          <date>June 19, 1886; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Deering, Waller,</name>
+        <ref>(4);
+          <date>Feb. 25, 1885, Nov. 26, 1886, May 27, 1887, Sept. 27, 1888; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Derrick, s. M.,</name>
+        <ref>(1);
+          <date>July 14, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dietz, August III,</name>
+        <ref>(2);
+          <date>June 21, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dobbs, Hoyt M.,</name>
+        <ref>(20);
+          <date>Apr. 16, 1943, Nov. 7, 1951, Jan. 28, 1952, Feb. 4, 1952, Feb. 11, 1952, Feb. 22, 1952, March 21, 1952, Sept. 9, 1952, Jan. 22, 1953, Mar. 21, 1953, May 28, 1953, June 1, 1953, Dec. 15, 1953, Jan. 21, 1954, Apr. 4, 1954, Oct. 11, 1954, 3 undated; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dodd, T. J. to W. C. Johnson,</name>
+        <ref>
+          <date>June, 25, 1885; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Douglas, Hamilton,</name>
+        <ref>(3);<date>
+            Dec. 20, 1950, Jan. 22, 1952, Apr. 13, 1954; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dubose, Hampden C.,</name>
+        <ref>(1);
+          <date>Jan. 20, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dubose, H. c., toW. A. Candler,</name>
+        <ref>(1);
+          <date>Oct. 19, 1933; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dudley, William L. to L. c. Garland,</name>
+        <ref>(2);
+          <date>Oct. 24, 1885, June 22, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Duff, James,.</name>
+        <ref>(1);
+          <date>Feb. 17, 1957; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dugdale, Mrs. Emily,</name>
+        <ref>(1);
+          <date>June 27, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Duggett, J. M.,</name>
+        <ref>(2);
+          <date>June 25, 1878, July 27, 1878; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Duncan, William,</name>
+        <ref>(3);
+          <date>July 7, 1885, June 22, 1888, Oct. 16, 1888; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Duren, W. L.,</name>
+        <ref>(17);
+          <date>Nov. 28, 1934, May 26, 1944, Aug. 20, 1952, Feb. 7, 1953, Mar. 2, 1953, Mar. 12, 1953, Mar. 19, 1953, Mar. 30, 1953, May 11, 1953, May 18, 1953, May 20, 1953, June 2, 1953, Sept. 23, 1953, Nov. 18, 1953, Mar. 18, 1954, Mar. 26, 1954, Mar. 30, 1954; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Dutton, E. P. &#38; Co., (Roberta Smith),</name>
+        <ref>(1);
+          <date>June 28, 1955; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>E</head>
+      <indexentry>
+        <name>East, Edward H.,</name>
+        <ref>(1);
+          <date>July 8, 1888; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Easterby, J. H.,</name>
+        <ref>(1);
+          <date>Oct. 10, 1951; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Edwards, Arthur,</name>
+        <ref>(1);
+          <date>Oct. 29, 1888; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Eidson, John 0.,</name>
+        <ref>(1);
+          <date>June 24, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Ellis, Ira, to Nicholas Ellis,</name>
+        <ref>(1);
+          <date>Feb. 12, 1836; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Evans, Augusta, to Mrs. Cornelius Vanderbilt,</name>
+        <ref>(2);
+          <date>Feb. 13, --1 undated; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Evans, Henry,</name>
+        <ref>(1);
+          <date>Jan. 23, 1885; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>F</head>
+      <indexentry>
+        <name>Ferguson, George 0.,</name>
+        <ref>(1);<date>
+            Aug. 15, 1951; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Ferrell, H. A.,</name>
+        <ref>(2);
+          <date>Jan. 17, 1952, Mar. 7, 1952; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Field, Nora Nimmons,</name>
+        <ref>(3);
+          <date>Aug. 23, 1935, Nov. 1, 1935, Feb. 6, 1952; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Fite, Thomas D.,</name>
+        <ref>(1);
+          <date>Jan. 30, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Flewellen, A. c.,</name>
+        <ref>(1);
+          <date>Jan. 27, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Floyd, W. L.,</name>
+        <ref>(1);
+          <date>Jan. 24, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Foster, Thomas C., (and others),</name>
+        <ref>(1);
+          <date>Dec. 21, 1858; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>G</head>
+      <indexentry>
+        <name>Galloway to Bishop?,</name>
+        <ref>(1);
+          <date>Feb. 4, 1888; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Gardner, Edwin S.,</name>
+        <ref>(1);
+          <date>Oct. 18, 1954; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Garland, L.C.,</name>
+        <ref>(28);
+          <date>Apr. 2, 1873, June 16, 1873,rDec. 23, 1873, Dec. 31, 1873, Jan. 12, 1874, Jan. 21; 1874, Feb. 3, 1874, Feb. 2, 1874, Feb. 16, 1874, Feb. 26, 1874, Apr. 4, 1874, Apr. 8, 1874, Apr. 15, 7q . l, 1874, Dec. 22, 1874, Apr. 19, 1874, Apr. 22, 1875,
+            may 9 1875, June 20, 1875, Sept. 2, 1875, Sept. 4, 1875, Jan. 31, 1876, Feb. 3, 1876, Apr. 25, 1876, Apr. 26, 1876, Apr. 27, 1876, July 11, 1876, July 7, 1887, Sept. 28, 1888; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Garrison, E. K.,</name>
+        <ref>(4);
+          <date>Mar. 22, 1935, Mar. 26, 1935, Mar. 30, 1935, Apr. 30, 1935; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Golson, JohnS.,</name>
+        <ref>(2);
+          <date>May 30, 1939, June 27, 1939; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Gordon, Harry,</name>
+        <ref>(1);
+          <date>May 23, 1938; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Granberry, J.C.,</name>
+        <ref>(4);
+          <date>June 14, 1875, Jan.,28, 1886, Mar. 1, 1886, Oct. 22, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Gray, R. A.,</name>
+        <ref>(1);
+          <date>Dec. 4, 1958; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>H</head>
+      <indexentry>
+        <name>Hamilton, Alfred P.,</name>
+        <ref>(3);
+          <date>June 2, 1967, June 13, 1967, July 12, 1967; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hamilton, I, to Amelia Townsend,</name>
+        <ref>(2);
+          <date>March 31, 1847, Apr. 20, 1847; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hamilton, J. D.,</name>
+        <ref>(1);
+          <date>Apr. 20, 1893; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hamilton, J.D., to Bishop Galloway,</name>
+        <ref>(1);
+          <date>Sept. 18, 1891; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hamilton, J. P.,</name>
+        <ref>(1);
+          <date>March 23, 1.894; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Harmon, Nolan B., Jr.,</name>
+        <ref>(1);
+          <date>June 1, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Harrell, Costen J.,</name>
+        <ref>(3);
+          <date>Apr. 1, 1939, Apr. 6, 1939, June 13, 1939; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Harris, J. N.,</name>
+        <ref>(1);
+          <date>July 10, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Harrison, W. P.,</name>
+        <ref>(2);
+          <date>July 6, 1886, May 25, 1892; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Harrison, W. P.,</name>
+        <ref>(1);
+          <date>May 25, 1892; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hartzog, L.A.,</name>
+        <ref>(7);
+          <date>May 13, 1935, May .18, 1935, May 28, 1935, Oct. 12, 1938, May 25, 1944, Oct. 28, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Harvey, Julia Smith,</name>
+        <ref>(1};
+          <date>Feb. 4, 1956; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hearn, Thomas J.,</name>
+        <ref>(1);
+          <date>Jan. 13, 1897; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hendrix, E. R.,</name>
+        <ref>(2);
+          <date>Oct. 3, 1884; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hendrix, E. R., to Mrs. E. R. Galloway,</name>
+        <ref>
+          <date>Oct. 10, 1911; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Henley, John C.,</name>
+        <ref>(1);
+          <date>undated; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Henry, RobertS.,</name>
+        <ref>(2);
+          <date>Feb. 15, 1945, March 12, 1945; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hering, J. W., to L. c. Garland,</name>
+        <ref>
+          <date>May 28, 1886; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Hoover, Albert c.,</name>
+        <ref>(1);
+          <date>undated; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Howard, Maey P.,</name>
+        <ref>(1);
+          <date>June 30, 1955; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>J</head>
+      <indexentry>
+        <name>Jackson, Green P.,</name>
+        <ref>(1);
+          <date>Jan. 5, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Jackson, James,</name>
+        <ref>(1);
+          <date>undated; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Jemison, Margaret,</name>
+        <ref>(1);
+          <date>May 9, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>John, I. G.,</name>
+        <ref>(1);
+          <date>Aug. 25, 1887; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Johnson, W. C., to L. C. Dodd,</name>
+        <ref>
+          <date>July 2, 1885; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Johnson, W. C.,</name>
+        <ref>(2);
+          <date>June 25, 1885, Dec. 25, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Jung, R.W.,</name>
+        <ref>(1);
+          <date>June 21, 1886; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>K</head>
+      <indexentry>
+        <name>Kelley, D. C.,</name>
+        <ref>(3);
+          <date>May 17, 1887, May 25, 1887, June 17, 1887;2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Kelley, William V.,</name>
+        <ref>(4);
+          <date>Dec. 9, 1903, Jan. 26, 1904, July 9, 1904, Jan. 25, 1905; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Keener, J. C.,</name>
+        <ref>(1);
+          <date>Mar. 28, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Key, JosephS.,</name>
+        <ref>(3);
+          <date>June 29, 1885, Aug. 5, 1885, June 10, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Kirkland, J. H.,</name>
+        <ref>(5);
+          <date>Feb. 24, 1932, Mar. 2, 1932, Oct. 4, 1933, Mar. 25, 1937, Oct. 28, 1937; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Klinger, Isabella C.,</name>
+        <ref>(1);
+          <date>Jan. 25, 1956; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Kokendoffer,</name>
+        <ref>(1);
+          <date>May 28, 1894; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Kuhlman, A. F., (3); to Elizabeth Baskerville Wall,</name>
+        <ref>
+          <date>July 30, 1943, Feb. 17, 1944, May 26, 1944; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>L</head>
+      <indexentry>
+        <name>Lafferty, John J.,</name>
+        <ref>(2);
+          <date>June 22, 1885, Feb. 2, 1887; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lake, Devereux,</name>
+        <ref>(15);
+          <date>Aug. 1, 1939, Aug. 11, 1939, Aug. 16, 1939, Aug. 23, 1939, Apr. 13, 1940, Apr. 23, 1940, Nov. 1, 1946,</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lake, Devereux (cont&#8217;d)</name>
+        <ref>
+          <date>Nov. 16, 1949, Feb. 20, 1952, Mar. 3, 1952, Mar. 12, 1952, Apr. 7, 1952, May 28, 1952, June 14, 1952, Aug. 1, 1952; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lambuth, J. W.,</name>
+        <ref>(2)
+          <date>Feb. 11, 1886, Feb. 23, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lambuth, M. I.,</name>
+        <ref>(1)
+          <date>Feb. 11, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lamplugh, B. C.,</name>
+        <ref>(1)
+          <date>May 12, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Landruth, Olin H.,</name>
+        <ref>(4)
+          <date>Aug. 14, 1886, Nov. 22, 1886, May 18, l887; 2 May 2, 1887; to L. c. Garland,; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lewis, J. A.,</name>
+        <ref>(1);
+          <date>Aug. 15, 1904; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lipscomb, Snow H.,</name>
+        <ref>(1)
+          <date>Dec, 10, 1873; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lowman, J. W., to Bishop Galloway,</name>
+        <ref>(1);,
+          <date>June 12, 1890; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lowry, Robert,</name>
+        <ref>(1);
+          <date>Apr. 6, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Lupton, N.T.,</name>
+        <ref>(1);
+          <date>Jan. 6, 1874; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>M</head>
+      <indexentry>
+        <name>Mabry, W. A.,</name>
+        <ref>(1)
+          <date>Dec. 1, 1952; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Maddin, Percy, to J.D. Hamilton,</name>
+        <ref>(1);
+          <date>Apr. 30, 1914; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Mahon, R. H.,</name>
+        <ref>(1)
+          <date>June 30, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Mangrum, A. W.,</name>
+        <ref>(1);
+          <date>July 1, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Martin, Amelia,</name>
+        <ref>(6);
+          <date>Feb. 4, 1944, Mar. 8, 1944, Mar. 23, 1944, Aug. 26, 1951, Mar. 2, 1952, Oct. 15, 1954; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Matthews, T. E.,</name>
+        <ref>(1);
+          <date>June 23, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McCarroll, Joe,</name>
+        <ref>(1);
+          <date>June 26, 1888; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McCarthy, Catherine,</name>
+        <ref>(1)
+          <date>June 22, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McGill, J. J.,</name>
+        <ref>(1)
+          <date>Apr. 21, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McMillan, James,</name>
+        <ref>(1);
+          <date>undated 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McTyeire, Elizabeth,</name>
+        <ref>(2);
+          <date>Mar. 15, 1842, Feb. 13, 1844; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McTyeire, John,</name>
+        <ref>(3);
+          <date>May 14, 1840, Oct. 15, 1842, Apr. 2, 1844; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McTyeire, John T.,</name>
+        <ref>(1);
+          <date>Apr. 4, 1898; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McTyeire, J. F.,</name>
+        <ref>(1);
+          <date>Sept. 5, 1929; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McTyeire, W. W., Jr.,</name>
+        <ref>(1);
+          <date>Mar. 11, 1945; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McTyeire, Holland Nimmons to Frank Vanderbilt,</name>
+        <ref>(1);
+          <date>Aug. 1, 1881; 1</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>McTyeire, Elizabeth to Amelia McTyeire,</name>
+        <ref>(1);
+          <date>May 18, 1860; 1</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Merres, Caroline,</name>
+        <ref>(1);
+          <date>Jan. 5, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Merrill, Austin, H.,</name>
+        <ref>(2);
+          <date>Jan. 5, 1886;2 to L. C. Garland, Feb. 1, 1886; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Middleton, Hugh C.,</name>
+        <ref>(3);
+          <date>Dec. 12, 1922; 6 to Jane M. Baskerville, Dec. 18, 1922; 7 to Hamilton Douglas, Mar. 17, 1930; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Miles, John W., to Mrs. M. E. Crawford</name>
+        <ref>
+          <date>Sept. 16, 1892; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Mims, Edwin,</name>
+        <ref>(7);
+          <date>Jan. 24, 1944, Feb. 5, 1944, Jan. 9, 1947, Dec. 2, 1951, Mar. 2, 1952, to Devereux Lake, undated, to Elizabeth</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Baskerville,</name>
+        <ref>
+          <date>Nov. 6, 1943;7.</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Mitchell, A. H., to J. C. Chandler,</name>
+        <ref>
+          <date>Dec. 26, 1896; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Moreland, J. Earl,</name>
+        <ref>(3);
+          <date>Jan. 29, 1940, May 22, 1952, Apr. 22, 1959; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Morgan, R. J.,</name>
+        <ref>(1);
+          <date>June 15, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Mormon, R. H.,</name>
+        <ref>(1);
+          <date>Oct. 31, 1937; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Morrison, H. C.</name>
+        <ref>(1);
+          <date>March 16, 1892; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Morton, David,</name>
+        <ref>(1);
+          <date>July 6, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Moss, B. H.,</name>
+        <ref>(1);
+          <date>May 1882; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Muckenfuss, Margaret G.,</name>
+        <ref>(2);
+          <date>May 11, 1944, Nov. 17, 1944; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>N</head>
+      <indexentry>
+        <name>Nance, w. B.,</name>
+        <ref>(1);
+          <date>Dec. 6, 1954; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>O</head>
+      <indexentry>
+        <name>o&#8217;Rear, Edward C.,</name>
+        <ref>(1);
+          <date>Sept. 6, 1906; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Owen, Flaira Reed,</name>
+        <ref>(1);
+          <date>to J. Earl Moreland, May 20, 1952; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>P</head>
+      <indexentry>
+        <name>Paine, R.,</name>
+        <ref>(1);
+          <date>Dec. 18, 1876; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Parkinson, B. L.,</name>
+        <ref>(1);
+          <date>May 26, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Patterson, J. A.,</name>
+        <ref>(1);
+          <date>Dec. 8, 1939; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Patterson, W. M.,</name>
+        <ref>(6);
+          <date>July 4, 1887, July 8, 1887, J ly 9, 1887, July 14, 1887, Aug. 6, 1887, Aug. 11, 1887; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Patton, Mary,</name>
+        <ref>(3);
+          <date>July 6, 1939, July 19, 1939, July 25, 1939; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Peele, c. E.,</name>
+        <ref>(1);
+          <date>Mar. 16, 1934; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Perlberg, AnnaN.,</name>
+        <ref>(1);
+          <date>June 24, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Phillips and Buttorf,</name>
+        <ref>(1);
+          <date>July 9, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Philpott, H. V.,</name>
+        <ref>(1);
+          <date>July 31, 1896; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Pickett, W. M.,</name>
+        <ref>(1);
+          <date>Feb. 17, 1954; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Pike, John M.,</name>
+        <ref>(1);
+          <date>Oct. 26, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Pillsbury, Parker,</name>
+        <ref>(2);
+          <date>July 21, 1885, July 28, 1885; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>R</head>
+      <indexentry>
+        <name>Reppard, R. B., to 0. P. Fitzgerald,</name>
+        <ref>(1);
+          <date>Aug. 2, 1890; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Rhea, William D.,</name>
+        <ref>(1);
+          <date>June 2, 1912; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Rice, Herbert W.,</name>
+        <ref>(1);
+          <date>May 30, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Robinson, Louise,</name>
+        <ref>(1);
+          <date>Dec. 14, 1954; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Royall, W. W.,</name>
+        <ref>(3);
+          <date>Jan. 30, 1886, 1 incomplete and undated,; 2 1 to Brother Bogle; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>S</head>
+      <indexentry>
+        <name>Safford, James M.,</name>
+        <ref>(1);
+          <date>Apr. 7, 1875; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Salley, A. s.,</name>
+        <ref>(1);
+          <date>July 21, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Scribner&#8217;s, Charles and Sons,</name>
+        <ref>(1);
+          <date>undated;7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Sessuens, Carrie Meek,</name>
+        <ref>(1);
+          <date>July 11, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Shaw, Albert,</name>
+        <ref>(7);
+          <date>Dec. 26, 1943, Jan. 3, 1944, Jan. 14, 1944, Jan. 26, 1944, ,Jan. 31, 1944, Mar. 17, 1944, Mar. 22, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Shell, R. C.</name>
+        <ref>(1);
+          <date>May 2, 1894; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Shepherd, Henry E. to Merrill,</name>
+        <ref>
+          <date>April 27, 1883; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Shepard, Elliott F.,</name>
+        <ref>(2);
+          <date>Jan. 17, 1882, Aug. 1, 1882; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Simon and Shuster,</name>
+        <ref>(1);
+          <date>undated,; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Smith, Eugene A.,</name>
+        <ref>(3);
+          <date>Oct. 27, 1873, Dec. 9, 1873; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Sm1th, Frances H.,</name>
+        <ref>(1);
+          <date>Feb. 16, 1889; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Smith, Mrs. G. W. L.,</name>
+        <ref>(4);
+          <date>Oct. 8, 1944, Nov. 2, 1944, Aug. 11, 1946 Feb. 20, 1947; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Smith, George G.,</name>
+        <ref>(1);
+          <date>Aug. 14, undated; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Smith, H. M.,</name>
+        <ref>(6);
+          <date>Sept. 27, 1944, Aug. 19, 1946, Jan. 9, 1952, Jan. 31, 1952, Feb. 12, 1952, Oct. 30, 1953; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Snyder, H. N.,</name>
+        <ref>(2);
+          <date>Mar. 27, 1935, Apr. 1, 1935; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Snyder, Mrs. H. N.,</name>
+        <ref>(1);
+          <date>June 27, 1955; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Steiner, R. E.,</name>
+        <ref>(3);
+          <date>July 24, 1939, Oct. 16, 1939, Oct. 23, 1939; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Stevenson, George John,</name>
+        <ref>(1);
+          <date>Dec. 12, 1884; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Stewart, Oman,</name>
+        <ref>(1);
+          <date>Mar. 31, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Stidman, G. W.,</name>
+        <ref>(1);
+          <date>Apr. 17, 1883; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Stoves, George,</name>
+        <ref>(1);
+          <date>Sept. 28, 1933; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Swan, P.,</name>
+        <ref>(1);
+          <date>Mar. 31, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Sweat, HarrietT.,</name>
+        <ref>(1);
+          <date>Feb. 26, 1886; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>T</head>
+      <indexentry>
+        <name>Tanksley, B. F. and Brother,</name>
+        <ref>(1);
+          <date>July 15, 1880; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Tanner, John A.,</name>
+        <ref>(1);
+          <date>Oct. 29, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Taylor, W. F.,</name>
+        <ref>(1);
+          <date>May 20, 1887; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Thornburg, C. L., to L. C. Garland,</name>
+        <ref>
+          <date>Dec. 5, 1887; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Tigert, Holland McTyeire,</name>
+        <ref>(1);
+          <date>Nov. 9, 1942; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Tillett, Wilbur F.,</name>
+        <ref>(5);
+          <date>Apr. 30, 1929, Apr. 21, 1931, Sept. 13, 1933, June 6, 1934, Jan. 31 undated; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Tucker, J. Wofford,</name>
+        <ref>(1);
+          <date>July 2, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Turner, H. M.,</name>
+        <ref>(1);
+          <date>Nov. 15, 1884; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>V</head>
+      <indexentry>
+        <name>Vanderbilt, Cornelius,</name>
+        <ref>(36);
+          <date>Mar. 17, 1873, Mar. 31, 1873, May 26, 1873, Aug. 20, 1873, Nov. 28, 1873, Jan. 14, 1874, Mar. 24, 1874, June 9, 1874, June 9, 1874, June 15, 1874, July 13, 1874, Sept. 17, 1874, June 6, 1875, Dec. 2, 1875, May 27, 1876, May 30, 1876, May 30,
+            1876, June 6, 1876, June 13, 1876, June 19, 1876, June 20, 1876, June 21, 1876, June 29, 1876, July 4, 1876, July 15, 1876, July 19, 1876, Aug. 7, 1876, Aug. 13, 1876, Aug. 16, 1876, Jan. 4, 1877, Jan. 4, 1877, Jan. 4, 1877, Apr. 2, 1877, Aug. 1877,
+            Aug. 14, 1877, June 29, 1883; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Vanderbilt, Harold S.,</name>
+        <ref>(1);
+          <date>Dec. 23, 1955; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>W</head>
+      <indexentry>
+        <name>Walker, Anne Kendrick,</name>
+        <ref>(1);
+          <date>undated; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Waller, D. J.,</name>
+        <ref>(1);
+          <date>to Galloway, Aug. 13, 1907; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Watson, N. M. to L. C. Garland,</name>
+        <ref>
+          <date>Dec. 10, 1187; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Webb, W. N.,</name>
+        <ref>(1);
+          <date>Mar. 28, 1898; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Weir, William,</name>
+        <ref>(1);
+          <date>Apr. 15, 1881; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Welburn,</name>
+        <ref>(1);
+          <date>undated; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Wells, M. H.,</name>
+        <ref>(1);
+          <date>June 30, 1886; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>West, Susan,</name>
+        <ref>(1);
+          <date>July 3, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Whitaker, R. F.,</name>
+        <ref>(1);
+          <date>Jan. 19, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>White, H. H.,</name>
+        <ref>(2);
+          <date>May 15, 1944, July 24,31, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>White, T. B.,</name>
+        <ref>(1);
+          <date>to Bishop Fitzgerald, Aug. 4, 1890; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Whitmore, B. A.,</name>
+        <ref>(1);
+          <date>Sept. 1, 1944; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Wilkins, H. R.,</name>
+        <ref>(1);
+          <date>Jan. 20, 1883; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Williams and Jones,</name>
+        <ref>(1);
+          <date>Aug. 21, 1897; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Williams, George W. and Co.,</name>
+        <ref>(1);
+          <date>June 18, 1885; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Williams, Wils,</name>
+        <ref>(1);
+          <date>Dec. 9, 1887; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Williams and Glennon Real Estate,</name>
+        <ref>(4);
+          <date>Apr. 5, 1882, Apr. 18, 1882, May 26, 1882, June 10, 1882; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Winship, A. E.,</name>
+        <ref>(1);
+          <date>L. R. Alderman, Sept. 16, 1932; 7</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Wood, Jesse,</name>
+        <ref>(1);
+          <date>Aug. 11, 1897; 6</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Woodard, R. F.,</name>
+        <ref>(1);
+          <date>Sept. 10, 1897; 2</date>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <name>Worcester, E. D.,</name>
+        <ref>(1);
+          <date>July 14, 1888; 2</date>
+        </ref>
+      </indexentry>
+    </index>
+    <index>
+      <head>Z</head>
+      <indexentry>
+        <name>Ziegner, Herman,</name>
+        <ref>(1);
+          <date>June 28, 1955; 7</date>
+        </ref>
+      </indexentry>
+    </index>
+    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <unittitle>Subject Entries</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Tigert, John James</unittitle>
+            <unitdate>1856-1906</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sermons</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Methodist Episcopal Church, South</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Vanderbilt University, Nashville, Tennessee</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Addresses</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lectures</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cokesbury, South Carolina</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McKendree, William, bp.</unittitle>
+            <unitdate>1757-1835</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Soule, Joshua, bp.</unittitle>
+            <unitdate>1781-1867</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Clemson, South Carolina</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nimmons, William</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <bioghist>
+      <head>Chronological Entries</head>
+      <chronlist>
+        <chronitem>
+          <date>1840 - 1849</date>
+          <event/>
+        </chronitem>
+        <chronitem>
+          <date>1850 - 1859</date>
+          <event/>
+        </chronitem>
+        <chronitem>
+          <date>1860 - 1869</date>
+          <event/>
+        </chronitem>
+        <chronitem>
+          <date>1870 - 1879</date>
+          <event/>
+        </chronitem>
+        <chronitem>
+          <date>1880 - 1889</date>
+          <event/>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <note>
+      <p>For name entries; see Index of Incoming Correspondence in the Register.</p>
+    </note>
+  </archdesc>
 </ead>

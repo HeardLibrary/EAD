@@ -1,0 +1,3582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Taylor, Peter Hillsman Papers</titleproper>
+        <titleproper>Finding Aid for the Peter Taylor Papers Addition</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <p>
+          <date>2005</date>
+        </p>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>The Peter Taylor Papers Addition</unittitle>
+      <unitid>MSS.0591</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8.82 linear_feet</extent>
+      </physdesc>
+      <unitdate>Inclusive: 1945-2000; Bulk: 1988-1992</unitdate>
+      <abstract>The papers of Peter Hillsman Taylor (1917-1994) were purchased by Vanderbilt University in 1995, and are an important addition to the Jean and Alexander Heard Library&#8217;s Special Collections. The papers and correspondence (1988-1992),
+        are an addition to a significant collection of Taylor&#8217;s pre-1988 letters and manuscripts. Taylor, who died in 1994 in Charlottesville, Virginia, received a Pulitzer Prize for his novel, A Summons to Memphis, which was published in 1986. He
+        attended Vanderbilt as an undergraduate in the late 1930s. Taylor&#8217;s influences included John Crowe Ransom, Allen Tate, and Robert Penn Warren, members of the Fugitive and Agrarian literary movements.</abstract>
+    </did>
+    <bioghist>
+      <head>Biographical and Historical Note</head>
+      <chronlist>
+        <chronitem>
+          <date>1917</date>
+          <event>Peter Matthew Hillsman Taylor is born 8 January in Trenton, Tennessee, the fourth child of Matthew Hillsman Taylor and Katherine Baird (Taylor) Taylor.</event>
+        </chronitem>
+        <chronitem>
+          <date>1924</date>
+          <event>The family moves to Nashville.</event>
+        </chronitem>
+        <chronitem>
+          <date>1926</date>
+          <event>Hillsman Taylor accepts the presidency of the General American Life Insurance Company, and the family moves to St. Louis. There Peter Taylor attends Miss Rossman&#8217;s School, 1926-29, and St. Louis Country Day School, 1929-32.</event>
+        </chronitem>
+        <chronitem>
+          <date>1932</date>
+          <event>The family settles in Memphis, and Peter Taylor is enrolled at Central High School.</event>
+        </chronitem>
+        <chronitem>
+          <date>1935</date>
+          <event>Taylor graduates from high school with a scholarship to Columbia University, where he intends to study writing. This plan is contrary to his father&#8217;s desire that he enter Vanderbilt and prepare himself for a career in law. After
+            graduation Taylor and a friend work their way to England on a freighter, and upon his return Taylor delays entering college.</event>
+        </chronitem>
+        <chronitem>
+          <date>1936</date>
+          <event>In the spring semester Taylor registers at Southwestern at Memphis. His freshman composition teacher is Allen Tate, who persuades him to go to Vanderbilt in the fall and study under John Crowe Ransom. At Vanderbilt, Taylor begins a lifelong
+            friendship with Randall Jarrell.</event>
+        </chronitem>
+        <chronitem>
+          <date>1937</date>
+          <event>In March and April, Taylor publishes his first stories in
+            <emph render="bold">
+              <emph render="underline">River,</emph>
+            </emph>
+            a literary magazine in Oxford, Mississippi. Ransom leaves Vanderbilt for Kenyon College at the end of the spring term, and Taylor decides not to return to Vanderbilt. Instead he gets a job selling real estate in Memphis.</event>
+        </chronitem>
+        <chronitem>
+          <date>1938</date>
+          <event>Taylor enters Kenyon in the fall and forms a close friendship with Robert Lowell, who has also followed Ransom there.</event>
+        </chronitem>
+        <chronitem>
+          <date>1940</date>
+          <event>After graduation from Kenyon, Taylor and Lowell (now married to Jean Stafford) begin graduate study at Louisiana State University under Robert Penn Warren and Cleanth Brooks. Taylor, who has sold a poem to
+            <emph render="bold">
+              <emph render="underline">Kenyon Review</emph>
+            </emph>
+            and two stories to
+            <emph render="bold">
+              <emph render="underline">Southern Review,</emph>
+            </emph>
+            leaves the program at Thanksgiving.</event>
+        </chronitem>
+        <chronitem>
+          <date>1941</date>
+          <event>In June, Taylor is drafted. As a member of a company formed in Memphis, he is stationed for the next two and a half years at Fort Oglethorpe, near Chattanooga, Tennessee.</event>
+        </chronitem>
+        <chronitem>
+          <date>1942</date>
+          <event>
+            <emph render="bold">&quot;The Fancy Woman,&quot;</emph>
+            first published in
+            <emph render="bold">
+              <emph render="underline">Southern Review</emph>,</emph>
+            is selected for The
+            <emph render="bold">
+              <emph render="underline">Best American Short Stories 1942,</emph>
+            </emph>
+            edited by Martha Foley. This is the first of nine Taylor stories to appear in this manual between 1942 and 1980.</event>
+        </chronitem>
+        <chronitem>
+          <date>1943</date>
+          <event>In April, Allen Tate introduces Taylor to Eleanor Lilly Ross of Norwood, North Carolina. A graduate of Women&#8217;s College of North Carolina at Greensboro, she is then a student at Vanderbilt. After a courtship of six weeks, they are married
+            on 4 June at St. Andrew&#8217;s School chapel near Sewanee, Tennessee, by Father James Harold Flye. In attendance are Robert Lowell and Jean Stafford, Allen Tate and Caroline Gordon.</event>
+        </chronitem>
+        <chronitem>
+          <date>1944</date>
+          <event>In February, Taylor&#8217;s company is sent to Camp Tidworth in England.</event>
+        </chronitem>
+        <chronitem>
+          <date>1945</date>
+          <event>Taylor is discharged in December with the rank of sergeant.</event>
+        </chronitem>
+        <chronitem>
+          <date>1946</date>
+          <event>Allen Tate arranges a job for him at Henry Holt Publishers beginning in April, and the Taylors rent an apartment in Greenwich Village. In the fall Taylor takes a position in the English department at Woman&#8217;s College of the University of
+            North Carolina.</event>
+        </chronitem>
+        <chronitem>
+          <date>1947</date>
+          <event>The Taylors and the Randall Jarrells buy a duplex in Greensboro. This is the first of nearly thirty houses that the Taylors will own.</event>
+        </chronitem>
+        <chronitem>
+          <date>1948</date>
+          <event>Taylor&#8217;s first collection,
+            <emph render="bold">
+              <emph render="underline">A Long Fourth and Other Stories,</emph>
+            </emph>
+            is published in March with an introduction by Robert Penn Warren. In the fall Taylor goes to Indiana University as assistant professor and director of the creative writing program. Katherine Baird Taylor is born 30 September. Taylor begins a long
+            association with the
+            <emph render="bold">
+              <emph render="underline">New Yorker</emph>
+            </emph>
+            when his story
+            <emph render="bold">&quot;Middle Age&quot;</emph>
+            is published there in November.</event>
+        </chronitem>
+        <chronitem>
+          <date>1949</date>
+          <event>He returns to Woman&#8217;s College at Greensboro.
+            <emph render="bold">
+              <emph render="underline">The Death of a Kinsman,</emph>
+            </emph>
+            his first published play, appears in
+            <emph render="bold">
+              <emph render="underline">Sewanee Review</emph>.</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1950</date>
+          <event>Taylor&#8217;s novel
+            <emph render="bold">
+              <emph render="underline">A Woman of Means</emph>
+            </emph>
+            is published in May. He is awarded a Guggenheim Fellowship for 1950-51.
+            <emph render="bold">&quot;Their Losses&quot;</emph>
+            is selected for the O. Henry prize collection for 1950. This is the first of six Taylor stories to appear in the O. Henry annuals between 1950 and 1982.</event>
+        </chronitem>
+        <chronitem>
+          <date>1952</date>
+          <event>He is awarded a National Institute of Arts and Letters grant. For the spring term he is a visiting professor at the University of Chicago, and in the fall he goes to Kenyon College as associate professor in English and drama. Taylor serves as
+            advisory editor for the
+            <emph render="bold">
+              <emph render="underline">Kenyon Review</emph>
+            </emph>
+            from 1953 to 1959.</event>
+        </chronitem>
+        <chronitem>
+          <date>1954</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">The Widows of Thorton</emph>
+            </emph>
+            (eight stories and a short play) is published in April.</event>
+        </chronitem>
+        <chronitem>
+          <date>1955</date>
+          <event>The Taylor&#8217;s second child, Peter Ross Taylor, is born 7 February. Taylor receives a Fulbright grant for 1955-56 to do research in Paris for a play about Southerners who settled there after the Civil War. Enroute to France, he lectures at
+            the Fourth Conference on American Studies at Oxford University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1956</date>
+          <event>The Taylors spend the summer at Rapello, Italy.</event>
+        </chronitem>
+        <chronitem>
+          <date>1957</date>
+          <event>Taylor&#8217;s play
+            <emph render="bold">
+              <emph render="underline">Tennessee Day in St. Louis</emph>
+            </emph>
+            is published in February. It premieres at Kenyon in April. Taylor joins the faculty of Ohio State University to teach from January to June each year.</event>
+        </chronitem>
+        <chronitem>
+          <date>1958</date>
+          <event>The Taylors spend the summer in Bonassola, Italy (while the Randall Jarrells and Robert Fitzgeralds are living at nearby Levanto), and the fall in Rome.</event>
+        </chronitem>
+        <chronitem>
+          <date>1959</date>
+          <event>
+            <emph render="bold">&quot;Venus, Cupid, Folly and Time&quot;</emph>
+            wins the O. Henry first prize.
+            <emph render="bold">
+              <emph render="underline">Happy Families Are All Alike,</emph>
+            </emph>
+            Taylor&#8217;s third collection of stories, is published in November. It wins the Ohioana Book Award the next year.</event>
+        </chronitem>
+        <chronitem>
+          <date>1960</date>
+          <event>Eleanor Ross Taylor publishes
+            <emph render="bold">
+              <emph render="underline">Wilderness of Ladies</emph>,</emph>
+            the first of her three volumes of poetry. The Taylors purchase a cottage at Monteagle, Tennessee, and establish their pattern of living there in the summers. Taylor spends the 1960-61 school year in London studying at the Royal Court Theatre on a
+            Ford Foundation Fellowship.</event>
+        </chronitem>
+        <chronitem>
+          <date>1961</date>
+          <event>Taylor&#8217;s story
+            <emph render="bold">&quot;Reservations&quot;</emph>
+            is presented as
+            <emph render="bold">&quot;Delayed Honeymoon&quot;</emph>
+            on the U.S. Steel Hour in September.</event>
+        </chronitem>
+        <chronitem>
+          <date>1963</date>
+          <event>Taylor returns to the University of North Carolina at Greensboro as Professor of English, teaching fiction writing.</event>
+        </chronitem>
+        <chronitem>
+          <date>1964</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">Miss Leonora When Last Seen and Fifteen Other Stories</emph>
+            </emph>
+            appears in February. In the fall Taylor serves as Visiting Professor at Harvard.</event>
+        </chronitem>
+        <chronitem>
+          <date>1965</date>
+          <event>Taylor&#8217;s father dies in Memphis on 13 November. Taylor is awarded a Rockefeller Foundation grant to devote the 1966-67 school year to writing.</event>
+        </chronitem>
+        <chronitem>
+          <date>1967</date>
+          <event>Taylor&#8217;s sister Sally Taylor Fitzhugh dies in Memphis in the spring. Taylor joins the English department at the University of Virginia. With Robert Penn Warren and Robert Lowell, he edits the memorial volume
+            <emph render="bold">
+              <emph render="underline">Randall Jarrell, 1914-1965</emph>.</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1968</date>
+          <event>His play
+            <emph render="bold">
+              <emph render="underline">A Stand in the Mountains</emph>
+            </emph>
+            is published in
+            <emph render="bold">
+              <emph render="underline">Kenyon Review</emph>.</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1969</date>
+          <event>Taylor&#8217;s mother dies on 18 May in Memphis. He is inducted into the National Institute of Arts and Letters on 21 May.
+            <emph render="bold">
+              <emph render="underline">The Collected Stories of Peter Taylor</emph>
+            </emph>is published in August.</event>
+        </chronitem>
+        <chronitem>
+          <date>1970</date>
+          <event>
+            <emph render="bold">&quot;Two Images,&quot;</emph>
+            the first of Taylor&#8217;s
+            <emph render="bold">&quot;Ghost Plays,&quot;</emph>
+            appears in
+            <emph render="bold">
+              <emph render="underline">Shenandoah</emph>.</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1971</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">A Stand in the Mountains</emph>
+            </emph>
+            is first performed on 25 May at the Barter Theatre, Abingdon, Virginia.</event>
+        </chronitem>
+        <chronitem>
+          <date>1973</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">Presences: Seven Dramatic Pieces</emph>
+            </emph>
+            is published in February. Taylor serves as Visiting Professor at Harvard for the fall semester.</event>
+        </chronitem>
+        <chronitem>
+          <date>1974</date>
+          <event>In the summer Taylor has a heart attack at Clover Hill, his eighteenth-century residence outside Charlottesville.
+            <emph render="bold">&quot;The Instruction of a Mistress,&quot;</emph>
+            the first of his verse-stories to be published, appears in the September issue of
+            <emph render="bold">
+              <emph render="underline">The New Review</emph>.</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1975</date>
+          <event>Taylor is given a four-year appointment at Harvard. He resigns the appointment in June, and the Taylors buy a house in Key West and begin spending winters in Florida.</event>
+        </chronitem>
+        <chronitem>
+          <date>1977</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">In The Miro District and Other Stories</emph>
+            </emph>
+            is published in April. Taylor delivers the commemorative tribute to Robert Lowell at the American Academy and Institute of Arts and Letters in May.</event>
+        </chronitem>
+        <chronitem>
+          <date>1978</date>
+          <event>In May, the American Academy and Institute presents Taylor the Gold Medal for the Short Story.</event>
+        </chronitem>
+        <chronitem>
+          <date>1979</date>
+          <event>Taylor delivers the commemorative tribute to Jean Stafford at the American Academy and Institute in November.</event>
+        </chronitem>
+        <chronitem>
+          <date>1983</date>
+          <event>In May, Taylor is inducted into the American Academy of Arts and Letters; and in June, he retires from the University of Virginia.</event>
+        </chronitem>
+        <chronitem>
+          <date>1984</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">A Woman of Means</emph>
+            </emph>
+            is reprinted by Frederick C. Beil. The film version of Taylor&#8217;s story
+            <emph render="bold">&quot;The Old Forest,&quot;</emph>
+            produced and directed by Steven J. Ross of Memphis State University, premieres in Memphis in November.</event>
+        </chronitem>
+        <chronitem>
+          <date>1985</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">The Old Forest and Other Stories</emph>
+            </emph>
+            is published in February.</event>
+        </chronitem>
+        <chronitem>
+          <date>1986</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">The Old Forest and Other Stories</emph>
+            </emph>
+            wins the
+            <emph render="bold">PEN/Faulkner Award</emph>
+            for Fiction.
+            <emph render="bold">
+              <emph render="underline">A Woman of Means</emph>
+            </emph>
+            and the
+            <emph render="bold">
+              <emph render="underline">Collected Stories</emph>
+            </emph>
+            are reissued in paperback. Frederic C. Beil brings out a limited edition of Taylor&#8217;s revised version of
+            <emph render="bold">A
+              <emph render="underline">Stand in the Mountains</emph>.</emph>
+            Taylor suffers a stroke on 24 July. His novel
+            <emph render="bold">A
+              <emph render="underline">Summons To Memphis</emph>
+            </emph>
+            is published in October. Taylor withdraws the novel from the final list of three nominees for the American Book Award.</event>
+        </chronitem>
+        <chronitem>
+          <date>1987</date>
+          <event>Taylor wins the Ritz Hemingway Prize for
+            <emph render="bold">
+              <emph render="underline">A Summons To Memphis</emph>.</emph>
+            Taylor wins the Pulitzer Prize in fiction for
+            <emph render="bold">
+              <emph render="underline">A Summons To Memphis</emph>.</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date>1989</date>
+          <event>Taylor wins the Internal Literary Prize Chianti Ruffino Antico Fattore.</event>
+        </chronitem>
+        <chronitem>
+          <date>1990</date>
+          <event>Kenyon review publishes
+            <emph render="bold">
+              <emph render="underline">Cousin Aubrey</emph>
+            </emph>
+            and
+            <emph render="bold">
+              <emph render="underline">The Witch of Owl Mountain Springs</emph>
+            </emph>
+            - both of which were rejected by the New Yorker.</event>
+        </chronitem>
+        <chronitem>
+          <date>1993</date>
+          <event>
+            <emph render="bold">
+              <emph render="underline">The Oracle At Stoneleigh Court</emph>
+            </emph>
+            is published.</event>
+        </chronitem>
+        <chronitem>
+          <date>1994</date>
+          <event>Taylor&#8217;s novel
+            <emph render="bold">
+              <emph render="underline">In The Tennessee Country</emph>
+            </emph>
+            is published.</event>
+        </chronitem>
+        <chronitem>
+          <date></date>
+          <event>Peter Taylor passed away on November 2, 1994 in Charlottesville, Virginia.</event>
+        </chronitem>
+      </chronlist>
+      <p>
+        <emph render="bold">
+          <emph render="underline">Biographical and Historical Notes are from:</emph>
+        </emph>
+      </p>
+      <list type="simple">
+        <item>1. Conversations with Peter Taylor. Edited by Hubert H. McAlexander. Jackson: University of Mississippi Press, 1987.</item>
+        <item>2. Peter Taylor: A Writer&#8217;s Life. Hubert H. McAlexander. Louisiana State University Press, 2001.</item>
+      </list>
+    </bioghist>
+    <scopecontent>
+      <head>Scope and Content Note</head>
+      <p>In 1995, Special Collections at the Jean and Alexander Heard Library purchased a collection of important papers of the late author Peter Matthew Hillsman Taylor (1917&#8211;1994). The purchase was made possible through a grant from the Lester
+        Glenn Fant Southern Literature Fund.</p>
+      <p>This collection contains the personal materials of Peter Matthew Hillsman Taylor, a Southern writer who was considered by many a Master of the short story form. The materials are mostly textual and are comprised of correspondence, manuscripts,
+        holographs, clippings, and other related printed matter. Photographs are also included in the collection, however there are few.</p>
+      <p>Of the twenty-one boxes that are comprised of this collection, ten contain correspondence and another six are filled with manuscripts of Taylor&#8217;s writings. The other five boxes contain items of a biographical or personal nature, concern his
+        career as author, or involve writings of others. The collection has thus been arranged in the following series: Correspondence, Writings, Literary Career, Biographical, and Writings By Others. Also included within this collection is one over-sized
+        folder containing a promotional poster for the Governor&#8217;s Awards In The Arts for Tennessee.</p>
+      <p>
+        <emph render="bold">Series and Subseries Descriptions</emph>
+      </p>
+      <p>
+        <emph render="bold">Series I. Correspondence, 1962-2000 (10 boxes)</emph>
+      </p>
+      <p>The bulk of the Correspondence Series is made up of incoming letters, most of which are identified. The letters contained within this series are arranged alphabetically by correspondent. Some letters include photographs and newspaper clippings.
+        Although the majority of letters were sent to Mr. Taylor&#8217;s home in Charlottesville, Virginia, some were sent to his other residences in Gainesville and Key West, Florida. The letters range in subjects from fan mail to personal and business
+        correspondence. Most letters are from editors, publishers, colleagues, friends, and family. However there are also letters from former students, well-wishers, and admirers. Not only did letters come from inside the United States, but other parts of
+        the world. These include: England, Italy, Japan, China, and India.</p>
+      <p>Prominent correspondents include: Bill Broadway (11); Felder &amp; Nan Heflin (14); Judith Jones (11); Matilda Kirby-Smith (9); Hubert McAlexander (10); Chris Metress (11); C. Ralph Stephens (14); John Thompson (9); Robert Penn Warren (4); Tom
+        White (34); Marcella C. Winslow (9); Virginia L. Wolf (6).</p>
+      <p>
+        <emph render="bold">Series II. Writings, Undated (6 boxes)</emph>
+      </p>
+      <p>The Writings Series consists of six boxes of manuscripts that are both published and unpublished works of Peter Taylor. The Writing Series consists of various genres: short stories, novels, and plays. A number of unidentified manuscript fragments
+        complete this series. The writings have been arranged alphabetically by title.</p>
+      <p>
+        <emph render="bold">Series III. Literary Career, 1945-1993 (1.5 boxes and 1 oversized folder)</emph>
+      </p>
+      <p>This series contains documents relating to Peter Taylor&#8217;s literary career. Documents relate to: contracts, copyright, invitations, readings/appearances, reprint permissions, reviews, and royalty statements. Also included within this series
+        in an oversized folder containing a promotional poster for the Governor&#8217;s Awards In The Arts for Tennessee.</p>
+      <p>
+        <emph render="bold">Series IV. Biographical, 1977-1993 (0.5 box)</emph>
+      </p>
+      <p>This series contains biographical information that relates to Peter Taylor. Documents include: financial records, interviews, photographs, and other miscellaneous newspaper clippings relating to the life of Peter Taylor.</p>
+      <p>
+        <emph render="bold">Series V. Writings By Others, 1977-1993 (3 boxes)</emph>
+      </p>
+      <p>This is the last series in the collection and comprise of numerous writings others have sent to Peter Taylor to read. Documents have a broad range of genres and cover many subject areas. However, Peter Taylor and his writings is the subject of
+        most documents. Documents within this series are alphabetized by the creator of the work.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Outgoing Correspondence</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>Jenkins</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Incoming Correspondence</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>Abadie - Akers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle>American Academy Institute of Arts and Letters (1 of 2)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>American Academy Institute of Arts and Letters (2 of 2)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle>Altshuler - Andrews</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+              <unittitle>Arana-Ward - Austenfeld</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+              <unittitle>Babitz - Barnett</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+              <unittitle>Beasly - Beja</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+              <unittitle>Bell - Betteridge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+              <unittitle>Birch - Blother</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+              <unittitle>Boeckman - Breeze</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+              <unittitle>Broadway</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+              <unittitle>Broadway</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+              <unittitle>Broderick - Brown, A.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+              <unittitle>Brown, D. - Butler</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">1</container>
+              <unittitle>Cadin - Casey</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">2</container>
+              <unittitle>Castedo - Christopher</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">3</container>
+              <unittitle>Chalmers - Clark, B.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">4</container>
+              <unittitle>Clark, J.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">5</container>
+              <unittitle>Clark, W. - Cline</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">6</container>
+              <unittitle>Cocke, W.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">7</container>
+              <unittitle>Coleman - Collins</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">8</container>
+              <unittitle>Columbia University - Cox</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">9</container>
+              <unittitle>Craft - Croft</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">10</container>
+              <unittitle>Cross - Crowder</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">11</container>
+              <unittitle>Crump - Cuba</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">12</container>
+              <unittitle>Cushman, L.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">13</container>
+              <unittitle>Dajani - Davis, A.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">14</container>
+              <unittitle>Davis, B. - Davis, J.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">15</container>
+              <unittitle>Davis, L.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">16</container>
+              <unittitle>Dean - DeMilly</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">17</container>
+              <unittitle>Denson - duPont</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">1</container>
+              <unittitle>Easterly - Elliott</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">2</container>
+              <unittitle>Ellis - Ewing</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">3</container>
+              <unittitle>Fagan - Fawal</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">4</container>
+              <unittitle>Feavel - Ferrell</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">5</container>
+              <unittitle>Ferriss, D.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">6</container>
+              <unittitle>Field - Fitzgerald</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">7</container>
+              <unittitle>Flinn - Fletcher</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">8</container>
+              <unittitle>Folonari - Ford</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">9</container>
+              <unittitle>Forman</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">10</container>
+              <unittitle>Forney - Friedman</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">11</container>
+              <unittitle>Fryer - Futter</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">12</container>
+              <unittitle>Gardner - Gleysteen</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">13</container>
+              <unittitle>Godoff - Gore</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">14</container>
+              <unittitle>Graham - Griffin</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">15</container>
+              <unittitle>Griffith - Gunn</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">1</container>
+              <unittitle>Hadzi - Halpem</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle>Hamilton - Hart</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">3</container>
+              <unittitle>Haskell</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">4</container>
+              <unittitle>Havighurst - Havird</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">5</container>
+              <unittitle>Hays</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">6</container>
+              <unittitle>Heard - Heiskell</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">7</container>
+              <unittitle>Heflin</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">8</container>
+              <unittitle>Hegy - Heyward</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">9</container>
+              <unittitle>Hill - Howards</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">10</container>
+              <unittitle>Howorth - Hulse</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">11</container>
+              <unittitle>Humes - Hyatt</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">12</container>
+              <unittitle>Jackson - Johnson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">13</container>
+              <unittitle>Jones - Justice</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">14</container>
+              <unittitle>Kastner - Kayano</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">15</container>
+              <unittitle>Kazin - Ketherry</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">16</container>
+              <unittitle>Kiernan</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">17</container>
+              <unittitle>Kimberling - Kirby-Smith</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">18</container>
+              <unittitle>Klayman - Koch</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">19</container>
+              <unittitle>Kohn - Kunitz</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>LaMar - Lee</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle>Levita - Lord</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">3</container>
+              <unittitle>Loyd - Loucks</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Lovelace - Lynskey</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Mainiero - Maiolo</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Maldonado - Marchello</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Mariani - Mayeux</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">8</container>
+              <unittitle>McAlexander</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">9</container>
+              <unittitle>McAlister - McGarry</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">10</container>
+              <unittitle>McKim - McWherter</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">11</container>
+              <unittitle>Meacham - Mendelson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">12</container>
+              <unittitle>Metress - Mguire</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">13</container>
+              <unittitle>Michael - Mitchell</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">14</container>
+              <unittitle>Moates - Murrah</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">15</container>
+              <unittitle>Nakashima - Nunn</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>O&#8217;Connor - O&#8217;Neil</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>Ono - Osen</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>Owen</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle>Page - Parks, G.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>Parks, L. - Paulson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">6</container>
+              <unittitle>Pearson - Pennel</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">7</container>
+              <unittitle>Perosa - Phillips</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">8</container>
+              <unittitle>Pierce - Plath</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">9</container>
+              <unittitle>Pope - Prampolini</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">10</container>
+              <unittitle>Prettyman - Prewitt</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">11</container>
+              <unittitle>Preyer - Prunty</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">12</container>
+              <unittitle>Quigley - Quinn</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">1</container>
+              <unittitle>Rabbitt - Ravenel</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>Rawlins - Raymond</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>Rector - Reishman</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>Reynolds - Rhodes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>Rich - Ries</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle>Roberts - Robinson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>Rogers - Rothenberger</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle>Roy, S.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">9</container>
+              <unittitle>Ruark - Russell</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">10</container>
+              <unittitle>Salaki - Scott</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">11</container>
+              <unittitle>Seefelt - Seligman</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">12</container>
+              <unittitle>Shannon - Singer</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">13</container>
+              <unittitle>Slater - Smith, D.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">14</container>
+              <unittitle>Smith, L. - Solid</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">15</container>
+              <unittitle>Spearman - Spodek</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">16</container>
+              <unittitle>Standiford - Stein</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">17</container>
+              <unittitle>Stephens, C.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">1</container>
+              <unittitle>Stewart - Styron</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">2</container>
+              <unittitle>Sullivan - Swope</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">3</container>
+              <unittitle>Tager - Taylor, C.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">4</container>
+              <unittitle>Taylor, S. - Taylor, L.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">5</container>
+              <unittitle>Taylor, M. - Taylor, P.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">6</container>
+              <unittitle>Taylor, R. - Taylor, S.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">7</container>
+              <unittitle>Taylor, S. - Terry</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">8</container>
+              <unittitle>Thackara - Tharp</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">9</container>
+              <unittitle>Thompson, B. - Thompson, C.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">10</container>
+              <unittitle>Thompson, J.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">11</container>
+              <unittitle>Thompson, L.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">12</container>
+              <unittitle>Tillinghast - Turlington</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">13</container>
+              <unittitle>Underwood - Vossen</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>Wakelyn - Warren</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>Watkins - Weisgall</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>Welch - Wetzel</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>White, T. (1 of 2)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>White, T. (2 of 2)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>Who&#8217;s Who in America - Williamson</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>Willrich, P.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>Wilson - Winslow, M.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">9</container>
+              <unittitle>Winslow, S. - Witter</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">10</container>
+              <unittitle>Wolf - Wood</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">11</container>
+              <unittitle>Woodward - Woychuck</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">12</container>
+              <unittitle>Wright - Writers Directory</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">13</container>
+              <unittitle>Yagoda - Yahel</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">14</container>
+              <unittitle>Yoder - Young</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">15</container>
+              <unittitle>Zuckerman, K.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>Unidentified Cards (1 of 6)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>Unidentified Cards (2 of 6)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>Unidentified Cards (3 of 6)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>Unidentified Cards (4 of 6)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">5</container>
+              <unittitle>Unidentified Cards (5 of 6)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">6</container>
+              <unittitle>Unidentified Cards (6 of 6)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">7</container>
+              <unittitle>Unidentified Cards - Illegible (1 of 1)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">8</container>
+              <unittitle>Unidentified Letters (1 of 7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">9</container>
+              <unittitle>Unidentified Letters (2 of 7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">10</container>
+              <unittitle>Unidentified Letters (3 of 7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">11</container>
+              <unittitle>Unidentified Letters (4 of 7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">12</container>
+              <unittitle>Unidentified Letters (5 of 7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">13</container>
+              <unittitle>Unidentified Letters (6 of 7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">14</container>
+              <unittitle>Unidentified Letters (7 of 7)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">15</container>
+              <unittitle>Unidentified Letters - Illegible (1 of 1)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">16</container>
+              <unittitle>Fragments (1 of 4)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">17</container>
+              <unittitle>Fragments (2 of 4)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">18</container>
+              <unittitle>Fragments (3 of 4)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">19</container>
+              <unittitle>Fragments (4 of 4)</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series II: Writings</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>Art Theatre</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>Familiar Haunts (1 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>Familiar Haunts (2 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>Familiar Haunts (3 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Familiar Haunts (4 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">6</container>
+            <unittitle>Familiar Haunts (5 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">7</container>
+            <unittitle>Lost State (1 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">8</container>
+            <unittitle>Lost State (2 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Lost State (3 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">10</container>
+            <unittitle>Lost State (4 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">11</container>
+            <unittitle>Lost State (5 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">12</container>
+            <unittitle>Lost State (6 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">13</container>
+            <unittitle>Lost State (7 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">14</container>
+            <unittitle>Lost State (8 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">15</container>
+            <unittitle>Lost State (9 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">16</container>
+            <unittitle>Lost State (10 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">17</container>
+            <unittitle>Lost State (11 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">18</container>
+            <unittitle>Lost State (12 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">19</container>
+            <unittitle>Lost State (13 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Lost State (14 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">21</container>
+            <unittitle>Lost State (15 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">22</container>
+            <unittitle>Lost State (16 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">23</container>
+            <unittitle>Lost State (17 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">24</container>
+            <unittitle>Lost State (18 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">25</container>
+            <unittitle>Lost State (19 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">26</container>
+            <unittitle>Lost State (20 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">27</container>
+            <unittitle>Lost State (21 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">28</container>
+            <unittitle>Lost State (22 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">29</container>
+            <unittitle>Lost State (23 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">30</container>
+            <unittitle>Lost State (24 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">31</container>
+            <unittitle>Lost State (25 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">32</container>
+            <unittitle>Lost State (26 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">33</container>
+            <unittitle>Lost State (27 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">34</container>
+            <unittitle>Lost State (28 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>Lost State (29 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Lost State (30 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Lost State (31 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>Lost State (32 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>Lost State (33 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>Lost State (34 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>Lost State (35 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>Lost State (36 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>Lost State (37 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">10</container>
+            <unittitle>Lost State (38 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">11</container>
+            <unittitle>Lost State (39 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">12</container>
+            <unittitle>Lost State (40 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">13</container>
+            <unittitle>Lost State (41 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">14</container>
+            <unittitle>Lost State (42 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">15</container>
+            <unittitle>Lost State (43 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">16</container>
+            <unittitle>Lost State (44 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">17</container>
+            <unittitle>Lost State (45 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">18</container>
+            <unittitle>Lost State (46 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">19</container>
+            <unittitle>Lost State (47 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">20</container>
+            <unittitle>Lost State (48 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">21</container>
+            <unittitle>Lost State (49 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">12</container>
+            <container type="folder">22</container>
+            <unittitle>Lost State (50 of 50)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">1</container>
+            <unittitle>Oracle At Stoneleigh Court (1 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>Oracle At Stoneleigh Court (2 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>Oracle At Stoneleigh Court (3 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>Oracle At Stoneleigh Court (4 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">5</container>
+            <unittitle>Oracle At Stoneleigh Court (5 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>Oracle At Stoneleigh Court (6 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">7</container>
+            <unittitle>Oracle At Stoneleigh Court (7 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">8</container>
+            <unittitle>Oracle At Stoneleigh Court (8 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">9</container>
+            <unittitle>Oracle At Stoneleigh Court (9 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">10</container>
+            <unittitle>Oracle At Stoneleigh Court (10 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">11</container>
+            <unittitle>Oracle At Stoneleigh Court (11 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">12</container>
+            <unittitle>Oracle At Stoneleigh Court (12 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">13</container>
+            <unittitle>Oracle At Stoneleigh Court (13 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">14</container>
+            <unittitle>Oracle At Stoneleigh Court (14 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">15</container>
+            <unittitle>Oracle At Stoneleigh Court (15 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">16</container>
+            <unittitle>Oracle At Stoneleigh Court (16 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">17</container>
+            <unittitle>Oracle At Stoneleigh Court (17 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">18</container>
+            <unittitle>Oracle At Stoneleigh Court (18 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">19</container>
+            <unittitle>Oracle At Stoneleigh Court (19 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">20</container>
+            <unittitle>Oracle At Stoneleigh Court (20 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">21</container>
+            <unittitle>Oracle At Stoneleigh Court (21 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">22</container>
+            <unittitle>Oracle At Stoneleigh Court (22 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">23</container>
+            <unittitle>Oracle At Stoneleigh Court (23 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">24</container>
+            <unittitle>Oracle At Stoneleigh Court (24 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">25</container>
+            <unittitle>Oracle At Stoneleigh Court (25 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">26</container>
+            <unittitle>Oracle At Stoneleigh Court (26 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">27</container>
+            <unittitle>Oracle At Stoneleigh Court (27 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">28</container>
+            <unittitle>Oracle At Stoneleigh Court (28 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">29</container>
+            <unittitle>Oracle At Stoneleigh Court (29 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">30</container>
+            <unittitle>Oracle At Stoneleigh Court (30 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">31</container>
+            <unittitle>Oracle At Stoneleigh Court (31 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">32</container>
+            <unittitle>Oracle At Stoneleigh Court (32 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">1</container>
+            <unittitle>Oracle At Stoneleigh Court (33 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">2</container>
+            <unittitle>Oracle At Stoneleigh Court (34 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">3</container>
+            <unittitle>Oracle At Stoneleigh Court (35 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">4</container>
+            <unittitle>Oracle At Stoneleigh Court (36 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">5</container>
+            <unittitle>Oracle At Stoneleigh Court (37 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">6</container>
+            <unittitle>Oracle At Stoneleigh Court (38 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">7</container>
+            <unittitle>Oracle At Stoneleigh Court (39 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">8</container>
+            <unittitle>Oracle At Stoneleigh Court (40 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">9</container>
+            <unittitle>Oracle At Stoneleigh Court (41 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Oracle At Stoneleigh Court (42 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">11</container>
+            <unittitle>Oracle At Stoneleigh Court (43 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">12</container>
+            <unittitle>Oracle At Stoneleigh Court (44 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">13</container>
+            <unittitle>Oracle At Stoneleigh Court (45 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">14</container>
+            <unittitle>Oracle At Stoneleigh Court (46 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">15</container>
+            <unittitle>Oracle At Stoneleigh Court (47 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">16</container>
+            <unittitle>Oracle At Stoneleigh Court (48 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">17</container>
+            <unittitle>Oracle At Stoneleigh Court (49 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">18</container>
+            <unittitle>Oracle At Stoneleigh Court (50 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">19</container>
+            <unittitle>Oracle At Stoneleigh Court (51 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">20</container>
+            <unittitle>Oracle At Stoneleigh Court (52 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">21</container>
+            <unittitle>Oracle At Stoneleigh Court (53 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">22</container>
+            <unittitle>Oracle At Stoneleigh Court (54 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">23</container>
+            <unittitle>Oracle At Stoneleigh Court (55 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">24</container>
+            <unittitle>Oracle At Stoneleigh Court (56 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">25</container>
+            <unittitle>Oracle At Stoneleigh Court (57 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">26</container>
+            <unittitle>Oracle At Stoneleigh Court (58 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">27</container>
+            <unittitle>Oracle At Stoneleigh Court (59 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">28</container>
+            <unittitle>Oracle At Stoneleigh Court (60 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">29</container>
+            <unittitle>Oracle At Stoneleigh Court (61 of 61)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">1</container>
+            <unittitle>Stand in the Mountains</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">2</container>
+            <unittitle>Second Growth (unpublished worksheets)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">3</container>
+            <unittitle>Summons to Memphis (1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">4</container>
+            <unittitle>Summons to Memphis (2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">5</container>
+            <unittitle>Summons to Memphis (3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">6</container>
+            <unittitle>Summons to Memphis (4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">7</container>
+            <unittitle>Two Presences</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">8</container>
+            <unittitle>Waiting Room</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">9</container>
+            <unittitle>Witch of Owl Mountain (1 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">10</container>
+            <unittitle>Witch of Owl Mountain (2 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">11</container>
+            <unittitle>Witch of Owl Mountain (3 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">12</container>
+            <unittitle>Witch of Owl Mountain (4 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">13</container>
+            <unittitle>Witch of Owl Mountain (5 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">14</container>
+            <unittitle>Witch of Owl Mountain (6 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">15</container>
+            <unittitle>Witch of Owl Mountain (7 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">16</container>
+            <unittitle>Witch of Owl Mountain (8 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">17</container>
+            <unittitle>Witch of Owl Mountain (9 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">18</container>
+            <unittitle>Witch of Owl Mountain (10 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">19</container>
+            <unittitle>Witch of Owl Mountain (11 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">20</container>
+            <unittitle>Witch of Owl Mountain (12 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">15</container>
+            <container type="folder">21</container>
+            <unittitle>Witch of Owl Mountain (13 of 13)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">1</container>
+            <unittitle>Unidentified Manuscript Fragments (1 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">2</container>
+            <unittitle>Unidentified Manuscript Fragments (2 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">3</container>
+            <unittitle>Unidentified Manuscript Fragments (3 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">4</container>
+            <unittitle>Unidentified Manuscript Fragments (4 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">5</container>
+            <unittitle>Unidentified Manuscript Fragments (5 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">6</container>
+            <unittitle>Unidentified Manuscript Fragments (6 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">7</container>
+            <unittitle>Unidentified Manuscript Fragments (7 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">8</container>
+            <unittitle>Unidentified Manuscript Fragments (8 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">9</container>
+            <unittitle>Unidentified Manuscript Fragments (9 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">10</container>
+            <unittitle>Unidentified Manuscript Fragments (10 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">11</container>
+            <unittitle>Unidentified Manuscript Fragments (11 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">12</container>
+            <unittitle>Unidentified Manuscript Fragments (12 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">13</container>
+            <unittitle>Unidentified Manuscript Fragments (13 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">14</container>
+            <unittitle>Unidentified Manuscript Fragments (14 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">15</container>
+            <unittitle>Unidentified Manuscript Fragments (15 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">16</container>
+            <unittitle>Unidentified Manuscript Fragments (16 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">17</container>
+            <unittitle>Unidentified Manuscript Fragments (17 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">18</container>
+            <unittitle>Unidentified Manuscript Fragments (18 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">19</container>
+            <unittitle>Unidentified Manuscript Fragments (19 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">20</container>
+            <unittitle>Unidentified Manuscript Fragments (20 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">21</container>
+            <unittitle>Unidentified Manuscript Fragments (21 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">22</container>
+            <unittitle>Unidentified Manuscript Fragments (22 of 23)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">16</container>
+            <container type="folder">23</container>
+            <unittitle>Unidentified Manuscript Fragments (23 of 23)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series III: Literary Career</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">1</container>
+            <unittitle>Awards</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">2</container>
+            <unittitle>Contracts</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">3</container>
+            <unittitle>Copyright</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">4</container>
+            <unittitle>Invitations (1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">5</container>
+            <unittitle>Invitations (2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">6</container>
+            <unittitle>Invitations (3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">7</container>
+            <unittitle>Invitations (4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">8</container>
+            <unittitle>Miscellaneous Clippings about Taylor (1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">9</container>
+            <unittitle>Miscellaneous Clippings about Taylor (2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">10</container>
+            <unittitle>Miscellaneous Clippings about Taylor (3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">11</container>
+            <unittitle>Miscellaneous Clippings about Taylor (4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">12</container>
+            <unittitle>Miscellaneous Clippings - General (1 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">13</container>
+            <unittitle>Miscellaneous Clippings - General (2 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">14</container>
+            <unittitle>Miscellaneous Clippings - General (3 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">15</container>
+            <unittitle>Miscellaneous Clippings - General (4 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">16</container>
+            <unittitle>Miscellaneous Clippings - General (5 of 5)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">17</container>
+            <container type="folder">17</container>
+            <unittitle>Program - &quot;A Stand In The Mountains&quot;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">1</container>
+            <unittitle>Readings and Appearances</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">2</container>
+            <unittitle>Reviews - &quot;Long Fourth And Other Stories&quot;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">3</container>
+            <unittitle>Reviews - &quot;Miro District&quot; (1 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">4</container>
+            <unittitle>Reviews - &quot;Miro District&quot; (2 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">5</container>
+            <unittitle>Reviews - &quot;Miro District&quot; (3 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">6</container>
+            <unittitle>Reviews - &quot;Oracle At Stoneleigh Court&quot; (1 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">7</container>
+            <unittitle>Reviews - &quot;Oracle At Stoneleigh Court&quot; (2 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">8</container>
+            <unittitle>Reviews - &quot;Oracle At Stoneleigh Court&quot; (3 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">9</container>
+            <unittitle>Reviews - &quot;Presences&quot;</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">10</container>
+            <unittitle>Royalty Statements</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">11</container>
+            <unittitle>Peter Taylor Symposium</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series IV: Biographical</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">12</container>
+            <unittitle>Financial Records</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">13</container>
+            <unittitle>Interviews</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">18</container>
+            <container type="folder">14</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series V: Writings by Others</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">1</container>
+            <unittitle>Blake</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">2</container>
+            <unittitle>Bradford</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">3</container>
+            <unittitle>Campbell Jr.</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">4</container>
+            <unittitle>Casey</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">5</container>
+            <unittitle>Cuba</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">6</container>
+            <unittitle>Delerive</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">7</container>
+            <unittitle>Felsenthal</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">8</container>
+            <unittitle>Griffin (1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">9</container>
+            <unittitle>Griffin (2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">10</container>
+            <unittitle>Griffin (3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">11</container>
+            <unittitle>Griffin (4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">12</container>
+            <unittitle>Havighurst</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">13</container>
+            <unittitle>Hays</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">14</container>
+            <unittitle>Hurt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">15</container>
+            <unittitle>Johnson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">16</container>
+            <unittitle>Kayano</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">17</container>
+            <unittitle>Kline 22
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">18</container>
+            <unittitle>Lear (1 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">19</container>
+            <unittitle>Lear (2 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">20</container>
+            <unittitle>Lear (3 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">21</container>
+            <unittitle>Lear (4 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">22</container>
+            <unittitle>Lear (5 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">23</container>
+            <unittitle>Lear (6 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">24</container>
+            <unittitle>Lear (7 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">25</container>
+            <unittitle>Lear (8 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">19</container>
+            <container type="folder">26</container>
+            <unittitle>Lear (9 of 9)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">1</container>
+            <unittitle>Leary</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">2</container>
+            <unittitle>Lucas</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">3</container>
+            <unittitle>Lurie</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">4</container>
+            <unittitle>Lynn</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">5</container>
+            <unittitle>Lyons</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">6</container>
+            <unittitle>Malina</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">7</container>
+            <unittitle>McAlexander</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">8</container>
+            <unittitle>Molyneux</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">9</container>
+            <unittitle>Neal</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">10</container>
+            <unittitle>Neely (1 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">11</container>
+            <unittitle>Neely (2 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">12</container>
+            <unittitle>Neely (3 of 3)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">13</container>
+            <unittitle>Oden</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">14</container>
+            <unittitle>Overmyer</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">15</container>
+            <unittitle>Paine</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">16</container>
+            <unittitle>Pratt</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">17</container>
+            <unittitle>Prewitt (1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">18</container>
+            <unittitle>Prewitt (2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">19</container>
+            <unittitle>Prewitt (3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">20</container>
+            <unittitle>Prewitt (4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">21</container>
+            <unittitle>Rance (1 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">22</container>
+            <unittitle>Rance (2 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">23</container>
+            <unittitle>Rance (3 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">24</container>
+            <unittitle>Rance (4 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">25</container>
+            <unittitle>Rance (5 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">26</container>
+            <unittitle>Rance (6 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">27</container>
+            <unittitle>Rawlins</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">28</container>
+            <unittitle>Robinson (1 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">29</container>
+            <unittitle>Robinson (2 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">30</container>
+            <unittitle>Robinson (3 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">20</container>
+            <container type="folder">31</container>
+            <unittitle>Robinson (4 of 4)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">1</container>
+            <unittitle>Sisk</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">2</container>
+            <unittitle>Stein</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">3</container>
+            <unittitle>Summers</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">4</container>
+            <unittitle>Tate</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">5</container>
+            <unittitle>Thompson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">6</container>
+            <unittitle>Tillinghast</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">7</container>
+            <unittitle>Underwood</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">8</container>
+            <unittitle>Vauthier</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">9</container>
+            <unittitle>Wertime</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">10</container>
+            <unittitle>Willrich</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">11</container>
+            <unittitle>Wilson</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">12</container>
+            <unittitle>Wright (1 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">13</container>
+            <unittitle>Wright (2 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">14</container>
+            <unittitle>Wright (3 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">15</container>
+            <unittitle>Wright (4 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">16</container>
+            <unittitle>Wright (5 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">17</container>
+            <unittitle>Wright (6 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">18</container>
+            <unittitle>Wright (7 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">19</container>
+            <unittitle>Wright (8 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">20</container>
+            <unittitle>Wright (9 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">21</container>
+            <unittitle>Wright (10 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">22</container>
+            <unittitle>Wright (11 of 11)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">23</container>
+            <unittitle>Wyatt (1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">24</container>
+            <unittitle>Wyatt (2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">25</container>
+            <unittitle>Unknown (1 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">26</container>
+            <unittitle>Unknown (2 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">27</container>
+            <unittitle>Unknown (3 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">28</container>
+            <unittitle>Unknown (4 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">29</container>
+            <unittitle>Unknown (5 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box">21</container>
+            <container type="folder">30</container>
+            <unittitle>Unknown (6 of 6)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Oversize</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Promotional Poster - Governor&#8217;s Awards In The Arts (Oversize folder 1)</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Taylor, Warren Collection</titleproper>
+        <titleproper>Finding Aid for the Warren Taylor Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Warren Taylor Collection</unittitle>
+      <unitid>MSS.0436</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.26 linear_feet</extent>
+      </physdesc>
+      <unitdate>undated</unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Correspondence - Outgoing</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Edgar Hill Duncan</unittitle>
+            <unitdate>Oct. 27, 1977; Nov. 17, 1977; Dec. 16, 1977; Feb. 6, 1978</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Correspondence - Incoming - 49 letters, 8post cards and 2 greeting cards alphabetically arranged. These letters are typescript and holograph with 3 xerox copies (the Edgar Hill Duncan letters).</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Bandy, Bill, (1)</unittitle>
+            <unitdate>Jun. 24, ? (to Pierre ?)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Curry, Walter Clyde, (1)</unittitle>
+            <unitdate>Jan. 11, 1927</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Davidson, Donald, (43) - May 8, 1925; Feb. 17 Mar. 11, Aug. 28, Oct. 12, Nov. 22, Nov, 29, 1926; Jan. 16, Apr. 17, Sept. 28, Nov. 2, 1927; Feb. 13, Feb. 29,' Apr. 3, Apr. 10, Apr. 23, Apr. 26, May 3, May 12, May 24, May 25, Jim. 20, . Aug.
+              22, Oct. 29, Nov. 23, 1928;</unittitle>
+            <unitdate>Mar. 26, Apr. 9, Nov. 27, 1929; Nov. 26, Dec. 28, 1930; Sept. 16, 1933; Apr. 25, 1954; Apr. 17, ?; Apr. 27, ?; Aug. 20, ?; Sept. 29, ?; Oct. 13, ?; Oct. 15, ?; 3 letters n.d.; 2 Christmas cards, n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Duncan, Edgar Hill, (3 xerox copies)</unittitle>
+            <unitdate>Nov. 15, Dec. 2, 1977; Feb. 1, 1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Lytle, Andrew Nelson, (2)</unittitle>
+            <unitdate>n.d.; Apr. 7, 1923</unitdate>
+            <note>
+              <p>(enclosed in this letter is a poem by Lytle
+                <emph render="underline">A Reflection</emph>
+                in french and english)</p>
+            </note>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Mims, Edwin, (1)</unittitle>
+            <unitdate>Apr. 8, 1935</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Moore, Merrill, (2)</unittitle>
+            <unitdate>May 18, 1935; Jun. 29, 1935</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Ransom, John Crowe, (2)</unittitle>
+            <unitdate>May 1, 1933; Mar. 28, 1946</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Tate, Allen, (2)</unittitle>
+            <unitdate>Sept. 11, 1926; Aug. 20, ?</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Warren, Robert Penn, (1)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Zobou, Bessie J., (1)</unittitle>
+            <unitdate>Nov. 7, 1929</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Essays - These 18 essays were done in 1922-1923 while Taylor was a student at Vanderbilt. They have notes on them by his professors, John Crowe Ransom and Walter Clyde Curry.</unittitle>
+        </did>
+        <note>
+          <list type="simple">
+            <item>About Charteris</item>
+            <item>The Bohemian of Rue Morne</item>
+            <item>Casanova in Wisconsin</item>
+            <item>George Gordon Byron</item>
+            <item>Greek Tragedy</item>
+            <item>In Time of Waste</item>
+            <item>Joseph Hergesheimer</item>
+            <item>Mr. Prohack</item>
+            <item>Mr. Robinson, Lancelot and Merlin (2 copies)</item>
+            <item>Old Wives Tale</item>
+            <item>Philosophy and Dramas of Schiller</item>
+            <item>Poor Children</item>
+            <item>Professor With Umbrella</item>
+            <item>Retrogression and Willa Cather</item>
+            <item>Robert Frost</item>
+            <item>A Shropshire Lad Grown Up</item>
+            <item>Toward an Anatomy of Criticism</item>
+            <item>The Way of All Flesh (2 copies)</item>
+          </list>
+        </note>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Lectures - 18 lectures prepared by Taylor while at Oberlin College</unittitle>
+          <unitdate>1939-1971</unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>American and Un-American Activities</unittitle>
+            <unitdate>(May 20, 1947)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Democracy and the Oberlin Idea</unittitle>
+            <unitdate>(Jun. 10, 1950)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>The Four Freedoms and the Cold War</unittitle>
+            <unitdate>(Mar. 30, 1949)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>How to Beat Propaganda</unittitle>
+            <unitdate>(Dec. 19, 1940)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Humanism and Liberal Education</unittitle>
+            <unitdate>(n.d.)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Lear and the Lost Self</unittitle>
+            <unitdate>(Sept. 25, 1961)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Learning and Labor</unittitle>
+            <unitdate>(May 11, 1948)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>A Letter to Croce</unittitle>
+            <unitdate>(1954)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Liberal Education, Power, and Civilization</unittitle>
+            <unitdate>(Oct. 16, 1961)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Literature and Action</unittitle>
+            <unitdate>(May 3, 1944)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Literature and General Education</unittitle>
+            <unitdate>(2 copies, n.d.)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Literature, Science, and Man</unittitle>
+            <unitdate>(n.d.)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Noon and Babylonian Starlight</unittitle>
+            <unitdate>(Dec. 8, 1939)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>On Being An American</unittitle>
+            <unitdate>(1971)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>The Place of Literature in the Realm of Values</unittitle>
+            <unitdate>(n.d.)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>The Promise of American Education</unittitle>
+            <unitdate>(n.d.)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Shakespeare&#8217;s Tragic Heroes</unittitle>
+            <unitdate>(n.d.)</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>What is Propaganda</unittitle>
+            <unitdate>(Dec. 6, 1940)</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Poems - 30 typescript, holograph and carbon copies. These poems circulated among the fugitives in the 1920's.</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Abbott, John Paul</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>April</item>
+              <item>A Child&#8217;s Laugh</item>
+              <item>End of a Story</item>
+              <item>The Grey World</item>
+              <item>Night on a Barrier Island</item>
+              <item>Night - Three Quatrains</item>
+              <item>An Old Pedant Speaks</item>
+              <item>Red Birds</item>
+              <item>When Fairies Dance</item>
+              <item>Untitled poem</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Comfort, J.</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Febuary Snow</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Moore, Merrill</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Romance and Realism 5:30 P.M.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Moss, Charles</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>To Rupert Brooke, The Lover</item>
+              <item>Travelers</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Tate, Allen</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Death of Little Boys</item>
+              <item>Sudden Face</item>
+              <item>Young Classicist to a Younger Romantic Friend</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Warren, Robert Penn</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>Crusade</item>
+              <item>A Queen Mother to Her Twin Sons</item>
+              <item>Wild Oats</item>
+              <item>Wrestling Match</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Unsigned</unittitle>
+          </did>
+          <note>
+            <list type="simple">
+              <item>After the Storm</item>
+              <item>August Revival: Crosby Junction</item>
+              <item>Dementa (Lowenstein, is penciled at top of page)</item>
+              <item>Letter of a Mother</item>
+              <item>One, Two, Three</item>
+              <item>Simple</item>
+              <item>The Story the Idiot Tried to Tell</item>
+              <item>To One Awake</item>
+              <item>Untitled</item>
+            </list>
+          </note>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Photographs - 2 photographs of John Crowe Ransom. One was taken in 1948 while he spoke in the Baltimore Museum of Art. The other is undated and was probably taken at Kenyon College.</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <unittitle>Theater Programs - 32, dated from 1921 to 1932 and chronologically arranged. Most of these programs are from the Orpheum Theatre and the Ryman Auditorium, Nashville, Tennessee.</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle>19 Programs from the Orpheum Theatre 1921-1925(Nashville)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Nov. 28, 1921</unitdate>
+              <unittitle>
+                <title render="underline">Lombardi, Ltd</title>. (Hazele Burgess Players)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Dec. 19, 1921 -
+                <title render="underline">Little Women</title>
+                (Hazele Brugess Players)</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Dec. 26, 1921</unitdate>
+              <unittitle>
+                <title render="underline">Stop Thief</title>
+                (Hazele Burgess Players)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jan. 2, 1922</unitdate>
+              <unitdate>
+                <title render="underline">The Love of Su Shong</title>
+                (The Burgess Players)</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jan. 9, 1922</unitdate>
+              <unittitle>
+                <title render="underline">The Eyes of Youth</title>
+                (Burgess Players)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>1922</unitdate>
+              <unittitle>
+                <title render="underline">Mary Rose</title>
+                (Ruth Chatterton)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>1922</unitdate>
+              <unitdate>Shakespearean Repertoire (Robert B. Mantell)</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 26, 1924</unitdate>
+              <unittitle>
+                <title render="underline">The Humming Bird</title>
+                (Clara Joel and the Orpheum Players)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jun. 2, 1924</unitdate>
+              <unittitle>
+                <title render="underline">The Man Who Came Back</title>
+                (Clara Joel and the Orpheum Players</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jun. 9, 1924</unitdate>
+              <unittitle>
+                <title render="underline">Within the Law</title>
+                (Clara Joel and the Orpheum Players</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Oct. 27, 1924</unitdate>
+              <unittitle>
+                <title render="underline">The Thief of Bagdad</title>
+                (Douglas Fairbanks)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>1925</unitdate>
+              <unittitle>
+                <title render="underline">The Student Prince in Heidelberg</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>
+                <title render="underline">Blind Youth</title>
+                (Lou Teilegen)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>
+                <title render="underline">The Covered Wagon</title>
+                (Paramount picture)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>Al. G. Fields&#8217; Minstrels</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>
+                <title render="underline">Turn to the Right</title>
+                (Hazele Burgess Players)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>
+                <title render="underline">The Big Parade</title>
+                (John Gilbert)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>
+                <title render="underline">The Merchant of Venice</title>
+                (Robert B. Mantell and Genevieve Hamper)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>
+                <title render="underline">The Merchant of Venice</title>
+                and
+                <title render="underline">Richard III</title>
+                (Robert Mantell and Genevieve Hamper)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle>13 Programs</unittitle>
+            <unitdate>1922-1932</unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 19, 1926</unitdate>
+              <unittitle>Grand Opening of Capitol Theatre, movie
+                <title render="underline">Let&#8217;s Get Married</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jan. 16, 1922</unitdate>
+              <unittitle>Ryman Auditorium, Mr. Walter Hampden in Repertoire</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Nov. 13, 1922</unitdate>
+              <unittitle>Ryman Auditorium, Fritz Leiber</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jan. 5, 1925</unitdate>
+              <unittitle>Ryman Auditorium,
+                <title render="underline">Faust</title>
+                (San Carlo Grand Opera Company)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 26, 1926</unitdate>
+              <unittitle>The Little Theatre Guild, An Evening of One Act Plays</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 17, 1926</unitdate>
+              <unittitle>The Little Theatre Guild,
+                <title render="underline">The Imaginary Invalid</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 13, 1926</unitdate>
+              <unittitle>The Little Theatre Guild,
+                <title render="underline">To the Ladies</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Aug. 1, 1931</unitdate>
+              <unittitle>Vagabond Players,
+                <title render="underline">Time is a Dream</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 26, 1922</unitdate>
+              <unittitle>Centennial Club, Celebration of Moliere</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>
+                <title render="underline">Hedda Gabler</title>, directed by Hale Shaneberger</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>Calumet Players, Four one act plays</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 7, 1932</unitdate>
+              <unittitle>
+                <title render="underline">Faust</title>, (Francis Robinson) Neely Auditorium 2 copies</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>1925</unitdate>
+              <unittitle>
+                <title render="underline">Rosmersholm</title>, (The Devereux Dramatic Co.) at Peabody College</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <unittitle>Musical Programs - 55, dated from 1922 to 1931 and chronologically arranged. Programs mostly from Ryman Auditorium and Ward-Belmont Conservatory of Music, Nashville, Tennessee. Also included are 16 programs from the Nashville Symphony
+            Orchestra, dating from 1921-1927.</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Misc. Musical Programs</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 22, 1922</unitdate>
+              <unittitle>Erna Rubinstein - Violinist Ward-Belmont Conservatory of Music</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 27, 1922</unitdate>
+              <unittitle>Frieda Hempel - Vocalist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 8, 1922</unitdate>
+              <unittitle>Amelita Galli-Curci - Vocalist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 18, 1922</unitdate>
+              <unittitle>
+                <title render="underline">La Boheme</title>
+                Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Feb. 19, 1923</unitdate>
+              <unittitle>Madame Emma Calve - Vocalist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 1, 1923</unitdate>
+              <unittitle>Ganna Walska - Vocalist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Oct. 13, 1923</unitdate>
+              <unittitle>Irene Castle Variety Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Oct. 19, 1923</unitdate>
+              <unittitle>San. Carlo Grand Opera Co.
+                <title render="underline">La Traviata</title>
+                and
+                <title render="underline">La Boheme</title>
+                - Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Dec. 14, 1923</unitdate>
+              <unittitle>Ruth St. Denis and Ted Shawn Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Dec. 15, 1923</unitdate>
+              <unittitle>Roland Hayes - Tenor Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Feb. 6, 1924</unitdate>
+              <unittitle>Paderewski Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Feb. 27, 1924</unitdate>
+              <unittitle>Anna Povlowa Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 24, 1924</unitdate>
+              <unittitle>
+                <title render="underline">Blossom Time</title>
+                Orpheum</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 26, 1924</unitdate>
+              <unittitle>Chicago Opera Artists Ryman Auditorium
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Oct. 9, 1924</unitdate>
+              <unittitle>
+                <title render="underline">Blossom Time</title>
+                (2 copies) Orpheum Theatre</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Nov. 17, 1924</unitdate>
+              <unittitle>Vladimir De Pachmann - Pianist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Feb. 19, 1925</unitdate>
+              <unittitle>Mischa Levitzki - Pianist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 9, 1925</unitdate>
+              <unittitle>Mr. Jascha Heifetz Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 20, 1925</unitdate>
+              <unittitle>Rudolph Ganz and the St. Louis Symphony Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 16, 1925</unitdate>
+              <unittitle>Cortese Trio Concert Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 27, 1925</unitdate>
+              <unittitle>Vratislar Murdoch - Violinist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 4, 1925</unitdate>
+              <unittitle>Sadye Brown - Pianist Houck&#8217;s Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 5, 1925</unitdate>
+              <unittitle>Joseph T. MacPherson - Vocalist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Nov. 21, 1925</unitdate>
+              <unittitle>Ballet Russe Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Nov. 30, 1925</unitdate>
+              <unittitle>Mr. Rudolph Ganz - Pianist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jan. 18, 1926</unitdate>
+              <unittitle>Miss Frieda Hempel Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 19, 1926</unitdate>
+              <unittitle>Mischa Elman - Violinist Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 16, 1926</unitdate>
+              <unittitle>Giovanni Martinelli (Metropolitian Opera) Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jun. 6, 1926</unitdate>
+              <unittitle>Vesper Concert at Vanderbilt</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jun. 10, 1926</unitdate>
+              <unittitle>Marion Talley (Metropolitian Opera) Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Oct. 2, 1926</unitdate>
+              <unittitle>
+                <title render="underline">No No Nanette</title>
+                Orpheum</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 12, 1931</unitdate>
+              <unittitle>Spring Concert - Music Study Club Hotel Andrew Jackson Ball-Room</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>n.d.</unitdate>
+              <unittitle>Cincinnati Symphony Orchestra Ryman Auditorium</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Nashville Symphony Orchestra Programs</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jan. 30, 1921</unitdate>
+              <unittitle>1st Season, 3rd Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>1921 - 1922</unitdate>
+              <unittitle>2nd Season, all 6 concert programs bound together</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Oct. 15, 1922</unitdate>
+              <unittitle>3rd Season, 1st Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Nov. 19, 1922</unitdate>
+              <unittitle>3rd Season, 2nd Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 15, 1923</unitdate>
+              <unittitle>3rd Season, 6th Coneert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Feb. 10, 1925</unitdate>
+              <unittitle>5th Season, 3rd Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 15, 1925</unitdate>
+              <unittitle>5th Season, 4th Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 19, 1925</unitdate>
+              <unittitle>5th Season, 5th Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>May 10, 1925</unitdate>
+              <unittitle>5th Season, 6th Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Nov. 8, 1925</unitdate>
+              <unittitle>6th Season, 1st Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Dec. 13, 1925</unitdate>
+              <unittitle>6th Season, 2nd Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Jan. 17, 1926</unitdate>
+              <unittitle>6th Season, 3rd Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Feb. 10, 1926</unitdate>
+              <unittitle>6th Season, 4th Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 14, 1926</unitdate>
+              <unittitle>6th Season, 5th Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Apr. 25, 1926</unitdate>
+              <unittitle>6th Season, 6th Concert</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <unitdate>Mar. 13, 1927</unitdate>
+              <unittitle>7th Season, 5th Concert</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <unittitle>Pamphlet -
+            <emph render="underline">The Golden Mean and Other Poems</emph>, by Ridley Wills and Allen Tate. 31 pages in length, contains poems by Ridley Wills, Allen Tate and Merrill Moore, published in 1923.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box">2</container>
+          <unittitle>Magazine -
+            <emph render="underline">Poetry, A Magazine of Verse</emph>, edited by Harriet Monroe. May, 1932 issue edited by Allen Tate. Includes contributions by Donald Davidson, Merrill Moore, Allen Tate, and Robert Penn Warren.</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <unittitle>Newspaper Clippings - 7 short columns "The 10 Worst Books I Ever Read" written by Jesse Wills, Allen Tate, Robert Penn Warren, Warren Taylor, Lawrence Blair and Elsie Warren Stokes. Reviews of plays (8) presented at the Ryman Auditorium
+            and the Orpheum Theatre, Nashville. Also included is an article from the
+            <title render="underline">Cleveland Plain Dealer</title>
+            about Ransom. These clippings are not dated except for the article about Ransom and the name of the newspaper is not usually given.</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <unittitle>Miscellaneous - Material includes a program of the Vanderbilt Semi-Centennial Pageant, Oct. 16, 1925; an announcement of a public reading during a reunion of the Fugitive Poets at Vanderbilt, May 4, 1956; a book cover from
+            <title render="underline">The World&#8217;s Body</title>
+            by John Crowe Ransom; a list of publications of Warren Taylor 1937-1972; 7 canceled checks signed by Robert Penn Warren as treasurer for the
+            <title render="underline">Fugitive</title>; bibliography for one of Taylor's classes at Oberlin and outline of the course content; note card with a poem by Merrill Moore printed on one side and a short message by Moore on reverse; periodical
+            <title render="underline">Avenue</title>, dated July 23, 1934, containing William S. Knickerbocker's review of
+            <title render="underline">I&#8217;ll Take My Stand</title>.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Addendum</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Articles</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Knickerbocker, William S. &#8220;The Fugitives of Nashville.&#8221;
+                <title render="underline">Sewanee Review</title>, 36 (1928), 211-24.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Ransom, John Crowe. &#8220;The South--Old of New?&#8221;
+                <title render="underline">Sewanee Review</title>, 36 (1928), 139-47.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Tate, Allen. &#8220;American Poetry Since 1920.&#8221;
+                <title render="underline">The Bookman</title>, 68 (1929), 503-08.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Tate, Allen. &#8220;Last Days of the Charming Lady.&#8220;
+                <title render="underline">The Nation</title>, 121 (1925), 485-86.</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Tate, Allen. &#8220;Poetry and the Absolute.&#8221;
+                <title render="underline">Sewanee Review</title>, 35 (1927), 41-52.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Correspondence - Incoming</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Tate, Allen, (1)</unittitle>
+              <unitdate>Feb. 14, 1941</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Newspaper Clippings</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Jack, Peter Monro. &#8220;A New Collection of Poems by Allen Tate.&#8221; Rev. of
+                <title render="underline">The Mediterranean and Other Poems</title>.
+                <title render="underline">New York Times</title>
+              </unittitle>
+              <unitdate>16 August 1936.</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>Allen Tate obituary picture in unidentified newspaper</unittitle>
+              <unitdate>9 Feb. 1979.</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Notes</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <unittitle>2 folders on Tate; 1 includes published poems labeled &#8220;not collected&#8221; 1 folder on Agrarians</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Biographical sketch on dustjacket of Tate&#8217;s
+              <title render="underline">Poems, 1928-1931</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <unittitle>Essay - Sanborn, Herbert. &#8220;Philosophies and Psychologies.&#8221; Read at the annual meeting of the Southern Society for Philosophy and Psychology, Washington University, 4 April 1947. Inscribed by Sanborn.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
