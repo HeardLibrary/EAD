@@ -72,7 +72,8 @@ Replace:
 This doesn’t currently work to do anything but Month xxxxx YYYY formatted dates. There would need to be a second F&R formula to change –Month into –MM format consistently.
 
 Find:
-``` <unitdate>((January|Jan|February|Feb|March|April|May|June|July|August|Aug|September|Sept|October|Oct|November|Nov|December|Dec).{0,6}(\d{4}).{0,30}(January|Jan|February|Feb|March|April|May|June|July|August|Aug|September|Sept|October|Oct|November|Nov|December|Dec).*(\d{4}).*)<
+```
+<unitdate>((January|Jan|February|Feb|March|April|May|June|July|August|Aug|September|Sept|October|Oct|November|Nov|December|Dec).{0,6}(\d{4}).{0,30}(January|Jan|February|Feb|March|April|May|June|July|August|Aug|September|Sept|October|Oct|November|Nov|December|Dec).*(\d{4}).*)<
 ```
 Replace:
 ```
