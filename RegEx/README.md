@@ -79,3 +79,56 @@ Replace:
 ```
 <unitdate normal="$3-$2/$5-$4" type="inclusive">$1<
 ```
+
+### Working formulas to parse months and days in Stahlman collection (MSS.0413)
+This may or may not be useful for other collections. There would need to be a second F&R formula to change –Month into –MM format consistently.
+
+Find single dates and normalize:
+Find:
+```
+<unitdate normal=".*">((January|Jan|February|Feb|March|April|May|June|July|August|Aug|September|Sept|October|Oct|November|Nov|December|Dec).\s(\d{0,2}),\s(\d{4}))<
+```
+Replace:
+```
+<unitdate normal="$4-$2-$3">$1<
+```
+
+Find range of dates within same month and normalize:
+Find:
+```
+<unitdate normal=".*">((January|Jan|February|Feb|March|April|May|June|July|August|Aug|September|Sept|October|Oct|November|Nov|December|Dec).\s(\d{0,2})\s{0,1}-\s{0,1}(\d{0,2}),\s(\d{4}))<
+```
+Replace:
+```
+<unitdate normal="$5-$2-$3/$5-$2-$4" type="inclusive">$1<
+```
+
+This is supposed to find a range of dates with different months and days and normalize. It is also detecting 'Month day - day, Year' results too, but I can't figure out why yet.
+Find:
+```
+<unitdate normal=".*">((January|Jan|Jan.|February|Feb|Feb.|March|Mar|Mar.|April|Apr|Apr.|May|June|Jun||Jun.|July|Jul|Jul.|August|Aug|Aug.|September|Sept|Sept.|October|Oct|Oct.|November|Nov|Nov.|December|Dec|Dec.).\s(\d{0,2})\s{0,1}-\s{0,1}(January|Jan|Jan.|February|Feb|Feb.|March|Mar|Mar.|April|Apr|Apr.|May|June|Jun||Jun.|July|Jul|Jul.|August|Aug|Aug.|September|Sept|Sept.|October|Oct|Oct.|November|Nov|Nov.|December|Dec|Dec.)\s(\d{1,2}),\s{0,1}(\d{4}))<
+```
+Replace:
+```
+<unitdate normal="$6-$2-$3/$6-$4-$5" type="inclusive">$1<
+```
+
+Fix single days and add missing 0 in front of it:
+Find:
+```
+"(\d{4}-\d{2})-(\d)"
+```
+Replace:
+```
+"$1-0$2"
+```
+
+Find range of dates within same month and normalize:
+Find:
+```
+"(\d{4}-\d{2})-(\d)/(\d{4}-\d{2}-\d{2})" | "(\d{4}-\d{2})-(\d)/(\d{4}-\d{2})-(\d)"
+```
+Replace:
+```
+"$1-0$2/$3" | "$1-0$2/$3-0$4"
+```
