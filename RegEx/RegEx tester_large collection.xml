@@ -448,7 +448,7 @@
             <container type="box">IV-2</container>
             <container type="folder">20</container>
             <unittitle>Outgoing</unittitle>
-            <unitdate normal="1936">Jul. 10 - Agu. 11, 1936</unitdate>
+            <unitdate normal="1936">Jul. 10 - Aug. 11, 1936</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -1304,7 +1304,7 @@
             <container type="box">IV-6</container>
             <container type="folder">13</container>
             <unittitle>Outgoing</unittitle>
-            <unitdate normal="1955">Jan. 24, 1955</unitdate>
+            <unitdate normal="1955-Jan-24">Jan. 24, 1955</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -1320,7 +1320,7 @@
             <container type="box">IV-6</container>
             <container type="folder">15</container>
             <unittitle>Outgoing</unittitle>
-            <unitdate normal="1955">Jan. 25 - 26, 1955</unitdate>
+            <unitdate normal="1955-Jan-25/1955-Jan-26" type="inclusive">Jan. 25 - 26, 1955</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -1328,7 +1328,7 @@
             <container type="box">IV-6</container>
             <container type="folder">16</container>
             <unittitle>Outgoing</unittitle>
-            <unitdate normal="1955">Jan. 27 - 28, 1955</unitdate>
+            <unitdate normal="1955-Jan-27/1955-Jan-28" type="inclusive">Jan. 27 - 28, 1955</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -2256,7 +2256,7 @@
             <container type="box">IV-11</container>
             <container type="folder">14</container>
             <unittitle>Outgoing</unittitle>
-            <unitdate normal="1973">Feb. 1 - May 8, 1973</unitdate>
+            <unitdate normal="1973-Feb-1/1973-May-8" type="inclusive">Feb. 1 - May 8, 1973</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -2280,7 +2280,7 @@
             <container type="box">IV-11</container>
             <container type="folder">17</container>
             <unittitle>Outgoing</unittitle>
-            <unitdate normal="1973">Oct. 1 - Dec. 31, 1973</unitdate>
+            <unitdate normal="1973-Oct-1/1973-Dec.-31" type="inclusive">Oct. 1 - Dec. 31, 1973</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -14406,7 +14406,7 @@
             <container type="box">VIII-3</container>
             <container type="folder">9</container>
             <unittitle>Outgoing</unittitle>
-            <unitdate normal="1973">Jan. 1973</unitdate>
+            <unitdate normal="1973-01">Jan. 1973</unitdate>
           </did>
         </c02>
         <c02 level="file">
