@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Lawson, James M., Jr. Papers</titleproper>
+        <titleproper>Finding Aid for the Reverend James M. Lawson, Jr. Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Reverend James M. Lawson, Jr. Papers</unittitle>
+      <unitid>MSS.0626</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">80 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <bioghist>
+      <head>Biographical Timeline</head>
+      <chronlist>
+        <chronitem>
+          <date>1928</date>
+          <event>Born in Uniontown, PA in</event>
+        </chronitem>
+        <chronitem>
+          <date>1946</date>
+          <event>Graduated from Washington High School in Massillon, OH in</event>
+        </chronitem>
+        <chronitem>
+          <date>1947</date>
+          <event>Received his local preacher&#8217;s license in</event>
+        </chronitem>
+        <chronitem>
+          <date>September 29, 1947</date>
+          <event>Entered Baldwin-Wallace College in Berea, OH on</event>
+        </chronitem>
+        <chronitem>
+          <date>1948</date>
+          <event>Became involved in the Fellowship for Reconciliation (FOR), which advocated nonviolent resistance to racism in</event>
+        </chronitem>
+        <chronitem>
+          <date>1951-1952</date>
+          <event>Declared a conscientious objector, refusing to take either a student or ministerial deferment, and served 14 months in federal prison (two months before graduating from college) for failing to report for the draft during the Korean War</event>
+        </chronitem>
+        <chronitem>
+          <date>1952</date>
+          <event>Attended the Hartford Theological Seminary in CT in</event>
+        </chronitem>
+        <chronitem>
+          <date>December 1952</date>
+          <event>Graduated from Baldwin-Wallace College with a BA in Sociology in</event>
+        </chronitem>
+        <chronitem>
+          <date>1953-1955</date>
+          <event>Worked as a Methodist minister and teacher at Hislop College in Nagpur, India where he studied the principles of nonviolence resistance that Mahatma Gandhi and his followers had developed</event>
+        </chronitem>
+        <chronitem>
+          <date>1955</date>
+          <event>Attended Oberlin School of Theology in OH in</event>
+        </chronitem>
+        <chronitem>
+          <date>1957-1960</date>
+          <event>Attended Vanderbilt Divinity School in TN in</event>
+        </chronitem>
+        <chronitem>
+          <date></date>
+          <event>Served as president of the Southern Christian Leadership Conference for 14 years, the organization founded by Martin Luther King, Jr. to end racial segregation by nonviolent protest</event>
+        </chronitem>
+        <chronitem>
+          <date>February 1960</date>
+          <event>Organized sit-ins to stop segregation at lunch counters in downtown Nashville, TN</event>
+        </chronitem>
+        <chronitem>
+          <date></date>
+          <event>Expelled from Vanderbilt Divinity School on
+            <emph render="bold">March 3, 1960</emph>, resulting in resignations of faculty members in protest and embroiled the campus and the Nashville community in a nationally reported controversy for months in the spring of 1960. A compromise was forged to
+            stop most of the resignations and allow Lawson to complete dis degree in Nashville. Lawson instead chose to transfer to Boston University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1960</date>
+          <event>Founded, along with Martin Luther King, Jr., the Student Nonviolent Coordinating Committee in</event>
+        </chronitem>
+        <chronitem>
+          <date>1960</date>
+          <event>Completed his Bachelor of Divinity degree at Boston University ca.</event>
+        </chronitem>
+        <chronitem>
+          <date>1960-1962</date>
+          <event>Pastor at Scott Chapel Methodist Church in Shelbyville, TN from</event>
+        </chronitem>
+        <chronitem>
+          <date>1961</date>
+          <event>Coordinated the Freedom Rides in</event>
+        </chronitem>
+        <chronitem>
+          <date>1962-1974</date>
+          <event>Pastor at Centenary United Methodist Church in Memphis, TN from</event>
+        </chronitem>
+        <chronitem>
+          <date>1965</date>
+          <event>Member of an international peace team in Southeast Asia, replacing Martin Luther King, in</event>
+        </chronitem>
+        <chronitem>
+          <date>1966</date>
+          <event>Coordinator of the James Meredith March in Mississippi in</event>
+        </chronitem>
+        <chronitem>
+          <date>1966</date>
+          <event>First president of Black Methodists for Church Renewal in</event>
+        </chronitem>
+        <chronitem>
+          <date>1967</date>
+          <event>Unsuccessful Campaign for Memphis Board of Education in</event>
+        </chronitem>
+        <chronitem>
+          <date>1967</date>
+          <event>Chair of the Strategy Committee for the Memphis Sanitation Strike ca.</event>
+        </chronitem>
+        <chronitem>
+          <date>April 4, 1968</date>
+          <event>Martin Luther King, Jr., assassinated in Memphis, TN on</event>
+        </chronitem>
+        <chronitem>
+          <date>1971</date>
+          <event>Returned to Vanderbilt on a sabbatical at the Divinity School in</event>
+        </chronitem>
+        <chronitem>
+          <date>1974-1989</date>
+          <event>Pastor at Holman United Methodist Church in Los Angeles, CA from</event>
+        </chronitem>
+        <chronitem>
+          <date>1981</date>
+          <event>Arrested for praying on the White House grounds in</event>
+        </chronitem>
+        <chronitem>
+          <date></date>
+          <event>Chaired Peace Sunday in Los Angeles, CA in
+            <emph render="bold">1982</emph>, filling the Rose Bowl with 100,000 people</event>
+        </chronitem>
+        <chronitem>
+          <date>1991</date>
+          <event>Hosted a weekly call-in show, &#8216;Lawson Live,&#8217; where he discussed social and human rights issues affecting minority communities ca.</event>
+        </chronitem>
+        <chronitem>
+          <date>1999</date>
+          <event>Retired at pastor at Holman United Methodist Church in</event>
+        </chronitem>
+        <chronitem>
+          <date>2005</date>
+          <event>Named Vanderbilt&#8217;s Distinguished Alumnus in</event>
+        </chronitem>
+        <chronitem>
+          <date></date>
+          <event>Lawson&#8217;s expulsion from Vanderbilt in 1960 became a source of deep embarrassment to the university. During the
+            <emph render="bold">2006</emph>
+            graduation ceremony the university apologized for its treatment of Lawson.</event>
+        </chronitem>
+        <chronitem>
+          <date>2006-2007</date>
+          <event>Lawson became a Distinguished University Professor at Vanderbilt for the academic year</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent>
+      <p>The papers contain a wide range of materials documenting Reverend Lawson&#8217;s life.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Education</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Washington High School</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Newspaper clippings</unittitle>
+              <container type="box">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Photographs (3)</unittitle>
+              <container type="box">28</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Baldwin-Wallace College</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - 1947</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - 1948</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - 1949</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - February 1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - May 1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - July 1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - August 1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - September 1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - November 1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - December 1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - 1951</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - 1952</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - n.d.</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Prayer Notes - 1947</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Sermon Ideas 1947-1949</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Debate Team 1946-1947</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Young People&#8217;s Leadership Regional Training Conference 1947-1948</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Newspaper Clippings - 1947-1949</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Pamphlets - &#8216;The Methodist Church and War and Peace&#8217; 1948</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Classes - Philosophy and Ethics - Spring 1949</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Dean&#8217;s List and Scholarship Award 1947-1949</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Worship Services 1948-1950</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Publications 1950-1951</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Methodist Student Loan - 1951</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Methodist Youth Assembly - May 1952</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Will - July 27, 1952</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Commencement - June 7, 1953</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Speech - &#8216;Alternative to Destruction&#8217; - n.d.</unittitle>
+              <container type="box">28B</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - Education Work of Local Churches &#8211; Fall 1956</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - New Testament I &#8211; Fall 1956 (2 folders)</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - Church History Survey &#8211; Fall 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - History of Religions &#8211; Fall 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - Practicum &#8211; Fall 11957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - Psychology of Christian Character &#8211; Fall 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - A Year&#8217;s Preaching &#8211; Fall 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - The Christian Religion &#8211; Spring 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - Fundamental of Sermon Construction &#8211; Spring 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - New Testament 2 &#8211; Spring 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Courses - Old Testament History &#8211; Spring 1957</unittitle>
+              <container type="box">29</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Hartford Theological Seminary</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Oberlin School of Theology</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - Incoming - 1956</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - 1957</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence - incoming - 1958</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Engagement - Fall 1957</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>International Fellowship of Reconciliation - n.d.</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Newspaper Clippings - King at Oberlin - February 1957</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Newspaper Clippings - 1957-1958</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Lexington Conference - 1957-1958</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Medical Records - 1957-1958</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Methodist Federation of Social Action - 1955-1956</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Methodist Youth Foundation - 1956</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Minutes - Student-Faculty Meeting - October 11, 1956</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Instruction for Colloquy Leaders - n.d.</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>North American Faith and Order Conference - 1957</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Programs - 1956-1957</unittitle>
+              <container type="box">30</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Vanderbilt Divinity School</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Boston University</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Federal Prison - Conscientious Objector - Korean War</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Church Affiliations</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Turner Chapel Methodist Church - Canton, Ohio</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Hislop College - Nagpur, India</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Warren Chapel Methodist Church 10/1/56</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Scott Chapel Methodist Church - Shelbyville, Tennessee</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Centenary United Methodist Church - Memphis, Tennessee</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Holman United Methodist Church - Los Angeles, California</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Church Committees</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Ad Hoc Committee for the 1984 Olympic Games</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Black Methodist for Church Renewal</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Board of Christian Social Concerns</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Central Jurisdiction of the Methodist Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Citizens Advisory Committee on Student Integration</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Citizens Concerned with Improved Police Community Relations</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Commission on Religion and Race</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Committee for Nonviolent ACTION</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Committee of Southern Churchmen</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>General Board of Global Ministries</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>General Conference of the United Methodist Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>General Council on Ministries</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>JAPLA: Justice, Action, and Peace in Latin America</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Joint Task Force on Health and Welfare Ministries</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>National Committee of Black Churchmen</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>National Conference Of Negro Methodists</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>National Council on Churches</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Quadrennial Emphasis of the United Methodist Church</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Southern California-Arizona Annual Conference</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>United Methodist Church Renewal</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Western Jurisdictional Conference</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>World Conference on Religion and Peace</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>World Council of Churches</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Civil Rights</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>General Subject Files</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Hospital Strike - Memphis</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Memphis Sanitation Strike</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Civil Rights Project - see audio-visual</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assassination</unittitle>
+        </did>
+
+        <c02 level="subseries">
+          <did>
+            <unittitle>Martin Luther King, Jr. - Assassination</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>James Earl Ray</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Organizations</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Fellowship of Reconciliation (FOR)</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Southern Christian Leadership Conference (SCLC)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Book Draft</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Return to Vanderbilt University</unittitle>
+          <unitdate>2006-2010</unitdate>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Audio-Visual Materials</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Cassette Tapes</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Reel-to-Reel Tapes</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>VHS Tapes</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Photographs</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Posters</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Scrapbooks</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Awards and Plaques</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
