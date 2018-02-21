@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Haun, Mildred Eunice Papers</titleproper>
+        <titleproper>Finding Aid for the Mildred Haun Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Mildred Haun Papers</unittitle>
+      <unitid>MSS.0198</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9.24 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1927/1969" type="inclusive"></unitdate>
+    </did>
+    <processinfo>
+      <head>Books in The Collection</head>
+      <p>These books were part of Mildred Haun's papers and are now classified and in Special Collections:</p>
+      <p>Burrowes, J.F.,
+        <emph render="underline">The Piano-Forte Primer, Containing The Rudiments Of Music: Calculated Either For Private Tuition Or Teaching In Classes</emph>, Ditson and Company, Boston, New York, and Philadelphia.</p>
+      <p>Haun, Mildred,
+        <emph render="underline">The Hawk's Done Gone</emph>, The Bobbs-Merrill Company, Indianapolis, New York, 1940.</p>
+      <p>Thomas, Jane H.,
+        <emph render="underline">Old Days In Nashville, Tennessee Reminiscences</emph>, Methodist Episcopal Church, South Publishing House, 1897.</p>
+    </processinfo>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence - Outgoing</unittitle>
+          <unitdate>November 8, 1940-Dec. 15, 1966</unitdate>
+          <container type="box">1</container>
+        </did>
+        <scopecontent>
+          <p>Outgoing correspondence of 29 letters, 2 telegrams and 15 post cards. Chronologically arranged by days and months, letters are holograph, typescript, and carbon copies.. Four undated letters.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence - Incoming</unittitle>
+          <container type="box">1</container>
+        </did>
+        <scopecontent>
+          <p>Incoming correspondence of 312 letters, 10 post cards, and 2 greeting cards, alphabetically arranged. Letters are typescript, holograph, and carbon copies. Five letters are without surnames, 1 is without any name, and 1 is signed only with the
+            initials W M.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Diaries and Personal Records</unittitle>
+          <container type="box">2</container>
+        </did>
+        <scopecontent>
+          <p>Material includes diaries dated 1934 and 1960-1961; an English notebook dated 1933; rough draft of last will and testament; miscellaneous notes, including names, addresses, and phone numbers; holograph notes on Mildred Haun's medical history;
+            diplomas, chronologically arranged, awarded by Franklin Public Schools 1927, The Editors of the Christian Observer 1928, Tennessee Young People's Conference 1931, Tennessee Public County High School 1931, Vanderbilt University (B.A.) 1935, Vanderbilt
+            University (M.A.) 1937. Certificates, chronologically arranged, include birth certificate; teacher's certificate issued by Tennessee Dept. of Education 1935; Dept. of the Air Force certificates of training 1957; U.S. Govt. Printing Office certificate
+            of attendance 1961; U.S. Dept. of Agriculture Graduate School certificate 1962. Material also includes transcripts of grades; pamphlets on life insurance, surgical-medical benefit plans, retirement programs and social security; and"3 Blue Cross
+            identification cards.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container type="box">3</container>
+        </did>
+        <scopecontent>
+          <p>Eight of Mildred Haun, 43 photographs of quilts, bears, and miscellaneous country scenes.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Records</unittitle>
+          <container type="box">3</container>
+        </did>
+        <scopecontent>
+          <p>Alphabetically and chronologically arranged, materials include bank statements; bills and receipts; cancelled checks; income tax forms and calculations; royalty statements.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal Records</unittitle>
+          <container type="box">3</container>
+          <container type="box">4</container>
+        </did>
+        <scopecontent>
+          <p>Material consists of approximately 300 items, including applications for Federal employment; notices of rating; pamphlets; notifications of personnel action; pay roll change slips; position descriptions; requests for printing; time and attendance
+            reports; travel authorizations and vouchers; miscellaneous notes on education and work experience. Materials alphabetically arranged by employer: U.S. Civil Service Commission; U.S. Department of Agriculture; U.S. Department of the Air Force; U.S.
+            Department of the Army.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Research Notes</unittitle>
+          <container type="box">4</container>
+          <container type="box">5</container>
+          <container type="box">6</container>
+          <container type="box">7</container>
+        </did>
+        <scopecontent>
+          <p>Approximately 1500 holograph and typescript items. Material includes notes for story writing; notes on folk songs; riddles; superstitions; sayings; rhymes; remedies; tales; album verses; miscellaneous notes.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Folk Songs</unittitle>
+          <container type="box">7</container>
+          <container type="box">8</container>
+        </did>
+        <scopecontent>
+          <p>Three hundred and fifty holograph and typescript folk songs alphabetically arranged by title. Spellings used are those given by writer of folk song. There are 32 untitled songs. Fragments of songs, lists of songs, and folk song questionnaire are
+            found after titled folk songs.</p>
+          <p>
+            A.B.C. In A Big Way; A Walking In My Sleep; Absence; Absence Makes The Heart Grow Fonder; Absent Makes The Heart Grow Fonder; Advice To Young Men; After The Ball; Ain't You Coming out To-nite; All Night Long; Always In The Dark; Annie; Anybody's
+            Girlie; Are You Tired Of Me Darling; Baby Boo; The Baggage Coach Ahead; Bald Headed End Of The Broom; Banks Of The Wabash; Barbara Allen;, Barbarre Ellen; Barney McCoy; Beautiful "Bill; Ben Bolt; The Better To Love You My Dear; Beware Oh Beware;
+            Billy Boy; Black Eyed Boy; Black Eyed Susy; Black Jack David; The Blind Child's Prayer; Blue Eyed Boy; Blue Eyed Ellen; Blue Eyes; Bo Randal; The Boston Burglar; A Boy's Best Friend Is His Mother; Boys Why Dont You Marry; The Boys, Wont, Do, To,
+            Trust; The Bright Mohawk Valley; A Brisk Young Farmer; Broken Engagement; A Broken Hearted Girl; The Broken Promise; Brown Eyes; Bury Me Not On The Lone Prairie; Butcher Boy; The Butcher's Boy; Can I Sleep In Your Barn Tonight Mister; Can The Circle
+            Be Unbroken; Charles Brooks; Charles Cataw; Chewing Gum; Chicken Pie; The Child Of The Railroad Engineer; Cindy or Down The River Road; Come Back To Our Cottage So Lonely; Come Up Little Bessie; Courted In The Rain; Courtin; Cowboy Jack; Cowboy Love
+            Song; Cowboy Song; The Cowboy's Lament; Curly Headed Baby; Daisy Dean; Daisy Deane; Darby And Joan; Darling Green Oh; Darling Nelly Gray; Deep Blue Sea; The Devil And The Lawyer; The Devil And The Lawyers; Devilish Mary; Dixie Cowboy; Do You Love Me
+            Molly or Inconstant Lover; Down By The Surging Sea; The Dream Of The Miners Child; Drunkard; Drunkards Dream No. 1; A Drunkards Dream, No. 2; The Drunkard's Dream; The Drunkards Hell; A Drunkard's Three Nights Expierence; The Dying Cowboy; The
+            East-Bound Train; Ellen Smith; The False Lover; Farewell; A Flower From My Angel Mother's Grave; Flowers, Boquets; Floyd Collin; Floyd Collins; Flying Trapeze; Foggy Mountain Top; Forsaken Love; Frankie And Johnie; Frankie Baker; A Frog Went A
+            Courting; Gabriels Trumpet; George And Jack; George Collans; George Collins; The Gipsy's Warning; Girl I Left Behind; The Girl I Left Behind; The Girl I Left Behind Me; Go Tell Aunt Nancy; Go Tell Aunt Patsy; God Bless My Kind Old Mother; Goo Goo
+            Eyes; Good Bye Good Bye; Green-Back Dollar; The Green Back Dollar; Green Grows The Lilac; Greenville Jail; Ground Hog; Guess Who^iy*?^^ Gypsy Maid; Halston River Bend; Hello Central; Hickss Fair Well; The Homestead On The Farm; Honkey Donkey
+            Parlez-Vous; How Do You Do; I Am Called Away; I Didn't Want To Love You; I Feel So Awful Lonesome; I Fell In Love With A Pretty Little Boy; I Have No Mother Now; I Have No One To Love Me; I Love Somebody Yes I Do; I Wish I Was Single Again; I'll
+            Never Be Your's; I'll Remember You, Love, In My Prayers; I'll String Along With You; I'm Satisfied; I'm Thinking To-Night Of -My Blue Eyes; I've Got Love; Ida Red or Down The Road; In The Evening By The Moonlight; In The Moonlight; It Would Be
+            Better; It's A Long Long Way To Johnson City; Jack and Joe; Jack Diamond; Jealous Lover; Jennie Jenkins; Jimmie Brown; Joe Bowers; John Hardy; John Henry; Johnny Sands; Jones, He Married Mabel; Just A Flower From My Angles Mother's Grave; Just A
+            Little To Small; Just Tell Them That You Saw Me; Kennie Wagner; Kenny Waggoner; Kenny Waggoner Surrender; Kenny Wagoner; Kisses; Kity Wells The Knoxville Girl; Letter Edged In Black; A Letter Edged In Black; The Letter Edged In Black; Lexon Well;
+            Life Of Dewey; Linger Near Me Little Treasure; Little Annie Laurie; Little Bessie; Little Black Mustache; The Little Black Mustache; Little Brown Jug; The Little Brown Jug; Little Darling; Little Dove; Little Mary Phagon; Little Maud; Little Moses;
+            Little Rosewood Casket; Little Sparrow; Little Too Small; Little Willie; Liza Jane; The Lone Star Trail; Lord Thomas; The Lovers Farewell; Lurline Do You Think Of Me Now; Maggie; The Maple On The Hill; The Mary Golden Tree; Mary Had A Little Lamb;
+            Meet Me In The Moonlight Alone; Minnie Gray; The Monkey's Wedding; More Than All This World May Know; Mother; Mother In Law; Mother The Queen Of My Heart; Mother's Pride;-The Mountaineers Courtship; Murder's Doom; Must I Go Bound?; Must I Go Bound
+            And Him Go Free?; My Darling Nellie Grey; My Little Darling; My Love; My Mother Is A Widow; My Nellie's Blue Eyes; New Chattanooga Mama; The New Market Wreck; New River Train; The Night Of The Chase; 99 Yrs; No Sir; No Wedding Bells; Oh, Dont It Love
+            My Honey?; Oh Don't Stay After Ten; Old Grimes; Old Grimes The Grover; Old Joe Clark; Old Maid; The Old Miller; Old Mother-In-Law; The Old Rustic Bridge By The Mill; The Old School House Up On The Hill; Old Smoky; Old Troy; Oman Wise; On A Cold
+            Winter Night; One Night of Love; The Orphan Child; Over There; Package Of Old Letters; Paper Of Pins; The Pardon Of Lynda Allen; Pearl Bryan; Pearl Bryant; The Pog A-Me-Along; Poor Bennie; Poor Jackey; Poor Little Joe; The Poor Orphan Child; Poor
+            Willie; The Preacher Got Drunk; Pretty Fair Miss; Pretty Maiden; The Pretty Mohea; Pretty Mollie; Pretty Nora; Pretty Pollie; Pretty Sallie; Pretty Sarah; The Prisoner's Song; The Prize Waltz; Put My Little Shoes Away; Railroad Song; Red Wing; Rich
+            Old Merchant; River Valley; Rock A Bye Baby; Rosie Nell; Rovelen Gambler; The Rovin Gambler; The Roving Cowboy; The Roving Gambler; Roxy Ann; Sad Lamentations; The Sailor; Sally Goodwin; School Song; Seven Years With Wrong Woman; The Shabby Genteel;
+            Shady Grove; She'll Be Coming Around The Mountain; The Sherman Valley; The Ship That Never Returned; Short Life Of Trouble; Short Life Of Truble; Shorten' Bread; Silver Bell; Silver Dager; Sinful To Flirt; Sing Me The Old Songs Tonight; Single Life;
+            So You've Come Back; Soldier Boy; Soldier, Wont You Marry Me; A Song For School; Soul Mate; Sourwood Mountain; Spelling Song; St. Louis City; Stay A Little Closer To Me; Steam Boat Ride; The Storms Are On The Oceans; The Stranger; Sweet Bird; Sweet
+            Birds; Tell Me I'm Wrong; Tennessee; Texas Ranger; Then I'll Be Tired Of You; There Was An Old Man Came In From His Plow; There's A Girl In Heart Of Maryland; Theres A Rainbow In The Clouds; They Gotta Quit Kicking My Dog Around; They Stood In The
+            Moonlight; Think Of Me Love In Your Dreams; Third Night Experience; Third Night Of Married Life; Three Babes The Three Sisters; Tom Berr Lynn; The Train That Never Returned; Travling For Jesus; True Love; 'Twas Late In The Night When The Turk Came
+            Home; Two Little Girls In Blue; The Two Orphans; The 2 Sisters; 'Twould A Been Better; Uncle Ned; Vacation Time; Wagners Lad; Wagoner's Lad; A Wayward Traveler; A Wayward Traveller; We Are Drifting; We Never Spoke As We Pass By; The Weeping Willow;
+            When I'm Gone You'll Forget; When I'm Gone You'll Soon Forget; When The Work Is Done This Fall; Where I Was First Forgiven; Where Is My Sweetheart; The White Rose Of Miami; Why Can't I Take Love Easy?; Why Do You Treat Me This Way?; Wild And Reckless
+            Hobo; Wild "* Bill Jones; The Wild Cowboy; Wildwood FlowerJ Willie; Willow Tree; The Wind Blows; Wouldn't You Like To Have Me For A Sweetheart; Yankee Doodle; The Young Boy; Young Emily; Youre Something To Write Home About.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Mildred Haun's M.A. Thesis,
+            <emph render="underline">Cocke County Ballads and Songs</emph>
+          </unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories</unittitle>
+          <unitdate></unitdate>
+          <container type="box">9</container>
+          <container type="box">10</container>
+          <container type="box">11</container>
+          <container type="box">12</container>
+          <container type="box">13</container>
+          <container type="box">14</container>
+        </did>
+        <scopecontent>
+          <p>Forty-five holograph and typescript stories alphabetically arranged. Untitled stories and fragmentary stories found after titled short stories. "Apple Tree"; "Barshia's Horse He Made, It Flew"; "The Boxwood"; "Counted A Thief"; "Dave Cocke's
+            Motion"; "A Diamond In The Rough"; "A Feeling Of Pity"; "Flowers"; "For Lead"; "The Hawk's Done Gone"; "I Can Understand"; "Joe"; "The Look"; "The Man That Come To The Singing"; "Midnight"; "Neither Way"; "The Picture Frame"; "The Piece Of Silver";
+            "The Pit Of Death"; "The Red Flower Pot"; "The Root"; "Runner Girl"; "She Would"; "Shelled Corn For Lady"; "Shin-Bone Rocks"; "Snotty Gets A Shot"; "The Spot On The Sofa"; "The Spring Was Trusty"; "Then The Fire Went Out"; "The Turkey's Feather"; "Up
+            And Down"; "The Warping Bars"; "A Wasp Sting"; "When The Wind Blows"; "Whirlwind"; "The White Dress"; "Wild Sallet"; "Yours Sincerely".</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Manuscript. Typescript, edited manuscript of
+            <emph render="underline">The Hawk's Done Gone</emph>
+          </unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Published Articles by Mildred Haun</unittitle>
+          <container type="box">15</container>
+        </did>
+        <scopecontent>
+          <p>Thirteen, alphabetically arranged by title. "Barshia's Horse He Made--- It Flew,"
+            <emph render="underline">World Digest</emph>, Oct. 1940; "Barshia's Horse He Made, It Flew,"
+            <emph render="underline">American Prefaces</emph>, Mar., 1940; "The Co-op Climate of Cerro Gordo County,"
+            <emph render="underline">News for Farmer Cooperatives</emph>, Dec, 1961; 'Doughnuts and Coffee (and a Happy Birthday,"
+            <emph render="underline">News for Farmer Cooperatives</emph>
+            Sept. 1961; "Florida Indians Operate a Cooperative,
+            <emph render="underline">News for Farmer Cooperatives</emph>, Mar., 1962; "IFCAI and the Fishermen of Mulfetta," Reprint from
+            <emph render="underline">News for Farmer Cooperatives</emph>, Feb., 1962; "Mother York,"
+            <emph render="underline">The Nashville Tennessean</emph>, May 10, 1942; "Much Work and Some Play at SSC's 38th,"
+            <emph render="underline">News for Farmer Cooperatives</emph>, Feb.,1962; "New Crops",
+            <emph render="underline">The Cotton Gin and Oil Mill Press</emph>, Feb. 2, 1963; "Teaching Machines Teaching Co-ops",
+            <emph render="underline">News for Farmer Cooperatives</emph>, Aug., 1961; "The Turkey's Feather", Reprint from
+            <emph render="underline">The Georgia Review</emph>, Winter, 1952; "Youth-In North Carolina",
+            <emph render="underline">News for Farmer Cooperatives</emph>, Oct., 1961.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Newspaper and Magazine Clippings About Mildred Haun</unittitle>
+          <container type="box">15</container>
+        </did>
+        <scopecontent>
+          <p>Material includes approximately 150 clippings about Mildred Haun and her novel
+            <emph render="underline">The Hawk's Done Gone</emph>.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Articles About Mildred Haun</unittitle>
+          <container type="box">16</container>
+        </did>
+        <scopecontent>
+          <p>Material consists of 3 articles, alphabetically arranged by publication.
+            <emph render="underline">AMC Worldwide</emph>, Jan., 1958, "Word Warrior";
+            <emph render="underline">Southern Folklore Quarterly</emph>, Vol. 29, "Six Unusual Texts From Mildred Haun's
+            <emph render="underline">Cocke County Ballads and Songs</emph>";
+            <emph render="underline">Who's Who In America</emph>, Mar., 1941, Biographical Entry.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Hershel Gower's Personal File As Literary Executor For Mildred Haun</unittitle>
+          <container type="box">16</container>
+        </did>
+        <scopecontent>
+          <p>Material includes 18 outgoing letters, chronologically arranged, most of which were written after the death of Mildred Haun; 4 typescript papers written by Hershel Gower, alphabetically arranged. "The Hawk's Done Gone: Mildred Haun and the Prose
+            Ballads of Cocke County"; "Mildred Haun and the Persistence of Myth"; "Mildred Haun: The Persistence of the Supernatural"; "Mildred Haun: Story Teller and Folklorist(1911-1966)". Also included are: an uncorrected galley of
+            <emph render="underline">The Sense of Fiction</emph>
+            edited by Gower and Welker; a Table of contents for
+            <emph render="underline">The Hawk's Done Gone and Other Stories</emph>
+            by Mildred Haun, with an introduction by Hershel Gower; research notes; program of the thirty-second annual meeting of the Tennessee Folklore Society, Nov. 4-5, 1966; a xeroxed copy of a page from the Vanderbilt University Bulletin; an airplane
+            ticket envelope; a list of items purchased by Claudelle L. Gaddis; an incomplete check and a checking account deposit slip also belonging to Claudelle L. Gaddis.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Reviews of
+            <emph render="underline">The Hawk's Done Gone</emph>
+          </unittitle>
+          <container type="box">16</container>
+        </did>
+        <scopecontent>
+          <p>Five, alphabetically arranged by author: Chris Boner; John T. Frederick; Lera Knox; Julia Peterkin; Wilbur L. Schramm.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Miscellaneous Writings</unittitle>
+          <container type="box">16</container>
+        </did>
+        <scopecontent>
+          <p>Material includes 33 typescript and holograph short stories not written by Mildred Haun, alphabetically arranged by title. Untitled stories found at end. Also included are 20 typescript essays and reports, alphabetically arranged by title.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Short Stories</unittitle>
+          <container type="box">16</container>
+        </did>
+        <scopecontent>
+          <p>"The Christmas Story"; "A Date With Hannibal"; "Ghost! (Maybe)"; "The Ghost"; "A Ghost Story"; "Ghost Story"; "A Ghost Tale"; "Ghost Tale"; "The Ghost"; "Grave Robbery"; "Haunted House"; "Looking After Clara"; "The Mason Family on Exhibition"; "My
+            Ghost Story"; "The Old White Cow"; "The Preacher and the Ghost"; "The Sacred Mirror"; "Sleeping With a Corpse"; "The White Dog".</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Essays and Reports</unittitle>
+          <container type="box">16</container>
+        </did>
+        <scopecontent>
+          <p>"Advice for Authors and Tips for Typists"; "Applying The 4-Star Rules"; "Before You Write...Analyze and Organize"; "Bibliography"; "A Forward Look At Farmer Cooperatives"; "The Game of Words"; "How To Write Effective Survey Reports That Sell
+            Recommendations"; "Making Tables Talk"; "Management's Tower of Babel"; "Preparing An Effective Research Report I"; "Profits In Prose"; "Putting Journalism To Work In The Office"; "Reference Material in Information Division"; "The Retort
+            Circumstantial"; "Rework-Edit-Evaluate"; "Snobs, Slobs, and the English Language"; "Style in Writing"; "Tables"; "When The Passive Voice?"; 1 untitled.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Newspaper and Magazine Clippings</unittitle>
+          <container type="box">16</container>
+        </did>
+        <scopecontent>
+          <p>Material includes 2 newspapers and 2 Sunday magazines, chronologically arranged: The Review-Appeal, Franklin, Tenn., Oct. 14, 1937; The Knoxville Journal Sunday Magazine, Oct. 20, 1940; The Sunday Star This Week Magazine, Dec. 31, 1961; The
+            Alexandria Gazette, Aug., 11, 1962. Also included are approximately 200 newspaper and magazine clippings of riddles and miscellaneous articles.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Song Books</unittitle>
+          <container type="box">17</container>
+        </did>
+        <scopecontent>
+          <p>Eight, alphabetically arranged.
+            <emph render="underline">All-American Square Dances; Echoes From Dixie; The Harp of Columbia; Jasper and Gold; My Homeland Tennessee; Old, Familiar Songs; Songs of Dixie; Star Collection of Old Favorite Songs</emph>
+          </p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Magazines</unittitle>
+          <container type="box">17</container>
+          <container type="box">18</container>
+        </did>
+        <scopecontent>
+          <p>Forty-nine, alphabetically arranged. Agricultural Research; Appalachian Review; Better Handwriting; Birds of Tennessee in Verse and Story; Cartooning Jobs; Common Birds of Southeastern United States in relation to Agriculture (U.S. Dept. of the
+            Interior, Fish &#38; Wildlife Service, Conservation Bulletin 15); Co-op Report; Coordinated Marketing for Florida Fre sh Citrus Shippers (U. S. Dept. of Agriculture, Marketing Research Report 492); Customer Service Bulletin; Fundamentals of Printing;
+            Learn How Book; Lettering and Alphabets; Linweave Today; The Migrant; Mountain Life &#38; Work; News for Farmer Cooperatives; STWP Review; The Sewanee Review; Speedball Text Book; Star Beginners Manual; The Technical Writer; Tennessee Folklore
+            Society Bulletin; Tennessee Historical Magazine; Vanderbilt Alumnus; Writer's Yearbook.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Pamphlets</unittitle>
+          <container type="box">19</container>
+        </did>
+        <scopecontent>
+          <p>Forty-four, alphabetically arranged. Armored Division Engineer Battalion; But. Is Anybody Listening?; Dictionary Of United States Military Terms For Joint Usage; The Dissipation of Accumulated Static Electricity; Explanations Of The Rights Of The
+            North Carolina Cherokee Indians, Submitted To The Attorney General of the United States, by Wm. H. Thomas; Fallout Protection; Family Shelter Designs; Federal Editors Association 2nd Annual Workshop; Folk Music (catalog of phonograph records in The
+            Library Of Congress); Forest Trees, Forest Facts of Tennessee; A Formula For More Efficient Reading; How To Build A Farm Pond; Illustrated Books Old and Modern; Improving Publications; Index to Early American Periodical Literature 1728-1870; Infantry
+            Division Engineers; Letter Perfect: Life Along World-Famed Connecticut Avenue; Livestock Marketing Cooperatives In California, by R.L. Fox; Make Your Farm Pond Safe, Prevent Drownings; Making Land Produce Useful Wildlife; The Mocking Bird; More
+            Wildlife Through Soil and Water Conservation; Nondivisional Engineer Combat Units; Our Wild Neighbors; PIA 1961 Self-Advertising : Exhibition &#38; Awards; Painting and Marking of USAF Vehicles, Ground Servicing and Powered Ground Equipment; Paper
+            and the Graphic Arts; Progress in the Valley TVA-1947; Public Information Military Air Transport Service Style Guide; Shopping in Washington; Singers in the Dawn, A Brief Anthology of American Negro Poetry compiled by Robert E. Eleazer; A Sketch of
+            the Flora of the Great Smoky Mountains National Park; Songs of the Cumberlands by Bess Alice Owens; Special Report on Magnetic Ink Character Recognition; Technical Writing As A Career; Tennessee Wildlife; Using Graph More Effectively For Economic
+            Information; The Way to a Job In Government; When Injured At Work; A Word List From Virginia and North Carolina, by C. M. Woodard; Writing Words That Work; Your Work in the Corps of Engineers.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Paperback Books</unittitle>
+          <container type="box">20</container>
+        </did>
+        <scopecontent>
+          <p>Two:
+            <emph render="underline">How To Win Friends And Influence People</emph>, by Dale Carnegie;
+            <emph render="underline">The Poisons In Your Food</emph>, by William Longgood.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Travel Information</unittitle>
+          <container type="box">20</container>
+        </did>
+        <scopecontent>
+          <p>Material consists of 37 items. There are post cards, booklets, pamphlets, magazines, and guidebooks describing the tourist sites of New York, Pennsylvania, Tennessee, Virginia, Washington, D. C., and West Virginia.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Programs</unittitle>
+          <container type="box">20</container>
+        </did>
+        <scopecontent>
+          <p>There are 31 art, literature, music, and theater programs, chronologically arranged.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Maps</unittitle>
+          <container type="box">21</container>
+        </did>
+        <scopecontent>
+          <p>Material consists of 16 maps of Tennessee counties, alphabetically arranged. Carter; Claiborne; Cocke; Grainger; Greene; Hamblen Hancock; Hawkins; Jefferson; Johnson; Knox; Sevier; Sullivan; Unicoi; Washington.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+          <container type="box">21</container>
+        </did>
+        <scopecontent>
+          <p>Material includes 2 calling cards; a statement of policies and regulations by the Director of Admissions and Registrar, State University of Iowa; a notice to contributors from
+            <emph render="underline">The Georgia Review</emph>; an agreement and an assignment between Mildred Haun and the Bobbs-Merrill Company, dated 1940 and 1966; a prayer titled "I Believe" by Edwin Osgood Grover; an untitled, unsigned poem; an invitation
+            to a church social; ticket stubbs; an advertisement for auto financing; a print by Auguste Renoir titled "Woman with a Cat". The Holy Bible (added by Herschel Gower 1/10/75)</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
