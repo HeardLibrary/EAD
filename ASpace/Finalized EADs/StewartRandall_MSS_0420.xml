@@ -1,0 +1,3247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="EAD.xsl"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Stewart, Randall Papers</titleproper>
+        <titleproper>Finding Aid for the Randall Stewart Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Randall Stewart Papers</unittitle>
+      <unitid>MSS.0420</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.26 linear_feet</extent>
+      </physdesc>
+      <unitdate>1932-1967</unitdate>
+    </did>
+    <bioghist>
+      <head>Randall Stewart Chronology</head>
+      <chronlist>
+        <chronitem>
+          <date>1896</date>
+          <event>Born in Fayetteville, Tennessee, July 25</event>
+        </chronitem>
+        <chronitem>
+          <date>1898</date>
+          <event>His family moved to Nashville where he grew up and was educated</event>
+        </chronitem>
+        <chronitem>
+          <date>1917</date>
+          <event>Was graduated from Vanderbilt University as Founder&#8217;s Medalist</event>
+        </chronitem>
+        <chronitem>
+          <date>1917-1920</date>
+          <event>Instructor of English at the University of Oklahoma</event>
+        </chronitem>
+        <chronitem>
+          <date>1918</date>
+          <event>Served briefly in the armed forces</event>
+        </chronitem>
+        <chronitem>
+          <date>1920</date>
+          <event>Married Cleone Odell in Oklahoma City</event>
+        </chronitem>
+        <chronitem>
+          <date>1921</date>
+          <event>Awarded master of arts degree by Harvard University</event>
+        </chronitem>
+        <chronitem>
+          <date>1921-1922</date>
+          <event>Instructor, U. S. Naval Academy</event>
+        </chronitem>
+        <chronitem>
+          <date>1922-1925</date>
+          <event>Assistant Professor, University of Idaho</event>
+        </chronitem>
+        <chronitem>
+          <date>1927-1931</date>
+          <event>Instructor, Yale University</event>
+        </chronitem>
+        <chronitem>
+          <date>1930</date>
+          <event>Awarded doctor of philosophy degree by Yale</event>
+        </chronitem>
+        <chronitem>
+          <date>1931-1934</date>
+          <event>Assistant Professor, Yale</event>
+        </chronitem>
+        <chronitem>
+          <date>1932-1939</date>
+          <event>Associate Editor,
+            <emph render="underline">New England Quarterly</emph></event>
+        </chronitem>
+        <chronitem>
+          <date>1934-1937</date>
+          <event>Professor, Vanderbilt</event>
+        </chronitem>
+        <chronitem>
+          <date>1937-1955</date>
+          <event>Professor, Brown University</event>
+        </chronitem>
+        <chronitem>
+          <date>1943</date>
+          <event>Guggenheim Fellow</event>
+        </chronitem>
+        <chronitem>
+          <date>1947-1948</date>
+          <event>Visiting Professor, Yale University</event>
+        </chronitem>
+        <chronitem>
+          <date>1949-1950</date>
+          <event>Chairman, Department of English, Brown</event>
+        </chronitem>
+        <chronitem>
+          <date>1949-1950</date>
+          <event>Visiting Professor, Connecticut College</event>
+        </chronitem>
+        <chronitem>
+          <date>1951</date>
+          <event>Chairman, American Literature Group, Modern Language Association</event>
+        </chronitem>
+        <chronitem>
+          <date>1955-1963</date>
+          <event>Professor of English and Chairman, Department of English, Vanderbilt University</event>
+        </chronitem>
+        <chronitem>
+          <date>1956</date>
+          <event>Fugitive Reunion</event>
+        </chronitem>
+        <chronitem>
+          <date>1958</date>
+          <event>Mrs. Harold S. Vanderbilt Literary Symposium established</event>
+        </chronitem>
+        <chronitem>
+          <date>1963-1964</date>
+          <event>Professor, Vanderbilt</event>
+        </chronitem>
+        <chronitem>
+          <date>1964</date>
+          <event>Died June 17</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc type="othertype">
+        <c01 level="series">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1-18</container>
+            <unittitle>Correspondence - Outgoing, chronologically arranged</unittitle>
+            <unitdate>Nov. 23, 1955 to Oct. 1, 1959</unitdate>
+          </did>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 23, 1955</unitdate>
+              <unittitle>to Jesse Wills with enclosures of two letters dated Oct. 25, 1955</unittitle>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 25, 1956</unitdate>
+              <unittitle>Red (R. P. Warren)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 25, 1956</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 30, 1956</unitdate>
+              <unittitle>John L. Stewart</unittitle>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 14, 1956</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 14, 1956</unitdate>
+              <unittitle>Red (R. P. Warren)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 14, 1956</unitdate>
+              <unittitle>Andrew Lytle</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 14, 1956</unitdate>
+              <unittitle>Cleanth Brooks</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 14, 1956</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 20, 1956</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 26, 1956</unitdate>
+              <unittitle>Isabel Howell</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 6, 1956</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 6, 1956</unitdate>
+              <unittitle>form letter to Fugitives and inter-locutor critics</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 7, 1956</unitdate>
+              <unittitle>Robert E. Spiller</unittitle>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 11, 1956</unitdate>
+              <unittitle>form letter to Ransom, Davidson, Tate, Warren, Moore, Elliott, Brooks, Lytle</unittitle>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 13, 1956</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 13, 1956</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Donald Davidson</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Red (R. P. Warren)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Merrill Moore</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Cleanth Brooks</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Andrew Lytle</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>William Y. Elliott</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Willard Thorp</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Frank Owsley</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Louise Cowan</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 14, 1956</unitdate>
+              <unittitle>Robert D. Jacobs</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 22, 1956</unitdate>
+              <unittitle>William Y. Elliott</unittitle>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 26, 1956</unitdate>
+              <unittitle>Merrill Moore</unittitle>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 26, 1956</unitdate>
+              <unittitle>Memorandum to Ransom, Davidson, Tate, Warren, Elliott, Wills, Stevenson, Curry, Hirsch, Starr</unittitle>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 29, 1956</unitdate>
+              <unittitle>Vincent L. Eaton</unittitle>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 9, 1956</unitdate>
+              <unittitle>Virginia Rock</unittitle>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 17, 1956</unitdate>
+              <unittitle>Alec B. Stevenson</unittitle>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 20, 1956</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 20, 1956</unitdate>
+              <unittitle>Memorandum to the Chaneellor</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 20, 1956</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 20, 1956</unitdate>
+              <unittitle>Cleanth Brooks</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 20, 1956</unitdate>
+              <unittitle>Overton Williams, Bursar</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 24, 1956</unitdate>
+              <unittitle>William Y. Elliott</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 24, 1956</unitdate>
+              <unittitle>Harold S. Vanderbilt</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 26, 1956</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 1, 1956</unitdate>
+              <unittitle>Alec B. Stevenson</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 7, 1956</unitdate>
+              <unittitle>Harvie Branscomb</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 7, 1956</unitdate>
+              <unittitle>Mr. and Mrs. Harold S. Vanderbilt</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 8, 1956</unitdate>
+              <unittitle>Overton Williams</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 8, 1956</unitdate>
+              <unittitle>Louis Rubin. 2 copies, one with Rubin&#8217;s answer</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 9, 1956</unitdate>
+              <unittitle>Isabel Howell</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 9, 1956</unitdate>
+              <unittitle>Fannie Cheney</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 9, 1956</unitdate>
+              <unittitle>Ellen and Jesse Wills</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 10, 1956</unitdate>
+              <unittitle>Alec B. Stevenson</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 15, 1956</unitdate>
+              <unittitle>Charles M. Coffin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 16, 1956</unitdate>
+              <unittitle>R. E. Amacher</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 17, 1956</unitdate>
+              <unittitle>Dorothy Bethurum</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 17, 1956</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 20, 1956</unitdate>
+              <unittitle>Dr. O. C. Carmichael. Enclosure of 2 copies of letter from Donald Davidson to A. F. Kuhlman dated May 11, 1956</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 22, 1956</unitdate>
+              <unittitle>LeRoy P. Graf</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 24, 1956</unitdate>
+              <unittitle>Ralph Morrissey</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>June 1, 1956</unitdate>
+              <unittitle>John Marshall</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>June 2, 1956</unitdate>
+              <unittitle>John L. Stewart</unittitle>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>June 2, 1956</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>June 2, 1956</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>June 4, 1956</unitdate>
+              <unittitle>John Marshall</unittitle>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>June 6, 1956</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>July 5, 1956</unitdate>
+              <unittitle>John Marshall</unittitle>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 18, 1956</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 29, 1956</unitdate>
+              <unittitle>Vincent L. Eaton</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 30, 1956</unitdate>
+              <unittitle>John L. Stewart</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 3, 1956</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 11, 1956</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 17, 1956</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 17, 1956</unitdate>
+              <unittitle>John Marshall</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 17, 1956</unitdate>
+              <unittitle>Overton Williams</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 15, 1957</unitdate>
+              <unittitle>Richmond Beatty</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 22, 1957</unitdate>
+              <unittitle>Richmond Beatty</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 26, 1957</unitdate>
+              <unittitle>Joseph. J. Jackson</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 26, 1957</unitdate>
+              <unittitle>Richmond Beatty</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>March 22, 1957</unitdate>
+              <unittitle>H. Lloyd Stowe</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 4, 1957</unitdate>
+              <unittitle>Overton Williams</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 4, 1957</unitdate>
+              <unittitle>H. Lloyd Stowe</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 5, 1957</unitdate>
+              <unittitle>John Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>May 22 1957</unitdate>
+              <unittitle>Leonard B. Beach</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 4, 1957</unitdate>
+              <unittitle>Coleman Harwell</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 5, 1957</unitdate>
+              <unittitle>Harvey Breit</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 5, 1957</unitdate>
+              <unittitle>Maurice Dolbier</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 16, 1957</unitdate>
+              <unittitle>Coleman Harwell</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 20, 1957</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 27, 1957</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 2, 1957</unitdate>
+              <unittitle>Raymond Walters, Jr</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 3, 1957</unitdate>
+              <unittitle>John Fay</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 3, 1957</unitdate>
+              <unittitle>Kenneth C. Crabbe</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 3, 1957</unitdate>
+              <unittitle>George A. Doss, Jr.</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 3, 1957</unitdate>
+              <unittitle>Mrs. Anna C. Hunter</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 3, 1957</unitdate>
+              <unittitle>Keith Coulborn</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 3, 1957</unitdate>
+              <unittitle>Daisy Tucker</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 3, 1957</unitdate>
+              <unittitle>Truman Stacy</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 4, 1957</unitdate>
+              <unittitle>Frank Harris</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 4, 1957</unitdate>
+              <unittitle>A. J. Skelton</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 5, 1957</unitdate>
+              <unittitle>Edith Copeland</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 8, 1957</unitdate>
+              <unittitle>Gerald R. Ashford</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12.5</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 8, 1957</unitdate>
+              <unittitle>Mrs. Marion H. Broaddus</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 8, 1957</unitdate>
+              <unittitle>Al Lester</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 8, 1957</unitdate>
+              <unittitle>Bob Phillips</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 8, 1957</unitdate>
+              <unittitle>R. P. Schlabach</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 8, 1957</unitdate>
+              <unittitle>Mrs. Charlotte Walker</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 24, 1957</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 24, 1957</unitdate>
+              <unittitle>&quot;Red.&quot; (R. P. Warren)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 5, 1957</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 13, 1957</unitdate>
+              <unittitle>Participants in the Fugitive Conference</unittitle>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 15, 1957</unitdate>
+              <unittitle>Participants in the Fugitive Conference. F 14. With replies from Fugitives. 2 copies</unittitle>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 15, 1957</unitdate>
+              <unittitle>Mrs. Frank L. awsley, Sr</unittitle>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 15, 1957</unitdate>
+              <unittitle>Mrs. Alfred Starr</unittitle>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 15, 1957</unitdate>
+              <unittitle>Mrs. Merrill Moore</unittitle>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Nov. 15, 1957</unitdate>
+              <unittitle>John E. Drewry</unittitle>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 3, 1957</unitdate>
+              <unittitle>NEA Service, Inc</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 3, 1957</unitdate>
+              <unittitle>King Features Syndicates</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 3, 1957</unitdate>
+              <unittitle>McClure Newspaper Syndicate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 3, 1957</unitdate>
+              <unittitle>Mrs. Merrill Moore</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 9, 1957</unitdate>
+              <unittitle>William Y. Elliott</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 16, 1957</unitdate>
+              <unittitle>Louis Rubin. Fr 16. &#8217;</unittitle>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 19, 1957</unitdate>
+              <unittitle>Harvie Branscomb</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 10, 1958</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 10, 1958</unitdate>
+              <unittitle>&quot;Red&quot; (R. P. Warren)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 10, 1958</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 11, 1958</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 17, 1958</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 17, 1958</unitdate>
+              <unittitle>William C. Cobb</unittitle>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 20, 1958</unitdate>
+              <unittitle>Coleman Harwell</unittitle>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Feb. 1, 1958</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>April 29, 1958</unitdate>
+              <unittitle>Donald Ellegood</unittitle>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 3, 1958</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 10, 1958</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Dec. 30, 1958</unitdate>
+              <unittitle>John C. Ransom</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 6, 1959</unitdate>
+              <unittitle>Louis Rubin</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Jan. 12, 1959</unitdate>
+              <unittitle>Marguerite Wriston</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Aug. 3, 1959</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Sept. 27, 1959</unitdate>
+              <unittitle>Allen Tate</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Oct. 1, 1959</unitdate>
+              <unittitle>Chancellor Branscomb</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Undated</unitdate>
+              <unittitle>Form letter to newspaper Editors</unittitle>
+              <container type="box">1</container>
+              <container type="folder">18</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unitdate>Undated</unitdate>
+              <unittitle>Holograph draft of letter to editors</unittitle>
+              <container type="box">1</container>
+              <container type="folder">18</container>
+            </did>
+          </c02>
+        </c01>
+        <c01 level="series">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19-48</container>
+            <unittitle>Correspondence - Incoming, chronologically arranged</unittitle>
+            <unitdate>March 2, 1932 - Dec. 4, 1967</unitdate>
+          </did>
+          <c02 level="item">
+            <did>
+              <unittitle>Adams, Dick</unittitle>
+              <unitdate>May 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Amacher, Anne</unittitle>
+              <unitdate>May 13, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Amacher, Anne</unittitle>
+              <unitdate>March 17, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Anderson, Charles R</unittitle>
+              <unitdate>May 4, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Baker, Carlos</unittitle>
+              <unitdate>May 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Beatty, Richmond C</unittitle>
+              <unitdate>Feb. 5, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Beatty, Richmond C</unittitle>
+              <unitdate>Feb. 23, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Bethurum, Dorothy</unittitle>
+              <unitdate>March 12, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Bethurum, Dorothy</unittitle>
+              <unitdate>April 16, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Bethurum, Dorothy</unittitle>
+              <unitdate>May 13, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Bethurum, Dorothy</unittitle>
+              <unitdate>June 3, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Bethurum, Dorothy</unittitle>
+              <unitdate>Nov. 19, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Bethurum, Dorothy</unittitle>
+              <unitdate>May 21, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Blanchard, Harold H.</unittitle>
+              <unitdate>May 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Bradley, Sculley</unittitle>
+              <unitdate>May 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>March 13, 1956 to Henry Luce</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>March 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>April 9, 1956 to Ransom</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>May 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>May 22, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>May 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>June 12, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>June 13, 1956 to Willard Thorp</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>June 26, 1956 to John Marshall</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>July 10, 1956 to John Marshall</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>April 10, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Branscomb, Harvie</unittitle>
+              <unitdate>n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Breis, Harvey</unittitle>
+              <unitdate>April 30, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Brooks, Cleanth</unittitle>
+              <unitdate>Nov. 10, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Brooks, Cleanth</unittitle>
+              <unitdate>Feb. 16, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Brooks, Cleanth</unittitle>
+              <unitdate>April 18, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Brown, Francis</unittitle>
+              <unitdate>Sept. 13, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Caesar, Kathleen</unittitle>
+              <unitdate>Feb. 5, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Carmichael, Oliver C,</unittitle>
+              <unitdate>May 31, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cheney, Fannie</unittitle>
+              <unitdate>Feb. 21, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>Jan. 5, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">22</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>Jan. 12, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>Jan. 12, 1956 to Robert McGaw</unitdate>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>Feb. 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>March 14, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>June 13, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>Jan. 15, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cobb, William C</unittitle>
+              <unitdate>Jan. 15, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Coffin, Charles M</unittitle>
+              <unitdate>May 7, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cohen, Barbara</unittitle>
+              <unitdate>April 8, 1956 to Robert McGaw</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Copeland, Edith</unittitle>
+              <unitdate>Oct. 9, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cowan, Louise</unittitle>
+              <unitdate>Nov. 21, 1957. F 43. n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Cunningham, James V</unittitle>
+              <unitdate>May 11, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Daley, Elizabeth Gill</unittitle>
+              <unitdate>May 30, n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Davidson, Donald</unittitle>
+              <unitdate>May 11, 1956 to Dr. A. F. Kuhlman. 2 copies</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Davidson, Donald</unittitle>
+              <unitdate>June 3, 1956 to Geoffrey Moore</unitdate>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Dickey, Hervey</unittitle>
+              <unitdate>May 2, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Drewry, John E</unittitle>
+              <unitdate>Nov. 26, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Eaton, Vincent L</unittitle>
+              <unitdate>March 23, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Eaton, Vincent L</unittitle>
+              <unitdate>March 30, 1956 to Overton Williams</unitdate>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Eaton, Vincent L</unittitle>
+              <unitdate>Oct. 24, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ellegood, Donald</unittitle>
+              <unitdate>March 18, 1958 to Donald Davidson</unitdate>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ellegood, Donald</unittitle>
+              <unitdate>April 25, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Elliott, William Y</unittitle>
+              <unitdate>Nov. 25, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Elliott, William Y</unittitle>
+              <unitdate>Feb. 27, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Elliott, William Y</unittitle>
+              <unitdate>March 27, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Elliott, William Y</unittitle>
+              <unitdate>March 30, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Elliott, William Y</unittitle>
+              <unitdate>April 20, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Elliott, William Y</unittitle>
+              <unitdate>Dec. 3, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Emerson, O. B</unittitle>
+              <unitdate>April 30, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Faulkner, Claude W</unittitle>
+              <unitdate>May 4, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Faverty, Fred</unittitle>
+              <unitdate>May 7, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Foster, Elizabeth</unittitle>
+              <unitdate>May 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Gerber, John C</unittitle>
+              <unitdate>Jan. 2, 1962</unitdate>
+              <container type="box">1</container>
+              <container type="folder">47</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Graf, LeRoy P</unittitle>
+              <unitdate>May 3, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Halpert, Violet</unittitle>
+              <unitdate>May 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Harwell, Coleman</unittitle>
+              <unitdate>Sept. 9, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Harwell, Coleman</unittitle>
+              <unitdate>Sept. 18, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Harwell, Coleman</unittitle>
+              <unitdate>Feb. 20, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Hirsch, Goldie</unittitle>
+              <unitdate>Oct. 30, 1955 to Merrill Moore</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Howell, Isabel</unittitle>
+              <unitdate>Feb. 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Hunter, Anna C</unittitle>
+              <unitdate>Oct. 7, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Hunting, Robert</unittitle>
+              <unitdate>May 2, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Jackson, William A</unittitle>
+              <unitdate>April 30, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Jacobs, Robert D</unittitle>
+              <unitdate>March 25, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Kazin, Alfred</unittitle>
+              <unitdate>May 9, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Koller, Kathrine</unittitle>
+              <unitdate>May 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Kuhlman, A. F</unittitle>
+              <unitdate>April 18, 1956 to Donald Davidson-2 copies</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Luce, Henry R</unittitle>
+              <unitdate>March 17, 1956 to President Branscomb</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Lynn, Justine</unittitle>
+              <unitdate>Feb. 3, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Lynn, Justine</unittitle>
+              <unitdate>May 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Lynn, Justine</unittitle>
+              <unitdate>May 11, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Lytle, Andrew</unittitle>
+              <unitdate>Nov. 4, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Lytle, Andrew</unittitle>
+              <unitdate>Feb. 20, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Lytle, Andrew</unittitle>
+              <unitdate>n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>MacLean, Kenneth</unittitle>
+              <unitdate>May 3, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>March 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>April 18, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>May 24, 1956 to Rubin</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>June 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>June 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>July 3, 1956 to Branscomb</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>July 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>July 10, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>Dec. 12, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>April 4, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Marshall, John</unittitle>
+              <unitdate>April 18, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>McGaw, Robert M</unittitle>
+              <unitdate>Jan. 10, 1956 to William C. Cobb</unitdate>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>McGaw, Robert M</unittitle>
+              <unitdate>March 8, 1956 to Jack DeWitt</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>McGaw, Robert M</unittitle>
+              <unitdate>March 29, 1956 to Ransom, Tate, and Warren</unitdate>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>McGaw, Robert M</unittitle>
+              <unitdate>March 30, 1956 to Caedmon Sales Corp</unitdate>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>McGaw, Robert M</unittitle>
+              <unitdate>March 30, 1956 to Barbara Cohen and Marianne</unitdate>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>McGaw, Robert M</unittitle>
+              <unitdate>April 11, 1956 to Jack DeWitt</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>McGaw, Robert M</unittitle>
+              <unitdate>April 25, 1956 to Barbara Cohen</unitdate>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Geoffrey</unittitle>
+              <unitdate>Feb. 20, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Geoffrey</unittitle>
+              <unitdate>May 23, 1956 to Donald Davidson</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>Oct. 27, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>Oct. 29, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>Dec. 5, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>April 11, 1956 to Harvie Branscomb</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>April 17, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>April 27, 1956. 2 letters</unitdate>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>April 30, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>June 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>June 4, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>Jan. 21, 1957 to Mary O. Abbott</unitdate>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>Sept. 10, 1957 to Harvie Branscomb</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Merrill</unittitle>
+              <unitdate>n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Mrs. Merrill</unittitle>
+              <unitdate>Nov. 25, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Moore, Mrs. Merrill</unittitle>
+              <unitdate>Jan. 22, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Morison, S. E</unittitle>
+              <unitdate>March 2, 1932</unitdate>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Morrissey, Eleanor F</unittitle>
+              <unitdate>May 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Nesbitt, George</unittitle>
+              <unitdate>May 4, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Owsley, Frank L</unittitle>
+              <unitdate>March 15, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Owsley, Harriet C</unittitle>
+              <unitdate>Nov. 24, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Pearce, Roy</unittitle>
+              <unitdate>Aug. 29, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Pearson, Norman H</unittitle>
+              <unitdate>Jan. 29, 1953</unitdate>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Peck, Genevieve for Merrill Moore</unittitle>
+              <unitdate>Feb. 17, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Peck, Genevieve for Merrill Moore</unittitle>
+              <unitdate>March 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Phillips, Bob</unittitle>
+              <unitdate>Jan. 28, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Pomfret, Jack</unittitle>
+              <unitdate>April 26, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Purdy, Rob Roy</unittitle>
+              <unitdate>June 21, 1957 to Rubin</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>Oct. 29, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>Feb. 7, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>Feb. 18, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>April 2, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>May 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>May 26, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>March 27, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>Oct. 18, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>Nov. 19, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>Feb. 25, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>March 3, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ransom, John C</unittitle>
+              <unitdate>Feb. 1, n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rhind, Flora M. (of Rockefeller F.)</unittitle>
+              <unitdate>Oct. 18, 1955 to Robert Spiller</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rock, Virginia</unittitle>
+              <unitdate>April 4, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>March 22, 1955 to Huntingdon Cairns</unitdate>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>May 27, 1955 to John Marshall</unitdate>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>July 19, 1955 to John Marshall</unitdate>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Oct. 10, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Dec. 1, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">22</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>March 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>March 22, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>April 16, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>April 17, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>April 24, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>May 29, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>June 5, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Sept. 13, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Sept. 19, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Nov. 29, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Dec. 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Dec. 14, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Jan. 10, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>June, 6, 1957 to Rob R. Purdy</unitdate>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Sept. 23, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Nov. 3, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Nov. 19, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Jan. 28, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Dec. 8, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Jan. 2, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Jan. 3, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Jan. 13, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Jan. 23, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>n.d. to John Marshall</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Rubin, Louis D., Jr.</unittitle>
+              <unitdate>Monday</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Spiller, Robert E</unittitle>
+              <unitdate>March 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Starr, Elizabeth</unittitle>
+              <unitdate>n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stevenson, Alec B.</unittitle>
+              <unitdate>March 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stevenson, Alec B.</unittitle>
+              <unitdate>May 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stevenson, Alec B.</unittitle>
+              <unitdate>May 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stevenson, Alec B.</unittitle>
+              <unitdate>Dee. 23, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stewart, John L.</unittitle>
+              <unitdate>Jan. 21, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stewart, John L.</unittitle>
+              <unitdate>May 30, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stewart, John L.</unittitle>
+              <unitdate>Sept. 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Stowe, H. Lloyd</unittitle>
+              <unitdate>March 27, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Oct. 27, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Jan. 27, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Feb. 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Feb. 17, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>April 11, 1956 to Harvie Branscomb</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>April 18, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>April 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>May 10, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Oct. 25, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Jan. 14, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Jan. 15, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>July 30, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Aug. 11, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Aug. 29, 1959 to Henry C. Alexander and Benjamin Tate, 2 copies</unitdate>
+              <container type="box">1</container>
+              <container type="folder">47</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Tate, Allen</unittitle>
+              <unitdate>Oct. 2, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">47</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Taylor, George Rogers</unittitle>
+              <unitdate>March 19, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Taylor, Walter F</unittitle>
+              <unitdate>May 8, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Thompson, E. B</unittitle>
+              <unitdate>Dec. 6, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Thorp, Willard</unittitle>
+              <unitdate>Oct. 28, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Thorp, Willard</unittitle>
+              <unitdate>Feb. 23, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Thorp, Willard</unittitle>
+              <unitdate>April 20, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Thorp, Willard</unittitle>
+              <unitdate>June 5, 1956 to Harvie Branscomb</unitdate>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Thorp, Willard</unittitle>
+              <unitdate>Nov. 18, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Vanderbilt, Harold S</unittitle>
+              <unitdate>April 26, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Wade, John Donald</unittitle>
+              <unitdate>April 10, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ward, John W</unittitle>
+              <unitdate>April 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Warren, Robert P.</unittitle>
+              <unitdate>Nov. 19, 1955</unitdate>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Warren, Robert P.</unittitle>
+              <unitdate>Jan. 27, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Warren, Robert P.</unittitle>
+              <unitdate>March 28, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Warren, Robert P.</unittitle>
+              <unitdate>Nov. 8, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Warren, Robert P.</unittitle>
+              <unitdate>Jan. 4, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Warren, Robert P.</unittitle>
+              <unitdate>Jan. 14, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Waterfield, C. A.</unittitle>
+              <unitdate>n.d</unitdate>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Weaver, Mrs. Herbert</unittitle>
+              <unitdate>May 9, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Whicher, George</unittitle>
+              <unitdate>Oct. 25, 1951</unitdate>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Wills, Jesse</unittitle>
+              <unitdate>Nov. 19, 1957</unitdate>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Wills, Jesse</unittitle>
+              <unitdate>Sept. 28, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">47</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Wriston, Marguerite</unittitle>
+              <unitdate>Sept. 25, 1958</unitdate>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Wills, Jesse</unittitle>
+              <unitdate>May 24, 1959</unitdate>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Dave</unittitle>
+              <unitdate>May 1, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Dave and Candace</unittitle>
+              <unitdate>April 30, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ed</unittitle>
+              <unitdate>April 27, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>Ellene</unittitle>
+              <unitdate>June 6, 1956</unitdate>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c02>
+          <c02 level="item">
+            <did>
+              <unittitle>George</unittitle>
+              <unitdate>Dec. 4, 1967, to Mrs. Stewart. Possibly George Core</unitdate>
+              <container type="box">1</container>
+              <container type="folder">47</container>
+            </did>
+          </c02>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">49</container>
+            <unittitle>Fugitive Reunion Arrangements - Miscellaneous</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">50</container>
+            <unittitle>Calendars of Events and Guest List, Fugitive Reunion</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">51</container>
+            <unittitle>Fugitive Finances. Vouchers, financial statements regarding the handling of finances for the Fugitive Reunion</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">52</container>
+            <unittitle>Fugitive Conference Dinner Programs enclosed in Harvie Branscomb letter,</unittitle>
+            <unitdate>May 8, 1956</unitdate>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">53-55</container>
+            <unittitle>Fugitive Conference Clippings</unittitle>
+            <unitdate>1956 Jan 20 to June; Undated</unitdate>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">56-57</container>
+            <unittitle>Fugitive Reunion Photos Taken by Merrill Moore</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">58</container>
+            <unittitle>Book Reviews - Pertaining to R. C. Beatty&#8217;s column</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">59</container>
+            <unittitle>Stewart&#8217;s Class Roll Books</unittitle>
+            <unitdate>For years 1947, 1955, 1956, 1958</unitdate>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">60</container>
+            <unittitle>Articles about Stewart (2)</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">61</container>
+            <unittitle>Pamphlets</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">62</container>
+            <unittitle>Photograph of Donald Davidson effigy</unittitle>
+          </did>
+        </c01>
+        <c01 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">63</container>
+            <unittitle>Miscellaneous - mainly mailing lists</unittitle>
+          </did>
+        </c01>
+    </dsc>
+  </archdesc>
+</ead>
