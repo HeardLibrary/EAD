@@ -5,8 +5,6 @@ This document details the EAD finding aids that are unable to be imported into A
 
 ## FinneyClaude (MSS.0140)
 
-## FusonNelson (MSS.0161)
-
 ## KampmeierRudolph (MSS.0235)
 
 ## LawsonJames (MSS.0626)
@@ -30,3 +28,4 @@ It is unclear if this is actually a collection that is different from MSS 282 or
 ## VannElizabeth (MSS.0476)
 
 ## WillsJesse (MSS.0001)
+This collection has some issues that can be fixed with Xquery. This includes pulling titles and box/folder info from single <unittitle> fields. There may be other issues with it.
