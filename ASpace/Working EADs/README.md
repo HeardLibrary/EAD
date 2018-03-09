@@ -12,9 +12,6 @@ This collection is currently in the middle of processing. This finding aid was p
 
 ## McGawRobert Maps (MSS.0274)
 
-## McTyeireGarland (MSS.0284)
-It is unclear if this is actually a collection that is different from MSS 282 or MSS 283. This 2 page inventory is also contained in MSS.0282's finding aid. While this is being determined, work has been ceased on this doc. If resumed, fixing this doc would simply entail doing some find and replace regexes on the <table> elements to make it look like EAD elements. This is a short document.
-
 ## MimsEdwin (MSS.0292)
 
 ## MitchellCharles (MSS.0293)
