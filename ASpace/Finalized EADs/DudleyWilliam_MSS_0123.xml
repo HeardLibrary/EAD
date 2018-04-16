@@ -36,7 +36,7 @@
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">2.52 linear_feet</extent>
       </physdesc>
-      <unitdate>1882-1915</unitdate>
+      <unitdate normal="1882/1915" type="inclusive"></unitdate>
     </did>
     <bioghist>
       <head>William L. Dudley: A Chronology</head>
@@ -122,61 +122,2180 @@
       </chronlist>
     </bioghist>
     <dsc type="othertype">
-      <c01 level="item">
+      <c01 level="series">
         <did>
           <container type="box">1</container>
           <container type="folder">1</container>
-          <unittitle>Correspondence - Outgoing. Thirty Letters Arranged Chronologically</unittitle>
-          <unitdate>1899-1912</unitdate>
+          <unittitle>Correspondence - Outgoing</unittitle>
+          <unitdate normal="1899/1912" type="inclusive"></unitdate>
         </did>
+        <c02 level="item">
+          <did>
+            <unitdate>8 Aug., 1899</unitdate>
+            <unittitle>R. H. Dudley</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>10 Sept., 1903</unitdate>
+            <unittitle>L. L. Rice</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>10 Sept., 1903</unitdate>
+            <unittitle>Ashby Wilkins</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>14 Sept., 1903</unitdate>
+            <unittitle>Ashby Wilkins</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>20 Sept., 1903</unitdate>
+            <unittitle>Ashby Wilkins</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>28 Sept., 1903</unitdate>
+            <unittitle>Charles R. Head</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>28 Sept., 1903</unitdate>
+            <unittitle>John W. Head</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>28 Sept., 1903</unitdate>
+            <unittitle>L. L. Rice</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>28 Sept., 1903</unitdate>
+            <unittitle>Ashby Wilkins</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>2 Oct., 1903</unitdate>
+            <unittitle>L. L. Rice</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>13 Oct., 1903</unitdate>
+            <unittitle>Ashby Wilkins</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>29 Oct., 1903</unitdate>
+            <unittitle>L. L. Rice</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>28 Nov., 1903</unitdate>
+            <unittitle>P. M. Simms</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>7 Dec., 1903</unitdate>
+            <unittitle>P.M. Simms</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>11 Dec., 1903</unitdate>
+            <unittitle>M. O. Bridges</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>19 March, 1904</unitdate>
+            <unittitle>Ed. Davis</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>18 April, 1904</unitdate>
+            <unittitle>Executive Committee S. I. A. A</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>25 April, 1904</unitdate>
+            <unittitle>Executive Committee S. I. A. A</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>30 April, 1904</unitdate>
+            <unittitle>L. L. Rice</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>? April? 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>13 May, 1904</unitdate>
+            <unittitle>Bondurant</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>1 Sept., 1904</unitdate>
+            <unittitle>John W. Head</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>26 Sept., 1904</unitdate>
+            <unittitle>Executive Committee S. I. A. A</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>17 Dec., 1904</unitdate>
+            <unittitle>John Head</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>26 July, 1909</unitdate>
+            <unittitle>Frank S. Washburn</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>27 July, 1909</unitdate>
+            <unittitle>Frank S. Washburn</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>8 Sept., 1911</unitdate>
+            <unittitle>B. K. Rankin</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>17 Oct., 1911</unitdate>
+            <unittitle>C. F. Anderson</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>17 Oct., 1911</unitdate>
+            <unittitle>Harrington Marr</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unitdate>22 May, 1912</unitdate>
+            <unittitle>A.A. Mason</unittitle>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+          </did>
+        </c02>
       </c01>
-      <c01 level="item">
+      <c01 level="series">
         <did>
           <container type="box">1</container>
           <container type="folder">2-28</container>
-          <unittitle>Correspondence - Incoming. 386 Letters Arranged Alphabetically, 286 Typed, 100 Holograph.</unittitle>
-          <unitdate>1896-1915</unitdate>
+          <unittitle>Correspondence - Incoming (286 Typed, 100 Holograph)</unittitle>
+          <unitdate normal="1896/1915" type="inclusive"></unitdate>
         </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Acklen, Joseph H (1)</unittitle>
+            <unitdate>7 Aug., 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Acme White Lead and Color Works (A. M. Woodward) (1)</unittitle>
+            <unitdate>28 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Acton, Robert (1)</unittitle>
+            <unitdate>18 June 1896</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Adams, John N. (1)</unittitle>
+            <unitdate>19 March 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Allan, J. S. (1)</unittitle>
+            <unitdate>30 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Allan, Stockdell (2)</unittitle>
+            <unitdate>18 July, 31 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Alling, Charles Jr. (1)</unittitle>
+            <unitdate>24 April 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>American Sports Publishing Co. (1)</unittitle>
+            <unitdate>24 August 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ames, John W. (2)</unittitle>
+            <unitdate>16 Feb. 1911, 20 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Anderson, C. F. (1)</unittitle>
+            <unitdate>14 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Anderson, Milton J. (1)</unittitle>
+            <unitdate>9 Aug. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Anderson, S. E. (1)</unittitle>
+            <unitdate>7 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ayers, A. J. (1)</unittitle>
+            <unitdate>2 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Blakiston, P., Son &#38; Co. (H. G. White) (1)</unittitle>
+            <unitdate>24 Aug. 1914</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bondurant, Alexander (1)</unittitle>
+            <unitdate>n.d</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Boyd, Thomas D. (2)</unittitle>
+            <unitdate>26 Dec. 1904 (to Marion Sims), 6 Jan. 1905 (to B.L. Wiggins)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bridges, M. O. (5)</unittitle>
+            <unitdate>21 Aug. 1903, 30 Sept. 1903, 8 Dec. 1903, 16 Dec. 1903, 5 Dec. 1904 (to P.M. Simms)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Briesen, Arthur V. (1)</unittitle>
+            <unitdate>20 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bromwell, Annie G. (1)</unittitle>
+            <unitdate>22 March 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Brown, Charles L. (1)</unittitle>
+            <unitdate>18 Feb. 1899</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Burch, Robert L. (2)</unittitle>
+            <unitdate>8 Feb. 1899, 4 March 1999</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Burick (?), R. K. (1)</unittitle>
+            <unitdate>15 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Butler, George P. (1)</unittitle>
+            <unitdate>14 Jan. 1910</unitdate>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Chappell, F. W. (1)</unittitle>
+            <unitdate>29 Nov. 1904 (to P. M. Simms)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Clary, John T. (2)</unittitle>
+            <unitdate>12 March 1904, 17 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Cole, Louise H. (1)</unittitle>
+            <unitdate>15 Feb. 1907</unitdate>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Collier, F. S. (1)</unittitle>
+            <unitdate>19 Feb. 1912</unitdate>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Corson, H. H. (1)</unittitle>
+            <unitdate>14 Feb. 1899</unitdate>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dawson, L. (1)</unittitle>
+            <unitdate>26 Aug. 1914</unitdate>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>di Beuedetto, L. (2)</unittitle>
+            <unitdate>17 July 1912, May 1913 (to A. A. Mason)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dye, J.S. (6)</unittitle>
+            <unitdate>27 Jan. 1904, 2 Feb. 1904, 8 July 1904, n.d., n.d., n.d.</unitdate>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Edmonds, Richard H. (2)</unittitle>
+            <unitdate>30 June 1911, 9 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ellis, A Caswell (1)</unittitle>
+            <unitdate>19 May 1904 (to P. M. Simms)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Fuller, Addie I. (1)</unittitle>
+            <unitdate>29 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gaunt, R. W. (3)</unittitle>
+            <unitdate>20 April 1904, 24 May 1904, 10 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gordon, J. R. (1)</unittitle>
+            <unitdate>16 Feb. 1899</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gudeman, Edward (1)</unittitle>
+            <unitdate>18 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hamilton, E. J. (1)</unittitle>
+            <unitdate>25 May 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Handly, Avery (1)</unittitle>
+            <unitdate>19 May 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Hanovia Chemical &#38; Mfg. Co. (F. W. Robinson) (1)</unittitle>
+            <unitdate>25 Aug. 1914</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Head, Charles R. (2)</unittitle>
+            <unitdate>30 Sept. 1903, 19 Nov. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Head, J. Allen (4)</unittitle>
+            <unitdate>16 Dec. 1903, 3 Sept. 1904, 11 Dec. 1904 (to P. M. Simms), 15 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Head, John W. (12)</unittitle>
+            <unitdate>21 March 1903, 30 Sept 1903, 11 May 1904, 16 May 1904, 18 May 1904, F 6. 12 July 1904, 14 July 1904, 26 August 1904, 6 Sept. 1904, 15 Sept. 1904, 12 Dec. 1904, 14 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Heisman, J. W. (1)</unittitle>
+            <unitdate>29 Dec. 1909</unitdate>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Holmes, Edward T. (1)</unittitle>
+            <unitdate>17 Jan. 1905</unitdate>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>James, W. A. (1)</unittitle>
+            <unitdate>31 August 1904 (to W. D. Mooney)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Johnson, Laurence I. (1)</unittitle>
+            <unitdate>23 Dec. 1911 (to Phi Lambda Delta Alumni)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Jones, Richard (1)</unittitle>
+            <unitdate>17 June 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Jordan, David Starr (1)</unittitle>
+            <unitdate>3 Dec. 1909 (to Charles R. Van Hise)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Kerr, Thomas B. (1)</unittitle>
+            <unitdate>18 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lake, D. (1)</unittitle>
+            <unitdate>19 June --</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Laudis, W. S. (1)</unittitle>
+            <unitdate>30 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Legate, Ray H. (1)</unittitle>
+            <unitdate>9 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Leggett, Albert E. (1)</unittitle>
+            <unitdate>8 July 1911 (to S. H. Sheib)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lewis, L. H. (2)</unittitle>
+            <unitdate>8 Sept. 1904, 1 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Little, A. D. (1)</unittitle>
+            <unitdate>5 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>MacMillan Company (1)</unittitle>
+            <unitdate>8 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Maddin, Percy D. (1)</unittitle>
+            <unitdate>24 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Malone, Battle (1)</unittitle>
+            <unitdate>4 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Manufacturers Record (4)</unittitle>
+            <unitdate>15 June 1911, 11 Nov. 1911, 23 Nov. 1911, 22 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Marr, Harrington (1)</unittitle>
+            <unitdate>n.d</unitdate>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mather, Stephen T. (1)</unittitle>
+            <unitdate>6 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mason, A. A. (1)</unittitle>
+            <unitdate>20 May 1912</unitdate>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McCabe, W. M. (1)</unittitle>
+            <unitdate>14 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McClain, Anne B. (1)</unittitle>
+            <unitdate>28 Nov.1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McClain, J. Scott (1)</unittitle>
+            <unitdate>12 Oct. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McCormack, S. T. (1)</unittitle>
+            <unitdate>22 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McDermott, E. J. (2)</unittitle>
+            <unitdate>21 Aug. 1911, 18 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McGovney, D. O. (1)</unittitle>
+            <unitdate>20 May 1912</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mc-Graw-Hill Book Co. (1)</unittitle>
+            <unitdate>21 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>McGugin, Dan E. (2)</unittitle>
+            <unitdate>13 Jan. 1910, 4 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Meadow, T. C. (1)</unittitle>
+            <unitdate>10 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mell, A. W. (1)</unittitle>
+            <unitdate>15 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>(Miller), Dudley B. (1)</unittitle>
+            <unitdate>20 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>(Monroe), J. Blanc (1)</unittitle>
+            <unitdate>n.d</unitdate>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mooney, W. D. (10)</unittitle>
+            <unitdate>5 Sept. 1903, 7 Sept. 1903, 9 Sept. 1903, 1 Oct. 1903, 4 Oct. 1903, 5 Oct. 1903 (to Ashby Wilkins), 8 Oct. 1903, 1 Sept. 1904, 14 Sept. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Edward S. (1)</unittitle>
+            <unitdate>14 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Margaret S. (1)</unittitle>
+            <unitdate>9 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Moore, Rupert E. (1)</unittitle>
+            <unitdate>28 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Morgan, Henry W. (1)</unittitle>
+            <unitdate>6 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Muckenfuss, A. M. (2)</unittitle>
+            <unitdate>21 June 1911, 1 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>National Carbon Company (1)</unittitle>
+            <unitdate>18 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Neiman, Howard S. (2)</unittitle>
+            <unitdate>24 April 1911, 10 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Newman, Willie Betty (1)</unittitle>
+            <unitdate>16 Feb. --</unitdate>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nichols, William (1)</unittitle>
+            <unitdate>12 Dec. 1911 (to Charles E Munroe)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nicolson, Frank W. (1)</unittitle>
+            <unitdate>21 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Norton Company (4)</unittitle>
+            <unitdate>3 June 1911, 19 June 1911, 6 July 1911, 28 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Norvell, W. E. Jr. (7)</unittitle>
+            <unitdate>5 Jan. 1911, 17 March 1911, 22 March 1911, 11 May 1911, 26 Oct. 1911, 22 Nov. 1911, 5 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ober, Birch R. (1)</unittitle>
+            <unitdate>5 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Odell, (?) Allan F. (4)</unittitle>
+            <unitdate>12 Jan. 1911, 2 May 1911, 8 May 1911, 30 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Oden, L. H. (1)</unittitle>
+            <unitdate>14 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Palmour, Oscar (1)</unittitle>
+            <unitdate>6 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Parkinson, Robert H. (3)</unittitle>
+            <unitdate>24 April 1911, 27 April 1911, 18 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Parson, Charles L. (8)</unittitle>
+            <unitdate>4 Jan. 1911, 11 Jan. 1911, 12 Jan. 1911, 18 Jan. 1911, 21 Feb. 1911, 8 April 1911, 21 Aug. 1911, 5 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Peirce, James H. (1)</unittitle>
+            <unitdate>25 April 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pennie, John C. (3)</unittitle>
+            <unitdate>23 Feb. 1911, 22 April 1911, 4 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Peoples, James A. (2)</unittitle>
+            <unitdate>14 Dec. 1911, 17 March 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pierce, Palmer E. (1)</unittitle>
+            <unitdate>29 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Poe, Floyd (1)</unittitle>
+            <unitdate>7 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Polk, Newton N. (2)</unittitle>
+            <unitdate>5 May 1911, 25 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Potts, Robert J. (1)</unittitle>
+            <unitdate>28 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Power, Frederick B. (1)</unittitle>
+            <unitdate>13 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Priest, Charles (3)</unittitle>
+            <unitdate>20 March 1911, 24 April 1911, 28 April 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Primos Chemical Co. (1)</unittitle>
+            <unitdate>18 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Prothro (?), Andrew (1)</unittitle>
+            <unitdate>20 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Purdue, A. H. (1)</unittitle>
+            <unitdate>22 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Queneau, A. L. (2)</unittitle>
+            <unitdate>8 May 1911, 22 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Raff, Arthur (2)</unittitle>
+            <unitdate>13 Jan. 1911, 15 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ramage, Carrie (1)</unittitle>
+            <unitdate>23 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Randle, William N. (2)</unittitle>
+            <unitdate>17 Jan. 1911, 24 April 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rankin, -- (1)</unittitle>
+            <unitdate>1 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rankin, B. Kirk (3)</unittitle>
+            <unitdate>23 Feb. 1911, 3 April 1911, 7 Sept 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Resse, Charles L. (4)</unittitle>
+            <unitdate>27 April 1911, 29 May 1911, 20 Nov. 1911, 26 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rice, G. E. (4)</unittitle>
+            <unitdate>3 April 1911, 17 April 1911, 26 April 1911, 1 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rice, L. L. (8)</unittitle>
+            <unitdate>10 Sept. 1903, 25 Sept. 1903, 30 Sept. 1903, 2 Oct. 1903, 23 April 1904, 2 May 1904, 2 may 1904, 21 May 1904, 8 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Richards, Joseph W. (2)</unittitle>
+            <unitdate>21 Feb. 1911, 22 April 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Richardson, Clifford (3)</unittitle>
+            <unitdate>22 April 1911, 20 Nov. 1911, 28 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ricks, Williams B. (2)</unittitle>
+            <unitdate>10 July 1911, 18 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Riggs, W. M. (2)</unittitle>
+            <unitdate>3 Nov. 1904, 19 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rohren, A. L. (1)</unittitle>
+            <unitdate>20 March 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Roessler &#38; Hasslacher Chem. Co. (5)</unittitle>
+            <unitdate>19 June 1911, 26 June 1911, 7 July 1911, 13 Nov. 1911, 12 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rose, Ella M. (1)</unittitle>
+            <unitdate>22 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ross, B. B. (1)</unittitle>
+            <unitdate>18 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ruhm, H. D. (3)</unittitle>
+            <unitdate>20 Feb. 1911, 7 March 1911, 9 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Rutherford, G. S. (2)</unittitle>
+            <unitdate>12 Oct. 1911, 18 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Schuerman, -- (2)</unittitle>
+            <unitdate>3 July 1911, 4 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Schwartz, H. A. (2)</unittitle>
+            <unitdate>14 Jan. 1911, 26 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Scientific Materials Co. (4)</unittitle>
+            <unitdate>26 May 1911, 30 June 1911, 27 Sept. 1911, 3 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Seay, Eds. (1)</unittitle>
+            <unitdate>13 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Shannon, E. S. (2)</unittitle>
+            <unitdate>10 Oct. 1911, 13 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Shatton, S. W. (1)</unittitle>
+            <unitdate>21 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sheffield Casting &#38; Manufacturing Co. (1)</unittitle>
+            <unitdate>13 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sheib, -- (2)</unittitle>
+            <unitdate>-- 16 June 1911, 17 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sheppard, W. G. (1)</unittitle>
+            <unitdate>27 May 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sherwin, C. P. (2)</unittitle>
+            <unitdate>9 Feb. 1911, 26 Feb. 19.</unitdate>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Shwab, George A. (1)</unittitle>
+            <unitdate>19 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Simms, P. M. (12)</unittitle>
+            <unitdate>20 Nov. 1903, 3 Dec. 1903, 14 May 1904, 13 June 1904, 28 Nov. 1904 (to Frank Chappel)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Simms, P. M. (12)</unittitle>
+            <unitdate>1 Dec. 1904 (to --- Wiggins), 13 Dec. 1904, 13 Dec 1904 (to percy Whiting), 16 Dec. 1904, 28 Dec. 1904 (to Thomas D. Boyd), 31 Dec. 1904 (to Thomas D. Boyd) 10 Jan. 1905 (to Thomas D. Boyd)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sioussat, St. George L. (10)</unittitle>
+            <unitdate>3 Jan. 1911, 12 Jan. 1911, 18 Jan. 1911, 5 April 1911, 2 May 1911, 9 May 1911, 22 May 1911, 27 May 1911, 5 June 1911, 12 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Slaughter, B. G. Jr. (2)</unittitle>
+            <unitdate>6 Feb. 1904, 22 July 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smiser, M. B. (3)</unittitle>
+            <unitdate>21 Aug 1903, 30 Sept. 1903, 14 Oct. 1903</unitdate>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smith, Alexander (2)</unittitle>
+            <unitdate>13 Feb. 1911, 4 March 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smith, G. McP. (1)</unittitle>
+            <unitdate>15 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smith, Paul D. (1)</unittitle>
+            <unitdate>27 March 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smith, R. K. (1)</unittitle>
+            <unitdate>4 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Smith, Richard (1)</unittitle>
+            <unitdate>29 May --</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Synder, J. H. (1)</unittitle>
+            <unitdate>30 March 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Spain, Frank Edward (1)</unittitle>
+            <unitdate>18 Jan. 1910</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Spencer, C. M. (1)</unittitle>
+            <unitdate>21 Aug. 1903</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sportlover (1)</unittitle>
+            <unitdate>9 Dec. 1903 (to B. L. Wiggins)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Springer, Alfred (6)</unittitle>
+            <unitdate>18 Feb. 1911, 7 March 1911, 15 April 1911, 20 Nov. 1911, 6 Dec. 1911, 19 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stauffer, Nathan P. (1)</unittitle>
+            <unitdate>11 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Staughton, Bradley (1)</unittitle>
+            <unitdate>17 Aug. 1914</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stechert, G. E. &#38; Co. (3)</unittitle>
+            <unitdate>27 Aug. 1912, 20 Sept. 1912, 2 Aug. 1913</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stone, George C. (2)</unittitle>
+            <unitdate>8 Nov. 1911, 21 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stone, J. N. (1)</unittitle>
+            <unitdate>17 Dec. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stokes, Jordan &#38; James Whitworth (1)</unittitle>
+            <unitdate>12 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stub, D. W. (1)</unittitle>
+            <unitdate>11 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Stubblefield, D. R. (1)</unittitle>
+            <unitdate>30 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Sullivan, James E. (1)</unittitle>
+            <unitdate>20 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Swenson Evaporator Co. (2)</unittitle>
+            <unitdate>1 Aug. 1911, 31 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Takamine, Jokichi (2)</unittitle>
+            <unitdate>24 April 1911, 23 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tabbot, Charles Homer (1)</unittitle>
+            <unitdate>9 Nov. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Tassin, Wirt (1)</unittitle>
+            <unitdate>20 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Thompson, Edward (2)</unittitle>
+            <unitdate>8 March 1911, 19 March 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Trabue, Charles C. (3)</unittitle>
+            <unitdate>22 April 1911, 6 Dec. 1911, 20 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Trimpe, William A. (7)</unittitle>
+            <unitdate>18 Feb. 1911 (to William E. Norvell, Jr.), 8 March 1911, 15 March 1911, 20 July 1911, 31 July 1911, 10 Nov. 1911, 18 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Turne (?), John Pichen (2)</unittitle>
+            <unitdate>11 Sept. 1911, 16 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wait, Charles E. (2)</unittitle>
+            <unitdate>17 April 1904, 29 April 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Walker, Bradley (2)</unittitle>
+            <unitdate>3 Oct. 1903, 4 Oct 1903</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Walter, H. C. (6)</unittitle>
+            <unitdate>9 Feb. 1911, 13 March 1911, 18 April 1911, 16 May 1911, 18 May 1911, 19 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wallace, R. James (1)</unittitle>
+            <unitdate>11 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wannamaker, Olin D. (1)</unittitle>
+            <unitdate>4 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Warner, Percy (1)</unittitle>
+            <unitdate>10 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Washburn, Frank S. (1)</unittitle>
+            <unitdate>25 April 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Webb, James A. &#38; Son (1)</unittitle>
+            <unitdate>10 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wellman, Creighton (1)</unittitle>
+            <unitdate>1 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>West, S. Nick (2)</unittitle>
+            <unitdate>16 June 1911, 31 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>White, E. D. (2)</unittitle>
+            <unitdate>15 Feb. 1911, 6 Dec. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>White, S. S., Dental Mfg. Co. (1)</unittitle>
+            <unitdate>16 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Whiting, Percy H</unittitle>
+            <unitdate>15 Dec. 1904, 15 Dec. 1904 (to P. M. Simms)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Whitney, Casper (1)</unittitle>
+            <unitdate>11 Jan. 1904</unitdate>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Whitney, W. R. (2)</unittitle>
+            <unitdate>8 April 1911, 18 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wiggins, B. L. (5)</unittitle>
+            <unitdate>7 Oct. 1903, 26 April 1904, 21 May 1904, 3 Dec. 1904 (to P. M. Simms), 21 March 1905</unitdate>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wiley, Harvey W. (2)</unittitle>
+            <unitdate>21 Jan. 1911, n.d</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wilkins, Ashby (4)</unittitle>
+            <unitdate>12 Sept. 1903, 26 Sept. 1903, 1 Oct. 1903, 18 Oct. 1903</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Williams, Adele &#38; George (1)</unittitle>
+            <unitdate>28 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Williams, Henry Bo (1)</unittitle>
+            <unitdate>1 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wilson, Willie R. (1)</unittitle>
+            <unitdate>21 Jan. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Winton, W. F. (1)</unittitle>
+            <unitdate>2 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Witt, -- (1)</unittitle>
+            <unitdate>30 June 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Woldenberg &#38; Schaar (2)</unittitle>
+            <unitdate>20 April 1911, 27 April 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wood, Hilliard (1)</unittitle>
+            <unitdate>1 Aug. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Woodrow, M. F. (1)</unittitle>
+            <unitdate>20 Feb. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Wyeth, George A. (1)</unittitle>
+            <unitdate>25 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Yoe, John H. (1)</unittitle>
+            <unitdate>15 May 1963 (to David Kaser)</unitdate>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Young, B. E. (3)</unittitle>
+            <unitdate>30 June 1911, 1 July 1911, 3 July 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Young, J. W., Jr. (1)</unittitle>
+            <unitdate>6 Sept. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>illegible - (13)</unittitle>
+            <unitdate>Oct. 1903, 22 March 1904, 2 Feb. 1911, 24 July 1911, 9 Oct. 1911</unitdate>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>incomplete or no signature</unittitle>
+            <unitdate>14 Jan. 1911 ( to A. G. Smith), 20 July 1911 (from Harry), 4 Aug. --</unitdate>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+          </did>
+        </c02>
       </c01>
-      <c01 level="item">
+      <c01 level="series">
         <did>
           <container type="box">2</container>
           <container type="folder">29-35</container>
-          <unittitle>Lecture Notes - Holograph. 40 items. Arranged Alphabetically by Title.</unittitle>
+          <unittitle>Lecture Notes - Holograph</unittitle>
         </did>
+        <c02 level="item">
+          <did>
+            <unittitle>Aluminum</unittitle>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Analysis of Tridismine?</unittitle>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Architecture of the Renaissance</unittitle>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Bimetablisms</unittitle>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Brief Biography of John Adams</unittitle>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Chemical Action</unittitle>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Commercial Importance of Scientific Research</unittitle>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Darwin and His Influence</unittitle>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Discovery of America</unittitle>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Discovery of the Elements</unittitle>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Determination of Phosphorus in Iron</unittitle>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Dyeing</unittitle>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Electricity</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Elementary Inorganic Chemistry</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Evolution</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Explosives</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Flame</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gold</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Great Epidemics</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Gunpowder</unittitle>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>History of Progress in Steel-Making</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>How to Observe</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Inorganic Chemistry at Watkins Institue</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Lincoln, Abraham</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Low Temperatures by Artificial Means</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Medical Education in the U. S</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Mob Law</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nicaragua Canal</unittitle>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Pasteur, Louis</unittitle>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Poe, Ed</unittitle>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Progress of Science in the 19th Century</unittitle>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Refrigeration</unittitle>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Relation of Chemistry to Pharmacy</unittitle>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Relation of Science to Religion</unittitle>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Relations of Vol. of Vapor to Vol. of Liquid or Latent Heat</unittitle>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Scientific Research</unittitle>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Theory of Dissolution</unittitle>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Toxicology</unittitle>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Ventilation</unittitle>
+            <container type="box">2</container>
+            <container type="folder">35</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Water We Drink</unittitle>
+            <container type="box">2</container>
+            <container type="folder">35</container>
+          </did>
+        </c02>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">2</container>
           <container type="folder">36</container>
-          <unittitle>Holograph Notes on Various Subjects. Untitled.</unittitle>
+          <unittitle>Holograph Notes on Various Subjects. Untitled</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">2</container>
           <container type="folder">37</container>
-          <unittitle>Chemical Lectures. Holograph.</unittitle>
+          <unittitle>Chemical Lectures. Holograph</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">2</container>
           <container type="folder">38</container>
-          <unittitle>Papers Read at Various Meetings.</unittitle>
+          <unittitle>Papers Read at Various Meetings</unittitle>
         </did>
         <c02 level="item">
           <did>
             <container type="box">2</container>
             <container type="folder">38</container>
-            <unittitle>"Medical Education in the United States";</unittitle>
+            <unittitle>"Medical Education in the United States"</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
             <container type="box">2</container>
             <container type="folder">38</container>
-            <unittitle>"Some Notes on Metallurgy of Aluminium";</unittitle>
+            <unittitle>"Some Notes on Metallurgy of Aluminium"</unittitle>
           </did>
         </c02>
         <c02 level="item">
@@ -191,7 +2310,7 @@
         <did>
           <container type="box">2</container>
           <container type="folder">39</container>
-          <unittitle>Chemical Analyses. Holograph. One Analysis of stomach contents of W.L. Dudley, among others.</unittitle>
+          <unittitle>Chemical Analyses. Holograph. One Analysis of stomach contents of W.L. Dudley, among others</unittitle>
         </did>
       </c01>
       <c01 level="item">
@@ -204,16 +2323,16 @@
       <c01 level="item">
         <did>
           <container type="box">2</container>
-          <container type="folder">40 1/2</container>
+          <container type="folder">40.5</container>
           <unittitle>One Chemistry Record Small Book</unittitle>
-          <unitdate>1910-1914</unitdate>
+          <unitdate normal="1910/1914" type="inclusive"></unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">2</container>
           <container type="folder">41</container>
-          <unittitle>Printed Lists and Notes. Concerns such things as paper topics, Dudley's original research, iron and steel companies, the electron theory.</unittitle>
+          <unittitle>Printed Lists and Notes. Concerns such things as paper topics, Dudley's original research, iron and steel companies, the electron theory</unittitle>
         </did>
       </c01>
       <c01 level="item">
@@ -227,29 +2346,272 @@
         <did>
           <container type="box">2</container>
           <container type="folder">43</container>
-          <unittitle>Invitation. Fourteen. One photograph of David Dudley Miller, age two years.</unittitle>
+          <unittitle>Invitation. Fourteen. One photograph of David Dudley Miller, age two years</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">2</container>
           <container type="folder">44</container>
-          <unittitle>Membership Certificates. Acknowleding Dudley's membership in various clubs and organizations. Six.</unittitle>
+          <unittitle>Membership Certificates. Acknowleding Dudley's membership in various clubs and organizations</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">45-47</container>
-          <unittitle>Business Reports - Bills, receipts, accounts, one application for patent of spark arrester.</unittitle>
+          <unittitle>Six Business Reports - Bills, receipts, accounts, one application for patent of spark arrester</unittitle>
         </did>
       </c01>
-      <c01 level="item">
+      <c01 level="series">
         <did>
           <container type="box">3</container>
-          <container type="folder">48</container>
-          <unittitle>Articles and Reprints by Dudley. Alphabetically Arranged.</unittitle>
+          <container type="folder">48-54</container>
+          <unittitle>Articles and Reprints by Dudley. Alphabetically Arranged</unittitle>
         </did>
+        <c02 level="item">
+          <did>
+            <unittitle>The Action of Fused Sodium Dioxide on Metals (3 copies)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">48</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Action of Gaseous Hydrochloric Acid and Oxygen on the Platinum Metals - 4 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">48</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Action of Water on Lead Pipe</unittitle>
+            <container type="box">2</container>
+            <container type="folder">48</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Address</unittitle>
+            <container type="box">2</container>
+            <container type="folder">48</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Athletic Control in School and College - 11 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">48</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Atomic Weight of Tellurium; and Critique of the Basic Nitrate Method of Determination</unittitle>
+            <container type="box">2</container>
+            <container type="folder">49</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Chart for the Chemical Examination of Urine. 4 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">49</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Chemists' Club</unittitle>
+            <container type="box">2</container>
+            <container type="folder">49</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Colors and Absorption-Spectra of Thin Metallic Films and of Incandescent Vapors of the Metals; With Some Oberservations of Electrical Volatility</unittitle>
+            <container type="box">2</container>
+            <container type="folder">49</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Curious Occurrence of Vivianite</unittitle>
+            <container type="box">2</container>
+            <container type="folder">49</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Detection of Arsenic in Animal Tissues. 2 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Effect of Coal Gas on the Corrosion of Wrought Iron Pipe, Buried in the Earth. 3 Copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Electro-Deposition of Iridium; A Method of Maintaining the Uniform Composition of an Electroplating Bath Without the Use of an Anode</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Filtration of Alcoholic Liquids through Wood Charcoal</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Holland's Process of Melting Iridium. 2 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Iridium - 2 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Iridium Industry</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Laboratory Notes</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Lecture Table Down Draft. 2 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Luminosity of Comets</unittitle>
+            <container type="box">2</container>
+            <container type="folder">51</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Neon and Electric Waves. 23 Copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">51</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Nickels - Kickelic Hydrate, Ni3O4. 2 H2O. 2 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">51</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Note on the Production of Catharsis by Means of Hypodermatic Medication. 2 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">52</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Notes on the Toese Method for the Determination of Fusel Oil, and a Compariosn of the Results by the Allen-Marquardt Method. F52</unittitle>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Pierce Process for the Production of Charcoal, Wood Alcohol, and Acetic Acid</unittitle>
+            <container type="box">2</container>
+            <container type="folder">52</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Poisonous Effects of Cigarett-Smoking</unittitle>
+            <container type="box">2</container>
+            <container type="folder">52</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Process for the Removal of the Lint from Cotton Seed</unittitle>
+            <container type="box">2</container>
+            <container type="folder">52</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Proper Control of Athletics. 3 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">52</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>The Relationship of the Heat of Vaporization of Gases to Their Density and Also to Their Boiling-Point. 2 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">53</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Report of the Committee on Chemistry Teaching</unittitle>
+            <container type="box">2</container>
+            <container type="folder">53</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Some Modifications of the Methods of Organic Analysis by Combustion. 3 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">53</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Spark Arrester. 8 copies</unittitle>
+            <container type="box">2</container>
+            <container type="folder">53</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Special Report of Jurors on the Systems of Electric Lighting</unittitle>
+            <container type="box">2</container>
+            <container type="folder">54</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>A Spectographic Study of Tellurium</unittitle>
+            <container type="box">2</container>
+            <container type="folder">54</container>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <unittitle>Water Crystallization</unittitle>
+            <container type="box">2</container>
+            <container type="folder">54</container>
+          </did>
+        </c02>
       </c01>
       <c01 level="item">
         <did>
@@ -276,35 +2638,35 @@
         <did>
           <container type="box">3</container>
           <container type="folder">59</container>
-          <unittitle>Documents, Ordinances - Five. Preamble and Constition of S.I.A.A.; Ordinance for Nashville Subway; Ordinance for Nashville Telephone Co.; Charter of Incorporation for Nashville Telephone Co.; Report on a Purposed Suburban Electric Railway.</unittitle>
+          <unittitle>Documents, Ordinances - Five. Preamble and Constition of S.I.A.A.; Ordinance for Nashville Subway; Ordinance for Nashville Telephone Co.; Charter of Incorporation for Nashville Telephone Co.; Report on a Purposed Suburban Electric Railway</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">60</container>
-          <unittitle>Southern Inter-Collegiate Athletic Association. Pamphlets.</unittitle>
+          <unittitle>Southern Inter-Collegiate Athletic Association. Pamphlets</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">60</container>
-          <unittitle>Constitution and By-Laws, handbooks, and Game rules.</unittitle>
+          <unittitle>Constitution and By-Laws, handbooks, and Game rules</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">61-62</container>
-          <unittitle>Southern Inter-Collegiate Athletic Association - Pamphlets.</unittitle>
+          <unittitle>Southern Inter-Collegiate Athletic Association - Pamphlets</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">63-64</container>
-          <unittitle>Athletic Organizations - pamphlets.</unittitle>
+          <unittitle>Athletic Organizations - pamphlets</unittitle>
         </did>
       </c01>
       <c01 level="item">
@@ -318,28 +2680,28 @@
         <did>
           <container type="box">3</container>
           <container type="folder">67</container>
-          <unittitle>Speech. "Provincialism and the Citizenship of Tennessee" by Edward H. Barthell.</unittitle>
+          <unittitle>Speech. "Provincialism and the Citizenship of Tennessee" by Edward H. Barthell</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">68</container>
-          <unittitle>Articles and Reprints by Others. F. W. Clarke, "The Constitution of the Tarrates of Antimony"; Waller Deering, "The Anglosaxon Poets on the Judgement Day"; Ernest Victor Jones, "Tellurium, A Spectographic Study"-2 Copies</unittitle>
+          <unittitle>Articles and Reprints by Others. F. W. Clarke, "The Constitution of the Tarrates of Antimony"; Waller Deering, "The Anglosaxon Poets on the Judgement Day"; Ernest Victor Jones, "Tellurium, A Spectographic Study" - 2 Copies</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">69</container>
-          <unittitle>News Bulletins and Specail Report. 13 copies of N.C.A.A. News Bulletin; Specail Report of the Executive Committee of the Alumni Association of Vanderbilt University.</unittitle>
+          <unittitle>News Bulletins and Specail Report. 13 copies of N.C.A.A. News Bulletin; Specail Report of the Executive Committee of the Alumni Association of Vanderbilt University</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">3</container>
           <container type="folder">70</container>
-          <unittitle>Memorials - "William Lofland Dudley" by Charles Baskerville; "Lucius S. Merriam" by J. H. Hollander and others; "Gates Phillips Thruston, Jr."; "Hiram A. Vance".</unittitle>
+          <unittitle>Memorials - "William Lofland Dudley" by Charles Baskerville; "Lucius S. Merriam" by J. H. Hollander and others; "Gates Phillips Thruston, Jr."; "Hiram A. Vance"</unittitle>
         </did>
       </c01>
       <c01 level="item">
@@ -347,7 +2709,7 @@
           <container type="box">3</container>
           <container type="folder">71-72</container>
           <unittitle>Bulletins - Cincinnati Section, American Chemical Society; History of the Miami Medical College and of its Faculty and Alumni; Alumni Catalogue Miami Medical College; Petition of the Establishment of a Joint Chapter of Sigma XI at
-            Vanderbilt University and George Peabody College for Teachers; Vanderbilt University Quarterly, Vol. XIV, No. 4.</unittitle>
+            Vanderbilt University and George Peabody College for Teachers; Vanderbilt University Quarterly, Vol. XIV, No. 4</unittitle>
         </did>
       </c01>
       <c01 level="item">
@@ -376,1796 +2738,26 @@
         <did>
           <container type="box">5</container>
           <unittitle>Scrapbook</unittitle>
-          <unitdate>1882-1892</unitdate>
+          <unitdate normal="1882/1892" type="inclusive"></unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">5</container>
-          <unittitle>Scrapbook. 1892-1897.</unittitle>
+          <unittitle>Scrapbook</unittitle>
+          <unitdate normal="1892/1897" type="inclusive"></unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
           <container type="box">6</container>
-          <unittitle>Scrapbook. 1897-1910.</unittitle>
+          <unittitle>Scrapbook</unittitle>
+          <unitdate normal="1897/1910" type="inclusive"></unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <unittitle>A 1934 map of Vanderbilt, was separated from this collection, whereabouts now unknown.</unittitle>
-        </did>
-      </c01>
-      <c01 level="subseries">
-        <did>
-          <unittitle>Incoming Correspondence</unittitle>
-        </did>
-        <c02 level="item">
-          <did>
-            <unittitle>Acklen, Joseph H (1)</unittitle>
-            <unitdate>7 Aug., 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Acme White Lead and Color Works (A. M. Woodward) (1)</unittitle>
-            <unitdate>28 Oct. 1911. F 2</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Acton, Robert (1)</unittitle>
-            <unitdate>18 June 1896. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Adams, John N. (1)</unittitle>
-            <unitdate>19 March 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Allan, J. S. (1)</unittitle>
-            <unitdate>30 June 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Allan, Stockdell (2)</unittitle>
-            <unitdate>18 July, 31 July 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Alling, Charles Jr. (1)</unittitle>
-            <unitdate>24 April 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>American Sports Publishing Co. (1)</unittitle>
-            <unitdate>24 August 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ames, John W. (2)</unittitle>
-            <unitdate>16 Feb. 1911, 20 Feb. 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Anderson, C. F. (1)</unittitle>
-            <unitdate>14 Oct. 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Anderson, Milton J. (1)</unittitle>
-            <unitdate>9 Aug. 1904. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Anderson, S. E. (1)</unittitle>
-            <unitdate>7 June 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ayers, A. J. (1)</unittitle>
-            <unitdate>2 Jan. 1911. F 2.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Blakiston, P., Son &#38; Co. (H. G. White) (1)</unittitle>
-            <unitdate>24 Aug. 1914. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Bondurant, Alexander (1)</unittitle>
-            <unitdate>n.d. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Boyd, Thomas D. (2)</unittitle>
-            <unitdate>26 Dec. 1904 (to Marion Sims), 6 Jan. 1905 (to B.L. Wiggins). F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Bridges, M. O. (5)</unittitle>
-            <unitdate>21 Aug. 1903, 30 Sept. 1903, 8 Dec. 1903, 16 Dec. 1903, 5 Dec. 1904 (to P.M. Simms). F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Briesen, Arthur V. (1)</unittitle>
-            <unitdate>20 Nov. 1911. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Bromwell, Annie G. (1)</unittitle>
-            <unitdate>22 March 1911. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Brown, Charles L. (1)</unittitle>
-            <unitdate>18 Feb. 1899. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Burch, Robert L. (2)</unittitle>
-            <unitdate>8 Feb. 1899, 4 March 1999. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Burick (?), R. K. (1)</unittitle>
-            <unitdate>15 Oct. 1911. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Butler, George P. (1)</unittitle>
-            <unitdate>14 Jan. 1910. F 3.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Chappell, F. W. (1)</unittitle>
-            <unitdate>29 Nov. 1904 (to P. M. Simms). F 4.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Clary, John T. (2)</unittitle>
-            <unitdate>12 March 1904, 17 Dec. 1904. F 4.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Cole, Louise H. (1)</unittitle>
-            <unitdate>15 Feb. 1907. F 4.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Collier, F. S. (1)</unittitle>
-            <unitdate>19 Feb. 1912. F 4.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Corson, H. H. (1)</unittitle>
-            <unitdate>14 Feb. 1899. F 4.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Dawson, L. (1)</unittitle>
-            <unitdate>26 Aug. 1914. F 5.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>di Beuedetto, L. (2)</unittitle>
-            <unitdate>17 July 1912, May 1913 (to A. A. Mason). F 5.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Dye, J.S. (6)</unittitle>
-            <unitdate>27 Jan. 1904, 2 Feb. 1904, 8 July 1904, n.d., n.d., n.d., F 5.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Edmonds, Richard H. (2)</unittitle>
-            <unitdate>30 June 1911, 9 Nov. 1911. F 5.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ellis, A Caswell (1)</unittitle>
-            <unitdate>19 May 1904 (to P. M. Simms) F 5.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Fuller, Addie I. (1)</unittitle>
-            <unitdate>29 May 1911. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Gaunt, R. W. (3)</unittitle>
-            <unitdate>20 April 1904, 24 May 1904, 10 Dec. 1904. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Gordon, J. R. (1)</unittitle>
-            <unitdate>16 Feb. 1899. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Gudeman, Edward (1)</unittitle>
-            <unitdate>18 Nov. 1911. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Hamilton, E. J. (1)</unittitle>
-            <unitdate>25 May 1904. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Handly, Avery (1)</unittitle>
-            <unitdate>19 May 1904. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Hanovia Chemical &#38; Mfg. Co. (F. W. Robinson) (1)</unittitle>
-            <unitdate>25 Aug. 1914 F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Head, Charles R. (2)</unittitle>
-            <unitdate>30 Sept. 1903, 19 Nov. 1904. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Head, J. Allen (4)</unittitle>
-            <unitdate>16 Dec. 1903, 3 Sept. 1904, 11 Dec. 1904 (to P. M. Simms), 15 Dec. 1904. F 6.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Head, John W. (12)</unittitle>
-            <unitdate>21 March 1903, 30 Sept 1903, 11 May 1904, 16 May 1904, 18 May 1904, F 6. 12 July 1904, 14 July 1904, 26 August 1904, 6 Sept. 1904, 15 Sept. 1904, 12 Dec. 1904, 14 Dec. 1904. F 7.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Heisman, J. W. (1)</unittitle>
-            <unitdate>29 Dec. 1909. F 7.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Holmes, Edward T. (1)</unittitle>
-            <unitdate>17 Jan. 1905. F 7.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>James, W. A. (1)</unittitle>
-            <unitdate>31 August 1904 (to W. D. Mooney). F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Johnson, Laurence I. (1)</unittitle>
-            <unitdate>23 Dec. 1911 (to Phi Lambda Delta Alumni). F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Jones, Richard (1)</unittitle>
-            <unitdate>17 June 1904. F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Jordan, David Starr (1)</unittitle>
-            <unitdate>3 Dec. 1909 (to Charles R. Van Hise) F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Kerr, Thomas B. (1)</unittitle>
-            <unitdate>18 Nov. 1911. F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Lake, D. (1)</unittitle>
-            <unitdate>19 June --. F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Laudis, W. S. (1)</unittitle>
-            <unitdate>30 Aug. 1911. F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Legate, Ray H. (1)</unittitle>
-            <unitdate>9 June 1911. F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Leggett, Albert E. (1)</unittitle>
-            <unitdate>8 July 1911 (to S. H. Sheib). F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Lewis, L. H. (2)</unittitle>
-            <unitdate>8 Sept. 1904, 1 Dec. 1904. F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Little, A. D. (1)</unittitle>
-            <unitdate>5 Dec. 1911. F 8.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>MacMillan Company (1)</unittitle>
-            <unitdate>8 Nov. 1911. F 9.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Maddin, Percy D. (1)</unittitle>
-            <unitdate>24 Nov. 1911. F 9.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Malone, Battle (1)</unittitle>
-            <unitdate>4 Nov. 1911. F 9.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Manufacturers Record (4)</unittitle>
-            <unitdate>15 June 1911, 11 Nov. 1911, 23 Nov. 1911, 22 Dec. 1911. F 9.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Marr, Harrington (1)</unittitle>
-            <unitdate>n.d. F 9.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Mather, Stephen T. (1)</unittitle>
-            <unitdate>6 Nov. 1911. F 9.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Mason, A. A. (1)</unittitle>
-            <unitdate>20 May 1912. F 9.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>McCabe, W. M. (1)</unittitle>
-            <unitdate>14 Sept. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>McClain, Anne B. (1)</unittitle>
-            <unitdate>28 Nov.1904. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>McClain, J. Scott (1)</unittitle>
-            <unitdate>12 Oct. 1904. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>McCormack, S. T. (1)</unittitle>
-            <unitdate>22 Nov. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>McDermott, E. J. (2)</unittitle>
-            <unitdate>21 Aug. 1911, 18 Nov. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>McGovney, D. O. (1)</unittitle>
-            <unitdate>20 May 1912. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Mc-Graw-Hill Book Co. (1)</unittitle>
-            <unitdate>21 Aug. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>McGugin, Dan E. (2)</unittitle>
-            <unitdate>13 Jan. 1910, 4 Sept. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Meadow, T. C. (1)</unittitle>
-            <unitdate>10 Aug. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Mell, A. W. (1)</unittitle>
-            <unitdate>15 Aug. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>(Miller), Dudley B. (1)</unittitle>
-            <unitdate>20 Dec. 1911. F 10.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>(Monroe), J. Blanc (1)</unittitle>
-            <unitdate>n.d. F 11.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Mooney, W. D. (10)</unittitle>
-            <unitdate>5 Sept. 1903, 7 Sept. 1903, 9 Sept. 1903, 1 Oct. 1903, 4 Oct. 1903, 5 Oct. 1903 (to Ashby Wilkins), 8 Oct. 1903, 1 Sept. 1904, 14 Sept. 1904. F 11.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Moore, Edward S. (1)</unittitle>
-            <unitdate>14 June 1911. F 11.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Moore, Margaret S. (1)</unittitle>
-            <unitdate>9 Oct. 1911. F 11.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Moore, Rupert E. (1)</unittitle>
-            <unitdate>28 Sept. 1911. F 11.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Morgan, Henry W. (1)</unittitle>
-            <unitdate>6 Dec. 1911. F 11.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Muckenfuss, A. M. (2)</unittitle>
-            <unitdate>21 June 1911, 1 July 1911. F 11.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>National Carbon Company (1)</unittitle>
-            <unitdate>18 Dec. 1911. F 12.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Neiman, Howard S. (2)</unittitle>
-            <unitdate>24 April 1911, 10 July 1911. F 12.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Newman, Willie Betty (1)</unittitle>
-            <unitdate>16 Feb. --. F 12.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Nichols, William (1)</unittitle>
-            <unitdate>12 Dec. 1911 (to Charles E Munroe). F 12.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Nicolson, Frank W. (1)</unittitle>
-            <unitdate>21 Dec. 1911. F 12.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Norton Company (4)</unittitle>
-            <unitdate>3 June 1911, 19 June 1911, 6 July 1911, 28 July 1911. F 12.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Norvell, W. E. Jr. (7)</unittitle>
-            <unitdate>5 Jan. 1911, 17 March 1911, 22 March 1911, 11 May 1911, 26 Oct. 1911, 22 Nov. 1911, 5 Dec. 1911. F 12.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ober, Birch R. (1)</unittitle>
-            <unitdate>5 Sept. 1911. F 13.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Odell, (?) Allan F. (4)</unittitle>
-            <unitdate>12 Jan. 1911, 2 May 1911, 8 May 1911, 30 May 1911. F 13.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Oden, L. H. (1)</unittitle>
-            <unitdate>14 Sept. 1911. F 13.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Palmour, Oscar (1)</unittitle>
-            <unitdate>6 June 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Parkinson, Robert H. (3)</unittitle>
-            <unitdate>24 April 1911, 27 April 1911, 18 Nov. 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Parson, Charles L. (8)</unittitle>
-            <unitdate>4 Jan. 1911, 11 Jan. 1911, 12 Jan. 1911, 18 Jan. 1911, 21 Feb. 1911, 8 April 1911, 21 Aug. 1911, 5 Sept. 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Peirce, James H. (1)</unittitle>
-            <unitdate>25 April 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Pennie, John C. (3)</unittitle>
-            <unitdate>23 Feb. 1911, 22 April 1911, 4 May 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Peoples, James A. (2)</unittitle>
-            <unitdate>14 Dec. 1911, 17 March 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Pierce, Palmer E. (1)</unittitle>
-            <unitdate>29 Jan. 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Poe, Floyd (1)</unittitle>
-            <unitdate>7 Dec. 1904. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Polk, Newton N. (2)</unittitle>
-            <unitdate>5 May 1911, 25 May 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Potts, Robert J. (1)</unittitle>
-            <unitdate>28 Dec. 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Power, Frederick B. (1)</unittitle>
-            <unitdate>13 May 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Priest, Charles (3)</unittitle>
-            <unitdate>20 March 1911, 24 April 1911, 28 April 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Primos Chemical Co. (1)</unittitle>
-            <unitdate>18 May 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Prothro (?), Andrew (1)</unittitle>
-            <unitdate>20 Jan. 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Purdue, A. H. (1)</unittitle>
-            <unitdate>22 Nov. 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Queneau, A. L. (2)</unittitle>
-            <unitdate>8 May 1911, 22 Nov. 1911. F 14.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Raff, Arthur (2)</unittitle>
-            <unitdate>13 Jan. 1911, 15 Feb. 1911. F 15.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ramage, Carrie (1)</unittitle>
-            <unitdate>23 Feb. 1911. F 15.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Randle, William N. (2)</unittitle>
-            <unitdate>17 Jan. 1911, 24 April 1911. F 15.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Rankin, -- (1)</unittitle>
-            <unitdate>1 Feb. 1911. F 15.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Rankin, B. Kirk (3)</unittitle>
-            <unitdate>23 Feb. 1911, 3 April 1911, 7 Sept 1911. F 15</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Resse, Charles L. (4)</unittitle>
-            <unitdate>27 April 1911, 29 May 1911, 20 Nov. 1911, 26 Dec. 1911. F 15.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Rice, G. E. (4)</unittitle>
-            <unitdate>3 April 1911, 17 April 1911, 26 April 1911, 1 May 1911. F 16.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Rice, L. L. (8)</unittitle>
-            <unitdate>10 Sept. 1903, 25 Sept. 1903, 30 Sept. 1903, 2 Oct. 1903, 23 April 1904, 2 May 1904, 2 may 1904, 21 May 1904, 8 Dec. 1904. F 16.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Richards, Joseph W. (2)</unittitle>
-            <unitdate>21 Feb. 1911, 22 April 1911. F 16.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Richardson, Clifford (3)</unittitle>
-            <unitdate>22 April 1911, 20 Nov. 1911, 28 Nov. 1911. F 16.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ricks, Williams B. (2)</unittitle>
-            <unitdate>10 July 1911, 18 Aug. 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Riggs, W. M. (2)</unittitle>
-            <unitdate>3 Nov. 1904, 19 June 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Rohren, A. L. (1)</unittitle>
-            <unitdate>20 March 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Roessler &#38; Hasslacher Chem. Co. (5)</unittitle>
-            <unitdate>19 June 1911, 26 June 1911, 7 July 1911, 13 Nov. 1911, 12 June 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Rose, Ella M. (1)</unittitle>
-            <unitdate>22 Sept. 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ross, B. B. (1)</unittitle>
-            <unitdate>18 Dec. 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Ruhm, H. D. (3)</unittitle>
-            <unitdate>20 Feb. 1911, 7 March 1911, 9 Dec. 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Rutherford, G. S. (2)</unittitle>
-            <unitdate>12 Oct. 1911, 18 Oct. 1911. F 17.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Schuerman, -- (2)</unittitle>
-            <unitdate>3 July 1911, 4 Aug. 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Schwartz, H. A. (2)</unittitle>
-            <unitdate>14 Jan. 1911, 26 Jan. 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Scientific Materials Co. (4)</unittitle>
-            <unitdate>26 May 1911, 30 June 1911, 27 Sept. 1911, 3 Oct. 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Seay, Eds. (1)</unittitle>
-            <unitdate>13 June 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Shannon, E. S. (2)</unittitle>
-            <unitdate>10 Oct. 1911, 13 Oct. 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Shatton, S. W. (1)</unittitle>
-            <unitdate>21 Feb. 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Sheffield Casting &#38; Manufacturing Co. (1)</unittitle>
-            <unitdate>13 May 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Sheib, -- (2)</unittitle>
-            <unitdate>-- 16 June 1911, 17 July 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Sheppard, W. G. (1)</unittitle>
-            <unitdate>27 May 1911. F 18.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Sherwin, C. P. (2)</unittitle>
-            <unitdate>9 Feb. 1911, 26 Feb. 19.. F19.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Shwab, George A. (1)</unittitle>
-            <unitdate>19 June 1911. F 19.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Simms, P. M. (12)</unittitle>
-            <unitdate>20 Nov. 1903, 3 Dec. 1903, 14 May 1904, 13 June 1904, 28 Nov. 1904 (to Frank Chappel)</unitdate><unitdate>1 Dec. 1904 (to --- Wiggins), 13 Dec. 1904, 13 Dec 1904 (to percy Whiting), 16 Dec. 1904, 28 Dec. 1904 (to Thomas D. Boyd), 31 Dec. 1904 (to Thomas D.
-              Boyd) 10 Jan. 1905 (to Thomas D. Boyd)</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Sioussat, St. George L. (10)</unittitle>
-            <unitdate>3 Jan. 1911, 12 Jan. 1911, 18 Jan. 1911, 5 April 1911, 2 May 1911, 9 May 1911, 22 May 1911, 27 May 1911, 5 June 1911, 12 June 1911. F 20.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Slaughter, B. G. Jr. (2)</unittitle>
-            <unitdate>6 Feb. 1904, 22 July 1904. F 20.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Smiser, M. B. (3)</unittitle>
-            <unitdate>21 Aug 1903, 30 Sept. 1903, 14 Oct. 1903. F 20.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Smith, Alexander (2)</unittitle>
-            <unitdate>13 Feb. 1911, 4 March 1911. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Smith, G. McP. (1)</unittitle>
-            <unitdate>15 July 1911. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Smith, Paul D. (1)</unittitle>
-            <unitdate>27 March 1911. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Smith, R. K. (1)</unittitle>
-            <unitdate>4 June 1911. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Smith, Richard (1)</unittitle>
-            <unitdate>29 May --. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Synder, J. H. (1)</unittitle>
-            <unitdate>30 March 1904. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Spain, Frank Edward (1)</unittitle>
-            <unitdate>18 Jan. 1910. F21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Spencer, C. M. (1)</unittitle>
-            <unitdate>21 Aug. 1903. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Sportlover (1)</unittitle>
-            <unitdate>9 Dec. 1903 (to B. L. Wiggins). F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Springer, Alfred (6)</unittitle>
-            <unitdate>18 Feb. 1911, 7 March 1911, 15 April 1911, 20 Nov. 1911, 6 Dec. 1911, 19 Dec. 1911. F 21.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Stauffer, Nathan P. (1)</unittitle>
-            <unitdate>11 Jan. 1911. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Staughton, Bradley (1)</unittitle>
-            <unitdate>17 Aug. 1914. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Stechert, G. E. &#38; Co. (3)</unittitle>
-            <unitdate>27 Aug. 1912, 20 Sept. 1912, 2 Aug. 1913, F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Stone, George C. (2)</unittitle>
-            <unitdate>8 Nov. 1911, 21 Dec. 1911. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Stone, J. N. (1)</unittitle>
-            <unitdate>17 Dec. 1904. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Stokes, Jordan &#38; James Whitworth (1)</unittitle>
-            <unitdate>12 Dec. 1911. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Stub, D. W. (1)</unittitle>
-            <unitdate>11 Aug. 1911. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Stubblefield, D. R. (1)</unittitle>
-            <unitdate>30 Jan. 1911. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Sullivan, James E. (1)</unittitle>
-            <unitdate>20 July 1911. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Swenson Evaporator Co. (2)</unittitle>
-            <unitdate>1 Aug. 1911, 31 Oct. 1911. F 22.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Takamine, Jokichi (2)</unittitle>
-            <unitdate>24 April 1911, 23 Dec. 1911. F 23.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Tabbot, Charles Homer (1)</unittitle>
-            <unitdate>9 Nov. 1911. F 23.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Tassin, Wirt (1)</unittitle>
-            <unitdate>20 Dec. 1911. F 23.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Thompson, Edward (2)</unittitle>
-            <unitdate>8 March 1911, 19 March 1911. F 23.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Trabue, Charles C. (3)</unittitle>
-            <unitdate>22 April 1911, 6 Dec. 1911, 20 Dec. 1911. F 23.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Trimpe, William A. (7)</unittitle>
-            <unitdate>18 Feb. 1911 (to William E. Norvell, Jr.), 8 March 1911, 15 March 1911, 20 July 1911, 31 July 1911, 10 Nov. 1911, 18 Dec. 1911. F 23.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Turne (?), John Pichen (2)</unittitle>
-            <unitdate>11 Sept. 1911, 16 Sept. 1911. F 23.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wait, Charles E. (2)</unittitle>
-            <unitdate>17 April 1904, 29 April 1904. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Walker, Bradley (2)</unittitle>
-            <unitdate>3 Oct. 1903, 4 Oct 1903. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Walter, H. C. (6)</unittitle>
-            <unitdate>9 Feb. 1911, 13 March 1911, 18 April 1911, 16 May 1911, 18 May 1911, 19 Aug. 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wallace, R. James (1)</unittitle>
-            <unitdate>11 Jan. 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wannamaker, Olin D. (1)</unittitle>
-            <unitdate>4 Jan. 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Warner, Percy (1)</unittitle>
-            <unitdate>10 Feb. 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Washburn, Frank S. (1)</unittitle>
-            <unitdate>25 April 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Webb, James A. &#38; Son (1)</unittitle>
-            <unitdate>10 June 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wellman, Creighton (1)</unittitle>
-            <unitdate>1 Feb. 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>West, S. Nick (2)</unittitle>
-            <unitdate>16 June 1911, 31 July 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>White, E. D. (2)</unittitle>
-            <unitdate>15 Feb. 1911, 6 Dec. 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>White, S. S., Dental Mfg. Co. (1)</unittitle>
-            <unitdate>16 Jan. 1911. F 24.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Whiting, Percy H.</unittitle>
-            <unitdate>15 Dec. 1904, 15 Dec. 1904 (to P. M. Simms). F 25.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Whitney, Casper (1)</unittitle>
-            <unitdate>11 Jan. 1904. F 25.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Whitney, W. R. (2)</unittitle>
-            <unitdate>8 April 1911, 18 Oct. 1911. F 25.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wiggins, B. L. (5)</unittitle>
-            <unitdate>7 Oct. 1903, 26 April 1904, 21 May 1904, 3 Dec. 1904 (to P. M. Simms), 21 March 1905. F 25.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wiley, Harvey W. (2)</unittitle>
-            <unitdate>21 Jan. 1911, n.d. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wilkins, Ashby (4)</unittitle>
-            <unitdate>12 Sept. 1903, 26 Sept. 1903, 1 Oct. 1903, 18 Oct. 1903. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Williams, Adele &#38; George (1)</unittitle>
-            <unitdate>28 June 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Williams, Henry Bo (1)</unittitle>
-            <unitdate>1 Aug. 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wilson, Willie R. (1)</unittitle>
-            <unitdate>21 Jan. 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Winton, W. F. (1)</unittitle>
-            <unitdate>2 Sept. 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Witt, -- (1)</unittitle>
-            <unitdate>30 June 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Woldenberg &#38; Schaar (2)</unittitle>
-            <unitdate>20 April 1911, 27 April 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wood, Hilliard (1)</unittitle>
-            <unitdate>1 Aug. 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Woodrow, M. F. (1)</unittitle>
-            <unitdate>20 Feb. 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Wyeth, George A. (1)</unittitle>
-            <unitdate>25 Oct. 1911. F 26.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Yoe, John H. (1)</unittitle>
-            <unitdate>15 May 1963 (to David Kaser) F 27.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Young, B. E. (3)</unittitle>
-            <unitdate>30 June 1911, 1 July 1911, 3 July 1911. F 27.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>Young, J. W., Jr. (1)</unittitle>
-            <unitdate>6 Sept. 1911. F 27.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>illegible - 13</unittitle>
-            <unitdate>Oct. 1903, 22 March 1904, 2 Feb. 1911, 24 July 1911, 9 Oct. 1911. F 28.</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>incomplete or no signature -</unittitle>
-            <unitdate>14 Jan. 1911 ( to A. G. Smith), 20 July 1911 (from Harry), 4 Aug. --. F 28.</unitdate>
-          </did>
-        </c02>
-      </c01>
-      <c01 level="subseries">
-        <did>
-          <unittitle>Outgoing Correspondence</unittitle>
-        </did>
-        <c02 level="item">
-          <did>
-            <unittitle>There are twenty-four letters covering a period from 1899 to 1912.</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unittitle>All can be found in folder one.</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>8 Aug., 1899</unitdate>
-            <unittitle>R. H. Dudley</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>10 Sept., 1903</unitdate>
-            <unittitle>L. L. Rice</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>10 Sept., 1903</unitdate>
-            <unittitle>Ashby Wilkins</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>14 Sept., 1903</unitdate>
-            <unittitle>Ashby Wilkins</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>20 Sept., 1903</unitdate>
-            <unittitle>Ashby Wilkins</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>28 Sept., 1903</unitdate>
-            <unittitle>Charles R. Head</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>28 Sept., 1903</unitdate>
-            <unittitle>John W. Head</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>28 Sept., 1903</unitdate>
-            <unittitle>L. L. Rice</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>28 Sept., 1903</unitdate>
-            <unittitle>Ashby Wilkins</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>2 Oct., 1903</unitdate>
-            <unittitle>L. L. Rice</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>13 Oct., 1903</unitdate>
-            <unittitle>Ashby Wilkins</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>29 Oct., 1903</unitdate>
-            <unittitle>L. L. Rice</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>28 Nov., 1903</unitdate>
-            <unittitle>P. M. Simms</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>7 Dec., 1903</unitdate>
-            <unittitle>P.M. Simms</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>11 Dec., 1903</unitdate>
-            <unittitle>M. O. Bridges</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>19 March, 1904</unitdate>
-            <unittitle>Ed. Davis</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>18 April, 1904</unitdate>
-            <unittitle>Executive Committee S. I. A. A.</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>25 April, 1904</unitdate>
-            <unittitle>Executive Committee S. I. A. A.</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>30 April, 1904</unitdate>
-            <unittitle>L. L. Rice</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>? April? 1904</unitdate>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>13 May, 1904</unitdate>
-            <unittitle>Bondurant</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>1 Sept., 1904</unitdate>
-            <unittitle>John W. Head</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>26 Sept., 1904</unitdate>
-            <unittitle>Executive Committee S. I. A. A.</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>17 Dec., 1904</unitdate>
-            <unittitle>John Head</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>26 July, 1909</unitdate>
-            <unittitle>Frank S. Washburn</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>27 July, 1909</unitdate>
-            <unittitle>Frank S. Washburn</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>8 Sept., 1911</unitdate>
-            <unittitle>B. K. Rankin</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>17 Oct., 1911</unitdate>
-            <unittitle>C. F. Anderson</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>17 Oct., 1911</unitdate>
-            <unittitle>Harrington Marr</unittitle>
-          </did>
-        </c02>
-        <c02 level="item">
-          <did>
-            <unitdate>22 May, 1912</unitdate>
-            <unittitle>A.A. Mason</unittitle>
-          </did>
-        </c02>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Action of Fused Sodium Dioxide on Metals -</unittitle>
-          <physdesc>
-            <extent>3 copies. F 48.</extent>
-          </physdesc>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Action of Gaseous Hydrochloric Acid and Oxygen on the Platinum Metals - 4 copies. F 48.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Action of Water on Lead Pipe. F 48.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Address. F 48.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Athletic Control in School and College - 11 copies. F 48.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Atomic Weight of Tellurium; and Critique of the Basic Nitrate Method of Determination. F 49.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>A Chart for the Chemical Examination of Urine. 4 copies. F 49.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Chemists' Club. F 49.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Colors and Absorption-Spectra of Thin Metallic Films and of Incandescent Vapors of the Metals; With Some Oberservations of Electrical Volatility. F 49.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>A Curious Occurrence of Vivianite. F 49.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Detection of Arsenic in Animal Tissues. 2 copies. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Effect of Coal Gas on the Corrosion of Wrought Iron Pipe, Buried in the Earth. 3 Copies. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Electro-Deposition of Iridium; A Method of Maintaining the Uniform Composition of an Electroplating Bath Without the Use of an Anode. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Filtration of Alcoholic Liquids through Wood Charcoal. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Holland's Process of Melting Iridium. 2 copies. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Iridium - 2 copies. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Iridium Industry. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Laboratory Notes. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>A Lecture Table Down Draft. 2 copies. F 50.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Luminosity of Comets. F 51.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Neon and Electric Waves. 23 Copies. F 51.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Nickels - Kickelic Hydrate, Ni3O4. 2 H2O. 2 copies F 51.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>A Note on the Production of Catharsis by Means of Hypodermatic Medication. 2 copies. F 52.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Notes on the Toese Method for the Determination of Fusel Oil, and a Compariosn of the Results by the Allen-Marquardt Method. F52.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Pierce Process for the Production of Charcoal, Wood Alcohol, and Acetic Acid. F 52.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Poisonous Effects of Cigarett-Smoking. F 52.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>A Process for the Removal of the Lint from Cotton Seed. F 52.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Proper Control of Athletics. 3 copies. F 52.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Relationship of the Heat of Vaporization of Gases to Their Density and Also to Their Boiling-Point. 2 copies. F 53.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Report of the Committee on Chemistry Teaching. F 53.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Some Modifications of the Methods of Organic Analysis by Combustion. 3 copies. F 53.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Spark Arrester. 8 copies. F 53.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Special Report of Jurors on the Systems of Electric Lighting. F 54.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>A Spectographic Study of Tellurium. F 54.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Water Crystallization. F 54.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Aluminum F 29.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Analysis of Tridismine? F 29.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Architecture of the Renaissance. F 29.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Bimetablisms. F 29.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Brief Biography of John Adams. F 29.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Chemical Action. F 29.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Commercial Importance of Scientific Research. F 30.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Darwin and His Influence. F 30.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Discovery of America. F 30.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Discovery of the Elements. F 30.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Determination of Phosphorus in Iron. F 30.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Dyeing. F 30.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Electricity. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Elementary Inorganic Chemistry. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Evolution. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Explosives. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Flame. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Gold. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Great Epidemics. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Gunpowder. F 31.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>History of Progress in Steel-Making. F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>How to Observe. F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Inorganic Chemistry at Watkins Institue. F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Lincoln, Abraham F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Low Temperatures by Artificial Means. F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Medical Education in the U. S. F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Mob Law. F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Nicaragua Canal. F 32.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Pasteur, Louis F 33.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Poe, Ed. F 33.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Progress of Science in the 19th Century. F 33.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Refrigeration. F 33.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Relation of Chemistry to Pharmacy. F 33.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Relation of Science to Religion. F 33.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Relations of Vol. of Vapor to Vol. of Liquid or Latent Heat. F 33.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Scientific Research. F 34.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Theory of Dissolution. F 34.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Toxicology. F 34.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>Ventilation. F 35.</unittitle>
-        </did>
-      </c01>
-      <c01 level="item">
-        <did>
-          <unittitle>The Water We Drink. F 35.</unittitle>
+          <unittitle>A 1934 map of Vanderbilt, was separated from this collection, whereabouts now unknown</unittitle>
         </did>
       </c01>
     </dsc>
