@@ -17,6 +17,10 @@ This collection is currently in the middle of processing. This finding aid was p
 ## MitchellCharles (MSS.0293)
 
 ## RiceGrantland (MSS.0364)
+Gives an error of
+```
+Error: #&lt;Sequel::DatabaseError: Java::ComMysqlJdbc::MysqlDataTruncation: Data truncation: Data too long for column &#39;value&#39; at row 1&gt;
+```
 
 ## SilbermanLou (MSS.0392)
 
