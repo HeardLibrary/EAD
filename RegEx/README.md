@@ -132,3 +132,24 @@ Replace:
 ```
 "$1-0$2/$3" | "$1-0$2/$3-0$4"
 ```
+
+### Formula to remove tables from Dresslar (MSS.0120) Collections
+Convert table1 to <c0#>
+Find:
+```
+<row>\s*<entry colname="1">(.*)</entry>\s*<entry colname="2">(.*)</entry>\s*<entry colname="3">(.*)</entry>\s*<entry colname="4">(.*)</entry>\s*<entry colname="5">(.*)</entry>\s*<entry colname="6">(.*)</entry>\s*<entry colname="7">(.*)</entry>\s*</row>
+```
+Replace:
+```
+<c02 level="item"><did><unittitle>$1, by $3 ($4)</unittitle><unitdate>$2</unitdate><container type="box">$5</container><container type="folder">$6</container><note><p>$7</p></note></did></c02>
+```
+
+Convert Outgoing Correspondence table to <c02>
+Find:
+```
+<row>\s*<entry colname="1">(.*)</entry>\s*<entry colname="2">(.*)</entry>\s*<entry colname="3">(.*)</entry>\s*</row>
+```
+Replace:
+```
+<c02 level="item"><did><unittitle>$1</unittitle><unitdate>$2</unitdate><container type="box">$3</container></did></c02>
+```
