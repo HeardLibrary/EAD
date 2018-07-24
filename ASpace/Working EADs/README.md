@@ -1,8 +1,6 @@
 # Working EAD Documents
 This document details the EAD finding aids that are unable to be imported into ArchivesSpace in their current form. Where available, it also contains the issues that each individual xml doc has and what steps need to be taken to repair. As documents are repaired, they will be removed from this list and added to the Finalized EAD folder.
 
-## DresslarFletcher (MSS.0120)
-
 ## FinneyClaude (MSS.0140)
 
 ## KampmeierRudolph (MSS.0235)
