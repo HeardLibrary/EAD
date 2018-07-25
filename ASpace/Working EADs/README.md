@@ -19,8 +19,6 @@ Error: #&lt;Sequel::DatabaseError: Java::ComMysqlJdbc::MysqlDataTruncation: Data
 
 ## SilbermanLou (MSS.0392)
 
-## StevensonAlecBrock (MSS.0418)
-
 ## VannElizabeth (MSS.0476)
 
 ## WillsJesse (MSS.0001)
