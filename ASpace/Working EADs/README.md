@@ -18,6 +18,7 @@ Error: #&lt;Sequel::DatabaseError: Java::ComMysqlJdbc::MysqlDataTruncation: Data
 ```
 
 ## SilbermanLou (MSS.0392)
+This collection is broken into a subject table, article table, and correspondence index. It will need some regexes performed on it but can then be easily added to the existing ArchivesSpace record.
 
 ## VannElizabeth (MSS.0476)
 
