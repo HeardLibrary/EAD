@@ -8,6 +8,7 @@ There is already another Claude Finney collection in ArchivesSpace (MSS.0139). T
 This collection is currently in the middle of processing. This finding aid was produced from an early 2017 version of the inventory, but it is still unclear if this is the current structure. Work has been paused on this project until the status can be determined, or until the collection is fully processed.
 
 ## MitchellCharles (MSS.0293)
+The items in this collection are nested in tabled instead of <c02> elements as required. Reformatting will require extracting the information from the tables and manually moving it under the appropriate <c01> tags. These <c01> tags are mostly comprised of dates and container info, so there may be some potential for extracting this information, placing it with the items in the <c02> tags, and moving all <c02> components to <c01> components.
 
 ## RiceGrantland (MSS.0364)
 Gives an error of
