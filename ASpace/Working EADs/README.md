@@ -7,8 +7,6 @@ There is already another Claude Finney collection in ArchivesSpace (MSS.0139). T
 ## LawsonJames (MSS.0626)
 This collection is currently in the middle of processing. This finding aid was produced from an early 2017 version of the inventory, but it is still unclear if this is the current structure. Work has been paused on this project until the status can be determined, or until the collection is fully processed.
 
-## MimsEdwin (MSS.0292)
-
 ## MitchellCharles (MSS.0293)
 
 ## RiceGrantland (MSS.0364)
