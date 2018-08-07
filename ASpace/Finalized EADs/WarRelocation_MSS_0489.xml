@@ -4,8 +4,8 @@
     <eadid countrycode="US"></eadid>
     <filedesc>
       <titlestmt>
-        <titleproper type="filing">War Relocation Authority Central Utah Project Topaz, Utah</titleproper>
-        <titleproper>Finding Aid for the War Relocation Authority Central Utah Project Topaz, Utah</titleproper>
+        <titleproper type="filing">War Relocation Authority - Central Utah Project - Topaz, Utah Collection</titleproper>
+        <titleproper>Finding Aid for the War Relocation Authority - Central Utah Project - Topaz, Utah Collection</titleproper>
         <author></author>
       </titlestmt>
       <publicationstmt>
@@ -31,100 +31,95 @@
       <repository>
         <corpname>Special Collections Manuscripts and Rare Books</corpname>
       </repository>
-      <unittitle>War Relocation Authority Central Utah Project Topaz, Utah</unittitle>
+      <unittitle>War Relocation Authority - Central Utah Project - Topaz, Utah Collection</unittitle>
       <unitid>MSS.0489</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">.42 linear_feet</extent>
       </physdesc>
-      <unitdate>1942-1945</unitdate>
+      <unitdate normal="1942/1945" type="inclusive"></unitdate>
     </did>
     <dsc type="othertype">
       <c01 level="series">
         <did>
+          <container type="box">1</container>
           <unittitle>Brochures and/or Pamphlets</unittitle>
         </did>
         <c02 level="item">
           <did>
-            <unittitle>&#8216;Born Free and Equal&#8217; by Ansel Adams</unittitle>
-            <unitdate>1944</unitdate>
+            <container type="box">1</container>
+            <unittitle>"Born Free and Equal" by Ansel Adams</unittitle>
+            <unitdate normal="1944"></unitdate>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <unittitle>&#8216;The Displaced Japanese-Americans&#8217; by American Council on Public Affairs</unittitle>
-            <unitdate>1944</unitdate>
+            <container type="box">1</container>
+            <unittitle>"The Displaced Japanese-Americans" by American Council on Public Affairs</unittitle>
+            <unitdate normal="1944"></unitdate>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <unittitle>&#8216;NISEI in Uniform&#8217; by Department of Interior</unittitle>
-            <unitdate>1943</unitdate>
+            <container type="box">1</container>
+            <unittitle>"NISEI in Uniform" by Department of Interior</unittitle>
+            <unitdate normal="1943"></unitdate>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <unittitle>&#8216;Outcasts!&#8217; by Caleb Foote</unittitle>
-            <unitdate>1943</unitdate>
+            <container type="box">1</container>
+            <unittitle>"Outcasts!" by Caleb Foote</unittitle>
+            <unitdate normal="1943"></unitdate>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <unittitle>&#8216;What About our Japanese-Americans?&#8217; by Carey McWilliams</unittitle>
-            <unitdate>1944</unitdate>
+            <container type="box">1</container>
+            <unittitle>"What About our Japanese-Americans?" by Carey McWilliams</unittitle>
+            <unitdate normal="1944"></unitdate>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <unittitle>&#8216;Without a Country?&#8217; by Women&#8217;s International League for Peace and Freedom</unittitle>
+            <container type="box">1</container>
+            <unittitle>"Without a Country?" by Women"s International League for Peace and Freedom</unittitle>
           </did>
         </c02>
       </c01>
-    </dsc>
-    <dsc type="othertype">
-      <c01 level="series">
+      <c01 level="item">
         <did>
-          <unittitle>Magazine</unittitle>
-        </did>
-        <c02 level="item">
-          <did>
-            <unittitle>TREK</unittitle>
-            <unitdate>June 1943</unitdate>
-          </did>
-        </c02>
-      </c01>
-    </dsc>
-    <dsc type="othertype">
-      <c01 level="series">
-        <did>
-          <unittitle>Magazine Article</unittitle>
-        </did>
-        <c02 level="item">
-          <did>
-            <unittitle>Developing World Citizens in a Japanese Relocation Center by Wanda Robertson, Childhood Education</unittitle>
-            <unitdate>October 1943</unitdate>
-          </did>
-        </c02>
-      </c01>
-    </dsc>
-    <dsc type="othertype">
-      <c01 level="series">
-        <did>
-          <unittitle>Prints &#8211; 5</unittitle>
+          <container type="box">1</container>
+          <unittitle>Magazine - TREK</unittitle>
+          <unitdate normal="1943-06">June 1943</unitdate>
         </did>
       </c01>
-    </dsc>
-    <dsc type="othertype">
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Magazine Article - "Developing World Citizens in a Japanese Relocation Center" by Wanda Robertson, Childhood Education</unittitle>
+          <unitdate normal="1943-10">October 1943</unitdate>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <container type="box">1</container>
+          <unittitle>Prints (5)</unittitle>
+        </did>
+      </c01>
       <c01 level="series">
         <did>
+          <container type="box">1</container>
           <unittitle>Promotional Literature</unittitle>
         </did>
         <c02 level="item">
           <did>
+            <container type="box">1</container>
             <unittitle>Education in the Central Utah War Relocation Project</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
+            <container type="box">1</container>
             <unittitle>Welcome to Topaz</unittitle>
           </did>
         </c02>
