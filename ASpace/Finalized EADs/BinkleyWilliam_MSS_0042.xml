@@ -36,52 +36,192 @@
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">17.64 linear_feet</extent>
       </physdesc>
-      <unitdate>undated</unitdate>
+      <unitdate>1920-1970</unitdate>
     </did>
     <dsc type="othertype">
-      <c01 level="item">
+      <c01 level="series">
         <did>
-          <container type="box">1-9</container>
-          <unittitle>Outgoing correspondence. Approximately 6,750 items, mostly carbon copies, dating from 1920 to 1970. Arranged chronologically.</unittitle>
+          <unittitle>Outgoing correspondence</unittitle>
+          <note>
+            <p>Approximately 6,750 items, mostly carbon copies, dating from 1920 to 1970. Arranged chronologically.</p>
+          </note>
         </did>
-        <odd>
-          <list type="simple">
-            <item>Box 1: 1920 -- 1935 (1-35)</item>
-            <item>Box 2: 1936 -- Oct. 1938 (1-34)</item>
-            <item>Box 3: Nov. 1938 -- 1941 (1-32)</item>
-            <item>Box 4: 1942 -- June 1944 (1-31)</item>
-            <item>Box 5: July 1944 -- Mar. 1946 (1-30)</item>
-            <item>Box 6: Apr. 1946 -- June 1948 (1-29)</item>
-            <item>Box 7: July 1948 -- May 1952 (1-32)</item>
-            <item>Box 8: June 1952 -- May 1957 (1-30)</item>
-            <item>Box 9: June 1957 -- Feb. 1970 (1-30)</item>
-          </list>
-        </odd>
+        <c02 level="subseries">
+          <did>
+            <unitdate>1920 - 1935</unitdate>
+            <container type="box">1</container>
+            <container type="folder">1-35</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>1936 - Oct. 1938</unitdate>
+            <container type="box">2</container>
+            <container type="folder">1-34</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>Nov. 1938 - 1941</unitdate>
+            <container type="box">3</container>
+            <container type="folder">1-32</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>1942 - June 1944</unitdate>
+            <container type="box">4</container>
+            <container type="folder">1-31</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>July 1944 - Mar. 1946</unitdate>
+            <container type="box">5</container>
+            <container type="folder">1-30</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>Apr. 1946 - June 1948</unitdate>
+            <container type="box">6</container>
+            <container type="folder">1-29</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>July 1948 - May 1952</unitdate>
+            <container type="box">7</container>
+            <container type="folder">1-32</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>June 1952 - May 1957</unitdate>
+            <container type="box">8</container>
+            <container type="folder">1-30</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitdate>June 1957 - Feb. 1970</unitdate>
+            <container type="box">9</container>
+            <container type="folder">1-30</container>
+          </did>
+        </c02>
       </c01>
-      <c01 level="item">
+      <c01 level="series">
         <did>
-          <container type="box">10-24</container>
-          <unittitle>Incoming correspondence. Approximately 7,800 items, from about 1400 correspondents. Arranged alphabetically.</unittitle>
+          <unittitle>Incoming correspondence</unittitle>
+          <note>
+            <p>Approximately 7,800 items, from about 1400 correspondents. Arranged alphabetically.</p>
+          </note>
         </did>
-        <odd>
-          <list type="simple">
-            <item>Box 10: Abbott -- Bailey (1-13)</item>
-            <item>Box 11: Baker -- Burnette (1-16)</item>
-            <item>Box 12: Burt -- Cole (1-16)</item>
-            <item>Box 13: Cole -- Davis (1-16)</item>
-            <item>Box 14: Day -- Futrell (1-17)</item>
-            <item>Box 15: Gage -- Haun (1-16)</item>
-            <item>Box 16: Hay -- Jordan (1-15)</item>
-            <item>Box 17: Josephson -- Malone (1-16)</item>
-            <item>Box 18: Mamatey -- Moore (1-15)</item>
-            <item>Box 19: Morgan -- Paine (1-15)</item>
-            <item>Box 20: Paine -- Robison (1-16)</item>
-            <item>Box 21: Roddis -- Stephenson (1-16)</item>
-            <item>Box 22: Stephenson -- Thompson (1-12)</item>
-            <item>Box 23: Thomson -- Williams (1-17)</item>
-            <item>Box 24: Williams -- Zorn (1-6)</item>
-          </list>
-        </odd>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Abbott - Bailey</unittitle>
+            <container type="box">10</container>
+            <container type="folder">1-13</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Baker - Burnette</unittitle>
+            <container type="box">11</container>
+            <container type="folder">1-16</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Burt - Cole</unittitle>
+            <container type="box">12</container>
+            <container type="folder">1-16</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Cole - Davis</unittitle>
+            <container type="box">13</container>
+            <container type="folder">1-16</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Day - Futrell</unittitle>
+            <container type="box">14</container>
+            <container type="folder">1-17</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Gage - Haun</unittitle>
+            <container type="box">15</container>
+            <container type="folder">1-16</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Hay - Jordan</unittitle>
+            <container type="box">16</container>
+            <container type="folder">1-15</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Josephson - Malone</unittitle>
+            <container type="box">17</container>
+            <container type="folder">1-16</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Mamatey - Moore</unittitle>
+            <container type="box">18</container>
+            <container type="folder">1-15</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Morgan - Paine</unittitle>
+            <container type="box">19</container>
+            <container type="folder">1-15</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Paine - Robison</unittitle>
+            <container type="box">20</container>
+            <container type="folder">1-16</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Roddis - Stephenson</unittitle>
+            <container type="box">21</container>
+            <container type="folder">1-16</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Stephenson - Thompson</unittitle>
+            <container type="box">22</container>
+            <container type="folder">1-12</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Thomson - Williams</unittitle>
+            <container type="box">23</container>
+            <container type="folder">1-17</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Williams - Zorn</unittitle>
+            <container type="box">24</container>
+            <container type="folder">1-6</container>
+          </did>
+        </c02>
       </c01>
       <c01 level="item">
         <did>
@@ -96,24 +236,24 @@
         </did>
         <odd>
           <list type="simple">
-            <item>&quot;The Activities of the Texas Revolutionary Army after San Jacinto&quot;</item>
-            <item>&quot;Do the Americas Have a Common History? A United States View&quot;</item>
-            <item>&quot;Frank Lawrence Owsley, 1890-1956&quot;</item>
-            <item>&quot;Handicaps to Effective Research in Colleges&quot;</item>
-            <item>&quot;A Historian looks at the National Union Catalog of Manuscript Collections&quot;</item>
-            <item>&quot;A History of the Texan Revolution&quot; (Knopf Fellowship application, 1940)</item>
-            <item>&quot;Independence and Political Stability&quot;</item>
-            <item>&quot;New Mexico and the Santa Fe Expedition&quot;</item>
-            <item>&quot;Our Latin American Neighbors&quot;</item>
-            <item>&quot;Public Opinion and the Teaching of History&quot;</item>
-            <item>&quot;Reports from a Texan Agent in New Mexico, 1849&quot; (&quot;Some Problems of the Historian&quot;)</item>
-            <item>&quot;Some Undeveloped Topics in Tennessee History&quot;</item>
-            <item>&quot;Some Unwritten Pages in American History&quot;</item>
-            <item>&quot;The South and the West&quot;</item>
-            <item>&quot;The Texan Revolution&quot;</item>
-            <item>&quot;The Texan Revolutionary Army after San Jacinto&quot;</item>
-            <item>&quot;Two World Wars and American Historical Scholarship&quot;</item>
-            <item>&quot;Walter Lynwood Fleming&quot;</item>
+            <item>"The Activities of the Texas Revolutionary Army after San Jacinto"</item>
+            <item>"Do the Americas Have a Common History? A United States View"</item>
+            <item>"Frank Lawrence Owsley, 1890-1956"</item>
+            <item>"Handicaps to Effective Research in Colleges"</item>
+            <item>"A Historian looks at the National Union Catalog of Manuscript Collections"</item>
+            <item>"A History of the Texan Revolution" (Knopf Fellowship application, 1940)</item>
+            <item>"Independence and Political Stability"</item>
+            <item>"New Mexico and the Santa Fe Expedition"</item>
+            <item>"Our Latin American Neighbors"</item>
+            <item>"Public Opinion and the Teaching of History"</item>
+            <item>"Reports from a Texan Agent in New Mexico, 1849" ("Some Problems of the Historian")</item>
+            <item>"Some Undeveloped Topics in Tennessee History"</item>
+            <item>"Some Unwritten Pages in American History"</item>
+            <item>"The South and the West"</item>
+            <item>"The Texan Revolution"</item>
+            <item>"The Texan Revolutionary Army after San Jacinto"</item>
+            <item>"Two World Wars and American Historical Scholarship"</item>
+            <item>"Walter Lynwood Fleming"</item>
           </list>
         </odd>
       </c01>
@@ -124,9 +264,9 @@
         </did>
         <odd>
           <list type="simple">
-            <item>&quot;Conditions in Texas on the Eve of the Revolution&quot;</item>
-            <item>&quot;The Preliminaries of the Revolution&quot;</item>
-            <item>&quot;The Struggle for the Federal Constitution&quot;</item>
+            <item>"Conditions in Texas on the Eve of the Revolution"</item>
+            <item>"The Preliminaries of the Revolution"</item>
+            <item>"The Struggle for the Federal Constitution"</item>
           </list>
         </odd>
       </c01>
@@ -138,7 +278,7 @@
         <odd>
           <list type="simple">
             <item>Adams,
-              <emph render="underline">America&#39;s Tragedy</emph>
+              <emph render="underline">America's Tragedy</emph>
               (1934)</item>
             <item>Bannon,
               <emph render="underline">Bolton and the Spanish Borderlands</emph>
@@ -146,11 +286,11 @@
             <item>Barker, The
               <emph render="underline">Life of Stephen F. Austin</emph>
               (1925)</item>
-            <item>......,
+            <item>Barker,
               <emph render="underline">Mexico and Texas, 1821-1835</emph>
               (1928) (w/ Castaneda,
               <emph render="underline">The Mexican Side of the Texan Revolution</emph>)</item>
-            <item>------,
+            <item>Barker,
               <emph render="underline">Readings in Texas History</emph>
               (1929)</item>
             <item>Beers, The
@@ -254,7 +394,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">26 (12)</container>
+          <container type="box">26</container>
+          <container type="folder">12</container>
           <unittitle>
             <emph render="underline">Southwestern Historical Quarterly</emph>
             summaries: summaries of articles by Biesele, Brown, Christensen, Donoghue, Henderson, Holden, Lesley, Myres, Rister, Smither, B. N. Taylor, P. S. Taylor, Winston (16 summaries)</unittitle>
@@ -262,7 +403,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">26 (13)</container>
+          <container type="box">26</container>
+          <container type="folder">13</container>
           <unittitle>
             <emph render="underline">Dictionary of American History</emph>
             and
@@ -272,7 +414,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">26 (14)</container>
+          <container type="box">26</container>
+          <container type="folder">14</container>
           <unittitle>Proposals and reports: Supplementary Statements to an Application for a Grant-in-Aid by the Social Science Research Council (n.d.); Report on the Work Done during the Simmer of 1933 on a Grant-in-Aid from the Social Science Research
             Council for Research on a History of the Republic of Texas; Statement Concerning the Research Project of William C. Binkley, submitted to the Committee on Grants-in-Aid of the Social Science Research Council in connection with a request for a
             grant-in-aid (n.d.); Supplementary Statement to an Application for a Summer Grant from the University Center Research Council (n.d.); Report to the University Center Research Council on Use of Summer Grant, 1949; Report to the Committee on
@@ -281,15 +424,17 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">26 (15)</container>
+          <container type="box">26</container>
+          <container type="folder">15</container>
           <unittitle>Miscellaneous writings: book review,
-            <emph render="underline">The National Union Catalog of Manuscript Collections, 1962</emph>; article, &quot;The Southwest: An Attempt at a Historical Definition&quot;; obituaries, Andrew Bell Benedict, Louis Pelzer, Charles William Ramsdell</unittitle>
+            <emph render="underline">The National Union Catalog of Manuscript Collections, 1962</emph>; article, "The Southwest: An Attempt at a Historical Definition"; obituaries, Andrew Bell Benedict, Louis Pelzer, Charles William Ramsdell</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">26 (16)</container>
-          <unittitle>Published writings (offprints of articles and reviews): &quot;A Historian Looks at the National Union Catalog of Manuscript Collections,&quot; &quot;Two World Wars and American Historical Scholarship,&quot; reviews: Gambrell,
+          <container type="box">26</container>
+          <container type="folder">16</container>
+          <unittitle>Published writings (offprints of articles and reviews): "A Historian Looks at the National Union Catalog of Manuscript Collections," "Two World Wars and American Historical Scholarship," reviews: Gambrell,
             <emph render="underline">Mirabeau Buonaparte Lamar, Troubadour and Crusader; Writing Southern History</emph>:
             <emph render="underline">Essays in Historiography in Honor of Fletcher M. Green</emph>; Stephenson,
             <emph render="underline">Southern History in the Making</emph>; White, ed.,
@@ -299,7 +444,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">26 (17)</container>
+          <container type="box">26</container>
+          <container type="folder">17</container>
           <unittitle>The
             <emph render="underline">Expansionist Movement</emph>
             in
@@ -308,51 +454,59 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (1-15)</container>
+          <container type="box">27</container>
+          <container type="folder">1-15</container>
           <unittitle>Typescript of
             <emph render="underline">The Texas Revolution</emph>, chapters I-IV, with notes and comments, tentative outline, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (1-4)</container>
-          <unittitle>Chapter I, &quot;The Establishment of Anglo-American Interests in Texas.&quot; 2 typed originals, with carbons and footnotes.</unittitle>
+          <container type="box">27</container>
+          <container type="folder">1-4</container>
+          <unittitle>Chapter I, "The Establishment of Anglo-American Interests in Texas." 2 typed originals, with carbons and footnotes.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (5-8)</container>
-          <unittitle>Chapter II, &quot;Development of the Issue between Mexico and the Texans.&quot; 2 typed originals, with carbons and footnotes.</unittitle>
+          <container type="box">27</container>
+          <container type="folder">5-8</container>
+          <unittitle>Chapter II, "Development of the Issue between Mexico and the Texans." 2 typed originals, with carbons and footnotes.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (9-11)</container>
-          <unittitle>Chapter III, &quot;Conditions in Texas on the Eve of the Revolution, 1833-1835.&quot; 2 typed originals, with carbons and footnotes.</unittitle>
+          <container type="box">27</container>
+          <container type="folder">9-11</container>
+          <unittitle>Chapter III, "Conditions in Texas on the Eve of the Revolution, 1833-1835." 2 typed originals, with carbons and footnotes.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (12-13)</container>
-          <unittitle>Chapter IV, &quot;The Preliminaries of the Revolution, 1834-1835.&quot; 1 typed original, with carbon and footnotes.</unittitle>
+          <container type="box">27</container>
+          <container type="folder">12-13</container>
+          <unittitle>Chapter IV, "The Preliminaries of the Revolution, 1834-1835." 1 typed original, with carbon and footnotes.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (14-15)</container>
-          <unittitle>Chapter V, &quot;The Struggle for the Federal Constitution.&quot; 1 typed original, with carbon and footnotes.</unittitle>
+          <container type="box">27</container>
+          <container type="folder">14-15</container>
+          <unittitle>Chapter V, "The Struggle for the Federal Constitution." 1 typed original, with carbon and footnotes.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (16)</container>
+          <container type="box">27</container>
+          <container type="folder">16</container>
           <unittitle>
             <emph render="underline">The Texas Revolution</emph>: notes and comments, outlines, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">27 (17-18)</container>
+          <container type="box">27</container>
+          <container type="folder">17-18</container>
           <unittitle>
             <emph render="underline">Official Correspondence of the Texas Revolution</emph>: introductory material.</unittitle>
         </did>
@@ -367,14 +521,16 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (1-3)</container>
+          <container type="box">28</container>
+          <container type="folder">1-3</container>
           <unittitle>Texas correspondence</unittitle>
           <unitdate>1836</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (4-5)</container>
+          <container type="box">28</container>
+          <container type="folder">4-5</container>
           <unittitle>
             <emph render="underline">Official Correspondence</emph>
             - miscellaneous research notes</unittitle>
@@ -382,34 +538,39 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (6-8)</container>
+          <container type="box">28</container>
+          <container type="folder">6-8</container>
           <unittitle>Rusk correspondence</unittitle>
           <unitdate>1835-1836</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (9)</container>
+          <container type="box">28</container>
+          <container type="folder">9</container>
           <unittitle>Miscellaneous Texas correspondence, 1839, 1850, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (10)</container>
-          <unittitle>Thomas Falconer, &quot;Notes of a Journey through Texas and New Mexico, in the Years 1841 and 1842&quot; (in the
+          <container type="box">28</container>
+          <container type="folder">10</container>
+          <unittitle>Thomas Falconer, "Notes of a Journey through Texas and New Mexico, in the Years 1841 and 1842" (in the
             <emph render="underline">Journal of the Royal Geographical Society of London</emph>, 1844)</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (11)</container>
+          <container type="box">28</container>
+          <container type="folder">11</container>
           <unittitle>Pakenham correspondence</unittitle>
           <unitdate>1841-1842</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (12)</container>
+          <container type="box">28</container>
+          <container type="folder">12</container>
           <unittitle>Miscellaneous Texas correspondence, 1832, 1836, etc.</unittitle>
         </did>
       </c01>
@@ -421,7 +582,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">28 (13)</container>
+          <container type="box">28</container>
+          <container type="folder">13</container>
           <unittitle>Biographical and personal material, miscellaneous: resumes, membership cards, records of travel and personal possessions, tributes, certificates,
             <emph render="underline">Dictionary of American Scholars</emph>
             entries, etc., etc.</unittitle>
@@ -429,19 +591,22 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (1)</container>
+          <container type="box">29</container>
+          <container type="folder">1</container>
           <unittitle>Newspaper clippings (personal)</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (2)</container>
+          <container type="box">29</container>
+          <container type="folder">2</container>
           <unittitle>Photographs</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (3)</container>
+          <container type="box">29</container>
+          <container type="folder">3</container>
           <unittitle>
             <emph render="underline">Official Correspondence of the Texas Revolution</emph>
             - material relating to publication</unittitle>
@@ -449,7 +614,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (4)</container>
+          <container type="box">29</container>
+          <container type="folder">4</container>
           <unittitle>
             <emph render="underline">The Texas Revolution</emph>
             - material relating to publication, royalties, etc.</unittitle>
@@ -457,7 +623,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (5)</container>
+          <container type="box">29</container>
+          <container type="folder">5</container>
           <unittitle>
             <emph render="underline">The Texas Revolution</emph>
             - reviews</unittitle>
@@ -465,32 +632,37 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (6)</container>
+          <container type="box">29</container>
+          <container type="folder">6</container>
           <unittitle>Fleming lectures, 1950-52 - program, clippings, sketch</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (7)</container>
+          <container type="box">29</container>
+          <container type="folder">7</container>
           <unittitle>Comments on theses, papers, etc. - miscellaneous and undated</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (8)</container>
+          <container type="box">29</container>
+          <container type="folder">8</container>
           <unittitle>Student records, recommendations, etc. - miscellaneous and undated</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (9)</container>
+          <container type="box">29</container>
+          <container type="folder">9</container>
           <unittitle>Preliminary Report on the Archives of Colorado, Colorado Social Science Association</unittitle>
           <unitdate>May, 1929</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (10)</container>
+          <container type="box">29</container>
+          <container type="folder">10</container>
           <unittitle>
             <emph render="underline">Dictionary of American Biography, Dictionary of American History, Atlas of American History</emph>
             material</unittitle>
@@ -498,27 +670,31 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (11)</container>
+          <container type="box">29</container>
+          <container type="folder">11</container>
           <unittitle>Historical publications - University series sets (typed lists)</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (12-13)</container>
+          <container type="box">29</container>
+          <container type="folder">12-13</container>
           <unittitle>Historical Records Survey of Tennessee (WPA, 1936-1938) material</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (14)</container>
+          <container type="box">29</container>
+          <container type="folder">14</container>
           <unittitle>Territory Papers - bills, acts, resolutions, etc.</unittitle>
           <unitdate>1936-1963</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">29 (15)</container>
-          <unittitle>Texas Correspondence Project: &quot;Editing and Publishing the Domestic Correspondence of the Republic of Texas,&quot; submitted to The National Historical Publications Commission</unittitle>
+          <container type="box">29</container>
+          <container type="folder">15</container>
+          <unittitle>Texas Correspondence Project: "Editing and Publishing the Domestic Correspondence of the Republic of Texas," submitted to The National Historical Publications Commission</unittitle>
           <unitdate>1965</unitdate>
         </did>
       </c01>
@@ -530,21 +706,24 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (1-3)</container>
+          <container type="box">30</container>
+          <container type="folder">1-3</container>
           <unittitle>American Association for State and Local History, minutes, reports, etc.</unittitle>
           <unitdate>1960-1968</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (4-5)</container>
+          <container type="box">30</container>
+          <container type="folder">4-5</container>
           <unittitle>American Historical Association, minutes, reports, etc.</unittitle>
           <unitdate>1941-1963</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (6-7)</container>
+          <container type="box">30</container>
+          <container type="folder">6-7</container>
           <unittitle>American History Research Center, minutes, reports, etc.</unittitle>
           <unitdate>1951-1958</unitdate>
         </did>
@@ -559,145 +738,166 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (8)</container>
+          <container type="box">30</container>
+          <container type="folder">8</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1936-1938</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (9)</container>
+          <container type="box">30</container>
+          <container type="folder">9</container>
           <unittitle>MVHA Memphis meeting</unittitle>
           <unitdate>1939</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (10)</container>
+          <container type="box">30</container>
+          <container type="folder">10</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1939-1940</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (11)</container>
+          <container type="box">30</container>
+          <container type="folder">11</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1940-1942</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (12)</container>
+          <container type="box">30</container>
+          <container type="folder">12</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1943-1945</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">30 (13)</container>
+          <container type="box">30</container>
+          <container type="folder">13</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1946-1947</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (1)</container>
+          <container type="box">31</container>
+          <container type="folder">1</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1948-1950</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (2)</container>
+          <container type="box">31</container>
+          <container type="folder">2</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1951-1952</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (3)</container>
+          <container type="box">31</container>
+          <container type="folder">3</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1953-1954</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (4)</container>
+          <container type="box">31</container>
+          <container type="folder">4</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1955-1956</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (5)</container>
+          <container type="box">31</container>
+          <container type="folder">5</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1967-1959</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (6)</container>
+          <container type="box">31</container>
+          <container type="folder">6</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1960-1961</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (7)</container>
+          <container type="box">31</container>
+          <container type="folder">7</container>
           <unittitle>MVHA minutes, reports, etc.</unittitle>
           <unitdate>1963</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (8-9)</container>
+          <container type="box">31</container>
+          <container type="folder">8-9</container>
           <unittitle>MVHA officers</unittitle>
           <unitdate>1907-1965</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (10)</container>
+          <container type="box">31</container>
+          <container type="folder">10</container>
           <unittitle>MVHA Policy Committee</unittitle>
           <unitdate>1944</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (11)</container>
+          <container type="box">31</container>
+          <container type="folder">11</container>
           <unittitle>MVHA Publications Committee</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">31 (12)</container>
-          <unittitle>MVHA Secretary-Treasurer&#39;s Report</unittitle>
+          <container type="box">31</container>
+          <container type="folder">12</container>
+          <unittitle>MVHA Secretary-Treasurer's Report</unittitle>
           <unitdate>1953-1957</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (1)</container>
-          <unittitle>MVHA Secretary-Treasurer&#39;s Report</unittitle>
+          <container type="box">32</container>
+          <container type="folder">1</container>
+          <unittitle>MVHA Secretary-Treasurer's Report</unittitle>
           <unitdate>1957-1959</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (2)</container>
-          <unittitle>MVHA Secretary-Treasurer&#39;s Report</unittitle>
+          <container type="box">32</container>
+          <container type="folder">2</container>
+          <unittitle>MVHA Secretary-Treasurer's Report</unittitle>
           <unitdate>1959-1962</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (3)</container>
+          <container type="box">32</container>
+          <container type="folder">3</container>
           <unittitle>MVHA - miscellaneous</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (4)</container>
+          <container type="box">32</container>
+          <container type="folder">4</container>
           <unittitle>
             <emph render="underline">MVHR</emph>
             budget (travel, etc.),</unittitle>
@@ -706,7 +906,8 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (5)</container>
+          <container type="box">32</container>
+          <container type="folder">5</container>
           <unittitle>
             <emph render="underline">MVHR</emph>
             - miscellaneous</unittitle>
@@ -714,33 +915,38 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (6-9)</container>
+          <container type="box">32</container>
+          <container type="folder">6-9</container>
           <unittitle>Southern Historical Association and
-            <emph render="underline">Journal of Southern History</emph>, 1930&#39;s through 1960&#39;s</unittitle>
+            <emph render="underline">Journal of Southern History</emph>, 1930's through 1960's</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (10)</container>
+          <container type="box">32</container>
+          <container type="folder">10</container>
           <unittitle>Tennessee Historical Society, 1943- , and Tennessee history</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (11)</container>
+          <container type="box">32</container>
+          <container type="folder">11</container>
           <unittitle>Texas State Historical Association</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (12-13)</container>
+          <container type="box">32</container>
+          <container type="folder">12-13</container>
           <unittitle>Southern Humanities Conference</unittitle>
           <unitdate>1946-1952</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">32 (14)</container>
+          <container type="box">32</container>
+          <container type="folder">14</container>
           <unittitle>Southern University Conference</unittitle>
         </did>
       </c01>
@@ -752,159 +958,185 @@
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">33 (1)</container>
+          <container type="box">33</container>
+          <container type="folder">1</container>
           <unittitle>University of California (including Bolton material for fest schrift)</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">33 (2-16), 34 (1-4)</container>
+          <container type="box">33</container>
+          <container type="folder">2-16), 34 (1-4</container>
           <unittitle>Colorado College - lecture and research notes</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">34 (5)</container>
+          <container type="box">34</container>
+          <container type="folder">5</container>
           <unittitle>Colorado College - miscellaneous</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">34 (6-11)</container>
+          <container type="box">34</container>
+          <container type="folder">6-11</container>
           <unittitle>Vanderbilt University - syllabi, reading lists, examinations, lecture outlines, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">34 (12)</container>
+          <container type="box">34</container>
+          <container type="folder">12</container>
           <unittitle>Vanderbilt University - Ph.D. program</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">35 (1)</container>
+          <container type="box">35</container>
+          <container type="folder">1</container>
           <unittitle>Vanderbilt University - degrees granted in history</unittitle>
           <unitdate>1931-1952</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">35 (2)</container>
+          <container type="box">35</container>
+          <container type="folder">2</container>
           <unittitle>Vanderbilt University - statistical analysis of graduate students in history</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">35 (3)</container>
+          <container type="box">35</container>
+          <container type="folder">3</container>
           <unittitle>Vanderbilt University - History Department faculty</unittitle>
           <unitdate>1923-1953</unitdate>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">35 (4)</container>
+          <container type="box">35</container>
+          <container type="folder">4</container>
           <unittitle>Vanderbilt University - miscellaneous</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">35 (5-10)</container>
+          <container type="box">35</container>
+          <container type="folder">5-10</container>
           <unittitle>Tulane University - syllabi, examinations, lecture notes, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">35 (11-15)</container>
+          <container type="box">35</container>
+          <container type="folder">11-15</container>
           <unittitle>Tulane University - miscellaneous</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">36 (1-2)</container>
+          <container type="box">36</container>
+          <container type="folder">1-2</container>
           <unittitle>University of Houston - Ph.D. program</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">36 (3-4)</container>
+          <container type="box">36</container>
+          <container type="folder">3-4</container>
           <unittitle>University of Houston - miscellaneous</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">36 (5)</container>
+          <container type="box">36</container>
+          <container type="folder">5</container>
           <unittitle>University of Texas - miscellaneous</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">36 (6-14)</container>
+          <container type="box">36</container>
+          <container type="folder">6-14</container>
           <unittitle>Lecture and research notes</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">37 (1-13)</container>
+          <container type="box">37</container>
+          <container type="folder">1-13</container>
           <unittitle>Lecture and research notes</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">38 (1-6)</container>
+          <container type="box">38</container>
+          <container type="folder">1-6</container>
           <unittitle>Lecture and research notes</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">38 (7)</container>
+          <container type="box">38</container>
+          <container type="folder">7</container>
           <unittitle>Miscellaneous notes, lists, bills, invoices, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">38 (8)</container>
+          <container type="box">38</container>
+          <container type="folder">8</container>
           <unittitle>Maps</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">38 (9-12)</container>
+          <container type="box">38</container>
+          <container type="folder">9-12</container>
           <unittitle>Manuscripts by other persons -- addresses by Clifford L. Lord, James W. Silver (2), and Walter Prescott Webb</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">38 (13-15, 39 (1)</container>
+          <container type="box">38</container>
+          <container type="folder">13-15, 39 (1</container>
           <unittitle>Manuscripts by other persons -- articles by Rudolf Freund, Weymouth T. Jordan (2), Walter Prescott Webb, Joe Mathews, and Thomas B. Alexander</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">39 (2)</container>
+          <container type="box">39</container>
+          <container type="folder">2</container>
           <unittitle>Manuscripts by other persons -- poems, proposals, outlines, abstracts, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">39 (3-7)</container>
+          <container type="box">39</container>
+          <container type="folder">3-7</container>
           <unittitle>Published articles by other persons -- clippings, off prints, etc.</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">39 (8-10)</container>
+          <container type="box">39</container>
+          <container type="folder">8-10</container>
           <unittitle>Miscellaneous printed material</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">40 (1-6)</container>
+          <container type="box">40</container>
+          <container type="folder">1-6</container>
           <unittitle>Miscellaneous printed material</unittitle>
         </did>
       </c01>
       <c01 level="item">
         <did>
-          <container type="box">40 (7)</container>
+          <container type="box">40</container>
+          <container type="folder">7</container>
           <unittitle>1 roll of microfilm, unidentified</unittitle>
         </did>
       </c01>
@@ -1052,7 +1284,7 @@
       <bibref>BRILEY, Beverly (Davidson County) - 1 (Aug. 8, 1951)</bibref>
       <bibref>BRISTER, J. W. (Memphis State Teachers College) - 1 (May 29, 1936)</bibref>
       <bibref>BROCKHAGEN, Fred R. (California Monthly) - 2 (1935)</bibref>
-      <bibref>BRODINSKY, B. P. (Educator&#39;s Washington Dispatch) - 1 (Sept. 14, 1946)</bibref>
+      <bibref>BRODINSKY, B. P. (Educator's Washington Dispatch) - 1 (Sept. 14, 1946)</bibref>
       <bibref>BROOKER, Wilfred L. (Ashland Public Schools) - 1 (Feb. 15, 1938)</bibref>
       <bibref>BROOKS, Addie Lou - 24 (1932-34, 1940, 1942, 194, 1945)</bibref>
       <bibref>BROOKS, Philip C. (Society of American Archivists, University of California, National Archives) - 8 (1931, 1932, 1938, 1939, 1942)</bibref>
@@ -1155,7 +1387,7 @@
       <bibref>COLE, Arthur C. (Mississippi Valley Historical Review, Brooklyn College) - 31 (1935-40, 1952) (includes letters from Richard R. Stenberg)</bibref>
       <bibref>COLE, Fred. C. (Jonrnal of Southern History, Department of the Navy, Tulane University, Mississippi Valley Historical Review) - 47 (1936, 1939-43, 1945-47, 1949, 1951-53, 1959) (including letters from Robert Love, Russell Nichol, and Howard
         E. Baughman)</bibref>
-      <bibref>COLE, Lois Dwight (G.P. Putnam&#39;s Sons) - 1 (Aug. 7, 1958)</bibref>
+      <bibref>COLE, Lois Dwight (G.P. Putnam's Sons) - 1 (Aug. 7, 1958)</bibref>
       <bibref>COLEMAN, Herbert E. - 3 (1944)</bibref>
       <bibref>COLEMAN, R. V. (Atlas of American History, Dictionary of American History) - 2 (1938, 1941)</bibref>
       <bibref>COLES, Harry L., Jr. (National Archives, Ohio State University, Naval War College) - 45 (1942-51, 1953, 1957, 1960-62, 1966)</bibref>
@@ -1248,7 +1480,7 @@
       <bibref>DIGKE^SOH,rQiiM.(Colorado State Teachers College) - 4 (1930, 1955)</bibref>
       <bibref>DIEHL, Charles E. (Southern University Conference) - 1 (Nov. 4, 1946)</bibref>
       <bibref>DIMICK, Howard T. - 5 (1945, 1949) (including 1 from Guy Stanton Ford)</bibref>
-      <bibref>DITMARS, R. Maud (Colorado Women&#39;s College) - 3 (1929)</bibref>
+      <bibref>DITMARS, R. Maud (Colorado Women's College) - 3 (1929)</bibref>
       <bibref>DODD, T. Leo (Eldorado Township High School) - 1 (Jan. 30, 1942)</bibref>
       <bibref>DODGE, John V. (Encyclopedia Britannica) - 1 (July 8, 1958)</bibref>
       <bibref>DOLLAKHIDE, Louis E. - 1 (Aug. 16, 1945)</bibref>
@@ -1286,7 +1518,7 @@
       <bibref>ECKHARDT, C. C. (University of Colorado) - 5 (1929, 1930, 1936)</bibref>
       <bibref>EDMONDS, Katharine H.S. (Peninsula Enterprise) - 1 (Dec. 4, 1943)</bibref>
       <bibref>EDWARDS, Robert L. (Harvard University) - 1 (Feb. 16, 1941)</bibref>
-      <bibref>EGGEN, H. O. (Class of &#39;10A) - 1 (June 23, 1940)</bibref>
+      <bibref>EGGEN, H. O. (Class of '10A) - 1 (June 23, 1940)</bibref>
       <bibref>EIDSON, John O. (University Center in Georgia) - 1 (Mar. 10, 1953)</bibref>
       <bibref>ELLIOTT, Rush (Ohio University) - 1 (Dec. 29, 1959)</bibref>
       <bibref>ELLIS, Elmer (University of Missouri) - 24 (1936, 1938-40, 1946, 1947, 1949, 1950, 1954) (including 1 each from John D. Hicks and Bell I. Wiley)</bibref>
@@ -1534,7 +1766,7 @@
       <bibref>IVEY, John E., Jr. (Board of Control for Southern Regional Education) -1 (Nov. 14, 1949)</bibref>
       <bibref>JACKSON, Dorothy V. (Mississippi Valley Historical Association) - 1 (Jan. 13, 1964)</bibref>
       <bibref>JACKSON, George Pullen (Vanderbilt University) - 2 (1934, 1936)</bibref>
-      <bibref>JACKSON, Kenneth M. (Mount Saint Mary&#39;s College) - 7 (1937, 1939, 1940, 1946, 1951)</bibref>
+      <bibref>JACKSON, Kenneth M. (Mount Saint Mary's College) - 7 (1937, 1939, 1940, 1946, 1951)</bibref>
       <bibref>JACOBS, Wilbur R. (University of California) - 1 (Dec. 12, 1958)</bibref>
       <bibref>JAMES, Herman (University of Texas) - 2 (1921, 1922)</bibref>
       <bibref>JAMES, Joseph B. (William Woods College) - 2 (1943)</bibref>
@@ -1581,7 +1813,7 @@
       <bibref>KELLAR, Lucille - 2 (1955)</bibref>
       <bibref>KELLER, J. A. (Florence State Teachers College) - 1 (Apr. 28, 1939)</bibref>
       <bibref>KELLY, Alfred H. (Wayne State University) - 1 (Feb. 26, 1957)</bibref>
-      <bibref>KENDRICK, B. B. (Women&#39;s College, University of North Carolina) - 1 (Feb. 5, 1943)</bibref>
+      <bibref>KENDRICK, B. B. (Women's College, University of North Carolina) - 1 (Feb. 5, 1943)</bibref>
       <bibref>KENNEDY, John F. (U.S. Senate) - 2 (1957)</bibref>
       <bibref>KENNEDY, Margaret - 1 (Feb. 17, 1930)</bibref>
       <bibref>KERN, Jean B. (Mississippi Valley Historical Review) - 3 (1946)</bibref>
@@ -1757,7 +1989,7 @@
       <bibref>McNEILL, W. H. - l (sept. 5, 1924)</bibref>
       <bibref>McREYNOLDS, Sam D. (U.S. House of Representatives) - 1 (Apr. lb, 1938)</bibref>
       <bibref>MEAD, Telfer L. (Saunders System) - 3 (1927, 1936)</bibref>
-      <bibref>MEADE, ROBERT D. (Randolph Macon women&#39;s College) - 2 (1944, 1947)</bibref>
+      <bibref>MEADE, ROBERT D. (Randolph Macon women's College) - 2 (1944, 1947)</bibref>
       <bibref>MEANEY, John W. (University of Texas) - 6 (1965) (including 1 from Dorrnan H. Winfrey)</bibref>
       <bibref>MECHAM, J. Lloyd (Southwestern Social Science Association) - 1 (Oct. 13, 1933)</bibref>
       <bibref>MENDELSON, Wallace (University of Tennessee) - 1 (May 7, 1947)</bibref>
@@ -2009,7 +2241,7 @@
       <bibref>RUSSELL, Richard B. (U.S. Senate) - 1 (Apr. 12, 1943)</bibref>
       <bibref>RUTLAND, Robert Allen (State Historical Society of Iowa, University of California) - 10 (1953, 1954, 1956, 1957, 1960, 1961, 1963)</bibref>
       <bibref>SALLIS, Jerry Price (Mississippi Valley Historical Review) - 3 (1960)</bibref>
-      <bibref>SAMMONS, Wheeler (Who&#39;s Who in America) - 1 (n.d.)</bibref>
+      <bibref>SAMMONS, Wheeler (Who's Who in America) - 1 (n.d.)</bibref>
       <bibref>SANDEKS, Jennings B. (University of Tennessee, Memphis State College) -6 (1938, 1942, 1946)</bibref>
       <bibref>SARRATT, G. M. (Vanderbilt University) - 4 (1946, 1949) (including 1 from Meredith P. Crawford)</bibref>
       <bibref>SAUNDERS, Humphrey - 1 (Feb. 25, 1931)</bibref>
@@ -2148,7 +2380,7 @@
       <bibref>TAMEY, C. W. (Gooding College) - 1 (Dec. 3, 1928)</bibref>
       <bibref>TANDY, Lucy (University of Oklahoma) - 1 (Nov. 13, 1951)</bibref>
       <bibref>TATUM, Georgia Lee (Mississippi Delta State Teachers College) - 10 (1931-34, 1938)</bibref>
-      <bibref>TAYLOR, A. Elizabeth (Judson College, Texas State College for Women, Texas Women&#39;s University) - 23 (1941, 1943-47, 1950, 1952, 1953, 1955, 1957, 1960, 1963)</bibref>
+      <bibref>TAYLOR, A. Elizabeth (Judson College, Texas State College for Women, Texas Women's University) - 23 (1941, 1943-47, 1950, 1952, 1953, 1955, 1957, 1960, 1963)</bibref>
       <bibref>TEBEAU, C. W. (University of Miami) - 1 (Jan. 28, 1950)</bibref>
       <bibref>TECHNICAL Composition Co. - 1 (July 22, 1947)</bibref>
       <bibref>TEN H00R, Marten (Tulane University, University of Alabama) - 3 (1938, 1953)</bibref>
@@ -2187,7 +2419,7 @@
       <bibref>TURNER, Hill (Alumni Association of Vanderbilt University) - 1 (Nov. 16, 1936)</bibref>
       <bibref>TURRENTINE, S. B. (Greensboro College) - 2 (1934)</bibref>
       <bibref>UNDERWOOD, Ella Mabel - 1 (Aug. 16, 1929)</bibref>
-      <bibref>VAN HOOK, Joseph O. (Mississippi Woman&#39;s College) - 4 (1935, 1937, 1938)</bibref>
+      <bibref>VAN HOOK, Joseph O. (Mississippi Woman's College) - 4 (1935, 1937, 1938)</bibref>
       <bibref>VAN LEER, Blake R. (Georgia Institute of Technology) - 1 (Oct. 20, 1950)</bibref>
       <bibref>VAN RENSSELAER, Alexander (D. Appleton-Century Company) - 2 (1936)</bibref>
       <bibref>VAN TASSEL, David D. (The University of Texas) - 1 (Feb. 18, 1965)</bibref>
@@ -2224,7 +2456,7 @@
       <bibref>VEAVER, Blanche Henry (Clark) (Transylvania College, Vanderbilt University, National Association of Deans of Women, Georgia Teachers College, Vanderbilt-Peabody Master of Arts in Teaching) - 38 (1937, 1939-52, 1956, 1961, n.d.)</bibref>
       <bibref>WEAVER, Herbert (Georgia Teachers College, Vanderbilt University) - 72 (1937, 1939-41, 1943-49, 1951-59, 1962, 1963, 1966, 1967, 1969) (including 1 each fromAustin Prodoehl, Guy E. Snavely, Walter B. Posey, and John Pomfret)</bibref>
       <bibref>WEBB, Walter Prescott (University of Texas) - 23 (1929-31, 1933, 1937-39, 1941, 1949, 1951, 1953-55, 1958)</bibref>
-      <bibref>WEBER, William C. (Charles Scribner&#39;s Sons) - 1 (Oct. 24, 1944)</bibref>
+      <bibref>WEBER, William C. (Charles Scribner's Sons) - 1 (Oct. 24, 1944)</bibref>
       <bibref>WEEKLEY, Glenn E. - 1 (Oct. 2, 1949)</bibref>
       <bibref>WEEKS, Clarence N. Jr. - 2 (1954, 1959)</bibref>
       <bibref>WEISBERGER, Bernard A. - 1 (Sept. 2, 1948)</bibref>
@@ -2260,7 +2492,7 @@
       <bibref>WILLARD, James F. (University of Colorado, Progress of Medieval Studies) - 8 (1927-30)</bibref>
       <bibref>WILLIAMS, Amelia (University of Texas) - 1 (Feb. 9, 1942)</bibref>
       <bibref>WILLIAMS, Clanton W. (University of Alabama, War Department, Army Air Forces) - 9 (1936, 1938, 1939, 1941, 1942, 1944, 1946)</bibref>
-      <bibref>WILLIAMS, Frank B. Jr. (&quot;Pappy&quot;) (East Tennessee State College) - l8 (1946, 1948-53, 1958, 1962)</bibref>
+      <bibref>WILLIAMS, Frank B. Jr. ("Pappy") (East Tennessee State College) - l8 (1946, 1948-53, 1958, 1962)</bibref>
       <bibref>WILLIAMS, Jack K. (Clemson Agricultural College) - 2 (1947)</bibref>
       <bibref>WILLIAMS, Samuel C. (Tennessee Historical Commission; Williams, Winston &amp; Guinn) - 23 (1941, 1942, n.d.) (including 1 each from Stanley Horn and Archibald Henderson)</bibref>
       <bibref>WILLIAMS, T. Harry (Louisiana State University) - 26 (1943-47, 1959)</bibref>
@@ -2906,7 +3138,7 @@
       </c01>
     </dsc>
     <bibliography>
-      <head>Subject Index to Correspondence (Based on Dr. Binkley&#39;s files)</head>
+      <head>Subject Index to Correspondence (Based on Dr. Binkley's files)</head>
       <bibref>
         <emph render="underline">American Archivist</emph>
         article, 1965. See: Isabel Howell, Ken Munden.</bibref>
