@@ -1,0 +1,4095 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Egerton, John Papers - Estate Papers</titleproper>
+        <titleproper>Finding Aid for the John Egerton Papers - Estate Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>University Archives</corpname>
+      </repository>
+      <unittitle>John Egerton Papers - Estate Papers</unittitle>
+      <unitid>MSS.0849</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14.7 linear_feet</extent>
+      </physdesc>
+      <unitdate>1960-2014</unitdate>
+    </did>
+    <dsc type="othertype">
+    <c01 level="series">
+      <did>
+        <unittitle>Correspondence</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, Incoming, 1963-1969 - Baldwin-McNeil</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence, Outgoing - November 5, 1963-April 15, 1969</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, Incoming, 1970 - Calvert-Wirth</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence, Outgoing - February 2, 1970</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>Correspondence, Incoming, 1971 - Allen-Griffin</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence, Incoming, 1971 - Hampton-Loyola</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7</container>
+          <unittitle>Correspondence, Incoming, 1971 - McAdams-Pettigrew</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence, Incoming, 1971 - Richardson-Yeager</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">9</container>
+          <unittitle>Correspondence, Outgoing - August 1, 1971-December 3, 1971</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence, Incoming, 1972 - Akir-Kirkpatrick</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">11</container>
+          <unittitle>Correspondence, Incoming, 1972 - Knoll-Russell</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">12</container>
+          <unittitle>Correspondence, Incoming, 1972 - Sanford-Yeakel</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">13</container>
+          <unittitle>Correspondence, Outgoing - January 8, 1972-March 21, 1972</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">14</container>
+          <unittitle>Correspondence, Incoming, 1973 - Ansoff-Egerton</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">15</container>
+          <unittitle>Correspondence, Incoming, 1973 - Fettner-Loyola</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">16</container>
+          <unittitle>Correspondence, Incoming, 1973 - Magat-Wurzburg</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">17</container>
+          <unittitle>Correspondence, Outgoing - March 19, 1973-October 5, 1973</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">18</container>
+          <unittitle>Correspondence, Incoming, 1974 - Armstrong-Grigg</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">19</container>
+          <unittitle>Correspondence, Incoming, 1974 - Hand-Popham</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">20</container>
+          <unittitle>Correspondence, Incoming, 1974 - Ray-Zimmerman</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">21</container>
+          <unittitle>Correspondence, Outgoing - June 9, 1974</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, Incoming, 1975 - Adams-Dunbar</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence, Incoming, 1975 - Egerton-Maurer</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, Incoming, 1975 - Mitchell-Richardson</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence, Incoming, 1975 - Short-Wiltshire</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle>Correspondence, Outgoing - June 17, 1975-December 19, 1975</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence, Incoming, 1976 - Alavi-Dunbar</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>Correspondence, Incoming, 1976 - Egerton-Lowenstein</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence, Incoming, 1976 - McCauley-Wolfe-Novembeer 1, 19777</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">9</container>
+          <unittitle>Correspondence, Incoming, 1976 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence, Outgoing - January 28, 1976-December22, 1976</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">11</container>
+          <unittitle>Correspondence, Incoming, 1977 - Adams-Burgess</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">12</container>
+          <unittitle>Correspondence, Incoming, 1977 - Cahill-Hunt</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">13</container>
+          <unittitle>Correspondence, Incoming, 1977 - Inglehart-McGill</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">14</container>
+          <unittitle>Correspondence, Incoming, 1977 - Malkovsky-Stableski</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">15</container>
+          <unittitle>Correspondence, Incoming, 1977 - Smith-Viertal</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">16</container>
+          <unittitle>Correspondence, Incoming, 1977 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">17</container>
+          <unittitle>Correspondence, Outgoing - June 2, 1977-November 1, 1977</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">18</container>
+          <unittitle>Correspondence, Incoming, 1978 - Adams-Evans</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">19</container>
+          <unittitle>Correspondence, Incoming, 1978 - Gottlieb-McDaniel</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">20</container>
+          <unittitle>Correspondence, Incoming, 1978 - Malpas-Schlesinger</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">21</container>
+          <unittitle>Correspondence, Incoming, 1978 - Sheridan-Yeats</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">22</container>
+          <unittitle>Correspondence, Incoming, 1978 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">23</container>
+          <unittitle>Correspondence, Outgoing - January 16, 1978-August 10, 1978</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, Incoming, 1979 - Adams-Wiltshire</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence, Incoming, 1979 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, Incoming, 1980 - Atlas-Weir</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence, Outgoing - September 8, 1980-November 24, 1980</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle>Correspondence, Incoming, 1981 - Blackwell-Herron</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence, Incoming, 1981 - Johnson-Wiltshire</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">7</container>
+          <unittitle>Correspondence, Incoming, 1981 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence, Outgoing - February 18, 1981</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">9</container>
+          <unittitle>Correspondence, Incoming, 1982 - Adams-Lewis</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence, Incoming, 1982 - McBrown-Young</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">11</container>
+          <unittitle>Correspondence, Incoming, 1982 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">12</container>
+          <unittitle>Correspondence, Outgoing - February 18, 1982-April 19, 1982</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">13</container>
+          <unittitle>Correspondence, Incoming, 1983 - Al-Amin-Ledford</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">14</container>
+          <unittitle>Correspondence, Incoming, 1983 - McCauley-Yancey</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">15</container>
+          <unittitle>Correspondence, Incoming, 1983 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">16</container>
+          <unittitle>Correspondence, Incoming, 1984 - Adams-Lytle</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">17</container>
+          <unittitle>Correspondence, Incoming, 1984 - McMillan-Zelaya</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">18</container>
+          <unittitle>Correspondence, Incoming, 1984 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">19</container>
+          <unittitle>Correspondence, Outgoing - April 3, 1984-October 20, 1984</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">20</container>
+          <unittitle>Correspondence, Incoming, 1985 - Allnoch-Lipscomb</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, Incoming, 1985 - McMillan-Yon</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence, Incoming, 1985 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, Incoming, 1986 - Alexander-Jester</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence, Incoming, 1986 - McCauley-Yantes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">5</container>
+          <unittitle>Correspondence, Incoming, 1896 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence, Outgoing - January 24, 1986-November 26, 1986</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">7</container>
+          <unittitle>Correspondence, Incoming, 1987 - Ballard-Lehman</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence, Incoming, 1987 - McCarver-Wiltshire</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">9</container>
+          <unittitle>Correspondence, Incoming, 1987 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence, Outgoing - January 2, 1987-September 14, 1987</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">11</container>
+          <unittitle>Correspondence, Incoming, 1988 - Agerton- Ledford</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">12</container>
+          <unittitle>Correspondence, Incoming, 1988 - McLauren-Wilson</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">13</container>
+          <unittitle>Correspondence, Incoming, 1988 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">14</container>
+          <unittitle>Correspondence, Outgoing - January21, 1988-July 20, 1988</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">15</container>
+          <unittitle>Correspondence, Incoming, 1989 - Adams-Loyd</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">16</container>
+          <unittitle>Correspondence, Incoming, 1989 - McCracken-Wirth</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">17</container>
+          <unittitle>Correspondence, Incoming, 1989 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">18</container>
+          <unittitle>Correspondence, Outgoing - February 21, 1989</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">19</container>
+          <unittitle>Correspondence, Incoming - 1990 - Allen-Hurt</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">20</container>
+          <unittitle>Correspondence, Incoming, 1990 - Jester-Yardley</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">21</container>
+          <unittitle>Correspondence Incoming, 1990 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">22</container>
+          <unittitle>Correspondence, Outgoing - April 24, 1990-December 14, 1990</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, Incoming, 1991 - Arp-Lewis</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence, Incoming, 1991 - MacLean-Wright</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, Incoming - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence, Outgoing - February 21, 1991-April 18, 1991</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">5</container>
+          <unittitle>Correspondence, Incoming, 1992 - Adams-Lichter</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence, Incoming, 1992 - Miller-Witherspoon</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">7</container>
+          <unittitle>Correspondence, Incoming, 1992 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence, Incoming, 1993 - Ashmore-Kneebone</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">9</container>
+          <unittitle>Correspondence, Incoming, 1993 - Madison-Wilson</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence, Incoming, 1993 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">11</container>
+          <unittitle>Correspondence, Outgoing - May 13, 1993-December 3, 1993</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">12</container>
+          <unittitle>Correspondence, Incoming, 1994 - Albright-Fults</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">13</container>
+          <unittitle>Correspondence, Incoming, 1994 - Gorgon-Puffenbarger</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">14</container>
+          <unittitle>Correspondence, Incoming, 1994 - Reed-Young</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">15</container>
+          <unittitle>Correspondence, Incoming, 1994 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">16</container>
+          <unittitle>Correspondence, Outgoing - January 6, 1994-December 20, 1994</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">17</container>
+          <unittitle>Correspondence, Incoming, 1995 - Ahlschwede-Crippens</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">18</container>
+          <unittitle>Correspondence, Incoming, 1995-Davis-Humphries</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">19</container>
+          <unittitle>Correspondence, Incoming, 1995 - Ikard-Ross</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">20</container>
+          <unittitle>Correspondence, Incoming, 1995 - Saker-Young</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">21</container>
+          <unittitle>Correspondence, Incoming, 1995 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, Incoming, 1996 - Abadie-Fowler</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence, Incoming, 1996 - Gleaves-Murchie</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, Incoming, 1996 - Noble-Zibart</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence, Incoming, 1996 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">5</container>
+          <unittitle>Correspondence, Incoming, 1997 - Adams-Dye</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence, Incoming, 1997 - Evans-Meyers</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">7</container>
+          <unittitle>Correspondence, Incoming, 1997 - Parker-Zulan</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence, Incoming, 1997 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">9</container>
+          <unittitle>Correspondence, Outgoing - February 3, 1997-October 25, 1997</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence, Incoming, 1998 - Abadie-Lane</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">11</container>
+          <unittitle>Correspondence, Incoming, 1998 - McClure-Zirkle</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">12</container>
+          <unittitle>Correspondence, Incoming, 1998 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">13</container>
+          <unittitle>Correspondence, Outgoing - April 21, 1998-November 2, 1998</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">14</container>
+          <unittitle>Correspondence, Incoming, 1999 - -Adams-Lane</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">15</container>
+          <unittitle>Correspondence, Incoming, 1999 - McClure-York</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">16</container>
+          <unittitle>Correspondence, Incoming, 1999 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">17</container>
+          <unittitle>Correspondence, Outgoing - March 31, 1999-December 28, 1999</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">18</container>
+          <unittitle>Correspondence, Incoming, 2000 - Ballard-Lane</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">19</container>
+          <unittitle>Correspondence, Incoming, 2000 - McHaney-Wolf</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">20</container>
+          <unittitle>Correspondence, Incoming, 2000 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">21</container>
+          <unittitle>Correspondence, Outgoing - March 13, 2000-December 14, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">22</container>
+          <unittitle>Correspondence, Incoming, 2001 - Barnes-Mutize</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">23</container>
+          <unittitle>Correspondence, Incoming, 2001 - Paley-Williams</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">24</container>
+          <unittitle>Correspondence, Incoming, 2001 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">25</container>
+          <unittitle>Correspondence, Outgoing - April 9, 2001</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, Incoming, 2002 - Baker-Woodward</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">2</container>
+          <unittitle>Correspondence, Incoming, 2002 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">3</container>
+          <unittitle>Correspondence, Outgoing - February 4, 2002-December 21, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">4</container>
+          <unittitle>Correspondence, Incoming, 2003 - Adrian-Johnson</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">5</container>
+          <unittitle>Correspondence, Incoming, 2003 - McKee-Wiltshire</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">6</container>
+          <unittitle>Correspondence, Incoming, 2003 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">7</container>
+          <unittitle>Correspondence, Outgoing - February 15, 2003</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">8</container>
+          <unittitle>Correspondence, Incoming, 2004 - Barnes-LaPrade</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">9</container>
+          <unittitle>Correspondence, Incoming, 2004 - McCall-Whitlow</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">10</container>
+          <unittitle>Correspondence, Incoming, 2004 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">11</container>
+          <unittitle>Correspondence, Incoming, 2005 - Clark-York</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">12</container>
+          <unittitle>Correspondence, Incoming, 2005 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">13</container>
+          <unittitle>Correspondence, Outgoing - June 18, 2005-November 29, 2005</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">14</container>
+          <unittitle>Correspondence, Incoming, 2006 - Arnold-Ransome</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">15</container>
+          <unittitle>Correspondence, Incoming, 2006 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">16</container>
+          <unittitle>Correspondence, Outgoing - October 27, 2006</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">17</container>
+          <unittitle>Correspondence, Incoming, 2007 - Arnold-Smith</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">18</container>
+          <unittitle>Correspondence, Incoming, 2007 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">19</container>
+          <unittitle>Correspondence, Outgoing - January 9, 2006-December 14, 2006</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">20</container>
+          <unittitle>Correspondence, Incoming 2008 - Beach-Reed</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">21</container>
+          <unittitle>Correspondence, Incoming, 2009 - Beach-Wolf</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">22</container>
+          <unittitle>Correspondence, Outgoing - March 22, 2009-July 28, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">23</container>
+          <unittitle>Correspondence, Incoming 2010 - Brame-Wolfe</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">24</container>
+          <unittitle>Correspondence, Outgoing - June 14, 2010</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">25</container>
+          <unittitle>Correspondence, Incoming, 2011 - Licitra-Mitchell</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">26</container>
+          <unittitle>Correspondence, Incoming, 2011 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">27</container>
+          <unittitle>Correspondence, Incoming, 2012 - Birdwhistell-Wilson</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">28</container>
+          <unittitle>Correspondence, Outgoing - June 20, 2012</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">29</container>
+          <unittitle>Correspondence, Incoming, 2013 - Casey-Russo</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">30</container>
+          <unittitle>Correspondence, Incoming, 2013 - Unidentified</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">31</container>
+          <unittitle>Correspondence, Outgoing - April 25, 2013-May 13, 2013</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">32</container>
+          <unittitle>Correspondence, Undated - Angell-Fooldt and Unidentified</unittitle>
+        </did>
+      </c02>
+    </c01>
+    <c01 level="series">
+      <did>
+        <unittitle>Journalist-in-Residence</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">1</container>
+          <unittitle>Journalist-in-Residence, 1978-1979 - Virginia Tech - Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">2</container>
+          <unittitle>Journalist-in-Residence, 1978-1979 - Virginia Tech - Course Outline and Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">3</container>
+          <unittitle>Journalist-in-Residence, 1978-1979 - Virginia Tech - Course Resource Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">4</container>
+          <unittitle>Journalist-in-Residence, 1978-1979 - Virginia Tech - Reflections on the Experience</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">5</container>
+          <unittitle>Journalist-in-Residence, 1997 — University of Texas - Course Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">6</container>
+          <unittitle>Journalist-in-Residence, 1997 - University of Texas - Course Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">7</container>
+          <unittitle>Journalist-in-Residence, 1997 - University of Texas - Course Research Materials</unittitle>
+        </did>
+      </c02>
+    </c01>
+    <c01 level="series">
+      <did>
+        <unittitle>Presentations</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">8</container>
+          <unittitle>Presentations - Appalachian Writers’ Conference, 1977 and Trident Conference on Change, 1978</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">9</container>
+          <unittitle>Presentations - Friends of the Library, Vanderbilt University-April 1981</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">10</container>
+          <unittitle>Presentations - Cumberland Valley Writers’ Conference-August, 1981</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">11</container>
+          <unittitle>Presentations - Cumberland Valley Writers’ Conference-July-August, 1982</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">12</container>
+          <unittitle>Presentations - Celebrations of Writers and Friends-Vanderbilt University, July, 1982</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">13</container>
+          <unittitle>Presentations - Florida Sun Coast Writers’ Conference, January, 1983 and February, 1996</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">14</container>
+          <unittitle>Presentations - Appalachian Writers’ Conference—August, 1985</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">15</container>
+          <unittitle>Presentations — Writers’ Workshop for Writers Over 57-August, 1985</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">16</container>
+          <unittitle>Presentations - The Once and Future South-March 27, 1986</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">17</container>
+          <unittitle>Presentations - Plowshare Chapel Writing Workshop-February, 1988</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">18</container>
+          <unittitle>Presentations - Bill of Rights Seminar, University of South Florida-March, 1991</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">19</container>
+          <unittitle>Presentations - Appalachian Writers’ Conference-July-August, 1994</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">20</container>
+          <unittitle>Presentations - The South in the Twentieth Century-January-March 1995</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">21</container>
+          <unittitle>Presentations - Jesse Stuart Writing Symposium-April 1995</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">22</container>
+          <unittitle>Presentations — Livingston Lecture, Atlanta History Center-May, 1995</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">23</container>
+          <unittitle>Presentations - Carson Newman College-March, 1999</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">24</container>
+          <unittitle>Presentations - Symposium for Professional Food Writers at the Greenbrier Hotel, West Virginia-March, 1999</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">1</container>
+          <unittitle>Presentations - News Channel Five Seminar, Nashville, TN-March, 1999</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">2</container>
+          <unittitle>Presentations - Symposium at Hampden-Sydney College-October, 1999</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">3</container>
+          <unittitle>Presentations - “Centering the South”, University of North Carolina, March, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">4</container>
+          <unittitle>Presentations - “Kentucky - Is It Southern?”, Eastern Kentucky University, September, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">5</container>
+          <unittitle>Presentations - Festival Blue Metropolis, Montreal, Canada, April, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">6</container>
+          <unittitle>Presentations - American South-Then and Now Symposium, University of Mississippi, November, 2004</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">7</container>
+          <unittitle>Presentations - Guest Lecturer, Celebrity Cruises, July-August, 2005</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">8</container>
+          <unittitle>Presentations - “The Story of Highlander Folk School”, Nashville Public Library, November, 2005</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">9</container>
+          <unittitle>Presentations - Natchez Literary and Cinema Celebration, February, 2006</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">10</container>
+          <unittitle>Presentations - The End of Southern History? Conference, Emory University, March, 2006</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">11</container>
+          <unittitle>Presentations - Highlander Rolling Seminar, February, 2007</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">12</container>
+          <unittitle>Presentations - Elder Hostel Mississippi River Trip, April, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">13</container>
+          <unittitle>Presentations - Tennessee State Museum Sit-ins Exhibit, May, 2009-February, 2010</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">14</container>
+          <unittitle>Presentations - Clarksville Arts and Heritage Development Council, July 24, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">15</container>
+          <unittitle>Presentations - Tennessee Mountain Writers Conference, March 25-27, 2010</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">16</container>
+          <unittitle>Presentations - Let the People Know: Spoken Word Census, May 30, 2010</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">17</container>
+          <unittitle>Presentations - Southern Festival of Books, October 15, 2011</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">18</container>
+          <unittitle>Presentations - Future Break. May, 2012</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">19</container>
+          <unittitle>Presentations - Southern Foodways Alliance Thirty-Thirteen Supper, September 15, 2012</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">20</container>
+          <unittitle>Presentations - Southern Foodways Alliance Symposium, October 19-21, 2012</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">21</container>
+          <unittitle>Presentations - History of Education Society, October 31-November 2, 2012</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">22</container>
+          <unittitle>Miscellaneous Notes for Speeches, Part I</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">9</container>
+          <container type="folder">23</container>
+          <unittitle>Miscellaneous Notes for Speeches, Part II</unittitle>
+        </did>
+      </c02>
+    </c01>
+    <c01 level="series">
+      <did>
+        <unittitle>Fellowships</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">1</container>
+          <unittitle>Job and Fellowship Applications</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">2</container>
+          <unittitle>Fellowships - Lyndhurst Foundation Prize, 1984-1986</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">3</container>
+          <unittitle>Fellowships - Virginia Center for the Humanities, 1991</unittitle>
+        </did>
+      </c02>
+    </c01>
+    <c01 level="series">
+      <did>
+        <unittitle>Projects</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">4</container>
+          <unittitle>Projects - Southern Regional Task Force, 1972-1974 - Position Paper and Agenda</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">5</container>
+          <unittitle>Projects - Southern Regional Task Force, Egerton’s Report and Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">6</container>
+          <unittitle>Projects - Southern Regional Task Force, Correspondence, Incoming</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">7</container>
+          <unittitle>Projects - Southern Regional Task Force, Correspondence, Outgoing</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">8</container>
+          <unittitle>Projects - Writer Owned Publishing Cooperative - 1980-1984 Research</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">9</container>
+          <unittitle>Projects - Writer Owned Publishing Cooperative, Research,</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">10</container>
+          <unittitle>Projects - Writer Owned Publishing Cooperative, Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">11</container>
+          <unittitle>Projects - Writer Owned Publishing Cooperative, Correspondence, Incoming - Adams-Wigginton</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">12</container>
+          <unittitle>Projects - Writer Owned Publishing Cooperative, Correspondence, Outgoing - August 5, 1983-March 22, 1984</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">13</container>
+          <unittitle>Projects - Rugby Centennial Celebration, 1980 - Research,</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">14</container>
+          <unittitle>Projects - Rugby Centennial Celebration, Correspondence, Incoming - Curzon-Paylor</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">15</container>
+          <unittitle>Projects - Rugby Centennial Celebration, Correspondence, Outgoing - October 8, 1980</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">16</container>
+          <unittitle>Projects - Rugby Centennial Celebration - Publicity and Egerton’s Speech</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">17</container>
+          <unittitle>Projects - Proposal for Series on Nashville Network, 1982 - Research,</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">18</container>
+          <unittitle>Projects - Proposal for Series on Nashville Network, Title, “The Roots of Country Music”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">19</container>
+          <unittitle>Projects - Proposal for Series on Nashville Network, Correspondence, Incoming - Healy-Smith</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">20</container>
+          <unittitle>Projects - Proposal for Series on Nashville Network, Correspondence, Outgoing, 1982</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">21</container>
+          <unittitle>Projects - Clarksville’s Bicentennial Story, 1984 - Consulting</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">22</container>
+          <unittitle>Projects - Southern Sampler at Aquinas,1987 - Final Menu</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">1</container>
+          <unittitle>Projects - Rugby Fund Raising Campaign, 1987 - Correspondence, Incoming - -Alley-Stagg</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">2</container>
+          <unittitle>Projects - Rugby Fund Raising Campaign, Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">3</container>
+          <unittitle>Projects - Rugby Fund Raising Campaign, Printed Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">4</container>
+          <unittitle>Projects - Wednesday Night Club, 1980s-2000s - Planning, Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">5</container>
+          <unittitle>Projects - Disney “Generations” Proposal, 1993 - Planning and Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">6</container>
+          <unittitle>Projects - Assisting South African Teacher to Attend MTSU, 1998 - Interview, CV, Photo</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">7</container>
+          <unittitle>Projects - “Partners of the Heart” video, 1999-2003 - Research and Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">8</container>
+          <unittitle>Projects - “Partners of the Heart” video, Viewers Guide and Reviews</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">9</container>
+          <unittitle>Projects - Martin Luther King Memorial, 1999-2000 - Correspondence, Incoming, Bonior-Feldman</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">10</container>
+          <unittitle>Projects - Martin Luther King Memorial, Correspondence, Incoming, Feldman-Feldman</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">11</container>
+          <unittitle>Projects - Martin Luther King Memorial - Correspondence, Incoming, Feldman-Resnik</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">12</container>
+          <unittitle>Projects - Martin Luther King Memorial - Correspondence, Outgoing - July 16, 1999-April 27, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">13</container>
+          <unittitle>Projects - Martin Luther King Memorial, Newspaper Clippings</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">14</container>
+          <unittitle>Projects - Martin Luther King Memorial, Egerton’s Suggestions, undated (2 copies)</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">15</container>
+          <unittitle>Projects - Veterans for Educational Opportunity, 1997-2001, Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">16</container>
+          <unittitle>Projects - Veterans for Educational Opportunity - Clippings</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">17</container>
+          <unittitle>Projects - Ledford Foundation vs. Appalachian College Association, 2000-2002 - Contracts and Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">18</container>
+          <unittitle>Projects - “They Closed Our Schools” video, 2000-2003 - Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">19</container>
+          <unittitle>Projects - “They Closed Our Schools” video, Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">20</container>
+          <unittitle>Projects - Ned Scott Archive, 2000 - Proposal</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">1</container>
+          <unittitle>Projects - Running for Office, 2000 - Correspondence, Incoming - Embrey-Pratt</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">2</container>
+          <unittitle>Projects - Running for Office, Correspondence, Outgoing, April 11, 2000-April 13, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">3</container>
+          <unittitle>Projects - Running for Office, Research and Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">4</container>
+          <unittitle>Projects - Running for Office, Legal Documents</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">5</container>
+          <unittitle>Projects - Running for Office, Clippings</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">6</container>
+          <unittitle>Projects - Plan of Nashville, 2002 - Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">7</container>
+          <unittitle>Projects - Plan of Nashville, Nashville History Timeline</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">8</container>
+          <unittitle>Projects - Proposed “Music Czar” for “Music City”, 2003 - Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">9</container>
+          <unittitle>Projects - -Proposed “Music Czar” for “Music City”, Research</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">10</container>
+          <unittitle>Projects - Suppport for Donald Beisswenger, 2004 - Correspondence, Incoming - Beisswenger-Martin</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">11</container>
+          <unittitle>Projects - Support for Donald Beisswenger, Beisswenger’s Prison Diary</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">12</container>
+          <unittitle>Projects - Support for Donald Beisswenger, Book Proposal</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">13</container>
+          <unittitle>Projects - Health Care Issues, 2003-2005 - Correspondence, Incoming</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">14</container>
+          <unittitle>Projects - Health Care Issues, North Carolina’s Project Access Policy</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">15</container>
+          <unittitle>Projects - Health Care Issues, Research</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">16</container>
+          <unittitle>Projects - Health Care Issues, Nashville’s “Bridges to Care”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">17</container>
+          <unittitle>Projects - Health Care Issues, Egerton’s Commentary on TennCare</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">18</container>
+          <unittitle>Projects - Progressive Politics, 2007 - Tennessee Alliance for Progress</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">19</container>
+          <unittitle>Projects - Harmon Wray, Prisoner Advocate, 2007 - Correspondence, Incoming</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">20</container>
+          <unittitle>Projects - Harmon Wray, Prisoner Advocate, Correspondence, Incoming - Robinson—Wilson</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">21</container>
+          <unittitle>Projects - Harmon Wray, Prisoner Advocate, Correspondence, Outgoing, May 8, 2008</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">22</container>
+          <unittitle>Projects - Harmon Wray, Prisoner Advocate, Obituary and Tributes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">23</container>
+          <unittitle>Projects - Habitat for Humanity, 2008 - Research and Publicity</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">24</container>
+          <unittitle>Projects - Southern Food and Beverage Museum, 2008-2012 - Correspondence, Incoming</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">25</container>
+          <unittitle>Projects - Southern Food and Beverage Museum, Correspondence, Outgoing</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">1</container>
+          <unittitle>Projects - Southern Food and Beverage Museum, Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">2</container>
+          <unittitle>Projects - Southern Food and Beverage Museum, Publicity</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">3</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Correspondence, Incoming - Beats-Terry</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">4</container>
+          <unittitle>Projects - Little Roc Film Project, 2009-Correspondence, Outgoing—May 10, 2009-October 8, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">5</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">6</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Interviews</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">7</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Interviews</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">8</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Research</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">9</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Research</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">10</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Egerton’s Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">11</container>
+          <unittitle>Projects - Little Rock Film Project, 2009 - Film Proposal</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">12</container>
+          <unittitle>Projects - Brooks Fund History Project - Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">13</container>
+          <unittitle>Projects - Brooks Fund History Project - Procedures</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">14</container>
+          <unittitle>Projects - Brooks Fund History Project - Interview with John Egerton</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">15</container>
+          <unittitle>Projects - Logan County, Kentucky Project, 2010 - Proposals</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">16</container>
+          <unittitle>Projects - Education for the Disadvantaged, 2010 - Martha O’Brien Center</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">13</container>
+          <container type="folder">17</container>
+          <unittitle>Projects - Word Bank, 2010 - Egerton’s Notes on Writing</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">1</container>
+          <unittitle>Community Food Advocates, 2009 - “Everybody Eats” Website, Correspondence, Outgoing, March 22, 2009-April 6, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">2</container>
+          <unittitle>Community Food Advocates - “Everybody Eats” Website, Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">3</container>
+          <unittitle>Community Food Advocates - “Everybody Eats” Website, Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">4</container>
+          <unittitle>Community Food Advocates - “Everybody Eats” Website Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">5</container>
+          <unittitle>Community Food Advocates 2010 - Communication and Marketing Plans</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">6</container>
+          <unittitle>Community Food Advocates, 2011 - Lunch at Arnold’s Country Kitchen</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">7</container>
+          <unittitle>Community Food Advocates, 2011 - Taste of Music City Festival</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">8</container>
+          <unittitle>Community Food Advocates, 2011 - Food Summit, 2011</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">9</container>
+          <unittitle>Community Food Advocates, 2012 - Nashville Food Project Dinner</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">10</container>
+          <unittitle>Community Food Advocates, 2012 - The State of the Barbecue Nation</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">11</container>
+          <unittitle>Community Food Advocates, 2012 - Growing Heathy Kids</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">12</container>
+          <unittitle>Community Food Advocates, 2011-2012 - Grants programs</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">13</container>
+          <unittitle>Community Food Advocates, 2011-2013 - Board Members Notebook</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">14</container>
+          <unittitle>Community Food Advocates, 2011-2013 - Board Meeting Minutes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">15</container>
+          <unittitle>Community Food Advocate, 2011-2013 - Financial Statements</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">16</container>
+          <unittitle>Community Food Advocates, 2011-2013 - Clippings</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">14</container>
+          <container type="folder">17</container>
+          <unittitle>Community Food Advocates, 2011-2013 - Clippings</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">1</container>
+          <unittitle>Projects - Edmundson Cemetery Projects, 2011 - Confidential Report</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">2</container>
+          <unittitle>Projects - Self-Publishing and E-Books, 2011 - Research and Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">3</container>
+          <unittitle>Projects - Nashville Encyclopedia, 2013 - Proposal</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">4</container>
+          <unittitle>Projects - Coalition of Immokalee Workers, 2013 - Notes and Egerton’s Participation in Protest March Florida</unittitle>
+        </did>
+      </c02>
+    </c01>
+    <c01 level="series">
+      <did>
+        <unittitle>Writings</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">5</container>
+          <unittitle>Writing Ideas - Articles, 1960s - Hospital Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">6</container>
+          <unittitle>Writing Ideas - Articles, 1960s-1980s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">7</container>
+          <unittitle>Writing ideas - Articles, 1960s-1970s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">8</container>
+          <unittitle>Writing ideas - Articles, 1960s-1970s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">9</container>
+          <unittitle>Writing Ideas - Articles, 1970s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">10</container>
+          <unittitle>Writing Ideas - Articles, 1970s—Ideas for Southern Voices</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">11</container>
+          <unittitle>Writing Ideas - Articles, 1975 - Politics and Country Music</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">12</container>
+          <unittitle>Writing ideas - Articles, 1976 - Smithsonian Family Histories</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">15</container>
+          <container type="folder">13</container>
+          <unittitle>Writing ideas - Articles, 1980s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">1</container>
+          <unittitle>Writing Ideas - Articles, 1980s-1990s - General, plus Employment Possibilities</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">2</container>
+          <unittitle>Writing Ideas - Articles, 1980s-1990s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">3</container>
+          <unittitle>Writing Ideas - Articles, 1990s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">4</container>
+          <unittitle>Writing Ideas - Articles, 1995 - Political and Social Commentary</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">5</container>
+          <unittitle>Writing Ideas - Articles, 1997-1998 - Bill Moyers</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">6</container>
+          <unittitle>Writing Ideas - Articles, 1997-1998 - Changes in the Episcopal Church</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">7</container>
+          <unittitle>Writing Ideas - Articles, 1999 - The New Southerners</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">8</container>
+          <unittitle>Writing Ideas - Articles, 1999 - Bill Clinton</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">9</container>
+          <unittitle>Writing ideas - Articles, 2002 - State Elections, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">10</container>
+          <unittitle>Writing ideas - Articles, 2002 - State Elections, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">11</container>
+          <unittitle>Writing Ideas - Articles, 2002 - National Election, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">12</container>
+          <unittitle>Writing Ideas - Book, 1970s-1980s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">13</container>
+          <unittitle>Writing Ideas - Book, 1970s-2000s - General</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">14</container>
+          <unittitle>Writing Ideas - Book, 1980 - City History Books and Services as a Consultant</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">16</container>
+          <container type="folder">15</container>
+          <unittitle>Writing ideas - Book, 1980s - Spin-off Book Ideas following the Publication of Speak Now Against the Day</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">1</container>
+          <unittitle>Writing Ideas - Book, 1990s-2000s - Living in the Stacks of the Library of Congress</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">2</container>
+          <unittitle>Writing Ideas - Book, 1995 - Tennessee Writers Collection</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">3</container>
+          <unittitle>Writing Ideas - Book, 1999 - American Inventory: The Making of the 2000 Census</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">4</container>
+          <unittitle>Writing Ideas - Book, 2000 - Unfinished Song: A Year in the Life of Nashville</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">5</container>
+          <unittitle>Writing Ideas - Book, 2006 - Waffle House</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">6</container>
+          <unittitle>Writing Ideas - 1960s Correspondence with Agents and Editors - Incoming, Anderson - Vincent</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">7</container>
+          <unittitle>Writing Ideas - 1970s Correspondence with Agents and Editors - Incoming, Adler-Wyle</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">8</container>
+          <unittitle>Writing Ideas - 1980s-2000s Correspondence with Agents and Editors, Incoming - Anderson-Lynch</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">9</container>
+          <unittitle>Writing Ideas - 1980s-2000s - Correspondence with Agents and Editors, Incoming - Machemer-Wolf</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">10</container>
+          <unittitle>Writing Ideas - Correspondence with Agents and Editors - Outgoing - October 24, 1966-August 12, 1978</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">11</container>
+          <unittitle>Writing Ideas - Correspondence with Agents and Editors - Outgoing - December 9, 1980-July 6, 1981</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">12</container>
+          <unittitle>Writing Ideas - Correspondence with Agents and Editors - Outgoing - July 21, 1981-October 18, 1989</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">13</container>
+          <unittitle>Writings - Master’s Thesis, 1960 - “Some Aspects of the Relationships between the State and the State Government”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">14</container>
+          <unittitle>Writings - Booklet, 1960 - “Operation Indonesia”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">15</container>
+          <unittitle>Writings - Articles, 1960-1964 - Bicentennial Reports of the University of Southern Florida</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">17</container>
+          <container type="folder">16</container>
+          <unittitle>Writings - Articles, 1963-1964 - Miscellaneous Articles printed in Florida Newspapers</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Articles, 1965 - “The New Missionary”, The Christian Century.</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Articles, 1967 - “Little Rock Ten Years Later”, The Saturday Review</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Articles, 1967 - Jesse Stuart (Incomplete article)</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Articles, 1970 - “The Louisville Story, 1970”, Race Relations Reporter</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Articles, 1972 - “That New South”, The Progressive</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Articles, 1974 - “Duke University”, Change</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Articles, 1977 - “Notes from Sue Alston”, Hampshire Plantation, South Carolina</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Articles, 1982 - “The South and the Nation”, Atlanta Magazine</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Articles, 1980s - Proposed articles on the Writers of Girard, Kansas</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - Articles, 1980s - Proposed Articles on the Writers of Girard, Kansas</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">11</container>
+          <unittitle>Writings - Articles, 1985 - “I Am What I Am”, Homewords: A Book of Tennessee Writers</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">12</container>
+          <unittitle>Writings - Articles, 1884-1987 - “Robert H. Allen”, Tennessee</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">13</container>
+          <unittitle>Writings - Articles, 1988 - “Poverty Palace” and other articles re The Southern Poverty Law Center</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">14</container>
+          <unittitle>Writings - Articles, 1988 - The Southern Poverty Law Center, Correspondence, Incoming - Belak-Williams</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">15</container>
+          <unittitle>Writings - Articles, 1988 - The Southern Poverty Law Center, Correspondence, Outgoing - May 17, 1988-July 24, 1988</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">16</container>
+          <unittitle>Writings - Articles, 1988 - The Southern Poverty Law Center - Research and Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">18</container>
+          <container type="folder">17</container>
+          <unittitle>Writings - Articles, 1988 - The Southern Poverty Law Center - Research</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Articles, 1995 - “South Carolina Politics”, The New York Times Magazine</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Articles, 1996 - “Faces in the Crowd”, The Tennessean, April-October, 1996</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Articles, 1995-1998 - Proposed Articles for The New Yorker</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Articles, 1966 and 1998 - “White Minority Governs with Force”, The Tennessean and 1998 Article on Zimbabwe, missing one page</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Articles, 1995-1998 - Research for Articles on Zimbabwe</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Articles, 1998 - Proposed Articles on South Africa</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Articles, 2004 - “The Gravity of Segregation”, typescript</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Article, 2004 - “The Gravity of Segregation”, Southern Education Foundation</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Articles, 2004 - “Where We Stand”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - Articles, 2004 - “The People vs, George Bush”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">19</container>
+          <container type="folder">11</container>
+          <unittitle>Writings - Articles, 2004 - “The People vs, George Bush”, Research Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Articles, 2005 - “No Grits, No Glory: The Endurance of Southern Food”, Oxford American</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Articles, 2008 - “Barbecue”, The New Encyclopedia of Southern Culture</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Articles, 2009 - A Tribute to John Hope Franklin, Fisk University</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Articles, 2010 - “Tomato Haiku”, chapter 16</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Articles, 2013 - “Moon Pies and Memories”, Southern Cultures</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Articles, Undated or Untitled on Education</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Articles, Undated or Untitled on Politics</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Books, 1963 - A Bridge from Darkness, Typescript of Unpublished Novel</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Books, 1974 - The Americaniztion of Dixie, Review</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - Correspondence, Incoming-Arnovitz-Pulitzer</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">11</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - Correspondence, Outgoing, April 7, 1975-March 22, 1982</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">12</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - Readers’ Reports</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">13</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - typescript, Chapters 1-14</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">14</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - typescript, Chapters 15-24</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">20</container>
+          <container type="folder">15</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - typescript, Chapters 25-37</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - typescript, Chapters 1-4</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - typescript, Chapters 5-11</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Books, 1982 - Paradise Island, unpublished - typescript, Chapters 12-20</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Books, 1983 - Generations - Correspondence, Incoming - Baskins-Walther</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Books, 1983 - Generations - Correspondence, Outgoing-August 3, 1993-June 12, 1986</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Books, 1983 - Generations - Contracts and Royalty Statements for Paperback Edition</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Books, 1983 - Generations - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Books, 1983 - Generations - Publicity</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Books, 1983 - Generations - Japanese Translation</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - Books, 1987 - Southern Food - Handwritten Corrections to Proof Pages</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">11</container>
+          <unittitle>Writings - Books, 1987 - Southern Food - Research—Recipes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">12</container>
+          <unittitle>Writings - Books, 1987 - Southern Food - Research—Restaurants-Tennessee</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">13</container>
+          <unittitle>Writings - Books, 1987 - Southern Food - Research - Restaurants-Georgia, Alabama, Mississippi</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">14</container>
+          <unittitle>Writings - Books, 1987 - Southern Food—Research - Restaurants-North Carolina, South Carolina, Virginia, Florida</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">15</container>
+          <unittitle>Writings - Books, 1987 - Southern Food - Research - Restaurants-Louisiana, Arkansas, Kentucky, Texas</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">16</container>
+          <unittitle>Writings - Books, 1987 - Southern Food - Research - Restaurants-Inside and Outside the South</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">21</container>
+          <container type="folder">17</container>
+          <unittitle>Writings - Books, 1987 - Southern Food - Information about Cookbooks</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Books, 1994 - Speak Now Against the Day - Correspondence, Incoming - Adams-Sitton</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Books, 1994 - Speak Now Against the Day - Correspondence, Outgoing - January 6, 1994-July 12, 1994</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Books, 1994 - Speak Now Against the Day - Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Books, 1994 - Speak Now Against the Day - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Books, 1994 - Speak Now Against the Day - Requests for Permission to Use Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Books, 1994 - Speak Now Against the Day - Publicity</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Books, 1994 - Speak Now Against the Day - Reviews</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">11</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">12</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">22</container>
+          <container type="folder">13</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Contract and Marketing Plans</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Cover Art by Bill Sanders</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - First Drafts</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Complete First Draft, Edited April, 2006</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubiyah and the Forty Thieves - Typescript, Edited September, 2006</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Galley Proofs, Edited</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Complete Manuscript with Notes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">23</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Two Copies of the Book, plus The Last American by J.R. Mitchell</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Reviews</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Books, 2006 - Ali Dubyiah and the Forty Thieves - Typescript of Introduction (Framed Cover Art of Ali Dubyiah and the Forty Thieves signed by the Artist Bill Sanders located at 21 North Art Rack)</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Books, 2009 - The New Lovin’ Spoonfuls</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Books, 2009-2011 - The Sausage Papers - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Books, 2009 - Political Poetry, 2009 - Collection of poems by Egerton</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Book Jackets for Miscellaneous Books by John Egerton</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Miscellaneous Memorial Tributes for Others written by Egerton, 1987-2011</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - The Tennessean, 1996 - a Series of Three Articles about Nashville School Integration (Article #3 missing)</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - The Tennessean, 1996 - Research Materials for Integration Articles</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - The Tennessean, 1996 - Research Materials for Integration Articles</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">24</container>
+          <container type="folder">11</container>
+          <unittitle>Writings - The Tennessean, 1996 - Article about Richard Benjamin, Superintendent of Metro Nashville Public Schools</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">25</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Correspondence, Incoming - Ames-Heard</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Correspondence, Incoming - Horton-Siles</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Correspondence, Incoming - Watson-Wood</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Correspondence, Outgoing - July 6, 2000-December 29, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Business e-mails between John Egerton and Others, Arranged Chronologically September, 27, 2000-June 1, 2004</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">7</container>
+          <unittitle>writings - Books, 2001 - Co-Editor, Nashville - Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Contracts, 2000-2005</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">10</container>
+          <unittitle>Writings — Books, 2001 - Co-Editor, Nashville - Sales and Distribution Data</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">11</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Sales and Distribution Data</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">26</container>
+          <container type="folder">12</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Sales and Distribution Data</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Sales and Distribution Data</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Books, 2001 - Co-Editor, Nashville - Sales and Distribution Data</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Books- 2001 - Co-Editor, Nashville - Book Jackets and Promotional Material</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Books, 2013 - Great Hearts - Nashville School Desegregation</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - “Living Downtown” - Series of Articles for The Tennessean, 1996</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - “Living Downtown” - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - “Living Downtown - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Plans for a Foreword by John Egerton for a Proposed Book by Will Campbell, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Cornbread Nation, 2002, edited by John Egerton - Reviews</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">27</container>
+          <container type="folder">10</container>
+          <unittitle>Writings - Foreword by John Egerton for The Jemima Code, by Toni Tipton Martin, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">1</container>
+          <unittitle>Writings - Editor, Home to Us, 2012 by Varina Willsee and Nancy Rhoda - E-mails and Correspondence</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">2</container>
+          <unittitle>Writings - Editor, Home to Us, 2012 by Varina Willsee and Nancy Rhoda - Research Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">3</container>
+          <unittitle>Writings - Editor, Home to Us, 2012 by Varina Willsee and Nancy Rhoda - Manuscript Drafts</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">4</container>
+          <unittitle>Writings - Editor, Home to Us, 2012 by Varina Wllsee and Nancy Rhoda - Page Proofs</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">5</container>
+          <unittitle>Writings - Editor, Home to Us, 2012 by Varina WIllsee and Nancy Rhoda - Page Proofs</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">6</container>
+          <unittitle>Writings - Editor, Home to Us, 2012 by Varina Willsee and nancy Rhoda - Planning and Marketing</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">7</container>
+          <unittitle>Writings - Review of The Faulkner Newsletter, 1994</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">8</container>
+          <unittitle>Writings - Endorsement Comments for Biscuit Bliss, 2004, by James by W.O. Smith by</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">9</container>
+          <unittitle>Writings - Blurb for The Wind Done Gone, 2000 by Alice Randall</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">28</container>
+          <container type="folder">10</container>
+          <unittitle>Writings by Others - Dixie: The South in an Age of Change, Tulane University , 1981</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">1</container>
+          <unittitle>Writings by Others - Kinfolks by Jo Carson, 1986</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">2</container>
+          <unittitle>Writings by Others - Highlander by Eliot Wigginton, 1989</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">3</container>
+          <unittitle>Writings by Others - Dissertation on Will Campbell by Robin by W.O. Smiot</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">4</container>
+          <unittitle>Writings by Others - Dissertation on Will Campbell by Robin Jimmerson, 1990 - Pp. 115-299</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">5</container>
+          <unittitle>Writings by Others - Hat in Hand and Throbbing Heart by E. Clayton Braddock, Jr., 1991</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">6</container>
+          <unittitle>Writings by Others - Sideman by W.O. Smith, 1991 - Manuscript and Diskettes</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">7</container>
+          <unittitle>Writings by Others - Sideman by W.O. Smith, 1991 - Planning</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">8</container>
+          <unittitle>Writings by Others - Sideman by W.O. Smith, 1991 - Marketing and Reviews</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">9</container>
+          <unittitle>Writings by Others - Sideman by W.O. Smith, 1991 - Memorial Concert</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">29</container>
+          <container type="folder">10</container>
+          <unittitle>Writings by Others - Roy B. Herron by Roy B. Herron, 1992</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">1</container>
+          <unittitle>Writings by Others - Materials on Fruit of the Land by Alice Cobb, 1993</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">2</container>
+          <unittitle>Writings by Others - A Researcher’s Guide to the John Egerton File on the Johns Committee by James Schnur, 1991</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">3</container>
+          <unittitle>Writings by Others - The Carmack-Cooper Shooting by James Summerville, 1994 - Pp. 1-111</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">4</container>
+          <unittitle>Writings by Others - The Carmack-Cooper Shooting by James Summerville, 1994 - Pp. 112-211</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">5</container>
+          <unittitle>Writings by Others - A Book of Names by Clayton Braddock, 1994</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">6</container>
+          <unittitle>Writings by Others - Mountain Country Cooking by Mark Sohn - Pp. 1-198</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">7</container>
+          <unittitle>Writings by Others - Mountain Country Cooking by Mark Sohn - Pp. 199-455</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">30</container>
+          <container type="folder">8</container>
+          <unittitle>Writings by Others - Covenant by Will Campbell and Al Clayton, 1989</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">1</container>
+          <unittitle>Writings by Others - ‘Black Power’ and the Roots of the African American Freedom Struggle by Timothy Tyson, 1998</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">2</container>
+          <unittitle>Writings by Others - Annie by Dana Wildsmith, 1999</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">3</container>
+          <unittitle>Writings by Others - A Beautiful Woman Is Always with Someone by Dana Wildsmith, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">4</container>
+          <unittitle>Writings by Others - The Diffusionists Have Landed by Marc R. Stengel, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">5</container>
+          <unittitle>Writings by Others - The Silence at Boalt Hall by Andrea Guerreo, 2000</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">6</container>
+          <unittitle>Writings by Others - Just the Facts, M’am by Douglas D. Cumming, 2001</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">7</container>
+          <unittitle>Writings by Others - Facing Facts, Facing South by Douglas D. Cumming, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">8</container>
+          <unittitle>Writings by Others - The Dixie Bee Line Highway by Linda Negro, 2002</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">9</container>
+          <unittitle>Writings by Others - Looking for Good Will by Scott Price, 2003 - Pp. 1-69</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">10</container>
+          <unittitle>Writings by Others - Looking for Good Will by Scott Price, 2003—Pp. 70-140</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">11</container>
+          <unittitle>Writings by Others - Looking for Good Will by Scott price, 2003—Pp. 141-210</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">12</container>
+          <unittitle>Writings by Others - Looking for Good Will by Scott Price, 2003 - Pp. 211-255, plus Letters</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">13</container>
+          <unittitle>Writings by Others - Materials Pertaining to a Proposed Biography of John J. Hooker, Sr. by Jay Hamburg, 2003</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">14</container>
+          <unittitle>Writings by Others - Glimpses of God and Country, Jack E. Brown, 2005</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">15</container>
+          <unittitle>Writings by Others - Sketches by Jack E. Brown, 2005</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">16</container>
+          <unittitle>Writings by Others - Edna Lewis, Repast, Fall 2007 by Damon Lee Fowler</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">17</container>
+          <unittitle>Writings by Others - Random Thoughts by Bill Peach, 2008</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">18</container>
+          <unittitle>Writings by Others - Materials Pertaining to Judge Joseph Holt by Susan B. Dyer, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">31</container>
+          <container type="folder">19</container>
+          <unittitle>Writings by Others - Proposal for Chronicles of the Cumberland Settlements by Paul Clements, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">1</container>
+          <unittitle>Writings by Others - Proposal for Socialists in Nashville by Gene TeSelle, 2009</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">2</container>
+          <unittitle>Writings by Others - Thirteen Poems for Five Bypasses by Brenda Butka, 2010</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">3</container>
+          <unittitle>Writings by Others - Light from Carolina by Rachel Lawson, 2011 - Manuscript and CD</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">4</container>
+          <unittitle>Writings by Others - Hollywood, Tennessee by Bobby Braddock, 2012</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">5</container>
+          <unittitle>Writings by Others - The Cardboard Castle by Holly Roberts, n.d.</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">6</container>
+          <unittitle>Writings by Others - 1815 by Tony Dunbar, n.d. - Pp. 1-104</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">7</container>
+          <unittitle>Writings by Others - 1815 by Tony Dunbar, n.d. - Pp. 105-231</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">8</container>
+          <unittitle>Writings by Others - The Madhi by Bob Wickersham, n.d. - Pp. 1-95</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">9</container>
+          <unittitle>Writings by Others - The Madhi by Bob Wickersham, n.d. - Pp. 96-181</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">32</container>
+          <container type="folder">10</container>
+          <unittitle>Writings by Others - The Madhi by BobWickersham, n.d. - Pp. 182-299</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">1</container>
+          <unittitle>Writings by Others - The Madhi by Bob Wickersham. n.d. - Pp. 300-425</unittitle>
+        </did>
+      </c02>
+    </c01>
+    <c01 level="series">
+      <did>
+        <unittitle>Subject Files</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">2</container>
+          <unittitle>Subject Files - “A Complete Index to the American Slave”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">3</container>
+          <unittitle>Subject Files - “Seeking a Way Out: Services and Challenges Affecting Tennessee’s Poor”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">4</container>
+          <unittitle>Subject Files - “Hank Williams, Garth Brooks, BR5-49?”</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">5</container>
+          <unittitle>Subject Files - “Our Ancestors Were Engineers”, 1976</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">6</container>
+          <unittitle>Subject Files - “Dixie’s War: The South and Word War II”, 1992</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">7</container>
+          <unittitle>Subject Files - Race Relations - Miscellaneous Articles, 1980s</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">8</container>
+          <unittitle>Subject Files - Race Relations - Miscellaneous Articles, 1990s</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">9</container>
+          <unittitle>Subject Files - Race Relations - Articles from The Chronicle of Higher Education, 1990s</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">10</container>
+          <unittitle>Subject Files - Race Relations - Percentage of Black Population in Eleven Southern States, 1970s and 1980s - Two Maps</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">11</container>
+          <unittitle>Subject Files - “Race Relations and Ethnicity”, 1985</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">12</container>
+          <unittitle>Subject Files - “Racial Issues in Campus Life”, 1990</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">13</container>
+          <unittitle>Subject Files - “Remedies for Racial Inequality”, 1990</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">14</container>
+          <unittitle>Subject Files - Miscellaneous Articles, 1990s-2000s</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">33</container>
+          <container type="folder">15</container>
+          <unittitle>Subject Files - Nashville School Desegregation Materials</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">1</container>
+          <unittitle>Subject Files - Research Materials for a Proposed Book about John Kasper</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">2</container>
+          <unittitle>Subject Files - Research Materials for Proposed Book about John Kasper</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">3</container>
+          <unittitle>Subject Files - Research Materials for a Proposed Book about John Kasper</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">4</container>
+          <unittitle>Subject files - Research Materials for a Proposed Book about John Kasper</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">5</container>
+          <unittitle>Subject Files - Research Materials for a Proposed Book about John Kasper</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">6</container>
+          <unittitle>Subject Files - Nashville School Board Election, District 8, 2006</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">7</container>
+          <unittitle>Subject Files - Materials Pertaining to TVA, 1950s-1990s</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">8</container>
+          <unittitle>Subject Files - Articles about Music, 1990s-2000s</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">9</container>
+          <unittitle>Subject Files - Materials Pertaining to Metro Nashville Archives</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">10</container>
+          <unittitle>Subject Files - Materials Pertaining to Metro Nashville Archives</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">11</container>
+          <unittitle>Subject Files - Materials Pertaining to Metro Nashville Archives</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">12</container>
+          <unittitle>Subject Files - Materials Pertaining to Metro Nashville Archives</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">34</container>
+          <container type="folder">13</container>
+          <unittitle>Subject files - Materials Pertaining to Metro Nashville Archives</unittitle>
+        </did>
+      </c02>
+    </c01>
+    <c01 level="series">
+      <did>
+        <unittitle>Personal</unittitle>
+      </did>
+      <c02 level="file">
+        <did>
+          <container type="box">35</container>
+          <container type="folder">1</container>
+          <unittitle>Personal Information - Publicity Photos</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">35</container>
+          <container type="folder">2</container>
+          <unittitle>Personal Information - Publicity Photos</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">35</container>
+          <container type="folder">3</container>
+          <unittitle>Personal Information - Publicity Photos</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">35</container>
+          <container type="folder">4</container>
+          <unittitle>Personal Information - Publicity Photos</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">35</container>
+          <container type="folder">5</container>
+          <unittitle>Personal Information - Resumes, Job Searches</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">35</container>
+          <container type="folder">6</container>
+          <unittitle>Personal Information - Honors Awarded</unittitle>
+        </did>
+      </c02>
+      <c02 level="file">
+        <did>
+          <container type="box">35</container>
+          <container type="folder">7</container>
+          <unittitle>Personal Information - Memorial Service and Tributes for John Egerton (1935-2013)</unittitle>
+        </did>
+      </c02>
+    </c01>
+  </dsc>
+</archdesc>
+</ead>
