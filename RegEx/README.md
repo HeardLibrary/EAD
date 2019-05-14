@@ -153,3 +153,9 @@ Replace:
 ```
 <c02 level="item"><did><unittitle>$1</unittitle><unitdate>$2</unitdate><container type="box">$3</container></did></c02>
 ```
+
+### Formula to find only the first sentence of each <unittitle> in EBL's Artifact collections
+Find:
+```
+<unittitle>(.*?)(?=\.)
+```
