@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Steinberg, Ronnie Collection</titleproper>
+        <titleproper>Finding Aid for the Ronnie Steinberg Collection</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Ronnie Steinberg Collection</unittitle>
+      <unitid>MSS.0942</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">13.75 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1970/2018" type="inclusive"></unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="file">
+        <did>
+          <unittitle>Letter of Nomination of me to Tennessee Council on Econ. Status of Women</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W-SPARC Planning</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Three-Pager</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Strategic Plan</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Population Statistics</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Disenrollment Info www.tennessee.gov/tenncare</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Affirmative Action/Diversity Award</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>IWPR 2005 Presentation</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economic Summit for Women 2004 Presentation</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Scholarship Directory Presentation Materials</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Directory Proposal Project Presentations</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennessean Articles</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TN Journal</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Packets</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>PACE-Fact Sheets</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Subverting Organizational Containment: Sexual Harassment/Sexual Assult 7/94 Final Draft</unittitle>
+          <unitdate normal="1994-07"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sexual harassment/Sexual Assault Policy-Summer Money 1995 Proposal</unittitle>
+          <unitdate normal="1995"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>ESS Abstract-Subverting Org Containment</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Subverting Organizational Containment: Maxim. The Scope of S.H.S.A. Policies + Programs</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sex. Harassment Paper-Italy</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Talks/papers for Talk prep-2001-2002 Athena Speech-Fierce Advocacy for the 21st Century</unittitle>
+          <unitdate normal="2001/2002" type="inclusive"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TECW-Post-Vern Memos</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TECW-Goals-Objectives</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TECW Mission + Vision</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennessee Economic Council on Women Statute Highlights</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TECW-Bylaws</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TECW-Brochure</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>State of Tennessee Biennial Report TECW - Sept. 1, 2000</unittitle>
+          <unitdate normal="2000-09-01"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>IWPR State Reports - Research - in - Brief Summaries</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Status of Women in Tennessee - News Clippings release of report</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Nashville Business Journal article on Statis of Women in Tennessee</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt Register Article on SWTN report</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fact Book: preface</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Focus Box: Race + Educational Attainment</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Focus Box: Income Householder by Race</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Focus Box on the Gender Gap Fact Book</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Gender Gap Statistics for Tennessee Voter News Service</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Focus Box: IWPR- Dist. Of Wages by Female Dom/ Male Dominated/ Gender-Neutral Jobs- Alloccs, services</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Domestic Violence Data for IWPR report</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Welfare to Work Challenge for Adult Literacy Educators</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National-federal LF data from Martha Wettermann</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>State Living Wage Data:  %F merge w/ Occ Wage Data</unittitle>
+          <unitdate normal="2000-04"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Press Conference Remarks: Press kit May 10, 2000</unittitle>
+          <unitdate normal="2000-05-10"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Letters to the Editor - Tennessean Equal Pay Rebuttal</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Equal Pay Day: Press Conference - May 10, 2000 Press Release</unittitle>
+          <unitdate normal="2000-05-10"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Original Devaney Press Conference Remarks for RS</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Press Conference - may 10, 2000 National Equal Pay Day - Remarks of Ronnie Steinberg</unittitle>
+          <unitdate normal="2000-05-10"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Post-Press Conference news clippikngs + update - May 15, 2000</unittitle>
+          <unitdate normal="2000-05-15"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Equal Pay Law: Tennessee 5/9/2000</unittitle>
+          <unitdate normal="2000-05-09"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>IWPR - Status of Women Report - Focus Boxes</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National + State Data on the Pay Gap + Its Costs - AFL - CIO</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TECW - Listening Tour Report</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W-SPARC + Survey on Domestic Violence Nat'l Coalition Against Domestic Violence</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Handouts: Tax Study: Chart</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jennifer Karpinski: Tax Return Paper</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Impact on Tax Reform on Tennessee Women Memo</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Impact: Methodology + Proposals (detailed) + assumptions</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>6/4/01: Presentation on Tax Impact Study before Joint Committee-Tennessee Legislature</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Income tax Estimates - 11/01 Flat Tax (Naifeh) + Income Tax</unittitle>
+          <unitdate normal="2001-11"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economic Independence for Women in Tennessee-Is it possible? -speech-</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economci Independence for Women in Tennessee. Is it possible - 10/25/01 Women in Medicine</unittitle>
+          <unitdate normal="2001-10-25"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Econ. Independence for Women in Tennessee Overheads</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Handouts: Living Wage Calculations</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Paper-Charts</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W-SPARC-Praise</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Nashville Living Wage Campaign 5/15/01 Speech for Rally</unittitle>
+          <unitdate normal="2001-05-15"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage: Estimates of Costs re: Metro Contacts</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage: Testimony RS: draft</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>CPS Data-Distribut of Income by family Nashville</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Input/ouotput Analysis: Living Wage</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Metro Council Living Wage Ordinance - Media</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Spreadsheet: Contract Data Initial data from which computations made</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bruce Berry: passing the Buck Scene on RS/AP Living Wage Reform + Mercer Study</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Letter to Bill Purcell w/ Bruce Berry</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage: Pamphlet</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Nashville Living Wage-2001 Clippings</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TECW-News Clippings-General 1989-2000</unittitle>
+          <unitdate normal="1989/2000" type="inclusive"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennessee Economic Council on Women Cable Luncheon + Media</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Study Bibliography Beverly Moran</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SPARC Accomplishments</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Women + Sporta: Conference Proposal</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Immigrant Women Proposals</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Potential Solicitors</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Impact Study&#45;-Spreadsheets</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Consumer Expenditure Survey 1999</unittitle>
+          <unitdate normal="1999"></unitdate>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Nell Levin - paper on businesses + TN Tax Reform</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>CPS: Distribut. Of Income by family type for estimates of tax impact</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tenn. Journal Summary: Sales + use Tax: Current Structure</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Reform Proposals: Summaries</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Current Sales Tax</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rochelle: Sales Tax Categories</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sundguest 2001</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The 2001 Metro Blue Book-Nashville-Davidson County-League of Women Voters</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Budget Impact Report</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SUV-Living Wage-VU</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jennifer Karpinski: The Impact of Tax Reform on Women</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TEAC Report: Draft</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TEAC Correlations-Employees</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TEAC Results: Tables</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TEAC Study: Results of Warmth Survey</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TEAC-Survey Results</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TEAC Facility Proposals-Sample facilities</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Letter to Eden Tn. Board on TEAC study</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Transportation</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeld</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>5-Year Plan</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Health Care reports To Get</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennessee Health Status Reports TN Dept. of Health -'98-'02</unittitle>
+          <unitdate normal="1998/2002" type="inclusive"></unitdate>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TennCare Changes Effect Aug. 1, 2005</unittitle>
+          <unitdate normal="2005-08-01"></unitdate>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled
+          </unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Christina-Research</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Women on Boards</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Elder Data Not w Report</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Interdisciplinar-Women's Studies Annual Report 1999,2000</unittitle>
+          <unitdate normal="1999/2000" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Riley Lecture-Alfred Univ. : Econ War Against ♀</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Karen Porter, Intro. To my Riley Lecture Alfred University April 11, 1996</unittitle>
+          <unitdate normal="1996-04-11"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Campaign Nashville 1999</unittitle>
+          <unitdate normal="1999"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Impact of Living Wage Ordinance on the Public Contracting Process-Jared Bernstein</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Campaign: A Step in the Right Direction EPI - Jared Bernstein</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>CROW- Living Wage I Memphis Ciscel</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>How Much is Enough? Basic Family Budget for Working Families Jared Bernstein; Chawna Brocht + Maggie Spade-Aquilar</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Domestic Vioolence Report Project Fighting Back With Facts: Getting the Research you need to build a movement</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W-SPARC: Memphis Confscto</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W-SPARC-Development Other Centers' Donor Lists</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ronnie-Annual Report Info for 2001/2002</unittitle>
+          <unitdate normal="2001/2002" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Structure Study Commission Proposal</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>City Council - TennCare</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Immigrant Research</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Class Record Book</unittitle>
+          <unitdate normal="1999/2007" type="inclusive"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes from interviews, classes, and conferences</unittitle>
+          <unitdate normal="1996/1997" type="inclusive"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Conference Notes Spring 1998-Summer 1998 (Notebook)</unittitle>
+          <unitdate normal="1998"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Conference Notes Notebook</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Speeches + Seminars Notebook</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Notebook with miscellanous notes</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Center Proposal: Clowning</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ford Grant: Core Funding</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Leadership Proposal</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Reviewed Funding Info Currently Useful</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SFC grants TN</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Living Wage Campaign Maria Tsagaris</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Paper</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Alisa's Notes/Data</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fall 2000 + Spring 2001 Schedules Turned in 3-9-00</unittitle>
+          <unitdate normal="2000/2001" type="inclusive"></unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Alisa's Data Cont.</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Cost of Living Info</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>LW Articles + Studies</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>State Wage Data</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Mtg. Minutes</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage Articles</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ferret Data</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Living Wage-Mercer</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TACIR Reports</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Proposal Summaries</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Paper- Final Tax Calculations</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Graphs</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Paper</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Guide-2001 TN</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitdate>2002 Tennessee Tax Guide</unitdate>
+          <unitdate normal="2002"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Reform</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Status Quo Sales tax Consumer Bundle, Sunquist '99 TFT</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Who Pays?</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rochelle Calculations</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rochelle</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sundquist 2001</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Head</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Status Quo Taxes</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Old Sundquist</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sundquist 2001</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Recent Research April-May 2004</unittitle>
+          <unitdate>2004-03/2004-05</unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Meeting Notes (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Contacts (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>CES (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sundquist Proposal 1999 (Jen)</unittitle>
+          <unitdate normal="1999"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sundquist Proposal 2001 (Jen)</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TFT Proposal (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Curent Tax System (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rochelle Proposal (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TFT (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>IRS Data (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>ITEP Studies (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Academic Studies on Income Distribution (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SEWSA Presentation (Jen)</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>DV and Housing</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>State Tax 2004-Final Report</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Final Report of the Tennessee Tax Structure Study Commission December 2004</unittitle>
+          <unitdate normal="2004-12"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitdate>2004 Tennessee Tax Guide</unitdate>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>State Tax 2004 Contract</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>State Tax</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Structure Study Commission</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>CES</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>To files in WS</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Car Loans</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Thornton, Michael and Shelley White-Means. 2000. "race versus Ethnic Heritage in Models of Family Economic Decisions."</unittitle>
+          <unitdate normal="2000"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Hrung, Warren. 2001. "The Civil Rights Act of 1964 and Black Consumption/Savings Behavior."</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fan, Jessie and Virginia S. Zuiker. 1998. "A Comparison of Household Budget Allocation Patterns between Hispanic Americans and Non-Hispanic White Americans."</unittitle>
+          <unitdate normal="1998"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Kivett, Vira and Frankie Schwenk. 1994. "the Consumer Expenditures of Elderly Women: Racial, Marital, and Rural/Urban Impacts."</unittitle>
+          <unitdate normal="1994"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Cohen, Philip. 1998. "Replacing Housework in the Service Economy: Gender, Class, and Race-Ethnicity in Service Spending."</unittitle>
+          <unitdate normal="1998"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Circarelli, James. 1974. "On Income, Race, and Consumer Behavior." The American Journal of Economics and Sociology 33(3)."</unittitle>
+          <unitdate normal="1974"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Brayfield, April and Sandra Hofferth. 1995. "Balancing the Family Budget: Differences in Child Care Expenditures by Race, Ethnicity, Economic Status, and Family Structure"</unittitle>
+          <unitdate normal="1995"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tax Reform Memo</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>501c3 + Tax Exempt Ltr</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>AAUW Progress in Equity 2004</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Allegra FootPRINT fund</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Grant Application-Community FDTN of Middle TN</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>FRIST</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>MS.</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ford Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Grants to look into</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Grants</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Harnisch</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Humanities TN 2005</unittitle>
+          <unitdate normal="2005"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Grant Application Nashville Women's Breakfast Club 2002</unittitle>
+          <unitdate normal="2002"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SLOMAN</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Humanities Tennessee 2004</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Immigrant ♀ Grant</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Junior League Grant Keystone Grant 2004</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Community Giving</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Faculty Development Grant 2005 Vanderbilt Internal</unittitle>
+          <unitdate normal="2005"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Foundation Lists</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Potential Grants</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>AETNA</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Annie E. Casey Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Appalachian Community Fund</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>ASTRAEA Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>ATT</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Avon</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ben + Jerry's</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carnegie</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Community Foundation of Greater Memphis</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Community Foundation of Middle Tennessee</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Educational Foundation of America</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fund for Southern Communities</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Funding Exchange</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Global Fund for ♀ (Not Relevant to W-SPARC)</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>HCA Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Hope VI Grants (VIPPS)</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Levi Strauss Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Macarthur Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Moriah Fund</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>MS Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The New York Community TRUST</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Open Society Foundation Institute</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>David and Lucille Packand FDN</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ottinger Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Plough Foudnation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Public Welfare FDN</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rockefeller Foundation</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Alfred P. Sloan</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Surdna</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Thre Guineas Fund</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Women's Foundation of Greater Memphis</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Valentine Foundation</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Incoming Gifts to process</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Contribution List Reports W-SPARC</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Contribution List Reports Women's Studies</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Process Gifts July 2004-June 2005</unittitle>
+          <unitdate normal="2004/2005" type="inclusive"></unitdate>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Processed Gifts</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Donors</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Donor Thank You's</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Door Thank You's -Done-</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Thank You Samples</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Direct Mail Lists</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Newsletter</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bank Draft</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fundraising Event</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tablehosts</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Black Sororities + Banks (Funding Leads)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Cable List</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Donations</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fundraising Newsletter- Mal Warwick</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Memphis Info</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Philanthropy Newsletter</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Potential Major Donor</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fundraising Thousand Sparcs</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>WSPARC Fundraising</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Marketing Concept 2002</unittitle>
+          <unitdate normal="2002"></unitdate>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fundraising</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W-SPARC Fundraising Letter</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fundraising Info</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Board</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Fundraising Sample</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>LK + JH VU front + back</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Membership Examples</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Backpages (X-TRA)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Diane Sasson</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Pat Round 2</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>WIN Major Donors</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>WIN Back Pgs</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Kacky's Party</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Kacky's RSVP'S</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Lists</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Research Grants</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Kacky's Party</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
