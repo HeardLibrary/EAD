@@ -1,0 +1,4291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Carlton, David L. Papers</titleproper>
+        <titleproper>Finding Aid for the David L. Carlton Papers</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>David L. Carlton Papers</unittitle>
+      <unitid>MSS.0943</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">22.5 linear_feet</extent>
+      </physdesc>
+      <unitdate normal="1970/2018" type="inclusive">circa 1970s-2010s</unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="file">
+        <did>
+          <unittitle>History 278a-Syllabus, etc.</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"History of Appalachia" History 278</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278-Transparencies</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 291/Econ 245-History of American Enterprise</unittitle>
+          <unitdate normal="2008"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 294</unittitle>
+          <unitdate normal="1992"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 295-Syllabus, etc.</unittitle>
+          <unitdate normal="1983"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 295</unittitle>
+          <unitdate normal="2002"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 297-Senior Honors Seminar</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 300</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 378a</unittitle>
+          <unitdate normal="1984"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 378a</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 378b</unittitle>
+          <unitdate normal="1985"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History Department Enrollments</unittitle>
+          <unitdate normal="1970/1979" type="inclusive"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern History Collection Consulting Committee</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Serial Recommendation Forms</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Media Fellowship on Southern Culture-VV</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>James Agee Film Project</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>John Adler-Harper's Weekly Project</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Bibliographer Search</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Exceptions Funding</unittitle>
+          <unitdate normal="1998"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Exceptions Funding</unittitle>
+          <unitdate normal="1997"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Committee</unittitle>
+          <unitdate normal="1995/1996" type="inclusive"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Department Lectures Committee</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Qualifying Exams-Drafts + Copies</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Students-General</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Programs-Misc. Corresp.</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History Graduate Reading List (Top Forty)</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Placement</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>PBK Triennial, Chicago</unittitle>
+          <unitdate normal="1997"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU History Department-External Review</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Survey Reform Committee</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History Department Retreat</unittitle>
+          <unitdate normal="1999"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Igarash: Revieew Meeting-Minutes</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Don Doyle Promotion Committee</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Exceptions Committee</unittitle>
+          <unitdate normal="1995/1996" type="inclusive"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Beth Rose-Revieew</unittitle>
+          <unitdate normal="1995/1996" type="inclusive"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU History Department-Senior Search</unittitle>
+          <unitdate normal="1999/2000" type="inclusive"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Junior US Search</unittitle>
+          <unitdate normal="1999/2000" type="inclusive"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>US Womens History Search</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>US Diplomatic Search</unittitle>
+          <unitdate normal="1989/1991" type="inclusive"></unitdate>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Undergraduate Studies + Honors Committee</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Southern Studies Program-W Ferris</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Social Sciences Subcommittee, CPC</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>RPW Fellows Program</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Phi Beta Kappa Nominating Committee</unittitle>
+          <container type="box">1</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate School Admissions &amp; Financial Aid</unittitle>
+          <unitdate normal="2007"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Admissions</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Program in History</unittitle>
+          <unitdate normal="2004/2005" type="inclusive"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>US Search (2)</unittitle>
+          <unitdate normal="2000/2001" type="inclusive"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Omnibus US Search</unittitle>
+          <unitdate normal="2003"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VUCept</unittitle>
+          <unitdate normal="1993-05"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Seminar Workshop</unittitle>
+          <unitdate normal="1993-08"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Writing Workshop</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Studies 201-Lecture Notes</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278-Lecture Notes</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 171b-Stuff (Misc.)</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278a+b-Term Paper Guidelines</unittitle>
+          <unitdate normal="2007"></unitdate>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 200</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Studies Syllabi</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 295-(illegible) Recons.-Syllabus</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 273-Tests</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 273-Syllabus</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 191</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 115w-Syllabus</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 171-Syllabus</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278b-Lecture Notes</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278b-Handouts</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278b-Tests</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278a-Tests</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 278a-Handouts</unittitle>
+          <container type="box">2</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>George B. Tindall</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Edgar T. Thompson</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>George D. Terry</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Eugene TeSelle</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tom E. Terrill</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Richard Sylla</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Stephen W. Taylor</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Scott Strickland</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Allen H. Stokes</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Richard Stockel</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Manisha Sinka</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>George Sims</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Anastasia Sims</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bryant Simon</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Donald R. Shriver</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Michael Shirley-Tenure Review</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Michael Shirley</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sam Shannon</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jack Roper</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>James L. Roark</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Roger L. Ransom</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Joseph Pratt</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Larwrence N. Powell</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>William H. Phillips</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Elizabeth Perry</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Martin L. Oliff</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Michael O'Brien</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Robert J. Norrell</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dale Newman-Papers + Evaluation</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Joe Mount</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>David Moltke-Hansen</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Randall Miller</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>William Moss</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sam McSeverey</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Robert C. McMath</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Terry McIntosh</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Cathy L. McHugh</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Peyton McCrary</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Kenneth Lipotito (Robert Gallman)</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jan Lewis</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Cliff Kuhn</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mark Kruman</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Michael Kohl (Clemson)</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rachel Klein</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Richard H. King</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Robin D. G. Kelley</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Charles Joyner</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Michael P. Johnson</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dale Johnson</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>James A. Hodges</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>J. Leo'n Helguera</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Hugh H. Hawkins</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Gordon Harvey</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Joel Harrington</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jacqueline Hall</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Steve Hahn</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Larry J. Griffin</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dewey Wesley Grantham Memorial</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Hugh D. Graham</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Eugene D. Genovese</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Eugene Genovese</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Gary R. Freeze</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Paul Freedman</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Betsey Fox-Genovese</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jimmie L. Franklin</unittitle>
+          <container type="box">3</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Student Letters</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Letters of Reference</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Advisees</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Letters of Reference</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">4</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Reserve Room Requisitions</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>MLK Series</unittitle>
+          <unitdate normal="1997"></unitdate>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Colonial Dames Award</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economic History Association</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Wm. Clements Center for SW Studies</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU University Library Committee</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Country Music Hall of Fame Internship</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Religious Affaairs Committee</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>David Harmon (AL Public TV)</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Millenial Gathering of Writers of the New South</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"The American South + the American Manufacturing Belt"</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Subcommittee on History + Culture</unittitle>
+          <unitdate normal="1999/2000" type="inclusive"></unitdate>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Teaching Company</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"The Problem With Outsourcing"</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History and Culture</unittitle>
+          <unitdate normal="2004/2005" type="inclusive"></unitdate>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>MLK Committee</unittitle>
+          <unitdate normal="2000/2001" type="inclusive"></unitdate>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Festival of Books</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Me In The News</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Appalachia Talk-Alternative Spring Break</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economics + History-Learning Outcomes Assessment</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Psychological + Counseling Center</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Teaching American History-ETSU</unittitle>
+          <unitdate normal="2007"></unitdate>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Alternative Spring Break</unittitle>
+          <unitdate normal="2000"></unitdate>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Henry M. Littlefield "The Wizard of Oz" Parable on Populism"</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>F.J. Tuner, "The Significance of the Frontier in American History"</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vivien G. Fyrd, Art +Empire, Ch. 5</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ron Eller-"Appalachian History" Notes</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 171a-Transparencies</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 171a-Lectures</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 171b-Lecture Notes</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 277-Transparencies</unittitle>
+          <container type="box">5</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>ΦBK Executive Council</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>MLK-Garrow Talk</unittitle>
+          <unitdate normal="1990"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History + Culture Subcommittee</unittitle>
+          <unitdate normal="1998"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History + Culture Subcommittee</unittitle>
+          <unitdate normal="1997/1998" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History + Culture Subcommittee</unittitle>
+          <unitdate normal="1996/1997" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History + Culture Subcommittee</unittitle>
+          <unitdate normal="1993/1994" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History + Culture Subcommittee</unittitle>
+          <unitdate normal="1992/1993" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History + Culture Subcommittee</unittitle>
+          <unitdate normal="1991/1992" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History + Culture Subcommittee, CPC</unittitle>
+          <unitdate normal="1989/1990" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Studies Search Committee</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Studies Search Committee</unittitle>
+          <unitdate normal="1992/1993" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University Research Council</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Commencement</unittitle>
+          <unitdate normal="1996"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Action Research</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>College of A+S-Curriculum Committee</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Computer Purchase Plan</unittitle>
+          <unitdate normal="1995"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Arts + Science Memos</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt University</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VIPPS</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>URC-Social/Science Sucommittee</unittitle>
+          <unitdate normal="1990"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sponsored Research</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Residential Programs</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU-Policies</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt News - Public Affairs</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>MLK Series</unittitle>
+          <unitdate normal="1992/1993" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>James D. Anderson (MLK Lecture)</unittitle>
+          <unitdate normal="1992"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Learning Resource Center</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Faculty Delegate Assembly</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Elder Hostel (Silvine Hudson)</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Leave Application</unittitle>
+          <unitdate normal="2002/2003" type="inclusive"></unitdate>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>E. Gordon Gee</unittitle>
+          <container type="box">6</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>S.H.A.-New Orleans</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SHA Program Committee</unittitle>
+          <unitdate normal="2001"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Historical Association-1997 Meeting</unittitle>
+          <unitdate normal="1997"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Historical Association Meeting, Forth Worth</unittitle>
+          <unitdate normal="1999"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>S.H.A.-Ft. Worth [see also Buenger file]</unittitle>
+          <unitdate normal="1991"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Historical Association Meeting-New Orleans</unittitle>
+          <unitdate normal="1989"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>S.H.A. Meeting-Houston</unittitle>
+          <unitdate normal="1985-11">November 1985</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Colonial Economy"</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Historical Association</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Festival of Books</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Spuithern Association of Women Historians</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>South Carolina Encyclopedia</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Sons of Confederate Veterans</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SHOT Meeting, Atlanta</unittitle>
+          <unitdate normal="2003-10">Oct. 2003</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Watson-Brown Foundation</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society - Meeting</unittitle>
+          <unitdate normal="2007"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society - Meeting</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society</unittitle>
+          <unitdate normal="2002-06">June 2002</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society-Brooks Forum</unittitle>
+          <unitdate normal="2000"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society</unittitle>
+          <unitdate normal="2000"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society - Meeting</unittitle>
+          <unitdate normal="1999"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society - Dissertation Session - Meeting</unittitle>
+          <unitdate normal="1998"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society Dissertation Session, 1997 Meeting</unittitle>
+          <unitdate normal="1997"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society-Dissertation Session, 1996 Meeting</unittitle>
+          <unitdate normal="1996"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Soc.-Diss. Session</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Southern Textiles in Global Context"-SIP</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SIP 2003-Nashville</unittitle>
+          <unitdate normal="2003"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Industrialization Project-St. Louis</unittitle>
+          <unitdate normal="2002-05">May 2002</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Economic History Conference</unittitle>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SHEAR Meeting</unittitle>
+          <unitdate normal="1996-07-18/1996-07-21">July 18-21, 1996</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Social Science History Association</unittitle>
+          <unitdate normal="2008-11">Nov 2008</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SSHA-Portland, OR</unittitle>
+          <unitdate normal="2005-11">Nov. 2005</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SSHA-2002 Meeting</unittitle>
+          <unitdate normal="2002"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Social Science History Association</unittitle>
+          <unitdate normal="2002-10">Oct. 2002</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Social Science History Association Meeting</unittitle>
+          <unitdate normal="2000"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Social Science History Association, 1995 Meeting</unittitle>
+          <unitdate normal="1995"></unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Social Science History Association</unittitle>
+          <unitdate normal="1988-11">Nov 1988</unitdate>
+          <container type="box">7</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Interfolio</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rowena Olegario-Tenure</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>A+S Faculty Council</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Curriculular Reform</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 200-Syllabi</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Program of Graduate Study</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Admissions</unittitle>
+          <unitdate normal="2006"></unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Program-Grants</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Admissions</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SACS Self-Assessment Summer 2008 (History, Economics + History)</unittitle>
+          <unitdate normal="2008"></unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Undergraduate History Major</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Graduate Preliminary Exams</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt-Graduate Correspondence</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economics + History Major</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 294-Syllabus</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>AMST 311-Intro to Southern Studies</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU History Department-Minutes</unittitle>
+          <unitdate normal="1994/1995" type="inclusive"></unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Secondary Appointments Committee</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History Department Planning</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt History Department -Memos</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tenure + Promotion Guidelines</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Af.Am Search</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Promotion + Tenure Guidelines</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Faculty Senate</unittitle>
+          <unitdate normal="2011/2012" type="inclusive"></unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Nashville Battlefield Monuments</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Museum of the New South, Charlotte</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Center for the Study of the American South</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Cultures</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Historians of the American South</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SIHC</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Curriculum Vitae</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Committee 1986-87-History Herwwig (Chair), Wcislo,Eakin,Carlton</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Committee</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Committee</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library Reservations Committee</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Computing</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History Webpages</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>H-Net</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jupiter Entertainment-History of Textile Industry</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Studies Committee</unittitle>
+          <unitdate normal="1997"></unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Summers/Pascoe/McKinley Proposal</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton Capital Mobilization...</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton The Revolution From Above...</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton The "Colonial Economy" and the Postellum South: A Reappraisal</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton The State and the Worker in the South: A Lesson From South Carolina</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Other Publications</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Reviews of Mill and Town</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VII. Teaching Materials Carlton</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Publishers' Notes, Readers' Reports, Ford Acknowl.</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton Chapter 3-Strategies of Development</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton Unbalanced Growth.</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Woodward, "W.V. Cash" (NPR Version)</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Steven Watts, "The Industry of American Studies"</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Thomas L. Stokes "Carpetbaggers of Industry"</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Partisan Interview with Kenneth Cribb</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Thedo Skocol, "What Tocqueville Missed"</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Economics Development-Clippings</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Roger Rosenblalt on Tobacco Execs. NYT Mag</unittitle>
+          <unitdate normal="1994-03-20">March 20, 1994</unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rodgers, "Tradition, Modernity + the American Industrial Worker"</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>V.M.W.-Pittston Strike</unittitle>
+          <unitdate normal="1989"></unitdate>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Paul Pickrell, "Vanity Fair in America: The House of Mirth + GWTU</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Humanities Center-"The Future of the South"</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Thomas Nost, "Christmas Eve"</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Honea Path Memorial-Dedication</unittitle>
+          <container type="box">8</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Conference on the Writing of Regional History in the South</unittitle>
+          <unitdate normal="1956-02-15"></unitdate>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt History 115w: What is a Southerner</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt History 295: From Old South to New</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt History 295: From Old South to New</unittitle>
+          <container type="box">9</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Edward L. Ayers</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Lewis Baldwin</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bess Beatty Promotion Review</unittitle>
+          <unitdate normal="1997"></unitdate>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Lewis Bellardo</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Barbara Bellows</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bill bemberger</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bess Beatty</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Michael Bess</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Merle Black</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Howard Boorman</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Shearer Davis Bowman</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Peter Brush</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Walter L. Buenger</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vernon Burton-Urbana, Ill.</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Burton-McMath Project</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bill Caferro</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Milton Camtor</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Joyce Chaplin</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>James C. Cobb</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Peter Coclanis</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Coclania-II</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mike Crawford</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Charles Delzell</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W. Calvin Dickinson (TN Tech)</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Susaan Donaldson</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tom Downey</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Don H. Doyle</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Don H. Doyle</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Marshall Eakin</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Laura Edwards</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Stanley Engerman</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>William Erwin</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Adam Fairclough</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Drew Faust</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Devin Fergus</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Low Ferleger</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Barbara Fields</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Leon Fink</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Lacy K. Ford</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ford-II</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ford-III</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Roy Arsenault</unittitle>
+          <container type="box">10</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter 1-1st Draft zerox, w revisions</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter 2-1st Draft w revision</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter VI (Revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter IV (Revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter V (Revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Degree Petition, etc.</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Mill + Town"-1st draft MSSS</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chesnut Diary Project</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>W.V.Snyder, "The Cotton Mill Problem"</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>R. Wright Spears-Bibliography</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Greenville Club Rolls</unittitle>
+          <unitdate normal="1994"></unitdate>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Labor Studies Association</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>S.C. Council on Human Relations-Labor Items</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>McMath, "Durkheim, Marx, + Dixie"</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Labor History-Bibliog.</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Endowment for thhe Humanities</unittitle>
+          <unitdate normal="1978"></unitdate>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Prospectus</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Abstract-Title Page</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Essay on Sources (Revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter 3-1st draft, w comments by CVW</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter 4-1st draft copy with revisions</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>1st Draft-Ch.5-copy</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter III-Notes + Draft</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter IV -Notes + Draft (Revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Introduction (revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter 1 (Revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter 2 (revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Front matter</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mill and Town - Maps</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mill + Town - Permissions</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dedication - Acknowledgements</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dissertation - Copyright</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Essay on Sources</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dissertation-Evaluation</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Mill + Town": In-Progress Summary</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Prospectus (Mill + Town)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Essay on Sources-Draft (Revised)</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Introduction (Revised) Notes + Draft</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter One (Revised)-Notes + Draft</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter Two (Revised)-Notes + Draft</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter V (Revised)-Notes + Draft</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Chapter VI (Revised)-Notes + Draft</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Appendix</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bedford/St.Martins</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bedford/St.Martins</unittitle>
+          <container type="box">11</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Louis M. Kyriakoudes</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Frank R. Freemon</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tom Franzmann</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">12</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economic History Association - 1998 Meeting Program Committee</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economic History Association</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Economic + Business Historical Society</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Cooleemee</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Unbalanced Growth" Paper</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Citadel Conference</unittitle>
+          <unitdate normal="1985-04">April 1985</unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Citadel Conference</unittitle>
+          <unitdate normal="1981-04">April 1981</unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Builders of a New State" Paper (Conference Version)</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Citadel Conference Paper - Notes + Draft</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Citadel Conference - April 1979 Correspondence</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Coastal Conference</unittitle>
+          <unitdate normal="1983-03">March 1983</unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Business History Conference - Chapel Hill, NC</unittitle>
+          <unitdate normal="1999">March 1999</unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Business History Conference</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Appalachian Studies Assoc - 2003 Meeting</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Socioety of Church History</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>AHA 2003 - Chicago</unittitle>
+          <unitdate normal="2003"></unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>AHA 2000 - Boston</unittitle>
+          <unitdate normal="2000"></unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>A.H.A. Sesssion, 1980 - Correspondence</unittitle>
+          <unitdate normal="1980"></unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Alfred D. Chandler Lecture</unittitle>
+          <unitdate normal="2001">April 2001</unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Univ. of S.C. - Evening Course</unittitle>
+          <unitdate normal="1983"></unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University Of Alabama - Summersell Chair</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>GA Tech</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"New Perspectives" Conference, Auburn</unittitle>
+          <unitdate normal="1992">May 1992</unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Philosophical Society</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American National Biography</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>A.H.A. - Guide to Historical Literature</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>ACLS</unittitle>
+          <unitdate normal="1990/1991" type="inclusive"></unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Council of Learned Societies</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Reinventing Older Communities" Conference-Philadelphia</unittitle>
+          <unitdate normal="2012-05-09/2012-05-11">May 9-11, 2012</unitdate>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Misc. Publishers</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Vanderbilt Undersity Press</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Twayne Publications</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The South, the Nation, + the World - Permissions File</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>William L. Nelson Cartographics (Maps for S/N/W)</unittitle>
+          <container type="box">13</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Peter Wallenstein</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Altina Walker</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jonathan M. Wiener</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mary Wingerd</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Donald L. Winters</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Woodword Correspondence</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Annette Cox</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Annette Cox Wright</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Gavin Wright</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bertom Wyatt-Brown</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Yale Loans-FISL Short-term</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Yale Placement Service</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Yale Placement Service-Forms</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Yale Correspondence</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jeffrey Young</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Misc. Correspondence</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Inquiries</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Reggie Abbott</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Madeline Bell</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Marty Bell</unittitle>
+          <container type="box">14</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>E.H.A. Meetin, Nashville</unittitle>
+          <unitdate normal="2003"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Guggenheim Foundation</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Guggenheim Foundation</unittitle>
+          <unitdate normal="1994/1995" type="inclusive"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Historical Society</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Historical Society</unittitle>
+          <unitdate normal="1999-05">May 1999</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Historical Society</unittitle>
+          <unitdate normal="2000-06">June 2000</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>GA/fl Region, Historical Society-Woodward Conference</unittitle>
+          <unitdate normal="2000-10-06">Oct. 6, 2000</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Historical Society-Pauline Maier Prize</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Historical Society Meeting 2004-Boothbay Harbor, ME</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Institute for Southern Studies</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>International Business History Conference-Glasgow</unittitle>
+          <unitdate normal="1997-07-04/1997-07-06">4-6 July 1997</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Memory" Conference</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mill Village Visions Summit</unittitle>
+          <unitdate normal="2006-04">April 2006</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Endowment for the Humanities</unittitle>
+          <unitdate normal="1979"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Endowment for the Humanities</unittitle>
+          <unitdate normal="1986"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Endowment for the Humanities</unittitle>
+          <unitdate normal="1990"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>NEH Travel Grant</unittitle>
+          <unitdate normal="1991"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>NEH-SCDAH Grant Review</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>N.E.H.-S.C.H.S. Review</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>NEH Travel Grant</unittitle>
+          <unitdate normal="1991"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>NEH</unittitle>
+          <unitdate normal="1994/1995" type="inclusive"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Humanities Center</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Humanities Center</unittitle>
+          <unitdate normal="1990/1991" type="inclusive"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Humanities Center-Weekly Bulletins</unittitle>
+          <unitdate normal="1994/1995" type="inclusive"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>NINCH Building Blocks Conference</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>National Humanities Center</unittitle>
+          <unitdate normal="1994/1995" type="inclusive"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>O.A.H. Meeting-Philadelphia</unittitle>
+          <unitdate normal="1987-04">April 1987</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>O.A.H. Meeting</unittitle>
+          <unitdate normal="1992"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Organization of American Historians-2000 Meeting</unittitle>
+          <unitdate normal="2000"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>O.A.H.-San Jones</unittitle>
+          <unitdate normal="2005"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Our Past Before Us" Conference-Clemson + Furman</unittitle>
+          <unitdate normal="2007-03">March 2007</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Post-Plantation South" Seminar</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>George C. Rogers Conference</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>O.A.H.-2004 Meeting</unittitle>
+          <unitdate normal="2004"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Reynolds Conference</unittitle>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society Meeting, Atlanta</unittitle>
+          <unitdate normal="1992-08">August 1992</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society</unittitle>
+          <unitdate normal="1993"></unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. George Tucker Society-Annual Meeting</unittitle>
+          <unitdate normal="1994-06">June 1994</unitdate>
+          <container type="box">15</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>John D. Roy-zerox order</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Stewart -Gullah Project - Sept. 77</unittitle>
+          <unitdate normal="1977"></unitdate>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>V.S.C.-Memos</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Burroughs + Collins Archives</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Course Evaluations</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TTU-Memos</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TTU Faculty Senate</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 201G-Syllabus</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 201N-Syllabus</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>USC-CCC Faculty Manual</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 202-Syllabus</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>TTU History Department Memos</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 232-Tests</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 202-Tests</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 231-Enrollment</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 231-Syllabus</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 232-Syllabus</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 232-Enrollment</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 201-Tests</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 231-Tests</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>History 232-16 David Carlton</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>David Carlton History 231-22</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>David Carlton History 232-21</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>David Carlton History 231-19</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton History 232-17 Fall</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carlton History 232-14 Fall</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mr. Carlton History 231-42 Fall</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mr. Carlton History 231-39 Fall</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>David Lee Carlton</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Job Letters</unittitle>
+          <unitdate normal="1977/1978" type="inclusive"></unitdate>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Job Letters</unittitle>
+          <unitdate normal="1978/1979" type="inclusive"></unitdate>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Job Letters</unittitle>
+          <unitdate normal="1979/1980" type="inclusive"></unitdate>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Job Letters</unittitle>
+          <unitdate normal="1980/1981" type="inclusive"></unitdate>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Job Letters</unittitle>
+          <unitdate normal="1981/1982" type="inclusive"></unitdate>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Job Letters</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Franklin Institute</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>College of Charlston</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>St. Andrews Presbyterion College</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Historical Collection</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Winthrop College</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Texas Tech University</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>U.S.C.-Coastal Carolina College</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University of South Alabama</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Jobs-Information</unittitle>
+          <container type="box">16</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Baker Library (Florence Bartoshesky Lathrop)</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Duke University Library</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Library of Congress</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>S.C. Dept. of Archives + history</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>South Caroliniana Library</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Baptist Historical Library + Archives</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Alabama Review</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>American Historical Review</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Annals of Iowa</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Business History Review</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Canadian Review of American Studies</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Challenge</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Civil War History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Enterprise and Society</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Georgia Historical Quarterly</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>The Historian</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Industrial + Labor Relations Review</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Journal of American History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>JAH-"Revolution From Above" Correspondence</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Journal of Economic History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Journal of Interdisciplinary History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Journal of S.W. Georgia History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Journal of Urban History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Labor History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>North Carolina Historical Review</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Social Forces</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>FRB of Richmon - Region Focus</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Reviews in American History</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>South Carolina Historical Magazine</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Communities</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Cultures</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"To The Land"</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Unlabeled</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Misc. Journals</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Addision Wesley Longman</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Bedford Book/St. Martins Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Blackwell's</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Cambridge University Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>D.C. Heath + Co</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Encyclopedia of the Confederacy</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Alfred A. Knopf, Inc.</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>LSU Press</unittitle>
+          <unitdate normal="1979/1981" type="inclusive"></unitdate>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>LSU Press</unittitle>
+          <unitdate normal="1982"></unitdate>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>LSU Press</unittitle>
+          <unitdate normal="1983"></unitdate>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>McGraw-Hill, Inc.</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Mississippi Quarterly</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University of Missouri Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Oxford University Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Prentice-Hall, Inc.</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Rutgers Unviersity Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University Press of Florida</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University of Georgia Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Global Perspectives" Volume University of Missouri Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>UNC Press-Chapel Hill</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University of South Carolina Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University of Tennessee Press</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Univ. Press of Virginia</unittitle>
+          <container type="box">17</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SHA 2004-Memphis</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Report Session Proposal-SHA '95</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SIP-SHA Session</unittitle>
+          <unitdate normal="2007"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SIHC</unittitle>
+          <unitdate normal="1992"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SHA 2011-Baltimore</unittitle>
+          <unitdate normal="2011"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>SIHC</unittitle>
+          <unitdate normal="2002-02">February 2002</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Labor Studies Conference</unittitle>
+          <unitdate normal="1991"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Labor Studies Conference</unittitle>
+          <unitdate normal="1999"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Oral History Program</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Regional Council</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Regional Education Board</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Woodrow Wildon Center</unittitle>
+          <unitdate normal="1994/1995" type="inclusive"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Southern Sociological Society</unittitle>
+          <unitdate normal="1998-04">April 1998</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennesse Arts Commission</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennessee Conference of Historians</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tennessee Conference of Historians</unittitle>
+          <unitdate normal="1995/1996" type="inclusive">1995, 1996</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Triangle Economics History Workshop</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>University South Caroliniana Society</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>VU Economics Policy Workshops-David Wildasin</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Letters to the Editor</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Resume'</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tenure</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Leave of Absence</unittitle>
+          <unitdate normal="1991">Spring 1991</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Leave of Absence</unittitle>
+          <unitdate normal="1994/1995" type="inclusive"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Leave of Absence</unittitle>
+          <unitdate normal="1999">Spring 1999</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Z-Star EX</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Horry Telephone Group</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Amherst Reunion Talk</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Anderson paper (AHA)-Draft</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>E.H. Beardsley-Spring Symposium</unittitle>
+          <unitdate normal="1983"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Builders" Paper (Extended Version) Notes + Draft</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Builders of a New State" Paper (Expanded version)</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Old South to New-Correspondence</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Commercial Expositions"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Companion to Southern Literature</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Consortium on 1934 Strike</unittitle>
+          <unitdate normal="1934"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dictionary of Literary Biography</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Merle Curtis-DLB</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Reinhold Niebuhr"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Dictionary of N.C. Biography</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Encyclopedia of American Studies</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Encyclopedia of Slavery</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Encyclopedia of Social History</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Encyclopedia of Southern Culture</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Kreyling Lecturre-"Agrarians"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"New South" Talk for Doyle's Seminar</unittitle>
+          <unitdate normal="1993-07">July 1993</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Woodrow Wildon Center</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>N+O Interview re "Civil War"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Pedmont + Vaccomaw Regions"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Media Fellowship Talk</unittitle>
+          <unitdate normal="1999-07">July 1999</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Reunion Program</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Talk Radio</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Revolution from Above-Notes</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"The South As An American Problem"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"The State + the Worker in the South"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>NARS</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Strategies" Talk-UNC</unittitle>
+          <unitdate normal="1996-03-07">March 7, 1996</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>USC-Summer Institute for Secondary School Teachers</unittitle>
+          <unitdate normal="1991-07">July 1991</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Unions + Politics in the Cotton Mills: A Critique"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>1992 Election</unittitle>
+          <unitdate normal="1992"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>"Blank Protest + Gender" [JAH MS]</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Wm E. Coshin on Student Ratings</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Confederate Flag Issue</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Carl Degler, "The Two Culture + the Civil War" (1970)</unittitle>
+          <unitdate normal="1970"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Benj. DeMolt, "Seven Days in May"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>2 by Dew</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Ron Eller on Henry Caudill</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>FRB of Chicago-Anrticle on Auto Industry + Religion</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Eric Foner, New Intro to "Free Soil, Free Labor, Free Men"</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Gantt-Helms Race</unittitle>
+          <unitdate normal="1990"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>S.H.A. - 2002 Meeting</unittitle>
+          <unitdate normal="2002"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Textile History Consortium</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Tony Horwitz, "A Death for Dixie" New Yorker</unittitle>
+          <unitdate normal="1996-03-18">March 18, 1996</unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Hurricane Hugo</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Lupold,".S.C. Progressives."-Tables</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>MDC, Inc.-"The State of the South"</unittitle>
+          <unitdate normal="1996"></unitdate>
+          <container type="box">18</container>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>James H. Merrel, "The Indians' New World" WMQ</unittitle>
+          <container type="box">18</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
