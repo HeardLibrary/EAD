@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US"></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Buber</titleproper>
+        <titleproper>Finding Aid for the glatzer buber</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Manuscripts and Rare Books</publisher>
+        <address>
+          <addressline>419 21st Avenue South</addressline>
+          <addressline>Nashville, TN 37203-2427</addressline>
+          <addressline>specialcollections@vanderbilt.edu</addressline>
+          <addressline>URL:
+            <extptr xlink:href="http://www.library.vanderbilt.edu/speccol/" xlink:show="new" xlink:title="http://www.library.vanderbilt.edu/speccol/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Special Collections Manuscripts and Rare Books</corpname>
+      </repository>
+      <unittitle>Buber Collection</unittitle>
+      <unitid>MSS.0000b</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">.01 linear_feet</extent>
+      </physdesc>
+      <unitdate>multiple</unitdate>
+    </did>
+    <dsc type="othertype">
+      <c01 level="series">
+        <did>
+          <unittitle>I. Manuscripts</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>A. Tales of the Hasidim (Die Erzählungen der Chassidim)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>“Reihenfolge des I Bandes” (Outline for vol I) (manuscript, p. 1)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Anordnung in Tales II” (25.II.47) (manuscript, pp. 2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Die Nachkommen des grossen Maggids” (selected masters) (manuscript, pp. 26)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Mosche Leib von Sasow” (manuscript, pp. 13)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Abraham Jehoschua Heschel von Apta” (manuscript, pp. 14)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Menachem Mendel von Rymanow” (manuscript, pp. 13)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Uri von Strelisk” (manuscript, pp. 6)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Jehuda Zwi von Stretyn und sein Sohn Abraham von Stretyn” (manuscript, pp. 3)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Menachim Mendel von Kozk” (manuscript, pp. 26)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Mordecai von Lechowitz und seine Nachkommen” (manuscript, pp. 9)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Mosche von Kobryn” (manuscript, pp. 15)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Naftalis von Ropuchitz” (manuscript, script, pp. 5)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Jaakob Jizchak von Psysha (des “Jehudi”) und seine Nachkommen” (manuscript, pp. 14)
+              </unittitle>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Simcha Bunam von Psysha” (File #1 of 2) (manuscript, pp. 1-20)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Simcha Bunam von Psysha” (File #2 of 2) (manuscript, pp. 21-35)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>B. Martin Buber’s Corrections to English Translation</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>“Preface” (manuscript, pp. 2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“End of the Preface” (manuscript, pp. 2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Introduction to Tales II (manuscript, pp. 10)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">18</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, p. 1)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 12)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 7)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp.2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">22</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 3)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 3 and 1 note)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 8 and 1 note)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 5)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 6 and 1 note)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 5 and 1 note)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Selected masters (manuscript, pp. 4)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 4)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 14)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 4)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Final corrections (manuscript, pp. 2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Final corrections (manuscript, p. 1)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Corrections to end notes (manuscript, p. 1)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>C. Glossar (German)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Glossar and NNG additions to Glossar (manuscript, pp. 6)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>D. Glossary and Definition of Terms (English)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Glossary (manuscript, pp. 19)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Glossary (typescript, pp. 16)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Additions to the glossary [(1) manuscript and (2) typescript, pp. 3]</unittitle>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>E. Notes re. Index</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes (manuscript, pp. 2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>F. Notes re. Martin Buber Lectures and Seminars</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>“Der heutige Mensch und die Bibel” (11.12.1928) (manuscript, pp. 17)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Die Prophetie” (winter semester 1929/30) (manuscript, pp. 17)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Der Glaube und die allgemeine. Religionswissenschaft” (1.2.28) (manuscript, pp. 2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Biblische Religion und Religionswissenschaft” (1927-28)(manuscript, pp. 23)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Religiongeschichtliche Übungen” (summer semester 1931) (manuscript, pp. 15 and 1 note page)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Glaube und Bräuche” (winter semester 1930-31) (original manuscript, pp. 26 and copy, typescript, pp. 17), 1 summary (11 February 1931) (typescript, pp. 2), “manuscript (2.18.31) manuscript (2.25.31) (manuscript, pp. 9)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Grundbegriffe der Religionswissenschaft” (winter semester 1931/32) (manuscript, pp. 19)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">47</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Der Erlöser” (summer semester 1932) (manuscript, pp. 7)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Die Idee der Wiedergeburt” (summer semester 1931) (manuscript, pp. 20 and 1 note)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">49</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Messianismus” (winter semester 1924-25) (manuscript, pp. 14)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">50</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Ponte Tresa” (manuscript, pp. 27)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">51</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Vom Übersetzen der Schrift” (winter semester 1928-29) (manuscript, pp. 28)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">52</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Schöpfungsmythen” (winter semester 1925-26) (manuscript, pp. 39)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">53</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Die Formen der Religionen” (pages missing? part of “Gebet”? - Folder #56) (manuscript, pp. 10, 1-6 and 19-22)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">54</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Religion und Philosophie” (24.5.29) (manuscript, pp. 9)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">55</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Gebet” (pages missing? part of “Die Formen der Religionen”? - Folder #54) (manuscript, pp. 8)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">56</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Probleme des Gottesnamens” (winter semester 1926/27) (manuscript, pp. 22)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">57</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Wie ist Religionswissenschaft möglich?” (summer semester 1926) (manuscript, pp. 19)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">58</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Religion als Gegenwart” (8 lectures) May, 1922 (manuscript, pp. 7+)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">59</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Baal-Schem” (summer semester 1923) (manuscript, pp. 5)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">60</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Das Wesen der Religion” (manuscript, pp. 14)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">61</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Etwas über Gotteserzeuge”(Gen 12-50) (Lehrhaus) (manuscript, pp. 6)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">62</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>“Notizen zur Aussprache Buber-Schaff” (Lehrhaus 1926) (manuscript, pp. 11)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">63</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Buber's lectures, Title (?) (Winter semester? 1932/33) (manuscript, pp. 2)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">64</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Buber's lectures? (manuscript, pp. 2, 4 used in article)</unittitle>
+              <container type="box">1</container>
+              <container type="folder">65</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>G. Translations</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Martin Buber? (manuscript, p. 1)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">66</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Martin Buber? (manuscript, pp. 3)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">67</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Martin Buber? (manuscript, pp. 8)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">68</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Martin Buber? (manuscript, pp. 21)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">69</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Martin Buber? (manuscript, pp. 11, 15)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">70</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Martin Buber? (manuscript, pp. 14, 16, 11, 9)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">71</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Martin Buber? (11-13.VI.26) (manuscript, pp. 89)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">72</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>H. Vorwort to “Zion und die nationalen Ideen” (manuscript, pp. 2 sheets, 3 used)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">73</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>I. Poems</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>“Gottes Wirken” (typescript, p. 1), “Mitar- beit des Menschen” (typescript, p. 1) and “Heute!” (typescript, p. 1)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">74</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>J. Miscellaneous</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Miscellaneous items (manuscript and typescript) (pp. 5)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">75</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Miscellaneous items (manuscript and typescript) (pp. 9)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">76</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>II. Correspondence</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>A. Letters from MB to NNG</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>A1-A15 (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">77</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>A16-A25, A27, A29, A30 (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">78</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>A31-A35, A42-A45 (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">79</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>A46-A54 (manuscript and typescript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">80</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#1-#10 (1945-46) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">81</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#11-#20 (1946) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">82</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#21-#30 (1946) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">83</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#31-#40 (1946-47) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">84</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#41-#50 (1947) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">85</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#51-#60 (1947) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">86</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#61-#70 (1947-48) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">87</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#71-#80 (1948) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">88</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#81-#90 (1948) (manuscript and typescript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">89</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#91-#100 (1948) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">90</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#101-#110 (1949) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">91</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#111-#120 (1949-50) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">92</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#121-#130 (1950-51) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">93</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#131-#140 (1951-54) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">94</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>#141-#149 (1956-60) (manuscript and typescript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">95</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>1948 letter and 1 extra sheet of information? (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">96</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>1961 letter: From MB to NNG (typescript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">97</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Letters (1946, 1948) (typescript, includes copies)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">98</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>B. Notes from MB to NNG (manuscript)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">99</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>C. Various letters re. Buber to NNG from various individuals (typescript)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">100</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>D. Various letters re. Buber by NNG (manuscript and typescript)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">101</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>E. Various notes re. Buber by NNG (manuscript)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">102</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>F. Dated information letters re. Buber by NNG (manuscript, copies)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">103</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>G. Letters re. MB from various individuals</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Aubrey Hodes (typescript, photostat)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">104</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Schwarzschild (manuscript, typescript, copy)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">105</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Carol Schoen (typescript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">106</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Leo Baeck</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <unittitle>manuscript (10)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">107</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>File #1 - (manuscript) (9)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">108</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>File #2 - (manuscript and typescript) (9)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">109</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>air mail (manuscript and typescript) (8)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">110</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>
+                Leo Baeck and Ruth Berlak (manuscript and off-print)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">111</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Ruth Pinsky (1.11.1949) (typescript, copies)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">112</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>H. Letters to MB from NNG (9.27.1948 and 12.7.1948) (typescript, copies)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">113</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>I. Correspondence/Schocken Books</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Buber letters (1946) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">114</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Buber letters (1947) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">115</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Buber letters (1950) (manuscript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">116</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>MB and Raphael (letters and notes)</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <unittitle>File #1 (manuscript, typescript, photostats)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">117</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>File #2 (typescript, copies)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">118</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>File #3 (typescript, copies)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">119</container>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>File #4 (typescript, copies)</unittitle>
+                <container type="box">2</container>
+                <container type="folder">120</container>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Letters re. Buber from Eva Jospe and NNG (manuscript, typescript, copies; includes 1 letter to Hanna Gunther from NNG)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">121</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Letters re. Buber (typescript, copies)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">122</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Schocken letters (1946) (typescript, copies)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">123</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>NNG/Schocken letters (1966) (manuscript and typescript)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">124</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>J. Telegrams? (manuscript, typescript, copy)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">125</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>K. Postcards from MB to NNG (manuscript)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">126</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>L. Letter - Dremel Manufacturing Co. (10.21.1949) (manuscript and typescript)</unittitle>
+            <container type="box">2</container>
+            <container type="folder">127</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>III. The Scriptures, German (Die Schrift, verdeutcht von Martin Buber, gemeinsam mit Franz Rosenzweig)</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>A. Isaiah (Jeschajahu)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-7)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">128</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 8-15)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">129</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 16-24)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">130</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 25-35)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">131</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 36-46)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">132</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 47-56)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">133</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 57-64)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">134</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 65-70)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">135</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 71-81)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">136</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 82-88)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">137</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 89-95)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">138</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 96-103)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">139</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>B. Exodus (Namen)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-13)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">140</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 14-21)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">141</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 22-33)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">142</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 34-48)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">143</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 49-60)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">144</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 61-71)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">145</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 72-81)</unittitle>
+              <container type="box">2</container>
+              <container type="folder">146</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>C. Kings (Könige)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-7a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">147</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 8-15)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">148</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 16-23)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">149</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 24-30)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">150</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 31-37)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">151</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 38-45)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">152</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 46-57)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">153</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 58-66)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">154</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 67-73)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">155</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 74-84)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">156</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 85-92)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">157</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 93-101a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">158</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 102-110)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">159</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 111-119)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">160</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 120-125)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">161</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 126-132)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">162</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>D. Leviticus (In der Wüste)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-6a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">163</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 7-12)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">164</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 13-17)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">165</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 18-21)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">166</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>E. Deuteronomy (Reden)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-7)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">167</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 8-13)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">168</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 14-20)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">169</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 21-27)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">170</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 28-36)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">171</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 37-46a and addenda)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">172</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>F. Joshua (Jehoschua)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-7a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">173</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>G. Judges (Richter)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-7)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">174</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 8-14a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">175</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 15-23a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">176</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 24-29)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">177</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 30-39)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">178</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 40-44)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">179</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>H. Samuel (Schmuel)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-7a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">180</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 8-16)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">181</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 17-23a)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">182</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 24-31)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">183</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 32-39)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">184</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 40-45)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">185</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 46-52)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">186</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 53-60)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">187</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 61-70)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">188</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 71-78)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">189</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 79-84)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">190</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 85-92)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">191</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 93-103)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">192</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>I. Numbers (Er rief)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-7)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">193</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 8-15)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">194</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>J. Jeremiah (Jirmejahu)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, pp. 1-3)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">195</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>K. Psalms (Das Buch der Preisungen)</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript and typescript, pp. 1-22) and 1 note (manuscript, p. 1)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">196</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>IV. Miscellaneous</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>A. Nahum N. Glatzer's dissertation “Untersuchungen zur Geschichtslehre der Tannaiten”(typescript, handwritten corrections by Martin Buber) (200 pp.)</unittitle>
+            <container type="box">3</container>
+            <container type="folder">197</container>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>B. Items</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, typescript, telegram and book announcements)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">198</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>(manuscript, typescript and off-prints)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">199</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>C. Envelopes</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>MB to NNG (manuscript and typescript) (20)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">200</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>1 envelope addressed to Dr. Edward Strauss (manuscript)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">201</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Leo Baeck to NNG (manuscript)(6 envelopes)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">202</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>D. Notes</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Lehrhaus or youth center (manuscript, pp. 8)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">203</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Summary of youth center discussion (typescript, pp. 3)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">204</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Summary of Martin Goldner lecture (Oct. 23, 1924) (manuscript, pp. 3)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">205</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Report on Goldner lecture at the Lehrhaus (manuscript, pp. 4)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">206</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes on Bible translation of Romanus Teller (1703-1750) (manuscript, pp. 3)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">207</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes re. FR (manuscript, pp. 4)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">208</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes re. FR’s rabbinical title? (manuscript, pp. 4)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">209</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes re. FR (manuscript, pp. 7)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">210</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes re. FR (Lehrhaus?) (manuscript, pp. 9)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">211</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>MB (manuscript)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">212</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>NNG (Table of Contents?) (typescript, p. 1)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">213</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes for the translation of FR’s Introduction in H. Cohen’s Einleitung in die Jüdische Schriften into Hebrew (manuscript, pp. 28)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">214</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Notes on FR’s essay, Der Ewige (manuscript, pp. 28)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">215</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Biblical Essays (NNG outlines and 1 note) (manuscript, pp. 10)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">216</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Small notes/memos (manuscript)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">217</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>E. Articles</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <unittitle>Financial records (manuscript)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">218</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Gift certificates from Schocken Books to MB</unittitle>
+              <container type="box">3</container>
+              <container type="folder">219</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Editor's postscript to On Judaism NNG (typescript, pp. 8)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">220</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Newspaper clippings: Book announcement and Recognition of MB as honorary professor at the University of Frankfurt</unittitle>
+              <container type="box">3</container>
+              <container type="folder">221</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Correspondence and/or study notes (?) (MB and NNG) (manuscript)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">222</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>MB: Signed offprints (3 sheets, 1 envelope)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">223</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Proofsheet --- “Pharisäertum” in Der Jude (pp. 5)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">224</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Proofsheet --- “Lebensfrömmigkeit” in Der Jude (pp. 2)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">225</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Corrections “On Judaism” (NNG) (manuscript, pp. 3)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">226</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Recept for deposit at local bank</unittitle>
+              <container type="box">3</container>
+              <container type="folder">227</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Offprint material re. Bible translation (includes duplicates)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">228</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Offprint material re. Martin Buber (includes duplicates)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">229</container>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Material re. Martin Buber (manuscript, copies)</unittitle>
+              <container type="box">3</container>
+              <container type="folder">230</container>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
