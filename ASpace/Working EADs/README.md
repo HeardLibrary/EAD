@@ -4,9 +4,6 @@ This document details the EAD finding aids that are unable to be imported into A
 ## FinneyClaude (MSS.0140)
 There is already another Claude Finney collection in ArchivesSpace (MSS.0139). This appears to be a set of documents (now in xml) listing Keats objects held by other institutions. Most of these documents turned out to be photocopies and were deaccessioned. The rest were integrated into MSS.0139. This collection (MSS.0140) no longer exists.
 
-## LawsonJames (MSS.0626)
-This collection is currently in the middle of processing. This finding aid was produced from an early 2017 version of the inventory, but it is still unclear if this is the current structure. Work has been paused on this project until the status can be determined, or until the collection is fully processed.
-
 ## SilbermanLou (MSS.0392)
 This collection is broken into a subject table, article table, and correspondence index. It will need some regexes performed on it but can then be easily added to the existing ArchivesSpace record.
 

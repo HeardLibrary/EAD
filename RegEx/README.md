@@ -159,3 +159,46 @@ Find:
 ```
 <unittitle>(.*?)(?=\.)
 ```
+
+### Converting 6 table spreadsheet to EAD
+Find:
+```
+<row>\s*<cell><data ss:type=".*">(.*)</data></cell>\s*<cell><data ss:type=".*">(.*)</data></cell>\s*<cell><data ss:type=".*">(.*)</data></cell>\s*<cell><data ss:type=".*">(.*)</data></cell>\s*<cell><data ss:type=".*">(.*)</data></cell>\s*<cell><data ss:type=".*">(.*)</data></cell>\s*</row>
+```
+Replace:
+```
+<c02 level="item"><did><unittitle>$1</unittitle><note><p></p><p></p><p></p></note></did><container type="box">$5</container><container type="folder">$6</container></c02>
+```
+
+### Find archival objects without a date and convert to xml 2004.
+Find:
+```
+<c0. id="aspace_(.*)" .*>.*\r?\n.*<did>.*\r?\n.*<unittitle>.*\r?\n\s*(.*).*\r?\n\s*</unittitle>.*\r?\n\s*<container.*type="box">.*\r?\n\s*(\d{1,3}).*\r?\n\s*</container>.*\r?\n\s*<container.*type="folder">.*\r?\n\s*(\d{1,3}).*\r?\n\s*</container>.*\r?\n\s*</did>.*\r?\n\s*</c0.>
+```
+
+Replace:
+```
+<Row>
+    <Cell><Data ss:Type="String">$2</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="Number">$3</Data></Cell>
+    <Cell><Data ss:Type="Number">$4</Data></Cell>
+    <Cell><Data ss:Type="String">$1</Data></Cell>
+   </Row>
+```
+
+### Find archival objects with a date and convert to xml 2004.
+Find:
+```
+<c0. id="aspace_(.*)" .*>.*\r?\n.*<did>.*\r?\n.*<unittitle>.*\r?\n\s*(.*).*\r?\n\s*</unittitle>.*\r?\n.*<unitdate.*>.*\r?\n\s*(.*).*\r?\n\s*</unitdate>.*\r?\n\s*<container.*type="box">.*\r?\n\s*(\d{1,3}).*\r?\n\s*</container>.*\r?\n\s*<container.*type="folder">.*\r?\n\s*(\d{1,3}).*\r?\n\s*</container>.*\r?\n\s*</did>.*\r?\n\s*</c0.>
+```
+
+Replace:
+```
+<Row>
+    <Cell><Data ss:Type="String">$2</Data></Cell>
+    <Cell><Data ss:Type="String">$3</Data></Cell>
+    <Cell><Data ss:Type="Number">$4</Data></Cell>
+    <Cell><Data ss:Type="Number">$5</Data></Cell>
+    <Cell><Data ss:Type="String">$1</Data></Cell>
+   </Row>
+```
